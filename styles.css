@@ -1,0 +1,14 @@
+pre{
+    display: block;
+    font-family: monospace;
+    padding: 0px;
+    margin: 0px;
+    font-size: 13px;
+    line-height: none;
+    color: none;
+    word-break: none;
+    word-wrap: none;
+    background-color: white;
+    border: none;
+    border-radius: 0px;
+}
