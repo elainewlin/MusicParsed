@@ -12,3 +12,20 @@ pre{
     border: none;
     border-radius: 0px;
 }
+/*motion detection css*/
+
+figure {
+    display: inline-block;
+    margin: 10px;
+    vertical-align: top;
+}
+
+figcaption {
+    text-align: left;
+    font-weight: bold;
+}
+
+video, canvas{
+    width: 0px;
+    height: 0px;
+}
