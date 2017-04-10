@@ -1,4 +1,4 @@
-var current = "1";
+var current = 1;
 var lyrics; //lyrics of the next line
 
 $(document).ready(function() {
@@ -6,24 +6,25 @@ $(document).ready(function() {
   // or in a table somewhere? and set lyrics = to that line of lyrics?
 
   var getLyric = function(id) { 
+    id = id.toString();
     return $("#"+id+"> span");
   }
-  lyrics = getLyric(parseInt(current)+1)[0].textContent;
+  lyrics = getLyric(current+1)[0].textContent;
 
   var increment = function(newID) { 
     getLyric(current).css("backgroundColor", "#ffffff");
     current = newID;
-    getLyric(current).css("backgroundColor", "#ffffe5");
-    lyrics = getLyric(parseInt(current)+1)[0].textContent;
+    getLyric(current).css("backgroundColor", "#ffffcc");
+    lyrics = getLyric(current+1)[0].textContent;
   }
 
   $(".line").click(function(e) {
     var id = e.currentTarget.id;
-    increment(id);
+    increment(parseInt(id));
   });
 
   // highlight first line
-  getLyric(current).css("backgroundColor", "#ffffe5");
+  getLyric(current).css("backgroundColor", "#ffffcc");
 
   var final_span = document.getElementById('final_span');
   var interim_span = document.getElementById('interim_span');
@@ -48,9 +49,6 @@ $(document).ready(function() {
         interim_transcript += event.results[i][0].transcript;
     }
    
-    console.log(interim_transcript);
-    console.log(final_transcript);
-    console.log(lyrics);
     final_span.innerHTML = final_transcript;
     interim_span.innerHTML = interim_transcript;
     if (userSaidPhrase(lyrics, final_transcript)) {
@@ -83,18 +81,20 @@ $(document).ready(function() {
 
 // TODO: implement a 'fuzzy' matching of transcript to string
 var userSaidPhrase = function(line, commands) {
-  var line = line.toLowerCase().split(" "); // array of all words in the line
+  var line = line.toLowerCase().trim().split(" "); // array of all words in the line
   var lowerCase = commands.toLowerCase().trim();
-  console.log(line);
 
   var wordsSaid = 0;
-  for(var word in line) {
-    if (lowerCase.includes(word)) { 
+  for(var i in line) {
+    if (lowerCase.includes(line[i])) { 
       wordsSaid += 1;
     }
-  }
+  }  
 
   var cutoff = 2;
-  return (wordsSaid >= cutoff);
 
+  if(wordsSaid >= cutoff) {
+    return true;
+  }
+  return false;
 }
