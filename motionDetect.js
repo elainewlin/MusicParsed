@@ -45,7 +45,7 @@ $(document).ready(function() {
     initSuccessCallback: initSuccess,
     initErrorCallback: initError,
     captureCallback: capture,
-    debug: true // set to true to see video output
+    debug: false // set to true to see video output
   });
 
 });
