@@ -1,7 +1,29 @@
+var current = "1";
+var lyrics; //lyrics of the next line
+
 $(document).ready(function() {
   // TODO: have the lyrics be separated into separate divs of different lines
   // or in a table somewhere? and set lyrics = to that line of lyrics?
-  var lyrics = "please";
+
+  var getLyric = function(id) { 
+    return $("#"+id+"> span");
+  }
+  lyrics = getLyric(parseInt(current)+1)[0].textContent;
+
+  var increment = function(newID) { 
+    getLyric(current).css("backgroundColor", "#ffffff");
+    current = newID;
+    getLyric(current).css("backgroundColor", "#ffffe5");
+    lyrics = getLyric(parseInt(current)+1)[0].textContent;
+  }
+
+  $(".line").click(function(e) {
+    var id = e.currentTarget.id;
+    increment(id);
+  });
+
+  // highlight first line
+  getLyric(current).css("backgroundColor", "#ffffe5");
 
   var final_span = document.getElementById('final_span');
   var interim_span = document.getElementById('interim_span');
@@ -25,11 +47,15 @@ $(document).ready(function() {
       else
         interim_transcript += event.results[i][0].transcript;
     }
-
+   
+    console.log(interim_transcript);
+    console.log(final_transcript);
+    console.log(lyrics);
     final_span.innerHTML = final_transcript;
     interim_span.innerHTML = interim_transcript;
     if (userSaidPhrase(lyrics, final_transcript)) {
       smoothScroll(1);
+      increment(current+1);
       processed_line = true;
     }
 
@@ -56,11 +82,19 @@ $(document).ready(function() {
 });
 
 // TODO: implement a 'fuzzy' matching of transcript to string
-var userSaidPhrase = function(str, commands) {
-  var lowerStr = str.toLowerCase();
+var userSaidPhrase = function(line, commands) {
+  var line = line.toLowerCase().split(" "); // array of all words in the line
   var lowerCase = commands.toLowerCase().trim();
-  if (lowerCase.includes(lowerStr)) {
-    return true;
+  console.log(line);
+
+  var wordsSaid = 0;
+  for(var word in line) {
+    if (lowerCase.includes(word)) { 
+      wordsSaid += 1;
+    }
   }
-  return false;
+
+  var cutoff = 2;
+  return (wordsSaid >= cutoff);
+
 }
