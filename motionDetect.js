@@ -20,16 +20,26 @@ $(document).ready(function() {
     return chords.length;
   }
 
+  var getChords = function(id) { 
+    id = id.toString();
+    return $("#"+id+"> pre");
+  }
+
   function capture(payload) {
     if (payload.hasMotion) {
       // TODO: how to determine discrete motions from continuous input?
       // currently, one chord change == ~ 2 captured 'motions'
       if (nActualTransitions === nExpectedTransitions * 2) {
           // TODO: add @becky's 'when to scroll' logic
-          if (currentLine % 2 === 0) {
+          /*if (currentLine % 2 === 0) {
             smoothScroll(1);
-          }
+          }*/
+          getChords(currentLine).removeClass('current');  // TODO: TEST THIS CODE
           currentLine++;
+
+          // if the current chord div is close to the bottom, this event listener will take care of the scrolling
+          getChords(currentLine)[0].dispatchEvent(currentUpdate);  // TODO: TEST THIS CODE
+
           nExpectedTransitions = getChordLength(currentLine) - 1;
           nActualTransitions = 0;
         } else {
@@ -38,6 +48,8 @@ $(document).ready(function() {
         console.log("counted transitions: ", nActualTransitions, "currentLine: ", currentLine)
     }
   }
+
+  getChords(1).addClass('current');
 
   DiffCamEngine.init({
     pixelDiffThreshold: 40,

@@ -4,6 +4,7 @@ var lyrics; //lyrics of the next line
 $(document).ready(function() {
   // TODO: have the lyrics be separated into separate divs of different lines
   // or in a table somewhere? and set lyrics = to that line of lyrics?
+  var numLyricLines = $('.lyrics').length;
 
   var getLyric = function(id) { 
     id = id.toString();
@@ -11,11 +12,12 @@ $(document).ready(function() {
   }
   lyrics = getLyric(current+1)[0].textContent;
 
-  var increment = function(newID) { 
-    getLyric(current).css("backgroundColor", "#ffffff");
+  var increment = function(newID) {
+    getLyric(current).removeClass('current');
     current = newID;
-    getLyric(current).css("backgroundColor", "#ffffcc");
-    lyrics = getLyric(current+1)[0].textContent;
+    getLyric(current)[0].dispatchEvent(currentUpdate);
+    if ((current + 1) <= numLyricLines)
+      lyrics = getLyric(current+1)[0].textContent;
   }
 
   $(".line").click(function(e) {
@@ -24,7 +26,7 @@ $(document).ready(function() {
   });
 
   // highlight first line
-  getLyric(current).css("backgroundColor", "#ffffcc");
+  getLyric(current).addClass('current');
 
   var final_span = document.getElementById('final_span');
   var interim_span = document.getElementById('interim_span');
@@ -52,7 +54,7 @@ $(document).ready(function() {
     final_span.innerHTML = final_transcript;
     interim_span.innerHTML = interim_transcript;
     if (userSaidPhrase(lyrics, final_transcript)) {
-      smoothScroll(1);
+      //smoothScroll(1);
       increment(current+1);
       processed_line = true;
     }

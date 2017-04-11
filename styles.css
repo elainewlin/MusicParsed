@@ -13,6 +13,26 @@ pre {
     border-radius: 0px;
 }
 
+.lyrics {
+    cursor: pointer;
+}
+
+.lyrics.current {
+    background-color: #ffffcc;
+}
+
+.chords {
+    float: left;
+}
+
+.chords.current {
+    background-color: #C1F2F7;
+}
+
+div.clear {
+    clear: both;
+}
+
 /* motion detection debug */
 video, canvas {
     width: 480px;
