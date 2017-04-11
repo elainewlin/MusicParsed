@@ -17,4 +17,6 @@ webgazer.setGazeListener(function(data, elapsedTime) {
   //   smoothScroll(-1); TO-DO: should we ever scroll up?
   // }
 
-}).begin();
+})
+.showPredictionPoints(true)
+.begin();
