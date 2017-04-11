@@ -11,7 +11,7 @@ webgazer.setGazeListener(function(data, elapsedTime) {
   var y = data.y; 
 
   if (y > windowHeight * 0.6) {
-    smoothScroll(1);
+    smallScroll();
   }
   // else {
   //   smoothScroll(-1); TO-DO: should we ever scroll up?
