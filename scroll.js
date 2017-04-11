@@ -13,14 +13,21 @@ Parameters for page scroll:
 - scrollSpeed: how quickly to scroll
 - timeOfScroll: when to stop scrolling
 */
-var smoothScroll = function(direction) {
+
+var smallScroll = function() {
+  var amount = 2;
+  window.scrollBy(0,amount);
+  scrolldelay = setTimeout(smallScroll,5); // scrolls every 10 ms
+}
+
+var bigScroll = function() {
 	var viewportHeight = $(window).height();
 	var currentScrollTop = $('body').scrollTop();
-  var amount = viewportHeight * 0.5;
+  	var amount = viewportHeight * 0.5;
 
-  $('html, body').animate({
-	    scrollTop: currentScrollTop + amount
-	 }, 1500);
+    $('html, body').animate({
+        scrollTop: currentScrollTop + amount
+    }, 1500);
 }
 
 // Need to be able to listen every time the "current" div updates
@@ -31,7 +38,7 @@ $(document).ready( function() {
 			var divOffset = e.target.getBoundingClientRect();
 			var viewportHeight = $(window).height();
 			if (Math.abs(divOffset.top - viewportHeight) < 100) {
-				smoothScroll(1);
+				bigScroll();
 			}
 		});
 	});
