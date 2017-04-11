@@ -53,7 +53,7 @@ $(document).ready(function() {
    
     final_span.innerHTML = final_transcript;
     interim_span.innerHTML = interim_transcript;
-    if (userSaidPhrase(lyrics, final_transcript)) {
+    if (userSaidPhrase(lyrics, interim_transcript)) {
       //smoothScroll(1);
       increment(current+1);
       processed_line = true;
