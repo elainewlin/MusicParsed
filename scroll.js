@@ -18,7 +18,6 @@ var smallScroll = function() {
   var amount = 2;
   window.scrollBy(0,amount);
   scrolldelay = setTimeout(smallScroll,5); // scrolls every 10 ms
-  console.log("scrolling")
 }
 
 var bigScroll = function() {

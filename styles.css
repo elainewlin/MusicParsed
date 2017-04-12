@@ -1,16 +1,9 @@
-pre {
+.chords {
     display: block;
     font-family: monospace;
-    padding: 0px;
-    margin: 0px;
     font-size: 13px;
-    line-height: none;
-    color: none;
-    word-break: none;
-    word-wrap: none;
     background-color: white;
-    border: none;
-    border-radius: 0px;
+    white-space: pre;
 }
 
 .lyrics {
@@ -21,16 +14,8 @@ pre {
     background-color: #ffffcc;
 }
 
-.chords {
-    float: left;
-}
-
 .chords.current {
     background-color: #C1F2F7;
-}
-
-div.clear {
-    clear: both;
 }
 
 /* motion detection debug */
