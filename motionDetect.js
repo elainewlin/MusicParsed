@@ -1,7 +1,7 @@
 $(document).ready(function() {
   var numChordLines = $('.chords').length;
   var currentLine = 1;
-  var nExpectedTransitions = 0;
+  var nExpectedTransitions = getChordLength(currentLine);
   var nActualTransitions = 0;
 
   function initSuccess() {
@@ -26,7 +26,6 @@ $(document).ready(function() {
   }
 
   var chordIncrement = function(newID) {
-    // if the current chord div is close to the bottom, this event listener will take care of the scrolling
     getChords(currentLine)[0].dispatchEvent(currentUpdate);
     if ((currentLine + 1) <= numChordLines)
       nExpectedTransitions = getChordLength(currentLine);
@@ -36,15 +35,11 @@ $(document).ready(function() {
     if (payload.hasMotion) {
       // TODO: how to determine discrete motions from continuous input?
       // currently, one chord change == ~ 2 captured 'motions'
-      if (nActualTransitions > nExpectedTransitions * 2.5) {
+      if (nActualTransitions >= nExpectedTransitions * 2) {
           getChords(currentLine).removeClass('current');  // TODO: TEST THIS CODE
           if (currentLine + 1 < numChordLines) {
             currentLine++;
             chordIncrement(currentLine);
-          // if (currentLine % 2 === 0) {
-            // window.scrollBy(0,2);
-            // console.log("SMALL SCROLL")
-          // }
             nActualTransitions = 0;
           }
         } else {

@@ -18,6 +18,7 @@ var smallScroll = function() {
   var amount = 2;
   window.scrollBy(0,amount);
   scrolldelay = setTimeout(smallScroll,5); // scrolls every 10 ms
+  console.log("scrolling")
 }
 
 var bigScroll = function() {
@@ -49,9 +50,7 @@ $(document).ready( function() {
       $(e.target).addClass('current');
       var divOffset = e.target.getBoundingClientRect();
       var viewportHeight = $(window).height();
-      if (Math.abs(divOffset.top - viewportHeight) < 100) {
-        window.scrollBy(0,5);
-      }
+      window.scrollBy(0,20);
     });
   });
 });
