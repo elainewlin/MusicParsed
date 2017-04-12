@@ -1,9 +1,9 @@
 /*
-	Thoughts about combining modalities:
-		- have a listener for each input that would trigger the scroll
-		- if at least 2/3 listeners get fired, scroll down
-		- have global boolean that keeps track of this....?
-		- Probably want some kind of time-out too???
+  Thoughts about combining modalities:
+    - have a listener for each input that would trigger the scroll
+    - if at least 2/3 listeners get fired, scroll down
+    - have global boolean that keeps track of this....?
+    - Probably want some kind of time-out too???
 */
 
 
@@ -21,9 +21,9 @@ var smallScroll = function() {
 }
 
 var bigScroll = function() {
-	var viewportHeight = $(window).height();
-	var currentScrollTop = $('body').scrollTop();
-  	var amount = viewportHeight * 0.5;
+  var viewportHeight = $(window).height();
+  var currentScrollTop = $('body').scrollTop();
+    var amount = viewportHeight * 0.5;
 
     $('html, body').animate({
         scrollTop: currentScrollTop + amount
@@ -32,14 +32,26 @@ var bigScroll = function() {
 
 // Need to be able to listen every time the "current" div updates
 $(document).ready( function() {
-	$('.lyrics').each(function(index, elem) {
-		elem.addEventListener('onCurrentUpdate', function(e) {
-			$(e.target).addClass('current');
-			var divOffset = e.target.getBoundingClientRect();
-			var viewportHeight = $(window).height();
-			if (Math.abs(divOffset.top - viewportHeight) < 100) {
-				bigScroll();
-			}
-		});
-	});
+  $('.lyrics').each(function(index, elem) {
+    elem.addEventListener('onCurrentUpdate', function(e) {
+      $(e.target).addClass('current');
+      var divOffset = e.target.getBoundingClientRect();
+      var viewportHeight = $(window).height();
+      if (Math.abs(divOffset.top - viewportHeight) < 100) {
+        bigScroll();
+      }
+    });
+  });
+
+  // [Phoebe] Testing Motion Detection event listeners
+  $('.chords').each(function(index, elem) {
+    elem.addEventListener('onCurrentUpdate', function(e) {
+      $(e.target).addClass('current');
+      var divOffset = e.target.getBoundingClientRect();
+      var viewportHeight = $(window).height();
+      if (Math.abs(divOffset.top - viewportHeight) < 100) {
+        window.scrollBy(0,5);
+      }
+    });
+  });
 });
