@@ -52,7 +52,12 @@ $(document).ready( function() {
       $(e.target).addClass('current');
       var divOffset = e.target.getBoundingClientRect();
       var viewportHeight = $(window).height();
-      window.scrollBy(0,20);
+      if (Math.abs(divOffset.top - viewportHeight) < 100) {
+        window.scrollBy(0,50);
+      } else {
+        window.scrollBy(0,20);
+      }
+      
     });
   });
 });

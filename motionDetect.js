@@ -22,7 +22,7 @@ $(document).ready(function() {
   }
 
   function getChords(id) { 
-    return $("#"+id+"> pre");
+    return $("#"+id+"> div");
   }
 
   var chordIncrement = function(newID) {
@@ -57,7 +57,7 @@ $(document).ready(function() {
     initSuccessCallback: initSuccess,
     initErrorCallback: initError,
     captureCallback: capture,
-    debug: false // set to true to see video output
+    debug: true // set to true to see video output
   });
 
 });

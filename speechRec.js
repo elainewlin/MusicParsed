@@ -55,7 +55,8 @@ $(document).ready(function() {
     interim_span.innerHTML = interim_transcript;
     if (userSaidPhrase(lyrics, interim_transcript)) {
       //smoothScroll(1);
-      increment(current+1);
+      if ((current + 1) <= numLyricLines)
+        increment(current+1);
       processed_line = true;
     }
 

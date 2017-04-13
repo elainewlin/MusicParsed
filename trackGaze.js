@@ -12,6 +12,7 @@ window.onload = function() {
     var y = data.y; 
 
     if (y > windowHeight * cutoff) {
+      console.log("scroll!")
       smallScroll();
     }
   }).begin();
