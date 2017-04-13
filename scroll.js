@@ -17,7 +17,10 @@ Parameters for page scroll:
 var smallScroll = function() {
   var amount = 2;
   window.scrollBy(0,amount);
-  scrolldelay = setTimeout(smallScroll,5); // scrolls every 10 ms
+  // removed this to prevent infinite scrolling
+  // and increased rate of scrolling
+  // TODO: refine this small scroll?
+  // scrolldelay = setTimeout(smallScroll,5); // scrolls every 5 ms
 }
 
 var bigScroll = function() {
