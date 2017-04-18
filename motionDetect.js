@@ -1,4 +1,5 @@
 $(document).ready(function() {
+  var ready = false;
   var numChordLines = $('.chords').length;
   var currentLine = 1;
   var nExpectedTransitions = getChordLength(currentLine);
@@ -32,7 +33,7 @@ $(document).ready(function() {
   }
 
   function capture(payload) {
-    if (payload.hasMotion) {
+    if (payload.hasMotion && ready) {
       // TODO: how to determine discrete motions from continuous input?
       // currently, one chord change == ~ 2 captured 'motions'
       if (nActualTransitions >= nExpectedTransitions * 2) {
@@ -58,6 +59,12 @@ $(document).ready(function() {
     initErrorCallback: initError,
     captureCallback: capture,
     debug: true // set to true to see video output
+  });
+
+  $('#calibrate').click(function(){
+    engine.removeVid();
+    $(this).remove();
+    ready = true;
   });
 
 });
