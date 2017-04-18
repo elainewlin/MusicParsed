@@ -51,7 +51,7 @@ $(document).ready(function() {
 
   getChords(1).addClass('current');
 
-  DiffCamEngine.init({
+  var engine = DiffCamEngine.init({
     pixelDiffThreshold: 40,
     scrollThreshold : 34,
     initSuccessCallback: initSuccess,
