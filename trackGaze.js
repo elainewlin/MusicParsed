@@ -1,6 +1,5 @@
 var GAZE_DEBUG = true;
-var windowHeight = $(window).height();
-var cutoff = 0.6; // set parameter to determine when to scroll down
+var FUSION_DEBUG = false; 
 
 window.onload = function() {
   var gazeEngine = webgazer
@@ -10,13 +9,15 @@ window.onload = function() {
     if (data == null) {
       return;
     }
-
-    var x = data.x; 
-    var y = data.y; 
-
-    if (y > windowHeight * cutoff) {
-      smallScroll();
+    
+    if (FUSION_DEBUG) {
+      updateGazeY(data.y, clock)
+    } else {
+      if (data.y > windowHeight * cutoff) {
+        smallScroll();
+      }      
     }
+
   }).begin();
 
   if (GAZE_DEBUG)
