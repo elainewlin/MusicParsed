@@ -1,3 +1,12 @@
+$(document).ready(function() {
+	var fusedLine_test = 3; // TODO: connect with actual fused_line code
+	// this is the way to get the distance from top of page
+	var distance = $('#'+fusedLine_test).offset().top;
+	var fusedLine_Y = distance/$(window).height();
+	console.log(fusedLine_Y)
+});
+
+
 var windowHeight = $(window).height();
 var yGaze = 0; // default
 var checked = [];
