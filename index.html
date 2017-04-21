@@ -14,19 +14,34 @@
   <!-- Load any supplemental Javascript libraries here -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script> 
 
-    <!-- WebGazer -->
+  <!-- WebGazer -->
   <script src="lib/webgazer.js" defer></script>
-  
+
+  <!-- Mustache template -->
+  <script src="lib/mustache.min.js"></script>
+  <script src="html/test.js"></script>  
+  <script id="template" type="x-tmpl-mustache">
+  <div>
+    <h1> {{title}} {{artist}} </h1>
+  </div>
+  {{#lines}}
+    <div class="line">
+      <div class="chords">{{chord}}</div>
+      <span class="lyrics">{{lyrics}}</span>
+    </div>
+  {{/lines}}
+  </script>
+
   <!-- Motion Detection -->
   <!--<script src = "lib/diff-cam-engine.js"> </script>-->
 
   <!-- App Code -->
-  <!--<script src="songSelect.js" type="text/javascript"></script>-->
+  <!--<script src="songSelect.js" type="text/javascript"></script>
   <script src="setup.js" type="text/javascript"></script>
   <script src="scroll.js" type="text/javascript"></script>
   <script src="trackGaze.js" defer></script>
-  <!--<script src="speechRec.js" type="text/javascript"></script>-->
-  <!--<script src="motionDetect.js" type="text/javascript"></script> -->
+  <script src="speechRec.js" type="text/javascript"></script>
+  <script src="motionDetect.js" type="text/javascript"></script> -->
 </head>
 
 <body>
@@ -53,133 +68,133 @@
       <div id="loveStory">Love Story</div>
     </div> -->
     <div class="row" id="song">
-<div>
-  <h1> Yellow Submarine (The Beatles) </h1>
-</div>
-<br>
-<div id="1" class="line">
-  <div class="chords">      D        (C)    G </div>
-  <span class="lyrics"> In the town where I was born </span>
-</div>
-<div id="2" class="line">
-  <div class="chords">(Em)    Am      (C)     D </div>
-  <span class="lyrics"> Lived a man who sailed to sea </span>
-</div>
-<div id="3" class="line">
-  <div class="chords">(G)    D     (C)   G </div>
-  <span class="lyrics"> And he told us of his life </span>
-</div>
-<div id="4" class="line">
-  <div class="chords">(Em)  Am    (C)   D </div>
-  <span class="lyrics"> In the land of submarines </span>
-</div>
-<br>
-<div id="5" class="line">
-  <div class="chords">(G)    D      (C)   G </div>
-  <span class="lyrics"> So we sailed up to the sun </span>
-</div>
-<div id="6" class="line">
-  <div class="chords">(Em)    Am     (C)    D </div>
-  <span class="lyrics"> Till we found the sea of green </span>
-</div>
-<div id="7" class="line">
-  <div class="chords">(G)     D    (C)        G </div>
-  <span class="lyrics"> And we lived beneath the waves </span>
-</div>
-<div id="8" class="line">
-  <div class="chords">(Em)    Am  (C)   D </div>
-  <span class="lyrics"> In our yellow submarine </span>
-</div>
-<br>
-<div>
-  <p> CHORUS: </p>
-</div>
-<div id="9" class="line">
-  <div class="chords">G             D</div>
-  <span class="lyrics"> We all live in a yellow submarine </span>
-</div>
-<div id="10" class="line">
-  <div class="chords">D                G</div>
-  <span class="lyrics"> Yellow submarine, yellow submarine </span>
-</div>
-<div id="11" class="line">
-  <div class="chords">G             D</div>
-  <span class="lyrics"> We all live in a yellow submarine </span>
-</div>
-<div id="12" class="line">
-  <div class="chords">D                G</div>
-  <span class="lyrics"> Yellow submarine, yellow submarine </span>
-</div>
-<br>
-<div id="13" class="line">
-  <div class="chords">        D        (C)    G </div>
-  <span class="lyrics"> And our friends are all on board </span>
-</div>
-<div id="14" class="line">
-  <div class="chords">(Em)  Am          (C)      D </div>
-  <span class="lyrics"> Many more of them live next door </span>
-</div>
-<div id="15" class="line">
-  <div class="chords">(G)     D     (C)    G    (Em)   Am   (C)   D</div>
-  <span class="lyrics"> And the band begins to play </span>
-</div>
-<br>
-<div>
-  <p> CHORUS: </p>
-</div>
-<div id="16" class="line">
-  <div class="chords">G             D</div>
-  <span class="lyrics"> We all live in a yellow submarine </span>
-</div>
-<div id="17" class="line">
-  <div class="chords">D                G</div>
-  <span class="lyrics"> Yellow submarine, yellow submarine </span>
-</div>
-<div id="18" class="line">
-  <div class="chords">G             D</div>
-  <span class="lyrics"> We all live in a yellow submarine </span>
-</div>
-<div id="19" class="line">
-  <div class="chords">D                G</div>
-  <span class="lyrics"> Yellow submarine, yellow submarine </span>
-</div>
-<br>
-<div id="20" class="line">
-  <div class="chords">(G)    D   (C)   G</div>
-  <span class="lyrics"> As we live a life of ease </span>
-</div>
-<div id="21" class="line">
-  <div class="chords">(Em)  Am   (C)          D</div>
-  <span class="lyrics"> Everyone of us has all we need </span>
-</div>
-<div id="22" class="line">
-  <div class="chords">(G)    D      (C)     G</div>
-  <span class="lyrics"> Sky of blue and sea of green </span>
-</div>
-<div id="23" class="line">
-  <div class="chords">(Em)   Am   (C)   D</div>
-  <span class="lyrics"> In our yellow submarine </span>
-</div>
-<br>
-<div>
-  <p> CHORUS: </p>
-</div>
-<div id="24" class="line">
-  <div class="chords">G             D</div>
-  <span class="lyrics"> We all live in a yellow submarine </span>
-</div>
-<div id="25" class="line">
-  <div class="chords">D                G</div>
-  <span class="lyrics"> Yellow submarine, yellow submarine </span>
-</div>
-<div id="26" class="line">
-  <div class="chords">G             D</div>
-  <span class="lyrics"> We all live in a yellow submarine </span>
-</div>
-<div id="27" class="line">
-  <div class="chords">D                G</div>
-  <span class="lyrics"> Yellow submarine, yellow submarine </span>
-</div>
+      <div>
+        <h1> Yellow Submarine (The Beatles) </h1>
+      </div>
+      <br>
+      <div id="1" class="line">
+        <div class="chords">      D        (C)    G </div>
+        <span class="lyrics"> In the town where I was born </span>
+      </div>
+      <div id="2" class="line">
+        <div class="chords">(Em)    Am      (C)     D </div>
+        <span class="lyrics"> Lived a man who sailed to sea </span>
+      </div>
+      <div id="3" class="line">
+        <div class="chords">(G)    D     (C)   G </div>
+        <span class="lyrics"> And he told us of his life </span>
+      </div>
+      <div id="4" class="line">
+        <div class="chords">(Em)  Am    (C)   D </div>
+        <span class="lyrics"> In the land of submarines </span>
+      </div>
+      <br>
+      <div id="5" class="line">
+        <div class="chords">(G)    D      (C)   G </div>
+        <span class="lyrics"> So we sailed up to the sun </span>
+      </div>
+      <div id="6" class="line">
+        <div class="chords">(Em)    Am     (C)    D </div>
+        <span class="lyrics"> Till we found the sea of green </span>
+      </div>
+      <div id="7" class="line">
+        <div class="chords">(G)     D    (C)        G </div>
+        <span class="lyrics"> And we lived beneath the waves </span>
+      </div>
+      <div id="8" class="line">
+        <div class="chords">(Em)    Am  (C)   D </div>
+        <span class="lyrics"> In our yellow submarine </span>
+      </div>
+      <br>
+      <div>
+        <p> CHORUS: </p>
+      </div>
+      <div id="9" class="line">
+        <div class="chords">G             D</div>
+        <span class="lyrics"> We all live in a yellow submarine </span>
+      </div>
+      <div id="10" class="line">
+        <div class="chords">D                G</div>
+        <span class="lyrics"> Yellow submarine, yellow submarine </span>
+      </div>
+      <div id="11" class="line">
+        <div class="chords">G             D</div>
+        <span class="lyrics"> We all live in a yellow submarine </span>
+      </div>
+      <div id="12" class="line">
+        <div class="chords">D                G</div>
+        <span class="lyrics"> Yellow submarine, yellow submarine </span>
+      </div>
+      <br>
+      <div id="13" class="line">
+        <div class="chords">        D        (C)    G </div>
+        <span class="lyrics"> And our friends are all on board </span>
+      </div>
+      <div id="14" class="line">
+        <div class="chords">(Em)  Am          (C)      D </div>
+        <span class="lyrics"> Many more of them live next door </span>
+      </div>
+      <div id="15" class="line">
+        <div class="chords">(G)     D     (C)    G    (Em)   Am   (C)   D</div>
+        <span class="lyrics"> And the band begins to play </span>
+      </div>
+      <br>
+      <div>
+        <p> CHORUS: </p>
+      </div>
+      <div id="16" class="line">
+        <div class="chords">G             D</div>
+        <span class="lyrics"> We all live in a yellow submarine </span>
+      </div>
+      <div id="17" class="line">
+        <div class="chords">D                G</div>
+        <span class="lyrics"> Yellow submarine, yellow submarine </span>
+      </div>
+      <div id="18" class="line">
+        <div class="chords">G             D</div>
+        <span class="lyrics"> We all live in a yellow submarine </span>
+      </div>
+      <div id="19" class="line">
+        <div class="chords">D                G</div>
+        <span class="lyrics"> Yellow submarine, yellow submarine </span>
+      </div>
+      <br>
+      <div id="20" class="line">
+        <div class="chords">(G)    D   (C)   G</div>
+        <span class="lyrics"> As we live a life of ease </span>
+      </div>
+      <div id="21" class="line">
+        <div class="chords">(Em)  Am   (C)          D</div>
+        <span class="lyrics"> Everyone of us has all we need </span>
+      </div>
+      <div id="22" class="line">
+        <div class="chords">(G)    D      (C)     G</div>
+        <span class="lyrics"> Sky of blue and sea of green </span>
+      </div>
+      <div id="23" class="line">
+        <div class="chords">(Em)   Am   (C)   D</div>
+        <span class="lyrics"> In our yellow submarine </span>
+      </div>
+      <br>
+      <div>
+        <p> CHORUS: </p>
+      </div>
+      <div id="24" class="line">
+        <div class="chords">G             D</div>
+        <span class="lyrics"> We all live in a yellow submarine </span>
+      </div>
+      <div id="25" class="line">
+        <div class="chords">D                G</div>
+        <span class="lyrics"> Yellow submarine, yellow submarine </span>
+      </div>
+      <div id="26" class="line">
+        <div class="chords">G             D</div>
+        <span class="lyrics"> We all live in a yellow submarine </span>
+      </div>
+      <div id="27" class="line">
+        <div class="chords">D                G</div>
+        <span class="lyrics"> Yellow submarine, yellow submarine </span>
+      </div>
     </div> <!-- class="row" -->
   </div> <!-- class="container" -->
 </body>
