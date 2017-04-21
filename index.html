@@ -6,196 +6,39 @@
   <title>MusicBuddy</title>
 
   <!-- Load style sheets -->
-  <link rel="stylesheet" href=
-    "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/styles.css">
 
   <!-- Load any supplemental Javascript libraries here -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script> 
 
-  <!-- WebGazer -->
-  <script src="lib/webgazer.js" defer></script>
-
-  <!-- Mustache template -->
-  <script src="lib/mustache.min.js"></script>
-  <script src="html/test.js"></script>  
-  <script id="template" type="x-tmpl-mustache">
-  <div>
-    <h1> {{title}} {{artist}} </h1>
-  </div>
-  {{#lines}}
-    <div class="line">
-      <div class="chords">{{chord}}</div>
-      <span class="lyrics">{{lyrics}}</span>
-    </div>
-  {{/lines}}
+  <script>
+    
+    $(document).on('change', '#speech-box', function(evt) {
+      window.localStorage.setItem("speechOn", evt.target.checked.toString());
+    });
+    $(document).on('change', '#motion-box', function(evt) {
+      window.localStorage.setItem("motionOn", evt.target.checked.toString());
+    });
+    $(document).on('change', '#gaze-box', function(evt) {
+      window.localStorage.setItem("gazeOn", evt.target.checked.toString());
+    });
+    
   </script>
-
-  <!-- Motion Detection -->
-  <!--<script src = "lib/diff-cam-engine.js"> </script>-->
-
-  <!-- App Code -->
-  <!--<script src="songSelect.js" type="text/javascript"></script>
-  <script src="setup.js" type="text/javascript"></script>
-  <script src="scroll.js" type="text/javascript"></script>
-  <script src="trackGaze.js" defer></script>
-  <script src="speechRec.js" type="text/javascript"></script>
-  <script src="motionDetect.js" type="text/javascript"></script> -->
+  
 </head>
 
 <body>
   <div class="container">
-    <!--<div class="row">
-      <button id="lyricTracker">Lyric Tracker</button>
-      <button id="chordTracker">Chord Tracker</button>
-      <button id="gazeTracker">Gaze Tracker</button>
-    </div>-->
     <div class="row">
-      <div id="results">
-        <p>
-          <b> Interim: </b>
-          <span class = 'interim' id = 'interim_span'> </span>
-        </p>
-        <p>
-          <b> Final:</b>
-          <span class = 'final' id = 'final_span'> </span>
-        </p>
-      </div>
+      <h1> Select Modalities: </h1>
+      <form>
+        <input type="checkbox" name="mode" id="speech-box" checked> Speech <br>
+        <input type="checkbox" name="mode" id="motion-box" checked> Motion <br>
+        <input type="checkbox" name="mode" id="gaze-box" checked> Gaze <br>
+      </form>
+      <a href="chordSheet.html" class="btn btn-primary btn-lg" style="margin-top: 10px;">Let's Go!</a>
     </div>
-   <!--  <div>
-      <div id="yellowSubmarine">Yellow Submarine</div>
-      <div id="loveStory">Love Story</div>
-    </div> -->
-    <div class="row" id="song">
-      <div>
-        <h1> Yellow Submarine (The Beatles) </h1>
-      </div>
-      <br>
-      <div id="1" class="line">
-        <div class="chords">      D        (C)    G </div>
-        <span class="lyrics"> In the town where I was born </span>
-      </div>
-      <div id="2" class="line">
-        <div class="chords">(Em)    Am      (C)     D </div>
-        <span class="lyrics"> Lived a man who sailed to sea </span>
-      </div>
-      <div id="3" class="line">
-        <div class="chords">(G)    D     (C)   G </div>
-        <span class="lyrics"> And he told us of his life </span>
-      </div>
-      <div id="4" class="line">
-        <div class="chords">(Em)  Am    (C)   D </div>
-        <span class="lyrics"> In the land of submarines </span>
-      </div>
-      <br>
-      <div id="5" class="line">
-        <div class="chords">(G)    D      (C)   G </div>
-        <span class="lyrics"> So we sailed up to the sun </span>
-      </div>
-      <div id="6" class="line">
-        <div class="chords">(Em)    Am     (C)    D </div>
-        <span class="lyrics"> Till we found the sea of green </span>
-      </div>
-      <div id="7" class="line">
-        <div class="chords">(G)     D    (C)        G </div>
-        <span class="lyrics"> And we lived beneath the waves </span>
-      </div>
-      <div id="8" class="line">
-        <div class="chords">(Em)    Am  (C)   D </div>
-        <span class="lyrics"> In our yellow submarine </span>
-      </div>
-      <br>
-      <div>
-        <p> CHORUS: </p>
-      </div>
-      <div id="9" class="line">
-        <div class="chords">G             D</div>
-        <span class="lyrics"> We all live in a yellow submarine </span>
-      </div>
-      <div id="10" class="line">
-        <div class="chords">D                G</div>
-        <span class="lyrics"> Yellow submarine, yellow submarine </span>
-      </div>
-      <div id="11" class="line">
-        <div class="chords">G             D</div>
-        <span class="lyrics"> We all live in a yellow submarine </span>
-      </div>
-      <div id="12" class="line">
-        <div class="chords">D                G</div>
-        <span class="lyrics"> Yellow submarine, yellow submarine </span>
-      </div>
-      <br>
-      <div id="13" class="line">
-        <div class="chords">        D        (C)    G </div>
-        <span class="lyrics"> And our friends are all on board </span>
-      </div>
-      <div id="14" class="line">
-        <div class="chords">(Em)  Am          (C)      D </div>
-        <span class="lyrics"> Many more of them live next door </span>
-      </div>
-      <div id="15" class="line">
-        <div class="chords">(G)     D     (C)    G    (Em)   Am   (C)   D</div>
-        <span class="lyrics"> And the band begins to play </span>
-      </div>
-      <br>
-      <div>
-        <p> CHORUS: </p>
-      </div>
-      <div id="16" class="line">
-        <div class="chords">G             D</div>
-        <span class="lyrics"> We all live in a yellow submarine </span>
-      </div>
-      <div id="17" class="line">
-        <div class="chords">D                G</div>
-        <span class="lyrics"> Yellow submarine, yellow submarine </span>
-      </div>
-      <div id="18" class="line">
-        <div class="chords">G             D</div>
-        <span class="lyrics"> We all live in a yellow submarine </span>
-      </div>
-      <div id="19" class="line">
-        <div class="chords">D                G</div>
-        <span class="lyrics"> Yellow submarine, yellow submarine </span>
-      </div>
-      <br>
-      <div id="20" class="line">
-        <div class="chords">(G)    D   (C)   G</div>
-        <span class="lyrics"> As we live a life of ease </span>
-      </div>
-      <div id="21" class="line">
-        <div class="chords">(Em)  Am   (C)          D</div>
-        <span class="lyrics"> Everyone of us has all we need </span>
-      </div>
-      <div id="22" class="line">
-        <div class="chords">(G)    D      (C)     G</div>
-        <span class="lyrics"> Sky of blue and sea of green </span>
-      </div>
-      <div id="23" class="line">
-        <div class="chords">(Em)   Am   (C)   D</div>
-        <span class="lyrics"> In our yellow submarine </span>
-      </div>
-      <br>
-      <div>
-        <p> CHORUS: </p>
-      </div>
-      <div id="24" class="line">
-        <div class="chords">G             D</div>
-        <span class="lyrics"> We all live in a yellow submarine </span>
-      </div>
-      <div id="25" class="line">
-        <div class="chords">D                G</div>
-        <span class="lyrics"> Yellow submarine, yellow submarine </span>
-      </div>
-      <div id="26" class="line">
-        <div class="chords">G             D</div>
-        <span class="lyrics"> We all live in a yellow submarine </span>
-      </div>
-      <div id="27" class="line">
-        <div class="chords">D                G</div>
-        <span class="lyrics"> Yellow submarine, yellow submarine </span>
-      </div>
-    </div> <!-- class="row" -->
   </div> <!-- class="container" -->
 </body>
 
