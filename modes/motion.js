@@ -41,7 +41,7 @@ var MotionDetect = function(args) {
    * Sets nActualTransitions to designated number
    */
    that.setActualTransitions = function(n) {
-    nActualTransitions = 0;
+    nActualTransitions = n;
    }
 
   /*
