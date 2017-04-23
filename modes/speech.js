@@ -27,9 +27,10 @@ var SpeechRec = function(args) {
    * Sets the current line that speech is tracking
    * @param {int} the new line number
    */
-  that.setCurrentLine = function(newLineNum) {
-    $(that).triggerHandler("speechUpdate", {previousLine: currentLine, nextLine: newLineNum});
-  	currentLine = newLineNum;
+  that.setCurrentLine = function(newLineNum, fusing = false) {
+    var info = {previousLine: currentLine, nextLine: newLineNum, fusing: fusing};
+  	currentLine = newLineNum; // update current line before event trigger in case fusion
+    $(that).triggerHandler("speechUpdate", info);
   	lyrics = song.getLineElement(currentLine+1)[0].textContent;
   };
 

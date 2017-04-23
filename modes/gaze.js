@@ -8,11 +8,9 @@
 var GazeTracker = function(args) {
   var that = this;
 
-  /* Detection Variables */
-  var ready = false;
-
   /* Y-Coord Tracking Variables */
   var currentY;
+  var detectedYs = [];
 
   /*
    * Returns the current y-coordinate estimate
@@ -35,21 +33,38 @@ var GazeTracker = function(args) {
 
   /**** Gaze Tracker Helper Functions ****/
 
-  var smooth = function() {
-    // TODO
-  };
-
   var gazeListener = function(data, clock) {
     if (data == null) 
       return;
 
-    if (args.fusionDebug)
+    if (args.fusionDebug) 
       updateGazeY(data.y, clock)
+    // TODO: remove the following once fusion is done:
     else {
-      if (data.y > windowHeight * cutoff) {
+      if (data.y > WINDOW_HEIGHT * BOTTOM_REGION) {
         $(that).triggerHandler("gazeUpdate", {gazeTest: 'hello'});
         currentY = data.y;
       }
     }
   };
+
+  var smooth = function(arr) {
+    var total = 0;
+    for(var i = 0; i < arr.length; i++) {
+        total += arr[i];
+    }
+    return total / arr.length;
+  };
+
+  var updateGazeY = function(y, clock) {
+    var ms = clock/1000;
+    if (ms % GAZE_INTERVAL < 0.02 && detectedYs.length > 0) {
+      console.log("3 seconds passed");
+      currentY = smooth(detectedYs);
+      $(that).triggerHandler("gazeUpdate");
+      detectedYs = [];
+    } else {
+      detectedYs.push(y);
+    }
+  }
 };
