@@ -14,7 +14,7 @@ var MotionDetect = function(args) {
 
   /* Line tracking variables */
   var song = args.song;
-  var numChordLines = song.getTotalNumChordLines;
+  var numChordLines = song.getTotalNumChordLines();
   var currentLine = 1;
   var nExpectedTransitions = song.getChordLength(currentLine);
   var nActualTransitions = 0;
@@ -23,11 +23,26 @@ var MotionDetect = function(args) {
    * Sets the current line that speech is tracking
    * @param {int} the new line number
    */
-  that.setCurrentLine = function(newLineNum) {
-    $(that).triggerHandler("motionUpdate", {previousLine: currentLine, nextLine: newLineNum});
+  that.setCurrentLine = function(newLineNum, fusing = false) {
+    var info = {previousLine: currentLine, nextLine: newLineNum, fusing: fusing};
   	currentLine = newLineNum;
     nExpectedTransitions = song.getChordLength(currentLine);
+    $(that).triggerHandler("motionUpdate", info); // update current line before event trigger in case fusion
   };
+
+  /*
+   * Sets motion detection status as 'ready'
+  */
+  that.setReady = function(isReady) {
+    ready = isReady;
+  }
+
+  /*
+   * Sets nActualTransitions to designated number
+   */
+   that.setActualTransitions = function(n) {
+    nActualTransitions = n;
+   }
 
   /*
    * Returns the current line that speech is tracking
@@ -72,7 +87,7 @@ var MotionDetect = function(args) {
         } else {
           nActualTransitions++;
         }
-        console.log("counted transitions: ", nActualTransitions, "currentLine: ", currentLine)
+        // console.log("counted transitions: ", nActualTransitions, "currentLine: ", currentLine)
     }
   };
 };

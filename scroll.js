@@ -1,28 +1,42 @@
-/*
-  Thoughts about combining modalities:
-    - have a listener for each input that would trigger the scroll
-    - if at least 2/3 listeners get fired, scroll down
-    - have global boolean that keeps track of this....?
-    - Probably want some kind of time-out too???
-*/
-
+var scrolldelay;
 
 /*
-Parameters for page scroll:
-- direction: 1 for scrolling down, -1 for scrolling up
-- scrollSpeed: how quickly to scroll
-- timeOfScroll: when to stop scrolling
-*/
-
-var smallScroll = function() {
-  var amount = 2;
-  window.scrollBy(0,amount);
-  // removed this to prevent infinite scrolling
-  // and increased rate of scrolling
-  // TODO: refine this small scroll?
-  // scrolldelay = setTimeout(smallScroll,5); // scrolls every 5 ms
+ * Constant scrolling
+ */
+var scroll = function(amt) {
+  window.scrollBy(0,amt);
 }
 
+
+// Scroll Fusion
+// TODO: refine this
+var fusedScroll = function(y) {
+  var percentOfWindow = y/WINDOW_HEIGHT;
+  if (scrolldelay)
+    clearInterval(scrolldelay);
+
+  if (percentOfWindow < TOP_REGION) {
+    console.log("SLOW SCROLL")
+    scrolldelay = setInterval(
+      function(){
+        scroll(SLOW_SCROLL_AMT);
+      },SCROLL_INTERVAL);
+  } else if (percentOfWindow > BOTTOM_REGION) {
+    console.log("FAST SCROLL")
+    scrolldelay = setInterval(
+      function(){
+        scroll(FAST_SCROLL_AMT);
+      },SCROLL_INTERVAL);
+  } else {
+    console.log('ideal region')
+    scrolldelay = setInterval(
+      function(){
+        scroll(2);
+      },SCROLL_INTERVAL);
+  }
+}
+
+/*
 var bigScroll = function() {
   var viewportHeight = $(window).height();
   var currentScrollTop = $('body').scrollTop();
@@ -45,19 +59,5 @@ $(document).ready( function() {
       }
     });
   });
-
-  // [Phoebe] Testing Motion Detection event listeners
-  $('.chords').each(function(index, elem) {
-    elem.addEventListener('onCurrentUpdate', function(e) {
-      $(e.target).addClass('current');
-      var divOffset = e.target.getBoundingClientRect();
-      var viewportHeight = $(window).height();
-      if (Math.abs(divOffset.top - viewportHeight) < 100) {
-        window.scrollBy(0,50);
-      } else {
-        window.scrollBy(0,20);
-      }
-      
-    });
-  });
 });
+*/
