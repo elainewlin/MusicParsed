@@ -88,9 +88,12 @@ def toJSON(fileName):
 
 # All song text files --> all JSON files of songs
 def allToJSON():
+    allSongs = []
     for fileName in os.listdir(textFolder):
         if fileName.endswith(".txt"):
             toJSON(fileName)
+            allSongs.append(fileName.split(".txt")[0])
+    print allSongs
 
 # URL of a song --> JSON file of a song
 def addSong(url):

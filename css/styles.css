@@ -1,7 +1,9 @@
-.chords {
-    display: block;
+.line {
     font-family: monospace;
     font-size: 13px;
+}
+.chords {
+    display: block;
     background-color: white;
     white-space: pre;
 }
