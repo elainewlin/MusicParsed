@@ -50,8 +50,10 @@ $(document).ready(function() {
   if (motionOn) {
     var motionParams = {
       song: songView,
-      pixelDiffThreshold: 40,
-      scrollThreshold: 34
+      pixelDiffThreshold: PIXEL_DIFF,
+      scoreThreshold: SCORE_THRESH,
+      x: MOTION_X,
+      y: MOTION_Y
     };
     motion = new MotionDetect(motionParams);
     songView.getChordElement(motion.getCurrentLine()).addClass('current');
