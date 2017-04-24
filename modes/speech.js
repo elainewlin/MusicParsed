@@ -20,7 +20,7 @@ var SpeechRec = function(args) {
   var endTimeout = args.endTimeout;
 
   /* Line tracking variables */
-  var currentLine = 1;
+  var currentLine = 0;
   var lyrics = song.getLineElement(currentLine+1)[0].textContent;
 
   /*

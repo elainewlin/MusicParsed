@@ -18,6 +18,10 @@ window.onload = function() {
         //Overwrite the contents of song with the rendered HTML
         document.getElementById('song').innerHTML = Mustache.render(template, data);
         document.getElementById('chordPics').innerHTML = Mustache.render(chordTemplate, data);
+        if (motion)
+          motion.setCurrentLine(0, true);
+        if (speech)
+          speech.setCurrentLine(0, true);
       });
     }
   }); 

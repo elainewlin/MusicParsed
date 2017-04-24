@@ -16,8 +16,8 @@ var MotionDetect = function(args) {
 
   /* Line tracking variables */
   var song = args.song;
-  var numChordLines = song.getTotalNumChordLines();
-  var currentLine = 1;
+  var numChordLines = song.getTotalNumChordLines() - 1;
+  var currentLine = 0;
   var nExpectedTransitions = song.getChordLength(currentLine);
   var nActualTransitions = 0;
 
@@ -83,7 +83,7 @@ var MotionDetect = function(args) {
     if (payload.hasMotion && ready) {
       // TODO: how to determine discrete motions from continuous input?
       // currently, one chord change == ~ 2 captured 'motions'
-      if (nActualTransitions >= nExpectedTransitions * 3) {
+      if (nActualTransitions >= nExpectedTransitions * 2) {
           if (currentLine + 1 <= numChordLines) {
             that.setCurrentLine(currentLine + 1);
             nActualTransitions = 0;
