@@ -14,6 +14,25 @@
   <!-- Load any supplemental Javascript libraries here -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script> 
 
+  <!-- Mustache template -->
+  <script src="lib/mustache.min.js"></script>
+  <script src="template/render.js"></script>  
+  <script id="template" type="x-tmpl-mustache">
+  <div>
+    <h1> {{title}} - {{artist}} </h1>
+  </div>
+  {{#lines}}
+    <div class="line" id={{count}}>
+      <div class="chords">{{chord}}</div>
+      <span class="lyrics">{{lyrics}}</span>
+    </div>
+  {{/lines}}
+  </script>
+
+  <!-- jQuery UI autocomplete -->
+ 
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
   <!-- WebGazer -->
   <script src="lib/webgazer.js" defer></script>
   
@@ -36,6 +55,12 @@
 <body>
   <button id = "calibrate"> Done Calibrating </button>
   <div class="container">
+    <div class="row">
+      <div class="ui-widget">
+        <label for="tags">Song select: </label>
+        <input id="tags">
+      </div>
+    </div>
     <div class="row">
       <div id="results">
         <p>
