@@ -26,3 +26,13 @@ video, canvas {
     height: 360px;
     background-color: #999;
 }
+
+#chordPics {
+    position:fixed;
+    top: 0;
+    right: 0;
+}
+
+img {
+    width: 100px;
+}
