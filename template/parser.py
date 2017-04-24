@@ -65,6 +65,7 @@ def toJSON(fileName):
     data['title'] = title
     data['artist'] = artist
     data['lines'] = []
+    count = 0
 
     for i in xrange(len(lines)):
         l = lines[i]
@@ -78,7 +79,8 @@ def toJSON(fileName):
                 lCount += 1
 
         if lCount > 0 and lCount < 10: # Buggy if you have complicated chord names such as Cadd9
-            data['lines'].append({'lyrics': lines[i+1], 'chord': lines[i]})
+            data['lines'].append({'lyrics': lines[i+1], 'chord': lines[i], 'count':count})
+            count += 1
 
     jsonFile = os.path.join(jsonFolder, song+'.json')
     with open(jsonFile, 'w') as outfile:
@@ -95,5 +97,4 @@ def addSong(url):
     fileName = toText(url)
     toJSON(fileName)
 
-allToText()
 allToJSON()
