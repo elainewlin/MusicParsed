@@ -16,7 +16,7 @@ var MotionDetect = function(args) {
 
   /* Line tracking variables */
   var song = args.song;
-  var numChordLines = song.getTotalNumChordLines() - 1;
+  var numChordLines = song.getTotalNumChordLines();
   var currentLine = 0;
   var nExpectedTransitions = song.getChordLength(currentLine);
   var nActualTransitions = 0;

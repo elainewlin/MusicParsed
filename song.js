@@ -9,9 +9,9 @@
 var SongView = function(args) {
   var that = this;
 
-  var currentLine = 1;
-  var numLyricLines = args.numLyricLines;
-  var numChordLines = args.numChordLines;
+  var currentLine = 0;
+  var numLyricLines = args.numLyricLines-1;
+  var numChordLines = args.numChordLines-1;
 
   /*
    * Returns the total number of lyrics lines in the song
