@@ -3,7 +3,9 @@
  *
  * @param {SongView} (args.song) the current SongView that is being played
  * @param {int} (args.pixelDiffThreshold) the pixel difference threshold
- * @param {int} (args.scrollThreshold) TODO: @Phoebe, idk what this is
+ * @param {int} (args.scoreThreshold) min motion score needed to be considered substantial motion
+ * @param {int} (args.x) x cutoff for region of interest in frame 
+ * @param {int} (args.y) y-coord for region of interest in frame
  * @constructor
  */
 var MotionDetect = function(args) {
@@ -57,7 +59,9 @@ var MotionDetect = function(args) {
   that.start = function() {
     return DiffCamEngine.init({
       pixelDiffThreshold: args.pixelDiffThreshold,
-      scrollThreshold : args.scrollThreshold,
+      scoreThreshold : args.scoreThreshold,
+      x: args.x,
+      y: args.y,
       initSuccessCallback: initSuccess,
       initErrorCallback: initError,
       captureCallback: capture,
@@ -79,7 +83,7 @@ var MotionDetect = function(args) {
     if (payload.hasMotion && ready) {
       // TODO: how to determine discrete motions from continuous input?
       // currently, one chord change == ~ 2 captured 'motions'
-      if (nActualTransitions >= nExpectedTransitions * 2) {
+      if (nActualTransitions >= nExpectedTransitions * 3) {
           if (currentLine + 1 <= numChordLines) {
             that.setCurrentLine(currentLine + 1);
             nActualTransitions = 0;
@@ -87,7 +91,7 @@ var MotionDetect = function(args) {
         } else {
           nActualTransitions++;
         }
-        // console.log("counted transitions: ", nActualTransitions, "currentLine: ", currentLine)
+        console.log("counted transitions: ", nActualTransitions, "currentLine: ", currentLine)
     }
   };
 };

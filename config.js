@@ -3,6 +3,12 @@ const WINDOW_HEIGHT = $(window).height();
 const TOP_REGION = 0.3;
 const BOTTOM_REGION = 0.6;
 
+// Motion Params
+const PIXEL_DIFF = 80;
+const SCORE_THRESH = 15;
+const MOTION_X = 45;
+const MOTION_Y = 30;
+
 // Gaze Params
 const GAZE_INTERVAL = 3; // in seconds
 
