@@ -50,6 +50,15 @@ def allToText():
     for url in lines:
         toText(url)
   
+# Checks whether a line is a label
+def isLabel(line):
+    labels = ['Verse', 'Bridge', 'Chorus', 'Solo', 'Outro']
+
+    for l in labels:
+        if l in line:
+            return True
+    return False
+
 # Text file of a song --> JSON file of a song
 def toJSON(fileName):
     textFile = os.path.join(textFolder, fileName)
@@ -79,8 +88,17 @@ def toJSON(fileName):
                 lCount += 1
 
         if lCount > 0 and lCount < 10: # Buggy if you have complicated chord names such as Cadd9
-            data['lines'].append({'lyrics': lines[i+1], 'chord': lines[i], 'count':count})
-            count += 1
+            newLine = {}
+            newLine['lyrics'] = lines[i+1]
+            newLine['chord'] = lines[i]
+            newLine['count'] = count
+
+            if(isLabel(lines[i])):
+                newLine['label'] = lines[i]
+            else: 
+                count += 1
+            data['lines'].append(newLine)
+            
 
     jsonFile = os.path.join(jsonFolder, song+'.json')
     with open(jsonFile, 'w') as outfile:

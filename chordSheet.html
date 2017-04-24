@@ -22,10 +22,15 @@
     <h1> {{title}} - {{artist}} </h1>
   </div>
   {{#lines}}
-    <div class="line" id={{count}}>
-      <div class="chords">{{chord}}</div>
-      <span class="lyrics">{{lyrics}}</span>
-    </div>
+    {{#label}}
+      <h4>{{label}}</h4>
+    {{/label}}
+    {{^label}}
+      <div class="line" id={{count}}>
+        <div class="chords">{{chord}}</div>
+        <span class="lyrics">{{lyrics}}</span>
+      </div>
+    {{/label}}
   {{/lines}}
   </script>
 
