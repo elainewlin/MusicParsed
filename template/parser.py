@@ -99,7 +99,8 @@ def toJSON(fileName):
                 count += 1
             data['lines'].append(newLine)
             
-
+    # TO-DO: fill in data['allSongs'] 
+    
     jsonFile = os.path.join(jsonFolder, song+'.json')
     with open(jsonFile, 'w') as outfile:
         json.dump(data, outfile)
