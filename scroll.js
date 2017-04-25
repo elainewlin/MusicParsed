@@ -7,21 +7,23 @@ var scroll = function(amt) {
   window.scrollBy(0,amt);
 }
 
-
 // Scroll Fusion
 // TODO: refine this
 var fusedScroll = function(y) {
-  var percentOfWindow = y/WINDOW_HEIGHT;
+  var docViewTop = $(window).scrollTop();
+  var docViewBottom = docViewTop + $(window).height();
+  var yInView = y - docViewTop;
+
   if (scrolldelay)
     clearInterval(scrolldelay);
 
-  if (percentOfWindow < TOP_REGION) {
+  if (yInView < TOP_REGION * WINDOW_HEIGHT) {
     console.log("SLOW SCROLL")
     scrolldelay = setInterval(
       function(){
         scroll(SLOW_SCROLL_AMT);
       },SCROLL_INTERVAL);
-  } else if (percentOfWindow > BOTTOM_REGION) {
+  } else if (yInView > BOTTOM_REGION * WINDOW_HEIGHT) {
     console.log("FAST SCROLL")
     scrolldelay = setInterval(
       function(){
