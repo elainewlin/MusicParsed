@@ -120,3 +120,4 @@ def addSong(url):
     toJSON(fileName)
 
 allToJSON()
+# "allChords":["Am", "F","C", "G", "D", "Bm"]

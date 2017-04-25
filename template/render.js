@@ -7,7 +7,7 @@ window.onload = function() {
   Mustache.parse(template);
   Mustache.parse(chordTemplate);
 
-  var allSongs = ["Love Story - Taylor Swift"]; // TO-DO update based on what songs are in the json folder
+  var allSongs = ["Love Story - Taylor Swift", "Yellow Submarine - The Beatles"]; // TO-DO update based on what songs are in the json folder
 
   $("#tags").autocomplete({
     source: allSongs,

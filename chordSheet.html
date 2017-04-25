@@ -27,7 +27,7 @@
     {{/label}}
     {{^label}}
       <div class="line" id={{count}}>
-        <div class="chords">{{chord}}</div>
+        <div class="chords"><span>{{chord}}</span></div>
         <span class="lyrics">{{lyrics}}</span>
       </div>
     {{/label}}
@@ -63,8 +63,8 @@
 </head>
 
 <body>
-  <button id ="calibrate"> Done Calibrating </button>
-  <button id="start"> Start </button>
+  <button id="calibrate" class="btn btn-default"> Done Calibrating </button>
+  <button id="start" class="btn btn-success"> Start </button>
   <div class="container">
     <div class="row">
       <div class="ui-widget">
@@ -87,137 +87,204 @@
     <div class="row">
       <div class="col-xs-6" id="song">
         <div>
-          <h1> Yellow Submarine (The Beatles) </h1>
+          <h1> Love Story - Taylor Swift </h1>
         </div>
-        <br>
-        <div id="0" class="line">
-          <div class="chords">      D        (C)    G </div>
-          <span class="lyrics"> In the town where I was born </span>
-        </div>
-        <div id="1" class="line">
-          <div class="chords">(Em)    Am      (C)     D </div>
-          <span class="lyrics"> Lived a man who sailed to sea </span>
-        </div>
-        <div id="2" class="line">
-          <div class="chords">(G)    D     (C)   G </div>
-          <span class="lyrics"> And he told us of his life </span>
-        </div>
-        <div id="3" class="line">
-          <div class="chords">(Em)  Am    (C)   D </div>
-          <span class="lyrics"> In the land of submarines </span>
-        </div>
-        <br>
-        <div id="4" class="line">
-          <div class="chords">(G)    D      (C)   G </div>
-          <span class="lyrics"> So we sailed up to the sun </span>
-        </div>
-        <div id="5" class="line">
-          <div class="chords">(Em)    Am     (C)    D </div>
-          <span class="lyrics"> Till we found the sea of green </span>
-        </div>
-        <div id="6" class="line">
-          <div class="chords">(G)     D    (C)        G </div>
-          <span class="lyrics"> And we lived beneath the waves </span>
-        </div>
-        <div id="7" class="line">
-          <div class="chords">(Em)    Am  (C)   D </div>
-          <span class="lyrics"> In our yellow submarine </span>
-        </div>
-        <br>
-        <div>
-          <p> CHORUS: </p>
-        </div>
-        <div id="8" class="line">
-          <div class="chords">G             D</div>
-          <span class="lyrics"> We all live in a yellow submarine </span>
-        </div>
-        <div id="9" class="line">
-          <div class="chords">D                G</div>
-          <span class="lyrics"> Yellow submarine, yellow submarine </span>
-        </div>
-        <div id="10" class="line">
-          <div class="chords">G             D</div>
-          <span class="lyrics"> We all live in a yellow submarine </span>
-        </div>
-        <div id="11" class="line">
-          <div class="chords">D                G</div>
-          <span class="lyrics"> Yellow submarine, yellow submarine </span>
-        </div>
-        <br>
-        <div id="12" class="line">
-          <div class="chords">        D        (C)    G </div>
-          <span class="lyrics"> And our friends are all on board </span>
-        </div>
-        <div id="13" class="line">
-          <div class="chords">(Em)  Am          (C)      D </div>
-          <span class="lyrics"> Many more of them live next door </span>
-        </div>
-        <div id="14" class="line">
-          <div class="chords">(G)     D     (C)    G    (Em)   Am   (C)   D</div>
-          <span class="lyrics"> And the band begins to play </span>
-        </div>
-        <br>
-        <div>
-          <p> CHORUS: </p>
-        </div>
-        <div id="15" class="line">
-          <div class="chords">G             D</div>
-          <span class="lyrics"> We all live in a yellow submarine </span>
-        </div>
-        <div id="16" class="line">
-          <div class="chords">D                G</div>
-          <span class="lyrics"> Yellow submarine, yellow submarine </span>
-        </div>
-        <div id="17" class="line">
-          <div class="chords">G             D</div>
-          <span class="lyrics"> We all live in a yellow submarine </span>
-        </div>
-        <div id="18" class="line">
-          <div class="chords">D                G</div>
-          <span class="lyrics"> Yellow submarine, yellow submarine </span>
-        </div>
-        <br>
-        <div id="19" class="line">
-          <div class="chords">(G)    D   (C)   G</div>
-          <span class="lyrics"> As we live a life of ease </span>
-        </div>
-        <div id="20" class="line">
-          <div class="chords">(Em)  Am   (C)          D</div>
-          <span class="lyrics"> Everyone of us has all we need </span>
-        </div>
-        <div id="21" class="line">
-          <div class="chords">(G)    D      (C)     G</div>
-          <span class="lyrics"> Sky of blue and sea of green </span>
-        </div>
-        <div id="22" class="line">
-          <div class="chords">(Em)   Am   (C)   D</div>
-          <span class="lyrics"> In our yellow submarine </span>
-        </div>
-        <br>
-        <div>
-          <p> CHORUS: </p>
-        </div>
-        <div id="23" class="line">
-          <div class="chords">G             D</div>
-          <span class="lyrics"> We all live in a yellow submarine </span>
-        </div>
-        <div id="24" class="line">
-          <div class="chords">D                G</div>
-          <span class="lyrics"> Yellow submarine, yellow submarine </span>
-        </div>
-        <div id="25" class="line">
-          <div class="chords">G             D</div>
-          <span class="lyrics"> We all live in a yellow submarine </span>
-        </div>
-        <div id="26" class="line">
-          <div class="chords">D                G</div>
-          <span class="lyrics"> Yellow submarine, yellow submarine </span>
-        </div>
+       <h4>[Verse 1]</h4>
+      <div class="line" id="0">
+        <div class="chords"><span>C</span></div>
+        <span class="lyrics">We were both young when I first saw you</span>
+      </div>
+      <div class="line" id="1">
+        <div class="chords"><span>F</span></div>
+        <span class="lyrics">I close my eyes and the flashback starts</span>
+      </div>
+      <div class="line" id="2">
+        <div class="chords"><span>Am                       F</span></div>
+        <span class="lyrics">I'm standing there on a balcony of summer air</span>
+      </div>
+      <div class="line" id="3">
+        <div class="chords"><span>C</span></div>
+        <span class="lyrics">See the lights, see the party, the ball gowns</span>
+      </div>
+      <div class="line" id="4">
+        <div class="chords"><span>F</span></div>
+        <span class="lyrics">I see you make your way through the crowd</span>
+      </div>
+      <div class="line" id="5">
+        <div class="chords"><span>Am</span></div>
+        <span class="lyrics">You say hello</span>
+      </div>
+      <div class="line" id="6">
+        <div class="chords"><span>G</span></div>
+        <span class="lyrics">Little did I know</span>
+      </div>
+      <div class="line" id="7">
+        <div class="chords"><span>F                      G</span></div>
+        <span class="lyrics">That you were Romeo, you were throwing pebbles</span>
+      </div>
+      <div class="line" id="8">
+        <div class="chords"><span>Am                       C</span></div>
+        <span class="lyrics">And my daddy said stay away from Juliet</span>
+      </div>
+      <div class="line" id="9">
+        <div class="chords"><span>F</span></div>
+        <span class="lyrics">And I was crying on the staircase</span>
+      </div>
+      <div class="line" id="10">
+        <div class="chords"><span>G                      Am F     G</span></div>
+        <span class="lyrics">Begging you please don't go, and I said</span>
+      </div>
+      <h4>[Chorus]</h4>
+      <div class="line" id="11">
+        <div class="chords"><span>C</span></div>
+        <span class="lyrics">Romeo take me somewhere we can be alone</span>
+      </div>
+      <div class="line" id="12">
+        <div class="chords"><span>G</span></div>
+        <span class="lyrics">I'll be waiting all there's left to do is run</span>
+      </div>
+      <div class="line" id="13">
+        <div class="chords"><span>Am</span></div>
+        <span class="lyrics">You'll be the prince and I'll be the princess</span>
+      </div>
+      <div class="line" id="14">
+        <div class="chords"><span>F                G                 C</span></div>
+        <span class="lyrics">Its a love story baby just say yes</span>
+      </div>
+      <h4>[Verse 2]</h4>
+      <div class="line" id="15">
+        <div class="chords"><span>C</span></div>
+        <span class="lyrics">So I sneak out to the garden to see you</span>
+      </div>
+      <div class="line" id="16">
+        <div class="chords"><span>F</span></div>
+        <span class="lyrics">We keep quiet 'cause we're dead if they knew</span>
+      </div>
+      <div class="line" id="17">
+        <div class="chords"><span>Am</span></div>
+        <span class="lyrics">So close your eyes</span>
+      </div>
+      <div class="line" id="18">
+        <div class="chords"><span>G</span></div>
+        <span class="lyrics">Escape this town for a little while</span>
+      </div>
+      <div class="line" id="19">
+        <div class="chords"><span>F                      G</span></div>
+        <span class="lyrics">'Cause you were Romeo I was a scarlet letter</span>
+      </div>
+      <div class="line" id="20">
+        <div class="chords"><span>Am                        C</span></div>
+        <span class="lyrics">and my daddy said stay away from Juliet</span>
+      </div>
+      <div class="line" id="21">
+        <div class="chords"><span>F</span></div>
+        <span class="lyrics">But you were everything to me I was</span>
+      </div>
+      <div class="line" id="22">
+        <div class="chords"><span>G                      Am  F   G</span></div>
+        <span class="lyrics">Begging you please don't go, and I said</span>
+      </div>
+      <h4>[Chorus]</h4>
+      <div class="line" id="23">
+        <div class="chords"><span>C</span></div>
+        <span class="lyrics">Romeo take me somewhere we can be alone</span>
+      </div>
+      <div class="line" id="24">
+        <div class="chords"><span>G</span></div>
+        <span class="lyrics">I'll be waiting all theres left to do is run</span>
+      </div>
+      <div class="line" id="25">
+        <div class="chords"><span>Am</span></div>
+        <span class="lyrics">You be the prince i'll be the princess</span>
+      </div>
+      <div class="line" id="26">
+        <div class="chords"><span>F                G</span></div>
+        <span class="lyrics">Its a love story baby just say yes</span>
+      </div>
+      <div class="line" id="27">
+        <div class="chords"><span>C</span></div>
+        <span class="lyrics">Romeo, save me, they try to tell me how to feel</span>
+      </div>
+      <div class="line" id="28">
+        <div class="chords"><span>G</span></div>
+        <span class="lyrics">This love is difficult, but it's real,</span>
+      </div>
+      <div class="line" id="29">
+        <div class="chords"><span>Am</span></div>
+        <span class="lyrics">Don't be afraid, we'll make it out of this mess</span>
+      </div>
+      <div class="line" id="30">
+        <div class="chords"><span>F                G</span></div>
+        <span class="lyrics">Its a love story baby just say yes, oh</span>
+      </div>
+      <h4>[Solo]</h4>
+      <div class="line" id="31">
+        <div class="chords"><span>C  G  Am  F G</span></div>
+        <span class="lyrics"></span>
+      </div>
+      <h4>[Bridge]</h4>
+      <div class="line" id="32">
+        <div class="chords"><span>Am     F               C                         G</span></div>
+        <span class="lyrics">I got tired of waiting,   wondering if you were ever coming around</span>
+      </div>
+      <div class="line" id="33">
+        <div class="chords"><span>Am      F</span></div>
+        <span class="lyrics">My faith in you was fading</span>
+      </div>
+      <div class="line" id="34">
+        <div class="chords"><span>C                             G</span></div>
+        <span class="lyrics">When I met you on the outskirts of town and I said</span>
+      </div>
+      <h4>[Chorus]</h4>
+      <div class="line" id="35">
+        <div class="chords"><span>C</span></div>
+        <span class="lyrics">Romeo save me i've been feeling so alone</span>
+      </div>
+      <div class="line" id="36">
+        <div class="chords"><span>G</span></div>
+        <span class="lyrics">I keep waiting for you but you never come</span>
+      </div>
+      <div class="line" id="37">
+        <div class="chords"><span>Am</span></div>
+        <span class="lyrics">Is this in my head, I don't know what to think</span>
+      </div>
+      <div class="line" id="38">
+        <div class="chords"><span>F                       G</span></div>
+        <span class="lyrics">He knelt to the ground and pulled out a ring and said</span>
+      </div>
+      <div class="line" id="39">
+        <div class="chords"><span>D</span></div>
+        <span class="lyrics">Marry me, Juliet you'll never have to be alone</span>
+      </div>
+      <div class="line" id="40">
+        <div class="chords"><span>A</span></div>
+        <span class="lyrics">I love you, and that's all I really know</span>
+      </div>
+      <div class="line" id="41">
+        <div class="chords"><span>Bm</span></div>
+        <span class="lyrics">I talked to your dad, go pick out a white dress</span>
+      </div>
+      <div class="line" id="42">
+        <div class="chords"><span>G                 A          D</span></div>
+        <span class="lyrics">Its a love story baby just say yes</span>
+      </div>
+      <h4>[Outro]</h4>
+      <div class="line" id="43">
+        <div class="chords"><span>D  A      Bm</span></div>
+        <span class="lyrics">uh Oh, uh oh, yes</span>
+      </div>
+      <div class="line" id="44">
+        <div class="chords"><span>G                           D</span></div>
+        <span class="lyrics">We were both young when I first saw you</span>
+      </div>
       </div>
       <div class="col-xs-6" id="chordPics">
         <img src="/chords/ukulele/Am.png" />
-        <img src="/chords/ukulele/D.png" />
+        <img src="/chords/ukulele/F.png" />
+        <img src="/chords/ukulele/C.png" />
         <img src="/chords/ukulele/G.png" />
+        <img src="/chords/ukulele/D.png" />
+        <img src="/chords/ukulele/Bm.png" />
       </div>
     </div> <!-- class="row" -->
   </div> <!-- class="container" -->

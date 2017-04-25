@@ -1,6 +1,6 @@
 .line {
     font-family: monospace;
-    font-size: 13px;
+    font-size: 12px;
 }
 .chords {
     display: block;
@@ -13,10 +13,10 @@
 }
 
 .lyrics.current {
-    background-color: #C1F7C7;
+    background-color: #FFE1F0;
 }
 
-.chords.current {
+.chords.current > span {
     background-color: #C1F2F7;
 }
 
@@ -35,4 +35,13 @@ video, canvas {
 
 img {
     width: 100px;
+}
+
+input[type="checkbox"] {
+  transform:scale(2, 2);
+  margin-right: 20px;
+}
+
+form { 
+    font-size: 18px;
 }
