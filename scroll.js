@@ -10,32 +10,23 @@ var scroll = function(amt) {
 // Scroll Fusion
 // TODO: refine this
 var fusedScroll = function() {
-  // console.log("FUSED SCROLL")
   var docViewTop = $(window).scrollTop();
   var docViewBottom = docViewTop + $(window).height();
   var yInView = finalY - docViewTop;
 
-  if (scrolldelay)
-    clearInterval(scrolldelay);
-
   if (yInView < TOP_REGION * WINDOW_HEIGHT) {
     console.log("SLOW SCROLL")
-    scrolldelay = setInterval(
-      function(){
-        scroll(SLOW_SCROLL_AMT);
-      },SCROLL_INTERVAL);
+    scroll(SLOW_SCROLL_AMT);
   } else if (yInView > BOTTOM_REGION * WINDOW_HEIGHT) {
     console.log("FAST SCROLL")
-    scrolldelay = setInterval(
-      function(){
-        scroll(FAST_SCROLL_AMT);
-      },SCROLL_INTERVAL);
+    // $('html, body').animate({
+    //     scrollTop: docViewTop + TOP_REGION * WINDOW_HEIGHT
+    // }, 1500);
+
+    scroll(FAST_SCROLL_AMT);
   } else {
     console.log('ideal region')
-    scrolldelay = setInterval(
-      function(){
-        scroll(IDEAL_SCROLL_AMT);
-      },IDEAL_SCROLL_INTERVAL);
+    scroll(IDEAL_SCROLL_AMT)
   }
 }
 

@@ -14,7 +14,7 @@ $(document).ready(function() {
   /* ADD BUTTON HERE*/
   setInterval(function(){
         fusedScroll();
-      },5);
+      },50);
 
   // Note: this class will be useful for connecting motion and speech fusion 
   //  with the view
@@ -71,11 +71,6 @@ $(document).ready(function() {
       engine.removeVid();
       $(this).remove();
       motion.setReady(true);
-
-      // initial scrolling
-      // scrolldelay = setInterval(function(){
-      //     scroll(1); // 1 pixel
-      // },SCROLL_INTERVAL);
     });
 
     // listens for when the motion detection updates the line
