@@ -24,6 +24,13 @@ var SpeechRec = function(args) {
   var lyrics = song.getLineElement(currentLine+1)[0].textContent;
 
   /*
+   * Sets song view 
+   */
+  that.setSong = function(songview) {
+    song = songview;
+  }
+
+  /*
    * Sets the current line that speech is tracking
    * @param {int} the new line number
    */

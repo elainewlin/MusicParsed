@@ -14,6 +14,20 @@ var SongView = function(args) {
   var numChordLines = args.numChordLines-1;
 
   /*
+   * Set numLyricLines to lyrics' length
+   */
+  that.setNumLyricLines = function() {
+    numLyricLines = $('.lyrics').length - 1;
+  }
+
+  /*
+   * Set numChordLines to lyrics' length
+   */
+  that.setNumChordLines = function() {
+    numChordLines = $('.chords').length - 1;
+  }
+
+  /*
    * Returns the total number of lyrics lines in the song
    */
   that.getTotalNumLines = function() {
@@ -52,7 +66,6 @@ var SongView = function(args) {
     chords = chords.filter(function(c) {
       return /\S/.test(c);
     });
-    console.log(chords);
     return chords.length;
   }
 

@@ -6,9 +6,9 @@ var gazeOn = (window.localStorage.getItem("gazeOn") === "true");
 var speech;
 var motion;
 var gaze;
+var songView;
 
 $(document).ready(function() {
-
   // Note: this class will be useful for connecting motion and speech fusion 
   //  with the view
   var songViewParams = {
@@ -16,7 +16,7 @@ $(document).ready(function() {
     numChordLines: $('.chords').length,
     debug: false
   };
-  var songView = new SongView(songViewParams);
+  songView = new SongView(songViewParams);
 
   /**** Speech Recognition Set-Up ****/
   if (speechOn) {

@@ -18,10 +18,27 @@ window.onload = function() {
         //Overwrite the contents of song with the rendered HTML
         document.getElementById('song').innerHTML = Mustache.render(template, data);
         document.getElementById('chordPics').innerHTML = Mustache.render(chordTemplate, data);
-        if (motion)
-          motion.setCurrentLine(0, true);
-        if (speech)
-          speech.setCurrentLine(0, true);
+        if (songView) {
+          songView.setNumLyricLines();
+          songView.setNumChordLines();
+          if (motion) {
+            motion.setSong(songView);
+            motion.setCurrentLine(0, true);
+            $(".line").click(function(e) {
+              var id = e.currentTarget.id;
+              motion.setCurrentLine(parseInt(id));
+              motion.setActualTransitions(0);
+            });
+          }
+          if (speech) {
+            speech.setSong(songView);
+            speech.setCurrentLine(0, true);
+            $(".line").click(function(e) {
+              var id = e.currentTarget.id;
+              speech.setCurrentLine(parseInt(id));
+            });
+          }
+        }
       });
     }
   }); 

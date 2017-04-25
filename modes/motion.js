@@ -22,6 +22,15 @@ var MotionDetect = function(args) {
   var nActualTransitions = 0;
 
   /*
+   * Sets song view
+   */
+  that.setSong = function(songview) {
+    song = songview;
+    numChordLines = song.getTotalNumChordLines();
+    nExpectedTransitions = song.getChordLength(currentLine);
+  }
+
+  /*
    * Sets the current line that speech is tracking
    * @param {int} the new line number
    */
@@ -91,7 +100,7 @@ var MotionDetect = function(args) {
         } else {
           nActualTransitions++;
         }
-        console.log("counted transitions: ", nActualTransitions, "currentLine: ", currentLine)
+        // console.log("counted transitions: ", nActualTransitions, "currentLine: ", currentLine)
     }
   };
 };
