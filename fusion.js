@@ -29,12 +29,13 @@ var fuse = function() {
 	var yGaze = gaze ? gaze.getCurrentY() : 0;
   var yLine = fusedLineToY();
   if (yLine === 0) {
-  	fusedScroll(yGaze);
+  	finalY = yGaze;
   } else if (yGaze === 0) {
-  	fusedScroll(yLine);
+  	finalY = yLine;
   } else {
   	var result = ((1-LINE_W)*(yLine) + GAZE_W*yGaze);
-  	fusedScroll(result);
+  	// fusedScroll(result);
+  	finalY = result;
   }
   console.log('yGaze: ', yGaze, 'yLine: ', yLine)
 }

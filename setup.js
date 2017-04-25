@@ -8,7 +8,14 @@ var motion;
 var gaze;
 var songView;
 
+var finalY;
+
 $(document).ready(function() {
+  /* ADD BUTTON HERE*/
+  setInterval(function(){
+        fusedScroll();
+      },5);
+
   // Note: this class will be useful for connecting motion and speech fusion 
   //  with the view
   var songViewParams = {
@@ -66,9 +73,9 @@ $(document).ready(function() {
       motion.setReady(true);
 
       // initial scrolling
-      scrolldelay = setInterval(function(){
-          scroll(1); // 1 pixel
-      },SCROLL_INTERVAL);
+      // scrolldelay = setInterval(function(){
+      //     scroll(1); // 1 pixel
+      // },SCROLL_INTERVAL);
     });
 
     // listens for when the motion detection updates the line

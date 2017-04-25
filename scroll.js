@@ -9,10 +9,11 @@ var scroll = function(amt) {
 
 // Scroll Fusion
 // TODO: refine this
-var fusedScroll = function(y) {
+var fusedScroll = function() {
+  // console.log("FUSED SCROLL")
   var docViewTop = $(window).scrollTop();
   var docViewBottom = docViewTop + $(window).height();
-  var yInView = y - docViewTop;
+  var yInView = finalY - docViewTop;
 
   if (scrolldelay)
     clearInterval(scrolldelay);
@@ -33,8 +34,8 @@ var fusedScroll = function(y) {
     console.log('ideal region')
     scrolldelay = setInterval(
       function(){
-        scroll(2);
-      },SCROLL_INTERVAL);
+        scroll(IDEAL_SCROLL_AMT);
+      },IDEAL_SCROLL_INTERVAL);
   }
 }
 
