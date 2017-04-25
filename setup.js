@@ -11,10 +11,13 @@ var songView;
 var finalY;
 
 $(document).ready(function() {
-  /* ADD BUTTON HERE*/
-  setInterval(function(){
+
+  $(document).on('click', '#start', function() {
+    console.log('blah');
+    setInterval(function(){
         fusedScroll();
       },50);
+  });
 
   // Note: this class will be useful for connecting motion and speech fusion 
   //  with the view
