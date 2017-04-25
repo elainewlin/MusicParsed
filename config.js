@@ -24,4 +24,4 @@ const SCROLL_INTERVAL = 10; // in ms
 const SLOW_SCROLL_AMT = 2; // pixels
 const FAST_SCROLL_AMT = 5; // pixels
 const IDEAL_SCROLL_AMT = 1;
-const IDEAL_SCROLL_INTERVAL = 20;
+const IDEAL_SCROLL_INTERVAL = 1000;
