@@ -7,10 +7,10 @@ window.onload = function() {
   Mustache.parse(template);
   Mustache.parse(chordTemplate);
 
-  var allSongs = ["Love Story - Taylor Swift", "Yellow Submarine - The Beatles"]; // TO-DO update based on what songs are in the json folder
-
+  var allSongs = ["Love Story - Taylor Swift", "Yellow Submarine - The Beatles"]; 
+  
   $("#tags").autocomplete({
-    source: allSongs,
+     source: allSongs,
      select: function(event, ui) { 
       var file = ui.item.label + ".json";
       $.getJSON("/template/json/"+file, function(data) {

@@ -59,6 +59,12 @@ def isLabel(line):
             return True
     return False
 
+# String with chords to chords
+def getChords(chordString):
+
+    split = chordString.split()
+
+
 # Text file of a song --> JSON file of a song
 def toJSON(fileName):
     textFile = os.path.join(textFolder, fileName)
@@ -75,6 +81,8 @@ def toJSON(fileName):
     data['artist'] = artist
     data['lines'] = []
     count = 0
+
+    allChords = set()
 
     for i in xrange(len(lines)):
         l = lines[i]
@@ -97,9 +105,12 @@ def toJSON(fileName):
                 newLine['label'] = lines[i]
             else: 
                 count += 1
+                for c in lines[i].split():
+                    allChords.add(c)
+
             data['lines'].append(newLine)
-            
-    # TO-DO: fill in data['allSongs'] 
+        
+    data['allChords'] = list(allChords)
     
     jsonFile = os.path.join(jsonFolder, song+'.json')
     with open(jsonFile, 'w') as outfile:
