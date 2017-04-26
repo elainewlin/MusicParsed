@@ -13,7 +13,7 @@ var fusedLineToY = function() {
 	} else if (motion && speech) {
 		var lineMotion = motion.getCurrentLine();
 		var lineSpeech = speech.getCurrentLine();
-		fusedLine = Math.max(Math.ceil((MOTION_W*(lineMotion) + SPEECH_W*lineSpeech)), 1);
+		fusedLine = Math.max(Math.round((MOTION_W*(lineMotion) + SPEECH_W*lineSpeech)), 1);
 
 		motion.setCurrentLine(fusedLine, true); // true === is currently fusing
 		speech.setCurrentLine(fusedLine, true);

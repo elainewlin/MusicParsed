@@ -8,6 +8,9 @@
 var GazeTracker = function(args) {
   var that = this;
 
+  /* Detection Variables */
+    var ready = false;
+
   /* Y-Coord Tracking Variables */
   var currentY;
   var detectedYs = [];
@@ -18,6 +21,13 @@ var GazeTracker = function(args) {
   that.getCurrentY = function() {
     return currentY;
   };
+
+  /*
+   * Sets gaze detection status as 'ready'
+  */
+  that.setReady = function(isReady) {
+    ready = isReady;
+  }
 
   /*
    * Sets up and begins gaze tracking
@@ -37,7 +47,7 @@ var GazeTracker = function(args) {
     if (data == null) 
       return;
 
-    if (args.fusionDebug) 
+    if (args.fusionDebug && ready)
       updateGazeY(data.y, clock)
     // TODO: remove the following once fusion is done:
     else {

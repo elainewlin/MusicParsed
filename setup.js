@@ -16,6 +16,10 @@ $(document).ready(function() {
     setInterval(function(){
         fusedScroll();
       },SCROLL_INTERVAL);
+
+    if (gaze) {
+      gaze.setReady(true);
+    }
   });
 
   // Note: this class will be useful for connecting motion and speech fusion 
@@ -71,7 +75,11 @@ $(document).ready(function() {
     $('#calibrate').click(function() {
       engine.removeVid();
       $(this).remove();
-      motion.setReady(true);
+      setTimeout(function() {
+        console.log('hai')
+        motion.setReady(true);
+      }, 3000); // time between pressing and putting hand back on uke
+      // motion.setReady(true);
     });
 
     // listens for when the motion detection updates the line

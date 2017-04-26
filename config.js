@@ -6,17 +6,17 @@ const BOTTOM_REGION = 0.6;
 // Motion Params
 const PIXEL_DIFF = 80;
 const SCORE_THRESH = 15;
-const MOTION_X = 45;
+const MOTION_X = 40;
 const MOTION_Y = 30;
 
 // Gaze Params
 const GAZE_INTERVAL = 3; // in seconds
 
 // Fusion Params
-const MOTION_W = 0.3;
+const MOTION_W = 0.6; // use 0.4 if not using gaze
 const SPEECH_W = 1 - MOTION_W;
 
-const LINE_W = 0.9; 
+const LINE_W = 0.95; 
 const GAZE_W = 1 - LINE_W;
 
 // Fused Scrolling Params
