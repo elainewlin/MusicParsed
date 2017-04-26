@@ -10,48 +10,35 @@ var scroll = function(amt) {
 // Scroll Fusion
 // TODO: refine this
 var fusedScroll = function() {
+  var windowHeight = $(window).height();
   var docViewTop = $(window).scrollTop();
-  var docViewBottom = docViewTop + $(window).height();
+  var docViewBottom = docViewTop + windowHeight;
   var yInView = finalY - docViewTop;
+  
+  var idealBottom = BOTTOM_REGION * windowHeight;
+  var idealTop = TOP_REGION * windowHeight;
+  var delta = 0;
 
-  if (yInView < TOP_REGION * WINDOW_HEIGHT) {
-    console.log("SLOW SCROLL")
-    scroll(SLOW_SCROLL_AMT);
-  } else if (yInView > BOTTOM_REGION * WINDOW_HEIGHT) {
-    console.log("FAST SCROLL")
-    // $('html, body').animate({
-    //     scrollTop: docViewTop + TOP_REGION * WINDOW_HEIGHT
-    // }, 1500);
-
-    scroll(FAST_SCROLL_AMT);
+  if (yInView > idealBottom) {
+    console.log("FASTER")
+    var slope = getSlope(idealBottom, IDEAL_SCROLL_DELTA, windowHeight, MAX_SCROLL_DELTA)
+    delta = solveForY(slope, windowHeight, MAX_SCROLL_DELTA, yInView);
+  } else if (yInView < idealTop) {
+    console.log("SLOWER")
+    var slope = getSlope(0, MIN_SCROLL_DELTA, idealTop, IDEAL_SCROLL_DELTA);
+    delta = solveForY(slope, idealTop, IDEAL_SCROLL_DELTA, yInView);    
   } else {
-    console.log('ideal region')
-    scroll(IDEAL_SCROLL_AMT)
+    console.log("IDEAL");
+    delta = IDEAL_SCROLL_DELTA;
   }
+  scroll(SCROLL_AMT_DEFAULT + delta);
 }
 
-/*
-var bigScroll = function() {
-  var viewportHeight = $(window).height();
-  var currentScrollTop = $('body').scrollTop();
-    var amount = viewportHeight * 0.5;
-
-    $('html, body').animate({
-        scrollTop: currentScrollTop + amount
-    }, 1500);
+var getSlope = function (x1, y1, x2, y2) {
+  return (y2-y1)/(x2-x1);
 }
 
-// Need to be able to listen every time the "current" div updates
-$(document).ready( function() {
-  $('.lyrics').each(function(index, elem) {
-    elem.addEventListener('onCurrentUpdate', function(e) {
-      $(e.target).addClass('current');
-      var divOffset = e.target.getBoundingClientRect();
-      var viewportHeight = $(window).height();
-      if (Math.abs(divOffset.top - viewportHeight) < 100) {
-        bigScroll();
-      }
-    });
-  });
-});
-*/
+var solveForY = function (slope, x1, y1, x) {
+  // point slope form: y-y_1 = m(x-x1)
+  return slope*(x - x1) + y1;  
+}

@@ -1,5 +1,5 @@
 // General Params
-const WINDOW_HEIGHT = $(window).height();
+const WINDOW_HEIGHT = $(window).height(); // remove windowHeight after fusion is done
 const TOP_REGION = 0.3;
 const BOTTOM_REGION = 0.6;
 
@@ -16,12 +16,13 @@ const GAZE_INTERVAL = 3; // in seconds
 const MOTION_W = 0.3;
 const SPEECH_W = 1 - MOTION_W;
 
-const LINE_W = 0.5;
+const LINE_W = 0.9; 
 const GAZE_W = 1 - LINE_W;
 
 // Fused Scrolling Params
-const SCROLL_INTERVAL = 10; // in ms
-const SLOW_SCROLL_AMT = 2; // pixels
-const FAST_SCROLL_AMT = 5; // pixels
-const IDEAL_SCROLL_AMT = 1;
-const IDEAL_SCROLL_INTERVAL = 1000;
+const SCROLL_AMT_DEFAULT = 1; // range: [0, 5] pixels
+const SCROLL_INTERVAL = 1000; // in ms
+
+const MAX_SCROLL_DELTA = 300;
+const MIN_SCROLL_DELTA = -20; // can scroll up a little, can change if necessary
+const IDEAL_SCROLL_DELTA = 0; // range: [-SCROLL_AMT_DEFAULT, 0]

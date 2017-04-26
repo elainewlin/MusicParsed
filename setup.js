@@ -13,10 +13,9 @@ var finalY;
 $(document).ready(function() {
 
   $(document).on('click', '#start', function() {
-    console.log('blah');
     setInterval(function(){
         fusedScroll();
-      },50);
+      },SCROLL_INTERVAL);
   });
 
   // Note: this class will be useful for connecting motion and speech fusion 
@@ -43,7 +42,6 @@ $(document).ready(function() {
 
     // listens for when the speech recognition updates the line
     $(speech).on('speechUpdate', function(e, info) {
-      // console.log(info);
       songView.getLineElement(info.previousLine).removeClass('current');
       songView.getLineElement(info.nextLine).addClass('current');
       if (!info.fusing)
@@ -105,7 +103,6 @@ $(document).ready(function() {
 
     // listens for when the gaze tracking updates the y-coord
     $(gaze).on('gazeUpdate', function(e, info) {
-      // console.log(info);
       fuse();
     });
   }

@@ -33,8 +33,7 @@ var fuse = function() {
   } else if (yGaze === 0) {
   	finalY = yLine;
   } else {
-  	var result = ((1-LINE_W)*(yLine) + GAZE_W*yGaze);
-  	// fusedScroll(result);
+  	var result = (LINE_W*yLine + GAZE_W*yGaze);
   	finalY = result;
   }
   console.log('yGaze: ', yGaze, 'yLine: ', yLine)
