@@ -53,11 +53,11 @@ def allToText():
 # Checks whether a line is a label
 def isLabel(line):
     labels = ['Verse', 'Bridge', 'Chorus', 'Solo', 'Outro']
-
-    for l in labels:
-        if l in line:
-            return True
-    return False
+    return ('[' in line and ']' in line)
+    # for l in labels:
+    #     if l in line:
+    #         return True
+    # return False
 
 # String with chords to chords
 def getChords(chordString):
@@ -95,20 +95,23 @@ def toJSON(fileName):
             if c != ' ':
                 lCount += 1
 
-        if lCount > 0 and lCount < 10: # Buggy if you have complicated chord names such as Cadd9
-            newLine = {}
-            newLine['lyrics'] = lines[i+1]
-            newLine['chord'] = lines[i]
-            newLine['count'] = count
+        newLine = {}
 
-            if(isLabel(lines[i])):
-                newLine['label'] = lines[i]
-            else: 
+        if(isLabel(lines[i])):
+            newLine['label'] = lines[i]
+            count += 1
+            data['lines'].append(newLine)
+        else:
+            if lCount > 0 and lCount < 9: # Buggy if you have complicated chord names such as Cadd9
+                newLine['lyrics'] = lines[i+1]
+                newLine['chord'] = lines[i]
+                newLine['count'] = count
+
                 count += 1
                 for c in lines[i].split():
                     allChords.add(c)
 
-            data['lines'].append(newLine)
+                data['lines'].append(newLine)
         
     data['allChords'] = list(allChords)
     
@@ -123,12 +126,12 @@ def allToJSON():
         if fileName.endswith(".txt"):
             toJSON(fileName)
             allSongs.append(fileName.split(".txt")[0])
-    print allSongs
+    with open('allSongs.json', 'w') as outfile:
+        json.dump(allSongs, outfile)
 
 # URL of a song --> JSON file of a song
 def addSong(url):
     fileName = toText(url)
     toJSON(fileName)
-
+# allToText()
 allToJSON()
-# "allChords":["Am", "F","C", "G", "D", "Bm"]
