@@ -70,7 +70,7 @@ def toJSON(fileName):
     textFile = os.path.join(textFolder, fileName)
     f = open(textFile, 'r') 
     lines = f.readlines()
-    lines = [x.strip() for x in lines] 
+    lines = [x.rstrip() for x in lines] 
 
     data = {}
 
@@ -99,7 +99,6 @@ def toJSON(fileName):
 
         if(isLabel(lines[i])):
             newLine['label'] = lines[i]
-            count += 1
             data['lines'].append(newLine)
         else:
             if lCount > 0 and lCount < 9: # Buggy if you have complicated chord names such as Cadd9
@@ -107,10 +106,9 @@ def toJSON(fileName):
                 newLine['chord'] = lines[i]
                 newLine['count'] = count
 
-                count += 1
                 for c in lines[i].split():
                     allChords.add(c)
-
+                count += 1
                 data['lines'].append(newLine)
         
     data['allChords'] = list(allChords)
