@@ -16,8 +16,13 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script> 
 
   <script>
-    localStorage.clear();
-    
+    $(window).bind("pageshow", function() {
+      localStorage.clear();
+
+      $("#speech-box").prop("checked", false);
+      $('#motion-box').prop("checked", false);
+      $('#gaze-box').prop("checked", false);
+
     $(document).on('change', '#speech-box', function(evt) {
       window.localStorage.setItem("speechOn", evt.target.checked.toString());
     });
@@ -27,7 +32,7 @@
     $(document).on('change', '#gaze-box', function(evt) {
       window.localStorage.setItem("gazeOn", evt.target.checked.toString());
     });
-    
+  });
   </script>
   
 </head>
