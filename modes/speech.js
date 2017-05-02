@@ -38,7 +38,9 @@ var SpeechRec = function(args) {
     var info = {previousLine: currentLine, nextLine: newLineNum, fusing: fusing};
   	currentLine = newLineNum; // update current line before event trigger in case fusion
     $(that).triggerHandler("speechUpdate", info);
-  	lyrics = song.getLineElement(currentLine)[0].textContent;
+    if ((currentLine + 1) <= song.getTotalNumLines()) {
+  	  lyrics = song.getLineElement(currentLine+1)[0].textContent;
+    }
   };
 
   /*
