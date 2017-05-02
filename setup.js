@@ -11,19 +11,39 @@ var gaze;
 var songView;
 
 var finalY;
+var scrollInterval;
 
 $(document).ready(function() {
 
+  // start button
   $(document).on('click', '#start', function() {
-    setInterval(function(){
+    scrollInterval = setInterval(function(){
         fusedScroll();
       },SCROLL_INTERVAL);
 
     if (gaze) {
       gaze.setReady(true);
     }
+    
+    var stopButton = $('<button id="stop" class="btn btn-danger">Stop</button>');
+    $('.container').prepend(stopButton);
+    $('#start').remove();
   });
 
+  // stop button
+  $(document).on('click', '#stop', function(e) {
+    clearInterval(scrollInterval);
+
+    if (gaze) {
+      gaze.setReady(false);
+    }
+    
+    var startButton = $('<button id="start" class="btn btn-success">Start</button>');
+    $('.container').prepend(startButton);
+    $('#stop').remove();
+  });
+
+  /*** Song View Set-Up ****/
   var songViewParams = {
     numLyricLines: $('.lyrics').length,
     numChordLines: $('.chords').length,
