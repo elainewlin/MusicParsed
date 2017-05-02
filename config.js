@@ -13,7 +13,7 @@ const MOTION_Y = 30;
 const GAZE_INTERVAL = 3; // in seconds
 
 // Fusion Params
-const MOTION_W = 0.6; // use 0.4 if not using gaze
+const MOTION_W = 0.6;
 const SPEECH_W = 1 - MOTION_W;
 
 const LINE_W = 0.95; 
@@ -24,5 +24,5 @@ const SCROLL_AMT_DEFAULT = 1; // range: [0, 5] pixels
 const SCROLL_INTERVAL = 1000; // in ms
 
 const MAX_SCROLL_DELTA = 300;
-const MIN_SCROLL_DELTA = -20; // can scroll up a little, can change if necessary
+const MIN_SCROLL_DELTA = -1; // can scroll up a little, can change if necessary
 const IDEAL_SCROLL_DELTA = 0; // range: [-SCROLL_AMT_DEFAULT, 0]

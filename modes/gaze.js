@@ -9,7 +9,7 @@ var GazeTracker = function(args) {
   var that = this;
 
   /* Detection Variables */
-    var ready = false;
+  var ready = false;
 
   /* Y-Coord Tracking Variables */
   var currentY=0;
@@ -47,15 +47,15 @@ var GazeTracker = function(args) {
     if (data == null) 
       return;
 
-    if (args.fusionDebug && ready)
+    if (ready)
       updateGazeY(data.y, clock)
     // TODO: remove the following once fusion is done:
-    else {
-      if (data.y > WINDOW_HEIGHT * BOTTOM_REGION) {
-        $(that).triggerHandler("gazeUpdate", {gazeTest: 'hello'});
-        currentY = data.y;
-      }
-    }
+    // else {
+    //   if (data.y > WINDOW_HEIGHT * BOTTOM_REGION) {
+    //     $(that).triggerHandler("gazeUpdate", {gazeTest: 'hello'});
+    //     currentY = data.y;
+    //   }
+    // }
   };
 
   var smooth = function(arr) {
