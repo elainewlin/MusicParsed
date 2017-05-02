@@ -26,7 +26,3 @@ const SCROLL_INTERVAL = 1000; // in ms
 const MAX_SCROLL_DELTA = 300;
 const MIN_SCROLL_DELTA = -1; // can scroll up a little, can change if necessary
 const IDEAL_SCROLL_DELTA = 0; // range: [-SCROLL_AMT_DEFAULT, 0]
-
-// Debug Settings
-const LYRICS_HIGHLIGHT_ON = true;
-const CHORDS_HIGHLIGHT_ON = true;

@@ -22,6 +22,7 @@
       $("#speech-box").prop("checked", false);
       $('#motion-box').prop("checked", false);
       $('#gaze-box').prop("checked", false);
+      $('#debug-box').prop("checked", false);
 
     $(document).on('change', '#speech-box', function(evt) {
       window.localStorage.setItem("speechOn", evt.target.checked.toString());
@@ -31,6 +32,9 @@
     });
     $(document).on('change', '#gaze-box', function(evt) {
       window.localStorage.setItem("gazeOn", evt.target.checked.toString());
+    });
+    $(document).on('change', '#debug-box', function(evt) {
+      window.localStorage.setItem("debugOn", evt.target.checked.toString());
     });
   });
   </script>
@@ -50,6 +54,9 @@
         </div>
         <div class="form-group">
           <input type="checkbox" name="mode" id="gaze-box"> Gaze 
+        </div>
+        <div class="form-group">
+          <input type="checkbox" name="mode" id="debug-box"> Debug
         </div>
       </form>
       <a href="chordSheet.html" class="btn btn-primary btn-lg" style="margin-top: 10px;">Let's Go!</a>
