@@ -12,7 +12,7 @@ var GazeTracker = function(args) {
     var ready = false;
 
   /* Y-Coord Tracking Variables */
-  var currentY;
+  var currentY=0;
   var detectedYs = [];
 
   /*

@@ -86,14 +86,14 @@ var SpeechRec = function(args) {
   var userSaidPhrase = function(line, speech) {
     var expectedWords = line.toLowerCase().trim().split(' ');
     var lowerCaseCommands = speech.toLowerCase().trim();
-
+    var nMatches = expectedWords.length >= matchCutoff ? matchCutoff : expectedWords.length;
     var wordsSaid = 0;
     expectedWords.forEach(function(word) {
       if (lowerCaseCommands.includes(word))
         wordsSaid += 1;
     });
 
-    return wordsSaid >= matchCutoff;
+    return wordsSaid >= nMatches;
   };
 
   var onStart = function() {
