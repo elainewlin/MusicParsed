@@ -52,6 +52,10 @@ $(document).ready(function() {
   songView = new SongView(songViewParams);
 
   /**** Speech Recognition Set-Up ****/
+  if (!debugOn) {
+    $('#results').remove();
+  }
+
   if (speechOn) {
     var speechParams = {
       song: songView,
