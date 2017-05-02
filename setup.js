@@ -22,8 +22,6 @@ $(document).ready(function() {
     }
   });
 
-  // Note: this class will be useful for connecting motion and speech fusion 
-  //  with the view
   var songViewParams = {
     numLyricLines: $('.lyrics').length,
     numChordLines: $('.chords').length,
@@ -41,13 +39,20 @@ $(document).ready(function() {
       endTimeout: 1000
     };
     speech = new SpeechRec(speechParams);
-    songView.getLineElement(speech.getCurrentLine()).addClass('current');
+
+    if (LYRICS_HIGHLIGHT_ON)
+      songView.getLineElement(speech.getCurrentLine()).addClass('current');
+    
     speech.start();
 
     // listens for when the speech recognition updates the line
     $(speech).on('speechUpdate', function(e, info) {
-      songView.getLineElement(info.previousLine).removeClass('current');
-      songView.getLineElement(info.nextLine).addClass('current');
+      
+      if (LYRICS_HIGHLIGHT_ON) {
+        songView.getLineElement(info.previousLine).removeClass('current');
+        songView.getLineElement(info.nextLine).addClass('current');
+      }
+      
       if (!info.fusing)
         fuse();
     });
@@ -68,7 +73,10 @@ $(document).ready(function() {
       y: MOTION_Y
     };
     motion = new MotionDetect(motionParams);
-    songView.getChordElement(motion.getCurrentLine()).addClass('current');
+
+    if (CHORDS_HIGHLIGHT_ON)
+      songView.getChordElement(motion.getCurrentLine()).addClass('current');
+    
     var engine = motion.start();
 
     // Calibration video removal
@@ -84,9 +92,12 @@ $(document).ready(function() {
 
     // listens for when the motion detection updates the line
     $(motion).on('motionUpdate', function(e, info) {
-      // console.log(info);
-      songView.getChordElement(info.previousLine).removeClass('current');
-      songView.getChordElement(info.nextLine).addClass('current');
+      
+      if (CHORDS_HIGHLIGHT_ON) {
+        songView.getChordElement(info.previousLine).removeClass('current');
+        songView.getChordElement(info.nextLine).addClass('current');  
+      }
+      
       if (!info.fusing)
         fuse();
     });
