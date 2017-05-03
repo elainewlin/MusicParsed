@@ -45,3 +45,10 @@ input[type="checkbox"] {
 form { 
     font-size: 18px;
 }
+
+.start-btn-container {
+    position: fixed;
+    top: 0;
+    right: 0;
+    margin-left: 10%;
+}

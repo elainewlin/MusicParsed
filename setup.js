@@ -17,29 +17,55 @@ $(document).ready(function() {
 
   // start button
   $(document).on('click', '#start', function() {
+    // begin standard scrolling
     scrollInterval = setInterval(function(){
         fusedScroll();
       },SCROLL_INTERVAL);
 
+    // start gaze
     if (gaze) {
       gaze.setReady(true);
     }
+
+    // start motion
+    if (motion) {
+      setTimeout(function() {
+        motion.setReady(true);
+      }, 3000); // time between pressing and putting hand back on uke
+    }
+
+    // start speech
+    if (speech) {
+      speech.start();
+    }
     
     var stopButton = $('<button id="stop" class="btn btn-danger">Stop</button>');
-    $('.container').prepend(stopButton);
+    $('.start-btn-container').append(stopButton);
     $('#start').remove();
   });
 
   // stop button
   $(document).on('click', '#stop', function(e) {
+    //end standard scrolling
     clearInterval(scrollInterval);
 
+    // stop gaze
     if (gaze) {
       gaze.setReady(false);
     }
+
+    // stop motion
+    if (motion) {
+      motion.setReady(false);
+    }
+
+    // stop speech
+    if (speech) {
+      speech.stopRecognition();
+    }
     
     var startButton = $('<button id="start" class="btn btn-success">Start</button>');
-    $('.container').prepend(startButton);
+    $('.start-btn-container').append(startButton);
     $('#stop').remove();
   });
 
@@ -68,8 +94,6 @@ $(document).ready(function() {
 
     if (debugOn)
       songView.getLineElement(speech.getCurrentLine()).addClass('current');
-    
-    speech.start();
 
     // listens for when the speech recognition updates the line
     $(speech).on('speechUpdate', function(e, info) {
@@ -109,11 +133,6 @@ $(document).ready(function() {
     $('#calibrate').click(function() {
       engine.removeVid();
       $(this).remove();
-      setTimeout(function() {
-        console.log('hai')
-        motion.setReady(true);
-      }, 3000); // time between pressing and putting hand back on uke
-      // motion.setReady(true);
     });
 
     // listens for when the motion detection updates the line

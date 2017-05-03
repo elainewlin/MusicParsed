@@ -18,6 +18,7 @@ var SpeechRec = function(args) {
   var final_span = document.getElementById(args.finalId);
   var interim_span = document.getElementById(args.interimId);
   var endTimeout = args.endTimeout;
+  var isStopped = true;
 
   /* Line tracking variables */
   var currentLine = 0;
@@ -69,6 +70,7 @@ var SpeechRec = function(args) {
    * Sets up and begins speech recognition
    */
   that.start = function() {
+    isStopped = false;
 	  recognition.continuous = true;
 	  recognition.interimResults = true;
 	  recognition.onstart = onStart;
@@ -76,6 +78,14 @@ var SpeechRec = function(args) {
 	  recognition.onend = onEnd;
 	  recognition.start();
 	};
+
+  /*
+   * Ends speech recognition
+   */
+  that.stopRecognition = function() {
+    recognition.stop();
+    isStopped = true;
+  }
 
   /**** Speech Recognition Helper Functions ****/
 
@@ -99,8 +109,10 @@ var SpeechRec = function(args) {
   };
 
   var onStart = function() {
-    final_span.innerHTML = '';
-    interim_span.innerHTML = '';
+    if (final_span !== null && interim_span !== null) {
+      final_span.innerHTML = '';
+      interim_span.innerHTML = '';
+    }
   };
 
   var onResult = function(event) {
@@ -116,8 +128,10 @@ var SpeechRec = function(args) {
     		interim_transcript += result[0].transcript;
 		}
 
-    final_span.innerHTML = final_transcript;
-    interim_span.innerHTML = interim_transcript;
+    if (final_span !== null && interim_span !== null) {
+      final_span.innerHTML = final_transcript;
+      interim_span.innerHTML = interim_transcript;
+    }
     if (userSaidPhrase(lyrics, interim_transcript)) {
       if ((currentLine + 1) <= song.getTotalNumLines()) {
       	that.setCurrentLine(currentLine + 1);
@@ -138,8 +152,10 @@ var SpeechRec = function(args) {
 
   var onEnd = function(event) {
   	// Restart recognition if it has stopped
-    setTimeout(function() {
-      recognition.start();
-    }, endTimeout);
+    if (!isStopped){
+      setTimeout(function() {
+        recognition.start();
+      }, endTimeout);
+    }
   };
  };
