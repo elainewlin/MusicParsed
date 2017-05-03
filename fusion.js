@@ -26,7 +26,7 @@ var fusedLineToY = function() {
  * Not called when no modalities are selected
 */
 var fuse = function() {
-	var yGaze = gaze ? gaze.getCurrentY() : 0;
+	var yGaze = gaze ? gaze.getCurrentY() + $(window).scrollTop() : 0;
   var yLine = fusedLineToY();
   if (yLine === 0) {
   	finalY = yGaze;
