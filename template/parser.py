@@ -3,7 +3,7 @@ import json
 import urllib2
 from bs4 import BeautifulSoup
 
-textFolder = os.path.join(os.getcwd(), 'text')
+textFolder = os.path.join(os.getcwd(), 'temp')
 jsonFolder = os.path.join(os.getcwd(), 'json')
 
 # URL of a song --> text file of a song
@@ -27,12 +27,14 @@ def toText(url):
 
         # HTML markup for Ukutabs website
         if 'ukutabs' in url:
-            data = soup.find('pre', {'class': 'qoate-code'})
-            title = soup.find('span', {'class': 'stitlecolor'}).get_text()
+            data = soup.findAll('pre', {'class': 'qoate-code'})[0]
+            title = soup.find('span', {'class': 'stitlecolor'})
             artist = title.parent.parent.parent.findAll('tr')[1].find('a').get_text()
+            title = title.get_text()
   
         fileName =  title + ' - ' + artist + '.txt'
         textFile = os.path.join(textFolder, fileName)
+        print textFile
         with open(textFile, 'w') as outfile:
             outfile.write(data.get_text())
         return fileName
@@ -53,25 +55,31 @@ def allToText():
 # Checks whether a line is a label
 def isLabel(line):
     labels = ['Verse', 'Bridge', 'Chorus', 'Solo', 'Outro']
-    return ('[' in line and ']' in line)
+    return line.startswith('[') and line.endswith(']')
     # for l in labels:
     #     if l in line:
     #         return True
     # return False
 
-# String with chords to chords
-def getChords(chordString):
+# Checks whether a line is a chord
+def isChord(line):
+    lCount = 0
+    for c in line:
+        if c != ' ':
+            lCount += 1
+    if line.startswith(' '):
+        return True
 
-    split = chordString.split()
-
-
+    if lCount > 0:
+        chord = line.split()[0]
+        return (lCount < 9 and len(chord) < 5)
+    
 # Text file of a song --> JSON file of a song
 def toJSON(fileName):
     textFile = os.path.join(textFolder, fileName)
     f = open(textFile, 'r') 
     lines = f.readlines()
     lines = [x.rstrip() for x in lines] 
-
     data = {}
 
     song = os.path.splitext(fileName)[0]
@@ -81,32 +89,28 @@ def toJSON(fileName):
     data['artist'] = artist
     data['lines'] = []
     count = 0
+    print title
 
     allChords = set()
 
     for i in xrange(len(lines)):
         l = lines[i]
-        
-        lCount = 0
-
-        # Check if l is a line with chords
-        # Count number of non-space characters
-        for c in l:
-            if c != ' ':
-                lCount += 1
-
+      
         newLine = {}
 
         if(isLabel(lines[i])):
             newLine['label'] = lines[i]
             data['lines'].append(newLine)
         else:
-            if lCount > 0 and lCount < 9: # Buggy if you have complicated chord names such as Cadd9
+            if isChord(lines[i]): 
                 newLine['lyrics'] = lines[i+1]
                 newLine['chord'] = lines[i]
                 newLine['count'] = count
 
                 for c in lines[i].split():
+                    c = c.replace("#", "%23")
+                    if "/" in c:
+                        c = c.split("/")[0]
                     allChords.add(c)
                 count += 1
                 data['lines'].append(newLine)
@@ -131,5 +135,5 @@ def allToJSON():
 def addSong(url):
     fileName = toText(url)
     toJSON(fileName)
-# allToText()
+
 allToJSON()

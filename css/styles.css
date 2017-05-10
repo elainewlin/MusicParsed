@@ -52,3 +52,7 @@ form {
     right: 0;
     margin-left: 10%;
 }
+
+.ui-helper-hidden-accessible { 
+    display:none; 
+}
