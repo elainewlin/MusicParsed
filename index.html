@@ -15,51 +15,258 @@
   <!-- Load any supplemental Javascript libraries here -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script> 
 
-  <script>
-    $(window).bind("pageshow", function() {
-      localStorage.clear();
-
-      $("#speech-box").prop("checked", false);
-      $('#motion-box').prop("checked", false);
-      $('#gaze-box').prop("checked", false);
-      $('#debug-box').prop("checked", false);
-
-    $(document).on('change', '#speech-box', function(evt) {
-      window.localStorage.setItem("speechOn", evt.target.checked.toString());
-    });
-    $(document).on('change', '#motion-box', function(evt) {
-      window.localStorage.setItem("motionOn", evt.target.checked.toString());
-    });
-    $(document).on('change', '#gaze-box', function(evt) {
-      window.localStorage.setItem("gazeOn", evt.target.checked.toString());
-    });
-    $(document).on('change', '#debug-box', function(evt) {
-      window.localStorage.setItem("debugOn", evt.target.checked.toString());
-    });
-  });
+    <!-- Mustache template -->
+  <script src="lib/mustache.min.js"></script>
+  <script src="template/render.js"></script>  
+  <script id="template" type="x-tmpl-mustache">
+  <div>
+    <h1> {{title}} - {{artist}} </h1>
+  </div>
+  {{#lines}}
+    {{#label}}
+      <h4>{{label}}</h4>
+    {{/label}}
+    {{^label}}
+      <div class="line" id={{count}}>
+        <div class="chords"><span>{{chord}}</span></div>
+        <span class="lyrics">{{lyrics}}</span>
+      </div>
+    {{/label}}
+  {{/lines}}
   </script>
-  
+  <script id="chordTemplate" type="x-tmpl-mustache">
+  {{#allChords}}
+    <img src="/chords/ukulele/{{.}}.png" />
+  {{/allChords}}
+  </script>
+
+  <!-- jQuery UI autocomplete -->
+ 
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+
+  <!-- Transposing chords --> 
+  <script src="transpose.js"></script>  
+
 </head>
 
 <body>
   <div class="container">
-    <div class="row">
-      <h1> Select Modalities: </h1>
-      <form>
-        <div class="form-group">
-          <input type="checkbox" name="mode" id="speech-box"> Speech 
+      <div class="row">
+        <div class="ui-widget">
+          <label for="tags">Song select: </label>
+          <input id="tags">
         </div>
-        <div class="form-group">
-          <input type="checkbox" name="mode" id="motion-box"> Motion 
+        <div class="btn-group transpose" data-toggle="buttons">
+          <label class="btn btn-default" id="-6"><input type="radio" checked> -6</label>
+          <label class="btn btn-default" id="-5"><input type="radio"> -5</label>
+          <label class="btn btn-default" id="-4"><input type="radio"> -4</label>
+          <label class="btn btn-default" id="-3"><input type="radio"> -3</label>
+          <label class="btn btn-default" id="-2"><input type="radio"> -2</label>
+          <label class="btn btn-default" id="-1"><input type="radio"> -1</label>
+          <label class="btn btn-default selected" id="0"><input type="radio"> 0</label>
+          <label class="btn btn-default" id="1"><input type="radio"> +1 </label>
+          <label class="btn btn-default" id="2"><input type="radio"> +2</label>
+          <label class="btn btn-default" id="3"><input type="radio"> +3</label>
+          <label class="btn btn-default" id="4"><input type="radio"> +4</label>
+          <label class="btn btn-default" id="5"><input type="radio"> +5</label>
+          <label class="btn btn-default" id="6"><input type="radio"> +6</label>
         </div>
-        <div class="form-group">
-          <input type="checkbox" name="mode" id="gaze-box"> Gaze 
+      </div>
+      <div class="row">
+      <div class="col-xs-8" id="song">
+        <div>
+          <h1>Viva la Vida - Coldplay</h1>
         </div>
-        <div class="form-group">
-          <input type="checkbox" name="mode" id="debug-box"> Debug
+        <h4>[Verse 1]</h4>
+        <div class="line" id="0">
+          <div class="chords"><span>          F        G</span></div>
+          <span class="lyrics">I used to rule the world</span>
         </div>
-      </form>
-      <a href="chordSheet.html" class="btn btn-primary btn-lg" style="margin-top: 10px;">Let's Go!</a>
+        <div class="line" id="1">
+          <div class="chords"><span>           C                    Am</span></div>
+          <span class="lyrics">Seas would rise when I gave the word</span>
+        </div>
+        <div class="line" id="2">
+          <div class="chords"><span>                      F     G</span></div>
+          <span class="lyrics">Now in the morning I sleep alone</span>
+        </div>
+        <div class="line" id="3">
+          <div class="chords"><span>          C                 Am</span></div>
+          <span class="lyrics">Sweep the streets I used to own</span>
+        </div>
+        <h4>[Verse 2]</h4>
+        <div class="line" id="4">
+          <div class="chords"><span>          F         G</span></div>
+          <span class="lyrics">I used to roll the dice</span>
+        </div>
+        <div class="line" id="5">
+          <div class="chords"><span>          C                 Am</span></div>
+          <span class="lyrics">Feel the fear in my enemy's eyes</span>
+        </div>
+        <div class="line" id="6">
+          <div class="chords"><span>              F            G</span></div>
+          <span class="lyrics">Listen as the crowd would sing:</span>
+        </div>
+        <div class="line" id="7">
+          <div class="chords"><span>          C                 Am</span></div>
+          <span class="lyrics">"Now the old king is dead! Long live the king!"</span>
+        </div>
+        <h4>[Pre-chorus]</h4>
+        <div class="line" id="8">
+          <div class="chords"><span>            F        G</span></div>
+          <span class="lyrics">One minute I held the key</span>
+        </div>
+        <div class="line" id="9">
+          <div class="chords"><span>         C                    Am</span></div>
+          <span class="lyrics">Next the walls were closed on me</span>
+        </div>
+        <div class="line" id="10">
+          <div class="chords"><span>                          F        G</span></div>
+          <span class="lyrics">And I discovered that my castles stand</span>
+        </div>
+        <div class="line" id="11">
+          <div class="chords"><span>     C                    Am</span></div>
+          <span class="lyrics">Upon pillars of salt and pillars of sand</span>
+        </div>
+        <h4>[Chorus]</h4>
+        <div class="line" id="12">
+          <div class="chords"><span>  F              G</span></div>
+          <span class="lyrics">I hear Jerusalem bells are ringing</span>
+        </div>
+        <div class="line" id="13">
+          <div class="chords"><span>C             Am</span></div>
+          <span class="lyrics">Roman Cavalry choirs are singing</span>
+        </div>
+        <div class="line" id="14">
+          <div class="chords"><span>F                G</span></div>
+          <span class="lyrics">Be my mirror, my sword, and shield</span>
+        </div>
+        <div class="line" id="15">
+          <div class="chords"><span>   C                 Am</span></div>
+          <span class="lyrics">My missionaries in a foreign field</span>
+        </div>
+        <div class="line" id="16">
+          <div class="chords"><span>F                 G</span></div>
+          <span class="lyrics">For some reason I can't explain</span>
+        </div>
+        <div class="line" id="17">
+          <div class="chords"><span>C                     Am              F      G</span></div>
+          <span class="lyrics">Once you go there was never, never an honest word</span>
+        </div>
+        <div class="line" id="18">
+          <div class="chords"><span>         C               Am</span></div>
+          <span class="lyrics">That was when I ruled the world</span>
+        </div>
+        <h4>[Verse 3]</h4>
+        <div class="line" id="19">
+          <div class="chords"><span>                      F     G</span></div>
+          <span class="lyrics">It was the wicked and wild wind</span>
+        </div>
+        <div class="line" id="20">
+          <div class="chords"><span>              C               Am</span></div>
+          <span class="lyrics">Blew down the doors to let me in.</span>
+        </div>
+        <div class="line" id="21">
+          <div class="chords"><span>                          F        G</span></div>
+          <span class="lyrics">Shattered windows and the sound of drums</span>
+        </div>
+        <div class="line" id="22">
+          <div class="chords"><span>       C                    Am</span></div>
+          <span class="lyrics">People couldn't believe what I'd become</span>
+        </div>
+        <h4>[Pre-chorus]</h4>
+        <div class="line" id="23">
+          <div class="chords"><span>          F      G</span></div>
+          <span class="lyrics">Revolutionaries wait</span>
+        </div>
+        <div class="line" id="24">
+          <div class="chords"><span>        C               Am</span></div>
+          <span class="lyrics">For my head on a silver plate</span>
+        </div>
+        <div class="line" id="25">
+          <div class="chords"><span>                   F      G</span></div>
+          <span class="lyrics">Just a puppet on a lonely string</span>
+        </div>
+        <div class="line" id="26">
+          <div class="chords"><span>   C                         Am</span></div>
+          <span class="lyrics">Oh who would ever want to be king?</span>
+        </div>
+        <h4>[Chorus]</h4>
+        <div class="line" id="27">
+          <div class="chords"><span>  F              G</span></div>
+          <span class="lyrics">I hear Jerusalem bells are ringing</span>
+        </div>
+        <div class="line" id="28">
+          <div class="chords"><span>C             Am</span></div>
+          <span class="lyrics">Roman Cavalry choirs are singing</span>
+        </div>
+        <div class="line" id="29">
+          <div class="chords"><span>F                G</span></div>
+          <span class="lyrics">Be my mirror, my sword, and shield</span>
+        </div>
+        <div class="line" id="30">
+          <div class="chords"><span>   C                 Am</span></div>
+          <span class="lyrics">My missionaries in a foreign field</span>
+        </div>
+        <div class="line" id="31">
+          <div class="chords"><span>F                 G</span></div>
+          <span class="lyrics">For some reason I can't explain</span>
+        </div>
+        <div class="line" id="32">
+          <div class="chords"><span>  C                     Am</span></div>
+          <span class="lyrics">I know Saint Peter will call my name ,</span>
+        </div>
+        <div class="line" id="33">
+          <div class="chords"><span>         F      G</span></div>
+          <span class="lyrics">never an honest word</span>
+        </div>
+        <div class="line" id="34">
+          <div class="chords"><span>              C               Am</span></div>
+          <span class="lyrics">But that was when I ruled the world</span>
+        </div>
+        <h4>[Chorus]</h4>
+        <div class="line" id="35">
+          <div class="chords"><span>  F              G</span></div>
+          <span class="lyrics">I hear Jerusalem bells are ringing</span>
+        </div>
+        <div class="line" id="36">
+          <div class="chords"><span>C             Am</span></div>
+          <span class="lyrics">Roman Cavalry choirs are singing</span>
+        </div>
+        <div class="line" id="37">
+          <div class="chords"><span>F                G</span></div>
+          <span class="lyrics">Be my mirror, my sword, and shield</span>
+        </div>
+        <div class="line" id="38">
+          <div class="chords"><span>   C                 Am</span></div>
+          <span class="lyrics">My missionaries in a foreign field</span>
+        </div>
+        <div class="line" id="39">
+          <div class="chords"><span>F                 G</span></div>
+          <span class="lyrics">For some reason I can't explain</span>
+        </div>
+        <div class="line" id="40">
+          <div class="chords"><span>  C                     Am</span></div>
+          <span class="lyrics">I know Saint Peter will call my name,</span>
+        </div>
+        <div class="line" id="41">
+          <div class="chords"><span>         F      G</span></div>
+          <span class="lyrics">never an honest word</span>
+        </div>
+        <div class="line" id="42">
+          <div class="chords"><span>             C                Am</span></div>
+          <span class="lyrics">But that was when I ruled the world</span>
+        </div>
+      </div>
+      
+      <div id="chordPics">
+        <img src="/chords/ukulele/C.png">
+        <img src="/chords/ukulele/Am.png">
+        <img src="/chords/ukulele/G.png">
+        <img src="/chords/ukulele/F.png">
+      </div>
+    </div>
     </div>
   </div> <!-- class="container" -->
 </body>
