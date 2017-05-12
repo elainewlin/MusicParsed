@@ -24,6 +24,7 @@ window.onload = function() {
      select: function(event, ui) { 
       $.getJSON("./template/json/"+ui.item.label+".json", function(data) {
         rerender(data);
+
       });
     }
   }); 
