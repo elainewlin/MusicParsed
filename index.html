@@ -37,7 +37,7 @@
   </script>
   <script id="chordTemplate" type="x-tmpl-mustache">
   {{#allChords}}
-    <img src="./chords/ukulele/{{.}}.png" />
+    <img src="./chords/{{instrument}}/{{.}}.png" />
   {{/allChords}}
   </script>
 
@@ -60,8 +60,11 @@
         <div class="ui-widget">
           <label for="tags">Song select: </label>
           <input id="tags">
-          <button class="btn btn-default" id="chordToggle">Chords</button>
           <button class="btn btn-default" id="viewToggle">View</button>
+
+          <label for="chords">Chords: </label>
+          <button class="btn btn-default" id="chordToggle">hide</button>
+          <button class="btn btn-default" id="instrumentToggle"></button>
         </div>
         <div class="ui-widget" id="column-count">
           <label for="column-count">Columns</label>
@@ -91,7 +94,7 @@
         </div>
       </div>
       <div class="row">
-      <div class="col-xs-12" id="song">
+      <div class="col-xs-12" id="song" data-instrument="ukulele" data-allChords>
         <div>
           <h3 id="title"></h3>
         </div>
