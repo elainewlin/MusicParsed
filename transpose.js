@@ -11,11 +11,15 @@ $(document).ready(function() {
     }
     
     $("input[type=radio]").click(function(e) {
-        $("label").removeClass("selected");
-        id = e.target.parentNode.id;
+        var labels = $(e.target.parentNode.parentNode).find("label"); // all transpose or all column labels
+        labels.removeClass("selected");
+        var id = e.target.parentNode.id;
         $("#"+id).addClass("selected");
+    });
 
-        var song = $("h1").text().trim();
+    $("#transpose").find("input").click(function(e) {
+        var song = $("#title").text().trim();
+        var id = e.target.parentNode.id;
         $.getJSON("/template/json/"+song+".json", function(data) {
             data["allChords"] = data["allChords"].map(function(chord) {
                 return transposeChord(chord, id).replace("#", "%23");
@@ -28,7 +32,6 @@ $(document).ready(function() {
             })
             rerender(data);
         });
-    });
-
+    })
     
 });

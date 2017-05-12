@@ -3,7 +3,7 @@ import json
 import urllib2
 from bs4 import BeautifulSoup
 
-textFolder = os.path.join(os.getcwd(), 'temp')
+textFolder = os.path.join(os.getcwd(), 'text')
 jsonFolder = os.path.join(os.getcwd(), 'json')
 
 # URL of a song --> text file of a song
@@ -131,6 +131,14 @@ def allToJSON():
     with open('allSongs.json', 'w') as outfile:
         json.dump(allSongs, outfile)
 
+# Get all songs
+def getSongs():
+    allSongs = []
+    for fileName in os.listdir(jsonFolder):
+        allSongs.append(fileName.split(".json")[0])
+    with open('allSongs.json', 'w') as outfile:
+        json.dump(allSongs, outfile)
+             
 # URL of a song --> JSON file of a song
 def addSong(url):
     fileName = toText(url)

@@ -3,9 +3,15 @@
 }
 .line {
     font-family: monospace;
-    font-size: 14px;
+    font-size: 16px;
 }
 
+.container-fluid {
+    margin: 10px;
+}
+#song {
+    column-count: 3;
+}
 .selected {
     background-color: #fffddd;
 }

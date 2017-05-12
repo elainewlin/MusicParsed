@@ -20,7 +20,7 @@
   <script src="template/render.js"></script>  
   <script id="template" type="x-tmpl-mustache">
   <div>
-    <h1> {{title}} - {{artist}} </h1>
+    <h2 id="title"> {{title}} - {{artist}} </h2>
   </div>
   {{#lines}}
     {{#label}}
@@ -48,17 +48,25 @@
   <!-- Transposing chords --> 
   <script src="transpose.js"></script>  
 
+  <!-- Two column view -->
+  <script src="view.js"></script>  
+
 </head>
 
 <body>
-  <div class="container">
+  <div class="container-fluid">
       <div class="row">
         <div class="ui-widget">
           <label for="tags">Song select: </label>
           <input id="tags">
         </div>
-        <div class="btn-group transpose" data-toggle="buttons">
-          <label class="btn btn-default" id="-6"><input type="radio" checked> -6</label>
+        <div class="btn-group" id="column-count" data-toggle="buttons">
+          <label class="btn btn-default" id="col-1"><input type="radio"> 1</label>
+          <label class="btn btn-default" id="col-2"><input type="radio"> 2</label>
+          <label class="btn btn-default" id="col-3"><input type="radio"> 3</label>
+        </div>
+        <div class="btn-group" id="transpose" data-toggle="buttons">
+          <label class="btn btn-default" data-step="-6" id="-6"><input type="radio" checked> -6</label>
           <label class="btn btn-default" id="-5"><input type="radio"> -5</label>
           <label class="btn btn-default" id="-4"><input type="radio"> -4</label>
           <label class="btn btn-default" id="-3"><input type="radio"> -3</label>
@@ -74,9 +82,9 @@
         </div>
       </div>
       <div class="row">
-      <div class="col-xs-8" id="song">
+      <div class="col-xs-12" id="song">
         <div>
-          <h1>Viva la Vida - Coldplay</h1>
+          <h2 id="title">Viva la Vida - Coldplay</h2>
         </div>
         <h4>[Verse 1]</h4>
         <div class="line" id="0">
