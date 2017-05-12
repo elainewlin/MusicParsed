@@ -13,13 +13,15 @@ var rerender = function(data) {
 
 }
 window.onload = function() {
- 
-  // var allSongs = ["Love Story - Taylor Swift", "Yellow Submarine - The Beatles"]; 
+  var defaultSong = "Viva la Vida - Coldplay";
+  $.getJSON("./template/json/"+defaultSong+".json", function(data) {
+      rerender(data);
+  });
   $("#tags").autocomplete({
-     source: "/template/allSongs.json",
+     source: "./template/allSongs.json", //TO-DO get autocomplete feature working
      // source: ["Be Wherever You Are - Steven Universe", "Both of You - Steven Universe", "Love Story - Taylor Swift", "Shine Like Rainbows - Daniel Ingram", "Tricks Up My Sleeve - Daniel Ingram", "Viva la Vida - Coldplay", "Yellow Submarine - The Beatles"], //
      select: function(event, ui) { 
-      $.getJSON("/template/json/"+ui.item.label+".json", function(data) {
+      $.getJSON("./template/json/"+ui.item.label+".json", function(data) {
         rerender(data);
       });
     }

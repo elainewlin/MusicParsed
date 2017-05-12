@@ -1,15 +1,16 @@
 $(document).ready(function() {
-    $("#chordPics").click(function() {
+    $("#chordToggle").click(function() {
         $("#chordPics").toggle(); 
-       
+    })
+
+   $("#viewToggle").click(function() {
+        $("#column-count").toggle(); 
+        $("#transpose").toggle(); 
     })
 
     $("#column-count").find("input").click(function(e) {
-        console.log(e);
-        var id = e.target.parentNode.id;
-        console.log(id);
-        id = id.replace("col-", "");
-        $("#song").css("column-count", id);
+        var colCount = $(e.target.parentNode).data()["column"]
+        $("#song").css("column-count", colCount);
     });
     
 })

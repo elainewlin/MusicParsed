@@ -13,21 +13,21 @@ $(document).ready(function() {
     $("input[type=radio]").click(function(e) {
         var labels = $(e.target.parentNode.parentNode).find("label"); // all transpose or all column labels
         labels.removeClass("selected");
-        var id = e.target.parentNode.id;
-        $("#"+id).addClass("selected");
+        var target = $(e.target.parentNode);
+        target.addClass("selected");
     });
 
     $("#transpose").find("input").click(function(e) {
         var song = $("#title").text().trim();
-        var id = e.target.parentNode.id;
-        $.getJSON("/template/json/"+song+".json", function(data) {
+        var step = $(e.target.parentNode).data()["step"];
+        $.getJSON("./template/json/"+song+".json", function(data) {
             data["allChords"] = data["allChords"].map(function(chord) {
-                return transposeChord(chord, id).replace("#", "%23");
+                return transposeChord(chord, step).replace("#", "%23");
             });
          
             data["lines"].map(function(line) {
                 if(line["chord"]) {
-                    line["chord"] = transposeChord(line["chord"],id);
+                    line["chord"] = transposeChord(line["chord"],step);
                 }
             })
             rerender(data);
