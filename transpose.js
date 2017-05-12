@@ -1,12 +1,37 @@
 $(document).ready(function() {
 
-    // TO-DO handle sharps and flats
     function transposeChord(chord, amount) {
-      var scale = ["C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"];
-      return chord.replace(/[CDEFGAB]#?/g,
-       function(match) {
-         var i = (scale.indexOf(match) + parseInt(amount)) % scale.length;
-         return scale[ i < 0 ? i + scale.length : i ];
+
+      var chordToIndex = {
+        "C": 0,
+        "C#": 1,
+        "Db": 1,
+        "D": 2,
+        "Eb": 3,
+        "E": 4,
+        "F": 5,
+        "F#": 6,
+        "Gb": 6,
+        "G": 7,
+        "Ab": 8, 
+        "A": 9,
+        "Bb": 10,
+        "B": 11,
+        "Cb": 11
+      };
+
+      var sharpScale = ["C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"];
+      var flatScale = ["C", "Db", "D", "Eb", "E", "F", "Gb", "G", "Ab", "A", "Bb", "B"];
+      var numNotes = 12;
+
+      // TO-DO support sharps and flats, adjust for key signatures with only flats: Eb, Ab, Bb
+      var isSharp = true; 
+      var scale = isSharp ? sharpScale: flatScale;
+
+      return chord.replace(/[CDEFGAB]#?b?/g,
+       function(index) {
+         var i = (chordToIndex[index] + parseInt(amount)) % numNotes;
+         return scale[ i < 0 ? i + numNotes : i ];
        });
     }
     

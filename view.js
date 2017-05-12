@@ -3,6 +3,10 @@ $(document).ready(function() {
         $("#chordPics").toggle(); 
     })
 
+    $("#chordPics").click(function() {
+        $("#chordPics").toggle(); 
+    })
+
    $("#viewToggle").click(function() {
         $("#column-count").toggle(); 
         $("#transpose").toggle(); 
