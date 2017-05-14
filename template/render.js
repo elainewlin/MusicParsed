@@ -1,6 +1,5 @@
 var renderChords = function(data) {
   var chordTemplate = document.getElementById('chordTemplate').innerHTML;
-  Mustache.parse(chordTemplate);
   document.getElementById('chordPics').innerHTML = Mustache.render(chordTemplate, data);
   $("#instrumentToggle").text(data["instrument"]);
   $("#song").data()["instrument"] = data["instrument"];
@@ -8,11 +7,12 @@ var renderChords = function(data) {
 
 var rerender = function(data) {
   //Grab the inline template
-  var template = document.getElementById('template').innerHTML;
-  //Parse it (optional, only necessary if template is to be used again)
-  Mustache.parse(template);
+  var songTemplate = document.getElementById('songTemplate').innerHTML;
+  var titleTemplate = document.getElementById('titleTemplate').innerHTML;
+  
   //Overwrite the contents of song with the rendered HTML
-  document.getElementById('song').innerHTML = Mustache.render(template, data);
+  document.getElementById('song').innerHTML = Mustache.render(songTemplate, data);
+  document.getElementById('title').innerHTML = Mustache.render(titleTemplate, data);
   $("#song").data()["allChords"] = data["allChords"];
   data["instrument"] = $("#song").data()["instrument"];
   renderChords(data);

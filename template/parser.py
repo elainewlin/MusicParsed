@@ -144,7 +144,7 @@ def getAllSongs():
 def addSong(url):
     fileName = toText(url)
     toJSON(fileName)
-# toJSON("I'll Make A Man Out Of You - Disney.txt")
+toJSON("Just a Cheap Thrill - Nelly.txt")
 # allToText()
 # allToJSON()
 getAllSongs()

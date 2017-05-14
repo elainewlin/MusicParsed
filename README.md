@@ -1,4 +1,4 @@
-# MusicBuddy 
+# SongChords 
 
 Start local server: 
 ```python -m SimpleHTTPServer ```
