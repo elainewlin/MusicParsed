@@ -130,9 +130,10 @@ def allToJSON():
             allSongs.append(fileName.split(".txt")[0])
     with open('allSongs.json', 'w') as outfile:
         json.dump(allSongs, outfile)
+    getAllSongs()
 
 # Get all songs
-def getSongs():
+def getAllSongs():
     allSongs = []
     for fileName in os.listdir(jsonFolder):
         allSongs.append(fileName.split(".json")[0])
@@ -143,6 +144,7 @@ def getSongs():
 def addSong(url):
     fileName = toText(url)
     toJSON(fileName)
-
+# toJSON("I'll Make A Man Out Of You - Disney.txt")
 # allToText()
-allToJSON()
+# allToJSON()
+getAllSongs()
