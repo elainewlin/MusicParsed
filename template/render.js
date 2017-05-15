@@ -1,5 +1,6 @@
 var renderChords = function(data) {
   var chordTemplate = document.getElementById('chordTemplate').innerHTML;
+  data['allChords'] = data['allChords'].sort();
   document.getElementById('chordPics').innerHTML = Mustache.render(chordTemplate, data);
   $("#instrumentToggle").text(data["instrument"]);
   $("#song").data()["instrument"] = data["instrument"];
@@ -9,7 +10,7 @@ var rerender = function(data) {
   //Grab the inline template
   var songTemplate = document.getElementById('songTemplate').innerHTML;
   var titleTemplate = document.getElementById('titleTemplate').innerHTML;
-  
+
   //Overwrite the contents of song with the rendered HTML
   document.getElementById('song').innerHTML = Mustache.render(songTemplate, data);
   document.getElementById('title').innerHTML = Mustache.render(titleTemplate, data);
@@ -37,7 +38,7 @@ window.onload = function() {
           },
           success: function(data) {
             var re = $.ui.autocomplete.escapeRegex(request.term);
-            var matcher = new RegExp( "^" + re, "i" );
+            var matcher = new RegExp( re, "i" );
             var matches = $.grep(data, function(item){return matcher.test(item);});
             response(matches);
           }

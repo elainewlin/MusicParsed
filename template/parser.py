@@ -62,6 +62,7 @@ def isLabel(line):
     # return False
 
 # Checks whether a line is a chord
+# TO-DO make a regex
 def isChord(line):
     lCount = 0
     for c in line:
