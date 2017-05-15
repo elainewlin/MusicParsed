@@ -45,6 +45,16 @@
     <img src="./chords/{{instrument}}/{{.}}.png" />
   {{/allChords}}
   </script>
+  <script id="allSongsTemplate" type="x-tmpl-mustache">
+  {{#.}}
+    <strong>{{artist}}</strong>
+    <ul>
+      {{#songs}}
+        <a><li class="songTitle" data-id="{{.}} - {{artist}}">{{.}}</li></a>
+      {{/songs}}
+    </ul>
+  {{/.}}
+  </script>
 
   <!-- jQuery UI autocomplete -->
  
@@ -61,11 +71,14 @@
 
 <body>
   <div class="container-fluid">
+      <div class="row" id="allSongs">
+      </div>
       <div class="row">
         <div class="ui-widget">
           <label for="tags">Song select: </label>
           <input id="tags">
           <button class="btn btn-default" id="viewToggle">View</button>
+          <button class="btn btn-default" id="songsToggle">Show all songs</button>
 
           <label for="chords">Chords: </label>
           <button class="btn btn-default" id="chordToggle">hide</button>
@@ -99,12 +112,12 @@
         </div>
       </div>
       <div class="row">
-      <h3 id="title"></h3>
-      <div class="col-xs-12" id="song" data-instrument="ukulele" data-allChords>
+        <h3 id="title"></h3>
+        <div class="col-xs-12" id="song" data-instrument="ukulele" data-allChords>
+        </div>
+        <div id="chordPics">
+        </div>
       </div>
-      <div id="chordPics">
-      </div>
-    </div>
     </div>
   </div> <!-- class="container" -->
 </body>

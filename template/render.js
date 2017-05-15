@@ -19,6 +19,56 @@ var rerender = function(data) {
   renderChords(data);
 }
 
+var showAllSongs = function() {
+  var allSongs = {}
+  // TO-DO figure out how to organize allSongs.json
+  // TO-DO figure out how to sort by artist or tags
+  $.ajax({
+    url: "./template/allSongs.json",
+    dataType: "json",
+    success: function(data) {
+      data.map(function(song) {
+        var parts = song.split(' - ');
+        var title = parts[0];
+        var artist = parts[1];
+        // var song = {}
+        // song["title"] = title;
+        // song["artist"] = artist;
+
+        if(allSongs.hasOwnProperty(artist)) {
+          allSongs[artist].push(title);
+        }
+        else {
+          allSongs[artist] = [title];
+        }
+      });
+
+      var asdf = []
+      for(var i in allSongs) {
+        var temp = {}
+        temp["artist"] = i;
+        temp["songs"] = allSongs[i];
+        asdf.push(temp);
+      }
+      console.log(asdf);
+     
+       //Grab the inline template
+      var template = document.getElementById('allSongsTemplate').innerHTML;
+
+      //Overwrite the contents of song with the rendered HTML
+      document.getElementById('allSongs').innerHTML = Mustache.render(template, asdf);
+
+      $(".songTitle").click(function(e) {
+        var songID = $(e.target).data()["id"];
+        console.log(songID);
+        $.getJSON("./template/json/"+songID+".json", function(data) {
+            rerender(data);
+        });
+      })
+    }
+  });
+}
+
 window.onload = function() {
   var defaultSong = "Viva la Vida - Coldplay";
   $.getJSON("./template/json/"+defaultSong+".json", function(data) {

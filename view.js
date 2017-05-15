@@ -19,6 +19,11 @@ $(document).ready(function() {
         toggleChords();
     })
 
+    $("#songsToggle").click(function() {
+        console.log("TEST");
+        showAllSongs();
+    })
+
     $("#viewToggle").click(function() {
         $("#column-count").toggle(); 
         $("#transpose").toggle(); 
