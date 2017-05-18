@@ -137,7 +137,16 @@ def allToJSON():
 def getAllSongs():
     allSongs = []
     for fileName in os.listdir(jsonFolder):
-        allSongs.append(fileName.split(".json")[0])
+        newSong = {}
+        songID = fileName.split(".json")[0]
+        title = songID.split(" - ")[0]
+        artist = songID.split(" - ")[1]
+        # tags = []
+
+        newSong["id"] = songID
+        newSong["title"] = title
+        newSong["artist"] = artist
+        allSongs.append(newSong)
     with open('allSongs.json', 'w') as outfile:
         json.dump(allSongs, outfile)
              
@@ -147,5 +156,5 @@ def addSong(url):
     toJSON(fileName)
 # toJSON("Just a Cheap Thrill - Nelly.txt")
 # allToText()
-allToJSON()
+# allToJSON()
 getAllSongs()

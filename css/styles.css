@@ -1,3 +1,7 @@
+:root {
+  --main-blue: #19198c;
+}
+
 .ui-widget {
     font-size: 20px;
 }
@@ -11,12 +15,14 @@
 .container-fluid {
     margin: 10px;
 }
+
 #song {
     column-count: 3;
 }
 
-a {
-    color: #19198c;
+.songTitle {
+    color: var(--main-blue);
+    cursor: pointer;
 }
 
 #allSongs {
@@ -25,10 +31,11 @@ a {
 .selected {
     background-color: #fffddd;
 }
+
 .chords {
     display: block;
     white-space: pre;
-    color: #19198c;
+    color: var(--main-blue);
 }
 
 #chordPics {
@@ -38,7 +45,7 @@ a {
     background-color: white;
     border-style: solid;
     border-width: 0px 0px 1px 1px;
-    border-color: #19198c;
+    border-color: var(--main-blue);
 }
 
 .chord {

@@ -46,10 +46,10 @@
   </script>
   <script id="allSongsTemplate" type="x-tmpl-mustache">
   {{#.}}
-    <strong>{{artist}}</strong>
+    <strong>{{tag}}</strong>
     <ul>
       {{#songs}}
-        <a><span><li class="songTitle" data-id="{{.}} - {{artist}}">{{.}}</li></span></a>
+        <a><span><li class="songTitle" data-id="{{id}}">{{title}}</li></span></a>
       {{/songs}}
     </ul>
   {{/.}}
