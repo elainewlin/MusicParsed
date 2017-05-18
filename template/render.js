@@ -1,31 +1,42 @@
-var renderChords = function(data) {
-  // TO-DO separate Model, View, Controller
-  $("#song").data()["allChords"] = data["allChords"];
-  
-  data["instrument"] = $("#song").data()["instrument"];
-  var instrument = data["instrument"];
-  $("#instrumentToggle").text(instrument);
-  $("#song").data()["instrument"] = instrument;
+var renderChords = function() {
+  $("#instrumentToggle").text(songView.currentInstrument);
 
-  var chordTemplate = document.getElementById('chordTemplate').innerHTML;
-  data['allChords'] = data['allChords'].sort();
+  var chordTemplate = document.getElementById("chordTemplate").innerHTML;
+
+  var data = {};
+  data["currentInstrument"] = songView.currentInstrument;
+  data["allChords"] = songView["allChords"].sort().map(function(chord) {
+    return chord.replace("#", "%23");
+  });
+
   document.getElementById('chordPics').innerHTML = Mustache.render(chordTemplate, data);
 }
 
-var rerender = function(data) {
+var rerender = function() {
   //Grab the inline template
   var songTemplate = document.getElementById('songTemplate').innerHTML;
   var titleTemplate = document.getElementById('titleTemplate').innerHTML;
 
   //Overwrite the contents of song with the rendered HTML
-  document.getElementById('song').innerHTML = Mustache.render(songTemplate, data);
-  document.getElementById('title').innerHTML = Mustache.render(titleTemplate, data);
+  document.getElementById('song').innerHTML = Mustache.render(songTemplate, songView);
+  document.getElementById('title').innerHTML = Mustache.render(titleTemplate, songView);
   
-  renderChords(data);
+  renderChords();
 
   // Update view for transpose widget
   // $("#transpose").find("label").removeClass("selected");
   // $("#0").addClass("selected");
+}
+
+
+var loadSong = function(newSong) {
+  songView["songName"] = newSong;
+
+  $.getJSON("./template/json/"+newSong+".json", function(data) {
+      songView["allChords"] = data["allChords"];
+      songView["lines"] = data["lines"];
+      rerender();
+  });
 }
 
 var showAllSongs = function() {
@@ -38,12 +49,11 @@ var showAllSongs = function() {
     dataType: "json",
     success: function(data) {
       data.map(function(song) {
+
+        // Sorting by artist
         var parts = song.split(' - ');
         var title = parts[0];
         var artist = parts[1];
-        // var song = {}
-        // song["title"] = title;
-        // song["artist"] = artist;
 
         if(allSongs.hasOwnProperty(artist)) {
           allSongs[artist].push(title);
@@ -60,7 +70,6 @@ var showAllSongs = function() {
         temp["songs"] = allSongs[i];
         asdf.push(temp);
       }
-      console.log(asdf);
      
        //Grab the inline template
       var template = document.getElementById('allSongsTemplate').innerHTML;
@@ -70,27 +79,20 @@ var showAllSongs = function() {
       document.getElementById('allSongs').innerHTML = Mustache.render(template, asdf);
 
       $(".songTitle").click(function(e) {
-        var songID = $(e.target).data()["id"];
-        console.log(songID);
-        $.getJSON("./template/json/"+songID+".json", function(data) {
-            rerender(data);
-            $('#allSongs').hide();
-        });
+        var newSong = $(e.target).data()["id"];
+        loadSong(newSong);
+        $('#allSongs').hide();
       })
     }
   });
 }
 
 window.onload = function() {
-  var defaultSong = "Viva la Vida - Coldplay";
-  $.getJSON("./template/json/"+defaultSong+".json", function(data) {
-      rerender(data);
-  });
+
+  // Default song
+  loadSong(songView["songName"]);
 
   $("#tags").autocomplete({
-      // TO-DO use some server side script ex: php
-      // problem: only shows songs that start with the letter
-      // problem: inefficient regex script
       source: function(request, response) {
          $.ajax({
           url: "./template/allSongs.json",
@@ -107,9 +109,8 @@ window.onload = function() {
         });
       },
       select: function(event, ui) { 
-        $.getJSON("./template/json/"+ui.item.label+".json", function(data) {
-          rerender(data);
-        });
+        var newSong = ui.item.label;
+        loadSong(newSong);
       }
   }); 
 

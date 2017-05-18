@@ -25,7 +25,7 @@
   <script src="lib/mustache.min.js"></script>
   <script src="template/render.js"></script>  
   <script id="titleTemplate" type="x-tmpl-mustache">
-    {{title}} - {{artist}}
+    {{songName}}
   </script>
   <script id="songTemplate" type="x-tmpl-mustache">
   {{#lines}}
@@ -42,7 +42,9 @@
   </script>
   <script id="chordTemplate" type="x-tmpl-mustache">
   {{#allChords}}
-    <img src="./chords/{{instrument}}/{{.}}.png" />
+    <object data="./chords/{{currentInstrument}}/{{.}}.png" type="image/png" class="chord">
+      {{.}}
+    </object>
   {{/allChords}}
   </script>
   <script id="allSongsTemplate" type="x-tmpl-mustache">
@@ -50,7 +52,7 @@
     <strong>{{artist}}</strong>
     <ul>
       {{#songs}}
-        <a><li class="songTitle" data-id="{{.}} - {{artist}}">{{.}}</li></a>
+        <a><span><li class="songTitle" data-id="{{.}} - {{artist}}">{{.}}</li></span></a>
       {{/songs}}
     </ul>
   {{/.}}
@@ -61,11 +63,9 @@
   <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
   <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 
-  <!-- Transposing chords --> 
-  <script src="transpose.js"></script>  
-
   <!-- Two column view -->
-  <script src="view.js"></script>  
+  <script src="model.js"></script>  
+  <script src="controller.js"></script>  
 
 </head>
 
@@ -73,49 +73,51 @@
   <div class="container-fluid">
       <div class="row" id="allSongs">
       </div>
-      <div class="row">
-        <div class="ui-widget">
-          <label for="tags">Song select: </label>
-          <input id="tags">
-          <button class="btn btn-default" id="viewToggle">View</button>
-          <button class="btn btn-default" id="songsToggle">Show all songs</button>
+      <div id="songView">
+        <div class="row">
+          <div class="ui-widget">
+            <label for="tags">Song select: </label>
+            <input id="tags">
+            <button class="btn btn-default" id="viewToggle">View</button>
+            <button class="btn btn-default" id="songsToggle">Show all songs</button>
 
-          <label for="chords">Chords: </label>
-          <button class="btn btn-default" id="chordToggle">hide</button>
-          <button class="btn btn-default" id="instrumentToggle"></button>
-        </div>
-        <div class="ui-widget" id="column-count">
-          <label for="column-count">Columns</label>
-          <div class="btn-group" data-toggle="buttons">
-            <label class="btn btn-default" data-column="1"><input type="radio"> 1</label>
-            <label class="btn btn-default" data-column="2"><input type="radio"> 2</label>
-            <label class="btn btn-default selected" data-column="3"><input type="radio"> 3</label>
+            <label for="chords">Chords: </label>
+            <button class="btn btn-default" id="chordToggle">hide</button>
+            <button class="btn btn-default" id="instrumentToggle"></button>
+          </div>
+          <div class="ui-widget" id="column-count">
+            <label for="column-count">Columns</label>
+            <div class="btn-group" data-toggle="buttons">
+              <label class="btn btn-default" data-column="1"><input type="radio"> 1</label>
+              <label class="btn btn-default" data-column="2"><input type="radio"> 2</label>
+              <label class="btn btn-default selected" data-column="3"><input type="radio"> 3</label>
+            </div>
+          </div>
+          <div class="ui-widget" id="transpose" >
+            <label for="transpose">Transpose</label>
+            <div class="btn-group" data-toggle="buttons">
+              <label class="btn btn-default" data-step="-6"><input type="radio" checked> -6</label>
+              <label class="btn btn-default" data-step="-5"><input type="radio"> -5</label>
+              <label class="btn btn-default" data-step="-4"><input type="radio"> -4</label>
+              <label class="btn btn-default" data-step="-3"><input type="radio"> -3</label>
+              <label class="btn btn-default" data-step="-2"><input type="radio"> -2</label>
+              <label class="btn btn-default" data-step="-1"><input type="radio"> -1</label>
+              <label class="btn btn-default selected" data-step="0" id="0"><input type="radio"> 0</label>
+              <label class="btn btn-default" data-step="1"><input type="radio"> +1 </label>
+              <label class="btn btn-default" data-step="2"><input type="radio"> +2</label>
+              <label class="btn btn-default" data-step="3"><input type="radio"> +3</label>
+              <label class="btn btn-default" data-step="4"><input type="radio"> +4</label>
+              <label class="btn btn-default" data-step="5"><input type="radio"> +5</label>
+              <label class="btn btn-default" data-step="6"><input type="radio"> +6</label>
+            </div>
           </div>
         </div>
-        <div class="ui-widget" id="transpose" >
-          <label for="transpose">Transpose</label>
-          <div class="btn-group" data-toggle="buttons">
-            <label class="btn btn-default" data-step="-6"><input type="radio" checked> -6</label>
-            <label class="btn btn-default" data-step="-5"><input type="radio"> -5</label>
-            <label class="btn btn-default" data-step="-4"><input type="radio"> -4</label>
-            <label class="btn btn-default" data-step="-3"><input type="radio"> -3</label>
-            <label class="btn btn-default" data-step="-2"><input type="radio"> -2</label>
-            <label class="btn btn-default" data-step="-1"><input type="radio"> -1</label>
-            <label class="btn btn-default selected" data-step="0" id="0"><input type="radio"> 0</label>
-            <label class="btn btn-default" data-step="1"><input type="radio"> +1 </label>
-            <label class="btn btn-default" data-step="2"><input type="radio"> +2</label>
-            <label class="btn btn-default" data-step="3"><input type="radio"> +3</label>
-            <label class="btn btn-default" data-step="4"><input type="radio"> +4</label>
-            <label class="btn btn-default" data-step="5"><input type="radio"> +5</label>
-            <label class="btn btn-default" data-step="6"><input type="radio"> +6</label>
+        <div class="row">
+          <h3 id="title"></h3>
+          <div class="col-xs-12" id="song" data-allChords>
           </div>
-        </div>
-      </div>
-      <div class="row">
-        <h3 id="title"></h3>
-        <div class="col-xs-12" id="song" data-instrument="ukulele" data-allChords>
-        </div>
-        <div id="chordPics">
+          <div id="chordPics">
+          </div>
         </div>
       </div>
     </div>

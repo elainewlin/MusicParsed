@@ -20,7 +20,6 @@ $(document).ready(function() {
     })
 
     $("#songsToggle").click(function() {
-        console.log("TEST");
         showAllSongs();
     })
 
@@ -29,20 +28,28 @@ $(document).ready(function() {
         $("#transpose").toggle(); 
     })
     $("#instrumentToggle").click(function() {
-        var currentInstrument = $("#song").data()["instrument"];
-        var instruments = ["guitar", "ukulele"];
-
-        var newInstrument = instruments[(instruments.indexOf(currentInstrument) + 1) % instruments.length];
-
-        data = {}
-        data["allChords"] = $("#song").data()["allChords"];
-        data["instrument"] = newInstrument;
-        renderChords(data);
+        songView.toggleInstrument();
+        renderChords(songView);
     })
 
     $("#column-count").find("input").click(function(e) {
         var colCount = $(e.target.parentNode).data()["column"]
         $("#song").css("column-count", colCount);
     });
+
+    // View for transpose and column widgets
+    $("input[type=radio]").click(function(e) {
+        var labels = $(e.target.parentNode.parentNode).find("label"); 
+        labels.removeClass("selected");
+        var target = $(e.target.parentNode);
+        target.addClass("selected");
+    });
+
+    // TO-DO convert the key, don't transpose multiple times
+    $("#transpose").find("input").click(function(e) {
+        var step = $(e.target.parentNode).data()["step"];
+        songView.transpose(step);
+        rerender();
+    })
     
 })
