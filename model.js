@@ -38,30 +38,63 @@ function transposeChord(chord, amount) {
 
 var songView = new function() {
     var instruments = ["guitar", "ukulele"];
-    this.currentInstrument = instruments[1];
-    this.toggleInstrument = function() {
-        this.currentInstrument = instruments[(instruments.indexOf(this.currentInstrument) + 1) % instruments.length];
+    var currentInstrument = instruments[1];
+
+    this.getInstrument = function() {
+        return currentInstrument;
     }
 
-    this.lines = [];
-    this.allChords = [];
+    this.toggleInstrument = function() {
+        currentInstrument = instruments[(instruments.indexOf(currentInstrument) + 1) % instruments.length];
+    }
 
-    this.songName = "Viva la Vida - Coldplay";
+    var lines = [];
+    var allChords = [];
 
-    // BUG - should convert key of song, not transpose multiple times
-    this.step = 0;
+    this.getChords = function() {
+        return allChords;
+    }
 
-    this.transpose = function(step) {
-        this.allChords = this.allChords.map(function(chord) {
-            return transposeChord(chord, step);
+    this.setSong = function(data) {
+        allChords = data["allChords"];
+        lines = data["lines"];
+    }
+
+    var songName = "Viva la Vida - Coldplay";
+
+    this.getName = function() {
+        return songName;
+    }
+
+    this.setName = function(newName) {
+        songName = newName;
+    }
+
+    var key = 0; // # of steps transposed, range -6 to 6
+
+    this.getKey = function() {
+        return key;
+    }
+
+    this.setKey = function(newKey) {
+        key = newKey;
+    }
+
+    this.getData = function() {
+        data = {};
+        data["allChords"] = allChords.slice().sort().map(function(chord) {
+            return transposeChord(chord, key).replace("#", "%23");
         })
-
-        songView["lines"].map(function(line) {
-            if(line["chord"]) {
-                var transpose = transposeChord(line["chord"], step);
-                line["chord"] = transpose;
+        data["lines"] = lines.slice().map(function(line) {
+            var newLine = $.extend({}, line);
+            if(newLine["chord"]) {
+                newLine["chord"] = transposeChord(line["chord"], key);
             }
-        })
+            return newLine;
+        });
+
+        data["instrument"] = currentInstrument;
+        return data;
     }
 
 }

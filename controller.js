@@ -29,7 +29,7 @@ $(document).ready(function() {
     })
     $("#instrumentToggle").click(function() {
         songView.toggleInstrument();
-        renderChords(songView);
+        renderChords(songView.getData());
     })
 
     $("#column-count").find("input").click(function(e) {
@@ -45,11 +45,10 @@ $(document).ready(function() {
         target.addClass("selected");
     });
 
-    // TO-DO convert the key, don't transpose multiple times
     $("#transpose").find("input").click(function(e) {
-        var step = $(e.target.parentNode).data()["step"];
-        songView.transpose(step);
-        rerender();
+        var newKey = $(e.target.parentNode).data()["key"];
+        songView.setKey(newKey);
+        rerender(songView.getData());
     })
     
 })

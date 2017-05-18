@@ -1,41 +1,34 @@
-var renderChords = function() {
-  $("#instrumentToggle").text(songView.currentInstrument);
+var renderChords = function(data) {
+  var currentInstrument = songView.getInstrument();
+  $("#instrumentToggle").text(currentInstrument);
 
   var chordTemplate = document.getElementById("chordTemplate").innerHTML;
-
-  var data = {};
-  data["currentInstrument"] = songView.currentInstrument;
-  data["allChords"] = songView["allChords"].sort().map(function(chord) {
-    return chord.replace("#", "%23");
-  });
 
   document.getElementById('chordPics').innerHTML = Mustache.render(chordTemplate, data);
 }
 
-var rerender = function() {
-  //Grab the inline template
+var rerender = function(data) {
+  $("#title").text(songView.getName());
+
   var songTemplate = document.getElementById('songTemplate').innerHTML;
-  var titleTemplate = document.getElementById('titleTemplate').innerHTML;
-
-  //Overwrite the contents of song with the rendered HTML
-  document.getElementById('song').innerHTML = Mustache.render(songTemplate, songView);
-  document.getElementById('title').innerHTML = Mustache.render(titleTemplate, songView);
+  document.getElementById('song').innerHTML = Mustache.render(songTemplate, data);
   
-  renderChords();
-
-  // Update view for transpose widget
-  // $("#transpose").find("label").removeClass("selected");
-  // $("#0").addClass("selected");
+  renderChords(data);
 }
 
+var resetTranspose = function() {
+  songView.setKey(0);
+  $("#transpose").find("label").removeClass("selected");
+  $("#0").addClass("selected");
+}
 
 var loadSong = function(newSong) {
-  songView["songName"] = newSong;
+  songView.setName(newSong);
 
   $.getJSON("./template/json/"+newSong+".json", function(data) {
-      songView["allChords"] = data["allChords"];
-      songView["lines"] = data["lines"];
-      rerender();
+      songView.setSong(data);
+      resetTranspose();
+      rerender(songView.getData());
   });
 }
 
@@ -90,7 +83,7 @@ var showAllSongs = function() {
 window.onload = function() {
 
   // Default song
-  loadSong(songView["songName"]);
+  loadSong(songView.getName());
 
   $("#tags").autocomplete({
       source: function(request, response) {
