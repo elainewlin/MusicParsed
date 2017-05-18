@@ -145,7 +145,7 @@ def getAllSongs():
 def addSong(url):
     fileName = toText(url)
     toJSON(fileName)
-toJSON("Just a Cheap Thrill - Nelly.txt")
+# toJSON("Just a Cheap Thrill - Nelly.txt")
 # allToText()
-# allToJSON()
+allToJSON()
 getAllSongs()

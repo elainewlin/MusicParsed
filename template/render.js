@@ -1,9 +1,15 @@
 var renderChords = function(data) {
+  // TO-DO separate Model, View, Controller
+  $("#song").data()["allChords"] = data["allChords"];
+  
+  data["instrument"] = $("#song").data()["instrument"];
+  var instrument = data["instrument"];
+  $("#instrumentToggle").text(instrument);
+  $("#song").data()["instrument"] = instrument;
+
   var chordTemplate = document.getElementById('chordTemplate').innerHTML;
   data['allChords'] = data['allChords'].sort();
   document.getElementById('chordPics').innerHTML = Mustache.render(chordTemplate, data);
-  $("#instrumentToggle").text(data["instrument"]);
-  $("#song").data()["instrument"] = data["instrument"];
 }
 
 var rerender = function(data) {
@@ -14,13 +20,17 @@ var rerender = function(data) {
   //Overwrite the contents of song with the rendered HTML
   document.getElementById('song').innerHTML = Mustache.render(songTemplate, data);
   document.getElementById('title').innerHTML = Mustache.render(titleTemplate, data);
-  $("#song").data()["allChords"] = data["allChords"];
-  data["instrument"] = $("#song").data()["instrument"];
+  
   renderChords(data);
+
+  // Update view for transpose widget
+  // $("#transpose").find("label").removeClass("selected");
+  // $("#0").addClass("selected");
 }
 
 var showAllSongs = function() {
   var allSongs = {}
+
   // TO-DO figure out how to organize allSongs.json
   // TO-DO figure out how to sort by artist or tags
   $.ajax({
@@ -56,6 +66,7 @@ var showAllSongs = function() {
       var template = document.getElementById('allSongsTemplate').innerHTML;
 
       //Overwrite the contents of song with the rendered HTML
+      $('#allSongs').show();
       document.getElementById('allSongs').innerHTML = Mustache.render(template, asdf);
 
       $(".songTitle").click(function(e) {
@@ -63,6 +74,7 @@ var showAllSongs = function() {
         console.log(songID);
         $.getJSON("./template/json/"+songID+".json", function(data) {
             rerender(data);
+            $('#allSongs').hide();
         });
       })
     }
