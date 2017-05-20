@@ -144,6 +144,8 @@ def getAllSongs():
         # tags = []
 
         newSong["id"] = songID
+        newSong["label"] = title
+        newSong["value"] = songID
         newSong["title"] = title
         newSong["artist"] = artist
         allSongs.append(newSong)

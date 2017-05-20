@@ -90,7 +90,9 @@ window.onload = function() {
           success: function(data) {
             var re = $.ui.autocomplete.escapeRegex(request.term);
             var matcher = new RegExp( re, "i" );
-            var matches = $.grep(data, function(item){return matcher.test(item);});
+            var matches = $.grep(data, function(item){
+              return matcher.test(item["id"]); // searching by song ID
+            });
             response(matches);
           }
         });
