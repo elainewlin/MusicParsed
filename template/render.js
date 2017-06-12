@@ -93,12 +93,13 @@ window.onload = function() {
             var matches = $.grep(data, function(item){
               return matcher.test(item["id"]); // searching by song ID
             });
+            console.log(matches);
             response(matches);
           }
         });
       },
       select: function(event, ui) { 
-        var newSong = ui.item.label;
+        var newSong = ui.item.value;
         loadSong(newSong);
       }
   }); 
