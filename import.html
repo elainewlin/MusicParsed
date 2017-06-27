@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>SongChords</title>
+  <meta property="og:url" content="https://elainewlin.github.io/SongChords/" />
+  <meta property="og:title" content="SongChords" />
+  <meta property="og:description" content="Multi-column view for ukulele chord websites. No scrolling required." />
+  <meta property="og:image:url" content="http://www.ukuleletricks.com/wp-content/uploads/2011/03/cordoba-15cm-concert-ukulele.jpg" />
+  <meta property="og:image:secure_url" content="http://www.ukuleletricks.com/wp-content/uploads/2011/03/cordoba-15cm-concert-ukulele.jpg" />
+  <meta property="fb:app_id" content="1517429378276581" />
+  <!-- Ukulele favicon -->
+  <link rel="icon" href="favicon.ico">
+
+  <!-- Load style sheets -->
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/import.css">
+  <link rel="stylesheet" href="css/jquery-ui.min.css">
+
+  <!-- Load any supplemental Javascript libraries here -->
+  <script src="lib/jquery.min.js"></script> 
+
+  <script src="import.js"></script>  
+
+</head>
+
+<body>
+  <div class="container">
+     <div class="row">
+        <div class="col-xs-6">
+            <h1>Add song text</h1>
+            <textarea id="addText" class="form-control"></textarea>
+            <button class="btn btn-default" id="importText">Import from text</button>
+        </div>
+        <div class="col-xs-6">
+            <h1>Add song URL</h1>
+            <input type="text" id="addURL" class="form-control" />
+            <button class="btn btn-default" id="importURL">Import from URL</button>
+
+        </div>
+    </div>
+  </div> <!-- class="container" -->
+</body>
+
+</html>
