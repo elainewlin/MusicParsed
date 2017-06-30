@@ -4,14 +4,6 @@
 <head>
   <meta charset="utf-8">
   <title>SongChords</title>
-  <meta property="og:url" content="https://elainewlin.github.io/SongChords/" />
-  <meta property="og:title" content="SongChords" />
-  <meta property="og:description" content="Multi-column view for ukulele chord websites. No scrolling required." />
-  <meta property="og:image:url" content="http://www.ukuleletricks.com/wp-content/uploads/2011/03/cordoba-15cm-concert-ukulele.jpg" />
-  <meta property="og:image:secure_url" content="http://www.ukuleletricks.com/wp-content/uploads/2011/03/cordoba-15cm-concert-ukulele.jpg" />
-  <meta property="fb:app_id" content="1517429378276581" />
-  <!-- Ukulele favicon -->
-  <link rel="icon" href="favicon.ico">
 
   <!-- Load style sheets -->
   <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -21,12 +13,14 @@
   <!-- Load any supplemental Javascript libraries here -->
   <script src="lib/jquery.min.js"></script> 
 
-    <!-- Mustache template -->
+  <!-- Mustache template -->
   <script src="lib/mustache.min.js"></script>
-  <script src="model.js"></script>  
-  <script src="controller.js"></script>
-  <script src="template/render.js"></script>  
-  <script src="template/showAllSongs.js"></script>  
+
+  <!-- JS I wrote --> 
+  <script src="js/model.js"></script>  
+  <script src="js/controller.js"></script>
+  <script src="js/render.js"></script>  
+  <script src="js/showAllSongs.js"></script>  
   
   <script id="allSongsTemplate" type="x-tmpl-mustache">
   {{#.}}

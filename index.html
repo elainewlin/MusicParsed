@@ -4,12 +4,7 @@
 <head>
   <meta charset="utf-8">
   <title>SongChords</title>
-  <meta property="og:url" content="https://elainewlin.github.io/SongChords/" />
-  <meta property="og:title" content="SongChords" />
-  <meta property="og:description" content="Multi-column view for ukulele chord websites. No scrolling required." />
-  <meta property="og:image:url" content="http://www.ukuleletricks.com/wp-content/uploads/2011/03/cordoba-15cm-concert-ukulele.jpg" />
-  <meta property="og:image:secure_url" content="http://www.ukuleletricks.com/wp-content/uploads/2011/03/cordoba-15cm-concert-ukulele.jpg" />
-  <meta property="fb:app_id" content="1517429378276581" />
+
   <!-- Ukulele favicon -->
   <link rel="icon" href="favicon.ico">
 
@@ -20,10 +15,12 @@
 
   <!-- Load any supplemental Javascript libraries here -->
   <script src="lib/jquery.min.js"></script> 
-
+  <!-- jQuery UI autocomplete -->
+  <script src="lib/jquery-ui.min.js"></script>
     <!-- Mustache template -->
   <script src="lib/mustache.min.js"></script>
-  <script src="template/render.js"></script>  
+  
+  <script src="js/render.js"></script>  
   <script id="songTemplate" type="x-tmpl-mustache">
   {{#lines}}
     {{#label}}
@@ -45,14 +42,9 @@
   {{/allChords}}
   </script>
 
-  <!-- jQuery UI autocomplete -->
- 
-  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
-  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-
   <!-- Two column view -->
-  <script src="model.js"></script>  
-  <script src="controller.js"></script>  
+  <script src="js/model.js"></script>  
+  <script src="js/controller.js"></script>  
 
 </head>
 
