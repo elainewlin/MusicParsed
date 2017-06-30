@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Guitar-Uke Converter</title>
+  <meta charset="utf-8">
+  <script src="./lib/jquery.min.js"></script>
+
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="./css/bootstrap.min.css">
+
+  <!-- Latest compiled and minified JavaScript -->
+  <script src="./lib/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="./css/convert.css">
+
+
+</head>
+<body>
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-8">
+        <h2>Enter your <span class="fromInstrument">guitar</span> tab</h2>
+        <textarea class="tab"></textarea>
+        <div>
+          <button class="btn btn-primary convert">Convert to <span class="toInstrument">ukulele</span></button>
+        </div>
+      </div>
+      <div class="col-xs-4">
+        <h2>Instruments</h2>
+        <div class="btn-group" data-toggle="buttons">
+          <div>
+            <label class="btn btn-default active option" id="toUkulele" >
+              <input type="radio" checked hidden> Guitar tabs to ukulele
+            </label>
+          </div>
+          <div>
+            <label class="btn btn-default option" id="toGuitar">
+              <input type="radio" hidden> Ukulele tabs to guitar
+            </label>
+          </div>
+        </div>
+
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-xs-8">
+        <h2>Converted <span class="toInstrument">ukulele</span> tab</h2>
+        <textarea class="tab converted"></textarea>
+      </div>
+      <div class="col-xs-4">
+        <img src="./images/guitar.png" class="guitar" />
+        <img src="./images/ukulele.jpg" class="ukulele" />
+      </div>
+    </div>
+  </div>
+
+</body>
+<script src="./js/music.js"></script>
+<script src="./js/convert.js"></script>
+</html>
