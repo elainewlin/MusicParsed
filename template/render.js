@@ -34,9 +34,15 @@ var loadSong = function(newSong) {
 
 window.onload = function() {
 
-  // Default song songView.getName()
+  
   var song = localStorage.getItem("song");
-  loadSong(song);
+  if (song) {
+    loadSong(song);
+  }
+  else {
+    // Default song 
+    loadSong(songView.getName());
+  }
 
   $("#tags").autocomplete({
       source: function(request, response) {
