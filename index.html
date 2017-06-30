@@ -44,16 +44,6 @@
     </object>
   {{/allChords}}
   </script>
-  <script id="allSongsTemplate" type="x-tmpl-mustache">
-  {{#.}}
-    <strong>{{tag}}</strong>
-    <ul>
-      {{#songs}}
-        <a><span><li class="songTitle" data-id="{{id}}">{{title}}</li></span></a>
-      {{/songs}}
-    </ul>
-  {{/.}}
-  </script>
 
   <!-- jQuery UI autocomplete -->
  
@@ -68,15 +58,13 @@
 
 <body>
   <div class="container-fluid">
-      <div class="row" id="allSongs">
-      </div>
       <div id="songView">
         <div class="row">
           <div class="ui-widget">
             <label for="tags">Song select: </label>
             <input id="tags">
             <button class="btn btn-default" id="viewToggle">View</button>
-            <button class="btn btn-default" id="songsToggle">Show all songs</button>
+            <a href="./allSongs.html"><button class="btn btn-default">Show all songs</button></a>
 
             <label for="chords">Chords: </label>
             <button class="btn btn-default" id="chordToggle">hide</button>

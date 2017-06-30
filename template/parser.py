@@ -166,7 +166,6 @@ if __name__ == "__main__":
     textFolder = os.path.join(os.getcwd(), 'text') # might be temp
     converter = Parser(textFolder)
 
-    converter.toJSON("Landfill Let Me Go - Vienna Teng.txt")
     converter.allToJSON()
     # if not args:
     #     print "NO ARGUMENT"
