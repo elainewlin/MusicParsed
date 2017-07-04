@@ -48,6 +48,10 @@
     border-color: var(--main-blue);
 }
 
+#chordPics:hover {
+    cursor: pointer;
+}
+
 .chord {
     height: 120px;
 }
