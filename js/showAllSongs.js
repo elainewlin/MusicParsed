@@ -16,6 +16,17 @@ window.onload = function() {
 
         if(allSongs.hasOwnProperty(artist)) {
           allSongs[artist].push(song);
+		  
+		  
+		  allSongs[artist] = allSongs[artist].sort(function(a, b){
+			var nameA=a.title, nameB=b.title;
+				if (nameA < nameB) //sort string ascending
+					return -1;
+				if (nameA > nameB)
+					return 1;
+				return 0; //default return value (no sorting)
+			});
+		  
         }
         else {
           allSongs[artist] = [song];
