@@ -3,7 +3,7 @@ import json
 import urllib2
 from bs4 import BeautifulSoup
 import argparse
-
+from isChord import isChordLine
 JSON_FOLDER = os.path.join(os.getcwd(), 'json')
 
 class Parser:
@@ -65,17 +65,19 @@ class Parser:
 
         # Checks whether a line is a chord
         # TO-DO make a regex
-        def isChord(line):
-            lCount = 0
-            for c in line:
-                if c != ' ':
-                    lCount += 1
-            if line.startswith(' '):
-                return True
+        # chords = A-G, #?, m?
 
-            if lCount > 0:
-                chord = line.split()[0]
-                return (lCount < 9 and len(chord) < 5)
+        # OLD IS CHORD CHECKER
+        # def isChord(line):
+        #     lCount = 0
+        #     for c in line:
+        #         if c != ' ':
+        #             lCount += 1
+        #     if line.startswith(' '):
+        #         return True
+        #     if lCount > 0:
+        #         chord = line.split()[0]
+        #         return (lCount < 10 and len(chord) < 5)
 
         textFile = os.path.join(textFolder, fileName)
         f = open(textFile, 'r') 
@@ -103,7 +105,7 @@ class Parser:
                 newLine['label'] = lines[i]
                 data['lines'].append(newLine)
             else:
-                if isChord(lines[i]): 
+                if isChordLine(lines[i]): 
                     newLine['lyrics'] = lines[i+1]
                     newLine['chord'] = lines[i]
                     newLine['count'] = count
@@ -165,15 +167,17 @@ if __name__ == "__main__":
 
     textFolder = os.path.join(os.getcwd(), 'text') # might be temp
     converter = Parser(textFolder)
-
     converter.allToJSON()
+    # converter.toJSON('Fluorescent Adolescent - Arctic Monkeys.txt')
+    # converter.toJSON('Dani California - Red Hot Chili Peppers.txt')
+    # converter.toJSON('Leave Out All The Rest - Linkin Park.txt')
     # if not args:
     #     print "NO ARGUMENT"
     #     parser.allToJSON()
     # else:
     #     print "ARGUMENTS"
 
-    # toJSON("Just a Cheap Thrill - Nelly.txt")
+    # converter.toJSON("Somebody That I Used to Know - Gotye.txt")
     # allToText()
     # allToJSON()
     # getAllSongs()
