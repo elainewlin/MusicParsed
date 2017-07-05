@@ -26,6 +26,15 @@ window.onload = function() {
       for(var tag in allSongs) {
         sorted.push({"tag": tag, "songs": allSongs[tag]});
       }
+	  
+	  sorted = sorted.sort(function(a, b){
+		var nameA=a.tag, nameB=b.tag;
+		if (nameA < nameB) //sort string ascending
+			return -1;
+		if (nameA > nameB)
+			return 1;
+		return 0; //default return value (no sorting)
+	  });
      
       var template = document.getElementById('allSongsTemplate').innerHTML;
       document.getElementById('allSongs').innerHTML = Mustache.render(template, sorted);
