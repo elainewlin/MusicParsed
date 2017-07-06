@@ -60,7 +60,7 @@ var songView = new function() {
         lines = data["lines"];
     }
 
-    var songName = "Viva la Vida - Coldplay";
+    var songName = "Eighteen - Alice Cooper";
 
     this.getName = function() {
         return songName;
@@ -83,7 +83,7 @@ var songView = new function() {
     this.getData = function() {
         data = {};
         data["allChords"] = allChords.slice().sort().map(function(chord) {
-            return transposeChord(chord, key).replace("#", "%23");
+            return transposeChord(chord.replace("%23", "#"), key).replace("#", "%23");
         })
         data["lines"] = lines.slice().map(function(line) {
             var newLine = $.extend({}, line);
