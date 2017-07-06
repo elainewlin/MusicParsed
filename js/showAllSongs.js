@@ -1,8 +1,24 @@
 
+// Helper function for sorting arrays of objects by property
+var comparator = function(property) {
+  return function(obj1, obj2) {
+    var prop1 = obj1[property];
+    var prop2 = obj2[property];
+
+    if (prop1 < prop2) { //sort string ascending
+      return -1;
+    }
+    if (prop1 > prop2) {
+      return 1;
+    }
+    return 0; //default return value (no sorting)
+  }
+}
+
 window.onload = function() {
   var allSongs = {}
 
-  // TO DO figure out how to sort by artist or tags
+  // TO DO clean up variable naming, what is sorted even?
   $.ajax({
     url: "./template/allSongs.json",
     dataType: "json",
@@ -22,13 +38,17 @@ window.onload = function() {
         }
       });
 
-      var sorted = []
+      var allSongsByArtist = []
       for(var tag in allSongs) {
-        sorted.push({"tag": tag, "songs": allSongs[tag]});
+        // Song titles in alphabetical order
+        allSongs[tag] = allSongs[tag].sort(comparator("title"));
+        allSongsByArtist.push({"tag": tag, "songs": allSongs[tag]});
       }
-     
+      // Artists in alphabetical order
+      allSongsByArtist = allSongsByArtist.sort(comparator("tag"));
+
       var template = document.getElementById('allSongsTemplate').innerHTML;
-      document.getElementById('allSongs').innerHTML = Mustache.render(template, sorted);
+      document.getElementById('allSongs').innerHTML = Mustache.render(template, allSongsByArtist);
 
       $(".songTitle").click(function(e) {
         var newSong = $(e.target).data()["id"];
