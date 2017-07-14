@@ -13,10 +13,10 @@ var comparator = function(property) {
     }
     return 0; //default return value (no sorting)
   }
-}
+};
 
 window.onload = function() {
-  var allSongs = {}
+  var allSongs = {};
 
   // TO DO clean up variable naming, what is sorted even?
   $.ajax({
@@ -38,7 +38,7 @@ window.onload = function() {
         }
       });
 
-      var allSongsByArtist = []
+      var allSongsByArtist = [];
       for(var tag in allSongs) {
         // Song titles in alphabetical order
         allSongs[tag] = allSongs[tag].sort(comparator("title"));
@@ -56,4 +56,4 @@ window.onload = function() {
       })
     }
   });
-}
+};

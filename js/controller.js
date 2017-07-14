@@ -1,35 +1,34 @@
 $(document).ready(function() {
-
+    let chordPics = $("#chordPics");
     function toggleChords() {
-        $("#chordPics").toggle(); 
+        chordPics.toggle();
 
-        if($("#chordPics").is(":visible")) {
+        if(chordPics.is(":visible")) {
             $("#chordToggle").text("hide");
         }
         else {
             $("#chordToggle").text("show");
         }
     }
-
     $("#chordToggle").click(function() {
        toggleChords();
-    })
+    });
 
-    $("#chordPics").click(function() {
+    chordPics.click(function() {
         toggleChords();
-    })
+    });
 
     $("#viewToggle").click(function() {
         $("#column-count").toggle(); 
         $("#transpose").toggle(); 
-    })
+    });
     $("#instrumentToggle").click(function() {
         songView.toggleInstrument();
         renderChords(songView.getData());
-    })
+    });
 
     $("#column-count").find("input").click(function(e) {
-        var colCount = $(e.target.parentNode).data()["column"]
+        var colCount = $(e.target.parentNode).data()["column"];
         $("#song").css("column-count", colCount);
     });
 
@@ -45,6 +44,9 @@ $(document).ready(function() {
         var newKey = $(e.target.parentNode).data()["key"];
         songView.setKey(newKey);
         rerender(songView.getData());
-    })
-    
-})
+    });
+
+    // Hovering over components gives you useful tooltips :D
+    chordPics.tooltip();
+
+});

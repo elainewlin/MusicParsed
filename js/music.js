@@ -6,7 +6,7 @@ var Ukulele = function() {
   that.notes = [33, 28, 24, 31];
   Object.freeze(that);
   return that;
-}
+};
 
 var Guitar = function() {
   var that = Object.create(Guitar.prototype);
@@ -14,7 +14,7 @@ var Guitar = function() {
   that.notes = [28, 23, 19, 14, 9, 4];
   Object.freeze(that);
   return that;
-}
+};
 
 var Note = function(initialString, fret, time) {
   var that = Object.create(Note.prototype);
@@ -25,7 +25,7 @@ var Note = function(initialString, fret, time) {
   that.getNote = function() {
     var value = initialString+fret;
     return OCTAVE[value % 12];
-  }
+  };
 
   that.toUkulele = function() {
     var stringIndex = Guitar().notes.indexOf(initialString);
@@ -47,15 +47,15 @@ var Note = function(initialString, fret, time) {
         return Note(ukeStrings[stringIndex % 4], fret % 12, time);
       }
     }
-  }
+  };
 
   that.toGuitar = function() {
     var stringIndex = Ukulele().notes.indexOf(initialString);
     var guitarStrings = Guitar().notes;
 
     return Note(guitarStrings[stringIndex], fret+5, time);
-  }
+  };
 
   Object.freeze(that);
   return that;
-}
+};
