@@ -20,7 +20,7 @@ class Parser:
 
     def toText(self, url):
         try:
-            web_page = readURL(url)
+            web_page = self.readURL(url)
             soup = BeautifulSoup(web_page, 'html.parser')
 
             # HTML markup for Ultimate Guitar website
@@ -54,9 +54,8 @@ class Parser:
         lines = f.readlines()
         lines = [x.strip() for x in lines] 
         for url in lines:
-            toText(url)
-      
-        
+            self.toText(url)
+
     # Text file of a song --> JSON file of a song
     def toJSON(self, fileName):
          # Checks whether a line is a label
@@ -149,20 +148,8 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
-    textFolder = os.path.join(os.getcwd(), 'text') # might be temp
+    textFolder = os.path.join(os.getcwd(), 'temp') # might be temp
     converter = Parser(textFolder)
-    converter.toJSON('Clocks - Coldplay.txt')
 
-    # converter.toJSON('Fluorescent Adolescent - Arctic Monkeys.txt')
-    # converter.toJSON('Dani California - Red Hot Chili Peppers.txt')
-    # converter.toJSON('Leave Out All The Rest - Linkin Park.txt')
-    # if not args:
-    #     print "NO ARGUMENT"
-    #     parser.allToJSON()
-    # else:
-    #     print "ARGUMENTS"
-
-    # converter.toJSON("Somebody That I Used to Know - Gotye.txt")
-    # allToText()
-    # allToJSON()
-    # getAllSongs()
+    converter.allToJSON()
+    converter.getAllSongs()
