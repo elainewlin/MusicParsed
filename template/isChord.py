@@ -8,7 +8,6 @@ def isChord(phrase):
     chordRegex = re.compile(chord+bassNote)
 
     # Ignore additional text ex: Apple, Bridge
-
     match = chordRegex.match(phrase)
     if match:
         return match.end() == len(phrase)
@@ -26,5 +25,3 @@ def isChordLine(line):
                 return False
         return True
     return False
-        # chord = line.split()[0]
-        # return (lCount < 10 and len(chord) < 5)
