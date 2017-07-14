@@ -14,8 +14,8 @@ class Parser:
     def readURL(self, url):
         hdr = {'User-Agent': 'Mozilla/5.0'}
         req = urllib2.Request(url, headers = hdr)
-        f = urllib2.urlopen(req)           
-        myfile = f.read()  
+        f = urllib2.urlopen(req)
+        myfile = f.read()
         return myfile
 
     def toText(self, url):
@@ -35,12 +35,12 @@ class Parser:
                 title = soup.find('span', {'class': 'stitlecolor'})
                 artist = title.parent.parent.parent.findAll('tr')[1].find('a').get_text()
                 title = title.get_text()
-      
+
             fileName =  title + ' - ' + artist + '.txt'
             textFile = os.path.join(textFolder, fileName)
             print textFile
             with open(textFile, 'w') as outfile:
-                outfile.write(data.get_text())
+                outfile.write(data.get_text().encode('utf-8'))
             return fileName
 
         except urllib2.HTTPError :
@@ -50,9 +50,9 @@ class Parser:
 
     # All song URLs --> all text files of songs
     def allToText(self):
-        f = open('urls.txt', 'r') 
+        f = open('urls.txt', 'r')
         lines = f.readlines()
-        lines = [x.strip() for x in lines] 
+        lines = [x.strip() for x in lines]
         for url in lines:
             self.toText(url)
 
@@ -63,9 +63,9 @@ class Parser:
             return line.startswith('[') and line.endswith(']')
 
         textFile = os.path.join(textFolder, fileName)
-        f = open(textFile, 'r') 
+        f = open(textFile, 'r')
         lines = f.readlines()
-        lines = [x.rstrip() for x in lines] 
+        lines = [x.rstrip() for x in lines]
         data = {}
 
         song = os.path.splitext(fileName)[0]
@@ -81,7 +81,7 @@ class Parser:
 
         for i in xrange(len(lines)):
             l = lines[i]
-          
+
             newLine = {}
 
             if(isLabel(lines[i])):
@@ -89,7 +89,7 @@ class Parser:
                 data['lines'].append(newLine)
             else:
                 # Checks whether a line has chords
-                if isChordLine(lines[i]): 
+                if isChordLine(lines[i]):
                     newLine['lyrics'] = lines[i+1]
                     newLine['chord'] = lines[i]
                     newLine['count'] = count
@@ -101,9 +101,9 @@ class Parser:
                         allChords.add(c)
                     count += 1
                     data['lines'].append(newLine)
-            
+
         data['allChords'] = list(allChords)
-        
+
         jsonFile = os.path.join(JSON_FOLDER, song+'.json')
         with open(jsonFile, 'w') as outfile:
             json.dump(data, outfile)
@@ -137,7 +137,7 @@ class Parser:
             allSongs.append(newSong)
         with open('allSongs.json', 'w') as outfile:
             json.dump(allSongs, outfile)
-                 
+
     # URL of a song --> JSON file of a song
     def addSong(self, url):
         fileName = toText(url)
@@ -151,5 +151,6 @@ if __name__ == "__main__":
     textFolder = os.path.join(os.getcwd(), 'temp') # might be temp
     converter = Parser(textFolder)
 
-    converter.allToJSON()
+    # converter.allToText()
+    # converter.allToJSON()
     converter.getAllSongs()

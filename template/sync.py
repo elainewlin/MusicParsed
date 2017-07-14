@@ -9,7 +9,8 @@ jsonFolder = os.path.join(os.getcwd(), 'json')
 allText = os.listdir(textFolder)
 allJSON = os.listdir(jsonFolder)
 
-assert len(allText) == len(allJSON)
+assert len(allText) == len(allJSON), '{} {}'.format(len(allText), len(allJSON))
+
 def strip(file):
     return file.split('.')[0]
 
