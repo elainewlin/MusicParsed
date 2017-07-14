@@ -5,7 +5,7 @@ var renderChords = function(data) {
   var chordTemplate = document.getElementById("chordTemplate").innerHTML;
 
   document.getElementById('chordPics').innerHTML = Mustache.render(chordTemplate, data);
-}
+};
 
 var rerender = function(data) {
   $("#title").text(songView.getName());
@@ -14,13 +14,13 @@ var rerender = function(data) {
   document.getElementById('song').innerHTML = Mustache.render(songTemplate, data);
   
   renderChords(data);
-}
+};
 
 var resetTranspose = function() {
   songView.setKey(0);
   $("#transpose").find("label").removeClass("selected");
   $("#0").addClass("selected");
-}
+};
 
 var loadSong = function(newSong) {
   songView.setName(newSong);
@@ -30,7 +30,7 @@ var loadSong = function(newSong) {
       resetTranspose();
       rerender(songView.getData());
   });
-}
+};
 
 window.onload = function() {
 
@@ -69,4 +69,4 @@ window.onload = function() {
       }
   }); 
 
-}
+};

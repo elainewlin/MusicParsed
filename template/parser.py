@@ -63,20 +63,6 @@ class Parser:
         def isLabel(line):
             return line.startswith('[') and line.endswith(']')
 
-        # Checks whether a line is a chord
-
-        # OLD IS CHORD CHECKER
-        # def isChord(line):
-        #     lCount = 0
-        #     for c in line:
-        #         if c != ' ':
-        #             lCount += 1
-        #     if line.startswith(' '):
-        #         return True
-        #     if lCount > 0:
-        #         chord = line.split()[0]
-        #         return (lCount < 10 and len(chord) < 5)
-
         textFile = os.path.join(textFolder, fileName)
         f = open(textFile, 'r') 
         lines = f.readlines()
@@ -103,6 +89,7 @@ class Parser:
                 newLine['label'] = lines[i]
                 data['lines'].append(newLine)
             else:
+                # Checks whether a line has chords
                 if isChordLine(lines[i]): 
                     newLine['lyrics'] = lines[i+1]
                     newLine['chord'] = lines[i]
@@ -159,8 +146,7 @@ class Parser:
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Add files")
-    # parser.add_argument("states", nargs="*")
-    # parser.add_argument("-t", "--target", default="localhost:3000")
+
     args = parser.parse_args()
 
     textFolder = os.path.join(os.getcwd(), 'text') # might be temp

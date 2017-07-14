@@ -5,7 +5,7 @@ var parseTab = function(instrument) {
 
   var allStrings = tab.map(function(oneString) {
     return oneString.split("");
-  })
+  });
 
   for(var time = 0; time < allStrings[0].length; time++) {
     var chord = [];
@@ -35,7 +35,7 @@ var parseTab = function(instrument) {
   }
 
   return sequence;
-}
+};
 
 var printTab = function(instrument, sequence) {
   var strings = [];
@@ -79,7 +79,7 @@ var printTab = function(instrument, sequence) {
   })
   $(".tab.converted").html(newTab);
 
-}
+};
 
 var ukeToGuitar = function() {
   var sequence = parseTab(Ukulele());
@@ -98,7 +98,7 @@ var ukeToGuitar = function() {
     guitarSequence.push(guitarChord);
   }
   printTab(Guitar(), guitarSequence);
-}
+};
 
 var guitarToUke = function() {
   var sequence = parseTab(Guitar());
@@ -117,7 +117,7 @@ var guitarToUke = function() {
     ukeSequence.push(ukeChord);
   }
   printTab(Ukulele(), ukeSequence);
-}
+};
 
 var convertFunction = guitarToUke;
 
@@ -125,13 +125,13 @@ $("#toUkulele").click(function() {
   $(".fromInstrument").html("guitar");
   $(".toInstrument").html("ukulele");
   convertFunction = guitarToUke;
-})
+});
 
 $("#toGuitar").click(function() {
   $(".toInstrument").html("guitar");
   $(".fromInstrument").html("ukulele");
   convertFunction = ukeToGuitar;
-})
+});
 
 $(".convert").click(function() {
   $(".tab.converted").html("");

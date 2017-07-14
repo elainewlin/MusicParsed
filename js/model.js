@@ -42,49 +42,50 @@ var songView = new function() {
 
     this.getInstrument = function() {
         return currentInstrument;
-    }
+    };
 
     this.toggleInstrument = function() {
         currentInstrument = instruments[(instruments.indexOf(currentInstrument) + 1) % instruments.length];
-    }
+    };
 
     var lines = [];
     var allChords = [];
 
     this.getChords = function() {
         return allChords;
-    }
+    };
 
     this.setSong = function(data) {
         allChords = data["allChords"];
         lines = data["lines"];
-    }
+    };
 
+    // Default song
     var songName = "Viva la Vida - Coldplay";
 
     this.getName = function() {
         return songName;
-    }
+    };
 
     this.setName = function(newName) {
         songName = newName;
-    }
+    };
 
     var key = 0; // # of steps transposed, range -6 to 6
 
     this.getKey = function() {
         return key;
-    }
+    };
 
     this.setKey = function(newKey) {
         key = newKey;
-    }
+    };
 
     this.getData = function() {
         data = {};
         data["allChords"] = allChords.slice().sort().map(function(chord) {
             return transposeChord(chord, key).replace("#", "%23");
-        })
+        });
         data["lines"] = lines.slice().map(function(line) {
             var newLine = $.extend({}, line);
             if(newLine["chord"]) {
@@ -97,4 +98,4 @@ var songView = new function() {
         return data;
     }
 
-}
+};
