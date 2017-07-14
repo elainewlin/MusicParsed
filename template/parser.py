@@ -4,7 +4,11 @@ import urllib2
 from bs4 import BeautifulSoup
 import argparse
 from isChord import isChordLine
-JSON_FOLDER = os.path.join(os.getcwd(), 'json')
+from helpers import nameToID, idToData, dataToName
+
+TEXT = 'txt'
+JSON = 'json'
+JSON_FOLDER = os.path.join(os.getcwd(), JSON)
 
 class Parser:
     def __init__(self, textFolder):
@@ -31,12 +35,14 @@ class Parser:
 
             # HTML markup for Ukutabs website
             if 'ukutabs' in url:
+                # TO DO fix this
+                # this is broken :(
                 data = soup.findAll('pre', {'class': 'qoate-code'})[0]
                 title = soup.find('span', {'class': 'stitlecolor'})
                 artist = title.parent.parent.parent.findAll('tr')[1].find('a').get_text()
                 title = title.get_text()
 
-            fileName =  title + ' - ' + artist + '.txt'
+            fileName = dataToName(title, artist, TEXT)
             textFile = os.path.join(textFolder, fileName)
             print textFile
             with open(textFile, 'w') as outfile:
@@ -68,9 +74,9 @@ class Parser:
         lines = [x.rstrip() for x in lines]
         data = {}
 
-        song = os.path.splitext(fileName)[0]
+        songID = nameToID(fileName)
 
-        [title, artist] = song.split(" - ")
+        [title, artist] = idToData(songID)
         data['title'] = title
         data['artist'] = artist
         data['lines'] = []
@@ -104,19 +110,16 @@ class Parser:
 
         data['allChords'] = list(allChords)
 
-        jsonFile = os.path.join(JSON_FOLDER, song+'.json')
+        fileName = dataToName(title, artist, JSON)
+        jsonFile = os.path.join(JSON_FOLDER, fileName)
         with open(jsonFile, 'w') as outfile:
             json.dump(data, outfile)
 
     # All song text files --> all JSON files of songs
     def allToJSON(self):
-        allSongs = []
         for fileName in os.listdir(textFolder):
-            if fileName.endswith(".txt"):
+            if fileName.endswith(TEXT):
                 self.toJSON(fileName)
-                allSongs.append(fileName.split(".txt")[0])
-        with open('allSongs.json', 'w') as outfile:
-            json.dump(allSongs, outfile)
         self.getAllSongs()
 
     # Get all songs
@@ -124,9 +127,8 @@ class Parser:
         allSongs = []
         for fileName in os.listdir(JSON_FOLDER):
             newSong = {}
-            songID = fileName.split(".json")[0]
-            title = songID.split(" - ")[0]
-            artist = songID.split(" - ")[1]
+            songID = nameToID(fileName)
+            [title, artist] = idToData(songID)
             # tags = []
 
             newSong["id"] = songID
@@ -138,19 +140,13 @@ class Parser:
         with open('allSongs.json', 'w') as outfile:
             json.dump(allSongs, outfile)
 
-    # URL of a song --> JSON file of a song
-    def addSong(self, url):
-        fileName = toText(url)
-        toJSON(fileName)
-
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Add files")
 
     args = parser.parse_args()
 
-    textFolder = os.path.join(os.getcwd(), 'temp') # either 'text' or 'temp'
+    textFolder = os.path.join(os.getcwd(), 'text') # either 'text' or 'temp'
     converter = Parser(textFolder)
 
     # converter.allToText()
     converter.allToJSON()
-    converter.getAllSongs()
