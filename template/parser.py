@@ -148,9 +148,9 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
-    textFolder = os.path.join(os.getcwd(), 'temp') # might be temp
+    textFolder = os.path.join(os.getcwd(), 'temp') # either 'text' or 'temp'
     converter = Parser(textFolder)
 
     # converter.allToText()
-    # converter.allToJSON()
+    converter.allToJSON()
     converter.getAllSongs()
