@@ -31,3 +31,13 @@ def test_lines():
 def test_false_matches():
     test = "Apple"
     assert not isChord(test)
+
+def test_complex_chords():
+
+    complex = ['Cmaj7', 'Caug', 'Bbsus2', 'Dbdim', 'Gadd9', 'Dm']
+    for chord in complex:
+        assert isChord(chord)
+
+    line = ' '.join(complex)
+
+    assert isChordLine(line)

@@ -1,9 +1,8 @@
 import re
 
-# import from the file it exists in
 def isChord(phrase):
-    chord = '[A-G][#b]?m?[2479]?'
-    # TO DO add support for weird words aug,dim,sus,add,maj
+    chord = '[A-G][#b]?(maj|m|aug|dim|sus|add)?[2479]?'
+
     # Maybe we have weird bass notes
     bassNote = '(\/{0})?'.format(chord)
     chordRegex = re.compile(chord+bassNote)

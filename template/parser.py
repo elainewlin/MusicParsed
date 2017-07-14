@@ -64,8 +64,6 @@ class Parser:
             return line.startswith('[') and line.endswith(']')
 
         # Checks whether a line is a chord
-        # TO-DO make a regex
-        # chords = A-G, #?, m?
 
         # OLD IS CHORD CHECKER
         # def isChord(line):
@@ -167,7 +165,8 @@ if __name__ == "__main__":
 
     textFolder = os.path.join(os.getcwd(), 'text') # might be temp
     converter = Parser(textFolder)
-    converter.allToJSON()
+    converter.toJSON('Clocks - Coldplay.txt')
+
     # converter.toJSON('Fluorescent Adolescent - Arctic Monkeys.txt')
     # converter.toJSON('Dani California - Red Hot Chili Peppers.txt')
     # converter.toJSON('Leave Out All The Rest - Linkin Park.txt')
