@@ -14,13 +14,13 @@
   <link rel="stylesheet" href="css/jquery-ui.min.css">
 
   <!-- Load any supplemental Javascript libraries here -->
-  <script src="lib/jquery.min.js"></script> 
+  <script src="lib/jquery.min.js"></script>
   <!-- jQuery UI autocomplete -->
   <script src="lib/jquery-ui.min.js"></script>
     <!-- Mustache template -->
   <script src="lib/mustache.min.js"></script>
 
-  <script src="js/render.js"></script>  
+  <script src="js/render.js"></script>
   <script id="songTemplate" type="x-tmpl-mustache">
   {{#lines}}
     {{#label}}
@@ -43,8 +43,8 @@
   </script>
 
   <!-- Two column view -->
-  <script src="js/model.js"></script>  
-  <script src="js/controller.js"></script>  
+  <script src="js/model.js"></script>
+  <script src="js/controller.js"></script>
 
 </head>
 
@@ -55,7 +55,7 @@
           <div class="ui-widget">
             <label for="tags">Song select: </label>
             <input id="tags">
-            <button class="btn btn-default" id="viewToggle">View</button>
+            <button class="btn btn-default" id="viewToggle" title="Hide/show the column and transpose widgets">View</button>
             <a href="./allSongs.html"><button class="btn btn-default">Show all songs</button></a>
 
             <label for="chords">Chords: </label>
@@ -65,28 +65,11 @@
           <div class="ui-widget" id="column-count">
             <label for="column-count">Columns</label>
             <div class="btn-group" data-toggle="buttons">
-              <label class="btn btn-default" data-column="1"><input type="radio"> 1</label>
-              <label class="btn btn-default" data-column="2"><input type="radio"> 2</label>
-              <label class="btn btn-default selected" data-column="3"><input type="radio"> 3</label>
-              <label class="btn btn-default" data-column="4"><input type="radio"> 4</label>
             </div>
           </div>
           <div class="ui-widget" id="transpose">
             <label for="transpose">Transpose</label>
             <div class="btn-group" data-toggle="buttons">
-              <label class="btn btn-default" data-key="-6"><input type="radio" checked> -6</label>
-              <label class="btn btn-default" data-key="-5"><input type="radio"> -5</label>
-              <label class="btn btn-default" data-key="-4"><input type="radio"> -4</label>
-              <label class="btn btn-default" data-key="-3"><input type="radio"> -3</label>
-              <label class="btn btn-default" data-key="-2"><input type="radio"> -2</label>
-              <label class="btn btn-default" data-key="-1"><input type="radio"> -1</label>
-              <label class="btn btn-default selected" data-key="0" id="0"><input type="radio"> 0</label>
-              <label class="btn btn-default" data-key="1"><input type="radio"> +1 </label>
-              <label class="btn btn-default" data-key="2"><input type="radio"> +2</label>
-              <label class="btn btn-default" data-key="3"><input type="radio"> +3</label>
-              <label class="btn btn-default" data-key="4"><input type="radio"> +4</label>
-              <label class="btn btn-default" data-key="5"><input type="radio"> +5</label>
-              <label class="btn btn-default" data-key="6"><input type="radio"> +6</label>
             </div>
           </div>
         </div>

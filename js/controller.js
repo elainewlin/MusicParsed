@@ -1,5 +1,6 @@
 $(document).ready(function() {
     let chordPics = $("#chordPics");
+    let viewToggle = $("#viewToggle");
     function toggleChords() {
         chordPics.toggle();
 
@@ -18,9 +19,9 @@ $(document).ready(function() {
         toggleChords();
     });
 
-    $("#viewToggle").click(function() {
-        $("#column-count").toggle(); 
-        $("#transpose").toggle(); 
+    viewToggle.click(function() {
+        $("#column-count").toggle();
+        $("#transpose").toggle();
     });
     $("#instrumentToggle").click(function() {
         songView.toggleInstrument();
@@ -34,7 +35,7 @@ $(document).ready(function() {
 
     // View for transpose and column widgets
     $("input[type=radio]").click(function(e) {
-        var labels = $(e.target.parentNode.parentNode).find("label"); 
+        var labels = $(e.target.parentNode.parentNode).find("label");
         labels.removeClass("selected");
         var target = $(e.target.parentNode);
         target.addClass("selected");
@@ -48,5 +49,5 @@ $(document).ready(function() {
 
     // Hovering over components gives you useful tooltips :D
     chordPics.tooltip();
-
+    viewToggle.tooltip();
 });

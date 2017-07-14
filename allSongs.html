@@ -11,25 +11,26 @@
   <link rel="stylesheet" href="css/jquery-ui.min.css">
 
   <!-- Load any supplemental Javascript libraries here -->
-  <script src="lib/jquery.min.js"></script> 
+  <script src="lib/jquery.min.js"></script>
 
   <!-- Mustache template -->
   <script src="lib/mustache.min.js"></script>
 
-  <!-- JS I wrote --> 
-  <script src="js/model.js"></script>  
-  <script src="js/controller.js"></script>
-  <script src="js/render.js"></script>  
-  <script src="js/showAllSongs.js"></script>  
-  
+  <!-- JS I wrote -->
+  <script src="js/model.js"></script>
+  <script src="js/render.js"></script>
+  <script src="js/showAllSongs.js"></script>
+
   <script id="allSongsTemplate" type="x-tmpl-mustache">
   {{#.}}
-    <strong>{{tag}}</strong>
-    <ul>
-      {{#songs}}
-        <a href="./"><span><li class="songTitle" data-id="{{id}}">{{title}}</li></span></a>
-      {{/songs}}
-    </ul>
+    <div class="songTag">
+      <strong>{{tag}}</strong>
+      <ul>
+        {{#songs}}
+          <a href="./"><span><li class="songTitle" data-id="{{id}}">{{title}}</li></span></a>
+        {{/songs}}
+      </ul>
+    </div>
   {{/.}}
   </script>
 
