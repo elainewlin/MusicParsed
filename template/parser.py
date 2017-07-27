@@ -92,13 +92,13 @@ class TextParser:
             l = lines[i]
 
             newLine = {}
-
             if(isLabel(lines[i])):
                 newLine['label'] = lines[i]
                 data['lines'].append(newLine)
             else:
                 # Checks whether a line has chords
                 if isChordLine(lines[i]):
+
                     newLine['lyrics'] = lines[i+1]
                     newLine['chord'] = lines[i]
                     newLine['count'] = count
@@ -184,7 +184,7 @@ if __name__ == "__main__":
     textFolder = os.path.join(os.getcwd(), 'text') # either 'text' or 'temp'
 
     urlParser = URLParser(textFolder)
-    urlParser.allToText()
+    # urlParser.allToText()
 
     converter = TextParser(textFolder)
 

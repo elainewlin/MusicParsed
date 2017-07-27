@@ -1,7 +1,7 @@
 import re
 
 def isChord(phrase):
-    chord = '[A-G][#b]?(maj|m|aug|dim|sus|add)?[24579]?'
+    chord = '[A-G][#b]?(maj|m|aug|dim|sus)?(add)?[24579]?'
 
     # Maybe we have weird bass notes
     bassNote = '(\/{0})?'.format(chord)

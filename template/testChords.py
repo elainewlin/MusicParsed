@@ -34,10 +34,11 @@ def test_false_matches():
 
 def test_complex_chords():
 
-    complex = ['Cmaj7', 'Caug', 'Bbsus2', 'Dbdim', 'Gadd9', 'Dm']
+    complex = ['Cmaj7', 'Caug', 'Bbsus2', 'Dbdim', 'Gadd9', 'Dm', 'Emadd9']
     for chord in complex:
-        assert isChord(chord)
+        assert isChord(chord), chord
 
     line = ' '.join(complex)
 
     assert isChordLine(line)
+
