@@ -10,7 +10,7 @@ TEXT = 'txt'
 JSON = 'json'
 JSON_FOLDER = os.path.join(os.getcwd(), JSON)
 
-class Parser:
+class URLParser:
     def __init__(self, textFolder):
         self.textFolder = textFolder
 
@@ -61,6 +61,9 @@ class Parser:
         lines = [x.strip() for x in lines]
         for url in lines:
             self.toText(url)
+class TextParser:
+    def __init__(self, textFolder):
+        self.textFolder = textFolder
 
     # Text file of a song --> JSON file of a song
     def toJSON(self, fileName):
@@ -116,11 +119,43 @@ class Parser:
             json.dump(data, outfile)
 
     # All song text files --> all JSON files of songs
-    def allToJSON(self):
+    # toConvert = array of text file names that we want to convert
+    # format = title - artist.txt
+    # TO DO modify so that it actually has the full file names
+    def allToJSON(self, toConvert):
+        for fileName in toConvert:
+            self.toJSON(fileName)
+        self.getAllSongs()
+
+    # Get all text files
+    def getAllText(self):
+        allText = []
         for fileName in os.listdir(textFolder):
             if fileName.endswith(TEXT):
-                self.toJSON(fileName)
-        self.getAllSongs()
+                allText.append(fileName)
+        return allText
+
+    # Get modified files
+    # return list of all modified text files
+    def getAllModified(self):
+        modifiedTextFile = "modified.txt"
+        open(modifiedTextFile, 'w').close()
+        os.system("git status -s >> %s" % modifiedTextFile)
+        f = open(modifiedTextFile, 'r')
+        lines = f.readlines()
+        # remove new line character
+        # also remove first 3 characters ' M ' or '?? '
+        # remove quotes "
+        lines = [x.strip('\n')[3:].replace('"', '') for x in lines]
+
+        allModifiedText = []
+        for l in lines:
+            textFolder = 'text/'
+            if l.startswith(textFolder) and l.endswith(TEXT):
+                fileName = l[5:] #stripping out text/ extension
+                allModifiedText.append(fileName)
+
+        return allModifiedText
 
     # Get all songs
     def getAllSongs(self):
@@ -141,13 +176,18 @@ class Parser:
             json.dump(allSongs, outfile)
 
 if __name__ == "__main__":
+    # Argument parsing is currently un-used
+    # TO DO modify for use on the app's import feature
     parser = argparse.ArgumentParser(description="Add files")
-
     args = parser.parse_args()
 
     textFolder = os.path.join(os.getcwd(), 'text') # either 'text' or 'temp'
-    converter = Parser(textFolder)
 
-    # converter.allToText()
-    # converter.allToJSON()
-    converter.getAllSongs()
+    urlParser = URLParser(textFolder)
+    urlParser.allToText()
+
+    converter = TextParser(textFolder)
+
+    modified = converter.getAllModified()
+    converter.allToJSON(modified)
+    # converter.getAllSongs()
