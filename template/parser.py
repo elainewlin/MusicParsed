@@ -149,4 +149,5 @@ if __name__ == "__main__":
     converter = Parser(textFolder)
 
     # converter.allToText()
-    converter.allToJSON()
+    # converter.allToJSON()
+    converter.getAllSongs()
