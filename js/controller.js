@@ -5,6 +5,8 @@ function updateColCount(colCount) {
 
 var loadWidgets = function() {
   // Load the columns toggle and transpose toggle widgets
+
+  // Wrapper for all of the smaller radio buttons
   const getButtons = function(type) {
     return $("#"+type+" > .btn-group");
   }
@@ -18,6 +20,7 @@ var loadWidgets = function() {
     else {
       name = i;
     }
+    // Adding all of the radio buttons via for loop
     transposeButtons.append(`<label class='btn btn-default' data-key=${i} id='transpose-${i}'><input type='radio'> ${name}</label>`);
   }
 
