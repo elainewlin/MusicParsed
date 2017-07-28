@@ -83,7 +83,7 @@ class URLParser:
 
         # Parsing Ultimate Guitar website
         if 'ultimate-guitar' in url:
-            soup = soupFromURL(url)
+            soup = self.soupFromURL(url)
             data = soup.find('pre', {'class':'js-tab-content'}).get_text()
             title = soup.find('h1').get_text()[:-7] # Wonderwall Chords
             artist = soup.find('div', {'class': 't_autor'}).find('a').get_text()
@@ -258,7 +258,7 @@ if __name__ == "__main__":
     textFolder = os.path.join(os.getcwd(), 'text') # either 'text' or 'temp'
 
     urlParser = URLParser(textFolder)
-    urlParser.allToText()
+    # urlParser.allToText()
 
     textParser = TextParser(textFolder)
     modified = textParser.getAllModified()
