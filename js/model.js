@@ -13,7 +13,7 @@ function transposeChord(chord, amount) {
         "Gb": 6,
         "G": 7,
         "G#": 8,
-        "Ab": 8, 
+        "Ab": 8,
         "A": 9,
         "A#": 10,
         "Bb": 10,
@@ -26,14 +26,14 @@ function transposeChord(chord, amount) {
     var numNotes = 12;
 
     // TO-DO support sharps and flats, adjust for key signatures with only flats: Eb, Ab, Bb
-    var isSharp = true; 
+    var isSharp = true;
     var scale = isSharp ? sharpScale: flatScale;
-
     return chord.replace(/[CDEFGAB]#?b?/g,
-    function(index) {
-        var i = (chordToIndex[index] + parseInt(amount)) % numNotes;
-        return scale[ i < 0 ? i + numNotes : i ];
-    });
+        function(index) {
+            var i = (chordToIndex[index] + parseInt(amount)) % numNotes;
+            return scale[ i < 0 ? i + numNotes : i ];
+        }
+    );
 }
 
 var songView = new function() {
