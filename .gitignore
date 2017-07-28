@@ -1,5 +1,8 @@
 template/.cache/
 template/__pycache__/
+template/ghostdriver.log
+template/modified.txt
+template/urls.txt
 *.pyc
 *.idea
 *.DS_Store
