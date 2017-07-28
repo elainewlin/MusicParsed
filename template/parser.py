@@ -162,7 +162,6 @@ class TextParser:
                     newLine['count'] = count
 
                     for c in lines[i].split():
-                        c = c.replace("#", "%23")
                         if "/" in c:
                             c = c.split("/")[0]
                         allChords.add(c)
@@ -261,5 +260,5 @@ if __name__ == "__main__":
     # urlParser.allToText()
 
     textParser = TextParser(textFolder)
-    modified = textParser.getAllModified()
+    modified = textParser.getAllText()
     textParser.allToJSON(modified)
