@@ -1,9 +1,14 @@
 import re
 
+
+def isLabel(line):
+    # Checks whether a line is a label
+    return line.startswith('[') and line.endswith(']')
+
 def isChord(phrase):
     chord = '[A-G][#b]?(maj|m|aug|dim|sus)?(add)?[24579]?'
 
-    # Maybe we have weird bass notes
+    # Handle bass notes ex: G/C
     bassNote = '(\/{0})?'.format(chord)
     chordRegex = re.compile(chord+bassNote)
 

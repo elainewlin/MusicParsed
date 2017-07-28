@@ -3,56 +3,112 @@ import json
 import urllib2
 from bs4 import BeautifulSoup
 import argparse
-from isChord import isChordLine
+from isChord import isChordLine, isLabel
 from helpers import nameToID, idToData, dataToName
+from selenium import webdriver
 
 TEXT = 'txt'
 JSON = 'json'
 JSON_FOLDER = os.path.join(os.getcwd(), JSON)
+PHANTOM_DRIVER = os.path.join(os.getcwd(), 'phantomjs')
+DRIVER = webdriver.PhantomJS(PHANTOM_DRIVER)
+
+def findBetween(s, first, last):
+    """
+    Find text in s between 2 strings: first, last.
+    Used for parsing string of all text on a webpage.
+        More readable/understandable than xpath selectors.
+    """
+    try:
+        start = s.index(first) + len(first)
+        end = s.index( last, start )
+        return s[start:end]
+    except ValueError:
+        return ""
 
 class URLParser:
+    """
+    Handles URL --> text file conversion
+    """
     def __init__(self, textFolder):
         self.textFolder = textFolder
 
-    # URL of a song --> text file of a song
-    def readURL(self, url):
+    def soupFromURL(self, url):
+        """
+        Using BeautifulSoup to read a URL
+        url -> BeautifulSoup
+        """
         hdr = {'User-Agent': 'Mozilla/5.0'}
         req = urllib2.Request(url, headers = hdr)
         f = urllib2.urlopen(req)
         myfile = f.read()
-        return myfile
+        return BeautifulSoup(myfile, 'html.parser')
+
+    def collapseSong(self, data):
+        """
+        Param:
+            data = string of all chord + lyrics from ukutabs
+        Return:
+            data without "unnecessary" \n characters
+            - removes all blank lines
+            - collapses stacked chord lines
+                ex: Am\n       G\n     C\n
+        """
+        lines = data.split('\n')
+        lines = [x.rstrip() for x in lines]
+        chord = ''
+
+        newFile = []
+        for i in xrange(len(lines)):
+            currentLine = lines[i]
+
+            if isChordLine(currentLine):
+                chord += currentLine
+                nextLine = lines[i+1]
+                if not isChordLine(nextLine):
+                    newFile.append(chord)
+                    chord = ''
+            else:
+                if len(currentLine) > 0:
+                    newFile.append(currentLine)
+        return "\n".join(newFile)
+
+    def parseURL(self, url):
+        """
+        URL with song chords -> (title, artist, data)
+            data = all chord + lyrics
+        1. determine type of URL
+        2. applies appropriate HTML parsing
+        """
+
+        # Parsing Ultimate Guitar website
+        if 'ultimate-guitar' in url:
+            soup = soupFromURL(url)
+            data = soup.find('pre', {'class':'js-tab-content'}).get_text()
+            title = soup.find('h1').get_text()[:-7] # Wonderwall Chords
+            artist = soup.find('div', {'class': 't_autor'}).find('a').get_text()
+
+        # Parsing Ukutabs website
+        if 'ukutabs' in url:
+            DRIVER.get(url)
+            data = DRIVER.find_elements_by_class_name('qoate-code')[-1].text
+            data = self.collapseSong(data)
+
+            allText = DRIVER.find_element_by_tag_name('body').text
+            title = findBetween(allText, 'Title ', '\n')
+            artist = findBetween(allText, 'Artist ', '\n')
+
+        return (title, artist, data)
 
     def toText(self, url):
-        try:
-            web_page = self.readURL(url)
-            soup = BeautifulSoup(web_page, 'html.parser')
+        (title, artist, data) = self.parseURL(url)
 
-            # HTML markup for Ultimate Guitar website
-            if 'ultimate-guitar' in url:
-                data = soup.find('pre', {'class':'js-tab-content'}) # all of the lyrics and chords
-                title = soup.find('h1').get_text()[:-7] # Wonderwall Chords
-                artist = soup.find('div', {'class': 't_autor'}).find('a').get_text()
-
-            # HTML markup for Ukutabs website
-            if 'ukutabs' in url:
-                # TO DO fix this
-                # this is broken :(
-                data = soup.findAll('pre', {'class': 'qoate-code'})[0]
-                title = soup.find('span', {'class': 'stitlecolor'})
-                artist = title.parent.parent.parent.findAll('tr')[1].find('a').get_text()
-                title = title.get_text()
-
-            fileName = dataToName(title, artist, TEXT)
-            textFile = os.path.join(textFolder, fileName)
-            print textFile
-            with open(textFile, 'w') as outfile:
-                outfile.write(data.get_text().encode('utf-8'))
-            return fileName
-
-        except urllib2.HTTPError :
-            print("HTTPERROR!")
-        except urllib2.URLError :
-            print("URLERROR!")
+        fileName = dataToName(title, artist, TEXT)
+        textFile = os.path.join(textFolder, fileName)
+        print textFile
+        with open(textFile, 'w') as outfile:
+            outfile.write(data.encode('utf-8'))
+        return fileName
 
     # All song URLs --> all text files of songs
     def allToText(self):
@@ -61,16 +117,18 @@ class URLParser:
         lines = [x.strip() for x in lines]
         for url in lines:
             self.toText(url)
+
 class TextParser:
+    """
+    Handles text --> JSON conversion
+    """
     def __init__(self, textFolder):
         self.textFolder = textFolder
 
-    # Text file of a song --> JSON file of a song
     def toJSON(self, fileName):
-         # Checks whether a line is a label
-        def isLabel(line):
-            return line.startswith('[') and line.endswith(']')
-
+        """
+        Text file of a song --> JSON file of a song
+        """
         textFile = os.path.join(textFolder, fileName)
         f = open(textFile, 'r')
         lines = f.readlines()
@@ -118,47 +176,63 @@ class TextParser:
         with open(jsonFile, 'w') as outfile:
             json.dump(data, outfile)
 
-    # All song text files --> all JSON files of songs
-    # toConvert = array of text file names that we want to convert
-    # format = title - artist.txt
-    # TO DO modify so that it actually has the full file names
     def allToJSON(self, toConvert):
+        """
+        Bulk convert text files -> JSON
+        Param:
+            toConvert = array of text file names
+            - each entry is "title - artist.txt"
+        """
         for fileName in toConvert:
             self.toJSON(fileName)
         self.getAllSongs()
 
-    # Get all text files
     def getAllText(self):
+        """
+        Return:
+            array of all text file names in textFolder
+            - each entry is "title - artist.txt"
+        """
         allText = []
         for fileName in os.listdir(textFolder):
             if fileName.endswith(TEXT):
                 allText.append(fileName)
         return allText
 
-    # Get modified files
-    # return list of all modified text files
     def getAllModified(self):
+        """
+        Return:
+            array of all modified text files
+            - each entry is "title - artist.txt'"
+        """
+
         modifiedTextFile = "modified.txt"
         open(modifiedTextFile, 'w').close()
         os.system("git status -s >> %s" % modifiedTextFile)
         f = open(modifiedTextFile, 'r')
         lines = f.readlines()
-        # remove new line character
-        # also remove first 3 characters ' M ' or '?? '
-        # remove quotes "
+
+        """
+        git status output needs to be parsed
+        1. remove new line character
+        2. remove first 3 characters  ' M ' or '?? '
+        3. remove quotes
+        """
         lines = [x.strip('\n')[3:].replace('"', '') for x in lines]
 
         allModifiedText = []
         for l in lines:
             textFolder = 'text/'
             if l.startswith(textFolder) and l.endswith(TEXT):
-                fileName = l[5:] #stripping out text/ extension
+                fileName = l[5:] # stripping out text/ extension
                 allModifiedText.append(fileName)
 
         return allModifiedText
 
-    # Get all songs
     def getAllSongs(self):
+        """
+        Updates allSongs.json with data from all songs
+        """
         allSongs = []
         for fileName in os.listdir(JSON_FOLDER):
             newSong = {}
@@ -184,10 +258,8 @@ if __name__ == "__main__":
     textFolder = os.path.join(os.getcwd(), 'text') # either 'text' or 'temp'
 
     urlParser = URLParser(textFolder)
-    # urlParser.allToText()
+    urlParser.allToText()
 
-    converter = TextParser(textFolder)
-
-    modified = converter.getAllModified()
-    converter.allToJSON(modified)
-    # converter.getAllSongs()
+    textParser = TextParser(textFolder)
+    modified = textParser.getAllModified()
+    textParser.allToJSON(modified)
