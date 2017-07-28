@@ -16,37 +16,6 @@ var rerender = function(data) {
   renderChords(data);
 };
 
-var loadWidgets = function() {
-  // Load the columns toggle and transpose toggle widgets
-  const getButtons = function(type) {
-    return $("#"+type+" > .btn-group");
-  }
-
-  const transposeButtons = getButtons("transpose");
-  for(let i = -6; i <= 6; i++) {
-    let name;
-    if(i > 0) {
-      name = `+${i}`;
-    }
-    else {
-      name = i;
-    }
-    transposeButtons.append(`<label class='btn btn-default' data-key=${i} id='transpose-${i}'><input type='radio'> ${name}</label>`);
-  }
-
-  const columnButtons = getButtons("column-count");
-  for(let i = 1; i <= 4; i++) {
-    columnButtons.append(`<label class='btn btn-default' data-column=${i} id='column-${i}'><input type='radio'> ${i}</label>`);
-    $('#column-3').addClass("selected");
-  }
-}
-
-var resetTranspose = function() {
-  songView.setKey(0);
-  $("#transpose").find("label").removeClass("selected");
-  $("#transpose-0").addClass("selected");
-};
-
 var loadSong = function(newSong) {
   songView.setName(newSong);
 
