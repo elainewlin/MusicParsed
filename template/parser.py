@@ -206,8 +206,8 @@ class TextParser:
         """
 
         modifiedTextFile = "modified.txt"
-        open(modifiedTextFile, 'w').close()
-        os.system("git status -s >> %s" % modifiedTextFile)
+        # open(modifiedTextFile, 'w').close()
+        # os.system("git status -s >> %s" % modifiedTextFile)
         f = open(modifiedTextFile, 'r')
         lines = f.readlines()
 
@@ -260,5 +260,5 @@ if __name__ == "__main__":
     # urlParser.allToText()
 
     textParser = TextParser(textFolder)
-    modified = textParser.getAllText()
+    modified = textParser.getAllModified()
     textParser.allToJSON(modified)
