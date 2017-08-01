@@ -60,6 +60,25 @@ var loadWidgets = function() {
   }
   updateColCount(defaultColCount);
   $(`#column-${defaultColCount}`).addClass("selected");
+
+  $("#column-count").find("input").click(function(e) {
+      var colCount = $(e.target.parentNode).data()["column"];
+      updateColCount(colCount);
+  });
+
+  // View for transpose and column widgets
+  $("input[type=radio]").click(function(e) {
+      var labels = $(e.target.parentNode.parentNode).find("label");
+      labels.removeClass("selected");
+      var target = $(e.target.parentNode);
+      target.addClass("selected");
+  });
+
+  $("#transpose").find("input").click(function(e) {
+      var newKey = $(e.target.parentNode).data()["key"];
+      songView.setKey(newKey);
+      rerender(songView.getData());
+  });
 }
 
 var resetTranspose = function() {
@@ -105,22 +124,4 @@ $(document).ready(function() {
     });
     viewToggle.tooltip();
 
-    $("#column-count").find("input").click(function(e) {
-        var colCount = $(e.target.parentNode).data()["column"];
-        updateColCount(colCount);
-    });
-
-    // View for transpose and column widgets
-    $("input[type=radio]").click(function(e) {
-        var labels = $(e.target.parentNode.parentNode).find("label");
-        labels.removeClass("selected");
-        var target = $(e.target.parentNode);
-        target.addClass("selected");
-    });
-
-    $("#transpose").find("input").click(function(e) {
-        var newKey = $(e.target.parentNode).data()["key"];
-        songView.setKey(newKey);
-        rerender(songView.getData());
-    });
 });
