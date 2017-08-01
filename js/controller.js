@@ -7,24 +7,43 @@ var loadWidgets = function() {
   // Load the columns toggle and transpose toggle widgets
 
   // Wrapper for all of the smaller radio buttons
-  const getButtons = function(type) {
+  // type = transpose, column-count
+
+  const transpose = "transpose";
+  const column = "column-count";
+
+  const getWidget = function(type) {
     return $("#"+type+" > .btn-group");
   }
 
-  const transposeButtons = getButtons("transpose");
-  for(let i = -6; i <= 6; i++) {
-    let name;
-    if(i > 0) {
-      name = `+${i}`;
+  const getButton = function(type, value) {
+    let name; // number displayed in button
+    let data; // used in HTML data-=
+
+    if (type == transpose) {
+        if(value > 0) {
+          name = `+${value}`;
+        }
+        else {
+          name = value;
+        }
+        data = 'key';
     }
-    else {
-      name = i;
+    if (type == column) {
+        name = value;
+        data = 'column';
+        type = 'column';
     }
-    // Adding all of the radio buttons via for loop
-    transposeButtons.append(`<label class='btn btn-default' data-key=${i} id='transpose-${i}'><input type='radio'> ${name}</label>`);
+    return (`<label class='btn btn-default' data-${data}=${value} id='${type}-${value}'><input type='radio'> ${name}</label>`);
   }
 
-  const columnButtons = getButtons("column-count");
+  const transposeWidget = getWidget(transpose);
+  for(let i = -6; i <= 6; i++) {
+    const button = getButton(transpose, i);
+    transposeWidget.append(button);
+  }
+
+  const columnWidget = getWidget(column);
 
   let defaultColCount = 3;
   // Change default column count depending on screen width
@@ -35,11 +54,12 @@ var loadWidgets = function() {
     defaultColCount = 2;
   }
 
-  updateColCount(defaultColCount);
   for(let i = 1; i <= 4; i++) {
-    columnButtons.append(`<label class='btn btn-default' data-column=${i} id='column-${i}'><input type='radio'> ${i}</label>`);
-    $(`#column-${defaultColCount}`).addClass("selected");
+    const button = getButton(column, i);
+    columnWidget.append(button);
   }
+  updateColCount(defaultColCount);
+  $(`#column-${defaultColCount}`).addClass("selected");
 }
 
 var resetTranspose = function() {
