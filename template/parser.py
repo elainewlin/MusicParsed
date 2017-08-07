@@ -206,8 +206,8 @@ class TextParser:
         """
 
         modifiedTextFile = "modified.txt"
-        # open(modifiedTextFile, 'w').close()
-        # os.system("git status -s >> %s" % modifiedTextFile)
+        open(modifiedTextFile, 'w').close()
+        os.system("git status -s >> %s" % modifiedTextFile)
         f = open(modifiedTextFile, 'r')
         lines = f.readlines()
 
@@ -217,10 +217,15 @@ class TextParser:
         2. remove first 3 characters  ' M ' or '?? '
         3. remove quotes
         """
-        lines = [x.strip('\n')[3:].replace('"', '') for x in lines]
+        cleanedLines = []
+        deleted = ' D '
 
-        allModifiedText = []
         for l in lines:
+            if not l.startswith(deleted):
+                cleanedLines.append(l.strip('\n')[3:].replace('"', ''))
+        print cleanedLines
+        allModifiedText = []
+        for l in cleanedLines:
             textFolder = 'text/'
             if l.startswith(textFolder) and l.endswith(TEXT):
                 fileName = l[5:] # stripping out text/ extension
@@ -236,6 +241,7 @@ class TextParser:
         for fileName in os.listdir(JSON_FOLDER):
             newSong = {}
             songID = nameToID(fileName)
+            print fileName
             [title, artist] = idToData(songID)
             # tags = []
 
@@ -260,5 +266,6 @@ if __name__ == "__main__":
     # urlParser.allToText()
 
     textParser = TextParser(textFolder)
-    modified = textParser.getAllModified()
-    textParser.allToJSON(modified)
+    # modified = textParser.getAllModified()
+    # textParser.allToJSON(modified)
+    textParser.getAllSongs()
