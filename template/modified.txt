@@ -1,17 +1,13 @@
  M allSongs.json
- M "json/Can't Remember To Forget You - Shakira.json"
- M "json/Crazy Bird - Wild Child.json"
- D "json/Just Give Me A Reason - P!nk.json"
+ D "json/Shine Like Rainbows - Daniel Ingram.json"
+ D "json/Tricks Up My Sleeve - Daniel Ingram.json"
  M modified.txt
  M parser.py
- M "text/Can't Remember To Forget You - Shakira.txt"
- M "text/Crazy Bird - Wild Child.txt"
- M "text/The Sun - Maroon 5.txt"
- M "text/This Love - Maroon 5.txt"
-?? text/Hate to See Your Heart Break - Paramore.txt
-?? text/How To Save A Life - The Fray.txt
-?? text/Iris - Goo Goo Dolls.txt
-?? text/Island In The Sun - Weezer.txt
-?? text/Just Give Me A Reason - Pink.txt
-?? text/Take Me To Church - Hozier.txt
-?? text/You Found Me - The Fray.txt
+A  "text/Like a Catchy Song - My Little Pony.txt"
+ D "text/Shine Like Rainbows - Daniel Ingram.txt"
+ D "text/Tricks Up My Sleeve - Daniel Ingram.txt"
+?? json/Like a Catchy Song - My Little Pony.json
+?? json/Shine Like Rainbows - My Little Pony.json
+?? json/Tricks Up My Sleeve - My Little Pony.json
+?? text/Shine Like Rainbows - My Little Pony.txt
+?? text/Tricks Up My Sleeve - My Little Pony.txt
