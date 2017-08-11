@@ -4,7 +4,7 @@
 title + artist <-> songID <-> filename (JSON, text)
 data           <-> songID <-> name
 """
-
+import re
 # name -> songID
 def nameToID(fileName):
     return fileName.split(".")[0]
@@ -18,4 +18,5 @@ def dataToName(title, artist, fileType):
     return "{0} - {1}.{2}".format(title, artist, fileType)
 
 def clean(string):
-    return string.lower().replace("'", "").replace(" ", "_")
+    string = re.sub('[^A-Za-z0-9 ]+', '', string)
+    return string.lower().replace(" ", "_")
