@@ -6,7 +6,7 @@ import argparse
 from isChord import isChordLine, isLabel
 from helpers import nameToID, idToData, dataToName, clean
 from selenium import webdriver
-
+import json
 TEXT = 'txt'
 JSON = 'json'
 JSON_FOLDER = os.path.join(os.getcwd(), JSON)
@@ -140,6 +140,7 @@ class TextParser:
         [title, artist] = idToData(songID)
         data['title'] = title
         data['artist'] = artist
+        data['id'] = songID
         data['lines'] = []
         count = 0
         print title
@@ -246,12 +247,13 @@ class TextParser:
             print fileName
             [title, artist] = idToData(songID)
             # tags = []
-
+            with open(os.path.join(JSON_FOLDER, fileName)) as data_file:
+                data = json.load(data_file)
+                newSong["label"] = data['title']
+                newSong["title"] = data['title']
+                newSong["artist"] = data['artist']
+                newSong["value"] = data['id']
             newSong["id"] = songID
-            newSong["label"] = title
-            newSong["value"] = songID
-            newSong["title"] = title
-            newSong["artist"] = artist
             allSongs.append(newSong)
         with open('allSongs.json', 'w') as outfile:
             json.dump(allSongs, outfile)
@@ -269,4 +271,5 @@ if __name__ == "__main__":
 
     textParser = TextParser(textFolder)
     modified = textParser.getAllText()
-    textParser.allToJSON(modified)
+    # textParser.allToJSON(modified)
+    textParser.getAllSongs()

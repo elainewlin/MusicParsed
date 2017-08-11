@@ -16,7 +16,4 @@ def convert():
 
 @app.route("/song/<artist>/<title>")
 def getSong(artist, title):
-    test1 = 'artist = ' + artist
-    test2 = 'title = ' + title
     return render_template('index.html', title=title, artist=artist)
-    return test1 + test2

@@ -60,10 +60,12 @@
   </script>
 
   <!-- messing around with loading song from URL -->
-
   <script>
-  newSong = '{{ title }} - {{ artist }}';
-  loadSong2(newSong);
+  // stupid check to make sure we don't load blank songs
+  if ('{{title}}') {
+    newSong = '{{ title }} - {{ artist }}';
+    loadSong(newSong);
+  }
   </script>
 </head>
 

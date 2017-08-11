@@ -17,18 +17,8 @@ var rerender = function(data) {
 };
 
 var loadSong = function(newSong) {
-  songView.setName(newSong);
 
   $.getJSON("/static/data/json/"+newSong+".json", function(data) {
-      songView.setSong(data);
-      resetTranspose();
-      rerender(songView.getData());
-  });
-};
-
-var loadSong2 = function(newSong) {
-
-  $.getJSON("/static/data/json2/"+newSong+".json", function(data) {
       songView.setName(`${data.title} - ${data.artist}`);
       songView.setSong(data);
       resetTranspose();
@@ -41,11 +31,11 @@ window.onload = function() {
 
   var song = localStorage.getItem("song");
   if (song) {
-    loadSong2(song);
+    loadSong(song);
   }
   else {
     // Default song
-    loadSong2(songView.getName());
+    loadSong(songView.getName());
   }
 
   $("#tags").autocomplete({
@@ -67,7 +57,7 @@ window.onload = function() {
         });
       },
       select: function(event, ui) {
-        var newSong = ui.item.value;
+        var newSong = ui.item.id;
         loadSong(newSong);
       }
   });
