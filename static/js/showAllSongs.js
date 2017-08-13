@@ -49,11 +49,6 @@ window.onload = function() {
 
       var template = document.getElementById('allSongsTemplate').innerHTML;
       document.getElementById('allSongs').innerHTML = Mustache.render(template, allSongsByArtist);
-
-      $(".songTitle").click(function(e) {
-        var newSong = $(e.target).data()["id"];
-        localStorage.setItem("song", newSong);
-      })
     }
   });
 };
