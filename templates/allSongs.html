@@ -3,8 +3,8 @@
 
 <head>
   <meta charset="utf-8">
-  <title>SongChords</title>
-
+  <title>MusicParsed</title>
+  <link rel="icon" href="/static/images/favicon.png">
   <!-- Load style sheets -->
   <link rel="stylesheet" href="/static/css/bootstrap.min.css">
   <link rel="stylesheet" href="/static/css/styles.css">
@@ -28,7 +28,7 @@
       <strong>{{tag}}</strong>
       <ul>
         {{#songs}}
-          <a href="./"><span><li class="songTitle" data-id="{{id}}">{{title}}</li></span></a>
+          <a href="./song/{{id_artist}}/{{id_title}}"><span><li class="songTitle" data-id="{{id}}">{{title}}</li></span></a>
         {{/songs}}
       </ul>
     </div>

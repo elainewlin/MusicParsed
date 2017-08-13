@@ -42,7 +42,7 @@ var loadWidgets = function() {
     const button = getButton(transpose, i);
     transposeWidget.append(button);
   }
-
+  $(`#transpose-0`).addClass("selected")
   const columnWidget = getWidget(column);
 
   let defaultColCount = 3;
@@ -91,23 +91,27 @@ var resetTranspose = function() {
 $(document).ready(function() {
     // Chord toggle widgets
     let chordPics = $("#chordPics");
-    function toggleChords() {
-        chordPics.toggle();
+    let chordToggle = $("#chordToggle");
+  
+    function getToggler(elementToToggle, textToUpdate) {
+      return function() {
+        elementToToggle.toggle()
 
-        if(chordPics.is(":visible")) {
-            $("#chordToggle").text("hide");
+        if(elementToToggle.is(":visible")) {
+          textToUpdate.text("hide");
         }
         else {
-            $("#chordToggle").text("show");
+          textToUpdate.text("show");
         }
+      }
     }
-
-    $("#chordToggle").click(function() {
-       toggleChords();
+    const toggleChords = getToggler(chordPics, chordToggle);
+    chordToggle.click(function() {
+      toggleChords();
     });
 
     chordPics.click(function() {
-        toggleChords();
+      toggleChords();
     });
     chordPics.tooltip();
 
@@ -118,9 +122,10 @@ $(document).ready(function() {
 
     // View widget, column, transpose widgets
     let viewToggle = $("#viewToggle");
+    const toggleWidgets = getToggler($("#widgets"), viewToggle);
+
     viewToggle.click(function() {
-        $("#column-count").toggle();
-        $("#transpose").toggle();
+      toggleWidgets();
     });
     viewToggle.tooltip();
 

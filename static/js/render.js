@@ -29,15 +29,6 @@ var loadSong = function(newSong) {
 window.onload = function() {
   loadWidgets();
 
-  var song = localStorage.getItem("song");
-  if (song) {
-    loadSong(song);
-  }
-  else {
-    // Default song
-    loadSong(songView.getName());
-  }
-
   $("#tags").autocomplete({
       source: function(request, response) {
          $.ajax({
@@ -58,6 +49,7 @@ window.onload = function() {
       },
       select: function(event, ui) {
         var newSong = ui.item.id;
+        window.history.pushState({'song': newSong}, ui.item.value, `/song/${ui.item.id_artist}/${ui.item.id_title}`)
         loadSong(newSong);
       }
   });

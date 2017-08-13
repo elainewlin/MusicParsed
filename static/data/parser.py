@@ -244,6 +244,7 @@ class TextParser:
         for fileName in os.listdir(JSON_FOLDER):
             newSong = {}
             songID = nameToID(fileName)
+
             print fileName
             [title, artist] = idToData(songID)
             # tags = []
@@ -253,7 +254,11 @@ class TextParser:
                 newSong["title"] = data['title']
                 newSong["artist"] = data['artist']
                 newSong["value"] = data['id']
+
+            # URL friendly i.e. love_story - taylor_swift
             newSong["id"] = songID
+            newSong["id_artist"] = idToData(songID)[1]
+            newSong["id_title"] = idToData(songID)[0]
             allSongs.append(newSong)
         with open('allSongs.json', 'w') as outfile:
             json.dump(allSongs, outfile)
@@ -270,6 +275,6 @@ if __name__ == "__main__":
     # urlParser.allToText()
 
     textParser = TextParser(textFolder)
-    modified = textParser.getAllText()
+    # modified = textParser.getAllText()
     # textParser.allToJSON(modified)
     textParser.getAllSongs()
