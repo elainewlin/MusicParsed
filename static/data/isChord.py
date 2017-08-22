@@ -6,7 +6,7 @@ def isLabel(line):
     return line.startswith('[') and line.endswith(']')
 
 def isChord(phrase):
-    chord = '[A-G][#b]?(maj|m|aug|dim|sus)?(add)?[24579]?'
+    chord = '[A-G][#b]?(maj|m|aug|dim|sus)?(add)?[245679]?'
 
     # Handle bass notes ex: G/C
     bassNote = '(\/{0})?'.format(chord)
