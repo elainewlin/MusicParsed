@@ -245,7 +245,6 @@ class TextParser:
             newSong = {}
             songID = nameToID(fileName)
 
-            print fileName
             [title, artist] = idToData(songID)
             # tags = []
             with open(os.path.join(JSON_FOLDER, fileName)) as data_file:
@@ -275,6 +274,5 @@ if __name__ == "__main__":
     # urlParser.allToText()
 
     textParser = TextParser(textFolder)
-    # modified = textParser.getAllText()
-    # textParser.allToJSON(modified)
-    textParser.getAllSongs()
+    modified = textParser.getAllModified()
+    textParser.allToJSON(modified)
