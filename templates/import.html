@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>MusicParsed</title>
+  <link rel="icon" href="/static/images/favicon.png">
+  <!-- Load style sheets -->
+  <link rel="stylesheet" href="/static/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/static/css/import.css">
+  <link rel="stylesheet" href="/static/css/jquery-ui.min.css">
+
+  <!-- Load any supplemental Javascript libraries here -->
+  <script src="/static/lib/jquery.min.js"></script>
+
+  <script src="/static/js/import.js"></script>
+
+</head>
+
+<body>
+  <div class="container">
+     <div class="row">
+        <div class="col-xs-6">
+            <h1>Add song text</h1>
+            <textarea id="addText" class="form-control"></textarea>
+            <button class="btn btn-default" id="importText">Import from text</button>
+        </div>
+        <div class="col-xs-6">
+            <h1>Add song URL</h1>
+            <input type="text" id="addURL" class="form-control" />
+            <button class="btn btn-default" id="importURL">Import from URL</button>
+
+        </div>
+    </div>
+  </div> <!-- class="container" -->
+</body>
+
+</html>

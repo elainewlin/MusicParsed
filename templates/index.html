@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>MusicParsed</title>
+
+  <!-- Ukulele favicon -->
+  <link rel="icon" href="/static/images/favicon.png">
+
+  <!-- Load style sheets -->
+  <link rel="stylesheet" href="/static/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/static/css/styles.css">
+  <link rel="stylesheet" href="/static/css/jquery-ui.min.css">
+
+  <!-- Load any supplemental Javascript libraries here -->
+  <script src="/static/lib/jquery.min.js"></script>
+  <!-- jQuery UI autocomplete -->
+  <script src="/static/lib/jquery-ui.min.js"></script>
+    <!-- Mustache template -->
+  <script src="/static/lib/mustache.min.js"></script>
+
+
+  <script src="/static/js/render.js"></script>
+
+  {% raw %}
+  <script id="songTemplate" type="x-tmpl-mustache">
+  {{#lines}}
+    {{#label}}
+      <h4>{{label}}</h4>
+    {{/label}}
+    {{^label}}
+      <div class="line" id={{count}}>
+        <div class="chords"><span>{{chord}}</span></div>
+        <span class="lyrics">{{lyrics}}</span>
+      </div>
+    {{/label}}
+  {{/lines}}
+  </script>
+  <script id="chordTemplate" type="x-tmpl-mustache">
+  {{#allChords}}
+    <object data="/static/images/{{instrument}}/{{.}}.png" type="image/png" class="chord">
+      {{.}}
+    </object>
+  {{/allChords}}
+  </script>
+  {% endraw %}
+  <!-- Two column view -->
+  <script src="/static/js/model.js"></script>
+  <script src="/static/js/controller.js"></script>
+
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-66999018-2', 'auto');
+  ga('send', 'pageview');
+  </script>
+
+</head>
+
+<body>
+  <div class="container-fluid">
+      <div id="songView">
+        <div class="row">
+          <div class="ui-widget">
+            <label for="tags">Song select: </label>
+            <input id="tags">
+            <a href="/all"><button class="btn btn-default">Show all songs</button></a>
+            <label for="widgets">Widgets: </label>
+            <button class="btn btn-default" id="viewToggle" title="Hide/show the column and transpose widgets">hide</button>
+
+            <label for="chords">Chords: </label>
+            <button class="btn btn-default" id="chordToggle">hide</button>
+            <button class="btn btn-default" id="instrumentToggle"></button>
+          </div>
+          <div id="widgets">
+            <div class="ui-widget" id="column-count">
+              <label for="column-count">Columns</label>
+              <div class="btn-group" data-toggle="buttons">
+              </div>
+            </div>
+            <div class="ui-widget" id="transpose">
+              <label for="transpose">Transpose</label>
+              <div class="btn-group" data-toggle="buttons">
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <h3 id="title"></h3>
+          <div class="col-xs-12" id="song">
+          </div>
+          <div id="chordPics" title="Click to hide chord pictures">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div> <!-- class="container" -->
+</body>
+<!-- messing around with loading song from URL -->
+<script>
+// stupid check to make sure we don't load blank songs
+if ('{{title}}') {
+  newSong = '{{ title }} - {{ artist }}';
+  loadSong(newSong);
+}
+else {
+  // Default song
+  loadSong(songView.getName());
+}
+</script>
+</html>
