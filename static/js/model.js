@@ -1,39 +1,19 @@
+var accidentalFifths = [["bb", -14], ["b", -7], ["", 0], ["#", 7], ["x", 14]];
+var letterFifths = [["F", -1], ["C", 0], ["G", 1], ["D", 2], ["A", 3], ["E", 4], ["B", 5]];
+
+var pitchFifths = [].concat.apply([], accidentalFifths.map(function(af) {
+    return letterFifths.map(function(lf) {
+        return [lf[0] + af[0], lf[1] + af[1]];
+    });
+}));
+
+var pitchToFifths = new Map(pitchFifths);
+var fifthsToPitch = new Map(pitchFifths.map(function(pf) { return [pf[1], pf[0]]; }));
+
 function transposeChord(chord, amount) {
-
-    var chordToIndex = {
-        "C": 0,
-        "C#": 1,
-        "Db": 1,
-        "D": 2,
-        "D#": 3,
-        "Eb": 3,
-        "E": 4,
-        "F": 5,
-        "F#": 6,
-        "Gb": 6,
-        "G": 7,
-        "G#": 8,
-        "Ab": 8,
-        "A": 9,
-        "A#": 10,
-        "Bb": 10,
-        "B": 11,
-        "Cb": 11
-    };
-
-    var sharpScale = ["C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"];
-    var flatScale = ["C", "Db", "D", "Eb", "E", "F", "Gb", "G", "Ab", "A", "Bb", "B"];
-    var numNotes = 12;
-
-    // TO-DO support sharps and flats, adjust for key signatures with only flats: Eb, Ab, Bb
-    var isSharp = true;
-    var scale = isSharp ? sharpScale: flatScale;
-    return chord.replace(/[CDEFGAB]#?b?/g,
-        function(index) {
-            var i = (chordToIndex[index] + parseInt(amount)) % numNotes;
-            return scale[ i < 0 ? i + numNotes : i ];
-        }
-    );
+    return chord.replace(/[A-G](?:#|x|bb?)?/g, function(pitch) {
+        return fifthsToPitch.get(pitchToFifths.get(pitch) + amount);
+    });
 }
 
 var songView = new function() {
@@ -78,18 +58,26 @@ var songView = new function() {
     };
 
     this.setKey = function(newKey) {
-        key = newKey;
+        key = parseInt(newKey);
     };
 
     this.getData = function() {
-        data = {};
+        var allFifths = [].concat.apply([], allChords.map(function(chord) {
+            var m = chord.match(/^([A-G](?:#|x|bb?)?)(m\b|madd|msus|dim)?/);
+            return m ? [pitchToFifths.get(m[1]) - (m[2] ? 3 : 0)] : [];
+        }));
+        var center = Math.round(allFifths.reduce(function(a, b) { return a + b; }) / allFifths.length);
+        // Transpose the average chord no flatter than Ab or fm and no sharper than C# or a#m.
+        var amount = (key * 7 + center + 12004) % 12 - center - 4;
+
+        var data = {};
         data["allChords"] = allChords.slice().sort().map(function(chord) {
-            return transposeChord(chord, key).replace("#", "%23");
+            return transposeChord(chord, amount).replace("#", "%23");
         });
         data["lines"] = lines.slice().map(function(line) {
             var newLine = $.extend({}, line);
             if(newLine["chord"]) {
-                newLine["chord"] = transposeChord(line["chord"], key);
+                newLine["chord"] = transposeChord(line["chord"], amount);
             }
             return newLine;
         });
