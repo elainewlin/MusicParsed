@@ -38,11 +38,46 @@
   {{/lines}}
   </script>
   <script id="chordTemplate" type="x-tmpl-mustache">
-  {{#allChords}}
-    <object data="/static/images/{{instrument}}/{{.}}.png" type="image/png" class="chord">
-      {{.}}
-    </object>
-  {{/allChords}}
+  {{#chords}}
+    <div class="chord">
+      <div class="chordName">{{chord}}</div>
+      {{#unknown}}
+        <div class="chordUnknown">?</div>
+      {{/unknown}}
+      {{^unknown}}
+        <div>
+          <svg width="{{width}}" viewBox="{{viewLeft}} -0.9 {{viewWidth}} {{viewHeight}}">
+            {{^offset}}
+              <rect x="0" y="0" width="{{stringsMinus1}}" height="{{fretsPlusHalf}}" fill="none" stroke="black" stroke-width="0.06" />
+              <rect x="0" y="0" width="{{stringsMinus1}}" height="0.5" fill="black" />
+            {{/offset}}
+            {{#offset}}
+              <rect x="0" y="0.5" width="{{stringsMinus1}}" height="{{frets}}" fill="none" stroke="black" stroke-width="0.06" />
+              <text x="-0.5" y="1.3" font-size="1" text-anchor="end">{{offset}}</text>
+            {{/offset}}
+            {{#stringLines}}
+              <line x1="{{.}}" y1="0.5" x2="{{.}}" y2="{{fretsPlusHalf}}" stroke="black" stroke-width="0.06" />
+            {{/stringLines}}
+            {{#fretLines}}
+              <line x1="0" y1="{{.}}" x2="{{stringsMinus1}}" y2="{{.}}" stroke="black" stroke-width="0.06" />
+            {{/fretLines}}
+            {{#dots}}
+              <circle cx="{{x}}" cy="{{y}}" r="0.4" />
+            {{/dots}}
+            {{#open}}
+              <circle cx="{{.}}" cy="{{openY}}" r="0.3" fill="none" stroke="black" stroke-width="0.1" />
+            {{/open}}
+            {{#mute}}
+              <g transform="translate({{.}} {{openY}})">
+                <line x1="-0.25" y1="-0.25" x2="0.25" y2="0.25" stroke="black" stroke-width="0.1" />
+                <line x1="-0.25" y1="0.25" x2="0.25" y2="-0.25" stroke="black" stroke-width="0.1" />
+              </g>
+            {{/mute}}
+          </svg>
+        </div>
+      {{/unknown}}
+    </div>
+  {{/chords}}
   </script>
   {% endraw %}
   <!-- Two column view -->
