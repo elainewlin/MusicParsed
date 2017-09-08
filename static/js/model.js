@@ -72,7 +72,7 @@ var songView = new function() {
 
         var data = {};
         data["allChords"] = allChords.slice().sort().map(function(chord) {
-            return transposeChord(chord, amount).replace("#", "%23");
+            return transposeChord(chord, amount);
         });
         data["lines"] = lines.slice().map(function(line) {
             var newLine = $.extend({}, line);

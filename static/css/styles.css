@@ -48,7 +48,18 @@
 }
 
 .chord {
-    height: 120px;
+    display: inline-block;
+    margin: 0 0.5em;
+    vertical-align: top;
+    text-align: center;
+}
+
+.chordName {
+    font-size: 2em;
+}
+
+.chordUnknown {
+    font-size: 4em;
 }
 
 .ui-helper-hidden-accessible {
