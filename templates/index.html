@@ -79,6 +79,13 @@
     </div>
   {{/chords}}
   </script>
+  <script id="buttonTemplate" type="x-tmpl-mustache">
+  <div class="btn-group" data-toggle="buttons">
+    {{#.}}
+      <label class='btn btn-default' data-{{type}}={{value}} id={{type}}-{{value}}><input type='radio'> {{name}}</label>
+    {{/.}}
+  </div>
+  </script>
   {% endraw %}
   <!-- Two column view -->
   <script src="/static/js/model.js"></script>
@@ -97,6 +104,7 @@
 </head>
 
 <body>
+  <div id='testButton'></div>
   <div class="container-fluid">
       <div id="songView">
         <div class="row">
@@ -108,22 +116,16 @@
             <button class="btn btn-default" id="viewToggle" title="Hide/show the column and transpose widgets">hide</button>
 
             <label for="chords">Chords: </label>
-            <button class="btn btn-default" id="chordToggle">hide</button>
-            <span id="instrument">
-              <div class="btn-group" data-toggle="buttons">
-              </div>
-            </span>
+            <span id="instrument"></span>
           </div>
           <div id="widgets">
-            <div class="ui-widget" id="column">
+            <div class="ui-widget">
               <label for="column">Columns</label>
-              <div class="btn-group" data-toggle="buttons">
-              </div>
+              <span id="column"></span>
             </div>
-            <div class="ui-widget" id="transpose">
+            <div class="ui-widget">
               <label for="transpose">Transpose</label>
-              <div class="btn-group" data-toggle="buttons">
-              </div>
+              <span id="transpose"></span>
             </div>
           </div>
         </div>
