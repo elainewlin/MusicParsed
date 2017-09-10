@@ -1,0 +1,11 @@
+{{#lines}}
+  {{#label}}
+    <h4>{{label}}</h4>
+  {{/label}}
+  {{^label}}
+    <div class="line" id={{count}}>
+      <div class="chords"><span>{{chord}}</span></div>
+      <span class="lyrics">{{lyrics}}</span>
+    </div>
+  {{/label}}
+{{/lines}}

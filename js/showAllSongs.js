@@ -1,5 +1,5 @@
 import $ from "jquery";
-import Mustache from "mustache";
+import allSongsListTemplate from "../mustache/allSongsList.mustache";
 
 // Helper function for sorting arrays of objects by property
 var comparator = function(property) {
@@ -49,8 +49,7 @@ window.onload = function() {
       // Artists in alphabetical order
       allSongsByArtist = allSongsByArtist.sort(comparator("tag"));
 
-      var template = document.getElementById('allSongsTemplate').innerHTML;
-      document.getElementById('allSongs').innerHTML = Mustache.render(template, allSongsByArtist);
+      document.getElementById('allSongs').innerHTML = allSongsListTemplate({allSongs: allSongsByArtist});
     }
   });
 };

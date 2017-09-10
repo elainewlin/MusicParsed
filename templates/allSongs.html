@@ -10,21 +10,6 @@
   <link rel="stylesheet" href="/static/css/styles.css">
   <link rel="stylesheet" href="/static/css/jquery-ui.min.css">
 
-  {% raw %}
-  <script id="allSongsTemplate" type="x-tmpl-mustache">
-  {{#.}}
-    <div class="songTag">
-      <strong>{{tag}}</strong>
-      <ul>
-        {{#songs}}
-          <a href="./song/{{id_artist}}/{{id_title}}"><span><li class="songTitle" data-id="{{id}}">{{title}}</li></span></a>
-        {{/songs}}
-      </ul>
-    </div>
-  {{/.}}
-  </script>
-  {% endraw %}
-
   <script src="/static/dist/showAllSongs.bundle.js"></script>
 
   <script>
