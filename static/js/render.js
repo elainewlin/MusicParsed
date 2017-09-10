@@ -42,7 +42,6 @@ var instrumentsData = {
 
 var renderChords = function(data) {
   var currentInstrument = songView.getInstrument();
-  $("#instrumentToggle").text(currentInstrument);
 
   var chordTemplate = document.getElementById("chordTemplate").innerHTML;
 
