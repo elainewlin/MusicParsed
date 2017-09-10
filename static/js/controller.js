@@ -1,4 +1,3 @@
-// TO DO Refactor this code
 const transpose = "transpose";
 const column = "column";
 const instrument = "instrument";
@@ -6,53 +5,46 @@ const instrument = "instrument";
 const getWidget = function(type) {
   return $("#"+type+" > .btn-group");
 }
-
-const getButton = function(type, value) {
-  let name; // text displayed in button
-  let data; // used in HTML data-=
-
-  if (type == transpose) {
-      if(value > 0) {
-        name = `+${value}`;
-      }
-      else {
-        name = value;
-      }
-  }
-  if (type == column) {
-      name = value;
-  }
-  if (type == instrument) {
-    name = value;
-  }
-  return (`<label class='btn btn-default' data-${type}='${value}' id='${type}-${value}'><input type='radio'> ${name}</label>`);
-}
+const buttonTemplate = document.getElementById('buttonTemplate').innerHTML;
 
 const selectButton = function(type, value) {
+  $(`#${type}`).find("label").removeClass("selected");
   $(`#${type}-${value}`).addClass('selected');
 }
 
 const loadTransposeButtons = function() {
-  const transposeWidget = getWidget(transpose);
-  for(let i = -6; i <= 6; i++) {
-    const button = getButton(transpose, i);
-    transposeWidget.append(button);
+  const transposeButtons = [];
+
+  for(let value = -6; value <= 6; value++) {
+    let name;
+    if (value > 0) {
+      name = `+${value}`;
+    } else {
+      name = value;
+    }
+    transposeButtons.push({
+      type: transpose,
+      name: name, 
+      value: value
+    })
   }
+  document.getElementById(transpose).innerHTML = Mustache.render(buttonTemplate, transposeButtons);
+
   selectButton(transpose, 0);
 
-  transposeWidget.find("input").click(function(e) {
+  $("#transpose").find("input").click(function(e) {
     var newKey = $(e.target.parentNode).data()[transpose];
+    selectButton(transpose, newKey);
     songView.setKey(newKey);
-    rerender(songView.getData());
+    rerender();
   });
 }
 
-const updateColCount = function(colCount) {
-  $("#song").css("column-count", colCount);
-}
-
 const loadColumnButtons = function() {
-  const columnWidget = getWidget(column);
+
+  const updateColCount = function(colCount) {
+    $("#song").css("column-count", colCount);
+  }
 
   let defaultColCount = 3;
   // Change default column count depending on screen width
@@ -63,36 +55,53 @@ const loadColumnButtons = function() {
     defaultColCount = 2;
   }
 
-  for(let i = 1; i <= 4; i++) {
-    const button = getButton(column, i);
-    columnWidget.append(button);
+  const columnButtons = [];
+
+  for(let value = 1; value <= 4; value++) {
+    columnButtons.push({
+      type: column,
+      name: value,
+      value: value,
+    })
   }
+  document.getElementById(column).innerHTML = Mustache.render(buttonTemplate, columnButtons);
+
   updateColCount(defaultColCount);
   selectButton(column, defaultColCount);
 
+  const columnWidget = getWidget(column);
+
   columnWidget.find("input").click(function(e) {
-    var colCount = $(e.target.parentNode).data()[column];
+    const colCount = $(e.target.parentNode).data()[column];
+    selectButton(column, colCount);
     updateColCount(colCount);
   });
 }
 
 const loadInstrumentButtons = function() {
-
   // Render instrument toggle widget
-  const instrumentWidget = getWidget(instrument);
-
-  const instrumentOptions = ['ukulele', 'guitar'];
-  for (let option of instrumentOptions) {
-    const button = getButton(instrument, option);
-    instrumentWidget.append(button);
+  const instrumentOptions = ['none', 'ukulele', 'guitar', 'guitalele'];
+  const instrumentButtons = [];
+  for (let value of instrumentOptions) {
+    instrumentButtons.push({
+      type: instrument,
+      name: value,
+      value: value,
+    })
   }
+  document.getElementById(instrument).innerHTML = Mustache.render(buttonTemplate, instrumentButtons);
+
   const currentInstrument = songView.getInstrument();
   selectButton(instrument, currentInstrument);
 
-  instrumentWidget.find("input").click(function(e) {
-    var newInstrument = $(e.target.parentNode).data()[instrument];
+  const instrumentWidget = getWidget(instrument);
+
+  $("#instrument").find("input").click(function(e) {
+    const newInstrument = $(e.target.parentNode).data()[instrument];
+
+    selectButton(instrument, newInstrument);
     songView.setInstrument(newInstrument);
-    renderChords(songView.getData());
+    renderChords();
   });
 }
 
@@ -105,28 +114,23 @@ var loadWidgets = function() {
 
   // Instrument toggle
   loadInstrumentButtons();
-
-  // Adjusting selected radio button
-  $("input[type=radio]").click(function(e) {
-      var labels = $(e.target.parentNode.parentNode).find("label");
-      labels.removeClass("selected");
-      var target = $(e.target.parentNode);
-      target.addClass("selected");
-  });
 }
 
 var resetTranspose = function() {
   const key = 0;
   songView.setKey(key);
-  $("#transpose").find("label").removeClass("selected");
   selectButton(transpose, key);
 };
 
 $(document).ready(function() {
-    // Chord toggle widgets
     let chordPics = $("#chordPics");
-    let chordToggle = $("#chordToggle");
-  
+    chordPics.click(function() {
+      songView.setInstrument('none');
+      selectButton(instrument, 'none');
+      renderChords();
+    });
+    chordPics.tooltip();
+
     function getToggler(elementToToggle, textToUpdate) {
       return function() {
         elementToToggle.toggle()
@@ -139,15 +143,6 @@ $(document).ready(function() {
         }
       }
     }
-    const toggleChords = getToggler(chordPics, chordToggle);
-    chordToggle.click(function() {
-      toggleChords();
-    });
-
-    chordPics.click(function() {
-      toggleChords();
-    });
-    chordPics.tooltip();
 
     // View widget, column, transpose widgets
     let viewToggle = $("#viewToggle");
