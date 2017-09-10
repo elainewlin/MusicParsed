@@ -1,48 +1,57 @@
 // TO DO Refactor this code
-function updateColCount(colCount) {
-    $("#song").css("column-count", colCount);
+const transpose = "transpose";
+const column = "column";
+const instrument = "instrument";
+
+const getWidget = function(type) {
+  return $("#"+type+" > .btn-group");
 }
 
-var loadWidgets = function() {
-  // Load the columns toggle and transpose toggle widgets
+const getButton = function(type, value) {
+  let name; // text displayed in button
+  let data; // used in HTML data-=
 
-  // Wrapper for all of the smaller radio buttons
-  // type = transpose, column-count
-
-  const transpose = "transpose";
-  const column = "column-count";
-
-  const getWidget = function(type) {
-    return $("#"+type+" > .btn-group");
-  }
-
-  const getButton = function(type, value) {
-    let name; // number displayed in button
-    let data; // used in HTML data-=
-
-    if (type == transpose) {
-        if(value > 0) {
-          name = `+${value}`;
-        }
-        else {
-          name = value;
-        }
-        data = 'key';
-    }
-    if (type == column) {
+  if (type == transpose) {
+      if(value > 0) {
+        name = `+${value}`;
+      }
+      else {
         name = value;
-        data = 'column';
-        type = 'column';
-    }
-    return (`<label class='btn btn-default' data-${data}=${value} id='${type}-${value}'><input type='radio'> ${name}</label>`);
+      }
   }
+  if (type == column) {
+      name = value;
+  }
+  if (type == instrument) {
+    name = value;
+  }
+  return (`<label class='btn btn-default' data-${type}='${value}' id='${type}-${value}'><input type='radio'> ${name}</label>`);
+}
 
+const selectButton = function(type, value) {
+  $(`#${type}-${value}`).addClass('selected');
+}
+
+const loadTransposeButtons = function() {
   const transposeWidget = getWidget(transpose);
   for(let i = -6; i <= 6; i++) {
     const button = getButton(transpose, i);
     transposeWidget.append(button);
   }
-  $(`#transpose-0`).addClass("selected")
+  selectButton(transpose, 0);
+
+  transposeWidget.find("input").click(function(e) {
+    var newKey = $(e.target.parentNode).data()[transpose];
+    songView.setKey(newKey);
+    rerender(songView.getData());
+  });
+}
+
+const updateColCount = function(colCount) {
+  $("#song").css("column-count", colCount);
+}
+
+const loadColumnButtons = function() {
   const columnWidget = getWidget(column);
 
   let defaultColCount = 3;
@@ -59,25 +68,50 @@ var loadWidgets = function() {
     columnWidget.append(button);
   }
   updateColCount(defaultColCount);
-  $(`#column-${defaultColCount}`).addClass("selected");
+  selectButton(column, defaultColCount);
 
-  $("#column-count").find("input").click(function(e) {
-      var colCount = $(e.target.parentNode).data()["column"];
-      updateColCount(colCount);
+  columnWidget.find("input").click(function(e) {
+    var colCount = $(e.target.parentNode).data()[column];
+    updateColCount(colCount);
   });
+}
 
-  // View for transpose and column widgets
+const loadInstrumentButtons = function() {
+
+  // Render instrument toggle widget
+  const instrumentWidget = getWidget(instrument);
+
+  const instrumentOptions = ['ukulele', 'guitar'];
+  for (let option of instrumentOptions) {
+    const button = getButton(instrument, option);
+    instrumentWidget.append(button);
+  }
+  const currentInstrument = songView.getInstrument();
+  selectButton(instrument, currentInstrument);
+
+  instrumentWidget.find("input").click(function(e) {
+    var newInstrument = $(e.target.parentNode).data()[instrument];
+    songView.setInstrument(newInstrument);
+    renderChords(songView.getData());
+  });
+}
+
+var loadWidgets = function() {
+  // Transpose widget
+  loadTransposeButtons();
+
+  // Column count widget
+  loadColumnButtons();
+
+  // Instrument toggle
+  loadInstrumentButtons();
+
+  // Adjusting selected radio button
   $("input[type=radio]").click(function(e) {
       var labels = $(e.target.parentNode.parentNode).find("label");
       labels.removeClass("selected");
       var target = $(e.target.parentNode);
       target.addClass("selected");
-  });
-
-  $("#transpose").find("input").click(function(e) {
-      var newKey = $(e.target.parentNode).data()["key"];
-      songView.setKey(newKey);
-      rerender(songView.getData());
   });
 }
 
@@ -85,7 +119,7 @@ var resetTranspose = function() {
   const key = 0;
   songView.setKey(key);
   $("#transpose").find("label").removeClass("selected");
-  $(`#transpose-${key}`).addClass("selected");
+  selectButton(transpose, key);
 };
 
 $(document).ready(function() {
@@ -114,11 +148,6 @@ $(document).ready(function() {
       toggleChords();
     });
     chordPics.tooltip();
-
-    $("#instrumentToggle").click(function() {
-        songView.toggleInstrument();
-        renderChords(songView.getData());
-    });
 
     // View widget, column, transpose widgets
     let viewToggle = $("#viewToggle");

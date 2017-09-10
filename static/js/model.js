@@ -17,15 +17,14 @@ function transposeChord(chord, amount) {
 }
 
 var songView = new function() {
-    var instruments = ["guitar", "ukulele"];
-    var currentInstrument = instruments[1];
+    var currentInstrument = 'ukulele';
 
     this.getInstrument = function() {
         return currentInstrument;
     };
 
-    this.toggleInstrument = function() {
-        currentInstrument = instruments[(instruments.indexOf(currentInstrument) + 1) % instruments.length];
+    this.setInstrument = function(newInstrument) {
+        currentInstrument = newInstrument;
     };
 
     var lines = [];
