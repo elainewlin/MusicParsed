@@ -135,7 +135,7 @@ var loadSong = function(newSong) {
   });
 };
 
-window.onload = function() {
+var initRender = function() {
   loadWidgets();
 
   $("#tags").autocomplete({
