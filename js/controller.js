@@ -1,3 +1,9 @@
+import $ from "jquery";
+import "jquery-ui/ui/widgets/tooltip";
+import Mustache from "mustache";
+import {songView} from "./model.js";
+import {renderChords, rerender} from "./render.js";
+
 const transpose = "transpose";
 const column = "column";
 const instrument = "instrument";
@@ -105,7 +111,7 @@ const loadInstrumentButtons = function() {
   });
 }
 
-var loadWidgets = function() {
+export var loadWidgets = function() {
   // Transpose widget
   loadTransposeButtons();
 
@@ -116,7 +122,7 @@ var loadWidgets = function() {
   loadInstrumentButtons();
 }
 
-var resetTranspose = function() {
+export var resetTranspose = function() {
   const key = 0;
   songView.setKey(key);
   selectButton(transpose, key);

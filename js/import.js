@@ -1,3 +1,5 @@
+import $ from "jquery";
+
 $(document).ready(function() {
     $("#importText").click(function() {
         console.log($("#addText").val());

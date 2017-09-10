@@ -1,3 +1,7 @@
+import $ from "jquery";
+import {songView} from "./model.js";
+import {initRender, loadSong} from "./render.js";
+
 $(document).ready(function() {
     initRender();
     var dataset = document.documentElement.dataset;
