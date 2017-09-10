@@ -20,6 +20,15 @@ module.exports = {
         }, {
             test: /\.mustache$/,
             loader: 'mustache-loader'
+        }, {
+            test: /\.css$/,
+            use: ['style-loader', 'css-loader']
+        }, {
+            test: /\.(eot|png|svg|ttf|woff|woff2)$/,
+            loader: 'url-loader',
+            options: {
+                limit: 8192
+            }
         }]
     }
 };

@@ -1,5 +1,9 @@
 import $ from "jquery";
 import "jquery-ui/ui/widgets/autocomplete";
+import "jquery-ui/themes/base/core.css";
+import "jquery-ui/themes/base/menu.css";
+import "jquery-ui/themes/base/autocomplete.css";
+import "jquery-ui/themes/base/theme.css";
 import {loadWidgets, resetTranspose} from "./controller.js";
 import {pitchToFifths, songView} from "./model.js";
 import chordsTemplate from "../mustache/chords.mustache";
