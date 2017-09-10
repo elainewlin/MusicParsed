@@ -1,6 +1,8 @@
 import $ from "jquery";
 import {songView} from "./model.js";
 import {initRender, loadSong} from "./render.js";
+import "bootstrap/dist/css/bootstrap.min.css";
+import "../css/styles.css";
 
 $(document).ready(function() {
     initRender();
