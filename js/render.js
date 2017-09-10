@@ -1,8 +1,9 @@
 import $ from "jquery";
 import "jquery-ui/ui/widgets/autocomplete";
-import Mustache from "mustache";
 import {loadWidgets, resetTranspose} from "./controller.js";
 import {pitchToFifths, songView} from "./model.js";
+import chordsTemplate from "../mustache/chords.mustache";
+import songTemplate from "../mustache/song.mustache";
 
 const guitarChords = [
   /* C  */ {'': 'x,3,2,0,1,0', 'dim': 'x,3,1,x,1,1', '13': '8,x,8,9,10,x', 'aug': 'x,3,2,1,1,0', 'm7b5': 'x,3,4,3,4,x', '11': '8,8,8,9,8,8', 'm6': '8,10,10,8,10,8', 'm': 'x,3,5,5,4,3', 'add9': 'x,3,0,0,0,0', '7sus4': 'x,3,5,3,6,3', 'm7': 'x,3,5,3,4,3', 'sus2': 'x,3,0,0,3,3', 'sus4': '8,10,10,10,8,8', '7': 'x,3,2,3,1,0', '6': 'x,3,5,5,5,5', '9': 'x,3,2,3,3,3', 'maj7': 'x,3,2,0,0,0', 'm9': 'x,3,1,3,3,x'},
@@ -61,7 +62,6 @@ export var renderChords = function() {
       return;
   }
   chordPics.show();
-  var chordTemplate = document.getElementById("chordTemplate").innerHTML;
 
   var instrumentData = instrumentsData[currentInstrument];
   var chordData = {
@@ -117,15 +117,14 @@ export var renderChords = function() {
       }
     }))
   };
-  document.getElementById('chordPics').innerHTML = Mustache.render(chordTemplate, chordData);
+  document.getElementById('chordPics').innerHTML = chordsTemplate(chordData);
 };
 
 export var rerender = function() {
   const data = songView.getData();
   $("#title").text(songView.getName());
 
-  var songTemplate = document.getElementById('songTemplate').innerHTML;
-  document.getElementById('song').innerHTML = Mustache.render(songTemplate, data);
+  document.getElementById('song').innerHTML = songTemplate(data);
 
   renderChords();
 };

@@ -1,0 +1,10 @@
+{{#allSongs}}
+  <div class="songTag">
+    <strong>{{tag}}</strong>
+    <ul>
+      {{#songs}}
+        <a href="./song/{{id_artist}}/{{id_title}}"><span><li class="songTitle" data-id="{{id}}">{{title}}</li></span></a>
+      {{/songs}}
+    </ul>
+  </div>
+{{/allSongs}}
