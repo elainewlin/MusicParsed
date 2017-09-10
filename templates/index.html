@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html data-title="{{title}}" data-artist="{{artist}}">
 
 <head>
   <meta charset="utf-8">
@@ -90,6 +90,7 @@
   <!-- Two column view -->
   <script src="/static/js/model.js"></script>
   <script src="/static/js/controller.js"></script>
+  <script src="/static/js/index.js"></script>
 
   <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -140,16 +141,4 @@
     </div>
   </div> <!-- class="container" -->
 </body>
-<!-- messing around with loading song from URL -->
-<script>
-// stupid check to make sure we don't load blank songs
-if ('{{title}}') {
-  newSong = '{{ title }} - {{ artist }}';
-  loadSong(newSong);
-}
-else {
-  // Default song
-  loadSong(songView.getName());
-}
-</script>
 </html>
