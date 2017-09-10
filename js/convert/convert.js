@@ -1,3 +1,6 @@
+import $ from "jquery";
+import {Guitar, Ukulele, Note} from "./music.js";
+
 // Gets sequence of notes from the guitar chords
 var parseTab = function(instrument) {
   var sequence = [];

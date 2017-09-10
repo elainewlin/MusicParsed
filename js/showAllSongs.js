@@ -1,3 +1,5 @@
+import $ from "jquery";
+import Mustache from "mustache";
 
 // Helper function for sorting arrays of objects by property
 var comparator = function(property) {

@@ -1,6 +1,6 @@
 var OCTAVE = ["C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"];
 
-var Ukulele = function() {
+export var Ukulele = function() {
   var that = Object.create(Ukulele.prototype);
   that.stringCount = 4;
   that.notes = [33, 28, 24, 31];
@@ -8,7 +8,7 @@ var Ukulele = function() {
   return that;
 };
 
-var Guitar = function() {
+export var Guitar = function() {
   var that = Object.create(Guitar.prototype);
   that.stringCount = 6;
   that.notes = [28, 23, 19, 14, 9, 4];
@@ -16,7 +16,7 @@ var Guitar = function() {
   return that;
 };
 
-var Note = function(initialString, fret, time) {
+export var Note = function(initialString, fret, time) {
   var that = Object.create(Note.prototype);
   that.initialString = initialString;
   that.fret = fret;
