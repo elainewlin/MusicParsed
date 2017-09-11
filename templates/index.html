@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html data-title="{{title}}" data-artist="{{artist}}">
 
 <head>
   <meta charset="utf-8">
@@ -8,88 +8,7 @@
   <!-- Ukulele favicon -->
   <link rel="icon" href="/static/images/favicon.png">
 
-  <!-- Load style sheets -->
-  <link rel="stylesheet" href="/static/css/bootstrap.min.css">
-  <link rel="stylesheet" href="/static/css/styles.css">
-  <link rel="stylesheet" href="/static/css/jquery-ui.min.css">
-
-  <!-- Load any supplemental Javascript libraries here -->
-  <script src="/static/lib/jquery.min.js"></script>
-  <!-- jQuery UI autocomplete -->
-  <script src="/static/lib/jquery-ui.min.js"></script>
-    <!-- Mustache template -->
-  <script src="/static/lib/mustache.min.js"></script>
-
-
-  <script src="/static/js/render.js"></script>
-
-  {% raw %}
-  <script id="songTemplate" type="x-tmpl-mustache">
-  {{#lines}}
-    {{#label}}
-      <h4>{{label}}</h4>
-    {{/label}}
-    {{^label}}
-      <div class="line" id={{count}}>
-        <div class="chords"><span>{{chord}}</span></div>
-        <span class="lyrics">{{lyrics}}</span>
-      </div>
-    {{/label}}
-  {{/lines}}
-  </script>
-  <script id="chordTemplate" type="x-tmpl-mustache">
-  {{#chords}}
-    <div class="chord">
-      <div class="chordName">{{chord}}</div>
-      {{#unknown}}
-        <div class="chordUnknown">?</div>
-      {{/unknown}}
-      {{^unknown}}
-        <div>
-          <svg width="{{width}}" viewBox="{{viewLeft}} -0.9 {{viewWidth}} {{viewHeight}}">
-            {{^offset}}
-              <rect x="0" y="0" width="{{stringsMinus1}}" height="{{fretsPlusHalf}}" fill="none" stroke="black" stroke-width="0.06" />
-              <rect x="0" y="0" width="{{stringsMinus1}}" height="0.5" fill="black" />
-            {{/offset}}
-            {{#offset}}
-              <rect x="0" y="0.5" width="{{stringsMinus1}}" height="{{frets}}" fill="none" stroke="black" stroke-width="0.06" />
-              <text x="-0.5" y="1.3" font-size="1" text-anchor="end">{{offset}}</text>
-            {{/offset}}
-            {{#stringLines}}
-              <line x1="{{.}}" y1="0.5" x2="{{.}}" y2="{{fretsPlusHalf}}" stroke="black" stroke-width="0.06" />
-            {{/stringLines}}
-            {{#fretLines}}
-              <line x1="0" y1="{{.}}" x2="{{stringsMinus1}}" y2="{{.}}" stroke="black" stroke-width="0.06" />
-            {{/fretLines}}
-            {{#dots}}
-              <circle cx="{{x}}" cy="{{y}}" r="0.4" />
-            {{/dots}}
-            {{#open}}
-              <circle cx="{{.}}" cy="{{openY}}" r="0.3" fill="none" stroke="black" stroke-width="0.1" />
-            {{/open}}
-            {{#mute}}
-              <g transform="translate({{.}} {{openY}})">
-                <line x1="-0.25" y1="-0.25" x2="0.25" y2="0.25" stroke="black" stroke-width="0.1" />
-                <line x1="-0.25" y1="0.25" x2="0.25" y2="-0.25" stroke="black" stroke-width="0.1" />
-              </g>
-            {{/mute}}
-          </svg>
-        </div>
-      {{/unknown}}
-    </div>
-  {{/chords}}
-  </script>
-  <script id="buttonTemplate" type="x-tmpl-mustache">
-  <div class="btn-group" data-toggle="buttons">
-    {{#.}}
-      <label class='btn btn-default' data-{{type}}={{value}} id={{type}}-{{value}}><input type='radio'> {{name}}</label>
-    {{/.}}
-  </div>
-  </script>
-  {% endraw %}
-  <!-- Two column view -->
-  <script src="/static/js/model.js"></script>
-  <script src="/static/js/controller.js"></script>
+  {{ webpack['index.js'] }}
 
   <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -140,16 +59,4 @@
     </div>
   </div> <!-- class="container" -->
 </body>
-<!-- messing around with loading song from URL -->
-<script>
-// stupid check to make sure we don't load blank songs
-if ('{{title}}') {
-  newSong = '{{ title }} - {{ artist }}';
-  loadSong(newSong);
-}
-else {
-  // Default song
-  loadSong(songView.getName());
-}
-</script>
 </html>

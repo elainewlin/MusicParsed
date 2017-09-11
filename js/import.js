@@ -1,3 +1,7 @@
+import $ from "jquery";
+import "bootstrap/dist/css/bootstrap.min.css";
+import "../css/import.css";
+
 $(document).ready(function() {
     $("#importText").click(function() {
         console.log($("#addText").val());

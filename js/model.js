@@ -1,3 +1,5 @@
+import $ from "jquery";
+
 var accidentalFifths = [["bb", -14], ["b", -7], ["", 0], ["#", 7], ["x", 14]];
 var letterFifths = [["F", -1], ["C", 0], ["G", 1], ["D", 2], ["A", 3], ["E", 4], ["B", 5]];
 
@@ -7,7 +9,7 @@ var pitchFifths = [].concat.apply([], accidentalFifths.map(function(af) {
     });
 }));
 
-var pitchToFifths = new Map(pitchFifths);
+export var pitchToFifths = new Map(pitchFifths);
 var fifthsToPitch = new Map(pitchFifths.map(function(pf) { return [pf[1], pf[0]]; }));
 
 function transposeChord(chord, amount) {
@@ -16,7 +18,7 @@ function transposeChord(chord, amount) {
     });
 }
 
-var songView = new function() {
+export var songView = new function() {
     var currentInstrument = 'ukulele';
 
     this.getInstrument = function() {

@@ -1,3 +1,10 @@
+import $ from "jquery";
+import "jquery-ui/ui/widgets/tooltip";
+import "jquery-ui/themes/base/all.css";
+import {songView} from "./model.js";
+import {renderChords, rerender} from "./render.js";
+import buttonTemplate from "../mustache/button.mustache";
+
 const transpose = "transpose";
 const column = "column";
 const instrument = "instrument";
@@ -5,7 +12,6 @@ const instrument = "instrument";
 const getWidget = function(type) {
   return $("#"+type+" > .btn-group");
 }
-const buttonTemplate = document.getElementById('buttonTemplate').innerHTML;
 
 const selectButton = function(type, value) {
   $(`#${type}`).find("label").removeClass("selected");
@@ -28,7 +34,7 @@ const loadTransposeButtons = function() {
       value: value
     })
   }
-  document.getElementById(transpose).innerHTML = Mustache.render(buttonTemplate, transposeButtons);
+  document.getElementById(transpose).innerHTML = buttonTemplate({buttons: transposeButtons});
 
   selectButton(transpose, 0);
 
@@ -64,7 +70,7 @@ const loadColumnButtons = function() {
       value: value,
     })
   }
-  document.getElementById(column).innerHTML = Mustache.render(buttonTemplate, columnButtons);
+  document.getElementById(column).innerHTML = buttonTemplate({buttons: columnButtons});
 
   updateColCount(defaultColCount);
   selectButton(column, defaultColCount);
@@ -89,7 +95,7 @@ const loadInstrumentButtons = function() {
       value: value,
     })
   }
-  document.getElementById(instrument).innerHTML = Mustache.render(buttonTemplate, instrumentButtons);
+  document.getElementById(instrument).innerHTML = buttonTemplate({buttons: instrumentButtons});
 
   const currentInstrument = songView.getInstrument();
   selectButton(instrument, currentInstrument);
@@ -105,7 +111,7 @@ const loadInstrumentButtons = function() {
   });
 }
 
-var loadWidgets = function() {
+export var loadWidgets = function() {
   // Transpose widget
   loadTransposeButtons();
 
@@ -116,7 +122,7 @@ var loadWidgets = function() {
   loadInstrumentButtons();
 }
 
-var resetTranspose = function() {
+export var resetTranspose = function() {
   const key = 0;
   songView.setKey(key);
   selectButton(transpose, key);

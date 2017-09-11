@@ -1,6 +1,7 @@
 from flask import render_template
 from flask import Flask
 from flask import request
+from flask_webpackext import FlaskWebpackExt
 import os
 app = Flask(__name__)
 
@@ -41,6 +42,8 @@ def importURL():
 @app.route("/song/<artist>/<title>")
 def getSong(artist, title):
     return render_template('index.html', title=title, artist=artist)
+
+FlaskWebpackExt(app)
 
 if __name__ == '__main__':
     app.run(debug=True, use_reloader=True)
