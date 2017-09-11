@@ -1,5 +1,6 @@
 const path = require('path');
 const webpack = require('webpack');
+const WebpackManifestPlugin = require('webpack-manifest-plugin');
 
 module.exports = {
     entry: {
@@ -30,5 +31,10 @@ module.exports = {
                 limit: 8192
             }
         }]
-    }
+    },
+    plugins: [
+        new WebpackManifestPlugin({
+            publicPath: '/static/dist/'
+        })
+    ]
 };
