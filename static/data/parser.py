@@ -142,26 +142,29 @@ class TextParser:
 
         allChords = []
 
-        for i in xrange(len(lines)):
-            l = lines[i]
-
-            newLine = {}
-            if(isLabel(lines[i])):
-                newLine['label'] = lines[i]
-                data['lines'].append(newLine)
-            else:
-                # Checks whether a line has chords
-                if isChordLine(lines[i]):
-
-                    newLine['lyrics'] = lines[i+1]
-                    newLine['chord'] = lines[i]
-
-                    for c in lines[i].split():
+        lines_iter = iter(lines)
+        for line in lines_iter:
+            if isLabel(line):
+                data['lines'].append({'label': line})
+            elif isChordLine(line):
+                while True:
+                    next_line = next(lines_iter)
+                    lyrics = '' if isLabel(next_line) or isChordLine(next_line) else next_line
+                    data['lines'].append({'lyrics': lyrics, 'chord': line})
+                    for c in line.split():
                         if "/" in c:
                             c = c.split("/")[0]
                         if c not in allChords:
                             allChords.append(c)
-                    data['lines'].append(newLine)
+                    line = next_line
+                    if isLabel(line):
+                        data['lines'].append({'label': line})
+                        break
+                    elif not isChordLine(line):
+                        break
+            elif line:
+                data['lines'].append({'lyrics': line, 'chord': ''})
+            # FIXME: should we preserve blank lines?
 
         data['allChords'] = allChords
 
