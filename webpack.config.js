@@ -11,7 +11,7 @@ module.exports = {
         showAllSongs: './js/showAllSongs.js'
     },
     output: {
-        filename: '[name].bundle.js',
+        filename: '[name].[chunkhash].bundle.js',
         path: path.resolve(__dirname, 'static', 'dist')
     },
     module: {
