@@ -5,13 +5,10 @@ from bs4 import BeautifulSoup
 import argparse
 from isChord import isChordLine, isLabel
 from helpers import nameToID, idToData, dataToName, clean
-from selenium import webdriver
-import json
+
 TEXT = 'txt'
 JSON = 'json'
 JSON_FOLDER = os.path.join(os.getcwd(), JSON)
-PHANTOM_DRIVER = os.path.join(os.getcwd(), 'phantomjs')
-DRIVER = webdriver.PhantomJS(PHANTOM_DRIVER)
 
 def findBetween(s, first, last):
     """
@@ -42,7 +39,7 @@ class URLParser:
         req = urllib2.Request(url, headers = hdr)
         f = urllib2.urlopen(req)
         myfile = f.read()
-        return BeautifulSoup(myfile, 'html.parser')
+        return BeautifulSoup(myfile, 'html5lib')
 
     def collapseSong(self, data):
         """
@@ -90,13 +87,12 @@ class URLParser:
 
         # Parsing Ukutabs website
         if 'ukutabs' in url:
-            DRIVER.get(url)
-            data = DRIVER.find_elements_by_class_name('qoate-code')[-1].text
-            data = self.collapseSong(data)
+            soup = self.soupFromURL(url)
+            data = soup.find('pre', {'class': 'qoate-code'}).get_text()
 
-            allText = DRIVER.find_element_by_tag_name('body').text
-            title = findBetween(allText, 'Title ', '\n')
-            artist = findBetween(allText, 'Artist ', '\n')
+            s = soup.find('span', {'class': 'stitlecolor'})
+            title = s.get_text()
+            artist = s.parent.parent.next_sibling.find('a').get_text()
 
         return (title, artist, data)
 
