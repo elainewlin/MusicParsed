@@ -1,1 +1,244 @@
-{"allChords": ["Em", "A", "C", "B", "D", "Cm", "F", "Am", "G", "F#"], "artist": "Hozier", "lines": [{"label": "[Verse 1]"}, {"count": 0, "chord": "Em                   Am     Em", "lyrics": "      My lover's got humour"}, {"count": 1, "chord": "                      Am       G", "lyrics": "She's the giggle at a funeral"}, {"count": 2, "chord": "                  Am          Em", "lyrics": "Knows everybody's disapproval"}, {"count": 3, "chord": "                           Am      Em", "lyrics": "I should've worshipped her sooner"}, {"count": 4, "chord": "                    Am         Em", "lyrics": "If the Heavens ever did speak"}, {"count": 5, "chord": "                     Am          G", "lyrics": "She is the last true mouthpiece"}, {"count": 6, "chord": "                       Am          Em", "lyrics": "Every Sunday's getting more bleak"}, {"count": 7, "chord": "               Am           D", "lyrics": "A fresh poison each week"}, {"count": 8, "chord": "                   C/G", "lyrics": "'We were born sick,' you heard them say it"}, {"count": 9, "chord": "Em                          Am         Em", "lyrics": "        My church offers no absolutes"}, {"count": 10, "chord": "                             Am        G", "lyrics": "She tells me 'worship in the bedroom'"}, {"count": 11, "chord": "                        Am        Em", "lyrics": "The only heaven I'll be sent to"}, {"count": 12, "chord": "                  Am         D", "lyrics": "Is when I'm alone with you"}, {"count": 13, "chord": "                 C/G", "lyrics": "I was born sick, but I love it"}, {"count": 14, "chord": "C/G", "lyrics": "     Command me to be well"}, {"label": "[Verse 1]"}, {"count": 15, "chord": "G          C G   C G   Cm G", "lyrics": "Aaaaaaaaaaamen. Amen. Amen"}, {"label": "[Chorus x2]"}, {"count": 16, "chord": "G          Em", "lyrics": "     Take me to church, I'll worship like a dog at the shrine of your lies"}, {"count": 17, "chord": "B                                                           G", "lyrics": "       I'll tell you my sins and you can sharpen your knife"}, {"count": 18, "chord": "              Am", "lyrics": "Offer me that deathless death"}, {"count": 19, "chord": "     Em                            A G G F#", "lyrics": "Good God, let me give you my life"}, {"label": "[Verse 2]"}, {"count": 20, "chord": "Em                           Am          Em", "lyrics": "       If I'm a pagan of the good times"}, {"count": 21, "chord": "               Am         G", "lyrics": "My lover's the sunlight"}, {"count": 22, "chord": "                       Am        Em", "lyrics": "To keep the Goddess on my side"}, {"count": 23, "chord": "              Am          D", "lyrics": "She demands a sacrifice"}, {"count": 24, "chord": "                        C/G", "lyrics": "To drain the whole sea"}, {"count": 25, "chord": "                     Em", "lyrics": "Get something shiny"}, {"count": 26, "chord": "                        Am           Em", "lyrics": "Something meaty for the main course"}, {"count": 27, "chord": "                      Am            G", "lyrics": "That's a fine looking high horse"}, {"count": 28, "chord": "                    Am        Em", "lyrics": "What you got in the stable?"}, {"count": 29, "chord": "                        Am         D", "lyrics": "We've a lot of starving faithful"}, {"count": 30, "chord": "                  C/G", "lyrics": "That looks tasty"}, {"count": 31, "chord": "                   C/G", "lyrics": "That looks plenty"}, {"count": 32, "chord": "               G F#", "lyrics": "This is hungry work"}, {"label": "[Chorus x2]"}, {"count": 33, "chord": "G       Em", "lyrics": "Take me to church, I'll worship like a dog at the shrine of your lies"}, {"count": 34, "chord": "B                                                          G", "lyrics": "      I'll tell you my sins and you can sharpen your knife"}, {"count": 35, "chord": "              Am", "lyrics": "Offer me that deathless death"}, {"count": 36, "chord": "     Em                      A G G F#", "lyrics": "Good God, let me give you my life"}, {"count": 37, "chord": "C                  G              B         Em", "lyrics": "     No masters or kings when the ritual begins"}, {"count": 38, "chord": "         C          G              B          Em", "lyrics": "There is no sweeter innocence than our gentle sin"}, {"count": 39, "chord": "   C               G            B           Em", "lyrics": "In the madness and soil of that sad earthly scene"}, {"count": 40, "chord": "     C         G           B         Em", "lyrics": "Only then I am human, only then I am clean."}, {"label": "[Pre-Chorus]"}, {"count": 41, "chord": "G          C G   C G   Cm G", "lyrics": "Aaaaaaaaaaamen. Amen. Amen"}, {"label": "[Chorus]"}, {"count": 42, "chord": "G        Em", "lyrics": "     Take me to church, I'll worship like a dog at the shrine of your lies"}, {"count": 43, "chord": "B                                                           G", "lyrics": "       I'll tell you my sins and you can sharpen your knife"}, {"count": 44, "chord": "              Am", "lyrics": "Offer me that deathless death"}, {"count": 45, "chord": "     Em                            A G G F#", "lyrics": "Good God, let me give you my life"}, {"count": 46, "chord": "G F# F# F       Em", "lyrics": "     Take me to church, I'll worship like a dog at the shrine of your lies"}, {"count": 47, "chord": "B                                                           G", "lyrics": "       I'll tell you my sins and you can sharpen your knife"}, {"count": 48, "chord": "              Am", "lyrics": "Offer me that deathless death"}, {"count": 49, "chord": "     Em                            A G G F#", "lyrics": "Good God, let me give you my life"}], "id": "Take Me To Church - Hozier", "title": "Take Me To Church"}
+{
+  "allChords": [
+    "Em", 
+    "Am", 
+    "G", 
+    "D", 
+    "C", 
+    "Cm", 
+    "B", 
+    "A", 
+    "F#", 
+    "F"
+  ], 
+  "artist": "Hozier", 
+  "id": "Take Me To Church - Hozier", 
+  "lines": [
+    {
+      "label": "[Verse 1]"
+    }, 
+    {
+      "chord": "Em                   Am     Em", 
+      "lyrics": "      My lover's got humour"
+    }, 
+    {
+      "chord": "                      Am       G", 
+      "lyrics": "She's the giggle at a funeral"
+    }, 
+    {
+      "chord": "                  Am          Em", 
+      "lyrics": "Knows everybody's disapproval"
+    }, 
+    {
+      "chord": "                           Am      Em", 
+      "lyrics": "I should've worshipped her sooner"
+    }, 
+    {
+      "chord": "                    Am         Em", 
+      "lyrics": "If the Heavens ever did speak"
+    }, 
+    {
+      "chord": "                     Am          G", 
+      "lyrics": "She is the last true mouthpiece"
+    }, 
+    {
+      "chord": "                       Am          Em", 
+      "lyrics": "Every Sunday's getting more bleak"
+    }, 
+    {
+      "chord": "               Am           D", 
+      "lyrics": "A fresh poison each week"
+    }, 
+    {
+      "chord": "                   C/G", 
+      "lyrics": "'We were born sick,' you heard them say it"
+    }, 
+    {
+      "chord": "Em                          Am         Em", 
+      "lyrics": "        My church offers no absolutes"
+    }, 
+    {
+      "chord": "                             Am        G", 
+      "lyrics": "She tells me 'worship in the bedroom'"
+    }, 
+    {
+      "chord": "                        Am        Em", 
+      "lyrics": "The only heaven I'll be sent to"
+    }, 
+    {
+      "chord": "                  Am         D", 
+      "lyrics": "Is when I'm alone with you"
+    }, 
+    {
+      "chord": "                 C/G", 
+      "lyrics": "I was born sick, but I love it"
+    }, 
+    {
+      "chord": "C/G", 
+      "lyrics": "     Command me to be well"
+    }, 
+    {
+      "label": "[Verse 1]"
+    }, 
+    {
+      "chord": "G          C G   C G   Cm G", 
+      "lyrics": "Aaaaaaaaaaamen. Amen. Amen"
+    }, 
+    {
+      "label": "[Chorus x2]"
+    }, 
+    {
+      "chord": "G          Em", 
+      "lyrics": "     Take me to church, I'll worship like a dog at the shrine of your lies"
+    }, 
+    {
+      "chord": "B                                                           G", 
+      "lyrics": "       I'll tell you my sins and you can sharpen your knife"
+    }, 
+    {
+      "chord": "              Am", 
+      "lyrics": "Offer me that deathless death"
+    }, 
+    {
+      "chord": "     Em                            A G G F#", 
+      "lyrics": "Good God, let me give you my life"
+    }, 
+    {
+      "label": "[Verse 2]"
+    }, 
+    {
+      "chord": "Em                           Am          Em", 
+      "lyrics": "       If I'm a pagan of the good times"
+    }, 
+    {
+      "chord": "               Am         G", 
+      "lyrics": "My lover's the sunlight"
+    }, 
+    {
+      "chord": "                       Am        Em", 
+      "lyrics": "To keep the Goddess on my side"
+    }, 
+    {
+      "chord": "              Am          D", 
+      "lyrics": "She demands a sacrifice"
+    }, 
+    {
+      "chord": "                        C/G", 
+      "lyrics": "To drain the whole sea"
+    }, 
+    {
+      "chord": "                     Em", 
+      "lyrics": "Get something shiny"
+    }, 
+    {
+      "chord": "                        Am           Em", 
+      "lyrics": "Something meaty for the main course"
+    }, 
+    {
+      "chord": "                      Am            G", 
+      "lyrics": "That's a fine looking high horse"
+    }, 
+    {
+      "chord": "                    Am        Em", 
+      "lyrics": "What you got in the stable?"
+    }, 
+    {
+      "chord": "                        Am         D", 
+      "lyrics": "We've a lot of starving faithful"
+    }, 
+    {
+      "chord": "                  C/G", 
+      "lyrics": "That looks tasty"
+    }, 
+    {
+      "chord": "                   C/G", 
+      "lyrics": "That looks plenty"
+    }, 
+    {
+      "chord": "               G F#", 
+      "lyrics": "This is hungry work"
+    }, 
+    {
+      "label": "[Chorus x2]"
+    }, 
+    {
+      "chord": "G       Em", 
+      "lyrics": "Take me to church, I'll worship like a dog at the shrine of your lies"
+    }, 
+    {
+      "chord": "B                                                          G", 
+      "lyrics": "      I'll tell you my sins and you can sharpen your knife"
+    }, 
+    {
+      "chord": "              Am", 
+      "lyrics": "Offer me that deathless death"
+    }, 
+    {
+      "chord": "     Em                      A G G F#", 
+      "lyrics": "Good God, let me give you my life"
+    }, 
+    {
+      "chord": "", 
+      "lyrics": " [Bridge]"
+    }, 
+    {
+      "chord": "C                  G              B         Em", 
+      "lyrics": "     No masters or kings when the ritual begins"
+    }, 
+    {
+      "chord": "         C          G              B          Em", 
+      "lyrics": "There is no sweeter innocence than our gentle sin"
+    }, 
+    {
+      "chord": "   C               G            B           Em", 
+      "lyrics": "In the madness and soil of that sad earthly scene"
+    }, 
+    {
+      "chord": "     C         G           B         Em", 
+      "lyrics": "Only then I am human, only then I am clean."
+    }, 
+    {
+      "label": "[Pre-Chorus]"
+    }, 
+    {
+      "chord": "G          C G   C G   Cm G", 
+      "lyrics": "Aaaaaaaaaaamen. Amen. Amen"
+    }, 
+    {
+      "label": "[Chorus]"
+    }, 
+    {
+      "chord": "G        Em", 
+      "lyrics": "     Take me to church, I'll worship like a dog at the shrine of your lies"
+    }, 
+    {
+      "chord": "B                                                           G", 
+      "lyrics": "       I'll tell you my sins and you can sharpen your knife"
+    }, 
+    {
+      "chord": "              Am", 
+      "lyrics": "Offer me that deathless death"
+    }, 
+    {
+      "chord": "     Em                            A G G F#", 
+      "lyrics": "Good God, let me give you my life"
+    }, 
+    {
+      "chord": "G F# F# F       Em", 
+      "lyrics": "     Take me to church, I'll worship like a dog at the shrine of your lies"
+    }, 
+    {
+      "chord": "B                                                           G", 
+      "lyrics": "       I'll tell you my sins and you can sharpen your knife"
+    }, 
+    {
+      "chord": "              Am", 
+      "lyrics": "Offer me that deathless death"
+    }, 
+    {
+      "chord": "     Em                            A G G F#", 
+      "lyrics": "Good God, let me give you my life"
+    }
+  ], 
+  "title": "Take Me To Church"
+}

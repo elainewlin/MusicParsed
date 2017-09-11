@@ -1,1 +1,236 @@
-{"allChords": ["Em", "A", "C", "Dm", "G", "Am", "B7", "Cmaj7", "A7", "E7", "C7"], "artist": "Steven Universe", "lines": [{"count": 0, "chord": "              Dm   G", "lyrics": "You do it for him."}, {"count": 1, "chord": "                     C     Cmaj7", "lyrics": "And you would do it again."}, {"count": 2, "chord": "              Dm              G", "lyrics": "You do it for her, that is to say,"}, {"count": 3, "chord": "                 C", "lyrics": "You'll do it for him."}, {"count": 4, "chord": "Dm        Am", "lyrics": "Keep your stance wide."}, {"count": 5, "chord": "Dm        Am", "lyrics": "Keep your body lowered."}, {"count": 6, "chord": "Dm        G", "lyrics": "As you're moving forward,"}, {"count": 7, "chord": "C       B7     Em", "lyrics": "Balance is the key."}, {"count": 8, "chord": "            B7", "lyrics": "Right foot. Left foot."}, {"count": 9, "chord": "Em     B7", "lyrics": "Now go even faster."}, {"count": 10, "chord": "Em            Dm", "lyrics": "And as you're moving backwards,"}, {"count": 11, "chord": "C         Em      Dm", "lyrics": "Keep your eyes on me."}, {"label": "[Connie]"}, {"count": 12, "chord": "        Am           Dm", "lyrics": "Keep my stance wide. (Good)"}, {"count": 13, "chord": "        Am            Dm", "lyrics": "Keep my body lowered. (Right)"}, {"count": 14, "chord": "         G", "lyrics": "As I'm moving forward..."}, {"label": "[Pearl]"}, {"count": 15, "chord": "C            B7                    Em", "lyrics": "Concentrate! Don't you want him to live!?"}, {"label": "[Connie]"}, {"count": 16, "chord": "B7", "lyrics": "Right foot; Left foot"}, {"label": "[Pearl]"}, {"count": 17, "chord": "Em                      B7", "lyrics": "Yes, but put your whole body into it!"}, {"count": 18, "chord": "Em                   Dm             C", "lyrics": "Everything you have, everything you are,"}, {"count": 19, "chord": "                   B7", "lyrics": "You've got to give"}, {"count": 20, "chord": "       E7", "lyrics": "On the battlefield."}, {"count": 21, "chord": "                   Am", "lyrics": "When everything is chaos."}, {"count": 22, "chord": "                             E7                                Am", "lyrics": "And you have nothing but the way you feel, your strategy and a sword."}, {"count": 23, "chord": "                         G                                   C    A7", "lyrics": "You just think about the life you'll have together after the war!"}, {"count": 24, "chord": "                       Dm   G", "lyrics": "And then you do it for her,"}, {"count": 25, "chord": "                            Em   A", "lyrics": "That's how you know you can win."}, {"count": 26, "chord": "              Dm              G", "lyrics": "You do it for her, that is to say,"}, {"count": 27, "chord": "                 C", "lyrics": "You'll do it for him."}, {"count": 28, "chord": "Dm        Am", "lyrics": "Deep down you know,"}, {"count": 29, "chord": "Dm          Am", "lyrics": "You weren't built for fighting."}, {"count": 30, "chord": "Dm       G", "lyrics": "But that doesn't mean"}, {"count": 31, "chord": "       C      B7       Em", "lyrics": "You're not prepared to try."}, {"count": 32, "chord": "          B7", "lyrics": "What they don't know"}, {"count": 33, "chord": "Em      B7", "lyrics": "Is your real advantage,"}, {"count": 34, "chord": "Em       Dm", "lyrics": "When you live for someone"}, {"count": 35, "chord": "C         Em       Dm", "lyrics": "You're prepared to die"}, {"label": "[Connie]"}, {"count": 36, "chord": "Am", "lyrics": "Deep down I know"}, {"count": 37, "chord": "Dm       Am            Dm", "lyrics": "That I'm just a human. (True)"}, {"count": 38, "chord": "      G               C       B7        Em", "lyrics": "But I know that I can draw my sword and fight!"}, {"count": 39, "chord": "        B7               Em", "lyrics": "With my short existence, (Good)"}, {"count": 40, "chord": "      B7                 Em", "lyrics": "I can make a difference. (Yes, excellent!)"}, {"count": 41, "chord": "      Dm", "lyrics": "I can be there for him."}, {"count": 42, "chord": "C     Em             Dm", "lyrics": "I can be his knight."}, {"count": 43, "chord": "G               C", "lyrics": "I can do it for him."}, {"label": "[Both]"}, {"count": 44, "chord": "C7              Dm", "lyrics": "You'd do it for her."}, {"label": "[Pearl]"}, {"count": 45, "chord": "      G                  C", "lyrics": "Okay, now do that again. (Yes, ma'am.)"}, {"count": 46, "chord": "Cmaj7         Dm               G", "lyrics": "You do it for her, and now you say:"}, {"label": "[Connie]"}, {"count": 47, "chord": "             Cmaj7", "lyrics": "I'll do it for him."}], "id": "Do It For Her - Steven Universe", "title": "Do It For Her"}
+{
+  "allChords": [
+    "Dm", 
+    "G", 
+    "C", 
+    "Cmaj7", 
+    "Am", 
+    "B7", 
+    "Em", 
+    "E7", 
+    "A7", 
+    "A", 
+    "C7"
+  ], 
+  "artist": "Steven Universe", 
+  "id": "Do It For Her - Steven Universe", 
+  "lines": [
+    {
+      "chord": "              Dm   G", 
+      "lyrics": "You do it for him."
+    }, 
+    {
+      "chord": "                     C     Cmaj7", 
+      "lyrics": "And you would do it again."
+    }, 
+    {
+      "chord": "              Dm              G", 
+      "lyrics": "You do it for her, that is to say,"
+    }, 
+    {
+      "chord": "                 C", 
+      "lyrics": "You'll do it for him."
+    }, 
+    {
+      "chord": "Dm        Am", 
+      "lyrics": "Keep your stance wide."
+    }, 
+    {
+      "chord": "Dm        Am", 
+      "lyrics": "Keep your body lowered."
+    }, 
+    {
+      "chord": "Dm        G", 
+      "lyrics": "As you're moving forward,"
+    }, 
+    {
+      "chord": "C       B7     Em", 
+      "lyrics": "Balance is the key."
+    }, 
+    {
+      "chord": "            B7", 
+      "lyrics": "Right foot. Left foot."
+    }, 
+    {
+      "chord": "Em     B7", 
+      "lyrics": "Now go even faster."
+    }, 
+    {
+      "chord": "Em            Dm", 
+      "lyrics": "And as you're moving backwards,"
+    }, 
+    {
+      "chord": "C         Em      Dm", 
+      "lyrics": "Keep your eyes on me."
+    }, 
+    {
+      "label": "[Connie]"
+    }, 
+    {
+      "chord": "        Am           Dm", 
+      "lyrics": "Keep my stance wide. (Good)"
+    }, 
+    {
+      "chord": "        Am            Dm", 
+      "lyrics": "Keep my body lowered. (Right)"
+    }, 
+    {
+      "chord": "         G", 
+      "lyrics": "As I'm moving forward..."
+    }, 
+    {
+      "label": "[Pearl]"
+    }, 
+    {
+      "chord": "C            B7                    Em", 
+      "lyrics": "Concentrate! Don't you want him to live!?"
+    }, 
+    {
+      "label": "[Connie]"
+    }, 
+    {
+      "chord": "B7", 
+      "lyrics": "Right foot; Left foot"
+    }, 
+    {
+      "label": "[Pearl]"
+    }, 
+    {
+      "chord": "Em                      B7", 
+      "lyrics": "Yes, but put your whole body into it!"
+    }, 
+    {
+      "chord": "Em                   Dm             C", 
+      "lyrics": "Everything you have, everything you are,"
+    }, 
+    {
+      "chord": "                   B7", 
+      "lyrics": "You've got to give"
+    }, 
+    {
+      "chord": "       E7", 
+      "lyrics": "On the battlefield."
+    }, 
+    {
+      "chord": "                   Am", 
+      "lyrics": "When everything is chaos."
+    }, 
+    {
+      "chord": "                             E7                                Am", 
+      "lyrics": "And you have nothing but the way you feel, your strategy and a sword."
+    }, 
+    {
+      "chord": "                         G                                   C    A7", 
+      "lyrics": "You just think about the life you'll have together after the war!"
+    }, 
+    {
+      "chord": "                       Dm   G", 
+      "lyrics": "And then you do it for her,"
+    }, 
+    {
+      "chord": "                            Em   A", 
+      "lyrics": "That's how you know you can win."
+    }, 
+    {
+      "chord": "              Dm              G", 
+      "lyrics": "You do it for her, that is to say,"
+    }, 
+    {
+      "chord": "                 C", 
+      "lyrics": "You'll do it for him."
+    }, 
+    {
+      "chord": "Dm        Am", 
+      "lyrics": "Deep down you know,"
+    }, 
+    {
+      "chord": "Dm          Am", 
+      "lyrics": "You weren't built for fighting."
+    }, 
+    {
+      "chord": "Dm       G", 
+      "lyrics": "But that doesn't mean"
+    }, 
+    {
+      "chord": "       C      B7       Em", 
+      "lyrics": "You're not prepared to try."
+    }, 
+    {
+      "chord": "          B7", 
+      "lyrics": "What they don't know"
+    }, 
+    {
+      "chord": "Em      B7", 
+      "lyrics": "Is your real advantage,"
+    }, 
+    {
+      "chord": "Em       Dm", 
+      "lyrics": "When you live for someone"
+    }, 
+    {
+      "chord": "C         Em       Dm", 
+      "lyrics": "You're prepared to die"
+    }, 
+    {
+      "label": "[Connie]"
+    }, 
+    {
+      "chord": "Am", 
+      "lyrics": "Deep down I know"
+    }, 
+    {
+      "chord": "Dm       Am            Dm", 
+      "lyrics": "That I'm just a human. (True)"
+    }, 
+    {
+      "chord": "      G               C       B7        Em", 
+      "lyrics": "But I know that I can draw my sword and fight!"
+    }, 
+    {
+      "chord": "        B7               Em", 
+      "lyrics": "With my short existence, (Good)"
+    }, 
+    {
+      "chord": "      B7                 Em", 
+      "lyrics": "I can make a difference. (Yes, excellent!)"
+    }, 
+    {
+      "chord": "      Dm", 
+      "lyrics": "I can be there for him."
+    }, 
+    {
+      "chord": "C     Em             Dm", 
+      "lyrics": "I can be his knight."
+    }, 
+    {
+      "chord": "G               C", 
+      "lyrics": "I can do it for him."
+    }, 
+    {
+      "label": "[Both]"
+    }, 
+    {
+      "chord": "C7              Dm", 
+      "lyrics": "You'd do it for her."
+    }, 
+    {
+      "label": "[Pearl]"
+    }, 
+    {
+      "chord": "      G                  C", 
+      "lyrics": "Okay, now do that again. (Yes, ma'am.)"
+    }, 
+    {
+      "chord": "Cmaj7         Dm               G", 
+      "lyrics": "You do it for her, and now you say:"
+    }, 
+    {
+      "label": "[Connie]"
+    }, 
+    {
+      "chord": "             Cmaj7", 
+      "lyrics": "I'll do it for him."
+    }
+  ], 
+  "title": "Do It For Her"
+}

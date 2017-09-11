@@ -1,1 +1,213 @@
-{"allChords": ["A#", "B", "C#", "Fm7", "D#", "A#m", "C#m", "D#sus4", "C#add9", "G#", "A#sus4", "Cm7", "Fm"], "artist": "Disney", "lines": [{"label": "[Verse]"}, {"count": 0, "chord": "    Fm                      C#", "lyrics": "The snow glows white on the mountain tonight"}, {"count": 1, "chord": "      D#               A#sus4   A#m", "lyrics": "Not a footprint to be seen"}, {"count": 2, "chord": "  Fm            C#", "lyrics": "A kingdom of isolation"}, {"count": 3, "chord": "       D#                  A#sus4    A#", "lyrics": "And it looks like I'm the queen"}, {"count": 4, "chord": "              Fm          C#                 D#              A#sus4    A#m", "lyrics": "The wind is howling like this swirling storm inside"}, {"count": 5, "chord": "Fm               D#                     A#", "lyrics": "Couldn't keep it in, heaven knows I've tried"}, {"label": "[Pre-Chorus]"}, {"count": 6, "chord": "D#                                 C#", "lyrics": "Don't let them in, don't let them see"}, {"count": 7, "chord": "                                    D#", "lyrics": "Be the good girl you always have to be"}, {"count": 8, "chord": "                                    C#", "lyrics": "Conceal, don't feel, don't let them know"}, {"count": 9, "chord": "               C#", "lyrics": "Well, now they know"}, {"label": "[Chorus]"}, {"count": 10, "chord": "       G#          D#sus4", "lyrics": "Let it go, let it go"}, {"count": 11, "chord": "      Fm7             C#add9", "lyrics": "Can't hold it back anymore"}, {"count": 12, "chord": "          G#          D#sus4", "lyrics": "Let it go, let it go"}, {"count": 13, "chord": "      Fm7              C#add9", "lyrics": "Turn away and slam the door"}, {"count": 14, "chord": "G#       D#sus4          Fm7      C#add9", "lyrics": "I don't care what they're going to say"}, {"count": 15, "chord": "        Cm7         B", "lyrics": "Let the storm rage on"}, {"count": 16, "chord": "    C#", "lyrics": "The cold never bothered me anyway"}, {"label": "[Instrumental]"}, {"count": 17, "chord": "G#   D#sus4", "lyrics": "[Verse]"}, {"label": "[Verse]"}, {"count": 18, "chord": "   Fm                    C#              D#               A#m", "lyrics": "It's funny how some distance makes everything seem small"}, {"count": 19, "chord": "        Fm              D#                   A#sus4         A#", "lyrics": "And the fears that once controlled me can't get to me at all"}, {"label": "[Pre-Chorus]"}, {"count": 20, "chord": "D#                            C#add9", "lyrics": "It's time to see what I can do"}, {"count": 21, "chord": "                             D#", "lyrics": "To test the limits and break through"}, {"count": 22, "chord": "                                 C#add9", "lyrics": "No right, no wrong, no rules for me"}, {"count": 23, "chord": "    C#", "lyrics": "I'm free..."}, {"label": "[Chorus]"}, {"count": 24, "chord": "       G#          D#sus4", "lyrics": "Let it go, let it go"}, {"count": 25, "chord": "      Fm7             C#add9", "lyrics": "I am one with the wind and sky"}, {"count": 26, "chord": "          G#          D#sus4", "lyrics": "Let it go, let it go"}, {"count": 27, "chord": "      Fm7              C#add9", "lyrics": "You'll never see me cry"}, {"count": 28, "chord": "G#       D#sus4          Fm7      C#add9", "lyrics": "Here I stand and here I'll stay"}, {"count": 29, "chord": "        Cm7         B      C#", "lyrics": "Let the storm rage on"}, {"label": "[Bridge]"}, {"count": 30, "chord": "C#", "lyrics": "My power flurries through the air into the ground"}, {"count": 31, "chord": "C#", "lyrics": "My soul is spiraling in frozen fractals all around"}, {"count": 32, "chord": "D#", "lyrics": "And one thought crystallizes like an icy blast"}, {"count": 33, "chord": "Fm        C#              D#               A#m     C#", "lyrics": "I'm never going back, the past is in the past"}, {"label": "[Chorus]"}, {"count": 34, "chord": "       G#          D#sus4", "lyrics": "Let it go, let it go"}, {"count": 35, "chord": "      Fm7             C#add9", "lyrics": "And I'll rise like the break of dawn"}, {"count": 36, "chord": "          G#          D#sus4", "lyrics": "Let it go, let it go"}, {"count": 37, "chord": "      Fm7              C#add9", "lyrics": "That perfect girl is gone"}, {"count": 38, "chord": "G#      D#sus4     Fm7      C#add9    C#m", "lyrics": "Here I stand in the light of day"}, {"count": 39, "chord": "        Cm7         B      C#", "lyrics": "Let the storm rage on"}, {"count": 40, "chord": "    C#", "lyrics": "The cold never bothered me anyway"}], "id": "Let It Go - Disney", "title": "Let It Go"}
+{
+  "allChords": [
+    "Fm", 
+    "C#", 
+    "D#", 
+    "A#sus4", 
+    "A#m", 
+    "A#", 
+    "G#", 
+    "D#sus4", 
+    "Fm7", 
+    "C#add9", 
+    "Cm7", 
+    "B", 
+    "C#m"
+  ], 
+  "artist": "Disney", 
+  "id": "Let It Go - Disney", 
+  "lines": [
+    {
+      "label": "[Verse]"
+    }, 
+    {
+      "chord": "    Fm                      C#", 
+      "lyrics": "The snow glows white on the mountain tonight"
+    }, 
+    {
+      "chord": "      D#               A#sus4   A#m", 
+      "lyrics": "Not a footprint to be seen"
+    }, 
+    {
+      "chord": "  Fm            C#", 
+      "lyrics": "A kingdom of isolation"
+    }, 
+    {
+      "chord": "       D#                  A#sus4    A#", 
+      "lyrics": "And it looks like I'm the queen"
+    }, 
+    {
+      "chord": "              Fm          C#                 D#              A#sus4    A#m", 
+      "lyrics": "The wind is howling like this swirling storm inside"
+    }, 
+    {
+      "chord": "Fm               D#                     A#", 
+      "lyrics": "Couldn't keep it in, heaven knows I've tried"
+    }, 
+    {
+      "label": "[Pre-Chorus]"
+    }, 
+    {
+      "chord": "D#                                 C#", 
+      "lyrics": "Don't let them in, don't let them see"
+    }, 
+    {
+      "chord": "                                    D#", 
+      "lyrics": "Be the good girl you always have to be"
+    }, 
+    {
+      "chord": "                                    C#", 
+      "lyrics": "Conceal, don't feel, don't let them know"
+    }, 
+    {
+      "chord": "               C#", 
+      "lyrics": "Well, now they know"
+    }, 
+    {
+      "label": "[Chorus]"
+    }, 
+    {
+      "chord": "       G#          D#sus4", 
+      "lyrics": "Let it go, let it go"
+    }, 
+    {
+      "chord": "      Fm7             C#add9", 
+      "lyrics": "Can't hold it back anymore"
+    }, 
+    {
+      "chord": "          G#          D#sus4", 
+      "lyrics": "Let it go, let it go"
+    }, 
+    {
+      "chord": "      Fm7              C#add9", 
+      "lyrics": "Turn away and slam the door"
+    }, 
+    {
+      "chord": "G#       D#sus4          Fm7      C#add9", 
+      "lyrics": "I don't care what they're going to say"
+    }, 
+    {
+      "chord": "        Cm7         B", 
+      "lyrics": "Let the storm rage on"
+    }, 
+    {
+      "chord": "    C#", 
+      "lyrics": "The cold never bothered me anyway"
+    }, 
+    {
+      "label": "[Instrumental]"
+    }, 
+    {
+      "chord": "G#   D#sus4", 
+      "lyrics": ""
+    }, 
+    {
+      "label": "[Verse]"
+    }, 
+    {
+      "chord": "   Fm                    C#              D#               A#m", 
+      "lyrics": "It's funny how some distance makes everything seem small"
+    }, 
+    {
+      "chord": "        Fm              D#                   A#sus4         A#", 
+      "lyrics": "And the fears that once controlled me can't get to me at all"
+    }, 
+    {
+      "label": "[Pre-Chorus]"
+    }, 
+    {
+      "chord": "D#                            C#add9", 
+      "lyrics": "It's time to see what I can do"
+    }, 
+    {
+      "chord": "                             D#", 
+      "lyrics": "To test the limits and break through"
+    }, 
+    {
+      "chord": "                                 C#add9", 
+      "lyrics": "No right, no wrong, no rules for me"
+    }, 
+    {
+      "chord": "    C#", 
+      "lyrics": "I'm free..."
+    }, 
+    {
+      "label": "[Chorus]"
+    }, 
+    {
+      "chord": "       G#          D#sus4", 
+      "lyrics": "Let it go, let it go"
+    }, 
+    {
+      "chord": "      Fm7             C#add9", 
+      "lyrics": "I am one with the wind and sky"
+    }, 
+    {
+      "chord": "          G#          D#sus4", 
+      "lyrics": "Let it go, let it go"
+    }, 
+    {
+      "chord": "      Fm7              C#add9", 
+      "lyrics": "You'll never see me cry"
+    }, 
+    {
+      "chord": "G#       D#sus4          Fm7      C#add9", 
+      "lyrics": "Here I stand and here I'll stay"
+    }, 
+    {
+      "chord": "        Cm7         B      C#", 
+      "lyrics": "Let the storm rage on"
+    }, 
+    {
+      "label": "[Bridge]"
+    }, 
+    {
+      "chord": "C#", 
+      "lyrics": "My power flurries through the air into the ground"
+    }, 
+    {
+      "chord": "C#", 
+      "lyrics": "My soul is spiraling in frozen fractals all around"
+    }, 
+    {
+      "chord": "D#", 
+      "lyrics": "And one thought crystallizes like an icy blast"
+    }, 
+    {
+      "chord": "Fm        C#              D#               A#m     C#", 
+      "lyrics": "I'm never going back, the past is in the past"
+    }, 
+    {
+      "label": "[Chorus]"
+    }, 
+    {
+      "chord": "       G#          D#sus4", 
+      "lyrics": "Let it go, let it go"
+    }, 
+    {
+      "chord": "      Fm7             C#add9", 
+      "lyrics": "And I'll rise like the break of dawn"
+    }, 
+    {
+      "chord": "          G#          D#sus4", 
+      "lyrics": "Let it go, let it go"
+    }, 
+    {
+      "chord": "      Fm7              C#add9", 
+      "lyrics": "That perfect girl is gone"
+    }, 
+    {
+      "chord": "G#      D#sus4     Fm7      C#add9    C#m", 
+      "lyrics": "Here I stand in the light of day"
+    }, 
+    {
+      "chord": "        Cm7         B      C#", 
+      "lyrics": "Let the storm rage on"
+    }, 
+    {
+      "chord": "    C#", 
+      "lyrics": "The cold never bothered me anyway"
+    }
+  ], 
+  "title": "Let It Go"
+}

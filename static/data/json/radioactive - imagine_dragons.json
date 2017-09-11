@@ -1,1 +1,163 @@
-{"allChords": ["C", "Am", "D", "G"], "artist": "Imagine Dragons", "lines": [{"label": "[Verse 1]"}, {"count": 0, "chord": "Am          C            G", "lyrics": "I'm waking up to ash and dust"}, {"count": 1, "chord": "          D                    Am", "lyrics": "I wipe my brow and I sweat my rust"}, {"count": 2, "chord": "             C               G    D", "lyrics": "I'm breathing in the chemicals"}, {"count": 3, "chord": "Am          C            G                 D", "lyrics": "I'm breaking in, shaping up, then checking out on the prison bus"}, {"count": 4, "chord": "Am        C              G", "lyrics": "This is it, the apocalypse"}, {"count": 5, "chord": "D", "lyrics": "Whoa"}, {"label": "[Chorus 1]"}, {"count": 6, "chord": "D              Am             C", "lyrics": "I'm waking up, I feel it in my bones"}, {"count": 7, "chord": "G                  D", "lyrics": "Enough to make my systems blow"}, {"count": 8, "chord": "Am                     C", "lyrics": "Welcome to the new age, to the new age"}, {"count": 9, "chord": "G                      D", "lyrics": "Welcome to the new age, to the new age"}, {"count": 10, "chord": "Am     C         G            D", "lyrics": "  Whoa, whoa, I'm radioactive, radioactive"}, {"count": 11, "chord": "Am     C         G            D", "lyrics": "  Whoa, whoa, I'm radioactive, radioactive"}, {"label": "[Verse 2]"}, {"count": 12, "chord": "Am           C            G", "lyrics": "I raise my flags, don my clothes"}, {"count": 13, "chord": "          D                    Am", "lyrics": "It's a revolution, I suppose"}, {"count": 14, "chord": "              C                  G", "lyrics": "We're painted red to fit right in"}, {"count": 15, "chord": "D", "lyrics": "Whoa"}, {"count": 16, "chord": "Am          C            G                 D", "lyrics": "I'm breaking in, shaping up, then checking out on the prison bus"}, {"count": 17, "chord": "Am        C              G", "lyrics": "This is it, the apocalypse"}, {"count": 18, "chord": "D", "lyrics": "Whoa"}, {"label": "[Chorus 2]"}, {"count": 19, "chord": "D              Am           C", "lyrics": "I'm waking up, I feel it in my bones"}, {"count": 20, "chord": "G                  D", "lyrics": "Enough to make my systems blow"}, {"count": 21, "chord": "Am                     C", "lyrics": "Welcome to the new age, to the new age"}, {"count": 22, "chord": "G                      D", "lyrics": "Welcome to the new age, to the new age"}, {"count": 23, "chord": "Am     C         G            D", "lyrics": "  Whoa, whoa, I'm radioactive, radioactive"}, {"count": 24, "chord": "Am     C         G            D", "lyrics": "  Whoa, whoa, I'm radioactive, radioactive"}, {"label": "[Bridge]"}, {"count": 25, "chord": "Am          C   G           D", "lyrics": "All systems go, sun hasn't died"}, {"count": 26, "chord": "Am          C     G             D", "lyrics": "Deep in my bones, straight from inside"}, {"label": "[Chorus 3]"}, {"count": 27, "chord": "D              Am             C", "lyrics": "I'm waking up, I feel it in my bones"}, {"count": 28, "chord": "G                  D", "lyrics": "Enough to make my systems blow"}, {"count": 29, "chord": "Am                     C", "lyrics": "Welcome to the new age, to the new age"}, {"count": 30, "chord": "G                      D", "lyrics": "Welcome to the new age, to the new age"}, {"count": 31, "chord": "Am     C         G            D", "lyrics": "  Whoa, whoa, I'm radioactive, radioactive"}, {"count": 32, "chord": "Am     C         G            D", "lyrics": "  Whoa, whoa, I'm radioactive, radioactive"}], "id": "Radioactive - Imagine Dragons", "title": "Radioactive"}
+{
+  "allChords": [
+    "Am", 
+    "C", 
+    "G", 
+    "D"
+  ], 
+  "artist": "Imagine Dragons", 
+  "id": "Radioactive - Imagine Dragons", 
+  "lines": [
+    {
+      "label": "[Verse 1]"
+    }, 
+    {
+      "chord": "Am          C            G", 
+      "lyrics": "I'm waking up to ash and dust"
+    }, 
+    {
+      "chord": "          D                    Am", 
+      "lyrics": "I wipe my brow and I sweat my rust"
+    }, 
+    {
+      "chord": "             C               G    D", 
+      "lyrics": "I'm breathing in the chemicals"
+    }, 
+    {
+      "chord": "Am          C            G                 D", 
+      "lyrics": "I'm breaking in, shaping up, then checking out on the prison bus"
+    }, 
+    {
+      "chord": "Am        C              G", 
+      "lyrics": "This is it, the apocalypse"
+    }, 
+    {
+      "chord": "D", 
+      "lyrics": "Whoa"
+    }, 
+    {
+      "label": "[Chorus 1]"
+    }, 
+    {
+      "chord": "D              Am             C", 
+      "lyrics": "I'm waking up, I feel it in my bones"
+    }, 
+    {
+      "chord": "G                  D", 
+      "lyrics": "Enough to make my systems blow"
+    }, 
+    {
+      "chord": "Am                     C", 
+      "lyrics": "Welcome to the new age, to the new age"
+    }, 
+    {
+      "chord": "G                      D", 
+      "lyrics": "Welcome to the new age, to the new age"
+    }, 
+    {
+      "chord": "Am     C         G            D", 
+      "lyrics": "  Whoa, whoa, I'm radioactive, radioactive"
+    }, 
+    {
+      "chord": "Am     C         G            D", 
+      "lyrics": "  Whoa, whoa, I'm radioactive, radioactive"
+    }, 
+    {
+      "label": "[Verse 2]"
+    }, 
+    {
+      "chord": "Am           C            G", 
+      "lyrics": "I raise my flags, don my clothes"
+    }, 
+    {
+      "chord": "          D                    Am", 
+      "lyrics": "It's a revolution, I suppose"
+    }, 
+    {
+      "chord": "              C                  G", 
+      "lyrics": "We're painted red to fit right in"
+    }, 
+    {
+      "chord": "D", 
+      "lyrics": "Whoa"
+    }, 
+    {
+      "chord": "Am          C            G                 D", 
+      "lyrics": "I'm breaking in, shaping up, then checking out on the prison bus"
+    }, 
+    {
+      "chord": "Am        C              G", 
+      "lyrics": "This is it, the apocalypse"
+    }, 
+    {
+      "chord": "D", 
+      "lyrics": "Whoa"
+    }, 
+    {
+      "label": "[Chorus 2]"
+    }, 
+    {
+      "chord": "D              Am           C", 
+      "lyrics": "I'm waking up, I feel it in my bones"
+    }, 
+    {
+      "chord": "G                  D", 
+      "lyrics": "Enough to make my systems blow"
+    }, 
+    {
+      "chord": "Am                     C", 
+      "lyrics": "Welcome to the new age, to the new age"
+    }, 
+    {
+      "chord": "G                      D", 
+      "lyrics": "Welcome to the new age, to the new age"
+    }, 
+    {
+      "chord": "Am     C         G            D", 
+      "lyrics": "  Whoa, whoa, I'm radioactive, radioactive"
+    }, 
+    {
+      "chord": "Am     C         G            D", 
+      "lyrics": "  Whoa, whoa, I'm radioactive, radioactive"
+    }, 
+    {
+      "label": "[Bridge]"
+    }, 
+    {
+      "chord": "Am          C   G           D", 
+      "lyrics": "All systems go, sun hasn't died"
+    }, 
+    {
+      "chord": "Am          C     G             D", 
+      "lyrics": "Deep in my bones, straight from inside"
+    }, 
+    {
+      "label": "[Chorus 3]"
+    }, 
+    {
+      "chord": "D              Am             C", 
+      "lyrics": "I'm waking up, I feel it in my bones"
+    }, 
+    {
+      "chord": "G                  D", 
+      "lyrics": "Enough to make my systems blow"
+    }, 
+    {
+      "chord": "Am                     C", 
+      "lyrics": "Welcome to the new age, to the new age"
+    }, 
+    {
+      "chord": "G                      D", 
+      "lyrics": "Welcome to the new age, to the new age"
+    }, 
+    {
+      "chord": "Am     C         G            D", 
+      "lyrics": "  Whoa, whoa, I'm radioactive, radioactive"
+    }, 
+    {
+      "chord": "Am     C         G            D", 
+      "lyrics": "  Whoa, whoa, I'm radioactive, radioactive"
+    }
+  ], 
+  "title": "Radioactive"
+}

@@ -1,1 +1,89 @@
-{"allChords": ["Em", "C", "D", "G", "Am", "B7", "Cmaj7", "Am7"], "artist": "Steven Universe", "lines": [{"count": 0, "chord": "G", "lyrics": "I can't help it if I make a scene,"}, {"count": 1, "chord": "D                                Am", "lyrics": "Stepping out of my hot pink limousine."}, {"count": 2, "chord": "Am", "lyrics": "I'm turning heads and I'm stopping traffic,"}, {"count": 3, "chord": "       D", "lyrics": "When I pose, they scream and when I joke, they laugh."}, {"count": 4, "chord": "           G", "lyrics": "I've got a pair of eyes that they're getting lost in,"}, {"count": 5, "chord": "D", "lyrics": "They're hypnotized by my way of walking,"}, {"count": 6, "chord": "Am", "lyrics": "I've got them dazzled like a stage magician,"}, {"count": 7, "chord": "       D", "lyrics": "When I point, they look, and when I talk, they listen."}, {"count": 8, "chord": "      Em                C", "lyrics": "Well, everybody needs a friend,"}, {"count": 9, "chord": "                          D", "lyrics": "And I got you and you and you."}, {"count": 10, "chord": "                      G", "lyrics": "So many, I can't even name them,"}, {"count": 11, "chord": "        D                 Am7", "lyrics": "Can you blame me, I'm too famous."}, {"count": 12, "chord": "            G        D     Cmaj7", "lyrics": "Haven't you noticed? I'm a star."}, {"count": 13, "chord": "                G           D        Cmaj7", "lyrics": "I'm coming into view as the world is turning."}, {"count": 14, "chord": "            G            D            Cmaj7", "lyrics": "Haven't you noticed I've made it this far?"}, {"count": 15, "chord": "     G            D      Cmaj7", "lyrics": "Now, everyone can see me burning"}, {"count": 16, "chord": "     G            D      Cmaj7", "lyrics": "Now, everyone can see me burning"}, {"count": 17, "chord": "     G            B7     Em", "lyrics": "Now, everyone can see me burning"}], "id": "Haven't You Noticed I'm a Star - Steven Universe", "title": "Haven't You Noticed I'm a Star"}
+{
+  "allChords": [
+    "G", 
+    "D", 
+    "Am", 
+    "Em", 
+    "C", 
+    "Am7", 
+    "Cmaj7", 
+    "B7"
+  ], 
+  "artist": "Steven Universe", 
+  "id": "Haven't You Noticed I'm a Star - Steven Universe", 
+  "lines": [
+    {
+      "chord": "G", 
+      "lyrics": "I can't help it if I make a scene,"
+    }, 
+    {
+      "chord": "D                                Am", 
+      "lyrics": "Stepping out of my hot pink limousine."
+    }, 
+    {
+      "chord": "Am", 
+      "lyrics": "I'm turning heads and I'm stopping traffic,"
+    }, 
+    {
+      "chord": "       D", 
+      "lyrics": "When I pose, they scream and when I joke, they laugh."
+    }, 
+    {
+      "chord": "           G", 
+      "lyrics": "I've got a pair of eyes that they're getting lost in,"
+    }, 
+    {
+      "chord": "D", 
+      "lyrics": "They're hypnotized by my way of walking,"
+    }, 
+    {
+      "chord": "Am", 
+      "lyrics": "I've got them dazzled like a stage magician,"
+    }, 
+    {
+      "chord": "       D", 
+      "lyrics": "When I point, they look, and when I talk, they listen."
+    }, 
+    {
+      "chord": "      Em                C", 
+      "lyrics": "Well, everybody needs a friend,"
+    }, 
+    {
+      "chord": "                          D", 
+      "lyrics": "And I got you and you and you."
+    }, 
+    {
+      "chord": "                      G", 
+      "lyrics": "So many, I can't even name them,"
+    }, 
+    {
+      "chord": "        D                 Am7", 
+      "lyrics": "Can you blame me, I'm too famous."
+    }, 
+    {
+      "chord": "            G        D     Cmaj7", 
+      "lyrics": "Haven't you noticed? I'm a star."
+    }, 
+    {
+      "chord": "                G           D        Cmaj7", 
+      "lyrics": "I'm coming into view as the world is turning."
+    }, 
+    {
+      "chord": "            G            D            Cmaj7", 
+      "lyrics": "Haven't you noticed I've made it this far?"
+    }, 
+    {
+      "chord": "     G            D      Cmaj7", 
+      "lyrics": "Now, everyone can see me burning"
+    }, 
+    {
+      "chord": "     G            D      Cmaj7", 
+      "lyrics": "Now, everyone can see me burning"
+    }, 
+    {
+      "chord": "     G            B7     Em", 
+      "lyrics": "Now, everyone can see me burning"
+    }
+  ], 
+  "title": "Haven't You Noticed I'm a Star"
+}

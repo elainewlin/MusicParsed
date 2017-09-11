@@ -1,1 +1,259 @@
-{"allChords": ["G7", "Em", "C", "Gsus4", "D", "G", "F", "Fm7", "F7", "Bb", "Am", "Eb", "Ab", "Esus4", "Cm", "Dm7", "Bb7", "D7", "E7", "Gm", "Bbsus4"], "artist": "Disney", "lines": [{"label": "[Rapunzel]"}, {"count": 0, "chord": "C", "lyrics": "All those days"}, {"count": 1, "chord": "G7/C                 C", "lyrics": "Watching from the windows"}, {"count": 2, "chord": "C", "lyrics": "All those years"}, {"count": 3, "chord": "G7/C               C", "lyrics": "Outside looking in"}, {"count": 4, "chord": "F", "lyrics": "All that time"}, {"count": 5, "chord": "C          F   G", "lyrics": "Never even knowing"}, {"count": 6, "chord": "C        D         G7", "lyrics": "Just how blind I've been"}, {"count": 7, "chord": "C", "lyrics": "Now I'm here"}, {"count": 8, "chord": "G7/C               C", "lyrics": "Blinking in the starlight"}, {"count": 9, "chord": "C", "lyrics": "Now I'm here"}, {"count": 10, "chord": "G7/C          C", "lyrics": "Suddenly I see"}, {"count": 11, "chord": "F", "lyrics": "Standing here"}, {"count": 12, "chord": "     Em", "lyrics": "It's oh, so clear"}, {"count": 13, "chord": "    Am        D7      Gsus4", "lyrics": "I'm where I'm meant to be"}, {"count": 14, "chord": "       F               C", "lyrics": "And at last, I see the light"}, {"count": 15, "chord": "         Gsus4    Dm7/G      C", "lyrics": "And it's like the fog has lifted"}, {"count": 16, "chord": "       F               C", "lyrics": "And at last, I see the light"}, {"count": 17, "chord": "         Esus4   E7    Am", "lyrics": "And it's like the sky is new"}, {"count": 18, "chord": "         F                 C", "lyrics": "And it's warm and real and bright"}, {"count": 19, "chord": "        Em                F", "lyrics": "And the world has somehow shifted"}, {"count": 20, "chord": "C", "lyrics": "All at once"}, {"count": 21, "chord": "G7/C              C", "lyrics": "Everything looks different"}, {"count": 22, "chord": "F        G     C", "lyrics": "Now that I see you"}, {"count": 23, "chord": "C G7/C C", "lyrics": "C G7/C C"}, {"count": 24, "chord": "C G7/C C", "lyrics": "F C F G"}, {"count": 25, "chord": "F C F G", "lyrics": "C F Gsus4 G"}, {"count": 26, "chord": "C F Gsus4 G", "lyrics": "Ab"}, {"count": 27, "chord": "Ab", "lyrics": ""}, {"label": "[Flynn]"}, {"count": 28, "chord": "Eb", "lyrics": "All those days"}, {"count": 29, "chord": "Bb7/Eb             Eb", "lyrics": "Chasing down a daydream"}, {"count": 30, "chord": "Eb", "lyrics": "All those years"}, {"count": 31, "chord": "Bb7/Eb      Eb", "lyrics": "Living in a blur"}, {"count": 32, "chord": "Ab", "lyrics": "All that time"}, {"count": 33, "chord": "Eb          Ab Bb", "lyrics": "Never truly seeing"}, {"count": 34, "chord": "Eb         F         Bb7", "lyrics": "Things the way they were"}, {"count": 35, "chord": "Eb", "lyrics": "Now she's here"}, {"count": 36, "chord": "Bb             Eb", "lyrics": "Shining in the starlight"}, {"count": 37, "chord": "Eb", "lyrics": "Now she's here"}, {"count": 38, "chord": "Bb         Eb", "lyrics": "Suddenly I know"}, {"count": 39, "chord": "Ab", "lyrics": "If she's here"}, {"count": 40, "chord": "     Gm", "lyrics": "It's crystal clear"}, {"count": 41, "chord": "    Cm       F7        Bbsus4", "lyrics": "I'm where I'm meant to go"}, {"label": "[Flynn/Rapunzel]"}, {"count": 42, "chord": "       Ab              Eb", "lyrics": "And at last, I see the light"}, {"label": "[Flynn]"}, {"count": 43, "chord": "         Bbsus4   Fm7/Bb     Eb", "lyrics": "And it's like the fog has lifted"}, {"label": "[Flynn/Rapunzel]"}, {"count": 44, "chord": "       Ab              Eb", "lyrics": "And at last, I see the light"}, {"label": "[Rapunzel]"}, {"count": 45, "chord": "         Gsus4    G7     Cm", "lyrics": "And it's like the sky is new"}, {"label": "[Flynn/Rapunzel]"}, {"count": 46, "chord": "         Ab                Eb", "lyrics": "And it's warm and real and bright"}, {"count": 47, "chord": "        Gm                Ab", "lyrics": "And the world has somehow shifted"}, {"count": 48, "chord": "Eb", "lyrics": "All at once"}, {"count": 49, "chord": "Bb7/Eb            Eb", "lyrics": "Everything is different"}, {"count": 50, "chord": "Ab       Bb    Eb", "lyrics": "Now that I see you"}, {"count": 51, "chord": "Ab       Bb    Eb", "lyrics": "Now that I see you.."}], "id": "I See the Light - Disney", "title": "I See the Light"}
+{
+  "allChords": [
+    "C", 
+    "G7", 
+    "F", 
+    "G", 
+    "D", 
+    "Em", 
+    "Am", 
+    "D7", 
+    "Gsus4", 
+    "Dm7", 
+    "Esus4", 
+    "E7", 
+    "Ab", 
+    "Eb", 
+    "Bb7", 
+    "Bb", 
+    "Gm", 
+    "Cm", 
+    "F7", 
+    "Bbsus4", 
+    "Fm7"
+  ], 
+  "artist": "Disney", 
+  "id": "I See the Light - Disney", 
+  "lines": [
+    {
+      "label": "[Rapunzel]"
+    }, 
+    {
+      "chord": "C", 
+      "lyrics": "All those days"
+    }, 
+    {
+      "chord": "G7/C                 C", 
+      "lyrics": "Watching from the windows"
+    }, 
+    {
+      "chord": "C", 
+      "lyrics": "All those years"
+    }, 
+    {
+      "chord": "G7/C               C", 
+      "lyrics": "Outside looking in"
+    }, 
+    {
+      "chord": "F", 
+      "lyrics": "All that time"
+    }, 
+    {
+      "chord": "C          F   G", 
+      "lyrics": "Never even knowing"
+    }, 
+    {
+      "chord": "C        D         G7", 
+      "lyrics": "Just how blind I've been"
+    }, 
+    {
+      "chord": "C", 
+      "lyrics": "Now I'm here"
+    }, 
+    {
+      "chord": "G7/C               C", 
+      "lyrics": "Blinking in the starlight"
+    }, 
+    {
+      "chord": "C", 
+      "lyrics": "Now I'm here"
+    }, 
+    {
+      "chord": "G7/C          C", 
+      "lyrics": "Suddenly I see"
+    }, 
+    {
+      "chord": "F", 
+      "lyrics": "Standing here"
+    }, 
+    {
+      "chord": "     Em", 
+      "lyrics": "It's oh, so clear"
+    }, 
+    {
+      "chord": "    Am        D7      Gsus4", 
+      "lyrics": "I'm where I'm meant to be"
+    }, 
+    {
+      "chord": "       F               C", 
+      "lyrics": "And at last, I see the light"
+    }, 
+    {
+      "chord": "         Gsus4    Dm7/G      C", 
+      "lyrics": "And it's like the fog has lifted"
+    }, 
+    {
+      "chord": "       F               C", 
+      "lyrics": "And at last, I see the light"
+    }, 
+    {
+      "chord": "         Esus4   E7    Am", 
+      "lyrics": "And it's like the sky is new"
+    }, 
+    {
+      "chord": "         F                 C", 
+      "lyrics": "And it's warm and real and bright"
+    }, 
+    {
+      "chord": "        Em                F", 
+      "lyrics": "And the world has somehow shifted"
+    }, 
+    {
+      "chord": "C", 
+      "lyrics": "All at once"
+    }, 
+    {
+      "chord": "G7/C              C", 
+      "lyrics": "Everything looks different"
+    }, 
+    {
+      "chord": "F        G     C", 
+      "lyrics": "Now that I see you"
+    }, 
+    {
+      "chord": "C G7/C C", 
+      "lyrics": ""
+    }, 
+    {
+      "chord": "C G7/C C", 
+      "lyrics": ""
+    }, 
+    {
+      "chord": "F C F G", 
+      "lyrics": ""
+    }, 
+    {
+      "chord": "C F Gsus4 G", 
+      "lyrics": ""
+    }, 
+    {
+      "chord": "Ab", 
+      "lyrics": ""
+    }, 
+    {
+      "label": "[Flynn]"
+    }, 
+    {
+      "chord": "Eb", 
+      "lyrics": "All those days"
+    }, 
+    {
+      "chord": "Bb7/Eb             Eb", 
+      "lyrics": "Chasing down a daydream"
+    }, 
+    {
+      "chord": "Eb", 
+      "lyrics": "All those years"
+    }, 
+    {
+      "chord": "Bb7/Eb      Eb", 
+      "lyrics": "Living in a blur"
+    }, 
+    {
+      "chord": "Ab", 
+      "lyrics": "All that time"
+    }, 
+    {
+      "chord": "Eb          Ab Bb", 
+      "lyrics": "Never truly seeing"
+    }, 
+    {
+      "chord": "Eb         F         Bb7", 
+      "lyrics": "Things the way they were"
+    }, 
+    {
+      "chord": "Eb", 
+      "lyrics": "Now she's here"
+    }, 
+    {
+      "chord": "Bb             Eb", 
+      "lyrics": "Shining in the starlight"
+    }, 
+    {
+      "chord": "Eb", 
+      "lyrics": "Now she's here"
+    }, 
+    {
+      "chord": "Bb         Eb", 
+      "lyrics": "Suddenly I know"
+    }, 
+    {
+      "chord": "Ab", 
+      "lyrics": "If she's here"
+    }, 
+    {
+      "chord": "     Gm", 
+      "lyrics": "It's crystal clear"
+    }, 
+    {
+      "chord": "    Cm       F7        Bbsus4", 
+      "lyrics": "I'm where I'm meant to go"
+    }, 
+    {
+      "label": "[Flynn/Rapunzel]"
+    }, 
+    {
+      "chord": "       Ab              Eb", 
+      "lyrics": "And at last, I see the light"
+    }, 
+    {
+      "label": "[Flynn]"
+    }, 
+    {
+      "chord": "         Bbsus4   Fm7/Bb     Eb", 
+      "lyrics": "And it's like the fog has lifted"
+    }, 
+    {
+      "label": "[Flynn/Rapunzel]"
+    }, 
+    {
+      "chord": "       Ab              Eb", 
+      "lyrics": "And at last, I see the light"
+    }, 
+    {
+      "label": "[Rapunzel]"
+    }, 
+    {
+      "chord": "         Gsus4    G7     Cm", 
+      "lyrics": "And it's like the sky is new"
+    }, 
+    {
+      "label": "[Flynn/Rapunzel]"
+    }, 
+    {
+      "chord": "         Ab                Eb", 
+      "lyrics": "And it's warm and real and bright"
+    }, 
+    {
+      "chord": "        Gm                Ab", 
+      "lyrics": "And the world has somehow shifted"
+    }, 
+    {
+      "chord": "Eb", 
+      "lyrics": "All at once"
+    }, 
+    {
+      "chord": "Bb7/Eb            Eb", 
+      "lyrics": "Everything is different"
+    }, 
+    {
+      "chord": "Ab       Bb    Eb", 
+      "lyrics": "Now that I see you"
+    }, 
+    {
+      "chord": "Ab       Bb    Eb", 
+      "lyrics": "Now that I see you.."
+    }
+  ], 
+  "title": "I See the Light"
+}

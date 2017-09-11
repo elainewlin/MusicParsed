@@ -1,1 +1,214 @@
-{"allChords": ["C", "Dm", "Gm", "Bb", "F"], "artist": "Adele", "lines": [{"count": 0, "chord": "          Dm      F", "lyrics": "I let it fall, my heart,"}, {"count": 1, "chord": "           C                    Bb", "lyrics": "And as it fell, you rose to claim it,"}, {"count": 2, "chord": "        Dm            F", "lyrics": "It was dark and I was over,"}, {"count": 3, "chord": "           C                     Bb", "lyrics": "Until you kissed my lips and you saved me,"}, {"count": 4, "chord": "    Dm             F", "lyrics": "My hands, they're strong,"}, {"count": 5, "chord": "          C                Bb", "lyrics": "but my knees were far too weak,"}, {"count": 6, "chord": "     Dm           F", "lyrics": "To stand in your arms"}, {"count": 7, "chord": "          C               Bb", "lyrics": "without falling to your feet,"}, {"count": 8, "chord": "               Bb                 Dm", "lyrics": "But there's a side to you that I never knew, never knew,"}, {"count": 9, "chord": "          Bb                          Dm", "lyrics": "All the things you'd say, they were never true, never true,"}, {"count": 10, "chord": "         Bb                            C", "lyrics": "And the games you'd play, you would always win, always win,"}, {"count": 11, "chord": "           Dm", "lyrics": "But I set fire to the rain,"}, {"count": 12, "chord": "            C", "lyrics": "Watched it pour as I touched your face,"}, {"count": 13, "chord": "           Bb", "lyrics": "Well, it burned while I cried,"}, {"count": 14, "chord": "                                      Gm          C", "lyrics": "'Cause I heard it screaming out your name, your name,"}, {"count": 15, "chord": "      Dm       F", "lyrics": "When lay with you"}, {"count": 16, "chord": "          C           Bb", "lyrics": "I could stay there, close my eyes,"}, {"count": 17, "chord": "          Dm     F", "lyrics": "feel you here forever,"}, {"count": 18, "chord": "        C                        Bb", "lyrics": "You and me together, nothing is better,"}, {"count": 19, "chord": "               Bb                 Dm", "lyrics": "But there's a side to you that I never knew, never knew,"}, {"count": 20, "chord": "          Bb                          Dm", "lyrics": "All the things you'd say, they were never true, never true,"}, {"count": 21, "chord": "         Bb                            C", "lyrics": "And the games you'd play, you would always win, always win,"}, {"count": 22, "chord": "           Dm", "lyrics": "But I set fire to the rain,"}, {"count": 23, "chord": "            C", "lyrics": "Watched it pour as I touched your face,"}, {"count": 24, "chord": "           Bb", "lyrics": "Well, it burned while I cried,"}, {"count": 25, "chord": "                                      Gm          C", "lyrics": "'Cause I heard it screaming out your name, your name,"}, {"count": 26, "chord": "       Dm", "lyrics": "I set fire to the rain,"}, {"count": 27, "chord": "            C", "lyrics": "And I threw us into the flames,"}, {"count": 28, "chord": "         Bb", "lyrics": "Well, I felt something die,"}, {"count": 29, "chord": "                                      Gm             C", "lyrics": "'Cause I knew that that was the last time, the last time,"}, {"count": 30, "chord": "          Dm                F", "lyrics": "Sometimes I wake up by the door,"}, {"count": 31, "chord": "               C                        Bb", "lyrics": "And heard you calling, must be waiting for you,"}, {"count": 32, "chord": "      Dm                     F", "lyrics": "Even now when we're already over,"}, {"count": 33, "chord": "         C                        Bb", "lyrics": "I can't help myself from looking for you,"}, {"count": 34, "chord": "           Dm", "lyrics": "But I set fire to the rain,"}, {"count": 35, "chord": "            C", "lyrics": "Watched it pour as I touched your face,"}, {"count": 36, "chord": "           Bb", "lyrics": "Well, it burned while I cried,"}, {"count": 37, "chord": "                                      Gm          C", "lyrics": "'Cause I heard it screaming out your name, your name,"}, {"count": 38, "chord": "       Dm", "lyrics": "I set fire to the rain,"}, {"count": 39, "chord": "            C", "lyrics": "And I threw us into the flames,"}, {"count": 40, "chord": "         Bb", "lyrics": "Well, I felt something die,"}, {"count": 41, "chord": "                                      Gm             C", "lyrics": "'Cause I knew that that was the last time, the last time,"}], "id": "Set Fire To The Rain - Adele", "title": "Set Fire To The Rain"}
+{
+  "allChords": [
+    "Dm", 
+    "F", 
+    "C", 
+    "Bb", 
+    "Gm"
+  ], 
+  "artist": "Adele", 
+  "id": "Set Fire To The Rain - Adele", 
+  "lines": [
+    {
+      "chord": "", 
+      "lyrics": "Verse:"
+    }, 
+    {
+      "chord": "          Dm      F", 
+      "lyrics": "I let it fall, my heart,"
+    }, 
+    {
+      "chord": "           C                    Bb", 
+      "lyrics": "And as it fell, you rose to claim it,"
+    }, 
+    {
+      "chord": "        Dm            F", 
+      "lyrics": "It was dark and I was over,"
+    }, 
+    {
+      "chord": "           C                     Bb", 
+      "lyrics": "Until you kissed my lips and you saved me,"
+    }, 
+    {
+      "chord": "    Dm             F", 
+      "lyrics": "My hands, they're strong,"
+    }, 
+    {
+      "chord": "          C                Bb", 
+      "lyrics": "but my knees were far too weak,"
+    }, 
+    {
+      "chord": "     Dm           F", 
+      "lyrics": "To stand in your arms"
+    }, 
+    {
+      "chord": "          C               Bb", 
+      "lyrics": "without falling to your feet,"
+    }, 
+    {
+      "chord": "", 
+      "lyrics": "Pre-Chorus:"
+    }, 
+    {
+      "chord": "               Bb                 Dm", 
+      "lyrics": "But there's a side to you that I never knew, never knew,"
+    }, 
+    {
+      "chord": "          Bb                          Dm", 
+      "lyrics": "All the things you'd say, they were never true, never true,"
+    }, 
+    {
+      "chord": "         Bb                            C", 
+      "lyrics": "And the games you'd play, you would always win, always win,"
+    }, 
+    {
+      "chord": "", 
+      "lyrics": "Chorus:"
+    }, 
+    {
+      "chord": "           Dm", 
+      "lyrics": "But I set fire to the rain,"
+    }, 
+    {
+      "chord": "            C", 
+      "lyrics": "Watched it pour as I touched your face,"
+    }, 
+    {
+      "chord": "           Bb", 
+      "lyrics": "Well, it burned while I cried,"
+    }, 
+    {
+      "chord": "                                      Gm          C", 
+      "lyrics": "'Cause I heard it screaming out your name, your name,"
+    }, 
+    {
+      "chord": "", 
+      "lyrics": "Verse:"
+    }, 
+    {
+      "chord": "      Dm       F", 
+      "lyrics": "When lay with you"
+    }, 
+    {
+      "chord": "          C           Bb", 
+      "lyrics": "I could stay there, close my eyes,"
+    }, 
+    {
+      "chord": "          Dm     F", 
+      "lyrics": "feel you here forever,"
+    }, 
+    {
+      "chord": "        C                        Bb", 
+      "lyrics": "You and me together, nothing is better,"
+    }, 
+    {
+      "chord": "", 
+      "lyrics": "Pre-Chorus:"
+    }, 
+    {
+      "chord": "               Bb                 Dm", 
+      "lyrics": "But there's a side to you that I never knew, never knew,"
+    }, 
+    {
+      "chord": "          Bb                          Dm", 
+      "lyrics": "All the things you'd say, they were never true, never true,"
+    }, 
+    {
+      "chord": "         Bb                            C", 
+      "lyrics": "And the games you'd play, you would always win, always win,"
+    }, 
+    {
+      "chord": "", 
+      "lyrics": "Chorus:"
+    }, 
+    {
+      "chord": "           Dm", 
+      "lyrics": "But I set fire to the rain,"
+    }, 
+    {
+      "chord": "            C", 
+      "lyrics": "Watched it pour as I touched your face,"
+    }, 
+    {
+      "chord": "           Bb", 
+      "lyrics": "Well, it burned while I cried,"
+    }, 
+    {
+      "chord": "                                      Gm          C", 
+      "lyrics": "'Cause I heard it screaming out your name, your name,"
+    }, 
+    {
+      "chord": "       Dm", 
+      "lyrics": "I set fire to the rain,"
+    }, 
+    {
+      "chord": "            C", 
+      "lyrics": "And I threw us into the flames,"
+    }, 
+    {
+      "chord": "         Bb", 
+      "lyrics": "Well, I felt something die,"
+    }, 
+    {
+      "chord": "                                      Gm             C", 
+      "lyrics": "'Cause I knew that that was the last time, the last time,"
+    }, 
+    {
+      "chord": "", 
+      "lyrics": "Bridge:"
+    }, 
+    {
+      "chord": "          Dm                F", 
+      "lyrics": "Sometimes I wake up by the door,"
+    }, 
+    {
+      "chord": "               C                        Bb", 
+      "lyrics": "And heard you calling, must be waiting for you,"
+    }, 
+    {
+      "chord": "      Dm                     F", 
+      "lyrics": "Even now when we're already over,"
+    }, 
+    {
+      "chord": "         C                        Bb", 
+      "lyrics": "I can't help myself from looking for you,"
+    }, 
+    {
+      "chord": "", 
+      "lyrics": "Chorus:"
+    }, 
+    {
+      "chord": "           Dm", 
+      "lyrics": "But I set fire to the rain,"
+    }, 
+    {
+      "chord": "            C", 
+      "lyrics": "Watched it pour as I touched your face,"
+    }, 
+    {
+      "chord": "           Bb", 
+      "lyrics": "Well, it burned while I cried,"
+    }, 
+    {
+      "chord": "                                      Gm          C", 
+      "lyrics": "'Cause I heard it screaming out your name, your name,"
+    }, 
+    {
+      "chord": "       Dm", 
+      "lyrics": "I set fire to the rain,"
+    }, 
+    {
+      "chord": "            C", 
+      "lyrics": "And I threw us into the flames,"
+    }, 
+    {
+      "chord": "         Bb", 
+      "lyrics": "Well, I felt something die,"
+    }, 
+    {
+      "chord": "                                      Gm             C", 
+      "lyrics": "'Cause I knew that that was the last time, the last time,"
+    }
+  ], 
+  "title": "Set Fire To The Rain"
+}

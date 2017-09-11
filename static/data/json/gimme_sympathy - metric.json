@@ -1,1 +1,263 @@
-{"allChords": ["A#", "D#", "Gm", "F"], "artist": "Metric", "lines": [{"label": "[Verse]"}, {"count": 0, "chord": "      A#                         F", "lyrics": "Get hot Get too close to the flame"}, {"count": 1, "chord": "               Gm", "lyrics": "Wild open space"}, {"count": 2, "chord": "                  D#", "lyrics": "Talk like an open book"}, {"count": 3, "chord": "        A#", "lyrics": "Sign me up"}, {"count": 4, "chord": "                       F", "lyrics": "Got no time to take a picture"}, {"count": 5, "chord": "                 Gm", "lyrics": "I'll remember someday"}, {"count": 6, "chord": "                    D#", "lyrics": "All the chances we took"}, {"label": "[Pre-Chorus]"}, {"count": 7, "chord": "           D#", "lyrics": "We're so close"}, {"count": 8, "chord": "                           F", "lyrics": "to something better left unknown"}, {"count": 9, "chord": "          D#", "lyrics": "We're so close"}, {"count": 10, "chord": "                           F", "lyrics": "to something better left unknown"}, {"label": "[Chorus]"}, {"count": 11, "chord": "                    Gm", "lyrics": "I can feel it in my bones"}, {"count": 12, "chord": "D#", "lyrics": "Gimme"}, {"count": 13, "chord": "        A#", "lyrics": "sympathy"}, {"count": 14, "chord": "F", "lyrics": "After all"}, {"count": 15, "chord": "         Gm", "lyrics": "this is gone"}, {"count": 16, "chord": "D#", "lyrics": "Who would you"}, {"count": 17, "chord": "        A#", "lyrics": "rather be"}, {"count": 18, "chord": "     F", "lyrics": "The Beatles or"}, {"count": 19, "chord": "            Gm", "lyrics": "The Rolling Stones?"}, {"count": 20, "chord": "D#", "lyrics": "Oh"}, {"count": 21, "chord": "        A#", "lyrics": "seriously"}, {"count": 22, "chord": "        F                         D#", "lyrics": "You're gonna make mistakes you're young"}, {"label": "[Post-Chorus]"}, {"count": 23, "chord": "A#", "lyrics": "Come on baby"}, {"count": 24, "chord": "        F", "lyrics": "play me something,"}, {"count": 25, "chord": "F                   D#", "lyrics": "Like here comes the sun"}, {"count": 26, "chord": "A#", "lyrics": "Come on baby"}, {"count": 27, "chord": "        F", "lyrics": "play me something,"}, {"count": 28, "chord": "F                    Gm", "lyrics": "Like here comes the sun"}, {"label": "[Verse 2]"}, {"count": 29, "chord": "      A#", "lyrics": "Don't go"}, {"count": 30, "chord": "                     F", "lyrics": "Stay with the all unknown"}, {"count": 31, "chord": "                   Gm", "lyrics": "Stay away from the hooks"}, {"count": 32, "chord": "                    D#", "lyrics": "All the chances we took"}, {"label": "[Pre-Chorus]"}, {"count": 33, "chord": "          D#                                  F", "lyrics": "We're so close to something better left unknown"}, {"count": 34, "chord": "          D#                                  F", "lyrics": "We're so close to something better left unknown"}, {"label": "[Chorus]"}, {"count": 35, "chord": "                     Gm", "lyrics": "I can feel it in my bones"}, {"count": 36, "chord": "D#            A#", "lyrics": "Gimme sympathy"}, {"count": 37, "chord": "F                 Gm", "lyrics": "After all this is gone"}, {"count": 38, "chord": "D#                    A#", "lyrics": "Who would you rather be"}, {"count": 39, "chord": "    F                      Gm", "lyrics": "The Beatles or The Rolling Stones?"}, {"count": 40, "chord": "D#          A#", "lyrics": "Oh seriously"}, {"count": 41, "chord": "        F                          D#", "lyrics": "You're gonna make mistakes you're young"}, {"label": "[Post-Chorus]"}, {"count": 42, "chord": "A#                    F", "lyrics": "Come on baby play me something,"}, {"count": 43, "chord": "    F                    Gm", "lyrics": "Like here comes the sun"}, {"label": "[Chorus]"}, {"count": 44, "chord": "Gm    D#        A#", "lyrics": "     Gimme sympathy"}, {"count": 45, "chord": "F                 Gm", "lyrics": "After all this is gone"}, {"count": 46, "chord": "D#                    A#", "lyrics": "Who would you rather be"}, {"count": 47, "chord": "    F                      Gm", "lyrics": "The Beatles or The Rolling Stones?"}, {"count": 48, "chord": "D#          A#", "lyrics": "Oh seriously"}, {"count": 49, "chord": "        F                          D#", "lyrics": "You're gonna make mistakes you're young"}, {"label": "[Post-Chorus]"}, {"count": 50, "chord": "  A#                    F", "lyrics": "Come on baby play me something,"}, {"count": 51, "chord": "                       D#", "lyrics": "Like here comes the sun"}, {"count": 52, "chord": "A#                    F", "lyrics": "Come on baby play me something,"}, {"count": 53, "chord": "                     Gm", "lyrics": "Like here comes the sun"}], "id": "Gimme Sympathy - Metric", "title": "Gimme Sympathy"}
+{
+  "allChords": [
+    "A#", 
+    "F", 
+    "Gm", 
+    "D#"
+  ], 
+  "artist": "Metric", 
+  "id": "Gimme Sympathy - Metric", 
+  "lines": [
+    {
+      "label": "[Verse]"
+    }, 
+    {
+      "chord": "      A#                         F", 
+      "lyrics": "Get hot Get too close to the flame"
+    }, 
+    {
+      "chord": "               Gm", 
+      "lyrics": "Wild open space"
+    }, 
+    {
+      "chord": "                  D#", 
+      "lyrics": "Talk like an open book"
+    }, 
+    {
+      "chord": "        A#", 
+      "lyrics": "Sign me up"
+    }, 
+    {
+      "chord": "                       F", 
+      "lyrics": "Got no time to take a picture"
+    }, 
+    {
+      "chord": "                 Gm", 
+      "lyrics": "I'll remember someday"
+    }, 
+    {
+      "chord": "                    D#", 
+      "lyrics": "All the chances we took"
+    }, 
+    {
+      "label": "[Pre-Chorus]"
+    }, 
+    {
+      "chord": "           D#", 
+      "lyrics": "We're so close"
+    }, 
+    {
+      "chord": "                           F", 
+      "lyrics": "to something better left unknown"
+    }, 
+    {
+      "chord": "          D#", 
+      "lyrics": "We're so close"
+    }, 
+    {
+      "chord": "                           F", 
+      "lyrics": "to something better left unknown"
+    }, 
+    {
+      "label": "[Chorus]"
+    }, 
+    {
+      "chord": "                    Gm", 
+      "lyrics": "I can feel it in my bones"
+    }, 
+    {
+      "chord": "D#", 
+      "lyrics": "Gimme"
+    }, 
+    {
+      "chord": "        A#", 
+      "lyrics": "sympathy"
+    }, 
+    {
+      "chord": "F", 
+      "lyrics": "After all"
+    }, 
+    {
+      "chord": "         Gm", 
+      "lyrics": "this is gone"
+    }, 
+    {
+      "chord": "D#", 
+      "lyrics": "Who would you"
+    }, 
+    {
+      "chord": "        A#", 
+      "lyrics": "rather be"
+    }, 
+    {
+      "chord": "     F", 
+      "lyrics": "The Beatles or"
+    }, 
+    {
+      "chord": "            Gm", 
+      "lyrics": "The Rolling Stones?"
+    }, 
+    {
+      "chord": "D#", 
+      "lyrics": "Oh"
+    }, 
+    {
+      "chord": "        A#", 
+      "lyrics": "seriously"
+    }, 
+    {
+      "chord": "        F                         D#", 
+      "lyrics": "You're gonna make mistakes you're young"
+    }, 
+    {
+      "label": "[Post-Chorus]"
+    }, 
+    {
+      "chord": "A#", 
+      "lyrics": "Come on baby"
+    }, 
+    {
+      "chord": "        F", 
+      "lyrics": "play me something,"
+    }, 
+    {
+      "chord": "F                   D#", 
+      "lyrics": "Like here comes the sun"
+    }, 
+    {
+      "chord": "A#", 
+      "lyrics": "Come on baby"
+    }, 
+    {
+      "chord": "        F", 
+      "lyrics": "play me something,"
+    }, 
+    {
+      "chord": "F                    Gm", 
+      "lyrics": "Like here comes the sun"
+    }, 
+    {
+      "chord": "", 
+      "lyrics": "(Gm)"
+    }, 
+    {
+      "label": "[Verse 2]"
+    }, 
+    {
+      "chord": "      A#", 
+      "lyrics": "Don't go"
+    }, 
+    {
+      "chord": "                     F", 
+      "lyrics": "Stay with the all unknown"
+    }, 
+    {
+      "chord": "                   Gm", 
+      "lyrics": "Stay away from the hooks"
+    }, 
+    {
+      "chord": "                    D#", 
+      "lyrics": "All the chances we took"
+    }, 
+    {
+      "label": "[Pre-Chorus]"
+    }, 
+    {
+      "chord": "          D#                                  F", 
+      "lyrics": "We're so close to something better left unknown"
+    }, 
+    {
+      "chord": "          D#                                  F", 
+      "lyrics": "We're so close to something better left unknown"
+    }, 
+    {
+      "label": "[Chorus]"
+    }, 
+    {
+      "chord": "                     Gm", 
+      "lyrics": "I can feel it in my bones"
+    }, 
+    {
+      "chord": "D#            A#", 
+      "lyrics": "Gimme sympathy"
+    }, 
+    {
+      "chord": "F                 Gm", 
+      "lyrics": "After all this is gone"
+    }, 
+    {
+      "chord": "D#                    A#", 
+      "lyrics": "Who would you rather be"
+    }, 
+    {
+      "chord": "    F                      Gm", 
+      "lyrics": "The Beatles or The Rolling Stones?"
+    }, 
+    {
+      "chord": "D#          A#", 
+      "lyrics": "Oh seriously"
+    }, 
+    {
+      "chord": "        F                          D#", 
+      "lyrics": "You're gonna make mistakes you're young"
+    }, 
+    {
+      "label": "[Post-Chorus]"
+    }, 
+    {
+      "chord": "A#                    F", 
+      "lyrics": "Come on baby play me something,"
+    }, 
+    {
+      "chord": "    F                    Gm", 
+      "lyrics": "Like here comes the sun"
+    }, 
+    {
+      "label": "[Chorus]"
+    }, 
+    {
+      "chord": "Gm    D#        A#", 
+      "lyrics": "     Gimme sympathy"
+    }, 
+    {
+      "chord": "F                 Gm", 
+      "lyrics": "After all this is gone"
+    }, 
+    {
+      "chord": "D#                    A#", 
+      "lyrics": "Who would you rather be"
+    }, 
+    {
+      "chord": "    F                      Gm", 
+      "lyrics": "The Beatles or The Rolling Stones?"
+    }, 
+    {
+      "chord": "D#          A#", 
+      "lyrics": "Oh seriously"
+    }, 
+    {
+      "chord": "        F                          D#", 
+      "lyrics": "You're gonna make mistakes you're young"
+    }, 
+    {
+      "label": "[Post-Chorus]"
+    }, 
+    {
+      "chord": "  A#                    F", 
+      "lyrics": "Come on baby play me something,"
+    }, 
+    {
+      "chord": "                       D#", 
+      "lyrics": "Like here comes the sun"
+    }, 
+    {
+      "chord": "A#                    F", 
+      "lyrics": "Come on baby play me something,"
+    }, 
+    {
+      "chord": "                     Gm", 
+      "lyrics": "Like here comes the sun"
+    }
+  ], 
+  "title": "Gimme Sympathy"
+}

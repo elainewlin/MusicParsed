@@ -1,1 +1,304 @@
-{"allChords": ["A", "Em", "D", "G", "Bm"], "artist": "Katy Perry", "lines": [{"label": "[Verse]"}, {"count": 0, "chord": "D                A", "lyrics": "You change your mind"}, {"count": 1, "chord": "        Em             G", "lyrics": "Like a girl changes clothes"}, {"count": 2, "chord": "     D     A", "lyrics": "Yeah you, PMS"}, {"count": 3, "chord": "         Em", "lyrics": "Like a bitch"}, {"count": 4, "chord": "         G", "lyrics": "I would know"}, {"count": 5, "chord": "     D         A", "lyrics": "And you over think"}, {"count": 6, "chord": "         Em", "lyrics": "Always speak"}, {"count": 7, "chord": "    G", "lyrics": "Cryptically"}, {"count": 8, "chord": "          D", "lyrics": "I should know"}, {"count": 9, "chord": "      A                 Em   G", "lyrics": "That you're no good for me"}, {"label": "[Chorus]"}, {"count": 10, "chord": "              D", "lyrics": "Cause you're hot then you're cold"}, {"count": 11, "chord": "        A", "lyrics": "You're yes then you're no"}, {"count": 12, "chord": "        Em", "lyrics": "You're in then you're out"}, {"count": 13, "chord": "        G", "lyrics": "You're up then you're down"}, {"count": 14, "chord": "       D", "lyrics": "You're wrong when it's right"}, {"count": 15, "chord": "     A", "lyrics": "It's black and it's white"}, {"count": 16, "chord": "   Em", "lyrics": "We fight, we break up"}, {"count": 17, "chord": "   G", "lyrics": "We kiss, we make up"}, {"count": 18, "chord": "     D                          A", "lyrics": "(you)You don't really want to stay, no"}, {"count": 19, "chord": "         Em                           G", "lyrics": "(but you)But you don't really want to go-o"}, {"count": 20, "chord": "       D", "lyrics": "You're hot then you're cold"}, {"count": 21, "chord": "       A", "lyrics": "You're yes then you're no"}, {"count": 22, "chord": "       Em", "lyrics": "You're in and you're out"}, {"count": 23, "chord": "       G", "lyrics": "You're up and you're down"}, {"label": "[Verse]"}, {"count": 24, "chord": "D           A", "lyrics": "We used to be"}, {"count": 25, "chord": "           Em", "lyrics": "Just like twins"}, {"count": 26, "chord": "       G", "lyrics": "So in sync"}, {"count": 27, "chord": "     D       A", "lyrics": "The same energy"}, {"count": 28, "chord": "         Em       G", "lyrics": "Now's a dead battery"}, {"count": 29, "chord": "        D            A", "lyrics": "Used to laugh bout nothing"}, {"count": 30, "chord": "         Em       G", "lyrics": "Now your plain boring"}, {"count": 31, "chord": "          D", "lyrics": "I should know that"}, {"count": 32, "chord": " A                Em   G", "lyrics": "You're not gonna change"}, {"label": "[Chorus]"}, {"count": 33, "chord": "              D", "lyrics": "Cause you're hot then you're cold"}, {"count": 34, "chord": "        A", "lyrics": "You're yes then you're no"}, {"count": 35, "chord": "        Em", "lyrics": "You're in then you're out"}, {"count": 36, "chord": "        G", "lyrics": "You're up then you're down"}, {"count": 37, "chord": "       D", "lyrics": "You're wrong when it's right"}, {"count": 38, "chord": "     A", "lyrics": "It's black and it's white"}, {"count": 39, "chord": "   Em", "lyrics": "We fight, we break up"}, {"count": 40, "chord": "   G", "lyrics": "We kiss, we make up"}, {"count": 41, "chord": "     D                          A", "lyrics": "(you)You don't really want to stay, no"}, {"count": 42, "chord": "         Em                           G", "lyrics": "(but you)But you don't really want to go-o"}, {"count": 43, "chord": "       D", "lyrics": "You're hot then you're cold"}, {"count": 44, "chord": "       A", "lyrics": "You're yes then you're no"}, {"count": 45, "chord": "       Em", "lyrics": "You're in and you're out"}, {"count": 46, "chord": "       G", "lyrics": "You're up and you're down"}, {"label": "[Bridge]"}, {"count": 47, "chord": "Bm        G", "lyrics": "Someone call the doctor"}, {"count": 48, "chord": "D        A", "lyrics": "Got a case of a love bi-polar"}, {"count": 49, "chord": "Bm          G", "lyrics": "Stuck on a roller coaster"}, {"count": 50, "chord": "D               A", "lyrics": "Can't get off this ride"}, {"count": 51, "chord": "D                 A", "lyrics": "You change your mind"}, {"count": 52, "chord": "        Em             G", "lyrics": "Like a girl changes clothes"}, {"label": "[Chorus]"}, {"count": 53, "chord": "              D", "lyrics": "Cause you're hot then you're cold"}, {"count": 54, "chord": "        A", "lyrics": "You're yes then you're no"}, {"count": 55, "chord": "        Em", "lyrics": "You're in then you're out"}, {"count": 56, "chord": "        G", "lyrics": "You're up then you're down"}, {"count": 57, "chord": "       D", "lyrics": "You're wrong when it's right"}, {"count": 58, "chord": "     A", "lyrics": "It's black and it's white"}, {"count": 59, "chord": "   Em", "lyrics": "We fight, we break up"}, {"count": 60, "chord": "   G", "lyrics": "We kiss, we make up"}, {"count": 61, "chord": "     D                          A", "lyrics": "(you)You don't really want to stay, no"}, {"count": 62, "chord": "         Em                           G", "lyrics": "(but you)But you don't really want to go-o"}, {"count": 63, "chord": "       D", "lyrics": "You're hot then you're cold"}, {"count": 64, "chord": "       A", "lyrics": "You're yes then you're no"}, {"count": 65, "chord": "       Em", "lyrics": "You're in and you're out"}, {"count": 66, "chord": "       G             D", "lyrics": "You're up and you're down"}], "id": "Hot N Cold - Katy Perry", "title": "Hot N Cold"}
+{
+  "allChords": [
+    "D", 
+    "A", 
+    "Em", 
+    "G", 
+    "Bm"
+  ], 
+  "artist": "Katy Perry", 
+  "id": "Hot N Cold - Katy Perry", 
+  "lines": [
+    {
+      "label": "[Verse]"
+    }, 
+    {
+      "chord": "D                A", 
+      "lyrics": "You change your mind"
+    }, 
+    {
+      "chord": "        Em             G", 
+      "lyrics": "Like a girl changes clothes"
+    }, 
+    {
+      "chord": "     D     A", 
+      "lyrics": "Yeah you, PMS"
+    }, 
+    {
+      "chord": "         Em", 
+      "lyrics": "Like a bitch"
+    }, 
+    {
+      "chord": "         G", 
+      "lyrics": "I would know"
+    }, 
+    {
+      "chord": "     D         A", 
+      "lyrics": "And you over think"
+    }, 
+    {
+      "chord": "         Em", 
+      "lyrics": "Always speak"
+    }, 
+    {
+      "chord": "    G", 
+      "lyrics": "Cryptically"
+    }, 
+    {
+      "chord": "          D", 
+      "lyrics": "I should know"
+    }, 
+    {
+      "chord": "      A                 Em   G", 
+      "lyrics": "That you're no good for me"
+    }, 
+    {
+      "label": "[Chorus]"
+    }, 
+    {
+      "chord": "              D", 
+      "lyrics": "Cause you're hot then you're cold"
+    }, 
+    {
+      "chord": "        A", 
+      "lyrics": "You're yes then you're no"
+    }, 
+    {
+      "chord": "        Em", 
+      "lyrics": "You're in then you're out"
+    }, 
+    {
+      "chord": "        G", 
+      "lyrics": "You're up then you're down"
+    }, 
+    {
+      "chord": "       D", 
+      "lyrics": "You're wrong when it's right"
+    }, 
+    {
+      "chord": "     A", 
+      "lyrics": "It's black and it's white"
+    }, 
+    {
+      "chord": "   Em", 
+      "lyrics": "We fight, we break up"
+    }, 
+    {
+      "chord": "   G", 
+      "lyrics": "We kiss, we make up"
+    }, 
+    {
+      "chord": "     D                          A", 
+      "lyrics": "(you)You don't really want to stay, no"
+    }, 
+    {
+      "chord": "         Em                           G", 
+      "lyrics": "(but you)But you don't really want to go-o"
+    }, 
+    {
+      "chord": "       D", 
+      "lyrics": "You're hot then you're cold"
+    }, 
+    {
+      "chord": "       A", 
+      "lyrics": "You're yes then you're no"
+    }, 
+    {
+      "chord": "       Em", 
+      "lyrics": "You're in and you're out"
+    }, 
+    {
+      "chord": "       G", 
+      "lyrics": "You're up and you're down"
+    }, 
+    {
+      "label": "[Verse]"
+    }, 
+    {
+      "chord": "D           A", 
+      "lyrics": "We used to be"
+    }, 
+    {
+      "chord": "           Em", 
+      "lyrics": "Just like twins"
+    }, 
+    {
+      "chord": "       G", 
+      "lyrics": "So in sync"
+    }, 
+    {
+      "chord": "     D       A", 
+      "lyrics": "The same energy"
+    }, 
+    {
+      "chord": "         Em       G", 
+      "lyrics": "Now's a dead battery"
+    }, 
+    {
+      "chord": "        D            A", 
+      "lyrics": "Used to laugh bout nothing"
+    }, 
+    {
+      "chord": "         Em       G", 
+      "lyrics": "Now your plain boring"
+    }, 
+    {
+      "chord": "          D", 
+      "lyrics": "I should know that"
+    }, 
+    {
+      "chord": " A                Em   G", 
+      "lyrics": "You're not gonna change"
+    }, 
+    {
+      "label": "[Chorus]"
+    }, 
+    {
+      "chord": "              D", 
+      "lyrics": "Cause you're hot then you're cold"
+    }, 
+    {
+      "chord": "        A", 
+      "lyrics": "You're yes then you're no"
+    }, 
+    {
+      "chord": "        Em", 
+      "lyrics": "You're in then you're out"
+    }, 
+    {
+      "chord": "        G", 
+      "lyrics": "You're up then you're down"
+    }, 
+    {
+      "chord": "       D", 
+      "lyrics": "You're wrong when it's right"
+    }, 
+    {
+      "chord": "     A", 
+      "lyrics": "It's black and it's white"
+    }, 
+    {
+      "chord": "   Em", 
+      "lyrics": "We fight, we break up"
+    }, 
+    {
+      "chord": "   G", 
+      "lyrics": "We kiss, we make up"
+    }, 
+    {
+      "chord": "     D                          A", 
+      "lyrics": "(you)You don't really want to stay, no"
+    }, 
+    {
+      "chord": "         Em                           G", 
+      "lyrics": "(but you)But you don't really want to go-o"
+    }, 
+    {
+      "chord": "       D", 
+      "lyrics": "You're hot then you're cold"
+    }, 
+    {
+      "chord": "       A", 
+      "lyrics": "You're yes then you're no"
+    }, 
+    {
+      "chord": "       Em", 
+      "lyrics": "You're in and you're out"
+    }, 
+    {
+      "chord": "       G", 
+      "lyrics": "You're up and you're down"
+    }, 
+    {
+      "label": "[Bridge]"
+    }, 
+    {
+      "chord": "Bm        G", 
+      "lyrics": "Someone call the doctor"
+    }, 
+    {
+      "chord": "D        A", 
+      "lyrics": "Got a case of a love bi-polar"
+    }, 
+    {
+      "chord": "Bm          G", 
+      "lyrics": "Stuck on a roller coaster"
+    }, 
+    {
+      "chord": "D               A", 
+      "lyrics": "Can't get off this ride"
+    }, 
+    {
+      "chord": "", 
+      "lyrics": "( STRUM SLOW OR PLUCK CHORDS )"
+    }, 
+    {
+      "chord": "D                 A", 
+      "lyrics": "You change your mind"
+    }, 
+    {
+      "chord": "        Em             G", 
+      "lyrics": "Like a girl changes clothes"
+    }, 
+    {
+      "label": "[Chorus]"
+    }, 
+    {
+      "chord": "              D", 
+      "lyrics": "Cause you're hot then you're cold"
+    }, 
+    {
+      "chord": "        A", 
+      "lyrics": "You're yes then you're no"
+    }, 
+    {
+      "chord": "        Em", 
+      "lyrics": "You're in then you're out"
+    }, 
+    {
+      "chord": "        G", 
+      "lyrics": "You're up then you're down"
+    }, 
+    {
+      "chord": "       D", 
+      "lyrics": "You're wrong when it's right"
+    }, 
+    {
+      "chord": "     A", 
+      "lyrics": "It's black and it's white"
+    }, 
+    {
+      "chord": "   Em", 
+      "lyrics": "We fight, we break up"
+    }, 
+    {
+      "chord": "   G", 
+      "lyrics": "We kiss, we make up"
+    }, 
+    {
+      "chord": "     D                          A", 
+      "lyrics": "(you)You don't really want to stay, no"
+    }, 
+    {
+      "chord": "         Em                           G", 
+      "lyrics": "(but you)But you don't really want to go-o"
+    }, 
+    {
+      "chord": "       D", 
+      "lyrics": "You're hot then you're cold"
+    }, 
+    {
+      "chord": "       A", 
+      "lyrics": "You're yes then you're no"
+    }, 
+    {
+      "chord": "       Em", 
+      "lyrics": "You're in and you're out"
+    }, 
+    {
+      "chord": "       G             D", 
+      "lyrics": "You're up and you're down"
+    }
+  ], 
+  "title": "Hot N Cold"
+}

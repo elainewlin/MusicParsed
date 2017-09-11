@@ -1,1 +1,236 @@
-{"allChords": ["Em", "A", "D", "G"], "artist": "Imagine Dragons", "lines": [{"label": "[Verse]"}, {"count": 0, "chord": "Em            G", "lyrics": " Ever since I could remember,"}, {"count": 1, "chord": "D            A", "lyrics": " Everything inside of me,"}, {"count": 2, "chord": "Em      G            D         A", "lyrics": " Just wanted to fit in (oh oh oh oh)"}, {"count": 3, "chord": "Em             G", "lyrics": " I was never one for pretenders,"}, {"count": 4, "chord": "D                 A", "lyrics": " Everything I tried to be,"}, {"count": 5, "chord": "Em       G              D       A", "lyrics": " Just wouldn't settle in (oh oh oh oh)"}, {"label": "[Pre-Chorus]"}, {"count": 6, "chord": "Em                G", "lyrics": " If I told you what I was,"}, {"count": 7, "chord": "D                          A", "lyrics": " Would you turn your back on me?"}, {"count": 8, "chord": "Em                 G", "lyrics": " And if I seem dangerous,"}, {"count": 9, "chord": "D                  A", "lyrics": " Would you be scared?"}, {"count": 10, "chord": "Em                   G", "lyrics": " I get the feeling just because,"}, {"count": 11, "chord": "   D                             A", "lyrics": " Everything I touch isn't dark enough"}, {"count": 12, "chord": "Em          G               D", "lyrics": " If this problem lies in me"}, {"label": "[Chorus]"}, {"count": 13, "chord": "     Em         G            D            A", "lyrics": " I'm only a man with a chamber who's got me,"}, {"count": 14, "chord": "     Em             G         D             A", "lyrics": " I'm taking a stand to escape what's inside me."}, {"count": 15, "chord": "    Em         G", "lyrics": " A monster, A monster,"}, {"count": 16, "chord": "       D                A", "lyrics": " I've turned into a monster,"}, {"count": 17, "chord": "    Em         G", "lyrics": " A monster, A monster,"}, {"count": 18, "chord": "       D                   A", "lyrics": " And it keeps getting stronger."}, {"label": "[Verse]"}, {"count": 19, "chord": "Em         G", "lyrics": " Can I clear my conscience,"}, {"count": 20, "chord": "   D         A", "lyrics": " If I'm different from the rest,"}, {"count": 21, "chord": "Em      G                 D         A", "lyrics": " Do I have to run and hide? (oh oh oh oh)"}, {"count": 22, "chord": "Em          G", "lyrics": " I never said that I want this,"}, {"count": 23, "chord": "  D          A", "lyrics": " This burden came to me,"}, {"count": 24, "chord": "Em         G                   D        A", "lyrics": " And it's made it's home inside (oh oh oh oh)"}, {"label": "[Pre-Chorus]"}, {"count": 25, "chord": "Em               G", "lyrics": " If I told you what I was,"}, {"count": 26, "chord": " D                     A", "lyrics": " Would you turn your back on me?"}, {"count": 27, "chord": "Em                G", "lyrics": " And if I seem dangerous,"}, {"count": 28, "chord": " D                A", "lyrics": " Would you be scared?"}, {"count": 29, "chord": "Em                    G", "lyrics": " I get the feeling just because,"}, {"count": 30, "chord": "    D                            A", "lyrics": " Everything I touch isn't dark enough"}, {"count": 31, "chord": "Em           G             D", "lyrics": " If this problem lies in me"}, {"label": "[Chorus]"}, {"count": 32, "chord": "      Em        G           D             A", "lyrics": " I'm only a man with a chamber who's got me,"}, {"count": 33, "chord": "      Em             G        D             A", "lyrics": " I'm taking a stand to escape what's inside me."}, {"count": 34, "chord": "    Em          G", "lyrics": " A monster, A monster,"}, {"count": 35, "chord": "       D                A", "lyrics": " I've turned into a monster,"}, {"count": 36, "chord": "    Em          G", "lyrics": " A monster, A monster,"}, {"count": 37, "chord": "       D                A", "lyrics": " And it keeps getting stronger."}, {"label": "[Instrumental]"}, {"label": "[Chorus]"}, {"count": 38, "chord": "     Em        G            D            A", "lyrics": " I'm only a man with a chamber who's got me,"}, {"count": 39, "chord": "     Em           G           D             A", "lyrics": " I'm taking a stand to escape what's inside me."}, {"count": 40, "chord": "    Em          G", "lyrics": " A monster, A monster,"}, {"count": 41, "chord": "        D               A", "lyrics": " I've turned into a monster,"}, {"count": 42, "chord": "    Em          G", "lyrics": " A monster, A monster,"}, {"count": 43, "chord": "       D                    A", "lyrics": " And it keeps getting stronger."}, {"label": "[Outro]"}], "id": "Monster - Imagine Dragons", "title": "Monster"}
+{
+  "allChords": [
+    "Em", 
+    "G", 
+    "D", 
+    "A"
+  ], 
+  "artist": "Imagine Dragons", 
+  "id": "Monster - Imagine Dragons", 
+  "lines": [
+    {
+      "chord": "", 
+      "lyrics": "Imagine Dragons- Monster"
+    }, 
+    {
+      "chord": "", 
+      "lyrics": "Capo 1"
+    }, 
+    {
+      "chord": "", 
+      "lyrics": "Standard Tuning: EADGBE"
+    }, 
+    {
+      "label": "[Verse]"
+    }, 
+    {
+      "chord": "Em            G", 
+      "lyrics": " Ever since I could remember,"
+    }, 
+    {
+      "chord": "D            A", 
+      "lyrics": " Everything inside of me,"
+    }, 
+    {
+      "chord": "Em      G            D         A", 
+      "lyrics": " Just wanted to fit in (oh oh oh oh)"
+    }, 
+    {
+      "chord": "Em             G", 
+      "lyrics": " I was never one for pretenders,"
+    }, 
+    {
+      "chord": "D                 A", 
+      "lyrics": " Everything I tried to be,"
+    }, 
+    {
+      "chord": "Em       G              D       A", 
+      "lyrics": " Just wouldn't settle in (oh oh oh oh)"
+    }, 
+    {
+      "label": "[Pre-Chorus]"
+    }, 
+    {
+      "chord": "Em                G", 
+      "lyrics": " If I told you what I was,"
+    }, 
+    {
+      "chord": "D                          A", 
+      "lyrics": " Would you turn your back on me?"
+    }, 
+    {
+      "chord": "Em                 G", 
+      "lyrics": " And if I seem dangerous,"
+    }, 
+    {
+      "chord": "D                  A", 
+      "lyrics": " Would you be scared?"
+    }, 
+    {
+      "chord": "Em                   G", 
+      "lyrics": " I get the feeling just because,"
+    }, 
+    {
+      "chord": "   D                             A", 
+      "lyrics": " Everything I touch isn't dark enough"
+    }, 
+    {
+      "chord": "Em          G               D", 
+      "lyrics": " If this problem lies in me"
+    }, 
+    {
+      "label": "[Chorus]"
+    }, 
+    {
+      "chord": "     Em         G            D            A", 
+      "lyrics": " I'm only a man with a chamber who's got me,"
+    }, 
+    {
+      "chord": "     Em             G         D             A", 
+      "lyrics": " I'm taking a stand to escape what's inside me."
+    }, 
+    {
+      "chord": "    Em         G", 
+      "lyrics": " A monster, A monster,"
+    }, 
+    {
+      "chord": "       D                A", 
+      "lyrics": " I've turned into a monster,"
+    }, 
+    {
+      "chord": "    Em         G", 
+      "lyrics": " A monster, A monster,"
+    }, 
+    {
+      "chord": "       D                   A", 
+      "lyrics": " And it keeps getting stronger."
+    }, 
+    {
+      "label": "[Verse]"
+    }, 
+    {
+      "chord": "Em         G", 
+      "lyrics": " Can I clear my conscience,"
+    }, 
+    {
+      "chord": "   D         A", 
+      "lyrics": " If I'm different from the rest,"
+    }, 
+    {
+      "chord": "Em      G                 D         A", 
+      "lyrics": " Do I have to run and hide? (oh oh oh oh)"
+    }, 
+    {
+      "chord": "Em          G", 
+      "lyrics": " I never said that I want this,"
+    }, 
+    {
+      "chord": "  D          A", 
+      "lyrics": " This burden came to me,"
+    }, 
+    {
+      "chord": "Em         G                   D        A", 
+      "lyrics": " And it's made it's home inside (oh oh oh oh)"
+    }, 
+    {
+      "label": "[Pre-Chorus]"
+    }, 
+    {
+      "chord": "Em               G", 
+      "lyrics": " If I told you what I was,"
+    }, 
+    {
+      "chord": " D                     A", 
+      "lyrics": " Would you turn your back on me?"
+    }, 
+    {
+      "chord": "Em                G", 
+      "lyrics": " And if I seem dangerous,"
+    }, 
+    {
+      "chord": " D                A", 
+      "lyrics": " Would you be scared?"
+    }, 
+    {
+      "chord": "Em                    G", 
+      "lyrics": " I get the feeling just because,"
+    }, 
+    {
+      "chord": "    D                            A", 
+      "lyrics": " Everything I touch isn't dark enough"
+    }, 
+    {
+      "chord": "Em           G             D", 
+      "lyrics": " If this problem lies in me"
+    }, 
+    {
+      "label": "[Chorus]"
+    }, 
+    {
+      "chord": "      Em        G           D             A", 
+      "lyrics": " I'm only a man with a chamber who's got me,"
+    }, 
+    {
+      "chord": "      Em             G        D             A", 
+      "lyrics": " I'm taking a stand to escape what's inside me."
+    }, 
+    {
+      "chord": "    Em          G", 
+      "lyrics": " A monster, A monster,"
+    }, 
+    {
+      "chord": "       D                A", 
+      "lyrics": " I've turned into a monster,"
+    }, 
+    {
+      "chord": "    Em          G", 
+      "lyrics": " A monster, A monster,"
+    }, 
+    {
+      "chord": "       D                A", 
+      "lyrics": " And it keeps getting stronger."
+    }, 
+    {
+      "label": "[Instrumental]"
+    }, 
+    {
+      "chord": "", 
+      "lyrics": "Em G D A (8 times)"
+    }, 
+    {
+      "label": "[Chorus]"
+    }, 
+    {
+      "chord": "     Em        G            D            A", 
+      "lyrics": " I'm only a man with a chamber who's got me,"
+    }, 
+    {
+      "chord": "     Em           G           D             A", 
+      "lyrics": " I'm taking a stand to escape what's inside me."
+    }, 
+    {
+      "chord": "    Em          G", 
+      "lyrics": " A monster, A monster,"
+    }, 
+    {
+      "chord": "        D               A", 
+      "lyrics": " I've turned into a monster,"
+    }, 
+    {
+      "chord": "    Em          G", 
+      "lyrics": " A monster, A monster,"
+    }, 
+    {
+      "chord": "       D                    A", 
+      "lyrics": " And it keeps getting stronger."
+    }, 
+    {
+      "label": "[Outro]"
+    }, 
+    {
+      "chord": "", 
+      "lyrics": "Em G D A (fade out)"
+    }
+  ], 
+  "title": "Monster"
+}

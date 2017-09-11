@@ -138,41 +138,42 @@ class TextParser:
         data['artist'] = artist
         data['id'] = songID
         data['lines'] = []
-        count = 0
         print title
 
-        allChords = set()
+        allChords = []
 
-        for i in xrange(len(lines)):
-            l = lines[i]
-
-            newLine = {}
-            if(isLabel(lines[i])):
-                newLine['label'] = lines[i]
-                data['lines'].append(newLine)
-            else:
-                # Checks whether a line has chords
-                if isChordLine(lines[i]):
-
-                    newLine['lyrics'] = lines[i+1]
-                    newLine['chord'] = lines[i]
-                    newLine['count'] = count
-
-                    for c in lines[i].split():
+        lines_iter = iter(lines)
+        for line in lines_iter:
+            if isLabel(line):
+                data['lines'].append({'label': line})
+            elif isChordLine(line):
+                while True:
+                    next_line = next(lines_iter)
+                    lyrics = '' if isLabel(next_line) or isChordLine(next_line) else next_line
+                    data['lines'].append({'lyrics': lyrics, 'chord': line})
+                    for c in line.split():
                         if "/" in c:
                             c = c.split("/")[0]
-                        allChords.add(c)
-                    count += 1
-                    data['lines'].append(newLine)
+                        if c not in allChords:
+                            allChords.append(c)
+                    line = next_line
+                    if isLabel(line):
+                        data['lines'].append({'label': line})
+                        break
+                    elif not isChordLine(line):
+                        break
+            elif line:
+                data['lines'].append({'lyrics': line, 'chord': ''})
+            # FIXME: should we preserve blank lines?
 
-        data['allChords'] = list(allChords)
+        data['allChords'] = allChords
 
         title = clean(title)
         artist = clean(artist)
         fileName = dataToName(title, artist, JSON)
         jsonFile = os.path.join(JSON_FOLDER, fileName)
         with open(jsonFile, 'w') as outfile:
-            json.dump(data, outfile)
+            json.dump(data, outfile, indent=2, sort_keys=True)
 
     def allToJSON(self, toConvert):
         """
@@ -192,7 +193,7 @@ class TextParser:
             - each entry is "title - artist.txt"
         """
         allText = []
-        for fileName in os.listdir(textFolder):
+        for fileName in sorted(os.listdir(textFolder)):
             if fileName.endswith(TEXT):
                 allText.append(fileName)
         return allText
@@ -237,7 +238,7 @@ class TextParser:
         Updates allSongs.json with data from all songs
         """
         allSongs = []
-        for fileName in os.listdir(JSON_FOLDER):
+        for fileName in sorted(os.listdir(JSON_FOLDER)):
             newSong = {}
             songID = nameToID(fileName)
 
@@ -256,7 +257,7 @@ class TextParser:
             newSong["id_title"] = idToData(songID)[0]
             allSongs.append(newSong)
         with open('allSongs.json', 'w') as outfile:
-            json.dump(allSongs, outfile)
+            json.dump(allSongs, outfile, indent=2, sort_keys=True)
 
 if __name__ == "__main__":
     # Argument parsing is currently un-used
