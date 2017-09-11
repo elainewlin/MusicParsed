@@ -1,5 +1,6 @@
 import $ from "jquery";
 import "jquery-ui/ui/widgets/tooltip";
+import "jquery-ui/themes/base/all.css";
 import {songView} from "./model.js";
 import {renderChords, rerender} from "./render.js";
 import buttonTemplate from "../mustache/button.mustache";
