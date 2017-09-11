@@ -1,1 +1,191 @@
-{"allChords": ["Ab", "Cm", "Bb"], "artist": "Grimes", "lines": [{"label": "[Verse]"}, {"count": 0, "chord": "             Ab", "lyrics": "When we were young, we used to live so close to it"}, {"count": 1, "chord": "               Bb                 Cm       Bb", "lyrics": "And you were scared and you were beautiful"}, {"count": 2, "chord": "           Ab", "lyrics": "I want to peer over the edge and see in death"}, {"count": 3, "chord": "           Bb           Cm Bb", "lyrics": "If we are always the same"}, {"count": 4, "chord": "      Ab              Bb          Cm                 Bb", "lyrics": "Oh, I fear that no love will ever be like this again"}, {"count": 5, "chord": "          Ab                       Bb         Cm  Bb", "lyrics": "Cuz your love kept me alive and it made me insane"}, {"count": 6, "chord": "            Ab", "lyrics": "There were moments when it seemed okay"}, {"count": 7, "chord": "          Bb", "lyrics": "(But I go back alone)"}, {"count": 8, "chord": "             Cm", "lyrics": "Where do you go? Where do you stay?"}, {"count": 9, "chord": "      Bb", "lyrics": "(I go back alone)"}, {"count": 10, "chord": "            Ab", "lyrics": "There was a time when the music would play"}, {"count": 11, "chord": "   Bb   Cm", "lyrics": "Oh-oh-oh"}, {"label": "[Chorus]"}, {"count": 12, "chord": "    Bb          Ab                          Bb", "lyrics": "Oh, baby, every morning there are mountains to climb"}, {"count": 13, "chord": "Cm", "lyrics": "Taking all my time"}, {"count": 14, "chord": "     Bb    Ab", "lyrics": "Oh, when I get up, this is what I see"}, {"count": 15, "chord": "            Bb     Cm", "lyrics": "Welcome to reality"}, {"label": "[Verse]"}, {"count": 16, "chord": "             Ab", "lyrics": "When we were young, we used to live so close to it"}, {"count": 17, "chord": "               Bb                 Cm       Bb", "lyrics": "And you were scared and you were beautiful"}, {"count": 18, "chord": "           Ab", "lyrics": "I want to peer over the edge and see in death"}, {"count": 19, "chord": "           Bb           Cm Bb", "lyrics": "If we are always the same"}, {"count": 20, "chord": "            Ab", "lyrics": "There were moments when it seemed okay"}, {"count": 21, "chord": "          Bb", "lyrics": "(But I go back alone)"}, {"count": 22, "chord": "             Cm", "lyrics": "Where do you go? Where do you stay?"}, {"count": 23, "chord": "      Bb", "lyrics": "(I go back alone)"}, {"count": 24, "chord": "            Ab", "lyrics": "There was a time when the music would play"}, {"count": 25, "chord": "   Bb   Cm", "lyrics": "Oh-oh-oh"}, {"label": "[Chorus]"}, {"count": 26, "chord": "                Ab                          Bb", "lyrics": "Oh, baby, every morning there are mountains to climb"}, {"count": 27, "chord": "Cm", "lyrics": "Taking all my time"}, {"count": 28, "chord": "     Bb    Ab", "lyrics": "Oh, when I get up, this is what I see"}, {"count": 29, "chord": "            Bb", "lyrics": "Welcome to reality"}, {"count": 30, "chord": "Cm", "lyrics": "Oh-oh-oh"}, {"count": 31, "chord": "                Ab                          Bb", "lyrics": "Oh, baby, every morning there are mountains to climb"}, {"count": 32, "chord": "Cm", "lyrics": "Taking all my time"}, {"count": 33, "chord": "     Bb    Ab", "lyrics": "Oh, when I get up, this is what I see"}, {"count": 34, "chord": "            Bb", "lyrics": "Welcome to reality"}, {"count": 35, "chord": "Cm", "lyrics": "Oh-oh-oh"}, {"label": "[Outro]"}, {"count": 36, "chord": "                Ab", "lyrics": "Oh, baby, every"}, {"count": 37, "chord": "    Bb          Cm", "lyrics": "Oh, baby, every"}, {"count": 38, "chord": "    Bb          Ab", "lyrics": "Oh, baby, every"}, {"count": 39, "chord": "    Bb", "lyrics": "Oh, baby, every"}, {"count": 40, "chord": "Cm      Bb", "lyrics": "Oh-oh-oh"}], "id": "Realiti - Grimes", "title": "Realiti"}
+{
+  "allChords": [
+    "Ab", 
+    "Bb", 
+    "Cm"
+  ], 
+  "artist": "Grimes", 
+  "id": "Realiti - Grimes", 
+  "lines": [
+    {
+      "label": "[Verse]"
+    }, 
+    {
+      "chord": "             Ab", 
+      "lyrics": "When we were young, we used to live so close to it"
+    }, 
+    {
+      "chord": "               Bb                 Cm       Bb", 
+      "lyrics": "And you were scared and you were beautiful"
+    }, 
+    {
+      "chord": "           Ab", 
+      "lyrics": "I want to peer over the edge and see in death"
+    }, 
+    {
+      "chord": "           Bb           Cm Bb", 
+      "lyrics": "If we are always the same"
+    }, 
+    {
+      "chord": "      Ab              Bb          Cm                 Bb", 
+      "lyrics": "Oh, I fear that no love will ever be like this again"
+    }, 
+    {
+      "chord": "          Ab                       Bb         Cm  Bb", 
+      "lyrics": "Cuz your love kept me alive and it made me insane"
+    }, 
+    {
+      "chord": "            Ab", 
+      "lyrics": "There were moments when it seemed okay"
+    }, 
+    {
+      "chord": "          Bb", 
+      "lyrics": "(But I go back alone)"
+    }, 
+    {
+      "chord": "             Cm", 
+      "lyrics": "Where do you go? Where do you stay?"
+    }, 
+    {
+      "chord": "      Bb", 
+      "lyrics": "(I go back alone)"
+    }, 
+    {
+      "chord": "            Ab", 
+      "lyrics": "There was a time when the music would play"
+    }, 
+    {
+      "chord": "   Bb   Cm", 
+      "lyrics": "Oh-oh-oh"
+    }, 
+    {
+      "label": "[Chorus]"
+    }, 
+    {
+      "chord": "    Bb          Ab                          Bb", 
+      "lyrics": "Oh, baby, every morning there are mountains to climb"
+    }, 
+    {
+      "chord": "Cm", 
+      "lyrics": "Taking all my time"
+    }, 
+    {
+      "chord": "     Bb    Ab", 
+      "lyrics": "Oh, when I get up, this is what I see"
+    }, 
+    {
+      "chord": "            Bb     Cm", 
+      "lyrics": "Welcome to reality"
+    }, 
+    {
+      "label": "[Verse]"
+    }, 
+    {
+      "chord": "             Ab", 
+      "lyrics": "When we were young, we used to live so close to it"
+    }, 
+    {
+      "chord": "               Bb                 Cm       Bb", 
+      "lyrics": "And you were scared and you were beautiful"
+    }, 
+    {
+      "chord": "           Ab", 
+      "lyrics": "I want to peer over the edge and see in death"
+    }, 
+    {
+      "chord": "           Bb           Cm Bb", 
+      "lyrics": "If we are always the same"
+    }, 
+    {
+      "chord": "            Ab", 
+      "lyrics": "There were moments when it seemed okay"
+    }, 
+    {
+      "chord": "          Bb", 
+      "lyrics": "(But I go back alone)"
+    }, 
+    {
+      "chord": "             Cm", 
+      "lyrics": "Where do you go? Where do you stay?"
+    }, 
+    {
+      "chord": "      Bb", 
+      "lyrics": "(I go back alone)"
+    }, 
+    {
+      "chord": "            Ab", 
+      "lyrics": "There was a time when the music would play"
+    }, 
+    {
+      "chord": "   Bb   Cm", 
+      "lyrics": "Oh-oh-oh"
+    }, 
+    {
+      "label": "[Chorus]"
+    }, 
+    {
+      "chord": "                Ab                          Bb", 
+      "lyrics": "Oh, baby, every morning there are mountains to climb"
+    }, 
+    {
+      "chord": "Cm", 
+      "lyrics": "Taking all my time"
+    }, 
+    {
+      "chord": "     Bb    Ab", 
+      "lyrics": "Oh, when I get up, this is what I see"
+    }, 
+    {
+      "chord": "            Bb", 
+      "lyrics": "Welcome to reality"
+    }, 
+    {
+      "chord": "Cm", 
+      "lyrics": "Oh-oh-oh"
+    }, 
+    {
+      "chord": "                Ab                          Bb", 
+      "lyrics": "Oh, baby, every morning there are mountains to climb"
+    }, 
+    {
+      "chord": "Cm", 
+      "lyrics": "Taking all my time"
+    }, 
+    {
+      "chord": "     Bb    Ab", 
+      "lyrics": "Oh, when I get up, this is what I see"
+    }, 
+    {
+      "chord": "            Bb", 
+      "lyrics": "Welcome to reality"
+    }, 
+    {
+      "chord": "Cm", 
+      "lyrics": "Oh-oh-oh"
+    }, 
+    {
+      "label": "[Outro]"
+    }, 
+    {
+      "chord": "                Ab", 
+      "lyrics": "Oh, baby, every"
+    }, 
+    {
+      "chord": "    Bb          Cm", 
+      "lyrics": "Oh, baby, every"
+    }, 
+    {
+      "chord": "    Bb          Ab", 
+      "lyrics": "Oh, baby, every"
+    }, 
+    {
+      "chord": "    Bb", 
+      "lyrics": "Oh, baby, every"
+    }, 
+    {
+      "chord": "Cm      Bb", 
+      "lyrics": "Oh-oh-oh"
+    }
+  ], 
+  "title": "Realiti"
+}

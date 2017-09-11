@@ -1,1 +1,184 @@
-{"allChords": ["Em", "C", "B", "D", "G", "C#", "Am", "D#", "A#m", "G#", "Fm"], "artist": "Disney", "lines": [{"label": "[Verse 1]"}, {"count": 0, "chord": "Em        D       G", "lyrics": "Let's get down to business"}, {"count": 1, "chord": "   Am          D", "lyrics": "To de-feat the Huns"}, {"count": 2, "chord": "Em       D       G", "lyrics": "Did they send me daughters"}, {"count": 3, "chord": "       Am        D", "lyrics": "When I asked for sons?"}, {"label": "[Chorus]"}, {"count": 4, "chord": "           C               D", "lyrics": "You're the saddest bunch I ever met"}, {"count": 5, "chord": "            G                C", "lyrics": "But you can bet before we're through"}, {"count": 6, "chord": "        C           D           Em", "lyrics": "Mister, I'll make a man out of you"}, {"label": "[Verse 2]"}, {"count": 7, "chord": "Em       D    G", "lyrics": "Tranquil as a forest"}, {"count": 8, "chord": "       Am       D", "lyrics": "But on fire within"}, {"count": 9, "chord": "Em       D         G", "lyrics": "Once you find your center"}, {"count": 10, "chord": "        Am      D", "lyrics": "you are sure to win"}, {"label": "[Chorus]"}, {"count": 11, "chord": "         C               D", "lyrics": "You're a spineless, pale pathetic lot"}, {"count": 12, "chord": "        G             C", "lyrics": "And you haven't got a clue"}, {"count": 13, "chord": "        C           D          Em", "lyrics": "Somehow I'll make a man out of you"}, {"count": 14, "chord": "C               D", "lyrics": "I'm never gonna catch my breath"}, {"count": 15, "chord": "B                         Em", "lyrics": "Say good-bye to those who knew me"}, {"count": 16, "chord": "D                    G                  C", "lyrics": "Boy, was I a fool in school for cutting gym"}, {"count": 17, "chord": "C                  D", "lyrics": "This guy's got 'em scared to death"}, {"count": 18, "chord": "B                         Em", "lyrics": "Hope he doesn't see right through me"}, {"count": 19, "chord": "D                      G             C", "lyrics": "Now I really wish that I knew how to swim"}, {"label": "[Chorus 2]"}, {"count": 20, "chord": "C                     D            B        Em", "lyrics": "(Be a man) We must be swift as the coursing ri-ver"}, {"count": 21, "chord": "C                       D          B", "lyrics": "(Be a man) With all the force of a great typhoon"}, {"count": 22, "chord": "C                       D             B     Em", "lyrics": "(Be a man) With all the strength of a raging fire"}, {"count": 23, "chord": "C                 D", "lyrics": "Mysterious as the dark side of the moon"}, {"label": "[Verse 3]"}, {"count": 24, "chord": "Fm       D#      G#", "lyrics": "Time is racing toward us"}, {"count": 25, "chord": "         A#m  D#", "lyrics": "till the Huns arrive"}, {"count": 26, "chord": "Fm      D#   G#", "lyrics": "Heed my every order"}, {"count": 27, "chord": "        A#m       D#", "lyrics": "and you might survive"}, {"label": "[Chorus 3]"}, {"count": 28, "chord": "       C#                D#", "lyrics": "You're unsuited for the rage of war"}, {"count": 29, "chord": "        G#                 C#", "lyrics": "So pack up, go home you're through"}, {"count": 30, "chord": "                   D#         Fm", "lyrics": "How could I make a man out of you?"}, {"label": "[Chorus 2]"}, {"count": 31, "chord": "C#                     D#          C        Fm", "lyrics": "(Be a man) We must be swift as the coursing ri-ver"}, {"count": 32, "chord": "C#                      D#         C", "lyrics": "(Be a man) With all the force of a great typhoon"}, {"count": 33, "chord": "C#                      D#            C     Fm", "lyrics": "(Be a man) With all the strength of a raging fire"}, {"count": 34, "chord": "C#                 D#              Fm", "lyrics": "Mysterious as the dark side of the moon"}], "id": "I'll Make A Man Out Of You - Disney", "title": "I'll Make A Man Out Of You"}
+{
+  "allChords": [
+    "Em", 
+    "D", 
+    "G", 
+    "Am", 
+    "C", 
+    "B", 
+    "Fm", 
+    "D#", 
+    "G#", 
+    "A#m", 
+    "C#"
+  ], 
+  "artist": "Disney", 
+  "id": "I'll Make A Man Out Of You - Disney", 
+  "lines": [
+    {
+      "label": "[Verse 1]"
+    }, 
+    {
+      "chord": "Em        D       G", 
+      "lyrics": "Let's get down to business"
+    }, 
+    {
+      "chord": "   Am          D", 
+      "lyrics": "To de-feat the Huns"
+    }, 
+    {
+      "chord": "Em       D       G", 
+      "lyrics": "Did they send me daughters"
+    }, 
+    {
+      "chord": "       Am        D", 
+      "lyrics": "When I asked for sons?"
+    }, 
+    {
+      "label": "[Chorus]"
+    }, 
+    {
+      "chord": "           C               D", 
+      "lyrics": "You're the saddest bunch I ever met"
+    }, 
+    {
+      "chord": "            G                C", 
+      "lyrics": "But you can bet before we're through"
+    }, 
+    {
+      "chord": "        C           D           Em", 
+      "lyrics": "Mister, I'll make a man out of you"
+    }, 
+    {
+      "label": "[Verse 2]"
+    }, 
+    {
+      "chord": "Em       D    G", 
+      "lyrics": "Tranquil as a forest"
+    }, 
+    {
+      "chord": "       Am       D", 
+      "lyrics": "But on fire within"
+    }, 
+    {
+      "chord": "Em       D         G", 
+      "lyrics": "Once you find your center"
+    }, 
+    {
+      "chord": "        Am      D", 
+      "lyrics": "you are sure to win"
+    }, 
+    {
+      "label": "[Chorus]"
+    }, 
+    {
+      "chord": "         C               D", 
+      "lyrics": "You're a spineless, pale pathetic lot"
+    }, 
+    {
+      "chord": "        G             C", 
+      "lyrics": "And you haven't got a clue"
+    }, 
+    {
+      "chord": "        C           D          Em", 
+      "lyrics": "Somehow I'll make a man out of you"
+    }, 
+    {
+      "chord": "C               D", 
+      "lyrics": "I'm never gonna catch my breath"
+    }, 
+    {
+      "chord": "B                         Em", 
+      "lyrics": "Say good-bye to those who knew me"
+    }, 
+    {
+      "chord": "D                    G                  C", 
+      "lyrics": "Boy, was I a fool in school for cutting gym"
+    }, 
+    {
+      "chord": "C                  D", 
+      "lyrics": "This guy's got 'em scared to death"
+    }, 
+    {
+      "chord": "B                         Em", 
+      "lyrics": "Hope he doesn't see right through me"
+    }, 
+    {
+      "chord": "D                      G             C", 
+      "lyrics": "Now I really wish that I knew how to swim"
+    }, 
+    {
+      "label": "[Chorus 2]"
+    }, 
+    {
+      "chord": "C                     D            B        Em", 
+      "lyrics": "(Be a man) We must be swift as the coursing ri-ver"
+    }, 
+    {
+      "chord": "C                       D          B", 
+      "lyrics": "(Be a man) With all the force of a great typhoon"
+    }, 
+    {
+      "chord": "C                       D             B     Em", 
+      "lyrics": "(Be a man) With all the strength of a raging fire"
+    }, 
+    {
+      "chord": "C                 D", 
+      "lyrics": "Mysterious as the dark side of the moon"
+    }, 
+    {
+      "label": "[Verse 3]"
+    }, 
+    {
+      "chord": "Fm       D#      G#", 
+      "lyrics": "Time is racing toward us"
+    }, 
+    {
+      "chord": "         A#m  D#", 
+      "lyrics": "till the Huns arrive"
+    }, 
+    {
+      "chord": "Fm      D#   G#", 
+      "lyrics": "Heed my every order"
+    }, 
+    {
+      "chord": "        A#m       D#", 
+      "lyrics": "and you might survive"
+    }, 
+    {
+      "label": "[Chorus 3]"
+    }, 
+    {
+      "chord": "       C#                D#", 
+      "lyrics": "You're unsuited for the rage of war"
+    }, 
+    {
+      "chord": "        G#                 C#", 
+      "lyrics": "So pack up, go home you're through"
+    }, 
+    {
+      "chord": "                   D#         Fm", 
+      "lyrics": "How could I make a man out of you?"
+    }, 
+    {
+      "label": "[Chorus 2]"
+    }, 
+    {
+      "chord": "C#                     D#          C        Fm", 
+      "lyrics": "(Be a man) We must be swift as the coursing ri-ver"
+    }, 
+    {
+      "chord": "C#                      D#         C", 
+      "lyrics": "(Be a man) With all the force of a great typhoon"
+    }, 
+    {
+      "chord": "C#                      D#            C     Fm", 
+      "lyrics": "(Be a man) With all the strength of a raging fire"
+    }, 
+    {
+      "chord": "C#                 D#              Fm", 
+      "lyrics": "Mysterious as the dark side of the moon"
+    }
+  ], 
+  "title": "I'll Make A Man Out Of You"
+}

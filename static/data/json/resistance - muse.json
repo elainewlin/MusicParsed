@@ -1,1 +1,217 @@
-{"allChords": ["A", "C", "Dm", "E", "F5", "G", "F", "Am", "B5", "A5", "D5", "C5"], "artist": "Muse", "lines": [{"count": 0, "chord": "               Am", "lyrics": "Is your secret safe tonight?"}, {"count": 1, "chord": "           G", "lyrics": "And are we out of sight?"}, {"count": 2, "chord": "            F                   E", "lyrics": "Or will our world come tumbling down?"}, {"count": 3, "chord": "                   Am", "lyrics": "Will they find our hiding place?"}, {"count": 4, "chord": "            G", "lyrics": "Is this our last embrace?"}, {"count": 5, "chord": "            F", "lyrics": "Or will the walls start caving in?"}, {"label": "[Bridge]"}, {"count": 6, "chord": "F                                                         Am", "lyrics": "(It could be wrong, could be wrong) But it should've been right"}, {"count": 7, "chord": "                                                   G", "lyrics": "(It could be wrong, could be wrong) Let our hearts ignite"}, {"count": 8, "chord": "                                                     F", "lyrics": "(It could be wrong, could be wrong) Are we digging a hole?"}, {"count": 9, "chord": "                                                   Am", "lyrics": "(It could be wrong, could be wrong) It could never last"}, {"count": 10, "chord": "                                                     G", "lyrics": "(It could be wrong, could be wrong) Left to raise it fast"}, {"count": 11, "chord": "                                                         F", "lyrics": "(It could be wrong, could be wrong) But it could've been right"}, {"label": "[Chorus]"}, {"count": 12, "chord": "              C", "lyrics": "Love is our resistance"}, {"count": 13, "chord": "                                                   G", "lyrics": "They keep us apart and they won't stop breaking us down"}, {"count": 14, "chord": "    Am                     Am/G      F       E", "lyrics": "And hold me, our lips must always be sealed"}, {"count": 15, "chord": "Am G F E", "lyrics": ""}, {"count": 16, "chord": "               Am", "lyrics": "If we live our life in fear"}, {"count": 17, "chord": "            G", "lyrics": "I'll wait a thousand years"}, {"count": 18, "chord": "        F              E", "lyrics": "Just to see you smile again"}, {"count": 19, "chord": "                       Am", "lyrics": "Quell your prayers for love and peace"}, {"count": 20, "chord": "                G", "lyrics": "You'll wake the thought police"}, {"count": 21, "chord": "       F", "lyrics": "We can hide the truth inside"}, {"label": "[Bridge]"}, {"count": 22, "chord": "F                                                         Am", "lyrics": "(It could be wrong, could be wrong) But it should've been right"}, {"count": 23, "chord": "                                                   G", "lyrics": "(It could be wrong, could be wrong) Let our hearts ignite"}, {"count": 24, "chord": "                                                     F", "lyrics": "(It could be wrong, could be wrong) Are we digging a hole?"}, {"count": 25, "chord": "                                                   Am", "lyrics": "(It could be wrong, could be wrong) It could never last"}, {"count": 26, "chord": "                                                     G", "lyrics": "(It could be wrong, could be wrong) Left to raise it fast"}, {"count": 27, "chord": "                                                         F", "lyrics": "(It could be wrong, could be wrong) But it could've been right"}, {"label": "[Chorus]"}, {"count": 28, "chord": "              C", "lyrics": "Love is our resistance"}, {"count": 29, "chord": "                                                   G", "lyrics": "They keep us apart and they won't stop breaking us down"}, {"count": 30, "chord": "    Am                     Am/G      F       E", "lyrics": "And hold me, our lips must always be sealed"}, {"count": 31, "chord": "Am G F E", "lyrics": ""}, {"count": 32, "chord": "               Am", "lyrics": "If we live our life in fear"}, {"count": 33, "chord": "            G", "lyrics": "I'll wait a thousand years"}, {"count": 34, "chord": "        F              E", "lyrics": "Just to see you smile again"}, {"count": 35, "chord": "                       Am", "lyrics": "Quell your prayers for love and peace"}, {"count": 36, "chord": "                G", "lyrics": "You'll wake the thought police"}, {"count": 37, "chord": "       F", "lyrics": "We can hide the truth inside"}, {"count": 38, "chord": "              C", "lyrics": "The night has reached its end"}, {"count": 39, "chord": "         G", "lyrics": "We can't pretend"}, {"count": 40, "chord": "        F Am G", "lyrics": "We must run"}, {"count": 41, "chord": "        F Am G", "lyrics": "We must run"}, {"count": 42, "chord": "             F Am G E F", "lyrics": "It's time to run"}, {"count": 43, "chord": "A           Dm", "lyrics": "Take us away from here"}, {"count": 44, "chord": "   A              Dm         C", "lyrics": "Protect us from further harm"}, {"count": 45, "chord": "  G  A5    B5 C5 D5 F5", "lyrics": "Resistance!"}], "id": "Resistance - Muse", "title": "Resistance"}
+{
+  "allChords": [
+    "Am", 
+    "G", 
+    "F", 
+    "E", 
+    "C", 
+    "A", 
+    "Dm", 
+    "A5", 
+    "B5", 
+    "C5", 
+    "D5", 
+    "F5"
+  ], 
+  "artist": "Muse", 
+  "id": "Resistance - Muse", 
+  "lines": [
+    {
+      "chord": "               Am", 
+      "lyrics": "Is your secret safe tonight?"
+    }, 
+    {
+      "chord": "           G", 
+      "lyrics": "And are we out of sight?"
+    }, 
+    {
+      "chord": "            F                   E", 
+      "lyrics": "Or will our world come tumbling down?"
+    }, 
+    {
+      "chord": "                   Am", 
+      "lyrics": "Will they find our hiding place?"
+    }, 
+    {
+      "chord": "            G", 
+      "lyrics": "Is this our last embrace?"
+    }, 
+    {
+      "chord": "            F", 
+      "lyrics": "Or will the walls start caving in?"
+    }, 
+    {
+      "label": "[Bridge]"
+    }, 
+    {
+      "chord": "F                                                         Am", 
+      "lyrics": "(It could be wrong, could be wrong) But it should've been right"
+    }, 
+    {
+      "chord": "                                                   G", 
+      "lyrics": "(It could be wrong, could be wrong) Let our hearts ignite"
+    }, 
+    {
+      "chord": "                                                     F", 
+      "lyrics": "(It could be wrong, could be wrong) Are we digging a hole?"
+    }, 
+    {
+      "chord": "                                                   Am", 
+      "lyrics": "(It could be wrong, could be wrong) It could never last"
+    }, 
+    {
+      "chord": "                                                     G", 
+      "lyrics": "(It could be wrong, could be wrong) Left to raise it fast"
+    }, 
+    {
+      "chord": "                                                         F", 
+      "lyrics": "(It could be wrong, could be wrong) But it could've been right"
+    }, 
+    {
+      "label": "[Chorus]"
+    }, 
+    {
+      "chord": "              C", 
+      "lyrics": "Love is our resistance"
+    }, 
+    {
+      "chord": "                                                   G", 
+      "lyrics": "They keep us apart and they won't stop breaking us down"
+    }, 
+    {
+      "chord": "    Am                     Am/G      F       E", 
+      "lyrics": "And hold me, our lips must always be sealed"
+    }, 
+    {
+      "chord": "Am G F E", 
+      "lyrics": ""
+    }, 
+    {
+      "chord": "               Am", 
+      "lyrics": "If we live our life in fear"
+    }, 
+    {
+      "chord": "            G", 
+      "lyrics": "I'll wait a thousand years"
+    }, 
+    {
+      "chord": "        F              E", 
+      "lyrics": "Just to see you smile again"
+    }, 
+    {
+      "chord": "                       Am", 
+      "lyrics": "Quell your prayers for love and peace"
+    }, 
+    {
+      "chord": "                G", 
+      "lyrics": "You'll wake the thought police"
+    }, 
+    {
+      "chord": "       F", 
+      "lyrics": "We can hide the truth inside"
+    }, 
+    {
+      "label": "[Bridge]"
+    }, 
+    {
+      "chord": "F                                                         Am", 
+      "lyrics": "(It could be wrong, could be wrong) But it should've been right"
+    }, 
+    {
+      "chord": "                                                   G", 
+      "lyrics": "(It could be wrong, could be wrong) Let our hearts ignite"
+    }, 
+    {
+      "chord": "                                                     F", 
+      "lyrics": "(It could be wrong, could be wrong) Are we digging a hole?"
+    }, 
+    {
+      "chord": "                                                   Am", 
+      "lyrics": "(It could be wrong, could be wrong) It could never last"
+    }, 
+    {
+      "chord": "                                                     G", 
+      "lyrics": "(It could be wrong, could be wrong) Left to raise it fast"
+    }, 
+    {
+      "chord": "                                                         F", 
+      "lyrics": "(It could be wrong, could be wrong) But it could've been right"
+    }, 
+    {
+      "label": "[Chorus]"
+    }, 
+    {
+      "chord": "              C", 
+      "lyrics": "Love is our resistance"
+    }, 
+    {
+      "chord": "                                                   G", 
+      "lyrics": "They keep us apart and they won't stop breaking us down"
+    }, 
+    {
+      "chord": "    Am                     Am/G      F       E", 
+      "lyrics": "And hold me, our lips must always be sealed"
+    }, 
+    {
+      "chord": "Am G F E", 
+      "lyrics": ""
+    }, 
+    {
+      "chord": "               Am", 
+      "lyrics": "If we live our life in fear"
+    }, 
+    {
+      "chord": "            G", 
+      "lyrics": "I'll wait a thousand years"
+    }, 
+    {
+      "chord": "        F              E", 
+      "lyrics": "Just to see you smile again"
+    }, 
+    {
+      "chord": "                       Am", 
+      "lyrics": "Quell your prayers for love and peace"
+    }, 
+    {
+      "chord": "                G", 
+      "lyrics": "You'll wake the thought police"
+    }, 
+    {
+      "chord": "       F", 
+      "lyrics": "We can hide the truth inside"
+    }, 
+    {
+      "chord": "              C", 
+      "lyrics": "The night has reached its end"
+    }, 
+    {
+      "chord": "         G", 
+      "lyrics": "We can't pretend"
+    }, 
+    {
+      "chord": "        F Am G", 
+      "lyrics": "We must run"
+    }, 
+    {
+      "chord": "        F Am G", 
+      "lyrics": "We must run"
+    }, 
+    {
+      "chord": "             F Am G E F", 
+      "lyrics": "It's time to run"
+    }, 
+    {
+      "chord": "A           Dm", 
+      "lyrics": "Take us away from here"
+    }, 
+    {
+      "chord": "   A              Dm         C", 
+      "lyrics": "Protect us from further harm"
+    }, 
+    {
+      "chord": "  G  A5    B5 C5 D5 F5", 
+      "lyrics": "Resistance!"
+    }
+  ], 
+  "title": "Resistance"
+}

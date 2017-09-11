@@ -1,1 +1,232 @@
-{"allChords": ["C#", "A#", "C7", "Fm", "D#"], "artist": "Melanie Martinez", "lines": [{"label": "[Verse 1]"}, {"count": 0, "chord": "Fm            C#               A#", "lyrics": "Looking at me through your window"}, {"count": 1, "chord": "         Fm               C#       A#", "lyrics": "Boy, you had your eye out for a little"}, {"count": 2, "chord": "      Fm              C#         A#", "lyrics": "\"I'll cut you up and make you dinner"}, {"count": 3, "chord": "        Fm                  C#        C7", "lyrics": "You've reached the end, you are the winner\""}, {"count": 4, "chord": "Fm                 C#        A#", "lyrics": "Rolling down your tinted window"}, {"count": 5, "chord": "Fm              C#         A#", "lyrics": "Driving next to me real slow, he said"}, {"count": 6, "chord": "Fm                C#       A#", "lyrics": "\"Let me take you for a joyride"}, {"count": 7, "chord": "Fm                  C#         C7", "lyrics": "I've got some candy for you inside\""}, {"label": "[Chorus]"}, {"count": 8, "chord": "Fm                  C#", "lyrics": "Running through the parking lot"}, {"count": 9, "chord": "    D#            A#", "lyrics": "He chased me and he wouldn't stop"}, {"count": 10, "chord": "Fm          C#   D#                A#", "lyrics": "Tag, you're it, tag, tag, you're it"}, {"count": 11, "chord": "Fm               C#", "lyrics": "Grabbed my hand, pushed me down"}, {"count": 12, "chord": "D#                    A#", "lyrics": "Took the words right out my mouth"}, {"count": 13, "chord": "Fm          C#   D#                A#", "lyrics": "Tag, you're it, tag, tag, you're it"}, {"count": 14, "chord": "    Fm      C#            D#             A#", "lyrics": "Can anybody hear me? I'm hidden under ground"}, {"count": 15, "chord": "    Fm      C#             D#            A#", "lyrics": "Can anybody hear me? Am I talking to myself?"}, {"count": 16, "chord": "        Fm           C#   D#                A#", "lyrics": "Saying, \"tag, you're it, tag, tag, you're it\""}, {"count": 17, "chord": "              Fm          C#   D#                A#", "lyrics": "He's saying, \"tag, you're it, tag, tag, you're it\""}, {"label": "[Verse 2]"}, {"count": 18, "chord": "Fm            C#         A#", "lyrics": "Little bit of poison in me"}, {"count": 19, "chord": "Fm               C#           A#", "lyrics": "I can taste your skin in my teeth"}, {"count": 20, "chord": "   Fm             C#            A#", "lyrics": "\"I love it when I hear you breathing"}, {"count": 21, "chord": "  Fm                 C#        C7", "lyrics": "I hope to God you're never leaving\""}, {"label": "[Chorus]"}, {"count": 22, "chord": "Fm                  C#", "lyrics": "Running through the parking lot"}, {"count": 23, "chord": "    D#            A#", "lyrics": "He chased me and he wouldn't stop"}, {"count": 24, "chord": "Fm          C#   D#                A#", "lyrics": "Tag, you're it, tag, tag, you're it"}, {"count": 25, "chord": "Fm               C#", "lyrics": "Grabbed my hand, pushed me down"}, {"count": 26, "chord": "D#                    A#", "lyrics": "Took the words right out my mouth"}, {"count": 27, "chord": "Fm          C#   D#                A#", "lyrics": "Tag, you're it, tag, tag, you're it"}, {"count": 28, "chord": "    Fm      C#            D#             A#", "lyrics": "Can anybody hear me? I'm hidden under ground"}, {"count": 29, "chord": "    Fm      C#             D#            A#", "lyrics": "Can anybody hear me? Am I talking to myself?"}, {"count": 30, "chord": "        Fm           C#   D#                A#", "lyrics": "Saying, \"tag, you're it, tag, tag, you're it\""}, {"count": 31, "chord": "              Fm          C#   D#                A#", "lyrics": "He's saying, \"tag, you're it, tag, tag, you're it\""}, {"label": "[Bridge]"}, {"count": 32, "chord": "Fm           C#", "lyrics": "Eenie meenie miny mo"}, {"count": 33, "chord": "A#", "lyrics": "Catch your lady by her toes"}, {"count": 34, "chord": "Fm                    C#           A#", "lyrics": "If she screams, don't let her go"}, {"count": 35, "chord": "Fm           C#", "lyrics": "Eenie meenie miny mo"}, {"count": 36, "chord": "     A#                            Fm       C#", "lyrics": "Your mother said to pick the very best girl"}, {"count": 37, "chord": "      C7", "lyrics": "And I am"}, {"label": "[Chorus]"}, {"count": 38, "chord": "Fm                  C#", "lyrics": "Running through the parking lot"}, {"count": 39, "chord": "    D#            A#", "lyrics": "He chased me and he wouldn't stop"}, {"count": 40, "chord": "Fm          C#   D#                A#", "lyrics": "Tag, you're it, tag, tag, you're it"}, {"count": 41, "chord": "Fm               C#", "lyrics": "Grabbed my hand, pushed me down"}, {"count": 42, "chord": "D#                    A#", "lyrics": "Took the words right out my mouth"}, {"count": 43, "chord": "Fm          C#   D#                A#", "lyrics": "Tag, you're it, tag, tag, you're it"}, {"count": 44, "chord": "Fm                  C#", "lyrics": "Running through the parking lot"}, {"count": 45, "chord": "    D#            A#", "lyrics": "He chased me and he wouldn't stop"}, {"count": 46, "chord": "Fm          C#   D#                A#", "lyrics": "Tag, you're it, tag, tag, you're it"}, {"count": 47, "chord": "Fm               C#", "lyrics": "Grabbed my hand, pushed me down"}, {"count": 48, "chord": "D#                    A#", "lyrics": "Took the words right out my mouth"}, {"count": 49, "chord": "Fm          C#   D#                A#", "lyrics": "Tag, you're it, tag, tag, you're it"}], "id": "Tag You're It - Melanie Martinez", "title": "Tag You're It"}
+{
+  "allChords": [
+    "Fm", 
+    "C#", 
+    "A#", 
+    "C7", 
+    "D#"
+  ], 
+  "artist": "Melanie Martinez", 
+  "id": "Tag You're It - Melanie Martinez", 
+  "lines": [
+    {
+      "label": "[Verse 1]"
+    }, 
+    {
+      "chord": "Fm            C#               A#", 
+      "lyrics": "Looking at me through your window"
+    }, 
+    {
+      "chord": "         Fm               C#       A#", 
+      "lyrics": "Boy, you had your eye out for a little"
+    }, 
+    {
+      "chord": "      Fm              C#         A#", 
+      "lyrics": "\"I'll cut you up and make you dinner"
+    }, 
+    {
+      "chord": "        Fm                  C#        C7", 
+      "lyrics": "You've reached the end, you are the winner\""
+    }, 
+    {
+      "chord": "Fm                 C#        A#", 
+      "lyrics": "Rolling down your tinted window"
+    }, 
+    {
+      "chord": "Fm              C#         A#", 
+      "lyrics": "Driving next to me real slow, he said"
+    }, 
+    {
+      "chord": "Fm                C#       A#", 
+      "lyrics": "\"Let me take you for a joyride"
+    }, 
+    {
+      "chord": "Fm                  C#         C7", 
+      "lyrics": "I've got some candy for you inside\""
+    }, 
+    {
+      "label": "[Chorus]"
+    }, 
+    {
+      "chord": "Fm                  C#", 
+      "lyrics": "Running through the parking lot"
+    }, 
+    {
+      "chord": "    D#            A#", 
+      "lyrics": "He chased me and he wouldn't stop"
+    }, 
+    {
+      "chord": "Fm          C#   D#                A#", 
+      "lyrics": "Tag, you're it, tag, tag, you're it"
+    }, 
+    {
+      "chord": "Fm               C#", 
+      "lyrics": "Grabbed my hand, pushed me down"
+    }, 
+    {
+      "chord": "D#                    A#", 
+      "lyrics": "Took the words right out my mouth"
+    }, 
+    {
+      "chord": "Fm          C#   D#                A#", 
+      "lyrics": "Tag, you're it, tag, tag, you're it"
+    }, 
+    {
+      "chord": "    Fm      C#            D#             A#", 
+      "lyrics": "Can anybody hear me? I'm hidden under ground"
+    }, 
+    {
+      "chord": "    Fm      C#             D#            A#", 
+      "lyrics": "Can anybody hear me? Am I talking to myself?"
+    }, 
+    {
+      "chord": "        Fm           C#   D#                A#", 
+      "lyrics": "Saying, \"tag, you're it, tag, tag, you're it\""
+    }, 
+    {
+      "chord": "              Fm          C#   D#                A#", 
+      "lyrics": "He's saying, \"tag, you're it, tag, tag, you're it\""
+    }, 
+    {
+      "label": "[Verse 2]"
+    }, 
+    {
+      "chord": "Fm            C#         A#", 
+      "lyrics": "Little bit of poison in me"
+    }, 
+    {
+      "chord": "Fm               C#           A#", 
+      "lyrics": "I can taste your skin in my teeth"
+    }, 
+    {
+      "chord": "   Fm             C#            A#", 
+      "lyrics": "\"I love it when I hear you breathing"
+    }, 
+    {
+      "chord": "  Fm                 C#        C7", 
+      "lyrics": "I hope to God you're never leaving\""
+    }, 
+    {
+      "label": "[Chorus]"
+    }, 
+    {
+      "chord": "Fm                  C#", 
+      "lyrics": "Running through the parking lot"
+    }, 
+    {
+      "chord": "    D#            A#", 
+      "lyrics": "He chased me and he wouldn't stop"
+    }, 
+    {
+      "chord": "Fm          C#   D#                A#", 
+      "lyrics": "Tag, you're it, tag, tag, you're it"
+    }, 
+    {
+      "chord": "Fm               C#", 
+      "lyrics": "Grabbed my hand, pushed me down"
+    }, 
+    {
+      "chord": "D#                    A#", 
+      "lyrics": "Took the words right out my mouth"
+    }, 
+    {
+      "chord": "Fm          C#   D#                A#", 
+      "lyrics": "Tag, you're it, tag, tag, you're it"
+    }, 
+    {
+      "chord": "    Fm      C#            D#             A#", 
+      "lyrics": "Can anybody hear me? I'm hidden under ground"
+    }, 
+    {
+      "chord": "    Fm      C#             D#            A#", 
+      "lyrics": "Can anybody hear me? Am I talking to myself?"
+    }, 
+    {
+      "chord": "        Fm           C#   D#                A#", 
+      "lyrics": "Saying, \"tag, you're it, tag, tag, you're it\""
+    }, 
+    {
+      "chord": "              Fm          C#   D#                A#", 
+      "lyrics": "He's saying, \"tag, you're it, tag, tag, you're it\""
+    }, 
+    {
+      "label": "[Bridge]"
+    }, 
+    {
+      "chord": "Fm           C#", 
+      "lyrics": "Eenie meenie miny mo"
+    }, 
+    {
+      "chord": "A#", 
+      "lyrics": "Catch your lady by her toes"
+    }, 
+    {
+      "chord": "Fm                    C#           A#", 
+      "lyrics": "If she screams, don't let her go"
+    }, 
+    {
+      "chord": "Fm           C#", 
+      "lyrics": "Eenie meenie miny mo"
+    }, 
+    {
+      "chord": "     A#                            Fm       C#", 
+      "lyrics": "Your mother said to pick the very best girl"
+    }, 
+    {
+      "chord": "      C7", 
+      "lyrics": "And I am"
+    }, 
+    {
+      "label": "[Chorus]"
+    }, 
+    {
+      "chord": "Fm                  C#", 
+      "lyrics": "Running through the parking lot"
+    }, 
+    {
+      "chord": "    D#            A#", 
+      "lyrics": "He chased me and he wouldn't stop"
+    }, 
+    {
+      "chord": "Fm          C#   D#                A#", 
+      "lyrics": "Tag, you're it, tag, tag, you're it"
+    }, 
+    {
+      "chord": "Fm               C#", 
+      "lyrics": "Grabbed my hand, pushed me down"
+    }, 
+    {
+      "chord": "D#                    A#", 
+      "lyrics": "Took the words right out my mouth"
+    }, 
+    {
+      "chord": "Fm          C#   D#                A#", 
+      "lyrics": "Tag, you're it, tag, tag, you're it"
+    }, 
+    {
+      "chord": "Fm                  C#", 
+      "lyrics": "Running through the parking lot"
+    }, 
+    {
+      "chord": "    D#            A#", 
+      "lyrics": "He chased me and he wouldn't stop"
+    }, 
+    {
+      "chord": "Fm          C#   D#                A#", 
+      "lyrics": "Tag, you're it, tag, tag, you're it"
+    }, 
+    {
+      "chord": "Fm               C#", 
+      "lyrics": "Grabbed my hand, pushed me down"
+    }, 
+    {
+      "chord": "D#                    A#", 
+      "lyrics": "Took the words right out my mouth"
+    }, 
+    {
+      "chord": "Fm          C#   D#                A#", 
+      "lyrics": "Tag, you're it, tag, tag, you're it"
+    }
+  ], 
+  "title": "Tag You're It"
+}

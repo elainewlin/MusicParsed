@@ -1,1 +1,152 @@
-{"allChords": ["A", "G7", "B", "E", "D", "G", "Bm", "G#m", "C#m", "F#", "A7", "F#m"], "artist": "Disney", "lines": [{"label": "[Verse]"}, {"count": 0, "chord": "       D               F#m          G         A", "lyrics": "All my life has been a series of doors in my face"}, {"count": 1, "chord": "         D          F#m       G       A", "lyrics": "And then suddenly I bump into you"}, {"count": 2, "chord": "D                   F#m                G         A", "lyrics": "I've been searching my whole life to find my own place"}, {"count": 3, "chord": "          D              F#m              Bm          A", "lyrics": "And maybe it's the party talking or the chocolate fondue"}, {"count": 4, "chord": "         Bm", "lyrics": "But with you (But with you)"}, {"count": 5, "chord": "        D", "lyrics": "I found my place (I see your face)"}, {"count": 6, "chord": "         E                              G7", "lyrics": "And it's nothing like I've ever known before"}, {"label": "[Chorus]"}, {"count": 7, "chord": "                D   F#m  E  G7", "lyrics": "Love is an open door"}, {"count": 8, "chord": "                D   F#m  E  G7", "lyrics": "Love is an open door"}, {"count": 9, "chord": "                D", "lyrics": "Love is an open door"}, {"count": 10, "chord": "      F#m            E", "lyrics": "With you (with you). With you (with you)!"}, {"count": 11, "chord": "G7              D   F#m  G  A", "lyrics": "Love is an open door"}, {"label": "[Instrumental]"}, {"count": 12, "chord": "D   F#m   G   A", "lyrics": "[Verse]"}, {"label": "[Verse]"}, {"count": 13, "chord": "            E", "lyrics": "I mean it's crazy"}, {"count": 14, "chord": "   G#m                  A        B", "lyrics": "We finish each other's... Sandwiches! (that's what I was gonna say!)"}, {"count": 15, "chord": "           E", "lyrics": "I've never met someone"}, {"count": 16, "chord": "    G#m                 A    B", "lyrics": "Who thinks so much like me"}, {"count": 17, "chord": "    E               G#m", "lyrics": "Our mental synchronization"}, {"count": 18, "chord": "    A                 B", "lyrics": "Can have but one explanation"}, {"count": 19, "chord": "E         G#m", "lyrics": "You (and I) were (just)"}, {"count": 20, "chord": "         A      B", "lyrics": "Meant to be"}, {"count": 21, "chord": "        C#m", "lyrics": "Say goodbye (say goodbye)"}, {"count": 22, "chord": "        E", "lyrics": "To the pain of the past"}, {"count": 23, "chord": "F#                         A7", "lyrics": "We don't have to feel it anymore"}, {"label": "[Chorus]"}, {"count": 24, "chord": "                E   G#m  F#  A7", "lyrics": "Love is an open door"}, {"count": 25, "chord": "                E   G#m  F#  A7", "lyrics": "Love is an open door"}, {"count": 26, "chord": "                    E", "lyrics": "Life can be so much more"}, {"count": 27, "chord": "       G#m           F#", "lyrics": "With you (with you). With you (with you)!"}, {"count": 28, "chord": "A7              E", "lyrics": "Love is an open door (door)"}], "id": "Love Is An Open Door - Disney", "title": "Love Is An Open Door"}
+{
+  "allChords": [
+    "D", 
+    "F#m", 
+    "G", 
+    "A", 
+    "Bm", 
+    "E", 
+    "G7", 
+    "G#m", 
+    "B", 
+    "C#m", 
+    "F#", 
+    "A7"
+  ], 
+  "artist": "Disney", 
+  "id": "Love Is An Open Door - Disney", 
+  "lines": [
+    {
+      "label": "[Verse]"
+    }, 
+    {
+      "chord": "       D               F#m          G         A", 
+      "lyrics": "All my life has been a series of doors in my face"
+    }, 
+    {
+      "chord": "         D          F#m       G       A", 
+      "lyrics": "And then suddenly I bump into you"
+    }, 
+    {
+      "chord": "D                   F#m                G         A", 
+      "lyrics": "I've been searching my whole life to find my own place"
+    }, 
+    {
+      "chord": "          D              F#m              Bm          A", 
+      "lyrics": "And maybe it's the party talking or the chocolate fondue"
+    }, 
+    {
+      "chord": "         Bm", 
+      "lyrics": "But with you (But with you)"
+    }, 
+    {
+      "chord": "        D", 
+      "lyrics": "I found my place (I see your face)"
+    }, 
+    {
+      "chord": "         E                              G7", 
+      "lyrics": "And it's nothing like I've ever known before"
+    }, 
+    {
+      "label": "[Chorus]"
+    }, 
+    {
+      "chord": "                D   F#m  E  G7", 
+      "lyrics": "Love is an open door"
+    }, 
+    {
+      "chord": "                D   F#m  E  G7", 
+      "lyrics": "Love is an open door"
+    }, 
+    {
+      "chord": "                D", 
+      "lyrics": "Love is an open door"
+    }, 
+    {
+      "chord": "      F#m            E", 
+      "lyrics": "With you (with you). With you (with you)!"
+    }, 
+    {
+      "chord": "G7              D   F#m  G  A", 
+      "lyrics": "Love is an open door"
+    }, 
+    {
+      "label": "[Instrumental]"
+    }, 
+    {
+      "chord": "D   F#m   G   A", 
+      "lyrics": "[Verse]"
+    }, 
+    {
+      "label": "[Verse]"
+    }, 
+    {
+      "chord": "            E", 
+      "lyrics": "I mean it's crazy"
+    }, 
+    {
+      "chord": "   G#m                  A        B", 
+      "lyrics": "We finish each other's... Sandwiches! (that's what I was gonna say!)"
+    }, 
+    {
+      "chord": "           E", 
+      "lyrics": "I've never met someone"
+    }, 
+    {
+      "chord": "    G#m                 A    B", 
+      "lyrics": "Who thinks so much like me"
+    }, 
+    {
+      "chord": "    E               G#m", 
+      "lyrics": "Our mental synchronization"
+    }, 
+    {
+      "chord": "    A                 B", 
+      "lyrics": "Can have but one explanation"
+    }, 
+    {
+      "chord": "E         G#m", 
+      "lyrics": "You (and I) were (just)"
+    }, 
+    {
+      "chord": "         A      B", 
+      "lyrics": "Meant to be"
+    }, 
+    {
+      "chord": "        C#m", 
+      "lyrics": "Say goodbye (say goodbye)"
+    }, 
+    {
+      "chord": "        E", 
+      "lyrics": "To the pain of the past"
+    }, 
+    {
+      "chord": "F#                         A7", 
+      "lyrics": "We don't have to feel it anymore"
+    }, 
+    {
+      "label": "[Chorus]"
+    }, 
+    {
+      "chord": "                E   G#m  F#  A7", 
+      "lyrics": "Love is an open door"
+    }, 
+    {
+      "chord": "                E   G#m  F#  A7", 
+      "lyrics": "Love is an open door"
+    }, 
+    {
+      "chord": "                    E", 
+      "lyrics": "Life can be so much more"
+    }, 
+    {
+      "chord": "       G#m           F#", 
+      "lyrics": "With you (with you). With you (with you)!"
+    }, 
+    {
+      "chord": "A7              E", 
+      "lyrics": "Love is an open door (door)"
+    }
+  ], 
+  "title": "Love Is An Open Door"
+}

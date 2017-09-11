@@ -1,1 +1,239 @@
-{"allChords": ["A", "Bm", "Em", "G", "D"], "artist": "Oh Wonder", "lines": [{"label": "[Verse 1]"}, {"count": 0, "chord": "Bm                        A", "lyrics": "Sitting in the backseat, dead heat summer"}, {"count": 1, "chord": "Em                          G", "lyrics": "Staring at the ground in a lucid light"}, {"count": 2, "chord": "Bm                     A", "lyrics": "I can feel a heartbeat built like thunder"}, {"count": 3, "chord": "Em                          G", "lyrics": "Running round my head in a holy fire"}, {"count": 4, "chord": "Bm                 A", "lyrics": "Open up the doors, let me feel that zephyr"}, {"count": 5, "chord": "Em                 G", "lyrics": "Freshen up the air underneath the streets"}, {"count": 6, "chord": "Bm                          A              Em", "lyrics": "Now I'm locking eyes with a silent stranger"}, {"count": 7, "chord": "                 G", "lyrics": "Don't run, don't hide"}, {"label": "[Pre-Chorus]"}, {"count": 8, "chord": "    Bm             D             Em               G", "lyrics": "And I can feel the static rising up and out your mouth"}, {"count": 9, "chord": "             Bm              D", "lyrics": "We're making waves of conversation"}, {"count": 10, "chord": "      Em           G", "lyrics": "Got a rush of energy"}, {"label": "[Chorus]"}, {"count": 11, "chord": "       Bm          A              Em", "lyrics": "'Cause I'm getting high, getting high"}, {"count": 12, "chord": "            G", "lyrics": "I'm getting high on humans"}, {"count": 13, "chord": "Bm          A              Em", "lyrics": "I'm getting high, getting high"}, {"count": 14, "chord": "            G", "lyrics": "I'm getting high on humans"}, {"label": "[Instrumental]"}, {"label": "[Verse 2]"}, {"count": 15, "chord": "Bm                      A", "lyrics": "Elevate the headstrong dead long halo"}, {"count": 16, "chord": "Em                            G", "lyrics": "Caught up in our skin, gotta fight the grind"}, {"count": 17, "chord": "Bm                       A", "lyrics": "I can make your day glow sun to rainbow"}, {"count": 18, "chord": "Em                           G", "lyrics": "Colour in your step, let me lose your mind"}, {"count": 19, "chord": "Bm                     A", "lyrics": "Animate the air with a stone cold question"}, {"count": 20, "chord": "Em                            G", "lyrics": "Do you have the time? Do you hate your life?"}, {"count": 21, "chord": "Bm                          A              Em", "lyrics": "Now I'm locking eyes with a silent stranger"}, {"count": 22, "chord": "                 G", "lyrics": "Don't run, don't hide"}, {"label": "[Pre-Chorus]"}, {"count": 23, "chord": "    Bm             D             Em               G", "lyrics": "And I can feel the static rising up and out your mouth"}, {"count": 24, "chord": "             Bm              D", "lyrics": "We're making waves of conversation"}, {"count": 25, "chord": "      Em           G", "lyrics": "Got a rush of energy"}, {"label": "[Chorus]"}, {"count": 26, "chord": "       Bm          A              Em", "lyrics": "'Cause I'm getting high, getting high"}, {"count": 27, "chord": "            G", "lyrics": "I'm getting high on humans"}, {"count": 28, "chord": "Bm          A              Em", "lyrics": "I'm getting high, getting high"}, {"count": 29, "chord": "            G", "lyrics": "I'm getting high on humans"}, {"count": 30, "chord": "Bm           A               Em               G", "lyrics": "Every time I meet your eyes, I can feel life come alive"}, {"count": 31, "chord": "    Bm          A              Em", "lyrics": "And I'm getting high, getting high"}, {"count": 32, "chord": "            G", "lyrics": "I'm getting high on humans"}, {"label": "[Instrumentsl]"}, {"label": "[Middle 8]"}, {"count": 33, "chord": "Bm          D", "lyrics": "We ride up, we slide up"}, {"count": 34, "chord": "A              G", "lyrics": "We won't stop, we won't stop"}, {"count": 35, "chord": "Bm          D", "lyrics": "We ride up, we slide up"}, {"count": 36, "chord": "A              G", "lyrics": "We won't stop, no, we won't stop"}, {"count": 37, "chord": "Bm          D", "lyrics": "We ride up, we slide up"}, {"count": 38, "chord": "A             G", "lyrics": "We won't stop lighting our minds up"}, {"count": 39, "chord": "Bm          D", "lyrics": "We ride up, we slide up"}, {"count": 40, "chord": "A             G", "lyrics": "We won't stop lighting our minds up"}, {"label": "[Chorus]"}, {"count": 41, "chord": "       Bm          A              Em", "lyrics": "'Cause I'm getting high, getting high"}, {"count": 42, "chord": "            G", "lyrics": "I'm getting high on humans"}, {"count": 43, "chord": "Bm          A              Em", "lyrics": "I'm getting high, getting high"}, {"count": 44, "chord": "            G", "lyrics": "I'm getting high on humans"}, {"count": 45, "chord": "Bm           A               Em               G", "lyrics": "Every time I meet your eyes, I can feel life come alive"}, {"count": 46, "chord": "    Bm          A              Em", "lyrics": "And I'm getting high, getting high"}, {"count": 47, "chord": "            G", "lyrics": "I'm getting high on humans"}, {"label": "[Outro]"}], "id": "High on Humans - Oh Wonder", "title": "High on Humans"}
+{
+  "allChords": [
+    "Bm", 
+    "A", 
+    "Em", 
+    "G", 
+    "D"
+  ], 
+  "artist": "Oh Wonder", 
+  "id": "High on Humans - Oh Wonder", 
+  "lines": [
+    {
+      "label": "[Verse 1]"
+    }, 
+    {
+      "chord": "Bm                        A", 
+      "lyrics": "Sitting in the backseat, dead heat summer"
+    }, 
+    {
+      "chord": "Em                          G", 
+      "lyrics": "Staring at the ground in a lucid light"
+    }, 
+    {
+      "chord": "Bm                     A", 
+      "lyrics": "I can feel a heartbeat built like thunder"
+    }, 
+    {
+      "chord": "Em                          G", 
+      "lyrics": "Running round my head in a holy fire"
+    }, 
+    {
+      "chord": "Bm                 A", 
+      "lyrics": "Open up the doors, let me feel that zephyr"
+    }, 
+    {
+      "chord": "Em                 G", 
+      "lyrics": "Freshen up the air underneath the streets"
+    }, 
+    {
+      "chord": "Bm                          A              Em", 
+      "lyrics": "Now I'm locking eyes with a silent stranger"
+    }, 
+    {
+      "chord": "                 G", 
+      "lyrics": "Don't run, don't hide"
+    }, 
+    {
+      "label": "[Pre-Chorus]"
+    }, 
+    {
+      "chord": "    Bm             D             Em               G", 
+      "lyrics": "And I can feel the static rising up and out your mouth"
+    }, 
+    {
+      "chord": "             Bm              D", 
+      "lyrics": "We're making waves of conversation"
+    }, 
+    {
+      "chord": "      Em           G", 
+      "lyrics": "Got a rush of energy"
+    }, 
+    {
+      "label": "[Chorus]"
+    }, 
+    {
+      "chord": "       Bm          A              Em", 
+      "lyrics": "'Cause I'm getting high, getting high"
+    }, 
+    {
+      "chord": "            G", 
+      "lyrics": "I'm getting high on humans"
+    }, 
+    {
+      "chord": "Bm          A              Em", 
+      "lyrics": "I'm getting high, getting high"
+    }, 
+    {
+      "chord": "            G", 
+      "lyrics": "I'm getting high on humans"
+    }, 
+    {
+      "label": "[Instrumental]"
+    }, 
+    {
+      "label": "[Verse 2]"
+    }, 
+    {
+      "chord": "Bm                      A", 
+      "lyrics": "Elevate the headstrong dead long halo"
+    }, 
+    {
+      "chord": "Em                            G", 
+      "lyrics": "Caught up in our skin, gotta fight the grind"
+    }, 
+    {
+      "chord": "Bm                       A", 
+      "lyrics": "I can make your day glow sun to rainbow"
+    }, 
+    {
+      "chord": "Em                           G", 
+      "lyrics": "Colour in your step, let me lose your mind"
+    }, 
+    {
+      "chord": "Bm                     A", 
+      "lyrics": "Animate the air with a stone cold question"
+    }, 
+    {
+      "chord": "Em                            G", 
+      "lyrics": "Do you have the time? Do you hate your life?"
+    }, 
+    {
+      "chord": "Bm                          A              Em", 
+      "lyrics": "Now I'm locking eyes with a silent stranger"
+    }, 
+    {
+      "chord": "                 G", 
+      "lyrics": "Don't run, don't hide"
+    }, 
+    {
+      "label": "[Pre-Chorus]"
+    }, 
+    {
+      "chord": "    Bm             D             Em               G", 
+      "lyrics": "And I can feel the static rising up and out your mouth"
+    }, 
+    {
+      "chord": "             Bm              D", 
+      "lyrics": "We're making waves of conversation"
+    }, 
+    {
+      "chord": "      Em           G", 
+      "lyrics": "Got a rush of energy"
+    }, 
+    {
+      "label": "[Chorus]"
+    }, 
+    {
+      "chord": "       Bm          A              Em", 
+      "lyrics": "'Cause I'm getting high, getting high"
+    }, 
+    {
+      "chord": "            G", 
+      "lyrics": "I'm getting high on humans"
+    }, 
+    {
+      "chord": "Bm          A              Em", 
+      "lyrics": "I'm getting high, getting high"
+    }, 
+    {
+      "chord": "            G", 
+      "lyrics": "I'm getting high on humans"
+    }, 
+    {
+      "chord": "Bm           A               Em               G", 
+      "lyrics": "Every time I meet your eyes, I can feel life come alive"
+    }, 
+    {
+      "chord": "    Bm          A              Em", 
+      "lyrics": "And I'm getting high, getting high"
+    }, 
+    {
+      "chord": "            G", 
+      "lyrics": "I'm getting high on humans"
+    }, 
+    {
+      "label": "[Instrumentsl]"
+    }, 
+    {
+      "label": "[Middle 8]"
+    }, 
+    {
+      "chord": "Bm          D", 
+      "lyrics": "We ride up, we slide up"
+    }, 
+    {
+      "chord": "A              G", 
+      "lyrics": "We won't stop, we won't stop"
+    }, 
+    {
+      "chord": "Bm          D", 
+      "lyrics": "We ride up, we slide up"
+    }, 
+    {
+      "chord": "A              G", 
+      "lyrics": "We won't stop, no, we won't stop"
+    }, 
+    {
+      "chord": "Bm          D", 
+      "lyrics": "We ride up, we slide up"
+    }, 
+    {
+      "chord": "A             G", 
+      "lyrics": "We won't stop lighting our minds up"
+    }, 
+    {
+      "chord": "Bm          D", 
+      "lyrics": "We ride up, we slide up"
+    }, 
+    {
+      "chord": "A             G", 
+      "lyrics": "We won't stop lighting our minds up"
+    }, 
+    {
+      "label": "[Chorus]"
+    }, 
+    {
+      "chord": "       Bm          A              Em", 
+      "lyrics": "'Cause I'm getting high, getting high"
+    }, 
+    {
+      "chord": "            G", 
+      "lyrics": "I'm getting high on humans"
+    }, 
+    {
+      "chord": "Bm          A              Em", 
+      "lyrics": "I'm getting high, getting high"
+    }, 
+    {
+      "chord": "            G", 
+      "lyrics": "I'm getting high on humans"
+    }, 
+    {
+      "chord": "Bm           A               Em               G", 
+      "lyrics": "Every time I meet your eyes, I can feel life come alive"
+    }, 
+    {
+      "chord": "    Bm          A              Em", 
+      "lyrics": "And I'm getting high, getting high"
+    }, 
+    {
+      "chord": "            G", 
+      "lyrics": "I'm getting high on humans"
+    }, 
+    {
+      "label": "[Outro]"
+    }
+  ], 
+  "title": "High on Humans"
+}

@@ -1,1 +1,101 @@
-{"allChords": ["C", "G", "F", "Am", "A#", "D#", "Gm"], "artist": "Michael Smith", "lines": [{"label": "[Verse 1]"}, {"count": 0, "chord": "A#                D#", "lyrics": "This is the air I breathe"}, {"count": 1, "chord": "A#                D#", "lyrics": "This is the air I breathe"}, {"count": 2, "chord": "A#           Gm              F", "lyrics": "Your holy presence living in me"}, {"label": "[Verse 2]"}, {"count": 3, "chord": "A#         D#", "lyrics": "This is my daily bread"}, {"count": 4, "chord": "A#         D#", "lyrics": "This is my daily bread"}, {"count": 5, "chord": "A#          Gm           F", "lyrics": "Your very word spoken to me"}, {"label": "[Chorus]"}, {"count": 6, "chord": "A#    F               D#", "lyrics": "And I'm desperate for you"}, {"count": 7, "chord": "A#    F               D#", "lyrics": "And I'm lost without you"}, {"label": "[Key change: up 2 steps]"}, {"label": "[Verse 1]"}, {"count": 8, "chord": "C                 F", "lyrics": "This is the air I breathe"}, {"count": 9, "chord": "C                F", "lyrics": "This is the air I breathe"}, {"count": 10, "chord": "C              Am            G", "lyrics": "Your holy presence living in me"}, {"label": "[Verse 2]"}, {"count": 11, "chord": "C          F", "lyrics": "This is my daily bread"}, {"count": 12, "chord": "C           F", "lyrics": "This is my daily bread"}, {"count": 13, "chord": "C         Am             G", "lyrics": "Your very word spoken to me"}, {"label": "[Chorus]"}, {"count": 14, "chord": "C     G               F", "lyrics": "And I'm desperate for you"}, {"count": 15, "chord": "C     G             F  C", "lyrics": "And I'm lost without you"}], "id": "Breathe - Michael Smith", "title": "Breathe"}
+{
+  "allChords": [
+    "A#", 
+    "D#", 
+    "Gm", 
+    "F", 
+    "C", 
+    "Am", 
+    "G"
+  ], 
+  "artist": "Michael Smith", 
+  "id": "Breathe - Michael Smith", 
+  "lines": [
+    {
+      "label": "[Verse 1]"
+    }, 
+    {
+      "chord": "A#                D#", 
+      "lyrics": "This is the air I breathe"
+    }, 
+    {
+      "chord": "A#                D#", 
+      "lyrics": "This is the air I breathe"
+    }, 
+    {
+      "chord": "A#           Gm              F", 
+      "lyrics": "Your holy presence living in me"
+    }, 
+    {
+      "label": "[Verse 2]"
+    }, 
+    {
+      "chord": "A#         D#", 
+      "lyrics": "This is my daily bread"
+    }, 
+    {
+      "chord": "A#         D#", 
+      "lyrics": "This is my daily bread"
+    }, 
+    {
+      "chord": "A#          Gm           F", 
+      "lyrics": "Your very word spoken to me"
+    }, 
+    {
+      "label": "[Chorus]"
+    }, 
+    {
+      "chord": "A#    F               D#", 
+      "lyrics": "And I'm desperate for you"
+    }, 
+    {
+      "chord": "A#    F               D#", 
+      "lyrics": "And I'm lost without you"
+    }, 
+    {
+      "label": "[Key change: up 2 steps]"
+    }, 
+    {
+      "label": "[Verse 1]"
+    }, 
+    {
+      "chord": "C                 F", 
+      "lyrics": "This is the air I breathe"
+    }, 
+    {
+      "chord": "C                F", 
+      "lyrics": "This is the air I breathe"
+    }, 
+    {
+      "chord": "C              Am            G", 
+      "lyrics": "Your holy presence living in me"
+    }, 
+    {
+      "label": "[Verse 2]"
+    }, 
+    {
+      "chord": "C          F", 
+      "lyrics": "This is my daily bread"
+    }, 
+    {
+      "chord": "C           F", 
+      "lyrics": "This is my daily bread"
+    }, 
+    {
+      "chord": "C         Am             G", 
+      "lyrics": "Your very word spoken to me"
+    }, 
+    {
+      "label": "[Chorus]"
+    }, 
+    {
+      "chord": "C     G               F", 
+      "lyrics": "And I'm desperate for you"
+    }, 
+    {
+      "chord": "C     G             F  C", 
+      "lyrics": "And I'm lost without you"
+    }
+  ], 
+  "title": "Breathe"
+}

@@ -138,10 +138,9 @@ class TextParser:
         data['artist'] = artist
         data['id'] = songID
         data['lines'] = []
-        count = 0
         print title
 
-        allChords = set()
+        allChords = []
 
         for i in xrange(len(lines)):
             l = lines[i]
@@ -156,23 +155,22 @@ class TextParser:
 
                     newLine['lyrics'] = lines[i+1]
                     newLine['chord'] = lines[i]
-                    newLine['count'] = count
 
                     for c in lines[i].split():
                         if "/" in c:
                             c = c.split("/")[0]
-                        allChords.add(c)
-                    count += 1
+                        if c not in allChords:
+                            allChords.append(c)
                     data['lines'].append(newLine)
 
-        data['allChords'] = list(allChords)
+        data['allChords'] = allChords
 
         title = clean(title)
         artist = clean(artist)
         fileName = dataToName(title, artist, JSON)
         jsonFile = os.path.join(JSON_FOLDER, fileName)
         with open(jsonFile, 'w') as outfile:
-            json.dump(data, outfile)
+            json.dump(data, outfile, indent=2, sort_keys=True)
 
     def allToJSON(self, toConvert):
         """
@@ -192,7 +190,7 @@ class TextParser:
             - each entry is "title - artist.txt"
         """
         allText = []
-        for fileName in os.listdir(textFolder):
+        for fileName in sorted(os.listdir(textFolder)):
             if fileName.endswith(TEXT):
                 allText.append(fileName)
         return allText
@@ -237,7 +235,7 @@ class TextParser:
         Updates allSongs.json with data from all songs
         """
         allSongs = []
-        for fileName in os.listdir(JSON_FOLDER):
+        for fileName in sorted(os.listdir(JSON_FOLDER)):
             newSong = {}
             songID = nameToID(fileName)
 
@@ -256,7 +254,7 @@ class TextParser:
             newSong["id_title"] = idToData(songID)[0]
             allSongs.append(newSong)
         with open('allSongs.json', 'w') as outfile:
-            json.dump(allSongs, outfile)
+            json.dump(allSongs, outfile, indent=2, sort_keys=True)
 
 if __name__ == "__main__":
     # Argument parsing is currently un-used

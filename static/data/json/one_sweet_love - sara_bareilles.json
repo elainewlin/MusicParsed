@@ -1,1 +1,202 @@
-{"allChords": ["A", "Em", "C", "D", "G", "Bm", "Em7", "F#m"], "artist": "Sara Bareilles", "lines": [{"label": "[Verse]"}, {"count": 0, "chord": "D               Em7", "lyrics": "Just about the time the shadows call"}, {"count": 1, "chord": "G                       D", "lyrics": "I undress my mind and dare you to follow"}, {"count": 2, "chord": "                   Em7", "lyrics": "Paint a portrait of my mystery"}, {"count": 3, "chord": "G                       D", "lyrics": "Only close my eyes and you are here with me"}, {"count": 4, "chord": "  Em7", "lyrics": "A nameless face to think I see"}, {"count": 5, "chord": "  G                               D", "lyrics": "To sit and watch the waves with me till they're gone"}, {"count": 6, "chord": "  Em7                             G", "lyrics": "A heart I'd swear I'd recognize is made out of"}, {"count": 7, "chord": "               C           G", "lyrics": "My own devices.. Could I be wrong?"}, {"label": "[CHORUS]"}, {"count": 8, "chord": "    D             Em7        G", "lyrics": "The time that I've taken"}, {"count": 9, "chord": "  D           Em7       G", "lyrics": "I pray is not wasted"}, {"count": 10, "chord": "        D      Em7   G             D   Em7      G", "lyrics": "Have I already tasted my piece of one sweet love?"}, {"label": "[Verse]"}, {"count": 11, "chord": "D                       Em7", "lyrics": "Sleepless nights you creep inside of me"}, {"count": 12, "chord": "G                           D", "lyrics": "Paint your shadows on the breath that we share"}, {"count": 13, "chord": "                          Em7", "lyrics": "You take more than just my sanity"}, {"count": 14, "chord": "G                     D", "lyrics": "You take my reason not to care."}, {"count": 15, "chord": "   Em7", "lyrics": "No ordinary wings I'll need"}, {"count": 16, "chord": "     G                       D", "lyrics": "The sky itself will carry me back to you"}, {"count": 17, "chord": "     Em7                              G", "lyrics": "The things I dream that I can do I'll open up"}, {"count": 18, "chord": "                   C", "lyrics": "The moon for you"}, {"count": 19, "chord": "                G", "lyrics": "Just come down soon"}, {"label": "[CHORUS]"}, {"count": 20, "chord": "    D             Em7        G", "lyrics": "The time that I've taken"}, {"count": 21, "chord": "  D           Em7       G", "lyrics": "I pray is not wasted"}, {"count": 22, "chord": "        D      Em7   G             D   Em7      G", "lyrics": "Have I already tasted my piece of one sweet love?"}, {"count": 23, "chord": "  D       Em7    G      D              Em7      G", "lyrics": "Ready and waiting for a heart worth the breaking"}, {"count": 24, "chord": "                      D         Em7    G", "lyrics": "But I'd settle for an honest mistake in the name of"}, {"count": 25, "chord": "D    Em7   G", "lyrics": "One sweet love."}, {"label": "[Verse]"}, {"count": 26, "chord": "A                    G", "lyrics": "Savor the sorrow to soften the pain sip on"}, {"count": 27, "chord": "    Bm", "lyrics": "The southern rain"}, {"count": 28, "chord": "     A                                     G", "lyrics": "As I do, I don't look don't touch don't do anything"}, {"count": 29, "chord": "                    Em F#m  G", "lyrics": "But hope that there is a you."}, {"count": 30, "chord": "     Em7", "lyrics": "The earth that is the space between,"}, {"count": 31, "chord": "    G                       D", "lyrics": "I'd banish it from under me...to get to you."}, {"count": 32, "chord": "    Em7                         G", "lyrics": "Your unexpected love provides my solitary's suicide..."}, {"count": 33, "chord": "C             G", "lyrics": "oh I wish I knew"}, {"label": "[CHORUS]"}, {"count": 34, "chord": "    D             Em7        G", "lyrics": "The time that I've taken"}, {"count": 35, "chord": "  D           Em7       G", "lyrics": "I pray is not wasted"}, {"count": 36, "chord": "        D      Em7   G             D   Em7      G", "lyrics": "Have I already tasted my piece of one sweet love?"}, {"count": 37, "chord": "  D       Em7    G      D              Em7      G", "lyrics": "Ready and waiting for a heart worth the breaking"}, {"count": 38, "chord": "                      D         Em7    G", "lyrics": "But I'd settle for an honest mistake in the name of"}, {"count": 39, "chord": "D    Em7   G", "lyrics": "One sweet love."}, {"label": "[Outro]"}, {"count": 40, "chord": "D    Em7   G", "lyrics": "One sweet love."}], "id": "One Sweet Love - Sara Bareilles", "title": "One Sweet Love"}
+{
+  "allChords": [
+    "D", 
+    "Em7", 
+    "G", 
+    "C", 
+    "A", 
+    "Bm", 
+    "Em", 
+    "F#m"
+  ], 
+  "artist": "Sara Bareilles", 
+  "id": "One Sweet Love - Sara Bareilles", 
+  "lines": [
+    {
+      "label": "[Verse]"
+    }, 
+    {
+      "chord": "D               Em7", 
+      "lyrics": "Just about the time the shadows call"
+    }, 
+    {
+      "chord": "G                       D", 
+      "lyrics": "I undress my mind and dare you to follow"
+    }, 
+    {
+      "chord": "                   Em7", 
+      "lyrics": "Paint a portrait of my mystery"
+    }, 
+    {
+      "chord": "G                       D", 
+      "lyrics": "Only close my eyes and you are here with me"
+    }, 
+    {
+      "chord": "  Em7", 
+      "lyrics": "A nameless face to think I see"
+    }, 
+    {
+      "chord": "  G                               D", 
+      "lyrics": "To sit and watch the waves with me till they're gone"
+    }, 
+    {
+      "chord": "  Em7                             G", 
+      "lyrics": "A heart I'd swear I'd recognize is made out of"
+    }, 
+    {
+      "chord": "               C           G", 
+      "lyrics": "My own devices.. Could I be wrong?"
+    }, 
+    {
+      "label": "[CHORUS]"
+    }, 
+    {
+      "chord": "    D             Em7        G", 
+      "lyrics": "The time that I've taken"
+    }, 
+    {
+      "chord": "  D           Em7       G", 
+      "lyrics": "I pray is not wasted"
+    }, 
+    {
+      "chord": "        D      Em7   G             D   Em7      G", 
+      "lyrics": "Have I already tasted my piece of one sweet love?"
+    }, 
+    {
+      "label": "[Verse]"
+    }, 
+    {
+      "chord": "D                       Em7", 
+      "lyrics": "Sleepless nights you creep inside of me"
+    }, 
+    {
+      "chord": "G                           D", 
+      "lyrics": "Paint your shadows on the breath that we share"
+    }, 
+    {
+      "chord": "                          Em7", 
+      "lyrics": "You take more than just my sanity"
+    }, 
+    {
+      "chord": "G                     D", 
+      "lyrics": "You take my reason not to care."
+    }, 
+    {
+      "chord": "   Em7", 
+      "lyrics": "No ordinary wings I'll need"
+    }, 
+    {
+      "chord": "     G                       D", 
+      "lyrics": "The sky itself will carry me back to you"
+    }, 
+    {
+      "chord": "     Em7                              G", 
+      "lyrics": "The things I dream that I can do I'll open up"
+    }, 
+    {
+      "chord": "                   C", 
+      "lyrics": "The moon for you"
+    }, 
+    {
+      "chord": "                G", 
+      "lyrics": "Just come down soon"
+    }, 
+    {
+      "label": "[CHORUS]"
+    }, 
+    {
+      "chord": "    D             Em7        G", 
+      "lyrics": "The time that I've taken"
+    }, 
+    {
+      "chord": "  D           Em7       G", 
+      "lyrics": "I pray is not wasted"
+    }, 
+    {
+      "chord": "        D      Em7   G             D   Em7      G", 
+      "lyrics": "Have I already tasted my piece of one sweet love?"
+    }, 
+    {
+      "chord": "  D       Em7    G      D              Em7      G", 
+      "lyrics": "Ready and waiting for a heart worth the breaking"
+    }, 
+    {
+      "chord": "                      D         Em7    G", 
+      "lyrics": "But I'd settle for an honest mistake in the name of"
+    }, 
+    {
+      "chord": "D    Em7   G", 
+      "lyrics": "One sweet love."
+    }, 
+    {
+      "label": "[Verse]"
+    }, 
+    {
+      "chord": "A                    G", 
+      "lyrics": "Savor the sorrow to soften the pain sip on"
+    }, 
+    {
+      "chord": "    Bm", 
+      "lyrics": "The southern rain"
+    }, 
+    {
+      "chord": "     A                                     G", 
+      "lyrics": "As I do, I don't look don't touch don't do anything"
+    }, 
+    {
+      "chord": "                    Em F#m  G", 
+      "lyrics": "But hope that there is a you."
+    }, 
+    {
+      "chord": "     Em7", 
+      "lyrics": "The earth that is the space between,"
+    }, 
+    {
+      "chord": "    G                       D", 
+      "lyrics": "I'd banish it from under me...to get to you."
+    }, 
+    {
+      "chord": "    Em7                         G", 
+      "lyrics": "Your unexpected love provides my solitary's suicide..."
+    }, 
+    {
+      "chord": "C             G", 
+      "lyrics": "oh I wish I knew"
+    }, 
+    {
+      "label": "[CHORUS]"
+    }, 
+    {
+      "chord": "    D             Em7        G", 
+      "lyrics": "The time that I've taken"
+    }, 
+    {
+      "chord": "  D           Em7       G", 
+      "lyrics": "I pray is not wasted"
+    }, 
+    {
+      "chord": "        D      Em7   G             D   Em7      G", 
+      "lyrics": "Have I already tasted my piece of one sweet love?"
+    }, 
+    {
+      "chord": "  D       Em7    G      D              Em7      G", 
+      "lyrics": "Ready and waiting for a heart worth the breaking"
+    }, 
+    {
+      "chord": "                      D         Em7    G", 
+      "lyrics": "But I'd settle for an honest mistake in the name of"
+    }, 
+    {
+      "chord": "D    Em7   G", 
+      "lyrics": "One sweet love."
+    }, 
+    {
+      "label": "[Outro]"
+    }, 
+    {
+      "chord": "D    Em7   G", 
+      "lyrics": "One sweet love."
+    }
+  ], 
+  "title": "One Sweet Love"
+}

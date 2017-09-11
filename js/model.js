@@ -38,7 +38,8 @@ export var songView = new function() {
 
     this.setSong = function(data) {
         allChords = data["allChords"];
-        lines = data["lines"];
+        let count = 0;
+        lines = data["lines"].map(line => 'lyrics' in line ? Object.assign({count: count++}, line) : line);
     };
 
     // Default song

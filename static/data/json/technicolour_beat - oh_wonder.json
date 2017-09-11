@@ -1,1 +1,188 @@
-{"allChords": ["Em", "C", "Am", "D", "G"], "artist": "Oh Wonder", "lines": [{"label": "[Verse]"}, {"count": 0, "chord": "Am              Em", "lyrics": "Lay down your sword"}, {"count": 1, "chord": "     D                         C", "lyrics": "Come settle down, settle down"}, {"count": 2, "chord": "Am              Em", "lyrics": "Let loose your glow"}, {"count": 3, "chord": "     D                         C", "lyrics": "Come settle down, settle down"}, {"count": 4, "chord": "   Am                   C", "lyrics": "And I feel life for the very first time,"}, {"count": 5, "chord": "Em                        D", "lyrics": "Love in my arms, and the sun in my eyes"}, {"count": 6, "chord": "Am                 C", "lyrics": "I feel safe in the 5am light"}, {"count": 7, "chord": " Em                        D                    C", "lyrics": "You carry my fears as the heavens set fire"}, {"label": "[Chorus]"}, {"count": 8, "chord": "Am                  C", "lyrics": "Jump into the heat"}, {"count": 9, "chord": "G                       Em", "lyrics": "Spinning on our feet"}, {"count": 10, "chord": "D                      Am", "lyrics": "In a Technicolour beat"}, {"count": 11, "chord": "            C", "lyrics": "You & me..."}, {"count": 12, "chord": "G                      Em", "lyrics": "Caught up in a dream"}, {"count": 13, "chord": "D                  C         Em", "lyrics": "In a Technicolour beat, beat, beat, beat"}, {"label": "[Verse]"}, {"count": 14, "chord": "Am         Em", "lyrics": "Warm and alone"}, {"count": 15, "chord": "      D                        C", "lyrics": "Come settle down, settle down"}, {"count": 16, "chord": "Am               Em", "lyrics": "Swing me your bones"}, {"count": 17, "chord": "      D                        C", "lyrics": "Come settle down, settle down"}, {"count": 18, "chord": "   Am                   C", "lyrics": "And I feel life for the very first time,"}, {"count": 19, "chord": "Em                        D", "lyrics": "Love in my arms, and the sun in my eyes"}, {"count": 20, "chord": "Am                 C", "lyrics": "I feel safe in the 5am light"}, {"count": 21, "chord": " Em                        D                    C", "lyrics": "You carry my fears as the heavens set fire"}, {"label": "[Chorus]"}, {"count": 22, "chord": "Am                  C", "lyrics": "Jump into the heat"}, {"count": 23, "chord": "G                       Em", "lyrics": "Spinning on our feet"}, {"count": 24, "chord": "D                      Am", "lyrics": "In a Technicolour beat"}, {"count": 25, "chord": "            C", "lyrics": "You & me..."}, {"count": 26, "chord": "G                      Em", "lyrics": "Caught up in a dream"}, {"count": 27, "chord": "D                  C", "lyrics": "In a Technicolour beat, beat"}, {"label": "[Bridge]"}, {"count": 28, "chord": "Am                  Em", "lyrics": "Give me one drop, I can feel you"}, {"count": 29, "chord": "D                   C", "lyrics": "Make me lose control"}, {"count": 30, "chord": "Am               Em", "lyrics": "We be walking on the water,"}, {"count": 31, "chord": "D                                 C", "lyrics": "We\u2019re moving in a Technicolour beat,"}, {"count": 32, "chord": "C", "lyrics": "Moving in a Technicolour beat."}, {"label": "[Chorus]"}, {"count": 33, "chord": "Am                  C", "lyrics": "Jump into the heat (Falling off the ceiling)"}, {"count": 34, "chord": "G                     Em", "lyrics": "Spinning on our feet"}, {"count": 35, "chord": "D                      Am", "lyrics": "In a Technicolour beat"}, {"count": 36, "chord": "           C", "lyrics": "You & me, (Found another feeling)"}, {"count": 37, "chord": "G                     Em", "lyrics": "Caught up in a dream,"}, {"count": 38, "chord": "D                  C", "lyrics": "In a Technicolour beat, (beat, beat)"}], "id": "Technicolour Beat - Oh Wonder", "title": "Technicolour Beat"}
+{
+  "allChords": [
+    "Am", 
+    "Em", 
+    "D", 
+    "C", 
+    "G"
+  ], 
+  "artist": "Oh Wonder", 
+  "id": "Technicolour Beat - Oh Wonder", 
+  "lines": [
+    {
+      "label": "[Verse]"
+    }, 
+    {
+      "chord": "Am              Em", 
+      "lyrics": "Lay down your sword"
+    }, 
+    {
+      "chord": "     D                         C", 
+      "lyrics": "Come settle down, settle down"
+    }, 
+    {
+      "chord": "Am              Em", 
+      "lyrics": "Let loose your glow"
+    }, 
+    {
+      "chord": "     D                         C", 
+      "lyrics": "Come settle down, settle down"
+    }, 
+    {
+      "chord": "   Am                   C", 
+      "lyrics": "And I feel life for the very first time,"
+    }, 
+    {
+      "chord": "Em                        D", 
+      "lyrics": "Love in my arms, and the sun in my eyes"
+    }, 
+    {
+      "chord": "Am                 C", 
+      "lyrics": "I feel safe in the 5am light"
+    }, 
+    {
+      "chord": " Em                        D                    C", 
+      "lyrics": "You carry my fears as the heavens set fire"
+    }, 
+    {
+      "label": "[Chorus]"
+    }, 
+    {
+      "chord": "Am                  C", 
+      "lyrics": "Jump into the heat"
+    }, 
+    {
+      "chord": "G                       Em", 
+      "lyrics": "Spinning on our feet"
+    }, 
+    {
+      "chord": "D                      Am", 
+      "lyrics": "In a Technicolour beat"
+    }, 
+    {
+      "chord": "            C", 
+      "lyrics": "You & me..."
+    }, 
+    {
+      "chord": "G                      Em", 
+      "lyrics": "Caught up in a dream"
+    }, 
+    {
+      "chord": "D                  C         Em", 
+      "lyrics": "In a Technicolour beat, beat, beat, beat"
+    }, 
+    {
+      "label": "[Verse]"
+    }, 
+    {
+      "chord": "Am         Em", 
+      "lyrics": "Warm and alone"
+    }, 
+    {
+      "chord": "      D                        C", 
+      "lyrics": "Come settle down, settle down"
+    }, 
+    {
+      "chord": "Am               Em", 
+      "lyrics": "Swing me your bones"
+    }, 
+    {
+      "chord": "      D                        C", 
+      "lyrics": "Come settle down, settle down"
+    }, 
+    {
+      "chord": "   Am                   C", 
+      "lyrics": "And I feel life for the very first time,"
+    }, 
+    {
+      "chord": "Em                        D", 
+      "lyrics": "Love in my arms, and the sun in my eyes"
+    }, 
+    {
+      "chord": "Am                 C", 
+      "lyrics": "I feel safe in the 5am light"
+    }, 
+    {
+      "chord": " Em                        D                    C", 
+      "lyrics": "You carry my fears as the heavens set fire"
+    }, 
+    {
+      "label": "[Chorus]"
+    }, 
+    {
+      "chord": "Am                  C", 
+      "lyrics": "Jump into the heat"
+    }, 
+    {
+      "chord": "G                       Em", 
+      "lyrics": "Spinning on our feet"
+    }, 
+    {
+      "chord": "D                      Am", 
+      "lyrics": "In a Technicolour beat"
+    }, 
+    {
+      "chord": "            C", 
+      "lyrics": "You & me..."
+    }, 
+    {
+      "chord": "G                      Em", 
+      "lyrics": "Caught up in a dream"
+    }, 
+    {
+      "chord": "D                  C", 
+      "lyrics": "In a Technicolour beat, beat"
+    }, 
+    {
+      "label": "[Bridge]"
+    }, 
+    {
+      "chord": "Am                  Em", 
+      "lyrics": "Give me one drop, I can feel you"
+    }, 
+    {
+      "chord": "D                   C", 
+      "lyrics": "Make me lose control"
+    }, 
+    {
+      "chord": "Am               Em", 
+      "lyrics": "We be walking on the water,"
+    }, 
+    {
+      "chord": "D                                 C", 
+      "lyrics": "We\u2019re moving in a Technicolour beat,"
+    }, 
+    {
+      "chord": "C", 
+      "lyrics": "Moving in a Technicolour beat."
+    }, 
+    {
+      "label": "[Chorus]"
+    }, 
+    {
+      "chord": "Am                  C", 
+      "lyrics": "Jump into the heat (Falling off the ceiling)"
+    }, 
+    {
+      "chord": "G                     Em", 
+      "lyrics": "Spinning on our feet"
+    }, 
+    {
+      "chord": "D                      Am", 
+      "lyrics": "In a Technicolour beat"
+    }, 
+    {
+      "chord": "           C", 
+      "lyrics": "You & me, (Found another feeling)"
+    }, 
+    {
+      "chord": "G                     Em", 
+      "lyrics": "Caught up in a dream,"
+    }, 
+    {
+      "chord": "D                  C", 
+      "lyrics": "In a Technicolour beat, (beat, beat)"
+    }
+  ], 
+  "title": "Technicolour Beat"
+}
