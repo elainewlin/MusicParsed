@@ -3,7 +3,7 @@ import re
 
 def isLabel(line):
     # Checks whether a line is a label
-    return line.startswith('[') and line.endswith(']')
+    return line.startswith('[') and line.endswith(']') or line.endswith(':')
 
 pitch = r'[A-G][#b]?'
 chord = pitch + '(?:maj|m|aug|dim)?\d*(?:(?:add|sus|[#b])\d+)*(?:/' + pitch + ')?'

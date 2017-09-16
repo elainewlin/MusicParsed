@@ -271,5 +271,5 @@ if __name__ == "__main__":
     # urlParser.allToText()
 
     textParser = TextParser(textFolder)
-    modified = textParser.getAllModified()
-    textParser.allToJSON(modified)
+    # modified = textParser.getAllSongs()
+    textParser.toJSON('Hallelujah - Panic! At The Disco.txt')

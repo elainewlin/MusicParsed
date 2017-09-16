@@ -162,13 +162,13 @@
     "value": "Build Me Up Buttercup - The Foundations"
   }, 
   {
-    "artist": "Panic! At the Disco", 
+    "artist": "Panic! At The Disco", 
     "id": "but_its_better_if_you_do - panic_at_the_disco", 
     "id_artist": "panic_at_the_disco", 
     "id_title": "but_its_better_if_you_do", 
-    "label": "But Its Better If You Do", 
-    "title": "But Its Better If You Do", 
-    "value": "But Its Better If You Do - Panic! At the Disco"
+    "label": "But It's Better If You Do", 
+    "title": "But It's Better If You Do", 
+    "value": "But It's Better If You Do - Panic! At The Disco"
   }, 
   {
     "artist": "DNCE", 
@@ -279,6 +279,15 @@
     "value": "Critical Mistakes - 888"
   }, 
   {
+    "artist": "Anna Kendrick", 
+    "id": "cups - anna_kendrick", 
+    "id_artist": "anna_kendrick", 
+    "id_title": "cups", 
+    "label": "Cups", 
+    "title": "Cups", 
+    "value": "Cups - Anna Kendrick"
+  }, 
+  {
     "artist": "Red Hot Chili Peppers", 
     "id": "dani_california - red_hot_chili_peppers", 
     "id_artist": "red_hot_chili_peppers", 
@@ -304,6 +313,15 @@
     "label": "Dear Old Dad", 
     "title": "Dear Old Dad", 
     "value": "Dear Old Dad - Steven Universe"
+  }, 
+  {
+    "artist": "Panic! At The Disco", 
+    "id": "death_of_a_bachelor - panic_at_the_disco", 
+    "id_artist": "panic_at_the_disco", 
+    "id_title": "death_of_a_bachelor", 
+    "label": "Death Of A Bachelor", 
+    "title": "Death Of A Bachelor", 
+    "value": "Death Of A Bachelor - Panic! At The Disco"
   }, 
   {
     "artist": "Steven Universe", 
@@ -495,13 +513,13 @@
     "value": "Hallelujah - Jeff Buckley"
   }, 
   {
-    "artist": "Panic! At the Disco", 
+    "artist": "Panic! At The Disco", 
     "id": "hallelujah - panic_at_the_disco", 
     "id_artist": "panic_at_the_disco", 
     "id_title": "hallelujah", 
     "label": "Hallelujah", 
     "title": "Hallelujah", 
-    "value": "Hallelujah - Panic! At the Disco"
+    "value": "Hallelujah - Panic! At The Disco"
   }, 
   {
     "artist": "Paramore", 
@@ -781,6 +799,24 @@
     "label": "Just Give Me A Reason", 
     "title": "Just Give Me A Reason", 
     "value": "Just Give Me A Reason - Pink"
+  }, 
+  {
+    "artist": "Bruno Mars", 
+    "id": "just_the_way_you_are - bruno_mars", 
+    "id_artist": "bruno_mars", 
+    "id_title": "just_the_way_you_are", 
+    "label": "Just The Way You Are", 
+    "title": "Just The Way You Are", 
+    "value": "Just The Way You Are - Bruno Mars"
+  }, 
+  {
+    "artist": "Cristin Milioti", 
+    "id": "la_vie_en_rose - cristin_milioti", 
+    "id_artist": "cristin_milioti", 
+    "id_title": "la_vie_en_rose", 
+    "label": "La Vie En Rose", 
+    "title": "La Vie En Rose", 
+    "value": "La Vie En Rose - Cristin Milioti"
   }, 
   {
     "artist": "Daughter", 
@@ -1143,6 +1179,15 @@
     "value": "Rolling In The Deep - Adele"
   }, 
   {
+    "artist": "MAGIC!", 
+    "id": "rude - magic", 
+    "id_artist": "magic", 
+    "id_title": "rude", 
+    "label": "Rude", 
+    "title": "Rude", 
+    "value": "Rude - MAGIC!"
+  }, 
+  {
     "artist": "Capital Cities", 
     "id": "safe_and_sound - capital_cities", 
     "id_artist": "capital_cities", 
@@ -1150,6 +1195,15 @@
     "label": "Safe And Sound", 
     "title": "Safe And Sound", 
     "value": "Safe And Sound - Capital Cities"
+  }, 
+  {
+    "artist": "Taylor Swift", 
+    "id": "safe_and_sound - taylor_swift", 
+    "id_artist": "taylor_swift", 
+    "id_title": "safe_and_sound", 
+    "label": "Safe And Sound", 
+    "title": "Safe And Sound", 
+    "value": "Safe And Sound - Taylor Swift"
   }, 
   {
     "artist": "Hamilton", 
@@ -1278,6 +1332,15 @@
     "value": "Someone Like You - Adele"
   }, 
   {
+    "artist": "Disney", 
+    "id": "someone_to_lava - disney", 
+    "id_artist": "disney", 
+    "id_title": "someone_to_lava", 
+    "label": "Someone To Lava", 
+    "title": "Someone To Lava", 
+    "value": "Someone To Lava - Disney"
+  }, 
+  {
     "artist": "Steven Universe", 
     "id": "something_entirely_new - steven_universe", 
     "id_artist": "steven_universe", 
@@ -1305,6 +1368,15 @@
     "value": "Starlight - Muse"
   }, 
   {
+    "artist": "Sam Smith", 
+    "id": "stay_with_me - sam_smith", 
+    "id_artist": "sam_smith", 
+    "id_title": "stay_with_me", 
+    "label": "Stay With Me", 
+    "title": "Stay With Me", 
+    "value": "Stay With Me - Sam Smith"
+  }, 
+  {
     "artist": "Steven Universe", 
     "id": "steven_and_the_crystal_gems - steven_universe", 
     "id_artist": "steven_universe", 
@@ -1321,6 +1393,15 @@
     "label": "Still Alive", 
     "title": "Still Alive", 
     "value": "Still Alive - Portal"
+  }, 
+  {
+    "artist": "Shawn Mendes", 
+    "id": "stitches - shawn_mendes", 
+    "id_artist": "shawn_mendes", 
+    "id_title": "stitches", 
+    "label": "Stitches", 
+    "title": "Stitches", 
+    "value": "Stitches - Shawn Mendes"
   }, 
   {
     "artist": "Steven Universe", 
@@ -1431,6 +1512,15 @@
     "value": "That's What You Get - Paramore"
   }, 
   {
+    "artist": "Ed Sheeran", 
+    "id": "the_a_team - ed_sheeran", 
+    "id_artist": "ed_sheeran", 
+    "id_title": "the_a_team", 
+    "label": "The A Team", 
+    "title": "The A Team", 
+    "value": "The A Team - Ed Sheeran"
+  }, 
+  {
     "artist": "Sonata Arctica", 
     "id": "the_cage - sonata_arctica", 
     "id_artist": "sonata_arctica", 
@@ -1521,6 +1611,15 @@
     "value": "Time Is Running Out - Muse"
   }, 
   {
+    "artist": "David Guetta", 
+    "id": "titanium - david_guetta", 
+    "id_artist": "david_guetta", 
+    "id_title": "titanium", 
+    "label": "Titanium", 
+    "title": "Titanium", 
+    "value": "Titanium - David Guetta"
+  }, 
+  {
     "artist": "Britney Spears", 
     "id": "toxic - britney_spears", 
     "id_artist": "britney_spears", 
@@ -1600,6 +1699,15 @@
     "label": "We are the Crystal Gems", 
     "title": "We are the Crystal Gems", 
     "value": "We are the Crystal Gems - Steven Universe"
+  }, 
+  {
+    "artist": "Fun", 
+    "id": "we_are_young - fun", 
+    "id_artist": "fun", 
+    "id_title": "we_are_young", 
+    "label": "We Are Young", 
+    "title": "We Are Young", 
+    "value": "We Are Young - Fun"
   }, 
   {
     "artist": "Steven Universe", 
