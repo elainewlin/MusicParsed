@@ -38,5 +38,6 @@ module.exports = {
         new WebpackManifestPlugin({
             publicPath: '/static/dist/'
         })
-    ]
+    ],
+    watch: true,
 };

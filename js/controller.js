@@ -122,8 +122,7 @@ export var loadWidgets = function() {
   loadInstrumentButtons();
 }
 
-export var resetTranspose = function() {
-  const key = 0;
+export var setTranspose = function(key) {
   songView.setKey(key);
   selectButton(transpose, key);
 };
@@ -149,6 +148,14 @@ $(document).ready(function() {
         }
       }
     }
+
+    // Capo
+    $("#capo").click(function() {
+      const capo = songView.getCapo();
+      setTranspose(capo);
+      rerender();
+      $("#capo").hide();
+    })
 
     // View widget, column, transpose widgets
     let viewToggle = $("#viewToggle");

@@ -1,7 +1,7 @@
 import $ from "jquery";
 import "jquery-ui/ui/widgets/autocomplete";
 import "jquery-ui/themes/base/all.css";
-import {loadWidgets, resetTranspose} from "./controller.js";
+import {loadWidgets, setTranspose} from "./controller.js";
 import {pitchToFifths, songView} from "./model.js";
 import chordsTemplate from "../mustache/chords.mustache";
 import songTemplate from "../mustache/song.mustache";
@@ -121,12 +121,22 @@ export var renderChords = function() {
   document.getElementById('chordPics').innerHTML = chordsTemplate(chordData);
 };
 
+const renderCapo = function() {
+  const capo = songView.getCapo();
+  if (capo) {
+    $("#capo").show();
+    $("#capoAmount").text(`capo ${capo}`);
+  }
+  else {
+    $("#capo").hide();
+  }
+}
+
 export var rerender = function() {
   const data = songView.getData();
   $("#title").text(songView.getName());
 
   document.getElementById('song').innerHTML = songTemplate(data);
-
   renderChords();
 };
 
@@ -135,7 +145,8 @@ export var loadSong = function(newSong) {
   $.getJSON("/static/data/json/"+newSong+".json", function(data) {
       songView.setName(`${data.title} - ${data.artist}`);
       songView.setSong(data);
-      resetTranspose();
+      setTranspose(0);
+      renderCapo();
       rerender();
   });
 };

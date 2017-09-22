@@ -143,6 +143,12 @@ class TextParser:
         allChords = []
 
         lines_iter = iter(lines)
+
+        capo = "CAPO "
+        if lines[0].startswith(capo):
+            data["capo"] = lines[0].split(capo)[1]
+            next(lines_iter)
+
         for line in lines_iter:
             if isLabel(line):
                 data['lines'].append({'label': line})

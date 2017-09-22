@@ -2,6 +2,10 @@
   --main-blue: #19198c;
 }
 
+#capo {
+    line-height: inherit;
+}
+
 .line {
     font-family: monospace;
     font-size: 16px;

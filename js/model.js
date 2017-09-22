@@ -36,10 +36,27 @@ export var songView = new function() {
         return allChords;
     };
 
+    var capo = 0; 
+
+    this.getCapo = function() {
+        return capo;
+    };
+
+    const setCapo = function(newCapo) {
+        if (newCapo) {
+            capo = parseInt(newCapo);
+        } else {
+            capo = 0;
+        }
+    };
+
     this.setSong = function(data) {
         allChords = data["allChords"];
         let count = 0;
         lines = data["lines"].map(line => 'lyrics' in line ? Object.assign({count: count++}, line) : line);
+
+        capo = data["capo"];
+        setCapo(capo);
     };
 
     // Default song
