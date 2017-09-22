@@ -7,8 +7,15 @@
     display: none;
 }
 
+@font-face {
+    font-family: 'DejaVu Sans Mono';
+    src: local('DejaVu Sans Mono'), url('~dejavu-fonts-ttf/ttf/DejaVuSansMono.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 .line {
-    font-family: monospace;
+    font-family: 'DejaVu Sans Mono', monospace;
     font-size: 16px;
     break-inside: avoid-column;
 }
