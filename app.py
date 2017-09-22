@@ -46,5 +46,6 @@ def getSong(artist, title):
 FlaskWebpackExt(app)
 
 if __name__ == '__main__':
+    app.jinja_env.auto_reload = True
     app.run(debug=True, use_reloader=True)
 

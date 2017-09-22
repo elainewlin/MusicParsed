@@ -23,46 +23,44 @@
 </head>
 
 <body>
-  <div id='testButton'></div>
   <div class="container-fluid">
-      <div id="songView">
-        <div class="row">
-          <div class="ui-widget">
-            <label for="tags">Song select: </label>
-            <input id="tags">
-            <a href="/all"><button class="btn btn-default">Show all songs</button></a>
-            <label for="widgets">Widgets: </label>
-            <button class="btn btn-default" id="viewToggle" title="Hide/show the column and transpose widgets">hide</button>
+    <div id="songView">
+      <div class="row">
+        <div class="ui-widget">
+          <label for="tags">Song select: </label>
+          <input id="tags">
+          <a href="/all"><button class="btn btn-default">Show all songs</button></a>
+          <label for="widgets">Widgets: </label>
+          <button class="btn btn-default" id="viewToggle" title="Hide/show the column and transpose widgets">hide</button>
 
-            <label for="chords">Chords: </label>
-            <span id="instrument"></span>
-          </div>
-          <div id="widgets">
-            <div class="ui-widget">
-              <label for="column">Columns</label>
-              <span id="column"></span>
-            </div>
-            <div class="ui-widget">
-              <label for="transpose">Transpose</label>
-              <span id="transpose"></span>
-            </div>
-          </div>
+          <label for="chords">Chords: </label>
+          <span id="instrument"></span>
         </div>
-        <div class="row">
-          <h3>
-            <span id="title"></span>
-            <button class="btn btn-primary" id="capo">
-              <span>&times;</span>
-              <span id="capoAmount"></span>
-            </button>
-          </h3>
-          <div class="col-xs-12" id="song">
+        <div id="widgets">
+          <div class="ui-widget">
+            <label for="column">Columns</label>
+            <span id="column"></span>
           </div>
-          <div id="chordPics" title="Click to hide chord pictures">
+          <div class="ui-widget">
+            <label for="transpose">Transpose</label>
+            <span id="transpose"></span>
           </div>
         </div>
       </div>
+      <div class="row">
+        <h3>
+          <span id="title"></span>
+          <button class="btn btn-primary" id="capo">
+            <span>&times;</span>
+            <span id="capoAmount"></span>
+          </button>
+        </h3>
+        <div class="col-xs-12" id="song">
+        </div>
+      </div>
     </div>
-  </div> <!-- class="container" -->
+    <div id="chordPics" title="Click to hide chord pictures">
+    </div>
+  </div>
 </body>
 </html>

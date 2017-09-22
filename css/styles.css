@@ -21,6 +21,10 @@
     column-count: 3;
 }
 
+#songView {
+    position: relative;
+    z-index: 0;
+}
 #allSongs {
     column-count: 3;
 }
