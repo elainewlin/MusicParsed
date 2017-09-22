@@ -1,6 +1,6 @@
 import $ from "jquery";
 
-var accidentalFifths = [["bb", -14], ["b", -7], ["", 0], ["#", 7], ["x", 14]];
+var accidentalFifths = [["bb", -14], ["𝄫", -14], ["b", -7], ["♭", -7], ["", 0], ["#", 7], ["♯", 7], ["x", 14], ["𝄪", 14]];
 var letterFifths = [["F", -1], ["C", 0], ["G", 1], ["D", 2], ["A", 3], ["E", 4], ["B", 5]];
 
 var pitchFifths = [].concat.apply([], accidentalFifths.map(function(af) {
@@ -13,7 +13,7 @@ export var pitchToFifths = new Map(pitchFifths);
 var fifthsToPitch = new Map(pitchFifths.map(function(pf) { return [pf[1], pf[0]]; }));
 
 function transposeChord(chord, amount) {
-    return chord.replace(/[A-G](?:#|x|bb?)?/g, function(pitch) {
+    return chord.replace(/[A-G](?:bb|𝄫|b|♭|#|♯|x|𝄪)?/g, function(pitch) {
         return fifthsToPitch.get(pitchToFifths.get(pitch) + amount);
     });
 }
@@ -82,7 +82,7 @@ export var songView = new function() {
 
     this.getData = function() {
         var allFifths = [].concat.apply([], allChords.map(function(chord) {
-            var m = chord.match(/^([A-G](?:#|x|bb?)?)(m\b|madd|msus|dim)?/);
+            var m = chord.match(/^([A-G](?:bb|𝄫|b|♭|#|♯|x|𝄪)?)(m\b|madd|msus|dim)?/);
             return m ? [pitchToFifths.get(m[1]) - (m[2] ? 3 : 0)] : [];
         }));
         var center = Math.round(allFifths.reduce(function(a, b) { return a + b; }) / allFifths.length);
