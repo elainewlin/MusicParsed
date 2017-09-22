@@ -39,5 +39,4 @@ module.exports = {
             publicPath: '/static/dist/'
         })
     ],
-    // watch: true,
 };
