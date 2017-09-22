@@ -78,7 +78,7 @@ export var renderChords = function() {
       return i + 0.5;
     }),
     chords: [].concat.apply([], data.allChords.map(function(chord) {
-      var m = chord.match(/^([A-G](?:bb|𝄫|b|♭|#|♯|x|𝄪)?)(.*)$/);
+      var m = chord.match(/^([A-G](?:#|x|bb?)?)(.*)$/);
       var c = instrumentData.chords[(pitchToFifths.get(m[1]) * 7 + 12000) % 12][m[2]];
       if (c) {
         if (typeof c === 'string') {
