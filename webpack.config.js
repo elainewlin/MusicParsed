@@ -12,7 +12,8 @@ module.exports = {
     },
     output: {
         filename: '[name].[chunkhash].bundle.js',
-        path: path.resolve(__dirname, 'static', 'dist')
+        path: path.resolve(__dirname, 'static', 'dist'),
+        publicPath: '/static/dist/'
     },
     module: {
         rules: [{
