@@ -42,7 +42,7 @@
       "lyrics": "I feel safe in the 5am light"
     }, 
     {
-      "chord": " Em                        D                    C", 
+      "chord": " Em                        D", 
       "lyrics": "You carry my fears as the heavens set fire"
     }, 
     {
@@ -71,10 +71,6 @@
     {
       "chord": "D                 C          Em", 
       "lyrics": "In a Technicolour beat, beat, beat, beat"
-    }, 
-    {
-      "chord": "C           Em", 
-      "lyrics": "Beat, beat, beat, beat"
     }, 
     {
       "label": "[Verse]"
@@ -108,7 +104,7 @@
       "lyrics": "I feel safe in the 5am light"
     }, 
     {
-      "chord": " Em                        D               C", 
+      "chord": " Em                        D", 
       "lyrics": "You carry my fears as the heavens set fire"
     }, 
     {
@@ -135,18 +131,14 @@
       "lyrics": "Caught up in a dream"
     }, 
     {
-      "chord": "D                 C           Em", 
-      "lyrics": "In a Technicolour beat, beat, beat, beat"
-    }, 
-    {
-      "chord": "C           Em", 
-      "lyrics": "Beat, beat, beat, beat"
+      "chord": "D                 C", 
+      "lyrics": "In a Technicolour beat, beat"
     }, 
     {
       "label": "[Bridge]"
     }, 
     {
-      "chord": "Am                  Em", 
+      "chord": "Am                  G", 
       "lyrics": "Give me one drop, I can feel you"
     }, 
     {
@@ -154,23 +146,27 @@
       "lyrics": "Make me lose control"
     }, 
     {
-      "chord": "Am               Em", 
+      "chord": "Am               G", 
       "lyrics": "We be walking on the water,"
     }, 
     {
-      "chord": "D                                 C", 
+      "chord": "D", 
       "lyrics": "We\u2019re moving in a Technicolour beat,"
     }, 
     {
-      "chord": "C", 
-      "lyrics": "Moving in a Technicolour beat."
+      "chord": "", 
+      "lyrics": "Moving in a Technicolour"
     }, 
     {
       "label": "[Chorus]"
     }, 
     {
       "chord": "Am                  C", 
-      "lyrics": "Jump into the heat (Falling off the ceiling)"
+      "lyrics": "Jump into the heat"
+    }, 
+    {
+      "chord": "", 
+      "lyrics": "(Falling off the ceiling)"
     }, 
     {
       "chord": "G                     Em", 
@@ -178,11 +174,15 @@
     }, 
     {
       "chord": "D                      Am", 
-      "lyrics": "In a Technicolour beat"
+      "lyrics": "(Moving) in a Technicolour beat"
     }, 
     {
       "chord": "           C", 
-      "lyrics": "You & me, (Found another feeling)"
+      "lyrics": "You & me,"
+    }, 
+    {
+      "chord": "", 
+      "lyrics": "(Found another feeling)"
     }, 
     {
       "chord": "G                     Em", 
@@ -190,7 +190,31 @@
     }, 
     {
       "chord": "D                  C", 
-      "lyrics": "In a Technicolour beat"
+      "lyrics": "(Moving) in a Technicolour beat"
+    }, 
+    {
+      "chord": "Am                  C", 
+      "lyrics": "Jump into the heat"
+    }, 
+    {
+      "chord": "G                     Em", 
+      "lyrics": "Spinning on our feet"
+    }, 
+    {
+      "chord": "D                      Am", 
+      "lyrics": "(Moving) in a Technicolour beat"
+    }, 
+    {
+      "chord": "           C", 
+      "lyrics": "You & me,"
+    }, 
+    {
+      "chord": "G                     Em", 
+      "lyrics": "Caught up in a dream,"
+    }, 
+    {
+      "chord": "D                  C", 
+      "lyrics": "(Moving) in a Technicolour beat, beat, beat"
     }
   ], 
   "title": "Technicolour Beat"
