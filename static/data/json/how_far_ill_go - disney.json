@@ -1,17 +1,28 @@
 {
   "allChords": [
-    "E", 
-    "F#m", 
+    "E5", 
+    "F#msus4", 
     "C#m", 
-    "A", 
+    "Asus2", 
+    "Bsus2", 
+    "E", 
+    "Am6", 
+    "Bsus4", 
     "B", 
+    "C#m7", 
+    "C#m9", 
     "Am", 
+    "F#m7sus4", 
+    "A", 
+    "A6", 
     "F", 
+    "Csus4", 
     "C", 
     "Dm", 
-    "A#", 
-    "G#", 
-    "Fm"
+    "Bb", 
+    "Ab", 
+    "Fm", 
+    "Dbdim"
   ], 
   "artist": "Disney", 
   "id": "How Far I'll Go - Disney", 
@@ -20,19 +31,19 @@
       "label": "[Verse 1]"
     }, 
     {
-      "chord": "E                                    F#m", 
+      "chord": "E5                                   F#msus4", 
       "lyrics": "I've been staring at the edge of the water"
     }, 
     {
-      "chord": "                 C#m                      A", 
+      "chord": "                 C#m                      Asus2", 
       "lyrics": "'Long as I can remember, never really knowing why"
     }, 
     {
-      "chord": "E                             F#m", 
+      "chord": "E5                            F#msus4", 
       "lyrics": "I wish I could be the perfect daughter"
     }, 
     {
-      "chord": "                       C#m                         A", 
+      "chord": "                       C#m                         Asus2", 
       "lyrics": "But I come back to the water, no matter how hard I try"
     }, 
     {
@@ -40,7 +51,7 @@
       "lyrics": "Every turn I take, every trail I track"
     }, 
     {
-      "chord": "      B", 
+      "chord": "      Bsus2/D#", 
       "lyrics": "Every path I make, every road leads back"
     }, 
     {
@@ -48,45 +59,45 @@
       "lyrics": "To the place I know, where I can not go"
     }, 
     {
-      "chord": "         Am", 
+      "chord": "        Am6", 
       "lyrics": "Where I long to be"
     }, 
     {
       "label": "[Chorus]"
     }, 
     {
-      "chord": "        E                                      B", 
+      "chord": "        E                                      Bsus4", 
       "lyrics": "See the line where the sky meets the sea? It calls me"
     }, 
     {
-      "chord": "           C#m                A", 
+      "chord": "    B      C#m7               Asus2", 
       "lyrics": "And no one knows, how far it goes"
     }, 
     {
-      "chord": "       E                                    B", 
+      "chord": "       E                                    Bsus4", 
       "lyrics": "If the wind in my sail on the sea stays behind me"
     }, 
     {
-      "chord": "             C#m         Am", 
+      "chord": "             C#m9       Am", 
       "lyrics": "One day I'll know, if I go there's just no telling how far I'll go"
     }, 
     {
       "label": "[Verse 2]"
     }, 
     {
-      "chord": "E                        F#m                           C#m", 
+      "chord": "E5                        F#m7sus4                      C#m7", 
       "lyrics": "I know, everybody on this island seems so happy on this island"
     }, 
     {
-      "chord": "                A", 
+      "chord": "                    Asus2", 
       "lyrics": "Everything is by design"
     }, 
     {
-      "chord": "E                         F#m                       C#m", 
+      "chord": "E                         F#m7sus4                  C#m", 
       "lyrics": "I know, everybody on this island has a role on this island"
     }, 
     {
-      "chord": "                       A", 
+      "chord": "               E/B        A    E", 
       "lyrics": "So maybe I can roll with mine"
     }, 
     {
@@ -94,7 +105,7 @@
       "lyrics": "I can lead with pride, I can make us strong"
     }, 
     {
-      "chord": "        B", 
+      "chord": "        Bsus2/D#", 
       "lyrics": "I'll be satisfied if I play along"
     }, 
     {
@@ -102,45 +113,45 @@
       "lyrics": "But the voice inside sings a different song"
     }, 
     {
-      "chord": "        Am", 
+      "chord": "        Am              Am6", 
       "lyrics": "What is wrong with me?"
     }, 
     {
       "label": "[Chorus]"
     }, 
     {
-      "chord": "        E                                      B", 
+      "chord": "        E                                      Bsus4", 
       "lyrics": "See the light as it shines on the sea? It's blinding"
     }, 
     {
-      "chord": "           C#m                 A", 
+      "chord": "    B      C#m7               Asus2", 
       "lyrics": "But no one knows, how deep it goes"
     }, 
     {
-      "chord": "       E                                             B", 
+      "chord": "       E                                           Bsus4", 
       "lyrics": "And it seems like it's calling out to me, so come find me"
     }, 
     {
-      "chord": "           C#m             A", 
+      "chord": "    B      C#m7            A                     A6", 
       "lyrics": "And let me know, what's beyond that line, will I cross that line?"
     }, 
     {
       "label": "[Chorus]"
     }, 
     {
-      "chord": "         F                                      C", 
+      "chord": "        F                                     Csus4", 
       "lyrics": "See the line where the sky meets the sea? It calls me"
     }, 
     {
-      "chord": "           Dm                A#", 
+      "chord": "    C      Dm                Bb    Bb/C", 
       "lyrics": "And no one knows, how far it goes"
     }, 
     {
-      "chord": "       F                                    C", 
+      "chord": "       F                                   Csus4", 
       "lyrics": "If the wind in my sail on the sea stays behind me"
     }, 
     {
-      "chord": "             Dm                 G# Fm C", 
+      "chord": "    C        Dm   Dm/C          Ab    Fm Dbdim C", 
       "lyrics": "One day I'll know, how far I'll go"
     }
   ], 
