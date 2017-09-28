@@ -1,174 +1,295 @@
 {
   "allChords": [
-    "F", 
-    "Dm", 
-    "Gm", 
-    "Bb", 
     "C", 
-    "Am"
+    "Am", 
+    "Dm", 
+    "F", 
+    "G", 
+    "Em", 
+    "Gsus4"
   ], 
   "artist": "Fun", 
   "id": "We Are Young - Fun", 
   "lines": [
     {
-      "label": "Verse:"
+      "label": "[Verse]"
     }, 
     {
-      "chord": "F", 
-      "lyrics": "Give me a second I, I need to get my story straight"
+      "chord": "C", 
+      "lyrics": "Give me a second I"
     }, 
     {
-      "chord": "   Dm", 
-      "lyrics": "My friends are in the bathroom getting higher than the empire state"
+      "chord": "", 
+      "lyrics": "I need to get my story straight"
     }, 
     {
-      "chord": "   Gm", 
-      "lyrics": "my lover she's waiting for me just across the bar"
+      "chord": "     Am", 
+      "lyrics": "My friends are in the bathroom"
     }, 
     {
-      "chord": "              Bb                       C", 
-      "lyrics": "My seats been taken by some sunglasses asking 'bout a scar"
+      "chord": "", 
+      "lyrics": "Getting higher than the empire state"
     }, 
     {
-      "chord": "F", 
-      "lyrics": "and I know I gave it to you months ago"
+      "chord": "     Dm", 
+      "lyrics": "My lover she's waiting for me"
     }, 
     {
-      "chord": "Dm                                 Gm", 
-      "lyrics": "I know you're trying to forget but between the drinks and subtle things"
+      "chord": "", 
+      "lyrics": "Just across the bar"
     }, 
     {
-      "chord": "                              Bb                             C", 
-      "lyrics": "the holes in my apologies you know I'm trying hard to take it back"
+      "chord": "              F", 
+      "lyrics": "My seats been taken by some sunglasses"
     }, 
     {
-      "label": "Pre-Chorus:"
+      "chord": "G", 
+      "lyrics": "Asking 'bout a scar"
     }, 
     {
-      "chord": "C             Gm      Am                  Dm        C       Bb", 
-      "lyrics": "so if by the time the bar closes and you feel like falling down"
+      "chord": "    C", 
+      "lyrics": "And I know I gave it to you months ago"
     }, 
     {
-      "chord": "Bb             C", 
-      "lyrics": "I'll carry you home"
+      "chord": "Am", 
+      "lyrics": " I know you're trying to forget"
     }, 
     {
-      "label": "Chorus:"
+      "chord": "       Dm", 
+      "lyrics": "But between the drinks and subtle things"
     }, 
     {
-      "chord": "F          F    Dm", 
-      "lyrics": "Tonight We are  young So let's set the world on"
+      "chord": "", 
+      "lyrics": "The holes in my apologies"
     }, 
     {
-      "chord": "Bb               Bb    Bb           C", 
-      "lyrics": "fire We can burn brigh-ter than the sun"
+      "chord": "        F                          G", 
+      "lyrics": "You know I'm trying hard to take it back"
     }, 
     {
-      "chord": "F          F    Dm", 
-      "lyrics": "Tonight We are  young So let's set the world on"
+      "label": "[Bridge]"
     }, 
     {
-      "chord": "Bb               Bb    Bb           F     C", 
-      "lyrics": "fire We can burn brigh-ter than the sun"
-    }, 
-    {
-      "label": "Verse:"
-    }, 
-    {
-      "chord": "      F", 
-      "lyrics": "Now I know that I'm not all that you got"
-    }, 
-    {
-      "chord": "Dm", 
-      "lyrics": "I guess that I I just thought maybe we could find a ways to fall apart"
-    }, 
-    {
-      "chord": "Gm                                         Bb", 
-      "lyrics": "But our friends in back So let's raise the tab"
-    }, 
-    {
-      "chord": "                         C", 
-      "lyrics": "Cause I found someone to carry me home"
-    }, 
-    {
-      "label": "Chorus:"
-    }, 
-    {
-      "chord": "F          F    Dm", 
-      "lyrics": "Tonight We are  young So let's set the world on"
-    }, 
-    {
-      "chord": "Bb               Bb    Bb           C", 
-      "lyrics": "fire We can burn brigh-ter than the sun"
-    }, 
-    {
-      "chord": "F          F    Dm", 
-      "lyrics": "Tonight We are  young So let's set the world on"
-    }, 
-    {
-      "chord": "Bb               Bb    Bb           F     C", 
-      "lyrics": "fire We can burn brigh-ter than the sun"
-    }, 
-    {
-      "label": "Bridge:"
-    }, 
-    {
-      "chord": "F                  Dm F                      C", 
-      "lyrics": "Carry me home tonight Just carry me home tonight"
-    }, 
-    {
-      "chord": "F               Dm    F                    C", 
-      "lyrics": "Carry me home tonight Just carry me home tonight"
-    }, 
-    {
-      "chord": "F                         Dm                           F", 
-      "lyrics": "The moon is on my side       I have no reason to run"
-    }, 
-    {
-      "chord": "                          C", 
-      "lyrics": "So will someone come and carry me home tonight"
-    }, 
-    {
-      "chord": "F                           Dm                             F", 
-      "lyrics": "The angels never arrived       but I can hear the choir"
-    }, 
-    {
-      "chord": "                         C", 
-      "lyrics": "so will someone come and carry me home"
-    }, 
-    {
-      "label": "Chorus:"
-    }, 
-    {
-      "chord": "F          F    Dm", 
-      "lyrics": "Tonight We are  young So let's set the world on"
-    }, 
-    {
-      "chord": "Bb               Bb    Bb           C", 
-      "lyrics": "fire We can burn brigh-ter than the sun"
-    }, 
-    {
-      "chord": "F          F    Dm", 
-      "lyrics": "Tonight We are  young So let's set the world on"
-    }, 
-    {
-      "chord": "Bb               Bb    Bb           F     C", 
-      "lyrics": "fire We can burn brigh-ter than the sun"
-    }, 
-    {
-      "label": "Outro:"
-    }, 
-    {
-      "chord": "             Gm       Am", 
+      "chord": "              Dm      Em", 
       "lyrics": "So if by the time the bar closes"
     }, 
     {
-      "chord": "         Dm       C       Bb", 
-      "lyrics": "and you feel like falling down"
+      "chord": "         Am        G       F", 
+      "lyrics": "And you feel like falling down"
     }, 
     {
-      "chord": "Bb             C       F", 
-      "lyrics": "I'll carry you home, tonight"
+      "chord": "       F       G", 
+      "lyrics": "I'll carry you home"
+    }, 
+    {
+      "label": "[Chorus]"
+    }, 
+    {
+      "chord": "  C", 
+      "lyrics": "Tonight"
+    }, 
+    {
+      "chord": "       Am", 
+      "lyrics": "We are young"
+    }, 
+    {
+      "chord": "                          F", 
+      "lyrics": "So let's set the world on fire"
+    }, 
+    {
+      "chord": "", 
+      "lyrics": "We can burn brighter"
+    }, 
+    {
+      "chord": "         Gsus4  G", 
+      "lyrics": "Than the sun"
+    }, 
+    {
+      "chord": "  C", 
+      "lyrics": "Tonight"
+    }, 
+    {
+      "chord": "       Am", 
+      "lyrics": "We are young"
+    }, 
+    {
+      "chord": "                          F", 
+      "lyrics": "So let's set the world on fire"
+    }, 
+    {
+      "chord": "", 
+      "lyrics": "We can burn brighter"
+    }, 
+    {
+      "chord": "         Gsus4  G", 
+      "lyrics": "Than the sun"
+    }, 
+    {
+      "label": "[Verse 2]"
+    }, 
+    {
+      "chord": "       C", 
+      "lyrics": "Now I know that I'm not"
+    }, 
+    {
+      "chord": "", 
+      "lyrics": "All that you got"
+    }, 
+    {
+      "chord": "  Am", 
+      "lyrics": "I guess that I"
+    }, 
+    {
+      "chord": "                                                     Dm", 
+      "lyrics": "I just thought maybe we could find a ways to fall apart"
+    }, 
+    {
+      "chord": "", 
+      "lyrics": "But are friends in back"
+    }, 
+    {
+      "chord": "", 
+      "lyrics": "So let's raise a cup"
+    }, 
+    {
+      "chord": "F                         G", 
+      "lyrics": " Cause I found someone to carry me home"
+    }, 
+    {
+      "label": "[Chorus]"
+    }, 
+    {
+      "chord": "  C", 
+      "lyrics": "Tonight"
+    }, 
+    {
+      "chord": "       Am", 
+      "lyrics": "We are young"
+    }, 
+    {
+      "chord": "                          F", 
+      "lyrics": "So let's set the world on fire"
+    }, 
+    {
+      "chord": "", 
+      "lyrics": "We can burn brighter"
+    }, 
+    {
+      "chord": "         Gsus4  G", 
+      "lyrics": "Than the sun"
+    }, 
+    {
+      "chord": "  C", 
+      "lyrics": "Tonight"
+    }, 
+    {
+      "chord": "       Am", 
+      "lyrics": "We are young"
+    }, 
+    {
+      "chord": "                          F", 
+      "lyrics": "So let's set the world on fire"
+    }, 
+    {
+      "chord": "", 
+      "lyrics": "We can burn brighter"
+    }, 
+    {
+      "chord": "         Gsus4  G", 
+      "lyrics": "Than the sun"
+    }, 
+    {
+      "label": "[Bridge]"
+    }, 
+    {
+      "chord": " C                F", 
+      "lyrics": "Carry me home tonight"
+    }, 
+    {
+      "chord": "     C/E              G", 
+      "lyrics": "Just carry me home tonight"
+    }, 
+    {
+      "chord": "C               F", 
+      "lyrics": "Carry me home tonight"
+    }, 
+    {
+      "chord": "      C               G", 
+      "lyrics": "Just carry me home tonight"
+    }, 
+    {
+      "chord": "C                       F", 
+      "lyrics": "The world is on my side  I have no reason to run"
+    }, 
+    {
+      "chord": "C/E                        G", 
+      "lyrics": "So will someone come and carry me home tonight"
+    }, 
+    {
+      "chord": "C                        F", 
+      "lyrics": "The angels never arrived  but I can hear the choir"
+    }, 
+    {
+      "chord": "C/E                       G", 
+      "lyrics": "so will someone come and carry me home"
+    }, 
+    {
+      "label": "[Chorus]"
+    }, 
+    {
+      "chord": "  C", 
+      "lyrics": "Tonight"
+    }, 
+    {
+      "chord": "       Am", 
+      "lyrics": "We are young"
+    }, 
+    {
+      "chord": "                          F", 
+      "lyrics": "So let's set the world on fire"
+    }, 
+    {
+      "chord": "", 
+      "lyrics": "We can burn brighter"
+    }, 
+    {
+      "chord": "         Gsus4  G", 
+      "lyrics": "Than the sun"
+    }, 
+    {
+      "chord": "  C", 
+      "lyrics": "Tonight"
+    }, 
+    {
+      "chord": "       Am", 
+      "lyrics": "We are young"
+    }, 
+    {
+      "chord": "                          F", 
+      "lyrics": "So let's set the world on fire"
+    }, 
+    {
+      "chord": "", 
+      "lyrics": "We can burn brighter"
+    }, 
+    {
+      "chord": "         Gsus4  G", 
+      "lyrics": "Than the sun"
+    }, 
+    {
+      "label": "[Bridge]"
+    }, 
+    {
+      "chord": "              Dm      Em", 
+      "lyrics": "So if by the time the bar closes"
+    }, 
+    {
+      "chord": "         Am        G       F", 
+      "lyrics": "And you feel like falling down"
+    }, 
+    {
+      "chord": "       F       G       C", 
+      "lyrics": "I'll carry you home tonight"
     }
   ], 
   "title": "We Are Young"
