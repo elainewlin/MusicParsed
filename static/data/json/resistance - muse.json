@@ -17,8 +17,11 @@
   "id": "Resistance - Muse", 
   "lines": [
     {
-      "chord": "", 
-      "lyrics": "[Intro] Am G F E x2"
+      "label": "[Intro x2]"
+    }, 
+    {
+      "chord": "Am G F E", 
+      "lyrics": ""
     }, 
     {
       "chord": "               Am", 
@@ -233,8 +236,8 @@
       "lyrics": "Resistance!"
     }, 
     {
-      "chord": "", 
-      "lyrics": "Am G F E x2"
+      "chord": "Am G F E", 
+      "lyrics": ""
     }
   ], 
   "title": "Resistance"

@@ -1,139 +1,110 @@
 {
   "allChords": [
     "Am7", 
-    "D", 
-    "G", 
-    "Em", 
-    "Em6", 
+    "Dadd9", 
+    "G6", 
+    "Em7", 
     "C", 
-    "B"
+    "B7"
   ], 
   "artist": "Maroon 5", 
   "id": "Sweetest Goodbye - Maroon 5", 
   "lines": [
     {
-      "label": "[Intro]"
+      "chord": "Am7                             Dadd9", 
+      "lyrics": "Where you are it seems to be as far as an eternity"
     }, 
     {
-      "chord": "Am7  D  G  Em", 
-      "lyrics": ""
+      "chord": "G6                                Em7", 
+      "lyrics": "Outstreched arms open hearts, and if it never ends then when do we start?"
     }, 
     {
-      "label": "[Verse 1]"
+      "chord": "Am7                    Dadd9               G6", 
+      "lyrics": "I'll never leave you behind or treat you unkind"
     }, 
     {
-      "chord": "Am7                                         D", 
-      "lyrics": "Where you are seems to be               As far as an eternity"
-    }, 
-    {
-      "chord": " G                                    Em", 
-      "lyrics": "Outstretched arms open hearts   And if it never ends then when do we start?"
-    }, 
-    {
-      "label": "[Pre-Chorus]"
-    }, 
-    {
-      "chord": "Am7                     D                      G", 
-      "lyrics": "I'll never leave you behind     Or treat you unkind"
-    }, 
-    {
-      "chord": "                      Em", 
+      "chord": "                Em7", 
       "lyrics": "I know you understand"
     }, 
     {
-      "chord": "   Am7                       D                        G", 
-      "lyrics": "Ooh   And with a tear in my eye         Give me the sweetest goodbye"
+      "chord": "Am7                   Dadd9                         G6", 
+      "lyrics": "And with a tear in my eye, give me the sweetest goodbye"
     }, 
     {
-      "label": "[Chorus]"
+      "chord": "       Em7", 
+      "lyrics": "That I ever did receive"
     }, 
     {
-      "chord": "      Em6                    C                 B", 
-      "lyrics": "That I ever did receive     Pushing forward and arching back"
+      "chord": "C                  B7             Em7", 
+      "lyrics": "Pushing forward and arching back, bring me closer to heart attack"
     }, 
     {
-      "chord": "Em                  Em6", 
-      "lyrics": "Bring me closer to heart attack"
+      "chord": "C                   B7         Em7", 
+      "lyrics": "Say goodbye and just fly away, when you come back, I have something to say"
     }, 
     {
-      "chord": "C                     B                Em", 
-      "lyrics": "Say goodbye and just fly away   When you comeback"
+      "chord": "C                            B7                 Em7", 
+      "lyrics": "How does it feel to know you never have to be alone, when you get home?"
     }, 
     {
-      "chord": "   Em6                          C                                 B", 
-      "lyrics": "I have some things to say       How does it feel to know you never have to be"
+      "chord": "C                                 B7                   Em7", 
+      "lyrics": "There must be someplace here that only you and I could go,"
     }, 
     {
-      "chord": "Em                   Em6", 
-      "lyrics": "alone    When you get home"
-    }, 
-    {
-      "chord": "C                                  B                  Em", 
-      "lyrics": "There must be someplace here that only you and I could go"
-    }, 
-    {
-      "chord": "   Em6", 
+      "chord": "", 
       "lyrics": "So I can show you how I..."
     }, 
     {
-      "label": "[Verse 2]"
+      "chord": "Am7                  Dadd9", 
+      "lyrics": "Dream away everyday, try so hard to disregard"
     }, 
     {
-      "chord": "Am7                     D                                   G", 
-      "lyrics": "Dream away everyday     Try so hard to disregard        The rhythm of the"
+      "chord": "    G6", 
+      "lyrics": "The rythm of the rain that drops"
     }, 
     {
-      "chord": "                      Em                                Am7", 
-      "lyrics": "rain that drops   And coincides with the beating of my heart"
+      "chord": "         Em7", 
+      "lyrics": "And that coincides with the beating of my heart"
     }, 
     {
-      "label": "[Pre-Chorus]"
+      "chord": "Am7                    Dadd9               G6", 
+      "lyrics": "I'll never leave you behind or treat you unkind"
     }, 
     {
-      "chord": "                        D                      G", 
-      "lyrics": "I'll never leave you behind    Or treat you unkind"
+      "chord": "                Em7", 
+      "lyrics": "I know you understand"
     }, 
     {
-      "chord": "Em                 Am7", 
-      "lyrics": "I know you understand       yeeh yeeh yeah"
+      "chord": "Am7                   Dadd9                         G6", 
+      "lyrics": "And with a tear in my eye, give me the sweetest goodbye"
     }, 
     {
-      "chord": "                       D                             G", 
-      "lyrics": "And with a tear in my eye   Give me the sweetest goodbye"
+      "chord": "       Em7", 
+      "lyrics": "That I ever did receive"
     }, 
     {
-      "chord": "        Em6", 
-      "lyrics": "That I ever ever ever did receive"
+      "chord": "C                  B7             Em7", 
+      "lyrics": "Pushing forward and arching back, bring me closer to heart attack"
     }, 
     {
-      "label": "[Chorus]"
+      "chord": "C                   B7         Em7", 
+      "lyrics": "Say goodbye and just fly away, when you come back, I have something to say"
     }, 
     {
-      "chord": "C                   B              Em                 Em6", 
-      "lyrics": "Pushing forward and arching back    Bring me closer to heart attack"
+      "chord": "C                            B7                Em7", 
+      "lyrics": "How does it feel to know you never have to be alone, when you get home?"
     }, 
     {
-      "chord": "C                    B         Em", 
-      "lyrics": "Say goodbye and just fly away   When you comeback"
+      "chord": "C                                 B7                   Em7", 
+      "lyrics": "There must be someplace here that only you and I could go,"
     }, 
     {
-      "chord": "  Em6", 
-      "lyrics": "I have some things to say"
+      "chord": "Em7", 
+      "lyrics": "So I can show you how I"
     }, 
     {
-      "label": "[Outro]"
-    }, 
-    {
-      "chord": "C                            B                 Em                 Em6", 
-      "lyrics": "How does it feel to know you never have to be alone     When you get home"
-    }, 
-    {
-      "chord": "C                                  B                 Em               Em6", 
-      "lyrics": "There must be someplace here that only you and I could go       So I can show"
-    }, 
-    {
-      "chord": "             C     B    Em   Em6", 
-      "lyrics": "you how I... Feel  feel  feel  feel"
+      "chord": "C     B7    Em7", 
+      "lyrics": "Feel, feel, feel, feel"
     }
   ], 
   "title": "Sweetest Goodbye"
