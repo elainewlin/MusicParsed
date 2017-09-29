@@ -1,17 +1,22 @@
 {
   "allChords": [
     "D", 
-    "F#m", 
-    "G", 
-    "A", 
+    "Dadd4", 
+    "A7sus4", 
+    "Em7", 
     "Bm", 
     "E", 
     "G7", 
-    "G#m", 
-    "B", 
+    "F#m", 
+    "Eadd4", 
+    "B7sus4", 
+    "F#m7", 
+    "Bsus4", 
+    "A", 
     "C#m", 
     "F#", 
-    "A7"
+    "A7", 
+    "G#m"
   ], 
   "artist": "Disney", 
   "id": "Love Is An Open Door - Disney", 
@@ -28,11 +33,11 @@
       "label": "[Verse 1]"
     }, 
     {
-      "chord": "              D               F#m          G         A", 
+      "chord": "              D               Dadd4/F#   D/G         A7sus4", 
       "lyrics": "[Anna] All my life has been a series of doors in my face"
     }, 
     {
-      "chord": "         D               F#m       G       A", 
+      "chord": "         D               Dadd4/F#    D/G       A7sus4", 
       "lyrics": "And then suddenly I bump into you"
     }, 
     {
@@ -40,11 +45,11 @@
       "lyrics": "[Hans] I was thinking the same thing! 'Cause like"
     }, 
     {
-      "chord": "D                   F#m              G           A", 
+      "chord": "D                   Dadd4/F#              D/G     A7sus4", 
       "lyrics": "I've been searching my whole life to find my own place"
     }, 
     {
-      "chord": "          D              F#m              Bm          A", 
+      "chord": "          D              Dadd4/F#            Em7         A7sus4", 
       "lyrics": "And maybe it's the party talking or the chocolate fondue"
     }, 
     {
@@ -106,14 +111,14 @@
       "lyrics": "[Hans] With you!"
     }, 
     {
-      "chord": "       G7              D   F#m  G  A", 
+      "chord": "       G7              D   Dadd4/F#   D/G   A7sus4", 
       "lyrics": "[Both] Love is an open door"
     }, 
     {
       "label": "[Instrumental]"
     }, 
     {
-      "chord": "D   F#m   G   A", 
+      "chord": "D   Dadd4/F#   D/G   A7sus4", 
       "lyrics": ""
     }, 
     {
@@ -128,15 +133,15 @@
       "lyrics": "[Anna] What?"
     }, 
     {
-      "chord": "          G#m", 
+      "chord": "          Eadd4/G#", 
       "lyrics": "[Hans] We finish each other's..."
     }, 
     {
-      "chord": "       A", 
+      "chord": "       E/A", 
       "lyrics": "[Anna] Sandwiches!"
     }, 
     {
-      "chord": "                   B", 
+      "chord": "                   B7sus4", 
       "lyrics": "[Hans] That's what I was gonna say!"
     }, 
     {
@@ -144,15 +149,15 @@
       "lyrics": "[Anna] I've never met someone"
     }, 
     {
-      "chord": "           G#m                 A    B", 
-      "lyrics": "[Both] Who thinks so much like me"
+      "chord": "           Eadd4/G#               F#m7    Bsus4", 
+      "lyrics": "[Both] Who thinks so much like me. Jinx! Jinx again!"
     }, 
     {
-      "chord": "    E               G#m", 
+      "chord": "    E               Eadd4/G#", 
       "lyrics": "Our mental synchronization"
     }, 
     {
-      "chord": "    A                 B", 
+      "chord": "    A                 Bsus4", 
       "lyrics": "Can have but one explanation"
     }, 
     {
@@ -168,11 +173,11 @@
       "lyrics": "[Hans] were"
     }, 
     {
-      "chord": "       G#m", 
+      "chord": "       Eadd4/G#", 
       "lyrics": "[Anna] just"
     }, 
     {
-      "chord": "                A   B", 
+      "chord": "                F#m7   Bsus4", 
       "lyrics": "[Both] Meant to be"
     }, 
     {
