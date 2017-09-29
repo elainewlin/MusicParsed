@@ -17,36 +17,27 @@
   "id": "Love Is An Open Door - Disney", 
   "lines": [
     {
-      "label": "[Anna]"
+      "chord": "", 
+      "lyrics": "[Anna] Okay, can I just, say something crazy?"
     }, 
     {
       "chord": "", 
-      "lyrics": "Okay, can I just, say something crazy?"
+      "lyrics": "[Hans] I love crazy!"
     }, 
     {
-      "label": "[Hans]"
+      "label": "[Verse 1]"
     }, 
     {
-      "chord": "", 
-      "lyrics": "I love crazy!"
+      "chord": "              D               F#m          G         A", 
+      "lyrics": "[Anna] All my life has been a series of doors in my face"
     }, 
     {
-      "label": "[Anna]"
-    }, 
-    {
-      "chord": "       D               F#m          G         A", 
-      "lyrics": "All my life has been a series of doors in my face"
-    }, 
-    {
-      "chord": "         D           F#m       G       A", 
+      "chord": "         D               F#m       G       A", 
       "lyrics": "And then suddenly I bump into you"
     }, 
     {
-      "label": "[Hans]"
-    }, 
-    {
       "chord": "", 
-      "lyrics": "I was thinking the same thing! 'Cause like"
+      "lyrics": "[Hans] I was thinking the same thing! 'Cause like"
     }, 
     {
       "chord": "D                   F#m              G           A", 
@@ -59,6 +50,9 @@
     {
       "chord": "", 
       "lyrics": "[Anna] *giggles*"
+    }, 
+    {
+      "label": "[Pre-Chorus]"
     }, 
     {
       "chord": "                Bm", 
@@ -77,22 +71,22 @@
       "lyrics": "[Anna] I see your face"
     }, 
     {
-      "label": "[Both]"
+      "label": "[Chorus]"
     }, 
     {
-      "chord": "         E                              G7", 
-      "lyrics": "And it's nothing like I've ever known before"
+      "chord": "                E                              G7", 
+      "lyrics": "[Both] And it's nothing like I've ever known before"
     }, 
     {
-      "chord": "                D   F#m  E  G7", 
+      "chord": "                D   F#m  E", 
       "lyrics": "Love is an open door"
     }, 
     {
-      "chord": "                D   F#m  E  G7", 
+      "chord": "G7              D   F#m  E", 
       "lyrics": "Love is an open door"
     }, 
     {
-      "chord": "                D", 
+      "chord": "G7              D", 
       "lyrics": "Love is an open door"
     }, 
     {
@@ -112,11 +106,8 @@
       "lyrics": "[Hans] With you!"
     }, 
     {
-      "label": "[Both]"
-    }, 
-    {
-      "chord": "G7              D   F#m  G  A", 
-      "lyrics": "Love is an open door"
+      "chord": "       G7              D   F#m  G  A", 
+      "lyrics": "[Both] Love is an open door"
     }, 
     {
       "label": "[Instrumental]"
@@ -124,6 +115,9 @@
     {
       "chord": "D   F#m   G   A", 
       "lyrics": ""
+    }, 
+    {
+      "label": "[Verse 2]"
     }, 
     {
       "chord": "                   E", 
@@ -134,27 +128,24 @@
       "lyrics": "[Anna] What?"
     }, 
     {
-      "chord": "          G#m                  A", 
+      "chord": "          G#m", 
       "lyrics": "[Hans] We finish each other's..."
     }, 
     {
-      "chord": "       B", 
+      "chord": "       A", 
       "lyrics": "[Anna] Sandwiches!"
     }, 
     {
-      "chord": "", 
+      "chord": "                   B", 
       "lyrics": "[Hans] That's what I was gonna say!"
     }, 
     {
-      "chord": "           E", 
+      "chord": "                  E", 
       "lyrics": "[Anna] I've never met someone"
     }, 
     {
-      "label": "[Both]"
-    }, 
-    {
-      "chord": "    G#m                 A    B", 
-      "lyrics": "Who thinks so much like me"
+      "chord": "           G#m                 A    B", 
+      "lyrics": "[Both] Who thinks so much like me"
     }, 
     {
       "chord": "    E               G#m", 
@@ -173,16 +164,19 @@
       "lyrics": "[Anna] and I"
     }, 
     {
-      "chord": "       G#m", 
+      "chord": "", 
       "lyrics": "[Hans] were"
     }, 
     {
-      "chord": "", 
+      "chord": "       G#m", 
       "lyrics": "[Anna] just"
     }, 
     {
       "chord": "                A   B", 
       "lyrics": "[Both] Meant to be"
+    }, 
+    {
+      "label": "[Pre-Chorus]"
     }, 
     {
       "chord": "               C#m", 
@@ -193,11 +187,8 @@
       "lyrics": "[Hans] Say goodbye"
     }, 
     {
-      "label": "[Both]"
-    }, 
-    {
-      "chord": "        E", 
-      "lyrics": "To the pain of the past"
+      "chord": "              E", 
+      "lyrics": "[Both] To the pain of the past"
     }, 
     {
       "chord": "F#                          A7", 
@@ -207,15 +198,15 @@
       "label": "[Chorus]"
     }, 
     {
-      "chord": "                E   G#m  F#  A7", 
+      "chord": "                       E   G#m  F#", 
+      "lyrics": "[Both] Love is an open door"
+    }, 
+    {
+      "chord": "A7              E   G#m  F#", 
       "lyrics": "Love is an open door"
     }, 
     {
-      "chord": "                E   G#m  F#  A7", 
-      "lyrics": "Love is an open door"
-    }, 
-    {
-      "chord": "                    E", 
+      "chord": "A7                  E", 
       "lyrics": "Life can be so much more"
     }, 
     {
@@ -235,11 +226,8 @@
       "lyrics": "[Hans] With you!"
     }, 
     {
-      "label": "[Both]"
-    }, 
-    {
-      "chord": "A7              E", 
-      "lyrics": "Love is an open door"
+      "chord": "       A7              E", 
+      "lyrics": "[Both] Love is an open door"
     }, 
     {
       "chord": "", 
