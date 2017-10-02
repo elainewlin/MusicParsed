@@ -50,6 +50,7 @@ const loadColumnButtons = function() {
 
   const updateColCount = function(colCount) {
     $("#song").css("column-count", colCount);
+    $("#song").css("position", colCount > 1 ? "absolute" : "static");
   }
 
   let defaultColCount = 3;
