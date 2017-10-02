@@ -35,9 +35,6 @@
 #allSongs {
     column-count: 3;
 }
-.selected {
-    background-color: #fffddd;
-}
 
 .chords {
     display: block;
