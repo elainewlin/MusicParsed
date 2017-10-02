@@ -1,3 +1,4 @@
+import "babel-polyfill";
 import $ from "jquery";
 import {songView} from "./model.js";
 import {initRender, loadSong} from "./render.js";

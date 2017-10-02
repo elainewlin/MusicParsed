@@ -1,3 +1,4 @@
+import "babel-polyfill";
 import $ from "jquery";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "../../css/convert.css";
