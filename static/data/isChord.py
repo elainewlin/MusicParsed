@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 import re
 
-
 def isLabel(line):
     # Checks whether a line is a label
     return line.startswith('[') and line.endswith(']') or line.endswith(':')

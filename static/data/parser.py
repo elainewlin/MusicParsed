@@ -157,11 +157,12 @@ class TextParser:
                     next_line = next(lines_iter)
                     lyrics = '' if isLabel(next_line) or isChordLine(next_line) else next_line
                     data['lines'].append({'lyrics': lyrics, 'chord': line})
-                    for c in line.split():
-                        if "/" in c:
-                            c = c.split("/")[0]
-                        if c not in allChords:
-                            allChords.append(c)
+                    for chord in line.split():
+                        # Chords with a base note
+                        if "/" in chord:
+                            chord = chord.split("/")[0]
+                        if chord not in allChords:
+                            allChords.append(chord)
                     line = next_line
                     if isLabel(line):
                         data['lines'].append({'label': line})
@@ -278,5 +279,5 @@ if __name__ == "__main__":
 
     textParser = TextParser(textFolder)
     modified = textParser.getAllText()
-    textParser.allToJSON(modified)
-    # textParser.toJSON('Hallelujah - Panic! At The Disco.txt')
+    # textParser.allToJSON(modified)
+    textParser.toJSON('What\'s the Use of Feeling (Blue)? - Steven Universe.txt')
