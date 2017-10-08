@@ -9,3 +9,6 @@ pitch = r'[A-G](?:bb|𝄫|b|♭|#|♯|x)?'
 chord = pitch + '(?:maj|m|aug|dim)?\d*(?:(?:add|sus|bb|𝄫|b|♭|#|♯|x|𝄪)\d+)*(?:/' + pitch + ')?'
 isChord = re.compile(chord + r'\Z').match
 isChordLine = re.compile(r'\s*(?:' + chord + r'\s+)*' + chord + r'\Z').match
+
+def isLyricLine(line):
+    return not isLabel(line) and not isChordLine(line)

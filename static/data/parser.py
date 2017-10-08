@@ -3,7 +3,7 @@ import json
 import urllib2
 from bs4 import BeautifulSoup
 import argparse
-from isChord import isChordLine, isLabel
+from isChord import isChordLine, isLyricLine, isLabel
 from helpers import nameToID, idToData, dataToName, clean
 
 TEXT = 'txt'
@@ -41,35 +41,6 @@ class URLParser:
         myfile = f.read()
         return BeautifulSoup(myfile, 'html5lib')
 
-    def collapseSong(self, data):
-        """
-        Param:
-            data = string of all chord + lyrics from ukutabs
-        Return:
-            data without "unnecessary" \n characters
-            - removes all blank lines
-            - collapses stacked chord lines
-                ex: Am\n       G\n     C\n
-        """
-        lines = data.split('\n')
-        lines = [x.rstrip() for x in lines]
-        chord = ''
-
-        newFile = []
-        for i in xrange(len(lines)):
-            currentLine = lines[i]
-
-            if isChordLine(currentLine):
-                chord += currentLine
-                nextLine = lines[i+1]
-                if not isChordLine(nextLine):
-                    newFile.append(chord)
-                    chord = ''
-            else:
-                if len(currentLine) > 0:
-                    newFile.append(currentLine)
-        return "\n".join(newFile)
-
     def parseURL(self, url):
         """
         URL with song chords -> (title, artist, data)
@@ -88,11 +59,11 @@ class URLParser:
         # Parsing Ukutabs website
         if 'ukutabs' in url:
             soup = self.soupFromURL(url)
-            data = soup.find('pre', {'class': 'qoate-code'}).get_text()
+            data = soup.findAll('pre', {'class': 'qoate-code'})[-1].get_text()
 
-            s = soup.find('span', {'class': 'stitlecolor'})
-            title = s.get_text()
-            artist = s.parent.parent.next_sibling.find('a').get_text()
+            titleSection = soup.find('span', {'class': 'stitlecolor'})
+            title = titleSection.get_text()
+            artist = titleSection.parent.parent.next_sibling.find('a').get_text()
 
         return (title, artist, data)
 
@@ -141,12 +112,20 @@ class TextParser:
         print title
 
         allChords = []
+        def updateAllChords(line):
+            for chord in line.split():
+                # Chords with a bass note
+                if "/" in chord:
+                    chord = chord.split("/")[0]
+                if chord not in allChords:
+                    allChords.append(chord)
 
         lines_iter = iter(lines)
 
+        first_line = lines[0]
         capo = "CAPO "
-        if lines[0].startswith(capo):
-            data["capo"] = lines[0].split(capo)[1]
+        if first_line.startswith(capo):
+            data["capo"] = first_line.split(capo)[1]
             next(lines_iter)
 
         for line in lines_iter:
@@ -155,14 +134,10 @@ class TextParser:
             elif isChordLine(line):
                 while True:
                     next_line = next(lines_iter)
-                    lyrics = '' if isLabel(next_line) or isChordLine(next_line) else next_line
+                    lyrics = next_line if isLyricLine(next_line) else ''
                     data['lines'].append({'lyrics': lyrics, 'chord': line})
-                    for chord in line.split():
-                        # Chords with a base note
-                        if "/" in chord:
-                            chord = chord.split("/")[0]
-                        if chord not in allChords:
-                            allChords.append(chord)
+                    updateAllChords(line)
+
                     line = next_line
                     if isLabel(line):
                         data['lines'].append({'label': line})
@@ -275,9 +250,8 @@ if __name__ == "__main__":
     textFolder = os.path.join(os.getcwd(), 'text') # either 'text' or 'temp'
 
     urlParser = URLParser(textFolder)
-    # urlParser.allToText()
+    urlParser.allToText()
 
     textParser = TextParser(textFolder)
-    modified = textParser.getAllText()
+    # modified = textParser.getAllText()
     # textParser.allToJSON(modified)
-    textParser.toJSON('What\'s the Use of Feeling (Blue)? - Steven Universe.txt')
