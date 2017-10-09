@@ -28,6 +28,8 @@
     "jquery": "^3.1.0",
     "jquery-ui": "^1.12.1",
     "mustache-loader": "^1.0.0",
+    "postcss-cssnext": "^3.0.2",
+    "postcss-loader": "^2.0.6",
     "style-loader": "^0.18.2",
     "url-loader": "^0.5.9",
     "webpack": "^3.5.6",
