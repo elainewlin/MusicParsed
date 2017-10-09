@@ -38,6 +38,9 @@ module.exports = {
         new CleanWebpackPlugin(['static/dist']),
         new WebpackManifestPlugin({
             publicPath: '/static/dist/'
+        }),
+        new webpack.ProvidePlugin({
+            jQuery: 'jquery'
         })
     ],
 };

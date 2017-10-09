@@ -1,4 +1,5 @@
 import $ from "jquery";
+import "bootstrap/js/button";
 import "jquery-ui/ui/widgets/tooltip";
 import "jquery-ui/themes/base/all.css";
 import {songView} from "./model.js";
@@ -14,8 +15,8 @@ const getWidget = function(type) {
 }
 
 const selectButton = function(type, value) {
-  $(`#${type}`).find("label").removeClass("selected");
-  $(`#${type}-${value}`).addClass('selected');
+  $(`#${type}`).find("label").removeClass("active");
+  $(`#${type}-${value}`).addClass("active").find("input").prop("checked", true);
 }
 
 const loadTransposeButtons = function() {
@@ -38,9 +39,8 @@ const loadTransposeButtons = function() {
 
   selectButton(transpose, 0);
 
-  $("#transpose").find("input").click(function(e) {
-    var newKey = $(e.target.parentNode).data()[transpose];
-    selectButton(transpose, newKey);
+  $("#transpose").find("input").change(function(e) {
+    const newKey = e.target.value;
     songView.setKey(newKey);
     rerender();
   });
@@ -77,9 +77,8 @@ const loadColumnButtons = function() {
 
   const columnWidget = getWidget(column);
 
-  columnWidget.find("input").click(function(e) {
-    const colCount = $(e.target.parentNode).data()[column];
-    selectButton(column, colCount);
+  columnWidget.find("input").change(function(e) {
+    const colCount = e.target.value;
     updateColCount(colCount);
   });
 }
@@ -102,10 +101,8 @@ const loadInstrumentButtons = function() {
 
   const instrumentWidget = getWidget(instrument);
 
-  $("#instrument").find("input").click(function(e) {
-    const newInstrument = $(e.target.parentNode).data()[instrument];
-
-    selectButton(instrument, newInstrument);
+  $("#instrument").find("input").change(function(e) {
+    const newInstrument = e.target.value;
     songView.setInstrument(newInstrument);
     renderChords();
   });
