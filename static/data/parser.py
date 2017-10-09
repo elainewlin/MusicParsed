@@ -250,8 +250,8 @@ if __name__ == "__main__":
     textFolder = os.path.join(os.getcwd(), 'text') # either 'text' or 'temp'
 
     urlParser = URLParser(textFolder)
-    urlParser.allToText()
+    # urlParser.allToText()
 
     textParser = TextParser(textFolder)
-    # modified = textParser.getAllText()
-    # textParser.allToJSON(modified)
+    modified = textParser.getAllText()
+    textParser.allToJSON(modified)
