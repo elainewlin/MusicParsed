@@ -253,5 +253,5 @@ if __name__ == "__main__":
     # urlParser.allToText()
 
     textParser = TextParser(textFolder)
-    modified = textParser.getAllText()
+    modified = textParser.getAllModified()
     textParser.allToJSON(modified)
