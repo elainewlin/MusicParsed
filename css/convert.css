@@ -20,18 +20,6 @@ textarea {
   font-size: 24px;
 }
 
-.option:hover {
-  background-color: #ededf6;
-}
-
-.option.active:hover {
-  background-color: #ededf6;
-}
-
-.option.active {
-  background-color: #dbdbed;
-}
-
 .guitar {
   width: 30%;
   min-width: 100px;
@@ -40,4 +28,16 @@ textarea {
 .ukulele {
   width: 50%;
   min-width: 100px;
+}
+
+.btn-default.active {
+    background-color: #dbdbed;
+}
+
+.btn-default:hover {
+  background-color: #ededf6;
+}
+
+.btn-default.active:hover {
+  background-color: #ededf6;
 }
