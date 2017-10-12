@@ -21,15 +21,15 @@ textarea {
 }
 
 .option:hover {
-  background-color: #eef7fa;
+  background-color: #ededf6;
 }
 
 .option.active:hover {
-  background-color: #eef7fa;
+  background-color: #ededf6;
 }
 
 .option.active {
-  background-color: #cde7f0;
+  background-color: #dbdbed;
 }
 
 .guitar {
