@@ -71,6 +71,7 @@ export var renderChords = function() {
     frets: instrumentData.frets,
     fretsPlusHalf: instrumentData.frets + 0.5,
     viewHeight: instrumentData.frets + 1.5,
+    height: (instrumentData.frets + 1.5) * 11,
     stringLines: Array.apply(null, Array(instrumentData.strings - 2)).map(function(_, i) {
       return i + 1;
     }),

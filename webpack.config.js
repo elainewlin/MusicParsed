@@ -25,7 +25,16 @@ module.exports = {
             loader: 'mustache-loader'
         }, {
             test: /\.css$/,
-            use: ['style-loader', 'css-loader']
+            use: [{
+                loader: 'style-loader',
+            }, {
+                loader: 'css-loader',
+                options: {
+                    importLoaders: 1,
+                },
+            }, {
+                loader: 'postcss-loader',
+            }],
         }, {
             test: /\.(eot|png|svg|ttf|woff|woff2)$/,
             loader: 'url-loader',
