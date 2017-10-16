@@ -27,7 +27,7 @@
   "id": "A Whole New World - Disney", 
   "lines": [
     {
-      "label": "[Verse]"
+      "label": "Aladdin:"
     }, 
     {
       "chord": "D     D/G           D", 
@@ -62,9 +62,6 @@
       "lyrics": "On a magic carpet ride"
     }, 
     {
-      "label": "[Chorus]"
-    }, 
-    {
       "chord": "             A    D", 
       "lyrics": "A whole new world"
     }, 
@@ -83,6 +80,9 @@
     {
       "chord": "   Bm7       E7    A7", 
       "lyrics": "Or say we're only dreaming"
+    }, 
+    {
+      "label": "Jasmine:"
     }, 
     {
       "chord": "            A     D", 
@@ -105,11 +105,11 @@
       "lyrics": "That now I'm in a whole new world with you"
     }, 
     {
-      "chord": "D", 
-      "lyrics": "Now I'm in a whole new world with you"
+      "chord": "         D", 
+      "lyrics": "Aladdin: Now I'm in a whole new world with you"
     }, 
     {
-      "label": "[Verse]"
+      "label": "Jasmine:"
     }, 
     {
       "chord": "F    F/Bb     F", 
@@ -128,7 +128,7 @@
       "lyrics": "Through an endless diamond sky"
     }, 
     {
-      "label": "[Chorus]"
+      "label": "Jasmine (Aladdin):"
     }, 
     {
       "chord": "            C                                 F", 
@@ -151,12 +151,18 @@
       "lyrics": "I can't go back to where I used to be"
     }, 
     {
+      "label": "Aladdin (Jasmine):"
+    }, 
+    {
       "chord": "            C                       F", 
       "lyrics": "A whole new world (Every turn a surprise)"
     }, 
     {
       "chord": "         C   Dbdim7 Dm", 
       "lyrics": "With new horizons to pursue (Every moment red-letter)"
+    }, 
+    {
+      "label": "Both:"
     }, 
     {
       "chord": "F7              Bb   F/A", 
@@ -171,7 +177,7 @@
       "lyrics": "Let me share this whole new world with you"
     }, 
     {
-      "label": "[Outro]"
+      "label": "Aladdin (Jasmine):"
     }, 
     {
       "chord": "            Bb                 F/A", 
@@ -184,6 +190,9 @@
     {
       "chord": "            Bb                 C", 
       "lyrics": "A thrilling chase (A wonderous place)"
+    }, 
+    {
+      "label": "Both:"
     }, 
     {
       "chord": "     C7      F", 

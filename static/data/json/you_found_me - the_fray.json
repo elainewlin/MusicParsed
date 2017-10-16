@@ -1,286 +1,237 @@
 {
   "allChords": [
-    "G", 
-    "Em", 
-    "D", 
-    "C", 
-    "Cadd9", 
-    "Dsus2"
+    "E", 
+    "B", 
+    "G#m", 
+    "F#"
   ], 
   "artist": "The Fray", 
   "id": "You Found Me - The Fray", 
   "lines": [
     {
-      "label": "[Verse]"
+      "label": "[Verse 1]"
     }, 
     {
-      "chord": "G            Em", 
-      "lyrics": "I -  found - God"
+      "chord": "E B     G#m", 
+      "lyrics": "I found god"
     }, 
     {
-      "chord": "       D                     C", 
-      "lyrics": "On the corner of First and Amistad"
+      "chord": "       F#        B              E", 
+      "lyrics": "On the corner of first and Amistad"
     }, 
     {
-      "chord": "G             Em", 
-      "lyrics": "Where the    west"
+      "chord": "E     B   G#m      F#  B   E", 
+      "lyrics": "Where the west was all but won"
     }, 
     {
-      "chord": "    D         C", 
-      "lyrics": "Was all but won"
+      "chord": "E   B  G#m F#         B    E", 
+      "lyrics": "All alone smoking his last cigarette"
     }, 
     {
-      "chord": "G            Em", 
-      "lyrics": "All   a   -  lone"
+      "chord": "       E     B   G#m           F#  B  E", 
+      "lyrics": "I Said where you been, he said ask anything"
     }, 
     {
-      "chord": "    D            C", 
-      "lyrics": "Smoking his last cigarette"
+      "label": "[Pre-Chorus]"
     }, 
     {
-      "chord": "         G             Em", 
-      "lyrics": "I said, \"Where  you   been?\""
+      "chord": "G#m    F#  E", 
+      "lyrics": "Where were you?"
     }, 
     {
-      "chord": "          D          C", 
-      "lyrics": "He said, \"Ask anything.\""
+      "chord": "     F#         B           E", 
+      "lyrics": "When everything was falling apart"
+    }, 
+    {
+      "chord": "G#m F#  E        F#    B      E", 
+      "lyrics": "All my days were spent by the telephone"
+    }, 
+    {
+      "chord": "   F#  B E", 
+      "lyrics": "It never rang"
+    }, 
+    {
+      "chord": "    F#    B      E", 
+      "lyrics": "And all I needed was a call"
+    }, 
+    {
+      "chord": "     F# B  E", 
+      "lyrics": "That never came"
+    }, 
+    {
+      "chord": "       G#m       F#        E      F#  B", 
+      "lyrics": "To the corner of first and Amistad"
+    }, 
+    {
+      "label": "[Chorus]"
+    }, 
+    {
+      "chord": "G#m      E", 
+      "lyrics": "Lost and insecure"
+    }, 
+    {
+      "chord": "B             F#", 
+      "lyrics": "You found me, you found me"
+    }, 
+    {
+      "chord": "G#m          E", 
+      "lyrics": "Lying on the floor"
+    }, 
+    {
+      "chord": "B           F#", 
+      "lyrics": "Surrounded, surrounded"
+    }, 
+    {
+      "chord": "G#m               E", 
+      "lyrics": "Why\u2019d you have to wait?"
+    }, 
+    {
+      "chord": "B               F#", 
+      "lyrics": "Where were you? Where were you?"
+    }, 
+    {
+      "chord": "G#m           E", 
+      "lyrics": "Just a little late"
+    }, 
+    {
+      "chord": "B             F#  B     E", 
+      "lyrics": "You found me, you found me"
     }, 
     {
       "label": "[Verse 2]"
     }, 
     {
-      "chord": "G            Em", 
-      "lyrics": "Where were   you"
+      "chord": "G#m F# E   F#     B      E", 
+      "lyrics": "In the end everyone ends up alone"
     }, 
     {
-      "chord": "D                     C", 
-      "lyrics": "When everything was falling apart?"
+      "chord": "G#m F# E    F#    B      E", 
+      "lyrics": "Losing her, the only one who\u2019s ever known"
     }, 
     {
-      "chord": "G            Em", 
-      "lyrics": "All   my    days"
+      "chord": "B   E G#m         F#                 E", 
+      "lyrics": "Who I am, who I\u2019m not, who I want to be"
     }, 
     {
-      "chord": "D                   C", 
-      "lyrics": "Were spent by the telephone"
-    }, 
-    {
-      "chord": "G            Em", 
-      "lyrics": "That  never  rang"
-    }, 
-    {
-      "chord": "D                  C", 
-      "lyrics": "And all I needed was a call"
-    }, 
-    {
-      "chord": "G           Em", 
-      "lyrics": "It   never  came"
-    }, 
-    {
-      "chord": "D                            C", 
-      "lyrics": "To the corner of First and Amistad"
+      "chord": "   B   F# E        F#            B          E", 
+      "lyrics": "No way to know how long she will be next to me"
     }, 
     {
       "label": "[Chorus]"
     }, 
     {
-      "chord": "Em          C", 
+      "chord": "G#m      E", 
       "lyrics": "Lost and insecure"
     }, 
     {
-      "chord": "G             D", 
+      "chord": "B             F#", 
       "lyrics": "You found me, you found me"
     }, 
     {
-      "chord": "Em             C", 
+      "chord": "G#m          E", 
       "lyrics": "Lying on the floor"
     }, 
     {
-      "chord": "G          D", 
+      "chord": "B           F#", 
       "lyrics": "Surrounded, surrounded"
     }, 
     {
-      "chord": "Em               C", 
-      "lyrics": "Why'd you have to wait?"
+      "chord": "G#m               E", 
+      "lyrics": "Why\u2019d you have to wait?"
     }, 
     {
-      "chord": "G              D", 
-      "lyrics": "Where were you, where were you?"
+      "chord": "B               F#", 
+      "lyrics": "Where were you? Where were you?"
     }, 
     {
-      "chord": "Em             C", 
+      "chord": "G#m           E", 
       "lyrics": "Just a little late"
     }, 
     {
-      "chord": "G             D", 
-      "lyrics": "You found me, You found me"
-    }, 
-    {
-      "label": "[Verse 3]"
-    }, 
-    {
-      "chord": "G           Em", 
-      "lyrics": "In  - the - end"
-    }, 
-    {
-      "chord": "D               C", 
-      "lyrics": "Everyone ends up alone"
-    }, 
-    {
-      "chord": "G           Em", 
-      "lyrics": "Los---ing   her"
-    }, 
-    {
-      "chord": "D                    C", 
-      "lyrics": "The only one who's ever known"
-    }, 
-    {
-      "chord": "G            Em", 
-      "lyrics": "Who - I  -   am"
-    }, 
-    {
-      "chord": "        D             C", 
-      "lyrics": "Who I'm not, and who I want to be"
-    }, 
-    {
-      "chord": "G             Em", 
-      "lyrics": "No    way to know"
-    }, 
-    {
-      "chord": "D                    Cadd9", 
-      "lyrics": "How long she will be next to me"
-    }, 
-    {
-      "label": "[Chorus]"
-    }, 
-    {
-      "chord": "Em          C", 
-      "lyrics": "Lost and insecure"
-    }, 
-    {
-      "chord": "G             D", 
+      "chord": "B             F#  B     E", 
       "lyrics": "You found me, you found me"
-    }, 
-    {
-      "chord": "Em             C", 
-      "lyrics": "Lying on the floor"
-    }, 
-    {
-      "chord": "G          D", 
-      "lyrics": "Surrounded, surrounded"
-    }, 
-    {
-      "chord": "Em               C", 
-      "lyrics": "Why'd you have to wait?"
-    }, 
-    {
-      "chord": "G              D", 
-      "lyrics": "Where were you, where were you?"
-    }, 
-    {
-      "chord": "Em             C", 
-      "lyrics": "Just a little late"
-    }, 
-    {
-      "chord": "G             D", 
-      "lyrics": "You found me, You found me"
     }, 
     {
       "label": "[Bridge]"
     }, 
     {
-      "chord": "         Cadd9", 
-      "lyrics": "Early morning"
+      "chord": "F#  B E        F# B E", 
+      "lyrics": "Early morning, City breaks"
     }, 
     {
-      "chord": "         Dsus2", 
-      "lyrics": "The city breaks"
+      "chord": "F#   B    E           F#   B    E         F#   B    E", 
+      "lyrics": "I\u2019ve been calling for years and years and years and years"
     }, 
     {
-      "chord": "          Cadd9", 
-      "lyrics": "I've been calling"
-    }, 
-    {
-      "chord": "                        Dsus2", 
-      "lyrics": "For years and years and years and years"
-    }, 
-    {
-      "chord": "                           Cadd9", 
+      "chord": "        F#    B    E", 
       "lyrics": "And you never left me no messages"
     }, 
     {
-      "chord": "                        Dsus2", 
-      "lyrics": "You never sent me no letters"
+      "chord": "          F#   B     E", 
+      "lyrics": "You never send me no letters"
     }, 
     {
-      "chord": "                       Cadd9", 
-      "lyrics": "You got some kind of nerve"
-    }, 
-    {
-      "chord": "              Dsus2", 
-      "lyrics": "Taking all I want"
+      "chord": "                     F#            B     E", 
+      "lyrics": "You got some kind of nerve, taking all I want"
     }, 
     {
       "label": "[Chorus]"
     }, 
     {
-      "chord": "Em       C", 
+      "chord": "G#m      E", 
       "lyrics": "Lost and insecure"
     }, 
     {
-      "chord": "G            D", 
+      "chord": "B             F#", 
       "lyrics": "You found me, you found me"
     }, 
     {
-      "chord": "Em          C", 
+      "chord": "G#m          E", 
       "lyrics": "Lying on the floor"
     }, 
     {
-      "chord": "G              D", 
+      "chord": "B              F#", 
       "lyrics": "Where were you where were you"
     }, 
     {
-      "label": "[Chorus]"
-    }, 
-    {
-      "chord": "Em       C", 
+      "chord": "G#m      E", 
       "lyrics": "Lost and insecure"
     }, 
     {
-      "chord": "G             D", 
+      "chord": "B             F#", 
       "lyrics": "You found me, you found me"
     }, 
     {
-      "chord": "Em           C", 
+      "chord": "G#m          E", 
       "lyrics": "Lying on the floor"
     }, 
     {
-      "chord": "G           D", 
+      "chord": "B           F#", 
       "lyrics": "Surrounded, surrounded"
     }, 
     {
-      "chord": "Em             C", 
-      "lyrics": "Why'd you have to wait?"
+      "chord": "G#m       E", 
+      "lyrics": "Why\u2019d you have to wait?"
     }, 
     {
-      "chord": "G               D", 
+      "chord": "B               F#", 
       "lyrics": "Where were you? Where were you?"
     }, 
     {
-      "chord": "Em            C", 
+      "chord": "G#m           E", 
       "lyrics": "Just a little late"
     }, 
     {
-      "chord": "G             D", 
+      "chord": "B             F#  B     E", 
       "lyrics": "You found me, you found me"
     }, 
     {
-      "chord": "Em              C", 
-      "lyrics": "Why'd you have to wait?"
+      "chord": "G#m       E", 
+      "lyrics": "Why\u2019d you have to wait?"
     }, 
     {
-      "chord": "G           D              Em", 
-      "lyrics": "To find me, to find meeeee"
+      "chord": "B           F#     B    E", 
+      "lyrics": "To find me, to find me"
     }
   ], 
   "title": "You Found Me"
