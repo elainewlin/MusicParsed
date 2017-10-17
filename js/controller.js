@@ -85,7 +85,7 @@ const loadColumnButtons = function() {
 
 const loadInstrumentButtons = function() {
   // Render instrument toggle widget
-  const instrumentOptions = ['none', 'ukulele', 'guitar', 'guitalele'];
+  const instrumentOptions = ['none', 'ukulele', 'baritone', 'guitar', 'guitalele'];
   const instrumentButtons = [];
   for (let value of instrumentOptions) {
     instrumentButtons.push({
