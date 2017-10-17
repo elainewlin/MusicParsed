@@ -20,18 +20,17 @@
     break-inside: avoid-column;
 }
 
-.container-fluid {
-    margin: 10px;
-}
-
 #song {
     column-count: 3;
+    padding-left: 10px;
 }
 
 #songView {
     position: relative;
     z-index: 0;
+    padding: 10px;
 }
+
 #allSongs {
     column-count: 3;
 }
