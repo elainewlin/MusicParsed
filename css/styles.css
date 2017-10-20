@@ -33,6 +33,7 @@
 
 #allSongs {
     column-count: 3;
+    padding: 10px;
 }
 
 .chords {
