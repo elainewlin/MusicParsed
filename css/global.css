@@ -1,0 +1,54 @@
+a {
+  color: #4c4ca6;
+}
+
+.btn-default.active {
+  background-color: #dbdbed;
+}
+
+.btn-default:hover {
+  background-color: #ededf6;
+}
+
+.btn-default.active:hover {
+  background-color: #ededf6;
+}
+
+.navigation {
+  margin: 0;
+  line-height: 40px;
+  height: 40px;
+}
+
+.navbar-logo {
+  display: inline-block;
+  width: 150px;
+}
+
+.navbar-logo > .navbar-link {
+  color: #333;
+  font-size: 16px;
+}
+
+.navbar-item {
+  display: inline-block;
+  text-align: center;
+  min-width: 90px;
+}
+
+.navbar-link:hover {
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.social-section {
+  float: right;
+}
+
+.social-image {
+  padding: 0 2px;
+}
+
+.social-image:hover {
+  opacity: 0.5;
+}

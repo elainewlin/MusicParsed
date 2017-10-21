@@ -20,16 +20,6 @@ textarea {
   font-size: 24px;
 }
 
-.guitar {
-  width: 30%;
-  min-width: 100px;
-}
-
-.ukulele {
-  width: 50%;
-  min-width: 100px;
-}
-
 .btn-default.active {
     background-color: #dbdbed;
 }

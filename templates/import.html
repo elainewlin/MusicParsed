@@ -1,31 +1,22 @@
-<!DOCTYPE html>
-<html>
+{% extends 'base.html' %}
 
-<head>
-  <meta charset="utf-8">
-  <title>MusicParsed</title>
-  <link rel="icon" href="/static/images/favicon.png">
+{% block script %}
+{{ webpack['import.js'] }}
+{% endblock %}
 
-  {{ webpack['import.js'] }}
-
-</head>
-
-<body>
-  <div class="container">
-     <div class="row">
-        <div class="col-xs-6">
-            <h1>Add song text</h1>
-            <textarea id="addText" class="form-control"></textarea>
-            <button class="btn btn-default" id="importText">Import from text</button>
-        </div>
-        <div class="col-xs-6">
-            <h1>Add song URL</h1>
-            <input type="text" id="addURL" class="form-control" />
-            <button class="btn btn-default" id="importURL">Import from URL</button>
-
-        </div>
+{% block content %}
+<div class="container">
+  <div class="row">
+    <div class="col-xs-6">
+      <h1>Add song text</h1>
+      <textarea id="addText" class="form-control"></textarea>
+      <button class="btn btn-default" id="importText">Import from text</button>
     </div>
-  </div> <!-- class="container" -->
-</body>
-
-</html>
+    <div class="col-xs-6">
+      <h1>Add song URL</h1>
+      <input type="text" id="addURL" class="form-control" />
+      <button class="btn btn-default" id="importURL">Import from URL</button>
+    </div>
+  </div>
+</div>
+{% endblock %}

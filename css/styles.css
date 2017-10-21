@@ -3,94 +3,79 @@
 }
 
 #capo {
-    line-height: inherit;
-    display: none;
+  line-height: inherit;
+  display: none;
 }
 
 @font-face {
-    font-family: 'DejaVu Sans Mono';
-    src: local('DejaVu Sans Mono'), url('~dejavu-fonts-ttf/ttf/DejaVuSansMono.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
+  font-family: 'DejaVu Sans Mono';
+  src: local('DejaVu Sans Mono'), url('~dejavu-fonts-ttf/ttf/DejaVuSansMono.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
 }
 
 .line {
-    font-family: 'DejaVu Sans Mono', monospace;
-    font-size: 16px;
-    break-inside: avoid-column;
+  font-family: 'DejaVu Sans Mono', monospace;
+  font-size: 16px;
+  break-inside: avoid-column;
 }
 
 #song {
-    column-count: 3;
-    padding-left: 10px;
+  column-count: 3;
+  padding-left: 10px;
 }
 
 #songView {
-    position: relative;
-    z-index: 0;
-    padding: 10px;
+  position: relative;
+  z-index: 0;
+  padding: 10px;
 }
 
 #allSongs {
-    column-count: 3;
-    padding: 10px;
+  column-width: 350px;
+  column-count: 3;
+  padding: 10px 40px 0;
 }
 
 .chords {
-    display: block;
-    white-space: pre;
-    color: var(--main-blue);
+  display: block;
+  white-space: pre;
+  color: var(--main-blue);
 }
 
 #chordPics {
-    position:fixed;
-    top: 0;
-    right: 0;
-    background-color: white;
-    border: 1px solid var(--main-blue);
-    border-top: 0;
-    border-right: 0;
+  position: fixed;
+  top: 0;
+  right: 0;
+  background-color: white;
+  border: 1px solid var(--main-blue);
+  border-top: 0;
+  border-right: 0;
 }
 
 #chordPics:hover {
-    cursor: pointer;
+  cursor: pointer;
 }
 
 .chord {
-    display: inline-block;
-    margin: 0 0.5em;
-    vertical-align: top;
-    text-align: center;
+  display: inline-block;
+  margin: 0 0.5em;
+  vertical-align: top;
+  text-align: center;
 }
 
 .chordName {
-    font-size: 2em;
+  font-size: 2em;
 }
 
 .chordUnknown {
-    font-size: 4em;
+  font-size: 4em;
 }
 
 .ui-helper-hidden-accessible {
-    display:none;
+  display: none;
 }
 
 .songTag {
-    break-inside: avoid-column;
-}
-.songTitle {
-    color: var(--main-blue);
-    cursor: pointer;
-}
-
-.btn-default.active {
-    background-color: #dbdbed;
-}
-
-.btn-default:hover {
-  background-color: #ededf6;
-}
-
-.btn-default.active:hover {
-  background-color: #ededf6;
+  break-inside: avoid-column;
 }

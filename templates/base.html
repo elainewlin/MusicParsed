@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+{% include "header.html" %}
+{% block script %}{% endblock %}
+</head>
+<body>
+  <div class="navigation">
+    <span class="navbar-logo">
+      <a href="./" class="navbar-link"><img src="./static/images/logo.svg" />MusicParsed</a>
+    </span>
+    <span class="navbar-item">
+      <a href="./all" class="navbar-link">All Songs</a>
+    </span>
+    <span class="navbar-item">
+      <a href="./convert" class="navbar-link">Convert Tabs</a>
+    </span>
+    <span class="social-section">
+      <a href="https://www.facebook.com/musicparsed/" target="_blank"><img src="./static/images/facebook.svg" class="social-image"/></a>
+      <a href="https://github.com/elainewlin/MusicParsed" target="_blank"><img src="./static/images/github.svg" class="social-image" /></a>
+    </span>
+  </div>
+  {% block content %}{% endblock %}
+
+</body>
+
+</html>
