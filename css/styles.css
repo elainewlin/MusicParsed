@@ -2,6 +2,20 @@
   --main-blue: #4c4ca6;
 }
 
+@media print {
+  .ui-widget {
+    display: none;
+  }
+
+  .widgets {
+    display: none;
+  }
+
+  #chordPics {
+    position: absolute !important;
+  }
+}
+
 #capo {
   line-height: inherit;
   display: none;
