@@ -1,7 +1,9 @@
 # MusicParsed 
 
 Start local server: 
-```python -m SimpleHTTPServer ```
+
+```python app.py ```
+```npm install```
 
 Template documentation
 * Use Mustache for rendering HTML templates from JSON files
