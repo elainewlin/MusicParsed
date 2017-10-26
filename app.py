@@ -20,6 +20,11 @@ def convert():
 @app.route("/import")
 def importSong():
     return render_template('import.html', name='import')
+
+@app.route("/aus")
+def aus():
+    return render_template('aus.html', name='aus')
+
 """
 @app.route("/importText", methods=['POST'])
 def importText():
