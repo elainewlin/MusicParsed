@@ -32,7 +32,6 @@ window.onload = function() {
       data.map(function(song) {
 
         // Sorting by artist
-        var id = song["id"];
         var title = song["title"];
         var artist = song["artist"];
 
