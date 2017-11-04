@@ -181,6 +181,7 @@ export var initRender = function() {
       },
       select: function(event, ui) {
         var newSong = ui.item.id;
+        // TO DO #35 improve navigation
         window.history.pushState({'song': newSong}, ui.item.value, `/song/${ui.item.id_artist}/${ui.item.id_title}`);
         loadSong(newSong);
       }

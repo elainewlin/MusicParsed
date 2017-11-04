@@ -45,10 +45,12 @@
   padding: 10px;
 }
 
+.allSongsContainer {
+  padding: 10px 40px 0;
+}
 #allSongs {
   column-width: 350px;
   column-count: 3;
-  padding: 10px 40px 0;
 }
 
 .chords {
