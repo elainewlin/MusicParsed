@@ -35,24 +35,23 @@ window.onload = function() {
         var title = song["title"];
         var artist = song["artist"];
 
-        if(allSongs.hasOwnProperty(artist)) {
+        if (allSongs.hasOwnProperty(artist)) {
           allSongs[artist].push(song);
-        }
-        else {
+        } else {
           allSongs[artist] = [song];
         }
       });
 
       var allSongsByArtist = [];
-      for(var tag in allSongs) {
+      for (var tag in allSongs) {
         // Song titles in alphabetical order
         allSongs[tag] = allSongs[tag].sort(comparator("title"));
-        allSongsByArtist.push({"tag": tag, "songs": allSongs[tag]});
+        allSongsByArtist.push({ "tag": tag, "songs": allSongs[tag] });
       }
       // Artists in alphabetical order
       allSongsByArtist = allSongsByArtist.sort(comparator("tag"));
 
-      document.getElementById('allSongs').innerHTML = allSongsListTemplate({allSongs: allSongsByArtist});
+      document.getElementById('allSongs').innerHTML = allSongsListTemplate({ allSongs: allSongsByArtist });
     }
   });
 

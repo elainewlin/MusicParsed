@@ -10,7 +10,9 @@ a {
   background-color: #ededf6;
 }
 
+
 /* Navbar styles */
+
 .navigation {
   margin: 0;
   line-height: 40px;
@@ -22,7 +24,7 @@ a {
   width: 150px;
 }
 
-.navbar-logo > .navbar-link {
+.navbar-logo>.navbar-link {
   color: #333;
   font-size: 16px;
 }
@@ -38,7 +40,9 @@ a {
   font-weight: 500;
 }
 
+
 /* Navbar social icons */
+
 .social-section {
   float: right;
 }
