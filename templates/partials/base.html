@@ -4,6 +4,7 @@
 <head>
 {% include "partials/ga.html" %}
 {% block script %}
+{{ webpack['styles.css'] }}
 {{ webpack['styles.js'] }}
 {% endblock %}
 </head>
