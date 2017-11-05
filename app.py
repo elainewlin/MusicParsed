@@ -25,9 +25,17 @@ def import_song():
 def aus():
     return render_template('aus.html', name='aus')
 
+@app.route("/guides")
+def guides():
+    return render_template('guides/index.html', name='guides')
+
 @app.route("/guides/getting_started")
 def getting_started():
-    return render_template('getting_started.html', name='getting_started')
+    return render_template('guides/getting_started.html', name='getting_started')
+
+@app.route("/guides/buy")
+def buy():
+    return render_template('guides/buy.html', name='buy_ukulele')
 
 """
 @app.route("/importText", methods=['POST'])

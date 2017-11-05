@@ -1,9 +1,10 @@
 import "babel-polyfill";
 import $ from "jquery";
 import "bootstrap/js/button";
+// TO DO #37: replace these imports
 import "bootstrap/dist/css/bootstrap.min.css";
-import "../../css/convert.css";
 import "../../css/global.css";
+import "../../css/convert.css";
 import { Guitar, Ukulele, Note } from "./music.js";
 
 // Gets sequence of notes from the guitar chords

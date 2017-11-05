@@ -3,7 +3,9 @@
 
 <head>
 {% include "partials/ga.html" %}
-{% block script %}{% endblock %}
+{% block script %}
+{{ webpack['styles.js'] }}
+{% endblock %}
 </head>
 
 <body>
@@ -18,7 +20,7 @@
       <a href="/convert" class="navbar-link">Convert</a>
     </span>
     <span class="navbar-item">
-      <a href="/guides/getting_started" class="navbar-link">Guides</a>
+      <a href="/guides" class="navbar-link">Guides</a>
     </span>
     <span class="social-section">
       <a href="https://www.facebook.com/musicparsed/" target="_blank"><img src="{{ url_for('static', filename='images/facebook.svg') }}" class="social-image"/></a>
