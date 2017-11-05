@@ -10,10 +10,7 @@ a {
   background-color: #ededf6;
 }
 
-.btn-default.active:hover {
-  background-color: #ededf6;
-}
-
+/* Navbar styles */
 .navigation {
   margin: 0;
   line-height: 40px;
@@ -41,6 +38,7 @@ a {
   font-weight: 500;
 }
 
+/* Navbar social icons */
 .social-section {
   float: right;
 }

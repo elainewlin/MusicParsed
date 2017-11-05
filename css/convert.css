@@ -20,14 +20,11 @@ textarea {
   font-size: 24px;
 }
 
+/* TO DO clean up duplication in global.css */
 .btn-default.active {
     background-color: #dbdbed;
 }
 
 .btn-default:hover {
-  background-color: #ededf6;
-}
-
-.btn-default.active:hover {
   background-color: #ededf6;
 }
