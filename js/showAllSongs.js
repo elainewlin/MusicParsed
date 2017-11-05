@@ -24,7 +24,7 @@ var comparator = function(property) {
 window.onload = function() {
   var allSongs = {};
 
-  // TO DO clean up variable naming, what is sorted even?
+  // TO DO #36 clean up data storage for allSongs
   $.ajax({
     url: "/static/data/allSongs.json",
     dataType: "json",
@@ -55,4 +55,5 @@ window.onload = function() {
       document.getElementById('allSongs').innerHTML = allSongsListTemplate({allSongs: allSongsByArtist});
     }
   });
+
 };

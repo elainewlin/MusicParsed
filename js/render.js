@@ -148,7 +148,6 @@ export var rerender = function() {
 };
 
 export var loadSong = function(newSong) {
-
   $.getJSON("/static/data/json/"+newSong+".json", function(data) {
       songView.setName(`${data.title} - ${data.artist}`);
       songView.setSong(data);
@@ -160,6 +159,22 @@ export var loadSong = function(newSong) {
 
 export var initRender = function() {
   loadWidgets();
+  const get_random_index = function(total_songs) {
+    return Math.floor(Math.random() * total_songs) + 1;
+  }
+
+  $.ajax({
+    url: "/static/data/allSongs.json",
+    dataType: "json",
+    success: function(data) {
+      $(".random").click(function() {
+        const random_song = data[get_random_index(data.length)];
+        // TO DO #35 improve navigation, show the correct URL
+        window.history.replaceState({'song': random_song}, '', '/');
+        loadSong(random_song.id);
+      })
+    }
+  });
 
   $("#tags").autocomplete({
       source: function(request, response) {
@@ -180,10 +195,9 @@ export var initRender = function() {
         });
       },
       select: function(event, ui) {
-        var newSong = ui.item.id;
-        // TO DO #35 improve navigation
-        window.history.pushState({'song': newSong}, ui.item.value, `/song/${ui.item.id_artist}/${ui.item.id_title}`);
-        loadSong(newSong);
+        // TO DO #35 improve navigation, show the correct URL
+        window.history.replaceState({'song': ui.item.id}, '', '/');
+        loadSong(ui.item.id);
       }
   });
 
