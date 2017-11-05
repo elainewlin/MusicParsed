@@ -25,6 +25,9 @@ def import_song():
 def aus():
     return render_template('aus.html', name='aus')
 
+"""
+CLEAN UP THIS ROUTING
+"""
 @app.route("/guides")
 def guides():
     return render_template('guides/index.html', name='guides')
@@ -36,6 +39,14 @@ def getting_started():
 @app.route("/guides/buy")
 def buy():
     return render_template('guides/buy.html', name='buy_ukulele')
+
+@app.route("/guides/before_playing")
+def before_playing():
+    return render_template('guides/before_playing.html', name='before_playing')
+
+@app.route("/guides/beginner_ukulele_chords")
+def beginner_ukulele_chords():
+    return render_template('guides/beginner_ukulele_chords.html', name='beginner_ukulele_chords')
 
 """
 @app.route("/importText", methods=['POST'])
