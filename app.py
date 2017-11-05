@@ -10,20 +10,24 @@ def hello():
     return render_template('index.html', name='home')
 
 @app.route("/all")
-def allSongs():
-    return render_template('allSongs.html', name='allSongs')
+def all_songs():
+    return render_template('all_songs.html', name='all_songs')
 
 @app.route("/convert")
 def convert():
     return render_template('convert.html', name='convert')
 
 @app.route("/import")
-def importSong():
+def import_song():
     return render_template('import.html', name='import')
 
 @app.route("/aus")
 def aus():
     return render_template('aus.html', name='aus')
+
+@app.route("/guides/getting_started")
+def getting_started():
+    return render_template('getting_started.html', name='getting_started')
 
 """
 @app.route("/importText", methods=['POST'])
