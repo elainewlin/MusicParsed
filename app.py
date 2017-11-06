@@ -25,28 +25,23 @@ def import_song():
 def aus():
     return render_template('aus.html', name='aus')
 
-"""
-CLEAN UP THIS ROUTING
-"""
 @app.route("/guides")
 def guides():
     return render_template('guides/index.html', name='guides')
 
-@app.route("/guides/getting_started")
-def getting_started():
-    return render_template('guides/getting_started.html', name='getting_started')
+guide_types = [
+    "buy_ukulele",
+    "before_playing",
+    "beginner_ukulele_chords",
+    "song_chords",
+    "beginner_strum_patterns",
+    "beginner_ukulele_songs"
+]
 
-@app.route("/guides/buy")
-def buy():
-    return render_template('guides/buy.html', name='buy_ukulele')
-
-@app.route("/guides/before_playing")
-def before_playing():
-    return render_template('guides/before_playing.html', name='before_playing')
-
-@app.route("/guides/beginner_ukulele_chords")
-def beginner_ukulele_chords():
-    return render_template('guides/beginner_ukulele_chords.html', name='beginner_ukulele_chords')
+@app.route("/guides/<guide_type>")
+def get_guide(guide_type):
+    guide_template = 'guides/{0}.html'.format(guide_type)
+    return render_template(guide_template, name=guide_type)
 
 """
 @app.route("/importText", methods=['POST'])
@@ -68,7 +63,7 @@ def importURL():
     return render_template('import.html', name='import')
 """
 @app.route("/song/<artist>/<title>")
-def getSong(artist, title):
+def get_song(artist, title):
     return render_template('index.html', title=title, artist=artist)
 
 FlaskWebpackExt(app)

@@ -10,6 +10,16 @@ a {
   background-color: #ededf6;
 }
 
+.highlight {
+  background-color: #dbdbed;
+}
+
+pre {
+  border: 0;
+  background-color: transparent;
+  font-family: 'DejaVu Sans Mono', monospace;
+}
+
 
 /* Navbar styles */
 
@@ -39,6 +49,7 @@ a {
   text-decoration: none;
   font-weight: 500;
 }
+
 
 
 /* Navbar social icons */
