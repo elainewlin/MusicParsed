@@ -35,6 +35,7 @@ guide_types = [
     "beginner_ukulele_chords",
     "song_chords",
     "beginner_strum_patterns",
+    "playing_and_singing",
     "beginner_ukulele_songs"
 ]
 
