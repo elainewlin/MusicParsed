@@ -10,9 +10,18 @@ a {
   background-color: #ededf6;
 }
 
-.btn-default.active:hover {
-  background-color: #ededf6;
+.highlight {
+  background-color: #dbdbed;
 }
+
+pre {
+  border: 0;
+  background-color: transparent;
+  font-family: 'DejaVu Sans Mono', monospace;
+}
+
+
+/* Navbar styles */
 
 .navigation {
   margin: 0;
@@ -25,7 +34,7 @@ a {
   width: 150px;
 }
 
-.navbar-logo > .navbar-link {
+.navbar-logo>.navbar-link {
   color: #333;
   font-size: 16px;
 }
@@ -40,6 +49,10 @@ a {
   text-decoration: none;
   font-weight: 500;
 }
+
+
+
+/* Navbar social icons */
 
 .social-section {
   float: right;

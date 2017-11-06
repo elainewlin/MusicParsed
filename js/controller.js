@@ -2,8 +2,8 @@ import $ from "jquery";
 import "bootstrap/js/button";
 import "jquery-ui/ui/widgets/tooltip";
 import "jquery-ui/themes/base/all.css";
-import {songView} from "./model.js";
-import {renderChords, rerender} from "./render.js";
+import { songView } from "./model.js";
+import { renderChords, rerender } from "./render.js";
 import buttonTemplate from "../mustache/button.mustache";
 
 const transpose = "transpose";
@@ -11,7 +11,7 @@ const column = "column";
 const instrument = "instrument";
 
 const getWidget = function(type) {
-  return $("#"+type+" > .btn-group");
+  return $("#" + type + " > .btn-group");
 }
 
 const selectButton = function(type, value) {
@@ -22,7 +22,7 @@ const selectButton = function(type, value) {
 const loadTransposeButtons = function() {
   const transposeButtons = [];
 
-  for(let value = -6; value <= 6; value++) {
+  for (let value = -6; value <= 6; value++) {
     let name;
     if (value > 0) {
       name = `+${value}`;
@@ -31,11 +31,11 @@ const loadTransposeButtons = function() {
     }
     transposeButtons.push({
       type: transpose,
-      name: name, 
+      name: name,
       value: value
     })
   }
-  document.getElementById(transpose).innerHTML = buttonTemplate({buttons: transposeButtons});
+  document.getElementById(transpose).innerHTML = buttonTemplate({ buttons: transposeButtons });
 
   selectButton(transpose, 0);
 
@@ -63,14 +63,14 @@ const loadColumnButtons = function() {
 
   const columnButtons = [];
 
-  for(let value = 1; value <= 4; value++) {
+  for (let value = 1; value <= 4; value++) {
     columnButtons.push({
       type: column,
       name: value,
       value: value,
     })
   }
-  document.getElementById(column).innerHTML = buttonTemplate({buttons: columnButtons});
+  document.getElementById(column).innerHTML = buttonTemplate({ buttons: columnButtons });
 
   updateColCount(defaultColCount);
   selectButton(column, defaultColCount);
@@ -94,7 +94,7 @@ const loadInstrumentButtons = function() {
       value: value,
     })
   }
-  document.getElementById(instrument).innerHTML = buttonTemplate({buttons: instrumentButtons});
+  document.getElementById(instrument).innerHTML = buttonTemplate({ buttons: instrumentButtons });
 
   const currentInstrument = songView.getInstrument();
   selectButton(instrument, currentInstrument);
@@ -125,42 +125,41 @@ export var setTranspose = function(key) {
 };
 
 $(document).ready(function() {
-    let chordPics = $("#chordPics");
-    chordPics.click(function() {
-      songView.setInstrument('none');
-      selectButton(instrument, 'none');
-      renderChords();
-    });
-    chordPics.tooltip();
+  let chordPics = $("#chordPics");
+  chordPics.click(function() {
+    songView.setInstrument('none');
+    selectButton(instrument, 'none');
+    renderChords();
+  });
+  chordPics.tooltip();
 
-    function getToggler(elementToToggle, textToUpdate) {
-      return function() {
-        elementToToggle.toggle()
+  function getToggler(elementToToggle, textToUpdate) {
+    return function() {
+      elementToToggle.toggle()
 
-        if(elementToToggle.is(":visible")) {
-          textToUpdate.text("hide");
-        }
-        else {
-          textToUpdate.text("show");
-        }
+      if (elementToToggle.is(":visible")) {
+        textToUpdate.text("hide");
+      } else {
+        textToUpdate.text("show");
       }
     }
+  }
 
-    // Capo
-    $("#capo").click(function() {
-      const capo = songView.getCapo();
-      setTranspose(capo);
-      rerender();
-      $("#capo").hide();
-    })
+  // Capo
+  $("#capo").click(function() {
+    const capo = songView.getCapo();
+    setTranspose(capo);
+    rerender();
+    $("#capo").hide();
+  })
 
-    // View widget, column, transpose widgets
-    let viewToggle = $("#viewToggle");
-    const toggleWidgets = getToggler($("#widgets"), viewToggle);
+  // View widget, column, transpose widgets
+  let viewToggle = $("#viewToggle");
+  const toggleWidgets = getToggler($("#widgets"), viewToggle);
 
-    viewToggle.click(function() {
-      toggleWidgets();
-    });
-    viewToggle.tooltip();
+  viewToggle.click(function() {
+    toggleWidgets();
+  });
+  viewToggle.tooltip();
 
 });

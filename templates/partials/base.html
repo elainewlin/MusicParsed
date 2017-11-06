@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+{% include "partials/ga.html" %}
+{% block script %}
+{{ webpack['styles.js'] }}
+{% endblock %}
+</head>
+
+<body>
+  <div class="navigation">
+    <span class="navbar-logo">
+      <a href="/" class="navbar-link"><img src="{{ url_for('static', filename='images/logo.svg') }}" />MusicParsed</a>
+    </span>
+    <span class="navbar-item">
+      <a href="/all" class="navbar-link">All Songs</a>
+    </span>
+    <span class="navbar-item">
+      <a href="/convert" class="navbar-link">Convert</a>
+    </span>
+    <span class="navbar-item">
+      <a href="/guides" class="navbar-link">Guides</a>
+    </span>
+    <span class="social-section">
+      <a href="https://www.facebook.com/musicparsed/" target="_blank"><img src="{{ url_for('static', filename='images/facebook.svg') }}" class="social-image"/></a>
+      <a href="https://github.com/elainewlin/MusicParsed" target="_blank"><img src="{{ url_for('static', filename='images/github.svg') }}" class="social-image" /></a>
+    </span>
+  </div>
+  {% block content %}{% endblock %}
+
+</body>
+
+</html>

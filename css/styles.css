@@ -28,6 +28,10 @@
   font-style: normal;
 }
 
+.ui-widget {
+  padding: 2px 0;
+}
+
 .line {
   font-family: 'DejaVu Sans Mono', monospace;
   font-size: 16px;
@@ -43,14 +47,6 @@
   position: relative;
   z-index: 0;
   padding: 10px;
-}
-
-.allSongsContainer {
-  padding: 10px 40px 0;
-}
-#allSongs {
-  column-width: 350px;
-  column-count: 3;
 }
 
 .chords {
@@ -94,4 +90,16 @@
 
 .songTag {
   break-inside: avoid-column;
+}
+
+
+/* Styles for all songs page */
+
+.allSongsContainer {
+  padding: 10px 40px 0;
+}
+
+#allSongs {
+  column-width: 350px;
+  column-count: 3;
 }

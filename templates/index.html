@@ -2,7 +2,7 @@
 <html data-title="{{title}}" data-artist="{{artist}}">
 
 <head>
-  {% include "header.html" %}
+  {% include "partials/ga.html" %}
   {{ webpack['index.js'] }}
 </head>
 
@@ -12,9 +12,9 @@
       <label for="tags">Song select: </label>
       <input id="tags">
       <a href="/all" class="btn btn-default" role="button">Show all songs</a>
+      <a href="javascript:void(0)" class="btn btn-default random" role="button">Random song</a>
       <label for="widgets">Widgets: </label>
       <button class="btn btn-default" id="viewToggle" title="Hide/show the column and transpose widgets">hide</button>
-
       <label for="chords">Chords: </label>
       <span id="instrument"></span>
     </div>
@@ -41,4 +41,5 @@
   <div id="chordPics" title="Click to hide chord pictures">
   </div>
 </body>
+
 </html>

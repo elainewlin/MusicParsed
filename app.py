@@ -10,20 +10,39 @@ def hello():
     return render_template('index.html', name='home')
 
 @app.route("/all")
-def allSongs():
-    return render_template('allSongs.html', name='allSongs')
+def all_songs():
+    return render_template('all_songs.html', name='all_songs')
 
 @app.route("/convert")
 def convert():
     return render_template('convert.html', name='convert')
 
 @app.route("/import")
-def importSong():
+def import_song():
     return render_template('import.html', name='import')
 
 @app.route("/aus")
 def aus():
     return render_template('aus.html', name='aus')
+
+@app.route("/guides")
+def guides():
+    return render_template('guides/index.html', name='guides')
+
+guide_types = [
+    "buy_ukulele",
+    "before_playing",
+    "beginner_ukulele_chords",
+    "song_chords",
+    "beginner_strum_patterns",
+    "playing_and_singing",
+    "beginner_ukulele_songs"
+]
+
+@app.route("/guides/<guide_type>")
+def get_guide(guide_type):
+    guide_template = 'guides/{0}.html'.format(guide_type)
+    return render_template(guide_template, name=guide_type)
 
 """
 @app.route("/importText", methods=['POST'])
@@ -45,7 +64,7 @@ def importURL():
     return render_template('import.html', name='import')
 """
 @app.route("/song/<artist>/<title>")
-def getSong(artist, title):
+def get_song(artist, title):
     return render_template('index.html', title=title, artist=artist)
 
 FlaskWebpackExt(app)

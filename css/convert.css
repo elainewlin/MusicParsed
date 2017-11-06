@@ -1,5 +1,5 @@
 .tab {
-  font-family: "Courier New", Courier, monospace;	
+  font-family: "Courier New", Courier, monospace;
 }
 
 textarea {
@@ -20,14 +20,13 @@ textarea {
   font-size: 24px;
 }
 
+
+/* TO DO clean up duplication in global.css */
+
 .btn-default.active {
-    background-color: #dbdbed;
+  background-color: #dbdbed;
 }
 
 .btn-default:hover {
-  background-color: #ededf6;
-}
-
-.btn-default.active:hover {
   background-color: #ededf6;
 }

@@ -23,7 +23,7 @@ export var Note = function(initialString, fret, time) {
   that.time = time;
 
   that.getNote = function() {
-    var value = initialString+fret;
+    var value = initialString + fret;
     return OCTAVE[value % 12];
   };
 
@@ -31,19 +31,16 @@ export var Note = function(initialString, fret, time) {
     var stringIndex = Guitar().notes.indexOf(initialString);
     var ukeStrings = Ukulele().notes;
 
-    if(stringIndex < 4) {
-      if(fret >= 5) {
+    if (stringIndex < 4) {
+      if (fret >= 5) {
         return Note(ukeStrings[stringIndex], fret - 5, time);
-      }
-      else {
+      } else {
         return Note(ukeStrings[stringIndex], fret + 7, time);
       }
-    }
-    else {
-      if(fret <= 12) {
+    } else {
+      if (fret <= 12) {
         return Note(ukeStrings[stringIndex % 4], fret, time);
-      }
-      else {
+      } else {
         return Note(ukeStrings[stringIndex % 4], fret % 12, time);
       }
     }
@@ -53,7 +50,7 @@ export var Note = function(initialString, fret, time) {
     var stringIndex = Ukulele().notes.indexOf(initialString);
     var guitarStrings = Guitar().notes;
 
-    return Note(guitarStrings[stringIndex], fret+5, time);
+    return Note(guitarStrings[stringIndex], fret + 5, time);
   };
 
   Object.freeze(that);

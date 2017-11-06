@@ -228,15 +228,17 @@ class TextParser:
             # tags = []
             with open(os.path.join(JSON_FOLDER, fileName)) as data_file:
                 data = json.load(data_file)
+                # Song title, called label for jQuery autocomplete
                 newSong["label"] = data['title']
-                newSong["title"] = data['title']
                 newSong["artist"] = data['artist']
                 newSong["value"] = data['id']
 
             # URL friendly i.e. love_story - taylor_swift
             newSong["id"] = songID
-            newSong["id_artist"] = idToData(songID)[1]
-            newSong["id_title"] = idToData(songID)[0]
+
+            id_title = idToData(songID)[0]
+            id_artist = idToData(songID)[1]
+            newSong["url"] = '/song/{0}/{1}'.format(id_artist, id_title)
             allSongs.append(newSong)
         with open('allSongs.json', 'w') as outfile:
             json.dump(allSongs, outfile, indent=2, sort_keys=True)
@@ -255,3 +257,4 @@ if __name__ == "__main__":
     textParser = TextParser(textFolder)
     modified = textParser.getAllModified()
     textParser.allToJSON(modified)
+    # textParser.getAllSongs()

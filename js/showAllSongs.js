@@ -1,7 +1,8 @@
 import "babel-polyfill";
 import $ from "jquery";
-import "bootstrap/dist/css/bootstrap.min.css";
 import "../css/styles.css";
+// TO DO #37: replace these imports
+import "bootstrap/dist/css/bootstrap.min.css";
 import "../css/global.css";
 import allSongsListTemplate from "../mustache/allSongsList.mustache";
 
@@ -24,7 +25,7 @@ var comparator = function(property) {
 window.onload = function() {
   var allSongs = {};
 
-  // TO DO clean up variable naming, what is sorted even?
+  // TO DO #36 clean up data storage for allSongs
   $.ajax({
     url: "/static/data/allSongs.json",
     dataType: "json",
@@ -35,24 +36,24 @@ window.onload = function() {
         var title = song["title"];
         var artist = song["artist"];
 
-        if(allSongs.hasOwnProperty(artist)) {
+        if (allSongs.hasOwnProperty(artist)) {
           allSongs[artist].push(song);
-        }
-        else {
+        } else {
           allSongs[artist] = [song];
         }
       });
 
       var allSongsByArtist = [];
-      for(var tag in allSongs) {
+      for (var tag in allSongs) {
         // Song titles in alphabetical order
         allSongs[tag] = allSongs[tag].sort(comparator("title"));
-        allSongsByArtist.push({"tag": tag, "songs": allSongs[tag]});
+        allSongsByArtist.push({ "tag": tag, "songs": allSongs[tag] });
       }
       // Artists in alphabetical order
       allSongsByArtist = allSongsByArtist.sort(comparator("tag"));
 
-      document.getElementById('allSongs').innerHTML = allSongsListTemplate({allSongs: allSongsByArtist});
+      document.getElementById('allSongs').innerHTML = allSongsListTemplate({ allSongs: allSongsByArtist });
     }
   });
+
 };
