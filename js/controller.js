@@ -46,21 +46,7 @@ const loadTransposeButtons = function() {
   });
 }
 
-const loadColumnButtons = function() {
-
-  const updateColCount = function(colCount) {
-    $("#song").css("column-count", colCount);
-  }
-
-  let defaultColCount = 3;
-  // Change default column count depending on screen width
-  const width = $(window).width();
-
-  // iPads and phones
-  if (width < 1200) {
-    defaultColCount = 2;
-  }
-
+const renderColumnButtons = function() {
   const columnButtons = [];
 
   for (let value = 1; value <= 4; value++) {
@@ -71,6 +57,28 @@ const loadColumnButtons = function() {
     })
   }
   document.getElementById(column).innerHTML = buttonTemplate({ buttons: columnButtons });
+}
+
+const loadColumnButtons = function() {
+
+  const updateColCount = function(colCount) {
+    $("#song").css("column-count", colCount);
+    $("#song").css("position", colCount > 1 ? "absolute" : "static");
+  }
+  let defaultColCount = 3;
+
+  // Change default column count depending on screen width
+  const width = $(window).width();
+  // iPads 
+  if (width < 1200) {
+    // phones
+    defaultColCount = 2;
+    if (width < 600) {
+      defaultColCount = 1;
+    }
+  }
+
+  renderColumnButtons();
 
   updateColCount(defaultColCount);
   selectButton(column, defaultColCount);
