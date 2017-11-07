@@ -200,6 +200,7 @@ export var initRender = function() {
   });
 
   $("#tags").autocomplete({
+    autoFocus: true,
     source: function(request, response) {
       $.ajax({
         url: "/static/data/allSongs.json",
