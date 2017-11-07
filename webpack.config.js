@@ -9,7 +9,7 @@ module.exports = {
         import: './js/import.js',
         index: './js/index.js',
         showAllSongs: './js/showAllSongs.js',
-        styles: './js/styles.js',
+        global: './css/global.css',
     },
     output: {
         filename: '[name].[chunkhash].bundle.js',

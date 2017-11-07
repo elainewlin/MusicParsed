@@ -1,8 +1,6 @@
 import "babel-polyfill";
 import $ from "jquery";
 import "../css/styles.css";
-// TO DO #37: replace these imports
-import "bootstrap/dist/css/bootstrap.min.css";
 import "../css/global.css";
 import allSongsListTemplate from "../mustache/allSongsList.mustache";
 
