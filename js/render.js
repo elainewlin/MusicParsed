@@ -193,7 +193,7 @@ export var initRender = function() {
       $(".random").click(function() {
         const random_song = data[get_random_index(data.length)];
         // TO DO #35 improve navigation, show the correct URL
-        window.history.replaceState({ 'song': random_song }, '', '/');
+        window.history.pushState({ 'song': random_song.url }, '', `${random_song.url}`);
         loadSong(random_song.id);
       })
     }
@@ -220,7 +220,7 @@ export var initRender = function() {
     },
     select: function(event, ui) {
       // TO DO #35 improve navigation, show the correct URL
-      window.history.replaceState({ 'song': ui.item.id }, '', '/');
+      window.history.pushState({ 'song': ui.item.url }, '', `${ui.item.url}`);
       loadSong(ui.item.id);
     }
   });
