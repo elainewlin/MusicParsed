@@ -1,4 +1,9 @@
+repos:
+- repo: git://github.com/pre-commit/pre-commit-hooks
+  sha: v1.1.1
+  hooks:
+    - id: flake8
 - hooks:
   - {id: eslint}
   repo: git://github.com/pre-commit/mirrors-eslint
-  sha: master
+  sha: v4.11.0
