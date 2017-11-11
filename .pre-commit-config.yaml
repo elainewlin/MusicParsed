@@ -1,0 +1,4 @@
+- hooks:
+  - {id: eslint}
+  repo: git://github.com/pre-commit/mirrors-eslint
+  sha: master

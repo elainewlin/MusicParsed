@@ -50,19 +50,18 @@ var printTab = function(instrument, sequence) {
 
   for (var time in sequence) {
     var chord = sequence[time];
-    var notes = "";
 
-    for (var i in chord) {
+    for (let i in chord) {
       var note = chord[i];
       var stringIndex = instrument.notes.indexOf(note.initialString);
       var numBlanks = note.time - strings[stringIndex].length;
 
-      for (var j = 0; j < numBlanks; j++) {
+      for (let j = 0; j < numBlanks; j++) {
         strings[stringIndex].push("-");
       }
 
-      var fret = note.fret.toString();
-      for (var j = 0; j < fret.length; j++) {
+      const fret = note.fret.toString();
+      for (let j = 0; j < fret.length; j++) {
         strings[stringIndex].push(fret[j]);
       }
     }
@@ -70,9 +69,9 @@ var printTab = function(instrument, sequence) {
 
   var maxLength = Math.max(...strings.map(oneString => oneString.length));
 
-  for (var i = 0; i < instrument.stringCount; i++) {
-    var numBlanks = maxLength - strings[i].length;
-    for (var j = 0; j < numBlanks; j++) {
+  for (let i = 0; i < instrument.stringCount; i++) {
+    const numBlanks = maxLength - strings[i].length;
+    for (let j = 0; j < numBlanks; j++) {
       strings[i].push("-");
     }
   }
@@ -81,23 +80,20 @@ var printTab = function(instrument, sequence) {
 
   strings.map(function(oneString) {
     newTab += oneString.join("") + "\n";
-  })
+  });
   $(".tab.converted").html(newTab);
 
 };
 
 var ukeToGuitar = function() {
   var sequence = parseTab(Ukulele());
-  var transposed = [];
   var guitarSequence = [];
   for (var time in sequence) {
     var chord = sequence[time];
     var guitarChord = [];
-    var notes = "";
 
-    for (var i in chord) {
-      var note = chord[i];
-      notes += note.getNote();
+    for (let i in chord) {
+      const note = chord[i];
       guitarChord.push(note.toGuitar());
     }
     guitarSequence.push(guitarChord);
@@ -107,16 +103,13 @@ var ukeToGuitar = function() {
 
 var guitarToUke = function() {
   var sequence = parseTab(Guitar());
-  var transposed = [];
   var ukeSequence = [];
   for (var time in sequence) {
     var chord = sequence[time];
     var ukeChord = [];
-    var notes = "";
 
-    for (var i in chord) {
-      var note = chord[i];
-      notes += note.getNote();
+    for (let i in chord) {
+      const note = chord[i];
       ukeChord.push(note.toUkulele());
     }
     ukeSequence.push(ukeChord);

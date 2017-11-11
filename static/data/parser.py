@@ -9,7 +9,8 @@ from helpers import nameToID, idToData, dataToName, clean
 TEXT = "txt"
 JSON = "json"
 JSON_FOLDER = os.path.join(os.getcwd(), JSON)
-ALL_SONGS_PATH = os.path.join(JSON_FOLDER, "ALL_SONGS.json")
+ALL_SONGS = "ALL_SONGS.json"
+ALL_SONGS_PATH = os.path.join(JSON_FOLDER, ALL_SONGS)
 
 def findBetween(s, first, last):
     """
@@ -222,9 +223,10 @@ class TextParser:
         """
         allSongs = []
         for fileName in sorted(os.listdir(JSON_FOLDER)):
+            if fileName == ALL_SONGS:
+                continue
             newSong = {}
             songID = nameToID(fileName)
-
             [title, artist] = idToData(songID)
             # tags = []
             with open(os.path.join(JSON_FOLDER, fileName)) as dataFile:
@@ -260,4 +262,4 @@ if __name__ == "__main__":
     textParser = TextParser(textFolder)
     # modified = textParser.getAllModified()
     # textParser.allToJSON(modified)
-    textParser.getAllSongs()
+    # textParser.getAllSongs()
