@@ -2,6 +2,7 @@ const path = require("path");
 const webpack = require("webpack");
 const CleanWebpackPlugin = require("clean-webpack-plugin");
 const WebpackManifestPlugin = require("webpack-manifest-plugin");
+const ExtractTextPlugin = require("extract-text-webpack-plugin");
 
 module.exports = {
   entry: {
@@ -25,16 +26,17 @@ module.exports = {
       loader: "mustache-loader"
     }, {
       test: /\.css$/,
-      use: [{
-        loader: "style-loader",
-      }, {
-        loader: "css-loader",
-        options: {
-          importLoaders: 1,
-        },
-      }, {
-        loader: "postcss-loader",
-      }],
+      use: ExtractTextPlugin.extract({
+        fallback: "style-loader",
+        use: [{
+          loader: "css-loader",
+          options: {
+            importLoaders: 1,
+          },
+        }, {
+          loader: "postcss-loader",
+        }],
+      }),
     }, {
       test: /\.(eot|png|svg|ttf|woff|woff2)$/,
       loader: "url-loader",
@@ -48,6 +50,7 @@ module.exports = {
     new WebpackManifestPlugin({
       publicPath: "/static/dist/"
     }),
+    new ExtractTextPlugin("[name].[contenthash].css"),
     new webpack.ProvidePlugin({
       jQuery: "jquery"
     })
