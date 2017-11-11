@@ -93,7 +93,7 @@ const loadColumnButtons = function() {
 
 const loadInstrumentButtons = function() {
   // Render instrument toggle widget
-  const instrumentOptions = ['none', 'ukulele', 'baritone', 'guitar', 'guitalele'];
+  const instrumentOptions = ["none", "ukulele", "baritone", "guitar", "guitalele"];
   const instrumentButtons = [];
   for (let value of instrumentOptions) {
     instrumentButtons.push({
@@ -135,8 +135,8 @@ export var setTranspose = function(key) {
 $(document).ready(function() {
   let chordPics = $("#chordPics");
   chordPics.click(function() {
-    songView.setInstrument('none');
-    selectButton(instrument, 'none');
+    songView.setInstrument("none");
+    selectButton(instrument, "none");
     renderChords();
   });
   chordPics.tooltip();

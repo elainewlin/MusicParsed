@@ -61,7 +61,7 @@ var printTab = function(instrument, sequence) {
       var numBlanks = note.time - strings[stringIndex].length;
 
       for (var j = 0; j < numBlanks; j++) {
-        strings[stringIndex].push('-');
+        strings[stringIndex].push("-");
       }
 
       var fret = note.fret.toString();
@@ -76,7 +76,7 @@ var printTab = function(instrument, sequence) {
   for (var i = 0; i < instrument.stringCount; i++) {
     var numBlanks = maxLength - strings[i].length;
     for (var j = 0; j < numBlanks; j++) {
-      strings[i].push('-');
+      strings[i].push("-");
     }
   }
 

@@ -27,7 +27,7 @@ window.onload = function() {
 
   // TO DO #36 clean up data storage for allSongs
   $.ajax({
-    url: "/static/data/allSongs.json",
+    url: "/static/data/json/ALL_SONGS.json",
     dataType: "json",
     success: function(data) {
       data.map(function(song) {
@@ -52,7 +52,7 @@ window.onload = function() {
       // Artists in alphabetical order
       allSongsByArtist = allSongsByArtist.sort(comparator("tag"));
 
-      document.getElementById('allSongs').innerHTML = allSongsListTemplate({ allSongs: allSongsByArtist });
+      document.getElementById("allSongs").innerHTML = allSongsListTemplate({ allSongs: allSongsByArtist });
     }
   });
 

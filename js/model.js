@@ -18,7 +18,7 @@ function transposeChord(chord, amount) {
 }
 
 export var songView = new function() {
-  var currentInstrument = 'ukulele';
+  var currentInstrument = "ukulele";
 
   this.getInstrument = function() {
     return currentInstrument;
@@ -52,7 +52,7 @@ export var songView = new function() {
   this.setSong = function(data) {
     allChords = data["allChords"];
     let count = 0;
-    lines = data["lines"].map(line => 'lyrics' in line ? Object.assign({ count: count++ }, line) : line);
+    lines = data["lines"].map(line => "lyrics" in line ? Object.assign({ count: count++ }, line) : line);
 
     capo = data["capo"];
     setCapo(capo);
