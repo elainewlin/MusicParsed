@@ -1,5 +1,9 @@
 {% extends "partials/base.html" %}
 
+{% block script %}
+{{ webpack['convert.css'] }}
+{% endblock %}
+
 {% block content %}
 <div class="container">
   <h1>Convert Ukulele + Guitar Tabs</h1>
