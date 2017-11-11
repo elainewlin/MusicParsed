@@ -6,7 +6,6 @@ const WebpackManifestPlugin = require("webpack-manifest-plugin");
 module.exports = {
   entry: {
     convert: "./js/convert/convert.js",
-    import: "./js/import.js",
     index: "./js/index.js",
     showAllSongs: "./js/showAllSongs.js",
     global: "./css/global.css",

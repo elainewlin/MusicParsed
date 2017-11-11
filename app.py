@@ -44,25 +44,6 @@ def get_guide(guide_type):
     guide_template = "guides/{0}.html".format(guide_type)
     return render_template(guide_template, name=guide_type)
 
-"""
-@app.route("/importText", methods=["POST"])
-def importText():
-    data = request.form["text"]
-    print os.path.join(os.getcwd(), "text")
-    textFile = "test.txt"
-    with open(textFile, "w") as outfile:
-        outfile.write(data.encode("utf-8"))
-    return render_template("import.html", name="import")
-
-@app.route("/importURL", methods=["POST"])
-def importURL():
-    data = request.form["text"]
-    print os.path.join(os.getcwd(), "text")
-    textFile = "test.txt"
-    with open(textFile, "w") as outfile:
-        outfile.write(data.encode("utf-8"))
-    return render_template("import.html", name="import")
-"""
 @app.route("/song/<artist>/<title>")
 def get_song(artist, title):
     return render_template("index.html", title=title, artist=artist)
