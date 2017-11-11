@@ -3,10 +3,10 @@ from isChord import isChord, isChordLine
 NOTES = ["C", "D", "E", "F", "G", "A", "B"]
 
 def minor(chord):
-    return chord+'m'
+    return chord+"m"
 
 def test_blank():
-    assert not isChord('')
+    assert not isChord("")
 
 def test_basic():
     for note in NOTES:
@@ -21,11 +21,11 @@ def test_basic():
         assert isChord(minor(flat))
 
 def test_lines():
-    shortLine = 'A C'
+    shortLine = "A C"
     assert isChordLine(shortLine)
-    notQuiteChords = 'A carrot'
+    notQuiteChords = "A carrot"
     assert not isChordLine(notQuiteChords)
-    line = 'Dm       C              Dm      C     Dm   C '
+    line = "Dm       C              Dm      C     Dm   C "
     assert isChordLine(line)
 
 def test_false_matches():
@@ -34,11 +34,11 @@ def test_false_matches():
 
 def test_complex_chords():
 
-    complex = ['Cmaj7', 'Caug', 'Bbsus2', 'Dbdim', 'Gadd9', 'Dm', 'Emadd9']
+    complex = ["Cmaj7", "Caug", "Bbsus2", "Dbdim", "Gadd9", "Dm", "Emadd9"]
     for chord in complex:
         assert isChord(chord), chord
 
-    line = ' '.join(complex)
+    line = " ".join(complex)
 
     assert isChordLine(line)
 

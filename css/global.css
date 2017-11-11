@@ -17,7 +17,7 @@ a {
 pre {
   border: 0;
   background-color: transparent;
-  font-family: 'DejaVu Sans Mono', monospace;
+  font-family: "DejaVu Sans Mono", monospace;
 }
 
 
@@ -34,7 +34,7 @@ pre {
   width: 150px;
 }
 
-.navbar-logo>.navbar-link {
+.navbar-logo > .navbar-link {
   color: #333;
   font-size: 16px;
 }

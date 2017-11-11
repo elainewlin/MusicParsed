@@ -3,16 +3,16 @@
 
 import os
 
-textFolder = os.path.join(os.getcwd(), 'text')
-jsonFolder = os.path.join(os.getcwd(), 'json')
+textFolder = os.path.join(os.getcwd(), "text")
+jsonFolder = os.path.join(os.getcwd(), "json")
 
 allText = os.listdir(textFolder)
 allJSON = os.listdir(jsonFolder)
 
-assert len(allText) == len(allJSON), '{} {}'.format(len(allText), len(allJSON))
+assert len(allText) == len(allJSON), "{} {}".format(len(allText), len(allJSON))
 
 def strip(file):
-    return file.split('.')[0]
+    return file.split(".")[0]
 
 for i in xrange(len(allText)):
     text = allText[i]

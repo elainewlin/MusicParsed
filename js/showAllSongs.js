@@ -19,7 +19,7 @@ var comparator = function(property) {
       return 1;
     }
     return 0; //default return value (no sorting)
-  }
+  };
 };
 
 window.onload = function() {
@@ -27,13 +27,12 @@ window.onload = function() {
 
   // TO DO #36 clean up data storage for allSongs
   $.ajax({
-    url: "/static/data/allSongs.json",
+    url: "/static/data/json/ALL_SONGS.json",
     dataType: "json",
     success: function(data) {
       data.map(function(song) {
 
         // Sorting by artist
-        var title = song["title"];
         var artist = song["artist"];
 
         if (allSongs.hasOwnProperty(artist)) {
@@ -52,7 +51,7 @@ window.onload = function() {
       // Artists in alphabetical order
       allSongsByArtist = allSongsByArtist.sort(comparator("tag"));
 
-      document.getElementById('allSongs').innerHTML = allSongsListTemplate({ allSongs: allSongsByArtist });
+      document.getElementById("allSongs").innerHTML = allSongsListTemplate({ allSongs: allSongsByArtist });
     }
   });
 

@@ -12,7 +12,7 @@ Template documentation
 * Structure of JSON file
     - title: string with title of the song
     - artist: string with the artist of the song
-    - allChords: array of strings of all chords in the song ex: ['Am', 'F', 'C', 'G']
+    - allChords: array of strings of all chords in the song ex: ["Am", "F", "C", "G"]
     - lines: array of JSON objects for each chord-lyric pair in the song
         - count: id of the pair, used for jQuery selectors
         - chord: string with the chords + white spaces

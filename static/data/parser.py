@@ -6,9 +6,10 @@ import argparse
 from isChord import isChordLine, isLyricLine, isLabel
 from helpers import nameToID, idToData, dataToName, clean
 
-TEXT = 'txt'
-JSON = 'json'
+TEXT = "txt"
+JSON = "json"
 JSON_FOLDER = os.path.join(os.getcwd(), JSON)
+ALL_SONGS_PATH = os.path.join(JSON_FOLDER, "ALL_SONGS.json")
 
 def findBetween(s, first, last):
     """
@@ -35,11 +36,11 @@ class URLParser:
         Using BeautifulSoup to read a URL
         url -> BeautifulSoup
         """
-        hdr = {'User-Agent': 'Mozilla/5.0'}
+        hdr = {"User-Agent": "Mozilla/5.0"}
         req = urllib2.Request(url, headers = hdr)
         f = urllib2.urlopen(req)
         myfile = f.read()
-        return BeautifulSoup(myfile, 'html5lib')
+        return BeautifulSoup(myfile, "html5lib")
 
     def parseURL(self, url):
         """
@@ -50,20 +51,20 @@ class URLParser:
         """
 
         # Parsing Ultimate Guitar website
-        if 'ultimate-guitar' in url:
+        if "ultimate-guitar" in url:
             soup = self.soupFromURL(url)
-            data = soup.find('pre', {'class':'js-tab-content'}).get_text()
-            title = soup.find('h1').get_text()[:-7] # Wonderwall Chords
-            artist = soup.find('div', {'class': 't_autor'}).find('a').get_text()
+            data = soup.find("pre", {"class":"js-tab-content"}).getText()
+            title = soup.find("h1").getText()[:-7] # Wonderwall Chords
+            artist = soup.find("div", {"class": "t_autor"}).find("a").getText()
 
         # Parsing Ukutabs website
-        if 'ukutabs' in url:
+        if "ukutabs" in url:
             soup = self.soupFromURL(url)
-            data = soup.findAll('pre', {'class': 'qoate-code'})[-1].get_text()
+            data = soup.findAll("pre", {"class": "qoate-code"})[-1].getText()
 
-            titleSection = soup.find('span', {'class': 'stitlecolor'})
-            title = titleSection.get_text()
-            artist = titleSection.parent.parent.next_sibling.find('a').get_text()
+            titleSection = soup.find("span", {"class": "stitlecolor"})
+            title = titleSection.getText()
+            artist = titleSection.parent.parent.next_sibling.find("a").getText()
 
         return (title, artist, data)
 
@@ -73,13 +74,13 @@ class URLParser:
         fileName = dataToName(title, artist, TEXT)
         textFile = os.path.join(textFolder, fileName)
         print textFile
-        with open(textFile, 'w') as outfile:
-            outfile.write(data.encode('utf-8'))
+        with open(textFile, "w") as outfile:
+            outfile.write(data.encode("utf-8"))
         return fileName
 
     # All song URLs --> all text files of songs
     def allToText(self):
-        f = open('urls.txt', 'r')
+        f = open("urls.txt", "r")
         lines = f.readlines()
         lines = [x.strip() for x in lines]
         for url in lines:
@@ -97,7 +98,7 @@ class TextParser:
         Text file of a song --> JSON file of a song
         """
         textFile = os.path.join(textFolder, fileName)
-        f = open(textFile, 'r')
+        f = open(textFile, "r")
         lines = f.readlines()
         lines = [x.rstrip() for x in lines]
         data = {}
@@ -105,10 +106,10 @@ class TextParser:
         songID = nameToID(fileName)
 
         [title, artist] = idToData(songID)
-        data['title'] = title
-        data['artist'] = artist
-        data['id'] = songID
-        data['lines'] = []
+        data["title"] = title
+        data["artist"] = artist
+        data["id"] = songID
+        data["lines"] = []
         print title
 
         allChords = []
@@ -120,41 +121,41 @@ class TextParser:
                 if chord not in allChords:
                     allChords.append(chord)
 
-        lines_iter = iter(lines)
+        linesIter = iter(lines)
 
-        first_line = lines[0]
+        firstLine = lines[0]
         capo = "CAPO "
-        if first_line.startswith(capo):
-            data["capo"] = first_line.split(capo)[1]
-            next(lines_iter)
+        if firstLine.startswith(capo):
+            data["capo"] = firstLine.split(capo)[1]
+            next(linesIter)
 
-        for line in lines_iter:
+        for line in linesIter:
             if isLabel(line):
-                data['lines'].append({'label': line})
+                data["lines"].append({"label": line})
             elif isChordLine(line):
                 while True:
-                    next_line = next(lines_iter)
-                    lyrics = next_line if isLyricLine(next_line) else ''
-                    data['lines'].append({'lyrics': lyrics, 'chord': line})
+                    next_line = next(linesIter)
+                    lyrics = next_line if isLyricLine(next_line) else ""
+                    data["lines"].append({"lyrics": lyrics, "chord": line})
                     updateAllChords(line)
 
                     line = next_line
                     if isLabel(line):
-                        data['lines'].append({'label': line})
+                        data["lines"].append({"label": line})
                         break
                     elif not isChordLine(line):
                         break
             elif line:
-                data['lines'].append({'lyrics': line, 'chord': ''})
+                data["lines"].append({"lyrics": line, "chord": ""})
             # FIXME: should we preserve blank lines?
 
-        data['allChords'] = allChords
+        data["allChords"] = allChords
 
         title = clean(title)
         artist = clean(artist)
         fileName = dataToName(title, artist, JSON)
         jsonFile = os.path.join(JSON_FOLDER, fileName)
-        with open(jsonFile, 'w') as outfile:
+        with open(jsonFile, "w") as outfile:
             json.dump(data, outfile, indent=2, sort_keys=True)
 
     def allToJSON(self, toConvert):
@@ -184,31 +185,31 @@ class TextParser:
         """
         Return:
             array of all modified text files
-            - each entry is "title - artist.txt'"
+            - each entry is "title - artist.txt"
         """
 
         modifiedTextFile = "modified.txt"
-        open(modifiedTextFile, 'w').close()
+        open(modifiedTextFile, "w").close()
         os.system("git status -s >> %s" % modifiedTextFile)
-        f = open(modifiedTextFile, 'r')
+        f = open(modifiedTextFile, "r")
         lines = f.readlines()
 
         """
         git status output needs to be parsed
         1. remove new line character
-        2. remove first 3 characters  ' M ' or '?? '
+        2. remove first 3 characters  " M " or "?? "
         3. remove quotes
         """
         cleanedLines = []
-        deleted = ' D '
+        deleted = " D "
 
         for l in lines:
             if not l.startswith(deleted):
-                cleanedLines.append(l.strip('\n')[3:].replace('"', ''))
+                cleanedLines.append(l.strip("\n")[3:].replace("\"", ""))
         print cleanedLines
         allModifiedText = []
         for l in cleanedLines:
-            textFolder = 'text/'
+            textFolder = "text/"
             if l.startswith(textFolder) and l.endswith(TEXT):
                 fileName = l[5:] # stripping out text/ extension
                 allModifiedText.append(fileName)
@@ -217,7 +218,7 @@ class TextParser:
 
     def getAllSongs(self):
         """
-        Updates allSongs.json with data from all songs
+        Updates ALL_SONGS.json with data from all songs
         """
         allSongs = []
         for fileName in sorted(os.listdir(JSON_FOLDER)):
@@ -226,35 +227,37 @@ class TextParser:
 
             [title, artist] = idToData(songID)
             # tags = []
-            with open(os.path.join(JSON_FOLDER, fileName)) as data_file:
-                data = json.load(data_file)
+            with open(os.path.join(JSON_FOLDER, fileName)) as dataFile:
+                data = json.load(dataFile)
                 # Song title, called label for jQuery autocomplete
-                newSong["label"] = data['title']
-                newSong["artist"] = data['artist']
-                newSong["value"] = data['id']
+                newSong["label"] = data["title"]
+                newSong["artist"] = data["artist"]
+                newSong["value"] = data["id"]
 
             # URL friendly i.e. love_story - taylor_swift
             newSong["id"] = songID
 
-            id_title = idToData(songID)[0]
-            id_artist = idToData(songID)[1]
-            newSong["url"] = '/song/{0}/{1}'.format(id_artist, id_title)
+            urlInfo = {
+                "title": idToData(songID)[0], 
+                "artist": idToData(songID)[1]
+            }
+            newSong["url"] = "/song/{artist}/{title}".format(**urlInfo)
             allSongs.append(newSong)
-        with open('allSongs.json', 'w') as outfile:
+        with open(ALL_SONGS_PATH, "w") as outfile:
             json.dump(allSongs, outfile, indent=2, sort_keys=True)
 
 if __name__ == "__main__":
     # Argument parsing is currently un-used
-    # TO DO modify for use on the app's import feature
+    # TO DO modify for use on the app"s import feature
     parser = argparse.ArgumentParser(description="Add files")
     args = parser.parse_args()
 
-    textFolder = os.path.join(os.getcwd(), 'text') # either 'text' or 'temp'
+    textFolder = os.path.join(os.getcwd(), "text") # either "text" or "temp"
 
     urlParser = URLParser(textFolder)
     # urlParser.allToText()
 
     textParser = TextParser(textFolder)
-    modified = textParser.getAllModified()
-    textParser.allToJSON(modified)
-    # textParser.getAllSongs()
+    # modified = textParser.getAllModified()
+    # textParser.allToJSON(modified)
+    textParser.getAllSongs()

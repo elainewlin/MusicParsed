@@ -5,13 +5,13 @@ import "../css/import.css";
 
 $(document).ready(function() {
   $("#importText").click(function() {
-    console.log($("#addText").val());
-    console.log("Importing text");
+    // console.log($("#addText").val());
+    // console.log("Importing text");
   });
 
 
   $("#importURL").click(function() {
-    console.log($("#addURL").val());
-    console.log("Importing URL");
+    // console.log($("#addURL").val());
+    // console.log("Importing URL");
   });
 });
