@@ -102,5 +102,5 @@ export var songView = new function() {
 
     data["instrument"] = currentInstrument;
     return data;
-  }
+  };
 };

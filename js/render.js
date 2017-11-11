@@ -119,10 +119,10 @@ export var renderChords = function() {
           c.every(function(y) {
             return !(y > 0) || +y <= instrumentData.frets;
           }) ?
-          1 :
-          Math.min.apply(null, [].concat.apply([], c.map(function(y) {
-            return y > 0 ? [+y] : [];
-          })));
+            1 :
+            Math.min.apply(null, [].concat.apply([], c.map(function(y) {
+              return y > 0 ? [+y] : [];
+            })));
         var left = offset == 1 ? 0 : 0.5 * ("" + offset).length;
         return [{
           viewLeft: -0.5 - left,
@@ -160,7 +160,7 @@ const renderCapo = function() {
   } else {
     $("#capo").hide();
   }
-}
+};
 
 export var rerender = function() {
   const data = songView.getData();
@@ -184,7 +184,7 @@ export var initRender = function() {
   loadWidgets();
   const getRandomIndex = function(totalSongs) {
     return Math.floor(Math.random() * totalSongs) + 1;
-  }
+  };
 
   $.ajax({
     url: "/static/data/json/ALL_SONGS.json",
@@ -195,7 +195,7 @@ export var initRender = function() {
         // TO DO #35 improve navigation, show the correct URL
         window.history.pushState({ "song": randomSong.url }, "", `${randomSong.url}`);
         loadSong(randomSong.id);
-      })
+      });
     }
   });
 

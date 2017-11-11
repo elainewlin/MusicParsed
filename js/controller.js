@@ -11,13 +11,13 @@ const column = "column";
 const instrument = "instrument";
 
 const getWidget = function(type) {
-  return $("#" + type + " > .btn-group");
-}
+  return $(`#${type}`).find("input");
+};
 
 const selectButton = function(type, value) {
   $(`#${type}`).find("label").removeClass("active");
   $(`#${type}-${value}`).addClass("active").find("input").prop("checked", true);
-}
+};
 
 const loadTransposeButtons = function() {
   const transposeButtons = [];
@@ -33,7 +33,7 @@ const loadTransposeButtons = function() {
       type: transpose,
       name: name,
       value: value
-    })
+    });
   }
   document.getElementById(transpose).innerHTML = buttonTemplate({ buttons: transposeButtons });
 
@@ -44,7 +44,7 @@ const loadTransposeButtons = function() {
     songView.setKey(newKey);
     rerender();
   });
-}
+};
 
 const renderColumnButtons = function() {
   const columnButtons = [];
@@ -54,17 +54,17 @@ const renderColumnButtons = function() {
       type: column,
       name: value,
       value: value,
-    })
+    });
   }
   document.getElementById(column).innerHTML = buttonTemplate({ buttons: columnButtons });
-}
+};
 
 const loadColumnButtons = function() {
 
   const updateColCount = function(colCount) {
     $("#song").css("column-count", colCount);
     $("#song").css("position", colCount > 1 ? "absolute" : "static");
-  }
+  };
   let defaultColCount = 3;
 
   // Change default column count depending on screen width
@@ -85,11 +85,11 @@ const loadColumnButtons = function() {
 
   const columnWidget = getWidget(column);
 
-  columnWidget.find("input").change(function(e) {
+  columnWidget.change(function(e) {
     const colCount = e.target.value;
     updateColCount(colCount);
   });
-}
+};
 
 const loadInstrumentButtons = function() {
   // Render instrument toggle widget
@@ -100,7 +100,7 @@ const loadInstrumentButtons = function() {
       type: instrument,
       name: value,
       value: value,
-    })
+    });
   }
   document.getElementById(instrument).innerHTML = buttonTemplate({ buttons: instrumentButtons });
 
@@ -109,12 +109,12 @@ const loadInstrumentButtons = function() {
 
   const instrumentWidget = getWidget(instrument);
 
-  $("#instrument").find("input").change(function(e) {
+  instrumentWidget.change(function(e) {
     const newInstrument = e.target.value;
     songView.setInstrument(newInstrument);
     renderChords();
   });
-}
+};
 
 export var loadWidgets = function() {
   // Transpose widget
@@ -125,7 +125,7 @@ export var loadWidgets = function() {
 
   // Instrument toggle
   loadInstrumentButtons();
-}
+};
 
 export var setTranspose = function(key) {
   songView.setKey(key);
@@ -143,14 +143,14 @@ $(document).ready(function() {
 
   function getToggler(elementToToggle, textToUpdate) {
     return function() {
-      elementToToggle.toggle()
+      elementToToggle.toggle();
 
       if (elementToToggle.is(":visible")) {
         textToUpdate.text("hide");
       } else {
         textToUpdate.text("show");
       }
-    }
+    };
   }
 
   // Capo
@@ -159,7 +159,7 @@ $(document).ready(function() {
     setTranspose(capo);
     rerender();
     $("#capo").hide();
-  })
+  });
 
   // View widget, column, transpose widgets
   let viewToggle = $("#viewToggle");

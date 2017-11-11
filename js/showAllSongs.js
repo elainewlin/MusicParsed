@@ -19,7 +19,7 @@ var comparator = function(property) {
       return 1;
     }
     return 0; //default return value (no sorting)
-  }
+  };
 };
 
 window.onload = function() {
@@ -33,7 +33,6 @@ window.onload = function() {
       data.map(function(song) {
 
         // Sorting by artist
-        var title = song["title"];
         var artist = song["artist"];
 
         if (allSongs.hasOwnProperty(artist)) {
