@@ -269,5 +269,5 @@ if __name__ == "__main__":
 
     textParser = TextParser(textFolder)
     modified = textParser.getAllModified()
-    # textParser.allToJSON(modified)
-    textParser.getAllSongs()
+    textParser.allToJSON(modified)
+    # textParser.getAllSongs()
