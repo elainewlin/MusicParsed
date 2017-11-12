@@ -12,23 +12,26 @@ JSON_FOLDER = os.path.join(os.getcwd(), JSON)
 ALL_SONGS = "ALL_SONGS.json"
 ALL_SONGS_PATH = os.path.join(JSON_FOLDER, ALL_SONGS)
 
+
 def findBetween(s, first, last):
     """
     Find text in s between 2 strings: first, last.
     Used for parsing string of all text on a webpage.
-        More readable/understandable than xpath selectors.
+      More readable/understandable than xpath selectors.
     """
     try:
         start = s.index(first) + len(first)
-        end = s.index( last, start )
+        end = s.index(last, start)
         return s[start:end]
     except ValueError:
         return ""
+
 
 class URLParser:
     """
     Handles URL --> text file conversion
     """
+
     def __init__(self, textFolder):
         self.textFolder = textFolder
 
@@ -38,7 +41,7 @@ class URLParser:
         url -> BeautifulSoup
         """
         hdr = {"User-Agent": "Mozilla/5.0"}
-        req = urllib2.Request(url, headers = hdr)
+        req = urllib2.Request(url, headers=hdr)
         f = urllib2.urlopen(req)
         myfile = f.read()
         return BeautifulSoup(myfile, "html5lib")
@@ -46,7 +49,7 @@ class URLParser:
     def parseURL(self, url):
         """
         URL with song chords -> (title, artist, data)
-            data = all chord + lyrics
+          data = all chord + lyrics
         1. determine type of URL
         2. applies appropriate HTML parsing
         """
@@ -54,8 +57,8 @@ class URLParser:
         # Parsing Ultimate Guitar website
         if "ultimate-guitar" in url:
             soup = self.soupFromURL(url)
-            data = soup.find("pre", {"class":"js-tab-content"}).getText()
-            title = soup.find("h1").getText()[:-7] # Wonderwall Chords
+            data = soup.find("pre", {"class": "js-tab-content"}).getText()
+            title = soup.find("h1").getText()[:-7]  # Wonderwall Chords
             artist = soup.find("div", {"class": "t_autor"}).find("a").getText()
 
         # Parsing Ukutabs website
@@ -65,7 +68,8 @@ class URLParser:
 
             titleSection = soup.find("span", {"class": "stitlecolor"})
             title = titleSection.getText()
-            artist = titleSection.parent.parent.next_sibling.find("a").getText()
+            artistSection = titleSection.parent.parent.next_sibling
+            artist = artistSection.find("a").getText()
 
         return (title, artist, data)
 
@@ -87,10 +91,12 @@ class URLParser:
         for url in lines:
             self.toText(url)
 
+
 class TextParser:
     """
     Handles text --> JSON conversion
     """
+
     def __init__(self, textFolder):
         self.textFolder = textFolder
 
@@ -114,6 +120,7 @@ class TextParser:
         print title
 
         allChords = []
+
         def updateAllChords(line):
             for chord in line.split():
                 # Chords with a bass note
@@ -163,8 +170,8 @@ class TextParser:
         """
         Bulk convert text files -> JSON
         Param:
-            toConvert = array of text file names
-            - each entry is "title - artist.txt"
+          toConvert = array of text file names
+          - each entry is "title - artist.txt"
         """
         for fileName in toConvert:
             self.toJSON(fileName)
@@ -173,8 +180,8 @@ class TextParser:
     def getAllText(self):
         """
         Return:
-            array of all text file names in textFolder
-            - each entry is "title - artist.txt"
+          array of all text file names in textFolder
+          - each entry is "title - artist.txt"
         """
         allText = []
         for fileName in sorted(os.listdir(textFolder)):
@@ -185,8 +192,8 @@ class TextParser:
     def getAllModified(self):
         """
         Return:
-            array of all modified text files
-            - each entry is "title - artist.txt"
+          array of all modified text files
+          - each entry is "title - artist.txt"
         """
 
         modifiedTextFile = "modified.txt"
@@ -196,11 +203,11 @@ class TextParser:
         lines = f.readlines()
 
         """
-        git status output needs to be parsed
-        1. remove new line character
-        2. remove first 3 characters  " M " or "?? "
-        3. remove quotes
-        """
+  git status output needs to be parsed
+  1. remove new line character
+  2. remove first 3 characters  " M " or "?? "
+  3. remove quotes
+  """
         cleanedLines = []
         deleted = " D "
 
@@ -212,7 +219,7 @@ class TextParser:
         for l in cleanedLines:
             textFolder = "text/"
             if l.startswith(textFolder) and l.endswith(TEXT):
-                fileName = l[5:] # stripping out text/ extension
+                fileName = l[5:]  # stripping out text/ extension
                 allModifiedText.append(fileName)
 
         return allModifiedText
@@ -240,7 +247,7 @@ class TextParser:
             newSong["id"] = songID
 
             urlInfo = {
-                "title": idToData(songID)[0], 
+                "title": idToData(songID)[0],
                 "artist": idToData(songID)[1]
             }
             newSong["url"] = "/song/{artist}/{title}".format(**urlInfo)
@@ -248,18 +255,19 @@ class TextParser:
         with open(ALL_SONGS_PATH, "w") as outfile:
             json.dump(allSongs, outfile, indent=2, sort_keys=True)
 
+
 if __name__ == "__main__":
     # Argument parsing is currently un-used
     # TO DO modify for use on the app"s import feature
     parser = argparse.ArgumentParser(description="Add files")
     args = parser.parse_args()
 
-    textFolder = os.path.join(os.getcwd(), "text") # either "text" or "temp"
+    textFolder = os.path.join(os.getcwd(), "text")  # either "text" or "temp"
 
     urlParser = URLParser(textFolder)
     # urlParser.allToText()
 
     textParser = TextParser(textFolder)
-    # modified = textParser.getAllModified()
+    modified = textParser.getAllModified()
     # textParser.allToJSON(modified)
-    # textParser.getAllSongs()
+    textParser.getAllSongs()

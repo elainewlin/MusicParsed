@@ -6,16 +6,25 @@ data           <-> songID <-> name
 """
 import re
 # name -> songID
+
+
 def nameToID(fileName):
     return fileName.split(".")[0]
 
-# songID -> data
+
 def idToData(songID):
+    """
+    songID -> data
+    """
     return songID.split(" - ")
 
-# data -> songID -> name
+
 def dataToName(title, artist, fileType):
+    """
+    data -> songID -> name
+    """
     return "{0} - {1}.{2}".format(title, artist, fileType)
+
 
 def clean(string):
     string = re.sub("[^A-Za-z0-9 ]+", "", string)

@@ -2,6 +2,7 @@ repos:
 - repo: git://github.com/pre-commit/pre-commit-hooks
   sha: v1.1.1
   hooks:
+    - id: autopep8-wrapper
     - id: flake8
 - hooks:
   - {id: eslint}
