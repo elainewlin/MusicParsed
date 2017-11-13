@@ -203,11 +203,11 @@ class TextParser:
         lines = f.readlines()
 
         """
-  git status output needs to be parsed
-  1. remove new line character
-  2. remove first 3 characters  " M " or "?? "
-  3. remove quotes
-  """
+        git status output needs to be parsed
+        1. remove new line character
+        2. remove first 3 characters  " M " or "?? "
+        3. remove quotes
+        """
         cleanedLines = []
         deleted = " D "
 

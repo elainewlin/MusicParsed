@@ -9,7 +9,7 @@ import re
 
 
 def nameToID(fileName):
-    return fileName.split(".")[0]
+    return fileName.rpartition(".")[0]
 
 
 def idToData(songID):
