@@ -6,9 +6,9 @@ import { songView } from "./model.js";
 import { renderChords, rerender } from "./render.js";
 import buttonTemplate from "../mustache/button.mustache";
 
-const transpose = "transpose";
-const column = "column";
-const instrument = "instrument";
+const TRANSPOSE = "transpose";
+const COLUMN = "column";
+const INSTRUMENT = "instrument";
 
 const getWidget = function(type) {
   return $(`#${type}`).find("input");
@@ -30,18 +30,15 @@ const loadTransposeButtons = function() {
       name = value;
     }
     transposeButtons.push({
-      type: transpose,
+      type: TRANSPOSE,
       name: name,
       value: value
     });
   }
-  document.getElementById(transpose).innerHTML = buttonTemplate({ buttons: transposeButtons });
-
-  selectButton(transpose, 0);
+  document.getElementById(TRANSPOSE).innerHTML = buttonTemplate({ buttons: transposeButtons });
 
   $("#transpose").find("input").change(function(e) {
-    const newKey = e.target.value;
-    songView.setKey(newKey);
+    songView.setTranspose(e.target.value);
     rerender();
   });
 };
@@ -51,12 +48,12 @@ const renderColumnButtons = function() {
 
   for (let value = 1; value <= 4; value++) {
     columnButtons.push({
-      type: column,
+      type: COLUMN,
       name: value,
       value: value,
     });
   }
-  document.getElementById(column).innerHTML = buttonTemplate({ buttons: columnButtons });
+  document.getElementById(COLUMN).innerHTML = buttonTemplate({ buttons: columnButtons });
 };
 
 const loadColumnButtons = function() {
@@ -81,9 +78,9 @@ const loadColumnButtons = function() {
   renderColumnButtons();
 
   updateColCount(defaultColCount);
-  selectButton(column, defaultColCount);
+  selectButton(COLUMN, defaultColCount);
 
-  const columnWidget = getWidget(column);
+  const columnWidget = getWidget(COLUMN);
 
   columnWidget.change(function(e) {
     const colCount = e.target.value;
@@ -97,17 +94,17 @@ const loadInstrumentButtons = function() {
   const instrumentButtons = [];
   for (let value of instrumentOptions) {
     instrumentButtons.push({
-      type: instrument,
+      type: INSTRUMENT,
       name: value,
       value: value,
     });
   }
-  document.getElementById(instrument).innerHTML = buttonTemplate({ buttons: instrumentButtons });
+  document.getElementById(INSTRUMENT).innerHTML = buttonTemplate({ buttons: instrumentButtons });
 
   const currentInstrument = songView.getInstrument();
-  selectButton(instrument, currentInstrument);
+  selectButton(INSTRUMENT, currentInstrument);
 
-  const instrumentWidget = getWidget(instrument);
+  const instrumentWidget = getWidget(INSTRUMENT);
 
   instrumentWidget.change(function(e) {
     const newInstrument = e.target.value;
@@ -127,16 +124,17 @@ export var loadWidgets = function() {
   loadInstrumentButtons();
 };
 
-export var setTranspose = function(key) {
-  songView.setKey(key);
-  selectButton(transpose, key);
+export const renderTranspose = function() {
+  const transpose = songView.getTranspose();
+  selectButton(TRANSPOSE, transpose);
 };
+
 
 $(document).ready(function() {
   let chordPics = $("#chordPics");
   chordPics.click(function() {
     songView.setInstrument("none");
-    selectButton(instrument, "none");
+    selectButton(INSTRUMENT, songView.getInstrument());
     renderChords();
   });
   chordPics.tooltip();
@@ -156,7 +154,7 @@ $(document).ready(function() {
   // Capo
   $("#capo").click(function() {
     const capo = songView.getCapo();
-    setTranspose(capo);
+    songView.setTranspose(capo);
     rerender();
     $("#capo").hide();
   });

@@ -1,7 +1,7 @@
 import $ from "jquery";
 import "jquery-ui/ui/widgets/autocomplete";
 import "jquery-ui/themes/base/all.css";
-import { loadWidgets, setTranspose } from "./controller.js";
+import { loadWidgets, renderTranspose } from "./controller.js";
 import { pitchToFifths, songView } from "./model.js";
 import chordsTemplate from "../mustache/chords.mustache";
 import songTemplate from "../mustache/song.mustache";
@@ -167,22 +167,17 @@ export var rerender = function() {
   $("#title").text(songView.getName());
 
   document.getElementById("song").innerHTML = songTemplate(data);
+  renderTranspose();
   renderChords();
 };
 
-export var loadSongTranspose = function(newSong, transpose) {
-  loadSong(newSong);
-  setTranspose(transpose);
-};
-
-export var loadSong = function(newSong) {
-  $.getJSON("/static/data/json/" + newSong + ".json", function(data) {
+export var loadSong = function(songId) {
+  $.getJSON("/static/data/json/" + songId + ".json", function(data) {
     songView.setName(`${data.title} - ${data.artist}`);
     songView.setSong(data);
     renderCapo();
     rerender();
   });
-  setTranspose(0);
 };
 
 export var initRender = function() {
@@ -199,6 +194,7 @@ export var initRender = function() {
         const randomSong = data[getRandomIndex(data.length)];
         // TO DO #35 improve navigation, show the correct URL
         window.history.pushState({ "song": randomSong.url }, "", `${randomSong.url}`);
+        songView.setTranspose(0);
         loadSong(randomSong.id);
       });
     }
@@ -226,6 +222,7 @@ export var initRender = function() {
     select: function(event, ui) {
       // TO DO #35 improve navigation, show the correct URL
       window.history.pushState({ "song": ui.item.url }, "", `${ui.item.url}`);
+      songView.setTranspose(0);
       loadSong(ui.item.id);
     }
   });

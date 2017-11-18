@@ -1,6 +1,7 @@
 from flask import render_template
 from flask import Flask
 from flask_webpackext import FlaskWebpackExt
+from flask import request
 
 app = Flask(__name__)
 
@@ -52,9 +53,14 @@ def get_guide(guide_type):
     return render_template(guide_template, name=guide_type)
 
 
-@app.route("/song/<artist>/<title>")
+@app.route("/song/<artist>/<title>", methods=["GET"])
 def get_song(artist, title):
-    return render_template("index.html", title=title, artist=artist)
+    transpose = request.args.get("transpose", 0)
+    return render_template("index.html",
+                           title=title,
+                           artist=artist,
+                           transpose=transpose
+                           )
 
 
 FlaskWebpackExt(app)

@@ -69,14 +69,14 @@ export var songView = new function() {
     songName = newName;
   };
 
-  var key = 0; // # of steps transposed, range -6 to 6
+  var transpose = 0; // # of steps transposed, range -6 to 6
 
-  this.getKey = function() {
-    return key;
+  this.getTranspose = function() {
+    return transpose;
   };
 
-  this.setKey = function(newKey) {
-    key = parseInt(newKey);
+  this.setTranspose = function(newTranspose) {
+    transpose = parseInt(newTranspose);
   };
 
   this.getData = function() {
@@ -85,8 +85,8 @@ export var songView = new function() {
       return m ? [pitchToFifths.get(m[1]) - (m[2] ? 3 : 0)] : [];
     }));
     var center = Math.round(allFifths.reduce(function(a, b) { return a + b; }) / allFifths.length);
-    // Transpose the average chord no flatter than Ab or fm and no sharper than C# or a#m.
-    var amount = (key * 7 + center + 12004) % 12 - center - 4;
+    // Transpose the average chord no flatter than Ab or Fm and no sharper than C# or A#m.
+    var amount = (transpose * 7 + center + 12004) % 12 - center - 4;
 
     var data = {};
     data["allChords"] = allChords.slice().sort().map(function(chord) {
