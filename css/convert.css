@@ -21,14 +21,3 @@ textarea {
   width: 100%;
   font-size: 24px;
 }
-
-
-/* TO DO clean up duplication in global.css */
-
-.btn-default.active {
-  background-color: #dbdbed;
-}
-
-.btn-default:hover {
-  background-color: #ededf6;
-}
