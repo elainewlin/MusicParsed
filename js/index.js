@@ -8,11 +8,11 @@ import "../css/styles.css";
 $(document).ready(function() {
   initRender();
   var dataset = document.documentElement.dataset;
-  songView.setTranspose(dataset.transpose);
 
   // stupid check to make sure we don't load blank songs
   if (dataset.title) {
     var newSong = dataset.title + " - " + dataset.artist;
+    songView.setTranspose(dataset.transpose);
     loadSong(newSong);
   } else {
     // Default song
