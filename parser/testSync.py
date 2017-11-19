@@ -18,7 +18,7 @@ for i in xrange(len(allText)):
     [title, artist] = idToData(strip(allText[i]))
     title = clean(title)
     artist = clean(artist)
-    fileName = dataToName(title, artist, 'json')
+    fileName = dataToName(title, artist, "json")
     assert fileName in allJSON, fileName
 
 assert len(allText) == len(allJSON), \
