@@ -3,16 +3,15 @@
 
 import os
 from helpers import clean, dataToName, idToData
-textFolder = os.path.join(os.getcwd(), "text")
-jsonFolder = os.path.join(os.getcwd(), "json")
+from parser import TEXT_FOLDER, JSON_FOLDER
 
-allText = os.listdir(textFolder)
-allJSON = os.listdir(jsonFolder)
+allText = os.listdir(TEXT_FOLDER)
+allJSON = os.listdir(JSON_FOLDER)
 allJSON.remove("ALL_SONGS.json")
 
 
 def strip(file):
-    return file.split(".")[0]
+    return file.split(".txt")[0]
 
 
 for i in xrange(len(allText)):

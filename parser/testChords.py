@@ -1,5 +1,7 @@
 from isChord import isChord, isChordLine
 
+# , isChordLine
+
 NOTES = ["C", "D", "E", "F", "G", "A", "B"]
 
 

@@ -8,7 +8,9 @@ from helpers import nameToID, idToData, dataToName, clean
 
 TEXT = "txt"
 JSON = "json"
-JSON_FOLDER = os.path.join(os.getcwd(), JSON)
+DATA_DIRECTORY = os.path.join(os.path.dirname(os.getcwd()), "static/data")
+TEXT_FOLDER = os.path.join(DATA_DIRECTORY, "text")
+JSON_FOLDER = os.path.join(DATA_DIRECTORY, JSON)
 ALL_SONGS = "ALL_SONGS.json"
 ALL_SONGS_PATH = os.path.join(JSON_FOLDER, ALL_SONGS)
 
@@ -32,7 +34,7 @@ class URLParser:
     Handles URL --> text file conversion
     """
 
-    def __init__(self, textFolder):
+    def __init__(self, textFolder=TEXT_FOLDER):
         self.textFolder = textFolder
 
     def soupFromURL(self, url):
@@ -77,7 +79,7 @@ class URLParser:
         (title, artist, data) = self.parseURL(url)
 
         fileName = dataToName(title, artist, TEXT)
-        textFile = os.path.join(textFolder, fileName)
+        textFile = os.path.join(self.textFolder, fileName)
         print textFile
         with open(textFile, "w") as outfile:
             outfile.write(data.encode("utf-8"))
@@ -97,14 +99,14 @@ class TextParser:
     Handles text --> JSON conversion
     """
 
-    def __init__(self, textFolder):
+    def __init__(self, textFolder=TEXT_FOLDER):
         self.textFolder = textFolder
 
     def toJSON(self, fileName):
         """
         Text file of a song --> JSON file of a song
         """
-        textFile = os.path.join(textFolder, fileName)
+        textFile = os.path.join(self.textFolder, fileName)
         f = open(textFile, "r")
         lines = f.readlines()
         lines = [x.rstrip() for x in lines]
@@ -184,7 +186,7 @@ class TextParser:
           - each entry is "title - artist.txt"
         """
         allText = []
-        for fileName in sorted(os.listdir(textFolder)):
+        for fileName in sorted(os.listdir(self.textFolder)):
             if fileName.endswith(TEXT):
                 allText.append(fileName)
         return allText
@@ -214,14 +216,12 @@ class TextParser:
         for l in lines:
             if not l.startswith(deleted):
                 cleanedLines.append(l.strip("\n")[3:].replace("\"", ""))
-        print cleanedLines
         allModifiedText = []
         for l in cleanedLines:
             textFolder = "text/"
-            if l.startswith(textFolder) and l.endswith(TEXT):
-                fileName = l[5:]  # stripping out text/ extension
+            if textFolder in l and l.endswith(TEXT):
+                fileName = l.split(textFolder)[1]
                 allModifiedText.append(fileName)
-
         return allModifiedText
 
     def getAllSongs(self):
@@ -262,12 +262,10 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Add files")
     args = parser.parse_args()
 
-    textFolder = os.path.join(os.getcwd(), "text")  # either "text" or "temp"
-
-    urlParser = URLParser(textFolder)
+    urlParser = URLParser()
     # urlParser.allToText()
 
-    textParser = TextParser(textFolder)
+    textParser = TextParser()
     modified = textParser.getAllModified()
     textParser.allToJSON(modified)
     # textParser.getAllSongs()
