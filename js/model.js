@@ -18,13 +18,14 @@ function transposeChord(chord, amount) {
 }
 
 export var songView = new function() {
-  var currentInstrument = "ukulele";
+  var currentInstrument = localStorage.getItem("instrument") || "ukulele";
 
   this.getInstrument = function() {
     return currentInstrument;
   };
 
   this.setInstrument = function(newInstrument) {
+    localStorage.setItem("instrument", newInstrument);
     currentInstrument = newInstrument;
   };
 
