@@ -29,6 +29,17 @@ export var songView = new function() {
     currentInstrument = newInstrument;
   };
 
+  var orientation = localStorage.getItem("orientation") || "right";
+
+  this.getOrientation = function() {
+    return orientation;
+  };
+
+  this.setOrientation = function(newOrientation) {
+    localStorage.setItem("orientation", newOrientation);
+    orientation = newOrientation;
+  };
+
   var lines = [];
   var allChords = [];
 

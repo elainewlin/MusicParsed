@@ -83,6 +83,11 @@ const instrumentsData = {
   }
 };
 
+// Support for left-handed chord diagrams
+const reverseString = function(str) {
+  return str.split("").reverse().join("");
+};
+
 export var renderChords = function() {
   const data = songView.getData();
   var currentInstrument = songView.getInstrument();
@@ -95,6 +100,7 @@ export var renderChords = function() {
   chordPics.show();
 
   var instrumentData = instrumentsData[currentInstrument];
+
   var chordData = {
     strings: instrumentData.strings,
     stringsMinus1: instrumentData.strings - 1,
@@ -113,6 +119,9 @@ export var renderChords = function() {
       var c = instrumentData.chords[(pitchToFifths.get(m[1]) * 7 + 12000) % 12][m[2]];
       if (c) {
         if (typeof c === "string") {
+          if (songView.getOrientation() === "left") {
+            c = reverseString(c);
+          }
           c = c.split(",");
         }
         var offset =

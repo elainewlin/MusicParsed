@@ -9,6 +9,7 @@ import buttonTemplate from "../mustache/button.mustache";
 const TRANSPOSE = "transpose";
 const COLUMN = "column";
 const INSTRUMENT = "instrument";
+const ORIENTATION = "orientation";
 
 const getWidget = function(type) {
   return $(`#${type}`).find("input");
@@ -113,6 +114,28 @@ const loadInstrumentButtons = function() {
   });
 };
 
+const loadOrientationButtons = function() {
+  const orientationOptions = ["left", "right"];
+  const orientationButtons = [];
+  for (let value of orientationOptions) {
+    orientationButtons.push({
+      type: ORIENTATION,
+      name: value,
+      value: value,
+    });
+  }
+  document.getElementById(ORIENTATION).innerHTML = buttonTemplate({ buttons: orientationButtons });
+
+  selectButton(ORIENTATION, songView.getOrientation());
+
+  const orientationWidget = getWidget(ORIENTATION);
+
+  orientationWidget.change(function(e) {
+    songView.setOrientation(e.target.value);
+    renderChords();
+  });
+};
+
 export var loadWidgets = function() {
   // Transpose widget
   loadTransposeButtons();
@@ -122,6 +145,9 @@ export var loadWidgets = function() {
 
   // Instrument toggle
   loadInstrumentButtons();
+
+  // Orientation toggle
+  loadOrientationButtons();
 };
 
 export const renderTranspose = function() {
