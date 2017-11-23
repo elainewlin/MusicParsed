@@ -1,11 +1,18 @@
- D ../static/data/helpers.py
- D ../static/data/isChord.py
+ M ../.gitignore
+ M modified.txt
+ M parser.py
  M ../static/data/json/ALL_SONGS.json
- D ../static/data/parser.py
- D ../static/data/testChords.py
- D ../static/data/testHelpers.py
- D ../static/data/testSync.py
- D ../static/data/urls.txt
-?? ./
-?? ../static/data/json/moon_river - audrey_hepburn.json
-?? ../static/data/text/Moon River - Audrey Hepburn.txt
+ M "../static/data/json/high_on_humans - oh_wonder.json"
+ M "../static/data/json/just_a_cheap_thrill - nelly.json"
+ M "../static/data/json/landfill_let_me_go - vienna_teng.json"
+ M "../static/data/json/landslide - oh_wonder.json"
+ M "../static/data/text/High on Humans - Oh Wonder.txt"
+ M "../static/data/text/Just a Cheap Thrill - Nelly.txt"
+ M "../static/data/text/Landfill Let Me Go - Vienna Teng.txt"
+ M "../static/data/text/Landslide - Oh Wonder.txt"
+?? ../static/data/json/long_distance_call - phoenix.json
+?? ../static/data/json/never_look_away - vienna_teng.json
+?? ../static/data/json/tong_hua - guang_liang.json
+?? ../static/data/text/Long Distance Call - Phoenix.txt
+?? ../static/data/text/Never Look Away - Vienna Teng.txt
+?? ../static/data/text/Tong Hua - Guang Liang.txt

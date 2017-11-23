@@ -239,7 +239,7 @@ class TextParser:
             with open(os.path.join(JSON_FOLDER, fileName)) as dataFile:
                 data = json.load(dataFile)
                 # Song title, called label for jQuery autocomplete
-                newSong["label"] = data["title"]
+                newSong["label"] = data["id"]
                 newSong["artist"] = data["artist"]
                 newSong["value"] = data["id"]
 
