@@ -241,6 +241,7 @@ class TextParser:
                 # Song title, called label for jQuery autocomplete
                 newSong["label"] = data["id"]
                 newSong["artist"] = data["artist"]
+                newSong["title"] = data["title"]
                 newSong["value"] = data["id"]
 
             # URL friendly i.e. love_story - taylor_swift
@@ -268,4 +269,4 @@ if __name__ == "__main__":
     textParser = TextParser()
     modified = textParser.getAllModified()
     textParser.allToJSON(modified)
-    # textParser.getAllSongs()
+    textParser.getAllSongs()
