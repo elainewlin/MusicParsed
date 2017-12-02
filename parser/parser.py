@@ -12,7 +12,7 @@ DATA_DIRECTORY = os.path.join(os.path.dirname(os.getcwd()), "static/data")
 TEXT_FOLDER = os.path.join(DATA_DIRECTORY, "text")
 JSON_FOLDER = os.path.join(DATA_DIRECTORY, JSON)
 ALL_SONGS = "ALL_SONGS.json"
-ALL_SONGS_PATH = os.path.join(JSON_FOLDER, ALL_SONGS)
+ALL_SONGS_PATH = os.path.join(DATA_DIRECTORY, ALL_SONGS)
 
 
 def findBetween(s, first, last):
@@ -230,8 +230,6 @@ class TextParser:
         """
         allSongs = []
         for fileName in sorted(os.listdir(JSON_FOLDER)):
-            if fileName == ALL_SONGS:
-                continue
             newSong = {}
             songID = nameToID(fileName)
             [title, artist] = idToData(songID)

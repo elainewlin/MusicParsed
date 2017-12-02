@@ -196,7 +196,7 @@ export var initRender = function() {
   };
 
   $.ajax({
-    url: "/static/data/json/ALL_SONGS.json",
+    url: "/static/data/ALL_SONGS.json",
     dataType: "json",
     success: function(data) {
       $(".random").click(function() {
@@ -213,7 +213,7 @@ export var initRender = function() {
     autoFocus: true,
     source: function(request, response) {
       $.ajax({
-        url: "/static/data/json/ALL_SONGS.json",
+        url: "/static/data/ALL_SONGS.json",
         dataType: "json",
         data: {
           term: request.term

@@ -7,7 +7,6 @@ from parser import TEXT_FOLDER, JSON_FOLDER
 
 allText = os.listdir(TEXT_FOLDER)
 allJSON = os.listdir(JSON_FOLDER)
-allJSON.remove("ALL_SONGS.json")
 
 
 def strip(file):

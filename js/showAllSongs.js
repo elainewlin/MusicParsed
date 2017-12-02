@@ -25,7 +25,7 @@ window.onload = function() {
 
   // TO DO #36 clean up data storage for allSongs
   $.ajax({
-    url: "/static/data/json/ALL_SONGS.json",
+    url: "/static/data/ALL_SONGS.json",
     dataType: "json",
     success: function(data) {
       data.map(function(song) {
