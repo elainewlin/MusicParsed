@@ -2,84 +2,169 @@
   "allChords": [
     "G", 
     "Cadd9", 
-    "Dsus4", 
-    "Em", 
     "D", 
-    "C"
+    "C", 
+    "Em"
   ], 
   "artist": "Green Day", 
   "id": "Good Riddance Time Of Your Life - Green Day", 
   "lines": [
     {
-      "label": "[Verse]"
+      "label": "[Intro]"
     }, 
     {
-      "chord": "G                       Cadd9             Dsus4", 
-      "lyrics": "Another turning point, a fork stuck in the road"
+      "chord": "G G Cadd9 D", 
+      "lyrics": ""
     }, 
     {
-      "chord": "G                            Cadd9              Dsus4", 
-      "lyrics": "Time grabs you by the wrist, directs you where to go"
+      "chord": "G G Cadd9 D", 
+      "lyrics": ""
     }, 
     {
-      "chord": "Em           D           C                   G", 
-      "lyrics": "So make the best of this test, and don't ask why"
+      "label": "[Verse 1]"
     }, 
     {
-      "chord": "Em         D               C                 G", 
-      "lyrics": "It's not a question, but a lesson learned in time"
+      "chord": "G                       C                 D", 
+      "lyrics": "Another turning point a fork stuck in the road,"
+    }, 
+    {
+      "chord": "G                                C                   D", 
+      "lyrics": "Time grabs you by the wrist, and directs you where to go"
+    }, 
+    {
+      "chord": "Em          D            C                 G", 
+      "lyrics": "So make the best of this test and don't ask why"
+    }, 
+    {
+      "chord": "Em         D              C                 G", 
+      "lyrics": "It's not a question but a lesson learned in time"
     }, 
     {
       "label": "[Chorus]"
     }, 
     {
-      "chord": "Em                  G         Em                  G", 
-      "lyrics": "It's something unpredictable, but in the end it's right."
+      "chord": "Em                    G           Em           G", 
+      "lyrics": "Its something unpredictable but in the end it's right"
     }, 
     {
       "chord": "Em                 D            G", 
       "lyrics": "I hope you had the time of your life."
     }, 
     {
-      "label": "[Verse]"
+      "label": "[Interlude]"
     }, 
     {
-      "chord": "G                         Cadd9                  Dsus4", 
-      "lyrics": "So take the photographs, and still frames in your mind"
+      "chord": "G G C D", 
+      "lyrics": ""
     }, 
     {
-      "chord": "G                  Cadd9                 Dsus4", 
-      "lyrics": "Hang it on a shelf in good health and good time"
+      "chord": "G G C D", 
+      "lyrics": ""
     }, 
     {
-      "chord": "Em          D           C            G", 
+      "label": "[Verse 2]"
+    }, 
+    {
+      "chord": "G                             C                    D", 
+      "lyrics": "So take the photographs and still frames in your mind"
+    }, 
+    {
+      "chord": "G                         C                    D", 
+      "lyrics": "Hang it on a shelf and in good health and good time"
+    }, 
+    {
+      "chord": "Em          D             C            G", 
       "lyrics": "Tattoos of memories and dead skin on trial"
     }, 
     {
-      "chord": "Em            D           C            G", 
+      "chord": "Em            D            C             G", 
       "lyrics": "For what it's worth it was worth all the while"
     }, 
     {
       "label": "[Chorus]"
     }, 
     {
-      "chord": "Em                  G         Em                  G", 
-      "lyrics": "It's something unpredictable, but in the end it's right."
+      "chord": "Em                    G           Em           G", 
+      "lyrics": "Its something unpredictable but in the end it's right"
     }, 
     {
       "chord": "Em                 D            G", 
       "lyrics": "I hope you had the time of your life."
+    }, 
+    {
+      "label": "[Instrumental]"
+    }, 
+    {
+      "chord": "G G C D", 
+      "lyrics": ""
+    }, 
+    {
+      "chord": "G G C D", 
+      "lyrics": ""
+    }, 
+    {
+      "chord": "G G C D", 
+      "lyrics": ""
+    }, 
+    {
+      "chord": "G G C D", 
+      "lyrics": ""
+    }, 
+    {
+      "chord": "Em  D  C  G", 
+      "lyrics": ""
+    }, 
+    {
+      "chord": "Em  D  C  G", 
+      "lyrics": ""
     }, 
     {
       "label": "[Chorus]"
     }, 
     {
-      "chord": "Em                   G        Em                  G", 
-      "lyrics": "It's something unpredictable, but in the end it's right."
+      "chord": "Em                    G           Em           G", 
+      "lyrics": "Its something unpredictable but in the end it's right"
     }, 
     {
       "chord": "Em                 D            G", 
       "lyrics": "I hope you had the time of your life."
+    }, 
+    {
+      "label": "[Interlude]"
+    }, 
+    {
+      "chord": "G G C D", 
+      "lyrics": ""
+    }, 
+    {
+      "chord": "G G C D", 
+      "lyrics": ""
+    }, 
+    {
+      "label": "[Chorus]"
+    }, 
+    {
+      "chord": "Em                    G           Em           G", 
+      "lyrics": "Its something unpredictable but in the end it's right"
+    }, 
+    {
+      "chord": "Em                 D            G", 
+      "lyrics": "I hope you had the time of your life."
+    }, 
+    {
+      "label": "[Ending]"
+    }, 
+    {
+      "chord": "G G Cadd9 D", 
+      "lyrics": ""
+    }, 
+    {
+      "chord": "G G Cadd9 D", 
+      "lyrics": ""
+    }, 
+    {
+      "chord": "G", 
+      "lyrics": ""
     }
   ], 
   "title": "Good Riddance Time Of Your Life"

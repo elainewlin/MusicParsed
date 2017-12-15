@@ -1,24 +1,15 @@
 {
   "allChords": [
-    "A2", 
-    "B2", 
-    "C#m", 
     "E", 
-    "E5", 
+    "A2", 
+    "C#m", 
+    "B2", 
     "B", 
-    "A", 
-    "C#"
+    "A"
   ], 
   "artist": "Relient K", 
   "id": "Who I Am Hates Who I've Been - Relient K", 
   "lines": [
-    {
-      "label": "[Intro]"
-    }, 
-    {
-      "chord": "A2  B2  C#m  E  A2  B2  C#m  E  A2  B2", 
-      "lyrics": ""
-    }, 
     {
       "label": "[Verse 1]"
     }, 
@@ -58,7 +49,7 @@
       "label": "[Pre-Chorus]"
     }, 
     {
-      "chord": "E              E5            B2             B/D#", 
+      "chord": " E           E             B2             B/D#", 
       "lyrics": "  Stop right there. That's exactly where I lost it."
     }, 
     {
@@ -66,11 +57,11 @@
       "lyrics": "  See that line. Well I never should have crossed it."
     }, 
     {
-      "chord": "E              E5           B2               B/D#", 
+      "chord": " E           E            B2               B/D#", 
       "lyrics": "  Stop right there. Well I never should have said"
     }, 
     {
-      "chord": "                 A/Ab        A2", 
+      "chord": "                 A/G#        A2", 
       "lyrics": "  that it's the very moment that"
     }, 
     {
@@ -81,31 +72,23 @@
       "label": "[Chorus]"
     }, 
     {
-      "chord": "E                     C#        B", 
+      "chord": "E                                     B2  C#m", 
       "lyrics": "  I'm sorry for the person I became."
     }, 
     {
-      "chord": "E                   C#               B", 
+      "chord": "                                                   B2  E", 
       "lyrics": "  I'm sorry that it took so long for me to change."
     }, 
     {
-      "chord": "E                            C#               B", 
-      "lyrics": "  I'm ready to - to try and never become that way again"
+      "chord": "                                                   B2 C#m", 
+      "lyrics": "  I'm ready to try and never become that way again"
     }, 
     {
-      "chord": "", 
-      "lyrics": "C#          B - C#         E          A2"
-    }, 
-    {
-      "chord": "", 
+      "chord": "                                      A2", 
       "lyrics": "  'cause who I am hates who I've been."
     }, 
     {
-      "chord": "", 
-      "lyrics": "        B2                (Intro)"
-    }, 
-    {
-      "chord": "", 
+      "chord": "        B2", 
       "lyrics": "  Who I am hates who I've been."
     }, 
     {
@@ -133,7 +116,7 @@
     }, 
     {
       "chord": "A2", 
-      "lyrics": "  sinking up to the beating of my heart,"
+      "lyrics": "  syncing up to the beating of my heart,"
     }, 
     {
       "chord": "C#m                                B2", 
@@ -142,6 +125,9 @@
     {
       "chord": "", 
       "lyrics": "  I would watch me fall apart."
+    }, 
+    {
+      "label": "[Bridge]"
     }, 
     {
       "chord": "      A2               B2       C#m", 
@@ -156,57 +142,17 @@
       "lyrics": "  in the saddest state it's ever been."
     }, 
     {
-      "chord": "A                    B2", 
+      "chord": " A                    B2", 
       "lyrics": "  This is no place to try and live my life."
     }, 
     {
-      "label": "[Pre-Chorus]"
-    }, 
-    {
-      "chord": "E              E5            B2             B/D#", 
-      "lyrics": "  Stop right there. That's exactly where I lost it."
-    }, 
-    {
-      "chord": "A2          C#m          B2", 
-      "lyrics": "  See that line. Well I never should have crossed it."
-    }, 
-    {
-      "chord": "E              E5           B2               B/D#", 
-      "lyrics": "  Stop right there. Well I never should have said"
-    }, 
-    {
-      "chord": "                 A/Ab        A2", 
-      "lyrics": "  that it's the very moment that"
-    }, 
-    {
-      "chord": "     B2", 
-      "lyrics": "  I wish that I could take back."
-    }, 
-    {
-      "chord": "E              E5            B2             B/D#", 
-      "lyrics": "  Stop right there. That's exactly where I lost it."
-    }, 
-    {
-      "chord": "A2          C#m          B2", 
-      "lyrics": "  See that line. Well I never should have crossed it."
-    }, 
-    {
-      "chord": "E              E5           B2               B/D#", 
-      "lyrics": "  Stop right there. Well I never should have said"
-    }, 
-    {
-      "chord": "                 A/Ab        A2", 
-      "lyrics": "  that it's the very moment that"
-    }, 
-    {
-      "chord": "     B2", 
-      "lyrics": "  I wish that I could take back."
+      "label": "[Pre-Chorus x2]"
     }, 
     {
       "label": "[Chorus]"
     }, 
     {
-      "chord": "E/G#      A2                B2", 
+      "chord": "C#m     A2                E", 
       "lyrics": "  Who I am hates who I've been"
     }, 
     {
@@ -220,6 +166,9 @@
     {
       "chord": "                        B2", 
       "lyrics": "  'cause who I've been only ever made me..."
+    }, 
+    {
+      "label": "[Outro]"
     }, 
     {
       "chord": "E                                   B2  C#m", 
@@ -238,7 +187,7 @@
       "lyrics": "  'cause who I am hates who I've been."
     }, 
     {
-      "chord": "           B2", 
+      "chord": "          B2", 
       "lyrics": "  Who I am hates who I've been."
     }
   ], 

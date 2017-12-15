@@ -1,133 +1,186 @@
 {
   "allChords": [
+    "Am", 
+    "G", 
     "Dm", 
-    "C", 
-    "Gm", 
-    "Bb", 
-    "A"
+    "F", 
+    "E", 
+    "A", 
+    "A#", 
+    "C"
   ], 
   "artist": "Sonata Arctica", 
   "id": "Shy - Sonata Arctica", 
   "lines": [
     {
-      "chord": "Dm            C                  Gm              Dm", 
+      "label": "[Verse]"
+    }, 
+    {
+      "chord": "Am            G                Dm                Am", 
       "lyrics": "I can see how you are beautiful, can you feel my eyes on you,"
     }, 
     {
-      "chord": "Dm              C                Gm                 Dm", 
+      "chord": "F           G             Am", 
+      "lyrics": "I'm shy and turn my head away"
+    }, 
+    {
+      "chord": "Am              G              Dm                    Am", 
       "lyrics": "Working late in diner Citylight, I see that you get home alright"
     }, 
     {
-      "chord": "Bb             C                 Bb              C", 
+      "chord": "F              G                 F               G", 
       "lyrics": "Make sure that you can't see me, hoping you will see me"
     }, 
     {
-      "chord": "A             Dm                Bb", 
+      "label": "[Pre-Chorus]"
+    }, 
+    {
+      "chord": "E              Am                F                Dm", 
       "lyrics": "Sometimes I'm wondering why you look me and you blink your eye"
     }, 
     {
-      "chord": "C            Dm             Bb", 
-      "lyrics": "You can't be acting like my Dana (can you)"
+      "chord": "G            Am             F", 
+      "lyrics": "You can't be acting like my Dana (can you?)"
     }, 
     {
-      "chord": "C            Dm              Bb                Gm", 
+      "chord": "G            Am              F                 Dm", 
       "lyrics": "I see you in Citylight diner serving all those meals and then"
     }, 
     {
-      "chord": "C                 Dm            Bb    C", 
-      "lyrics": "I see reflections of me in your eyes, oh please"
+      "chord": "  G               Am         F       G", 
+      "lyrics": "I see reflections of me in your eye, oh please"
     }, 
     {
-      "chord": "Bb        C     A          Dm", 
-      "lyrics": "You touch me in many, many ways"
+      "label": "[Chorus]"
     }, 
     {
-      "chord": "Bb          C         Dm", 
-      "lyrics": "But I'm shy can't you see"
+      "chord": "F    G  Am  F    G    Am", 
+      "lyrics": "Talk to me, show some pity"
     }, 
     {
-      "chord": "Dm                    C                    Gm              Dm", 
+      "chord": "F         G     E          Am       F        G         Am", 
+      "lyrics": "You touch me in many, many ways but I'm shy can't you see"
+    }, 
+    {
+      "label": "[Verse]"
+    }, 
+    {
+      "chord": "Am                G                       Dm               Am", 
       "lyrics": "Obsessed by you, your looks, well, anyway \"I would any day die for you\","
     }, 
     {
-      "chord": "Dm             C                Gm                 Dm", 
+      "chord": "F          G            Am", 
+      "lyrics": "I write on paper erased away"
+    }, 
+    {
+      "chord": "Am              G                Dm                   Am", 
       "lyrics": "Still I sit in diner Citylight, drinking coffee or reading lies"
     }, 
     {
-      "chord": "Bb               C              Bb                C", 
+      "chord": "F                G               F                G", 
       "lyrics": "Turn my head and I can see you, could that really be you"
     }, 
     {
-      "chord": "A             Dm                Bb", 
+      "label": "[Pre-Chorus]"
+    }, 
+    {
+      "chord": "E              Am                F                Dm", 
       "lyrics": "Sometimes I'm wondering why you look me and you blink your eye"
     }, 
     {
-      "chord": "C            Dm             Bb", 
-      "lyrics": "You can't be acting like my Dana (can you)"
+      "chord": "G            Am             F", 
+      "lyrics": "You can't be acting like my Dana?"
     }, 
     {
-      "chord": "C          Dm                  Bb              Gm", 
+      "chord": "G           Am                 F                Dm", 
       "lyrics": "I see your beautiful smile and I would like to run away from"
     }, 
     {
-      "chord": "C           Dm            Bb    C", 
+      "chord": "  G            Am          F       G", 
       "lyrics": "Reflections of me in your eyes, oh please"
     }, 
     {
-      "chord": "Bb        C     A          Dm", 
-      "lyrics": "You touch me in many, many ways"
+      "label": "[Chorus]"
     }, 
     {
-      "chord": "Bb          C         Dm", 
-      "lyrics": "But I'm shy can't you see"
+      "chord": "F    G  Am  F    G    Am", 
+      "lyrics": "Talk to me, show some pity"
     }, 
     {
-      "chord": "Gm  A    Bb                              C", 
-      "lyrics": "I see, can't have you, can't leave you there 'cos I must sometimes see you"
+      "chord": "F         G     E          Am       F        G         Am", 
+      "lyrics": "You touch me in many, many ways but I'm shy can't you see"
     }, 
     {
-      "chord": "Bb                     C           Gm", 
+      "label": "[Bridge]"
+    }, 
+    {
+      "chord": "G A  Dm               A#                 C", 
+      "lyrics": "I see, can't have you, can't leave you, there 'cause I must sometimes see you"
+    }, 
+    {
+      "chord": "Dm          A#          G           C            Dm", 
       "lyrics": "And I don't understand how you can keep me in chains"
     }, 
     {
-      "chord": "Bb                     C                       Bb", 
-      "lyrics": "And every waking hour, I feel you taking power from me and I can't leave"
+      "chord": "Dm        A#           C", 
+      "lyrics": "And every waking hour, I feel you taking power"
     }, 
     {
-      "chord": "C             Gm      A", 
-      "lyrics": "Repeating the scenery over again"
+      "chord": "Dm          A#                 G            C     A    F", 
+      "lyrics": "From me and I can't leave, repeating the scenery over again"
     }, 
     {
-      "chord": "A             Dm                Bb", 
+      "label": "[Instrumental]"
+    }, 
+    {
+      "chord": "F G Am F G Am", 
+      "lyrics": ""
+    }, 
+    {
+      "chord": "F G E Am F G Am", 
+      "lyrics": ""
+    }, 
+    {
+      "label": "[Pre-Chorus]"
+    }, 
+    {
+      "chord": "E              Am                F                Dm", 
       "lyrics": "Sometimes I'm wondering why you look me and you blink your eye"
     }, 
     {
-      "chord": "C            Dm             Bb", 
-      "lyrics": "You can't be acting like my Dana (can you)"
+      "chord": "G            Am             F", 
+      "lyrics": "You can't be acting like my Dana?"
     }, 
     {
-      "chord": "C          Dm                  Bb              Gm", 
+      "chord": "G           Am                 F                Dm", 
       "lyrics": "I see your beautiful smile and I would like to run away from"
     }, 
     {
-      "chord": "C           Dm            Bb    C", 
+      "chord": "  G            Am          F       G", 
       "lyrics": "Reflections of me in your eyes, oh please"
     }, 
     {
-      "chord": "Bb        C     A          Dm", 
+      "label": "[Chorus]"
+    }, 
+    {
+      "chord": "F    G  Am  F    G    Am", 
+      "lyrics": "Talk to me, show some pity"
+    }, 
+    {
+      "chord": "F         G     E          Am       F        G         Am", 
+      "lyrics": "You touch me in many, many ways but I'm shy can't you see, Oh baby"
+    }, 
+    {
+      "chord": "F    G  Am  F    G    Am", 
+      "lyrics": "Talk to me, show some pity"
+    }, 
+    {
+      "chord": "F         G     E          Am", 
       "lyrics": "You touch me in many, many ways"
     }, 
     {
-      "chord": "Bb          C         Dm", 
-      "lyrics": "But I'm shy can't you see"
-    }, 
-    {
-      "chord": "         Bb   C  Dm  Bb   C    Dm", 
-      "lyrics": "Oh baby, Talk to me, show some pity"
-    }, 
-    {
-      "chord": "Bb        C     A          Dm", 
-      "lyrics": "You touch me in many, many ways"
+      "chord": "    F        G         F        G         F        G         Am", 
+      "lyrics": "But I'm shy can't you, I'm shy can't you, I'm shy can't you see"
     }
   ], 
   "title": "Shy"
