@@ -40,6 +40,7 @@ const loadTransposeButtons = function() {
 
   $("#transpose").find("input").change(function(e) {
     songView.setTranspose(e.target.value);
+    window.history.pushState({}, "", `?transpose=${e.target.value}`);
     rerender();
   });
 };
