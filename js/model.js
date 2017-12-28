@@ -18,7 +18,7 @@ function transposeChord(chord, amount) {
 }
 
 export var songView = new function() {
-  var currentInstrument = localStorage.getItem("instrument") || "ukulele";
+  var currentInstrument = localStorage.getItem("instrument") || "none";
 
   this.getInstrument = function() {
     return currentInstrument;

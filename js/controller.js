@@ -165,18 +165,6 @@ $(document).ready(function() {
   });
   chordPics.tooltip();
 
-  function getToggler(elementToToggle, textToUpdate) {
-    return function() {
-      elementToToggle.toggle();
-
-      if (elementToToggle.is(":visible")) {
-        textToUpdate.text("hide");
-      } else {
-        textToUpdate.text("show");
-      }
-    };
-  }
-
   // Capo
   $("#capo").click(function() {
     const capo = songView.getCapo();
@@ -187,10 +175,16 @@ $(document).ready(function() {
 
   // View widget, column, transpose widgets
   let viewToggle = $("#viewToggle");
-  const toggleWidgets = getToggler($("#widgets"), viewToggle);
 
   viewToggle.click(function() {
-    toggleWidgets();
+    const widgets = $("#widgets");
+    widgets.toggle();
+
+    if (widgets.is(":visible")) {
+      viewToggle.text("hide");
+    } else {
+      viewToggle.text("show");
+    }
   });
   viewToggle.tooltip();
 
