@@ -45,6 +45,7 @@ guide_types = [
     "beginner_ukulele_songs",
     "playing_and_singing",
     "singing_for_beginners",
+    "percussive_strumming"
 ]
 
 
