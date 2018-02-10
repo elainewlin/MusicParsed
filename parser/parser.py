@@ -133,6 +133,8 @@ class TextParser:
 
         linesIter = iter(lines)
 
+        # Putting meta data in the file is pretty sketchy
+        # Move to a db eventually #36
         firstLine = lines[0]
         capo = "CAPO "
         if firstLine.startswith(capo):

@@ -1,14 +1,12 @@
 {
   "allChords": [
-    "Bb", 
-    "C", 
     "Dm", 
-    "F", 
-    "Bb_1", 
     "Bbmaj7", 
-    "Fadd9", 
     "Csus4", 
-    "Fsus4"
+    "Fmaj7sus2", 
+    "Fadd9", 
+    "Fadd9_1", 
+    "C7sus4_1"
   ], 
   "artist": "Logic arr. Nix", 
   "id": "1-800-273-8255 - Logic arr. Nix", 
@@ -17,18 +15,18 @@
       "label": "[Intro x2]"
     }, 
     {
-      "chord": "Bb C Dm F", 
-      "lyrics": ""
-    }, 
-    {
-      "chord": "Bb_1", 
-      "lyrics": ""
+      "chord": "", 
+      "lyrics": "Pick Bb C Dm F"
     }, 
     {
       "label": "[Pre-Chorus x2]"
     }, 
     {
-      "chord": "Bb C Dm F", 
+      "chord": "", 
+      "lyrics": "Pick Bb C Dm F"
+    }, 
+    {
+      "chord": "", 
       "lyrics": "I been on the low"
     }, 
     {
@@ -36,7 +34,11 @@
       "lyrics": "I been taking my time"
     }, 
     {
-      "chord": "Bb C Dm F", 
+      "chord": "", 
+      "lyrics": "Pick Bb C Dm F"
+    }, 
+    {
+      "chord": "", 
       "lyrics": "I feel like I'm out of my mind"
     }, 
     {
@@ -51,31 +53,31 @@
       "lyrics": "DUx DUx DUDU"
     }, 
     {
-      "chord": "Dm Bbmaj7 Fadd9 Csus4", 
+      "chord": "              Dm", 
       "lyrics": "I don't wanna be alive"
     }, 
     {
-      "chord": "", 
+      "chord": "Bbmaj7             Csus4", 
       "lyrics": "I don't wanna be alive"
     }, 
     {
-      "chord": "", 
+      "chord": "                       Fmaj7sus2", 
       "lyrics": "I just wanna die today"
     }, 
     {
-      "chord": "", 
+      "chord": "                 Dm", 
       "lyrics": "I just wanna die"
     }, 
     {
-      "chord": "Dm Bbmaj7 Fadd9 Csus4", 
+      "chord": "                       Bbmaj7", 
       "lyrics": "I don't wanna be alive"
     }, 
     {
-      "chord": "", 
+      "chord": "                   Csus4", 
       "lyrics": "I don't wanna be alive"
     }, 
     {
-      "chord": "", 
+      "chord": "                 Fmaj7sus2", 
       "lyrics": "I just wanna die"
     }, 
     {
@@ -133,19 +135,19 @@
       "lyrics": "DUD DUD DUDU"
     }, 
     {
-      "chord": "Dm Bbmaj7 Fadd9 Csus4", 
+      "chord": "Dm", 
       "lyrics": "I been on the low"
     }, 
     {
-      "chord": "", 
+      "chord": "                 Bbmaj7", 
       "lyrics": "I been taking my time"
     }, 
     {
-      "chord": "", 
+      "chord": "                          Fadd9", 
       "lyrics": "I feel like I'm out of my mind"
     }, 
     {
-      "chord": "", 
+      "chord": "                           Csus4", 
       "lyrics": "It feel like my life ain't mine"
     }, 
     {
@@ -156,31 +158,31 @@
       "lyrics": "DUx DUx DUDU"
     }, 
     {
-      "chord": "Dm Bbmaj7 Fadd9 Csus4", 
+      "chord": "              Dm", 
       "lyrics": "I want you to be alive"
     }, 
     {
-      "chord": "", 
+      "chord": "Bbmaj7             Csus4", 
       "lyrics": "I want you to be alive"
     }, 
     {
-      "chord": "", 
+      "chord": "                          Fmaj7sus2", 
       "lyrics": "You don't gotta die today"
     }, 
     {
-      "chord": "", 
+      "chord": "                    Dm", 
       "lyrics": "You don't gotta die"
     }, 
     {
-      "chord": "Dm Bbmaj7 Fadd9 Csus4", 
+      "chord": "                       Bbmaj7", 
       "lyrics": "I want you to be alive"
     }, 
     {
-      "chord": "", 
+      "chord": "                   Csus4", 
       "lyrics": "I want you to be alive"
     }, 
     {
-      "chord": "", 
+      "chord": "                    Fmaj7sus2", 
       "lyrics": "You don't gotta die"
     }, 
     {
@@ -195,15 +197,15 @@
       "lyrics": "DUD DUD DUDU"
     }, 
     {
-      "chord": "F", 
+      "chord": "Fadd9_1", 
       "lyrics": "It's the very first breath"
     }, 
     {
-      "chord": "", 
+      "chord": "                      C7sus4_1", 
       "lyrics": "When your head's been drowning underwater"
     }, 
     {
-      "chord": "", 
+      "chord": "    Fadd9_1", 
       "lyrics": "And it's the lightness in the air"
     }, 
     {
@@ -211,23 +213,23 @@
       "lyrics": "When you're there"
     }, 
     {
-      "chord": "", 
-      "lyrics": "Chest to chest with the lover"
+      "chord": "C7sus4_1", 
+      "lyrics": "Chest to chest with a lover"
     }, 
     {
-      "chord": "Fsus4", 
+      "chord": "     C7sus4_1", 
       "lyrics": "It's holding on, though the road's long"
     }, 
     {
-      "chord": "", 
+      "chord": "           Fadd9_1", 
       "lyrics": "And seeing light in the darkest things"
     }, 
     {
-      "chord": "F", 
+      "chord": "             C7sus4_1", 
       "lyrics": "And when you stare at your reflection"
     }, 
     {
-      "chord": "", 
+      "chord": "                Fadd9_1", 
       "lyrics": "Finally knowing who it is"
     }, 
     {
@@ -242,27 +244,27 @@
       "lyrics": "DUD DUD DUDU"
     }, 
     {
-      "chord": "Dm Bbmaj7 Fadd9 Csus4", 
+      "chord": "Dm                                                    Bbmaj7", 
       "lyrics": "I know where you been, where you are, where you goin'"
     }, 
     {
-      "chord": "", 
+      "chord": "                              Csus4", 
       "lyrics": "I know you're the reason I believe in life"
     }, 
     {
-      "chord": "", 
+      "chord": "                                       Fmaj7sus2", 
       "lyrics": "What's the day without a little night?"
     }, 
     {
-      "chord": "", 
+      "chord": "                                   Dm", 
       "lyrics": "I'm just tryna shed a little light"
     }, 
     {
-      "chord": "Dm Bbmaj7 Fadd9 Csus4", 
+      "chord": "               Bbmaj7", 
       "lyrics": "It can be hard"
     }, 
     {
-      "chord": "", 
+      "chord": "                  Fadd9", 
       "lyrics": "It can be so hard"
     }, 
     {
@@ -270,7 +272,7 @@
       "lyrics": "But you gotta live right now"
     }, 
     {
-      "chord": "", 
+      "chord": "    Csus4", 
       "lyrics": "You got everything to give right now"
     }, 
     {
@@ -281,19 +283,19 @@
       "lyrics": "Single strums"
     }, 
     {
-      "chord": "Dm Bbmaj7 Fadd9 Csus4", 
+      "chord": "Dm", 
       "lyrics": "I been on the low"
     }, 
     {
-      "chord": "", 
+      "chord": "                 Bbmaj7", 
       "lyrics": "I been taking my time"
     }, 
     {
-      "chord": "", 
+      "chord": "                          Fadd9", 
       "lyrics": "I feel like I'm out of my mind"
     }, 
     {
-      "chord": "", 
+      "chord": "                           Csus4", 
       "lyrics": "It feel like my life ain't mine"
     }, 
     {
@@ -304,38 +306,42 @@
       "lyrics": "DUx DUx DUDU"
     }, 
     {
-      "chord": "Dm Bbmaj7 Fadd9 Csus4", 
+      "chord": "                Dm", 
       "lyrics": "I finally wanna be alive"
     }, 
     {
-      "chord": "", 
+      "chord": "Bbmaj7               Csus4", 
       "lyrics": "I finally wanna be alive"
     }, 
     {
-      "chord": "", 
+      "chord": "                        Fmaj7sus2", 
       "lyrics": "I don't wanna die today"
     }, 
     {
-      "chord": "", 
+      "chord": "                  Dm", 
       "lyrics": "I don't wanna die"
     }, 
     {
-      "chord": "Dm Bbmaj7 Fadd9 Csus4", 
+      "chord": "                       Bbmaj7", 
       "lyrics": "Finally wanna be alive"
     }, 
     {
-      "chord": "", 
+      "chord": "                     Csus4", 
       "lyrics": "I finally wanna be alive"
     }, 
     {
-      "chord": "", 
+      "chord": "                  Fmaj7sus2", 
       "lyrics": "I don't wanna die"
     }, 
     {
       "label": "[Outro]"
     }, 
     {
-      "chord": "Bb C Dm F", 
+      "chord": "", 
+      "lyrics": "Pick Bb C Dm F"
+    }, 
+    {
+      "chord": "", 
       "lyrics": "Pain don't hurt the same, I know"
     }, 
     {
@@ -351,23 +357,30 @@
       "lyrics": "And I see my tears melt in the snow"
     }, 
     {
-      "chord": "Dm Bbmaj7 Fadd9 Csus4", 
+      "label": "[Chorus]"
+    }, 
+    {
+      "chord": "", 
+      "lyrics": "DUx DUx DUDU"
+    }, 
+    {
+      "chord": "                  Dm", 
       "lyrics": "But I don't wanna cry"
     }, 
     {
-      "chord": "", 
+      "chord": "              Bbmaj7", 
       "lyrics": "I don't wanna cry anymore"
     }, 
     {
-      "chord": "", 
+      "chord": "               Fadd9", 
       "lyrics": "I wanna feel alive"
     }, 
     {
-      "chord": "", 
+      "chord": "                   Csus4", 
       "lyrics": "I don't even wanna die anymore"
     }, 
     {
-      "chord": "Dm Bbmaj7 Fadd9 Csus4", 
+      "chord": "                 Dm", 
       "lyrics": "Oh I don't wanna"
     }, 
     {
@@ -375,12 +388,16 @@
       "lyrics": "I don't wanna"
     }, 
     {
-      "chord": "", 
+      "chord": "              Bbmaj7", 
+      "lyrics": "I don't wanna"
+    }, 
+    {
+      "chord": "                          Fadd9 Csus4", 
       "lyrics": "I don't even wanna die anymore"
     }, 
     {
-      "chord": "Bb C Dm F", 
-      "lyrics": ""
+      "chord": "", 
+      "lyrics": "Pick Bb C Dm F"
     }
   ], 
   "title": "1-800-273-8255"
