@@ -88,6 +88,58 @@ const reverseString = function(str) {
   return str.split("").reverse().join("");
 };
 
+// Input example:
+// chordName: Bm
+// chordFingering: 4,2,2,2 for G,C,E,A
+// instrumentData: what instrument?
+// Output: SVG rendering of the chord
+const renderChordFingering = function(chordName, chordFingering, instrumentData) {
+  chordFingering = chordFingering.split(",");
+  var offset =
+    chordFingering.every(function(y) {
+      return !(y > 0) || +y <= instrumentData.frets;
+    }) ?
+      1 :
+      Math.min.apply(null, [].concat.apply([], chordFingering.map(function(y) {
+        return y > 0 ? [+y] : [];
+      })));
+  var left = offset == 1 ? 0 : 0.5 * ("" + offset).length;
+  return [{
+    viewLeft: -0.5 - left,
+    viewWidth: instrumentData.strings + left,
+    width: (instrumentData.strings + left) * 11,
+    chordName: chordName,
+    offset: offset == 1 ? undefined : offset,
+    openY: offset == 1 ? -0.5 : 0,
+    dots: [].concat.apply([], chordFingering.map(function(y, x) {
+      return y > 0 ? [{ x: x, y: +y - offset + 1 }] : [];
+    })),
+    open: [].concat.apply([], chordFingering.map(function(y, x) {
+      return y == 0 ? [x] : [];
+    })),
+    mute: [].concat.apply([], chordFingering.map(function(y, x) {
+      return y == "x" ? [x] : [];
+    })),
+  }];
+};
+
+// Code is smart enough to auto-render chordNames thanks to regex magic
+const autoRenderChordName = function(chordName, instrumentData) {
+  var m = chordName.match(/^([A-G](?:bb|𝄫|b|♭|#|♯|x|𝄪)?)(.*)$/);
+  var chordFingering = instrumentData.chords[(pitchToFifths.get(m[1]) * 7 + 12000) % 12][m[2]];
+  if (chordFingering) {
+    if (songView.getOrientation() === "left") {
+      chordFingering = reverseString(chordFingering);
+    }
+    return renderChordFingering(chordName, chordFingering, instrumentData);
+  } else {
+    return [{
+      chordName: chordName,
+      unknown: true
+    }];
+  }
+};
+
 export var renderChords = function() {
   const data = songView.getData();
   var currentInstrument = songView.getInstrument();
@@ -99,7 +151,7 @@ export var renderChords = function() {
   }
   chordPics.show();
 
-  var instrumentData = instrumentsData[currentInstrument];
+  const instrumentData = instrumentsData[currentInstrument];
 
   var chordData = {
     strings: instrumentData.strings,
@@ -114,48 +166,8 @@ export var renderChords = function() {
     fretLines: Array.apply(null, Array(instrumentData.frets)).map(function(_, i) {
       return i + 0.5;
     }),
-    chords: [].concat.apply([], data.allChords.map(function(chord) {
-      var m = chord.match(/^([A-G](?:bb|𝄫|b|♭|#|♯|x|𝄪)?)(.*)$/);
-      var c = instrumentData.chords[(pitchToFifths.get(m[1]) * 7 + 12000) % 12][m[2]];
-      if (c) {
-        if (typeof c === "string") {
-          if (songView.getOrientation() === "left") {
-            c = reverseString(c);
-          }
-          c = c.split(",");
-        }
-        var offset =
-          c.every(function(y) {
-            return !(y > 0) || +y <= instrumentData.frets;
-          }) ?
-            1 :
-            Math.min.apply(null, [].concat.apply([], c.map(function(y) {
-              return y > 0 ? [+y] : [];
-            })));
-        var left = offset == 1 ? 0 : 0.5 * ("" + offset).length;
-        return [{
-          viewLeft: -0.5 - left,
-          viewWidth: instrumentData.strings + left,
-          width: (instrumentData.strings + left) * 11,
-          chord: chord,
-          offset: offset == 1 ? undefined : offset,
-          openY: offset == 1 ? -0.5 : 0,
-          dots: [].concat.apply([], c.map(function(y, x) {
-            return y > 0 ? [{ x: x, y: +y - offset + 1 }] : [];
-          })),
-          open: [].concat.apply([], c.map(function(y, x) {
-            return y == 0 ? [x] : [];
-          })),
-          mute: [].concat.apply([], c.map(function(y, x) {
-            return y == "x" ? [x] : [];
-          })),
-        }];
-      } else {
-        return [{
-          chord: chord,
-          unknown: true
-        }];
-      }
+    chords: [].concat.apply([], data.allChords.map(function(chordName) {
+      return autoRenderChordName(chordName, instrumentData);
     }))
   };
   document.getElementById("chordPics").innerHTML = chordsTemplate(chordData);

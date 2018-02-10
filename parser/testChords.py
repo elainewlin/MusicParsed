@@ -31,13 +31,20 @@ def test_lines():
     assert isChordLine(shortLine)
     notQuiteChords = "A carrot"
     assert not isChordLine(notQuiteChords)
-    line = "Dm       C              Dm      C     Dm   C "
+    line = "Dm       C              Dm      C     Dm   C"
     assert isChordLine(line)
 
 
 def test_false_matches():
     test = "Apple"
     assert not isChord(test)
+
+# These chords are so fancy~
+
+
+def test_chord_with_underscore():
+    line = "Dm_1 Caug_22222"
+    assert isChordLine(line)
 
 
 def test_complex_chords():
