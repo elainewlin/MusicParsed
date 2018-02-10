@@ -11,7 +11,7 @@
     display: none;
   }
 
-  #chordPics {
+  .chordPics {
     position: absolute !important;
   }
 }
@@ -76,7 +76,14 @@ html#songPage body {
   color: var(--main-blue);
 }
 
-#chordPics {
+#chordPicBox {
+  position: relative;
+  padding: 20px;
+  background-color: white;
+  border: none;
+}
+
+.chordPics {
   position: fixed;
   top: 0;
   right: 0;
@@ -86,7 +93,7 @@ html#songPage body {
   border-right: 0;
 }
 
-#chordPics:hover {
+.chordPics:hover {
   cursor: pointer;
 }
 

@@ -101,7 +101,7 @@ export var songView = new function() {
     var amount = (transpose * 7 + center + 12004) % 12 - center - 4;
 
     var data = {};
-    data["allChords"] = allChords.slice().sort().map(function(chord) {
+    data["allChords"] = allChords.slice().map(function(chord) {
       return transposeChord(chord, amount);
     });
     data["lines"] = lines.slice().map(function(line) {

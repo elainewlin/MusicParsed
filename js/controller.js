@@ -90,7 +90,7 @@ const loadColumnButtons = function() {
   });
 };
 
-const loadInstrumentButtons = function() {
+export const loadInstrumentButtons = function() {
   // Render instrument toggle widget
   const instrumentOptions = ["none", "ukulele", "baritone", "guitar", "guitalele"];
   const instrumentButtons = [];
@@ -115,7 +115,7 @@ const loadInstrumentButtons = function() {
   });
 };
 
-const loadOrientationButtons = function() {
+export const loadOrientationButtons = function() {
   const orientationOptions = ["left", "right"];
   const orientationButtons = [];
   for (let value of orientationOptions) {
@@ -158,7 +158,7 @@ export const renderTranspose = function() {
 
 
 $(document).ready(function() {
-  let chordPics = $("#chordPics");
+  let chordPics = $(".chordPics");
   chordPics.click(function() {
     songView.setInstrument("none");
     selectButton(INSTRUMENT, songView.getInstrument());

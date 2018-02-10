@@ -26,6 +26,11 @@ def import_song():
     return render_template("import.html", name="import")
 
 
+@app.route("/render")
+def render_chords():
+    return render_template("render_chords.html", name="render_chords")
+
+
 @app.route("/aus")
 def aus():
     return render_template("aus.html", name="aus")

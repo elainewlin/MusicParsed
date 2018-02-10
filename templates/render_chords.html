@@ -1,0 +1,29 @@
+{% extends "partials/base.html" %}
+
+{% block script %}
+{{ webpack["global.css"] }}
+{{ webpack["index.css"] }}
+{{ webpack["renderChords.js"] }}
+{% endblock %}
+
+{% block content %}
+<div class="container">
+  <h1>Render Chords</h1>
+  <p>
+    Make your own song chords for the ukulele, baritone ukulele, guitar, and guitalele. Use the <a href="https://ukebuddy.com/chord-namer" target="_blank">ukulele chord namer</a> to name a chord given its fingering on the fretboard.
+  </p>
+  <div class="ui-widget">
+    <label for="chords">Instrument: </label>
+    <span id="instrument"></span>
+    <label for="orientation">Orientation: </label>
+    <span id="orientation"></span>
+  </div>
+  <div class="form-group">
+    <label for="chords">Enter your chords: </label>
+    <input type="text" class="form-control" placeholder="Am, F, C, G" id="chords">
+  </div>
+  <button class="btn btn-primary" id="renderChords">Get chord diagrams</button>
+  <div class="chordPics" id="chordPicBox" title="Click to hide chord pictures"></div>
+</div>
+
+{% endblock %}

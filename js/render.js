@@ -140,19 +140,8 @@ const autoRenderChordName = function(chordName, instrumentData) {
   }
 };
 
-export var renderChords = function() {
-  const data = songView.getData();
-  var currentInstrument = songView.getInstrument();
-
-  const chordPics = $("#chordPics");
-  if (currentInstrument == "none") {
-    chordPics.hide();
-    return;
-  }
-  chordPics.show();
-
+export const renderAllChords = function(allChords, currentInstrument) {
   const instrumentData = instrumentsData[currentInstrument];
-
   var chordData = {
     strings: instrumentData.strings,
     stringsMinus1: instrumentData.strings - 1,
@@ -166,11 +155,25 @@ export var renderChords = function() {
     fretLines: Array.apply(null, Array(instrumentData.frets)).map(function(_, i) {
       return i + 0.5;
     }),
-    chords: [].concat.apply([], data.allChords.map(function(chordName) {
+    chords: [].concat.apply([], allChords.map(function(chordName) {
       return autoRenderChordName(chordName, instrumentData);
     }))
   };
-  document.getElementById("chordPics").innerHTML = chordsTemplate(chordData);
+  document.getElementsByClassName("chordPics")[0].innerHTML = chordsTemplate(chordData);
+};
+
+export var renderChords = function() {
+  const data = songView.getData();
+  var currentInstrument = songView.getInstrument();
+
+  const chordPics = $(".chordPics");
+  if (currentInstrument == "none") {
+    chordPics.hide();
+    return;
+  }
+  chordPics.show();
+
+  renderAllChords(data.allChords, currentInstrument);
 };
 
 const renderCapo = function() {

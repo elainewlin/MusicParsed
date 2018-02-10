@@ -8,6 +8,7 @@ module.exports = {
   entry: {
     convert: "./js/convert/convert.js",
     index: "./js/index.js",
+    renderChords: "./js/renderChords.js",
     showAllSongs: "./js/showAllSongs.js",
     global: "./css/global.css",
   },
