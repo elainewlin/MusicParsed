@@ -56,3 +56,8 @@ def test_complex_chords():
     line = " ".join(complexChords)
 
     assert isChordLine(line)
+
+
+def test_no_note():
+    # Because ukuleles don't have enough strings
+    assert isChordLine('A7no3')
