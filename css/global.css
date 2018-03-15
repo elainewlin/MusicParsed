@@ -28,7 +28,7 @@ pre {
 }
 
 .navbar-logo > .navbar-link {
-  color: #333;
+  color: #000;
   font-size: 16px;
 }
 
@@ -43,7 +43,13 @@ pre {
   font-weight: 500;
 }
 
+.random {
+  color: #000;
+}
 
+.random:hover {
+  opacity: 0.5;
+}
 
 /* Navbar social icons */
 
