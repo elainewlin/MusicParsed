@@ -11,11 +11,11 @@ $(document).ready(function() {
 
   // stupid check to make sure we don't load blank songs
   if (dataset.title) {
-    var newSong = dataset.title + " - " + dataset.artist;
+    var songId = dataset.title + " - " + dataset.artist;
     songView.setTranspose(dataset.transpose);
-    loadSong(newSong);
+    loadSong(songId);
   } else {
     // Default song
-    loadSong(songView.getName());
+    loadSong(songView.getId());
   }
 });
