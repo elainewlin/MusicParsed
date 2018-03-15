@@ -1,15 +1,18 @@
 <!DOCTYPE html>
-<html>
+<html id="songPage" data-title="{{title}}" data-artist="{{artist}}" data-transpose="{{transpose}}">
 
 <head>
 {% include "partials/ga.html" %}
-{% block script %}
 {{ webpack["global.css"] }}
+{% block script %}
 {% endblock %}
 </head>
 
 <body>
-  {% include "partials/nav.html" %}
+  <div class="navigation">
+    {% include "partials/nav.html" %}
+    {% block nav_widgets %}{% endblock %}
+  </div>
   {% block content %}{% endblock %}
 </body>
 

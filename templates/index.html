@@ -1,59 +1,47 @@
-<!DOCTYPE html>
-<html id="songPage" data-title="{{title}}" data-artist="{{artist}}" data-transpose="{{transpose}}">
+{% extends "partials/base.html" %}
 
-<head>
-  {% include "partials/ga.html" %}
-  {{ webpack["global.css"] }}
-  {{ webpack["index.css"] }}
-  {{ webpack["index.js"] }}
-</head>
+{% block script %}
+{{ webpack["index.css"] }}
+{{ webpack["index.js"] }}
+{% endblock %}
 
-<body>
-  <!-- {% include "partials/nav.html" %} -->
-  <div id="songView">
+{% block nav_widgets %}
+{% include "partials/nav_search.html" %}
+<span class="navbar-item">
+  <label for="widgets">Widgets: </label>
+  <button class="btn btn-default" type="button" id="viewToggle" title="Hide/show the column and transpose widgets">hide</button>
+</span>
+{% endblock %}
+
+{% block content %}
+<div id="songView">
+  <div id="widgets">
     <div class="ui-widget">
-      <form class="form-inline">
-        <div class="input-group">
-          <input type="text" class="form-control" placeholder="Song select" aria-label="Song select" id="tags">
-          <span class="input-group-addon">
-            <i class="glyphicon glyphicon-search"></i>
-          </span>
-        </div>
-
-        <a href="/all" class="btn btn-primary" role="button">Show all songs</a>
-        <a href="javascript:void(0)" class="btn btn-primary random" role="button">Random song</a>
-        <label for="widgets">Widgets: </label>
-        <button class="btn btn-default" type="button" id="viewToggle" title="Hide/show the column and transpose widgets">hide</button>
-      </form>
+      <label for="chords">Chords: </label>
+      <span id="instrument"></span>
+      <label for="orientation">Orientation: </label>
+      <span id="orientation"></span>
     </div>
-    <div id="widgets">
-      <div class="ui-widget">
-        <label for="chords">Chords: </label>
-        <span id="instrument"></span>
-        <label for="orientation">Orientation: </label>
-        <span id="orientation"></span>
-      </div>
-      <div class="ui-widget">
-        <label for="transpose">Transpose: </label>
-        <span id="transpose"></span>
-        <label for="column">Columns: </label>
-        <span id="column"></span>
-      </div>
-    </div>
-    <h3>
-      <span id="title"></span>
-      <button class="btn btn-primary" id="capo">
-        <span>&times;</span>
-        <span id="capoAmount"></span>
-      </button>
-    </h3>
-    <div id="songContainer">
-      <div id="song">
-      </div>
+    <div class="ui-widget">
+      <label for="transpose">Transpose: </label>
+      <span id="transpose"></span>
+      <label for="column">Columns: </label>
+      <span id="column"></span>
     </div>
   </div>
-  <div class="chordPics" title="Click to hide chord pictures">
+  <h3>
+    <span id="title"></span>
+    <button class="btn btn-primary" id="capo">
+      <span>&times;</span>
+      <span id="capoAmount"></span>
+    </button>
+  </h3>
+  <div id="songContainer">
+    <div id="song">
+    </div>
   </div>
-</body>
+</div>
+<div class="chordPics" title="Click to hide chord pictures">
+</div>
+{% endblock %}
 
-</html>

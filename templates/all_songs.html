@@ -5,6 +5,10 @@
 {{ webpack["showAllSongs.js"] }}
 {% endblock %}
 
+{% block nav_widgets %}
+{% include "partials/nav_search.html" %}
+{% endblock %}
+
 {% block content %}
 <div class="container">
   <h1>All Songs</h1>

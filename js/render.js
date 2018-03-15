@@ -227,25 +227,7 @@ export var popStateHandler = function(history) {
   loadSong(songId);
 };
 
-export var initRender = function() {
-  loadWidgets();
-  const getRandomIndex = function(totalSongs) {
-    return Math.floor(Math.random() * totalSongs) + 1;
-  };
-
-  $.ajax({
-    url: "/static/data/ALL_SONGS.json",
-    dataType: "json",
-    success: function(data) {
-      $(".random").click(function() {
-        const randomSong = data[getRandomIndex(data.length)];
-        window.history.pushState({ "id": randomSong.id}, "", `${randomSong.url}`);
-        songView.setTranspose(0);
-        loadSong(randomSong.id);
-      });
-    }
-  });
-
+export var songSearch = function(songLoadFunction) {
   $("#tags").autocomplete({
     autoFocus: true,
     source: function(request, response) {
@@ -266,10 +248,39 @@ export var initRender = function() {
       });
     },
     select: function(event, ui) {
-      window.history.pushState({ "id": ui.item.id}, "", `${ui.item.url}`);
-      songView.setTranspose(0);
-      loadSong(ui.item.id);
+      songLoadFunction(ui.item);
     }
   });
 
+  const getRandomIndex = function(totalSongs) {
+    return Math.floor(Math.random() * totalSongs) + 1;
+  };
+
+  $.ajax({
+    url: "/static/data/ALL_SONGS.json",
+    dataType: "json",
+    success: function(data) {
+      $(".random").click(function() {
+        const randomSong = data[getRandomIndex(data.length)];
+        songLoadFunction(randomSong);
+      });
+    }
+  });
+
+  $(".random").tooltip();
+}
+
+export var initRender = function() {
+  loadWidgets();
+
+  const loadSongNoRefresh = function(song) {
+    const id = song.id;
+    const url = song.url;
+
+    window.history.pushState({ "id": id}, "", `${url}`);
+    songView.setTranspose(0);
+    loadSong(id);
+  }
+
+  songSearch(loadSongNoRefresh);
 };

@@ -3,6 +3,7 @@ import $ from "jquery";
 import "../css/styles.css";
 import "../css/global.css";
 import allSongsListTemplate from "../mustache/allSongsList.mustache";
+import {songSearch} from "./render.js";
 
 // Helper function for sorting arrays of objects by property
 var comparator = function(property) {
@@ -53,4 +54,8 @@ window.onload = function() {
     }
   });
 
+  const loadSongUrl = function(song) {
+    window.location.href = song.url;
+  }
+  songSearch(loadSongUrl);
 };
