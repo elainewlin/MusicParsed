@@ -56,6 +56,6 @@ window.onload = function() {
 
   const loadSongUrl = function(song) {
     window.location.href = song.url;
-  }
+  };
   songSearch(loadSongUrl);
 };

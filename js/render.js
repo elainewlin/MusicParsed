@@ -268,7 +268,7 @@ export var songSearch = function(songLoadFunction) {
   });
 
   $(".random").tooltip();
-}
+};
 
 export var initRender = function() {
   loadWidgets();
@@ -277,10 +277,10 @@ export var initRender = function() {
     const id = song.id;
     const url = song.url;
 
-    window.history.pushState({ "id": id}, "", `${url}`);
+    window.history.pushState({"id": id}, "", `${url}`);
     songView.setTranspose(0);
     loadSong(id);
-  }
+  };
 
   songSearch(loadSongNoRefresh);
 };
