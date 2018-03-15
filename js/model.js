@@ -42,6 +42,7 @@ export var songView = new function() {
 
   var lines = [];
   var allChords = [];
+  var fullSongName = "";
 
   this.getChords = function() {
     return allChords;
@@ -61,6 +62,10 @@ export var songView = new function() {
     }
   };
 
+  this.getFullSongName = function() {
+    return fullSongName;
+  };
+
   this.setSong = function(data) {
     allChords = data["allChords"];
     let count = 0;
@@ -68,17 +73,19 @@ export var songView = new function() {
 
     capo = data["capo"];
     setCapo(capo);
+
+    fullSongName = data["id"];
   };
 
   // Default song
-  var songName = "viva_la_vida - coldplay";
+  var songId = "viva_la_vida - coldplay";
 
-  this.getName = function() {
-    return songName;
+  this.getId = function() {
+    return songId;
   };
 
-  this.setName = function(newName) {
-    songName = newName;
+  this.setId = function(newId) {
+    songId = newId;
   };
 
   var transpose = 0; // # of steps transposed, range -6 to 6

@@ -188,7 +188,8 @@ const renderCapo = function() {
 
 export var rerender = function() {
   const data = songView.getData();
-  $("#title").text(songView.getName());
+  const fullName = songView.getFullSongName();
+  $("#title").text(fullName);
 
   document.getElementById("song").innerHTML = songTemplate(data);
   renderTranspose();
@@ -197,11 +198,39 @@ export var rerender = function() {
 
 export var loadSong = function(songId) {
   $.getJSON("/static/data/json/" + songId + ".json", function(data) {
-    songView.setName(`${data.title} - ${data.artist}`);
+    songView.setId(songId);
     songView.setSong(data);
     renderCapo();
     rerender();
   });
+};
+
+export var popStateHandler = function(history) {
+  let transposeAmount = 0;
+  let songId;
+
+  let dataset = document.documentElement.dataset;
+
+  if (history.state) {
+    if (history.state.transpose) {
+      transposeAmount = history.state.transpose;
+    }
+    songId = history.state.id;
+  } else {
+    if (dataset.transpose) {
+      transposeAmount = dataset.transpose;
+    }
+    if (dataset.title) { // no blank songs
+      songId = dataset.title + " - " + dataset.artist;
+    } else {
+      const defaultId = songView.getId(); // default song
+      window.history.replaceState({ "id": defaultId, "transpose": transposeAmount}, "", "");
+      songId = defaultId;
+    }
+  }
+
+  songView.setTranspose(transposeAmount);
+  loadSong(songId);
 };
 
 export var initRender = function() {
@@ -216,8 +245,7 @@ export var initRender = function() {
     success: function(data) {
       $(".random").click(function() {
         const randomSong = data[getRandomIndex(data.length)];
-        // TO DO #35 improve navigation, show the correct URL
-        window.history.pushState({ "song": randomSong.url }, "", `${randomSong.url}`);
+        window.history.pushState({ "id": randomSong.id}, "", `${randomSong.url}`);
         songView.setTranspose(0);
         loadSong(randomSong.id);
       });
@@ -244,8 +272,7 @@ export var initRender = function() {
       });
     },
     select: function(event, ui) {
-      // TO DO #35 improve navigation, show the correct URL
-      window.history.pushState({ "song": ui.item.url }, "", `${ui.item.url}`);
+      window.history.pushState({ "id": ui.item.id}, "", `${ui.item.url}`);
       songView.setTranspose(0);
       loadSong(ui.item.id);
     }

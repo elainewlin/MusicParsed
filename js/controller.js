@@ -39,8 +39,9 @@ const loadTransposeButtons = function() {
   document.getElementById(TRANSPOSE).innerHTML = buttonTemplate({ buttons: transposeButtons });
 
   $("#transpose").find("input").change(function(e) {
-    songView.setTranspose(e.target.value);
-    window.history.pushState({}, "", `?transpose=${e.target.value}`);
+    const transposeAmount = e.target.value;
+    songView.setTranspose(transposeAmount);
+    window.history.replaceState({"id": songView.getId(), "transpose": transposeAmount}, "", `?transpose=${transposeAmount}`);
     rerender();
   });
 };
@@ -68,7 +69,7 @@ const loadColumnButtons = function() {
 
   // Change default column count depending on screen width
   const width = $(window).width();
-  // iPads 
+  // iPads
   if (width < 1200) {
     // phones
     defaultColCount = 2;
