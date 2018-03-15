@@ -205,21 +205,38 @@ export var loadSong = function(songId) {
   });
 };
 
+export var popStateHandler = function(history) {
+  let transposeAmount = 0;
+  let songId;
+
+  let dataset = document.documentElement.dataset;
+
+  if (history.state) {
+    if (history.state.transpose) {
+      transposeAmount = history.state.transpose;
+    }
+    songId = history.state.id;
+  } else {
+    if (dataset.transpose) {
+      transposeAmount = dataset.transpose;
+    }
+    if (dataset.title) { // no blank songs
+      songId = dataset.title + " - " + dataset.artist;
+    } else {
+      const defaultId = songView.getId(); // default song
+      window.history.replaceState({ "id": defaultId, "transpose": transposeAmount}, "", "");
+      songId = defaultId;
+    }
+  }
+
+  songView.setTranspose(transposeAmount);
+  loadSong(songId);
+};
+
 export var initRender = function() {
   loadWidgets();
   const getRandomIndex = function(totalSongs) {
     return Math.floor(Math.random() * totalSongs) + 1;
-  };
-
-  window.onpopstate = function(event) {
-    if (event.state) {
-      if (event.state.transpose) {
-        songView.setTranspose(event.state.transpose);
-      }
-      loadSong(event.state.id);
-    } else {
-      loadSong(songView.getId());
-    }
   };
 
   $.ajax({
@@ -228,7 +245,6 @@ export var initRender = function() {
     success: function(data) {
       $(".random").click(function() {
         const randomSong = data[getRandomIndex(data.length)];
-        // TO DO #35 improve navigation, show the correct URL
         window.history.pushState({ "id": randomSong.id}, "", `${randomSong.url}`);
         songView.setTranspose(0);
         loadSong(randomSong.id);
@@ -256,7 +272,6 @@ export var initRender = function() {
       });
     },
     select: function(event, ui) {
-      // TO DO #35 improve navigation, show the correct URL
       window.history.pushState({ "id": ui.item.id}, "", `${ui.item.url}`);
       songView.setTranspose(0);
       loadSong(ui.item.id);
