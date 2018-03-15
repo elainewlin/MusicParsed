@@ -220,13 +220,7 @@ export var popStateHandler = function(history) {
     if (dataset.transpose) {
       transposeAmount = dataset.transpose;
     }
-    if (dataset.title) { // no blank songs
-      songId = dataset.title + " - " + dataset.artist;
-    } else {
-      const defaultId = songView.getId(); // default song
-      window.history.replaceState({ "id": defaultId, "transpose": transposeAmount}, "", "");
-      songId = defaultId;
-    }
+    songId = dataset.title + " - " + dataset.artist;
   }
 
   songView.setTranspose(transposeAmount);
