@@ -1,84 +1,155 @@
 {
   "allChords": [
-    "G", 
-    "Am", 
     "Em", 
-    "C"
+    "D", 
+    "C", 
+    "G", 
+    "Am"
   ], 
   "artist": "Linkin Park", 
   "id": "Shadow Of The Day - Linkin Park", 
   "lines": [
     {
-      "chord": "G            Am              Em      C", 
-      "lyrics": "I close both locks below the window."
+      "label": "[Verse]"
     }, 
     {
-      "chord": "G            Am              Em    C", 
-      "lyrics": "I close both blinds and turn away."
+      "chord": "Em           D/F#             C", 
+      "lyrics": "I close both locks below the window"
     }, 
     {
-      "chord": "G         Am                  Em      C", 
-      "lyrics": "Sometimes solutions aren't so simple."
+      "chord": "Em           D/F#            C", 
+      "lyrics": "I close both blinds and turn away"
     }, 
     {
-      "chord": "G         Am                 Em   C", 
-      "lyrics": "Sometimes goodbye's the only way."
+      "chord": "Em           D/F#              C", 
+      "lyrics": "Sometimes so-lutions aren't so simple"
     }, 
     {
-      "chord": "G           Am           Em   C", 
-      "lyrics": "And the sun will set for you,"
+      "chord": "Em             D/F#           C", 
+      "lyrics": "Sometimes good bye's the only way"
     }, 
     {
-      "chord": "G       Am           Em   C", 
-      "lyrics": "the sun will set for you."
+      "label": "[Pre Chorus]"
     }, 
     {
-      "chord": "G                 Am", 
-      "lyrics": "The shadow of the day,"
+      "chord": "        G        Am             Em       C", 
+      "lyrics": "And the sun        will set for you"
     }, 
     {
-      "chord": "     Em                   C", 
-      "lyrics": "will embrace the world in grey,"
+      "chord": "    G       Am             Em       C", 
+      "lyrics": "The sun       will set for you"
     }, 
     {
-      "chord": "G           Am          Em   C", 
-      "lyrics": "and the sun will set for you."
+      "label": "[Chorus]"
     }, 
     {
-      "chord": "G              Am              Em      C", 
-      "lyrics": "Pink cards and flowers on your window,"
-    }, 
-    {
-      "chord": "G                Am               Em    C", 
-      "lyrics": "your friends all plead for you to stay."
-    }, 
-    {
-      "chord": "G         Am                 Em      C", 
-      "lyrics": "Sometimes beginnings aren't so simple."
-    }, 
-    {
-      "chord": "G         Am                 Em   C", 
-      "lyrics": "Sometimes goodbye's the only way."
-    }, 
-    {
-      "chord": "G           Am           Em   C", 
-      "lyrics": "And the sun will set for you,"
-    }, 
-    {
-      "chord": "G       Am           Em    C", 
-      "lyrics": "the sun will set for you."
-    }, 
-    {
-      "chord": "G                 Am", 
-      "lyrics": "The shadow of the day,"
+      "chord": "        G             D", 
+      "lyrics": "And the shadow of the day"
     }, 
     {
       "chord": "     Em                   C", 
-      "lyrics": "will embrace the world in grey,"
+      "lyrics": "Will embrace the world in grey"
     }, 
     {
-      "chord": "G           Am          Em   C", 
-      "lyrics": "and the sun will set for you."
+      "chord": "        G        Am             Em       C", 
+      "lyrics": "And the sun        will set for you"
+    }, 
+    {
+      "label": "[Verse]"
+    }, 
+    {
+      "chord": "Em           D/F#            C", 
+      "lyrics": "In cards and flowers on your window"
+    }, 
+    {
+      "chord": "Em               D/F#             C", 
+      "lyrics": "Your friends all plead for you to stay"
+    }, 
+    {
+      "chord": "Em           D/F#               C", 
+      "lyrics": "Sometimes be-ginnings aren't so simple"
+    }, 
+    {
+      "chord": "Em             D/F#           C", 
+      "lyrics": "Sometimes good bye's the only way"
+    }, 
+    {
+      "label": "[Pre Chorus]"
+    }, 
+    {
+      "chord": "        G        Am             Em       C", 
+      "lyrics": "And the sun        will set for you"
+    }, 
+    {
+      "chord": "    G       Am             Em       C", 
+      "lyrics": "The sun       will set for you"
+    }, 
+    {
+      "label": "[Chorus]"
+    }, 
+    {
+      "chord": "        G             D", 
+      "lyrics": "And the shadow of the day"
+    }, 
+    {
+      "chord": "     Em                   C", 
+      "lyrics": "Will embrace the world in grey"
+    }, 
+    {
+      "chord": "        G        Am             Em       C", 
+      "lyrics": "And the sun        will set for you"
+    }, 
+    {
+      "label": "[Solo 1]"
+    }, 
+    {
+      "chord": "G  D/F#  C", 
+      "lyrics": ""
+    }, 
+    {
+      "chord": "G  D/F#  C", 
+      "lyrics": ""
+    }, 
+    {
+      "label": "[Chorus]"
+    }, 
+    {
+      "chord": "        G             D", 
+      "lyrics": "And the shadow of the day"
+    }, 
+    {
+      "chord": "     Em                   C", 
+      "lyrics": "Will embrace the world in grey"
+    }, 
+    {
+      "chord": "        G        Am             Em       C", 
+      "lyrics": "And the sun        will set for you"
+    }, 
+    {
+      "label": "[Solo 2]"
+    }, 
+    {
+      "chord": "G       Am      Em      C", 
+      "lyrics": ""
+    }, 
+    {
+      "chord": "G       Am      Em      C", 
+      "lyrics": ""
+    }, 
+    {
+      "label": "[Chorus]"
+    }, 
+    {
+      "chord": "        G             D", 
+      "lyrics": "And the shadow of the day"
+    }, 
+    {
+      "chord": "     Em                   C", 
+      "lyrics": "Will embrace the world in grey"
+    }, 
+    {
+      "chord": "        G        Am             Em       C      G", 
+      "lyrics": "And the sun        will set for you"
     }
   ], 
   "title": "Shadow Of The Day"
