@@ -9,56 +9,40 @@
   "id": "Shape Of You - Ed Sheeran", 
   "lines": [
     {
-      "label": "[Intro x2]"
+      "label": "[INTRO]"
     }, 
     {
-      "chord": "C#m F#m A B", 
+      "chord": "C#m F#m A  B", 
       "lyrics": ""
     }, 
     {
-      "label": "[Verse]"
+      "label": "[VERSE]"
     }, 
     {
-      "chord": "    C#m                 F#m", 
-      "lyrics": "The club isn't the best place to find a lover"
+      "chord": "C#m                      F#m                          A             B", 
+      "lyrics": "The club isn't the best place to find a lover so the bar is where I go"
     }, 
     {
-      "chord": "       A              B", 
-      "lyrics": "So the bar is where I go"
+      "chord": "C#m                      F#m                          A                      B", 
+      "lyrics": "Me and my friends at the table doing shots, drinking fast and then we talk slow"
     }, 
     {
-      "chord": "C#m                      F#m", 
-      "lyrics": "Me and my friends at the table doing shots"
+      "chord": "     C#m                        F#m                     A                        B", 
+      "lyrics": "Come over and start up a conversation with just me and trust me I'll give it a chance now"
     }, 
     {
-      "chord": "         A               B", 
-      "lyrics": "Drinking faster and then we talk slow"
+      "chord": "        C#m                     F#m                     A                B", 
+      "lyrics": "Take my hand, stop! Put Van the man on the jukebox and then we start to dance and now I'm singing like"
     }, 
     {
-      "chord": "     C#m                       F#m", 
-      "lyrics": "Come over and start up a conversation with just me"
-    }, 
-    {
-      "chord": "    A                       B", 
-      "lyrics": "And trust me I'll give it a chance now"
-    }, 
-    {
-      "chord": "        C#m                    F#m", 
-      "lyrics": "Took my hand, stop, prepare \"The man\" on the jukebox"
-    }, 
-    {
-      "chord": "    A                B", 
-      "lyrics": "And then we start to dance, and now I'm singing like"
-    }, 
-    {
-      "label": "[Pre-Chorus]"
+      "label": "[PRE-CHORUS]"
     }, 
     {
       "chord": "C#m              F#m", 
       "lyrics": "Girl, you know I want your love"
     }, 
     {
-      "chord": "A                      B                 C#m", 
+      "chord": "A                       B                C#m", 
       "lyrics": "Your love was handmade for somebody like me"
     }, 
     {
@@ -70,7 +54,7 @@
       "lyrics": "I may be crazy, don't mind me, say"
     }, 
     {
-      "chord": "C#m              F#m", 
+      "chord": "C#m            F#m", 
       "lyrics": "Boy, let's not talk too much"
     }, 
     {
@@ -82,69 +66,73 @@
       "lyrics": "Come on now, follow my lead"
     }, 
     {
-      "chord": "A", 
+      "chord": "", 
+      "lyrics": "  A                      N.C."
+    }, 
+    {
+      "chord": "", 
       "lyrics": "Come\u2014come on now, follow my lead"
     }, 
     {
-      "label": "[Chorus]"
+      "label": "[CHORUS]"
     }, 
     {
       "chord": "C#m      F#m                    A", 
       "lyrics": "  I'm in love with the shape of you"
     }, 
     {
-      "chord": "            B                  C#m", 
-      "lyrics": "We push and pull like a magnet do"
+      "chord": "               B                 C#m", 
+      "lyrics": "  We push and pull like a magnet do"
     }, 
     {
-      "chord": "            F#m              A", 
-      "lyrics": "Although my heart is falling too"
+      "chord": "              F#m              A", 
+      "lyrics": "  Although my heart is falling too"
     }, 
     {
-      "chord": "       B", 
-      "lyrics": "I'm in love with your body"
+      "chord": "          B", 
+      "lyrics": "  I'm in love with your body"
     }, 
     {
-      "chord": "C#m        F#m                  A", 
+      "chord": "C#m         F#m                  A", 
       "lyrics": "  And last night you were in my room"
     }, 
     {
-      "chord": "           B                    C#m", 
-      "lyrics": "And now my bedsheets smell like you"
+      "chord": "             B                    C#m", 
+      "lyrics": "  And now my bedsheets smell like you"
     }, 
     {
-      "chord": "                 F#m                  A", 
-      "lyrics": "Every day discovering something brand new"
+      "chord": "                    F#m                 A", 
+      "lyrics": "  Every day discovering something brand new"
     }, 
     {
-      "chord": "            B", 
-      "lyrics": "Well I'm in love with your body"
+      "chord": "               B", 
+      "lyrics": "  Well I'm in love with your body"
     }, 
     {
-      "chord": "C#m F#m A         B", 
-      "lyrics": "           I'm in love with your body"
+      "chord": "C#m F#m A            B", 
+      "lyrics": "(Oh I)      I'm in love with your body"
     }, 
     {
-      "chord": "C#m F#m A         B", 
-      "lyrics": "           I'm in love with your body"
+      "chord": "C#m F#m A            B", 
+      "lyrics": "(Oh I)      I'm in love with your body"
     }, 
     {
-      "chord": "C#m F#m A         B", 
-      "lyrics": "           I'm in love with your body"
+      "chord": "C#m F#m A            B", 
+      "lyrics": "(Oh I)      I'm in love with your body"
     }, 
     {
-      "chord": "C#m               F#m                  A", 
-      "lyrics": " Every day discovering something brand new"
+      "chord": "C#m                 F#m                  A", 
+      "lyrics": "  Every day discovering something brand new"
     }, 
     {
-      "chord": "       B", 
-      "lyrics": "I'm in love with the shape of you"
+      "chord": "          B", 
+      "lyrics": "  I'm in love with the shape of you"
     }, 
     {
-      "label": "[Verse]"
+      "label": "[VERSE]"
     }, 
     {
-      "chord": "C#m                    F#m", 
+      "chord": "C#m                   F#m", 
       "lyrics": "One week in we let the story begin"
     }, 
     {
@@ -152,7 +140,7 @@
       "lyrics": "We're going out on our first date"
     }, 
     {
-      "chord": "            C#m                  F#m", 
+      "chord": "            C#m                 F#m", 
       "lyrics": "But you and me are thrifty so go all you can eat"
     }, 
     {
@@ -172,87 +160,108 @@
       "lyrics": "And leave and get in a taxi, we kiss in the backseat"
     }, 
     {
-      "chord": "         A                     B", 
+      "chord": "          A                     B", 
       "lyrics": "Tell the driver make the radio play, and I'm singing like"
     }, 
     {
-      "label": "[Pre-Chorus]"
+      "label": "[PRE-CHORUS]"
     }, 
     {
-      "label": "[Chorus]"
+      "chord": "C#m              F#m", 
+      "lyrics": "Girl, you know I want your love"
     }, 
     {
-      "label": "[Bridge]"
+      "chord": "A                       B                C#m", 
+      "lyrics": "Your love was handmade for somebody like me"
     }, 
     {
-      "chord": "", 
-      "lyrics": "Come on, be my baby, come on"
+      "chord": "             F#m", 
+      "lyrics": "Come on now, follow my lead"
     }, 
     {
-      "chord": "", 
-      "lyrics": "Come on, be my baby, come on"
-    }, 
-    {
-      "chord": "", 
-      "lyrics": "Come on, be my baby, come on"
-    }, 
-    {
-      "chord": "", 
-      "lyrics": "Come on, be my baby, come on"
+      "chord": "A               B", 
+      "lyrics": "I may be crazy, don't mind me, say"
     }, 
     {
       "chord": "C#m            F#m", 
-      "lyrics": "  Come on, be my baby, come on"
+      "lyrics": "Boy, let's not talk too much"
     }, 
     {
-      "chord": "A                B", 
-      "lyrics": "  Come on, be my baby, come on"
+      "chord": "A                    B                C#m", 
+      "lyrics": "Grab on my waist and put that body on me"
     }, 
     {
-      "chord": "C#m            F#m", 
-      "lyrics": "  Come on, be my baby, come on"
+      "chord": "             F#m", 
+      "lyrics": "Come on now, follow my lead"
     }, 
     {
-      "chord": "A                B", 
-      "lyrics": "  Come on, be my baby, come on"
+      "chord": "", 
+      "lyrics": "  A                      N.C."
     }, 
     {
-      "label": "[Chorus]"
+      "chord": "", 
+      "lyrics": "Come\u2014come on now, follow my lead"
+    }, 
+    {
+      "label": "[CHORUS]"
     }, 
     {
       "chord": "C#m      F#m                    A", 
       "lyrics": "  I'm in love with the shape of you"
     }, 
     {
-      "chord": "            B                  C#m", 
-      "lyrics": "We push and pull like a magnet do"
+      "chord": "               B                 C#m", 
+      "lyrics": "  We push and pull like a magnet do"
     }, 
     {
-      "chord": "            F#m              A", 
-      "lyrics": "Although my heart is falling too"
+      "chord": "               F#m             A", 
+      "lyrics": "  Although my heart is falling too"
     }, 
     {
-      "chord": "       B", 
-      "lyrics": "I'm in love with your body"
+      "chord": "          B                 C#m", 
+      "lyrics": "  I'm in love with your body"
     }, 
     {
-      "chord": "C#m        F#m                  A", 
+      "chord": "           F#m                  A", 
       "lyrics": "  And last night you were in my room"
     }, 
     {
-      "chord": "           B                    C#m", 
-      "lyrics": "And now my bedsheets smell like you"
+      "chord": "             B                    C#m", 
+      "lyrics": "  And now my bedsheets smell like you"
     }, 
     {
-      "chord": "                 F#m                  A", 
-      "lyrics": "Every day discovering something brand new"
+      "chord": "                    F#m                 A", 
+      "lyrics": "  Every day discovering something brand new"
     }, 
     {
-      "chord": "            B", 
-      "lyrics": "Well I'm in love with your body"
+      "chord": "               B                 C#m", 
+      "lyrics": "  Well I'm in love with your body"
     }, 
     {
-      "chord": "C#m            F#m", 
+      "chord": "C#m F#m A            B", 
+      "lyrics": "(Oh I)      I'm in love with your body"
+    }, 
+    {
+      "chord": "C#m F#m A            B", 
+      "lyrics": "(Oh I)      I'm in love with your body"
+    }, 
+    {
+      "chord": "C#m F#m A            B", 
+      "lyrics": "(Oh I)      I'm in love with your body"
+    }, 
+    {
+      "chord": "C#m                 F#m                  A", 
+      "lyrics": "  Every day discovering something brand new"
+    }, 
+    {
+      "chord": "          B", 
+      "lyrics": "  I'm in love with the shape of you"
+    }, 
+    {
+      "label": "[BRIDGE]"
+    }, 
+    {
+      "chord": "C#m              F#m", 
       "lyrics": "  Come on, be my baby, come on"
     }, 
     {
@@ -260,7 +269,7 @@
       "lyrics": "  Come on, be my baby, come on"
     }, 
     {
-      "chord": "C#m            F#m", 
+      "chord": "C#m              F#m", 
       "lyrics": "  Come on, be my baby, come on"
     }, 
     {
@@ -268,7 +277,7 @@
       "lyrics": "  Come on, be my baby, come on"
     }, 
     {
-      "chord": "C#m            F#m", 
+      "chord": "C#m              F#m", 
       "lyrics": "  Come on, be my baby, come on"
     }, 
     {
@@ -276,12 +285,79 @@
       "lyrics": "  Come on, be my baby, come on"
     }, 
     {
-      "chord": "C#m               F#m                  A", 
-      "lyrics": " Every day discovering something brand new"
+      "chord": "C#m              F#m", 
+      "lyrics": "  Come on, be my baby, come on"
     }, 
     {
-      "chord": "       B", 
-      "lyrics": "I'm in love with the shape of you"
+      "chord": "A                B", 
+      "lyrics": "  Come on, be my baby, come on"
+    }, 
+    {
+      "label": "[CHORUS]"
+    }, 
+    {
+      "chord": "C#m      F#m                    A", 
+      "lyrics": "  I'm in love with the shape of you"
+    }, 
+    {
+      "chord": "               B                 C#m", 
+      "lyrics": "  We push and pull like a magnet do"
+    }, 
+    {
+      "chord": "              F#m              A", 
+      "lyrics": "  Although my heart is falling too"
+    }, 
+    {
+      "chord": "          B                 C#m", 
+      "lyrics": "  I'm in love with your body"
+    }, 
+    {
+      "chord": "           F#m                  A", 
+      "lyrics": "  And last night you were in my room"
+    }, 
+    {
+      "chord": "             B                    C#m", 
+      "lyrics": "  And now my bedsheets smell like you"
+    }, 
+    {
+      "chord": "                    F#m                 A", 
+      "lyrics": "  Every day discovering something brand new"
+    }, 
+    {
+      "chord": "               B                 C#m", 
+      "lyrics": "  Well I'm in love with your body"
+    }, 
+    {
+      "chord": "                 F#m", 
+      "lyrics": "  Come on, be my baby, come on"
+    }, 
+    {
+      "chord": "A                B", 
+      "lyrics": "  Come on, be my baby, come on"
+    }, 
+    {
+      "chord": "C#m              F#m", 
+      "lyrics": "  Come on, be my baby, come on"
+    }, 
+    {
+      "chord": "A                B", 
+      "lyrics": "  Come on, be my baby, come on"
+    }, 
+    {
+      "chord": "C#m              F#m", 
+      "lyrics": "  Come on, be my baby, come on"
+    }, 
+    {
+      "chord": "A                B", 
+      "lyrics": "  Come on, be my baby, come on"
+    }, 
+    {
+      "chord": "C#m                 F#m                  A", 
+      "lyrics": "  Every day discovering something brand new"
+    }, 
+    {
+      "chord": "          B                     C#m", 
+      "lyrics": "  I'm in love with the shape of you"
     }
   ], 
   "title": "Shape Of You"
