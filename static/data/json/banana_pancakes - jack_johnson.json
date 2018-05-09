@@ -1,12 +1,12 @@
 {
   "allChords": [
-    "Am", 
-    "G", 
-    "D7", 
-    "C7", 
+    "Am7", 
     "G7", 
+    "D7", 
+    "G", 
+    "C7", 
     "D", 
-    "Bm", 
+    "Bm7", 
     "Em", 
     "C"
   ], 
@@ -17,123 +17,123 @@
       "label": "[Intro]"
     }, 
     {
-      "chord": "                                 Am", 
+      "chord": "                                 Am7", 
       "lyrics": "Well can't you see that it's just raining?"
     }, 
     {
-      "chord": "                          G", 
-      "lyrics": "There ain't no need to go outside."
+      "chord": "                       G7", 
+      "lyrics": "Ain't no need to go outside."
     }, 
     {
-      "chord": "    D7", 
-      "lyrics": "But Baby!"
+      "chord": "      D7", 
+      "lyrics": "But baby!"
     }, 
     {
       "label": "[Verse]"
     }, 
     {
       "chord": "    G           D7", 
-      "lyrics": "You hardly even know this"
+      "lyrics": "You hardly even notice"
     }, 
     {
-      "chord": "Am            C7", 
+      "chord": "Am7           C7", 
       "lyrics": "when I try to show you"
     }, 
     {
-      "chord": "G                D7", 
-      "lyrics": "Song is meant to keep you"
+      "chord": "     G                D7", 
+      "lyrics": "This song is meant to keep you"
     }, 
     {
-      "chord": "     Am                C7", 
+      "chord": "     Am7               C7", 
       "lyrics": "from doing what you're supposed to"
     }, 
     {
-      "chord": "G            D7", 
-      "lyrics": "wakin' up to early"
+      "chord": "G             D7", 
+      "lyrics": "wakin' up too early"
     }, 
     {
-      "chord": "Am             C7", 
-      "lyrics": "maybe we could sleep"
+      "chord": "Am7            C7", 
+      "lyrics": "maybe we could sleep in"
     }, 
     {
       "chord": "G               D7", 
       "lyrics": "make you banana pancakes"
     }, 
     {
-      "chord": "Am                   C7", 
+      "chord": "Am7                  C7", 
       "lyrics": "pretend like it's the weekend"
     }, 
     {
       "label": "[Chorus]"
     }, 
     {
-      "chord": "Am", 
+      "chord": "Am7", 
       "lyrics": "now"
     }, 
     {
-      "chord": "                            G    G7", 
+      "chord": "                            G", 
       "lyrics": "we could pretend it all the time."
     }, 
     {
-      "chord": "                            Am", 
+      "chord": "                             Am7", 
       "lyrics": "Can't you see that it's just raining."
     }, 
     {
-      "chord": "                      G  G7", 
+      "chord": "                       G", 
       "lyrics": "Ain't no need to go outside."
     }, 
     {
       "chord": "         D7", 
-      "lyrics": "But just maybe!"
+      "lyrics": "But just maybe"
     }, 
     {
       "label": "[Verse]"
     }, 
     {
-      "chord": "G          D7    Am            C7", 
+      "chord": "G          D7    Am7         C7", 
       "lyrics": "Hala ka ukulele, mama made a baby."
     }, 
     {
-      "chord": "G                           D7    Am            C7", 
-      "lyrics": "Really don't mind to practice cause you're my little lady."
+      "chord": "G                     D7             Am7              C7", 
+      "lyrics": "Really don't mind the practice cause you're my little lady."
     }, 
     {
-      "chord": "G          D7                 Am            C7", 
-      "lyrics": "Lady lady love me cause I love to lay you lazy."
+      "chord": "G         D7              Am7              C7", 
+      "lyrics": "Lady lady love me cause I love to lay here lazy."
     }, 
     {
-      "chord": "G          D7                    Am                C7", 
-      "lyrics": "We could close the curtains pretend like theres no world"
+      "chord": "G                  D7         Am7                   C7", 
+      "lyrics": "We could close the curtains pretend like there's no world"
     }, 
     {
       "label": "[Chorus]"
     }, 
     {
-      "chord": "Am", 
+      "chord": "Am7", 
       "lyrics": "outside."
     }, 
     {
-      "chord": "                                  G    G7", 
-      "lyrics": "Then we could pretend it all the time."
+      "chord": "                             G", 
+      "lyrics": " we could pretend it all the time."
     }, 
     {
-      "chord": "                            Am", 
-      "lyrics": "cant you see that it's just raining,"
+      "chord": "                             Am7", 
+      "lyrics": "Can't you see that it's just raining."
     }, 
     {
-      "chord": "                     G", 
+      "chord": "                       G", 
       "lyrics": "Ain't no need to go outside."
     }, 
     {
-      "chord": "                         Am", 
-      "lyrics": "Ain't no need Ain't no need."
+      "chord": "                       Am7", 
+      "lyrics": "Ain't no need ain't no need."
     }, 
     {
-      "chord": "                     G", 
-      "lyrics": "mmmm  mmmm  mmmmm  mmmmm"
+      "chord": "    G", 
+      "lyrics": "mmm-mmm"
     }, 
     {
-      "chord": "                        Am", 
+      "chord": "                        Am7", 
       "lyrics": "Can't you see can't you see?"
     }, 
     {
@@ -144,101 +144,113 @@
       "label": "[Bridge]"
     }, 
     {
-      "chord": "Am                                                             D", 
-      "lyrics": "But the telephones singin ringin it's too early dont pick it up."
+      "chord": "Am7", 
+      "lyrics": "But the telephone is singin' ringin'"
     }, 
     {
-      "chord": " D", 
+      "chord": "                            D", 
+      "lyrics": "it's too early dont pick it up."
+    }, 
+    {
+      "chord": "", 
       "lyrics": "We don't need to"
     }, 
     {
-      "chord": "       Am                                                             D", 
-      "lyrics": "we got everything we need right here and everything we need is enough."
+      "chord": "       Am7", 
+      "lyrics": "we got everything we need right here and"
     }, 
     {
-      "chord": "D", 
+      "chord": "                      D", 
+      "lyrics": "everything we need is enough."
+    }, 
+    {
+      "chord": "", 
       "lyrics": "just so easy"
     }, 
     {
-      "chord": "         Bm", 
+      "chord": "         Bm7", 
       "lyrics": "When the whole world fit's inside of your arms"
     }, 
     {
-      "chord": "      Em                           C", 
+      "chord": "      Em             Em/D#         C", 
       "lyrics": "do we really need to pay attention to the alarm?"
     }, 
     {
-      "chord": "             G         D7", 
-      "lyrics": "wake up slow,  mmmmm mmmmmm"
+      "chord": "        G          D7", 
+      "lyrics": "wake up slow,  mmm mmm"
     }, 
     {
-      "chord": "             G", 
+      "chord": "        G", 
       "lyrics": "wake up slow"
     }, 
     {
       "label": "[Verse]"
     }, 
     {
-      "chord": "G         D7", 
-      "lyrics": "But Baby!"
+      "chord": "G   D7", 
+      "lyrics": "But baby!"
     }, 
     {
-      "chord": "Am            C7", 
-      "lyrics": "You hardly even know this"
+      "chord": "    G           D7", 
+      "lyrics": "You hardly even notice"
     }, 
     {
-      "chord": "G             D7", 
+      "chord": "Am7           C7", 
       "lyrics": "when I try to show you"
     }, 
     {
-      "chord": "G                  D7           Am                 C7", 
-      "lyrics": "Song is meant to keep you from doing what you're supposed to."
+      "chord": "     G                D7", 
+      "lyrics": "This song is meant to keep you"
     }, 
     {
-      "chord": "G          D7", 
-      "lyrics": "Wakin' up to early"
+      "chord": "     Am7               C7", 
+      "lyrics": "from doing what you're supposed to"
     }, 
     {
-      "chord": "Am            C7", 
-      "lyrics": "maybe we could sleep"
+      "chord": "G             D7", 
+      "lyrics": "wakin' up too early"
     }, 
     {
-      "chord": "G          D7", 
+      "chord": "Am7            C7", 
+      "lyrics": "maybe we could sleep in"
+    }, 
+    {
+      "chord": "G               D7", 
       "lyrics": "make you banana pancakes"
     }, 
     {
-      "chord": "Am                 C7", 
+      "chord": "Am7                  C7", 
       "lyrics": "pretend like it's the weekend"
     }, 
     {
       "label": "[Chorus]"
     }, 
     {
-      "chord": "Am", 
-      "lyrics": "outside."
+      "chord": "Am7", 
+      "lyrics": "now."
     }, 
     {
-      "chord": "                                  G    G7", 
-      "lyrics": "Then we could pretend it all the time."
+      "chord": "                            G", 
+      "lyrics": "We could pretend it all the time."
     }, 
     {
-      "chord": "                            Am", 
-      "lyrics": "cant you see that it's just raining,"
+      "chord": "                             Am7", 
+      "lyrics": "Can't you see that it's just raining."
     }, 
     {
-      "chord": "                    G    G7", 
+      "chord": "                       G", 
       "lyrics": "Ain't no need to go outside."
     }, 
     {
-      "chord": "", 
+      "chord": "                       Am7", 
       "lyrics": "ain't no need ain't no need."
     }, 
     {
-      "chord": "Am                      G", 
+      "chord": "                   G", 
       "lyrics": "Rain all day and I really really really don't mind."
     }, 
     {
-      "chord": "                         Am", 
+      "chord": "                         Am7", 
       "lyrics": "Can't you see can't you see?"
     }, 
     {
