@@ -1,6 +1,6 @@
 import os
 import json
-import urllib2
+import requests
 from bs4 import BeautifulSoup
 import argparse
 from isChord import isChordLine, isLyricLine, isLabel
@@ -42,11 +42,8 @@ class URLParser:
         Using BeautifulSoup to read a URL
         url -> BeautifulSoup
         """
-        hdr = {"User-Agent": "Mozilla/5.0"}
-        req = urllib2.Request(url, headers=hdr)
-        f = urllib2.urlopen(req)
-        myfile = f.read()
-        return BeautifulSoup(myfile, "html5lib")
+        req = requests.get(url)
+        return BeautifulSoup(req.text, "html5lib")
 
     def parseURL(self, url):
         """
@@ -80,14 +77,14 @@ class URLParser:
 
         fileName = dataToName(title, artist, TEXT)
         textFile = os.path.join(self.textFolder, fileName)
-        print textFile
-        with open(textFile, "w") as outfile:
+        print(textFile)
+        with open(textFile, "wb") as outfile:
             outfile.write(data.encode("utf-8"))
         return fileName
 
     # All song URLs --> all text files of songs
     def allToText(self):
-        f = open("urls.txt", "r")
+        f = open("urls.txt", "r", encoding="utf-8")
         lines = f.readlines()
         lines = [x.strip() for x in lines]
         for url in lines:
@@ -107,7 +104,7 @@ class TextParser:
         Text file of a song --> JSON file of a song
         """
         textFile = os.path.join(self.textFolder, fileName)
-        f = open(textFile, "r")
+        f = open(textFile, "r", encoding="utf-8")
         lines = f.readlines()
         lines = [x.rstrip() for x in lines]
         data = {}
@@ -119,7 +116,7 @@ class TextParser:
         data["artist"] = artist
         data["id"] = songID
         data["lines"] = []
-        print title
+        print(title)
 
         allChords = []
 

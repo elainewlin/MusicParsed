@@ -13,7 +13,7 @@ def strip(file):
     return file.split(".txt")[0]
 
 
-for i in xrange(len(allText)):
+for i in range(len(allText)):
     [title, artist] = idToData(strip(allText[i]))
     title = clean(title)
     artist = clean(artist)
