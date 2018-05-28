@@ -2,26 +2,9 @@ from flask import render_template
 from flask import Flask
 from flask_webpackext import FlaskWebpackExt
 from flask import request
-from flask_sqlalchemy import SQLAlchemy
-import os
 
 app = Flask(__name__)
-app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL') or 'sqlite:///app.db'
-app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
-db = SQLAlchemy(app)
-
-from models import User
-
-@app.route('/add/')
-def webhook():
-    name = "ram"
-    email = "ram@ram.com"
-    u = User(nickname = name, email = email)
-    print("user created", u)
-    db.session.add(u)
-    db.session.commit()
-    return "user created"
 
 @app.route("/")
 @app.route("/all")
