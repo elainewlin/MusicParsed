@@ -1,131 +1,202 @@
 {
   "allChords": [
-    "F", 
-    "G", 
-    "Am7", 
-    "E7", 
-    "Am", 
-    "C"
-  ], 
-  "artist": "The 1975", 
-  "id": "Somebody Else - The 1975", 
+    "G",
+    "F",
+    "C",
+    "Amadd9",
+    "E7",
+    "Am"
+  ],
+  "artist": "The 1975",
+  "capo": "3",
+  "id": "Somebody Else - The 1975",
   "lines": [
     {
+      "label": "[Intro]"
+    },
+    {
+      "chord": "G F C G",
+      "lyrics": ""
+    },
+    {
+      "chord": "G F C G",
+      "lyrics": ""
+    },
+    {
       "label": "[Verse 1]"
-    }, 
+    },
     {
-      "chord": "     F         G          Am7", 
+      "chord": "     F         G          C",
       "lyrics": "So I heard you found somebody else"
-    }, 
+    },
     {
-      "chord": "       F         G              Am7", 
+      "chord": "       F         G              Amadd9",
       "lyrics": "and at first I thought it was a lie"
-    }, 
+    },
     {
-      "chord": "                  F               G", 
+      "chord": "                  F               G",
       "lyrics": "I took all of my things that make sounds"
-    }, 
+    },
     {
-      "chord": "    E7             Am7", 
+      "chord": "    E7             Amadd9  Am/C Am",
       "lyrics": "the rest I can do without"
-    }, 
+    },
     {
       "label": "[Chorus]"
-    }, 
+    },
     {
-      "chord": "F                             Am                               G", 
+      "chord": "F                                          Am                 G         Am",
       "lyrics": "I don't want your body but I hate to think about you with somebody else"
-    }, 
+    },
     {
-      "chord": "F                               Am                              G", 
+      "chord": "F                                                Am            G         Am",
       "lyrics": "Our love has gone cold, you're intertwining your soul with somebody else"
-    }, 
+    },
     {
-      "chord": "F                                                           Am", 
+      "chord": "F",
       "lyrics": "I'm looking through you while you're looking through your phone"
-    }, 
+    },
     {
-      "chord": "                    G", 
+      "chord": "         Am               G         Am",
       "lyrics": "and then leaving with somebody else"
-    }, 
+    },
     {
-      "chord": "F                                   Am                           G", 
+      "chord": "    F                                             Am            G         G",
       "lyrics": "oh, I don't want your body but I'm picturing your body with somebody else"
-    }, 
+    },
     {
-      "chord": "F                                 Am              G", 
+      "label": "[Post-Chorus]"
+    },
+    {
+      "chord": "F Am G Am",
+      "lyrics": ""
+    },
+    {
+      "chord": "F Am G",
+      "lyrics": ""
+    },
+    {
+      "label": "[Verse]"
+    },
+    {
+      "chord": "        F                              Am        G",
       "lyrics": "Come on baby, this ain't the last time that I'll see your face"
-    }, 
+    },
     {
-      "chord": "F                                 Am           G", 
+      "chord": "        F                             Am     G",
       "lyrics": "Come on baby, you said you'd find someone to take my place"
-    }, 
+    },
     {
-      "chord": "F", 
-      "lyrics": "Oh I just don't believe that you have got it in you"
-    }, 
+      "chord": "    F                                         Am",
+      "lyrics": "Oh, I just don't believe that you have got it in you"
+    },
     {
-      "chord": "                           G", 
-      "lyrics": "cos we are just gonna keep 'doin it'"
-    }, 
+      "chord": "      G",
+      "lyrics": "Cause we are just gonna keep 'doing it'"
+    },
     {
-      "chord": "F", 
-      "lyrics": "and everytime I start to believe in anything you're saying"
-    }, 
+      "chord": "Am         F                                     Am",
+      "lyrics": "Every time I start to believe in anything you're saying"
+    },
     {
-      "chord": "    G                          Am", 
+      "chord": "    G",
       "lyrics": "I'm reminded that I should be getting over it"
-    }, 
+    },
     {
-      "chord": "F                             Am                               G", 
+      "label": "[Chorus]"
+    },
+    {
+      "chord": "F                                          Am                 G         Am",
       "lyrics": "I don't want your body but I hate to think about you with somebody else"
-    }, 
+    },
     {
-      "chord": "F                               Am                              G", 
+      "chord": "F                                                Am            G         Am",
       "lyrics": "Our love has gone cold, you're intertwining your soul with somebody else"
-    }, 
+    },
     {
-      "chord": "F                                                           Am", 
+      "chord": "F",
       "lyrics": "I'm looking through you while you're looking through your phone"
-    }, 
+    },
     {
-      "chord": "                    G", 
+      "chord": "         Am               G         Am",
       "lyrics": "and then leaving with somebody else"
-    }, 
+    },
     {
-      "chord": "F                                   Am                           G", 
+      "chord": "    F                                             Am            G         Am",
       "lyrics": "oh, I don't want your body but I'm picturing your body with somebody else"
-    }, 
+    },
+    {
+      "label": "[Post-Chorus]"
+    },
+    {
+      "chord": "F Am G Am",
+      "lyrics": ""
+    },
+    {
+      "chord": "F Am G",
+      "lyrics": ""
+    },
     {
       "label": "[Bridge]"
-    }, 
+    },
     {
-      "chord": "F                     G                     C", 
+      "chord": "F/C             Am/C G                 Am/C F/C                  Am/C",
       "lyrics": "Get someone you love? Get someone you need? Fuck that, get money"
-    }, 
+    },
     {
-      "chord": "F", 
-      "lyrics": "I can't give you my soul, cos we're never alone"
-    }, 
+      "chord": "G                                      Am/C F/C",
+      "lyrics": "I can't give you my soul cause we're never alone"
+    },
+    {
+      "chord": "                Am/C G                 Am/C F/C                  Am/C",
+      "lyrics": "Get someone you love? Get someone you need? Fuck that, get money"
+    },
+    {
+      "chord": "G                                      Am/C F/C",
+      "lyrics": "I can't give you my soul cause we're never alone"
+    },
+    {
+      "chord": "                Am/C G                 Am/C F/C                  Am/C",
+      "lyrics": "Get someone you love? Get someone you need? Fuck that, get money"
+    },
+    {
+      "chord": "G                                      Am/C F/C",
+      "lyrics": "I can't give you my soul cause we're never alone"
+    },
+    {
+      "label": "[Post-Chorus]"
+    },
+    {
+      "chord": "F Am G Am",
+      "lyrics": ""
+    },
+    {
+      "chord": "F Am G G",
+      "lyrics": ""
+    },
     {
       "label": "[Chorus]"
-    }, 
+    },
     {
-      "chord": "F                             Am                               G", 
+      "chord": "F                                          Am                 G         Am",
       "lyrics": "I don't want your body but I hate to think about you with somebody else"
-    }, 
+    },
     {
-      "chord": "F                                                           Am", 
+      "chord": "F                                                Am            G         Am",
+      "lyrics": "Our love has gone cold, you're intertwining your soul with somebody else"
+    },
+    {
+      "chord": "F",
       "lyrics": "I'm looking through you while you're looking through your phone"
-    }, 
+    },
     {
-      "chord": "                    G", 
+      "chord": "         Am               G         Am",
       "lyrics": "and then leaving with somebody else"
-    }, 
+    },
     {
-      "chord": "F                                   Am                           G", 
+      "chord": "    F                                             Am            G         G",
       "lyrics": "oh, I don't want your body but I'm picturing your body with somebody else"
     }
-  ], 
+  ],
   "title": "Somebody Else"
 }
