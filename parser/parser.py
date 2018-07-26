@@ -138,6 +138,11 @@ class TextParser:
             data["capo"] = firstLine.split(capo)[1]
             next(linesIter)
 
+        overrideAllChords = "ALL CHORDS "
+        if firstLine.startswith(overrideAllChords):
+            data["overrideAllChords"] = firstLine.split(overrideAllChords)[1].split(";")
+            next(linesIter)
+
         for line in linesIter:
             if isLabel(line):
                 data["lines"].append({"label": line})

@@ -123,10 +123,19 @@ const renderChordFingering = function(chordName, chordFingering, instrumentData)
   }];
 };
 
-// Code is smart enough to auto-render chordNames thanks to regex magic
-const autoRenderChordName = function(chordName, instrumentData) {
-  var m = chordName.match(/^([A-G](?:bb|𝄫|b|♭|#|♯|x|𝄪)?)(.*)$/);
+// Code is smart enough to auto-render chord thanks to regex magic
+const renderChord = function(chord, instrumentData) {
+  var chordName = chord;
+  var m = chord.match(/^([A-G](?:bb|𝄫|b|♭|#|♯|x|𝄪)?)(.*)$/);
   var chordFingering = instrumentData.chords[(pitchToFifths.get(m[1]) * 7 + 12000) % 12][m[2]];
+
+  const overrideDefaultChord = chord.includes("|");
+  if (overrideDefaultChord) {
+    const chordComponents = chord.split("|");
+    chordName = chordComponents[0];
+    chordFingering = chordComponents[1];
+  }
+
   if (chordFingering) {
     if (songView.getOrientation() === "left") {
       chordFingering = reverseString(chordFingering);
@@ -155,8 +164,8 @@ export const renderAllChords = function(allChords, currentInstrument) {
     fretLines: Array.apply(null, Array(instrumentData.frets)).map(function(_, i) {
       return i + 0.5;
     }),
-    chords: [].concat.apply([], allChords.map(function(chordName) {
-      return autoRenderChordName(chordName, instrumentData);
+    chords: [].concat.apply([], allChords.map(function(chord) {
+      return renderChord(chord, instrumentData);
     }))
   };
   document.getElementsByClassName("chordPics")[0].innerHTML = chordsTemplate(chordData);

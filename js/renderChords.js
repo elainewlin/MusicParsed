@@ -16,8 +16,8 @@ $(document).ready(function() {
     const rawChordString = $("#chords").val();
 
     // Super basic parser
-    // Removes white space and splits by comma
-    const allChords = rawChordString.replace(/ /g,"").split(",");
+    // Removes white space and splits by semi-colon
+    const allChords = rawChordString.replace(/ /g,"").split(";");
     songView.setSong({"allChords": allChords, "lines": []});
     renderChords();
   });

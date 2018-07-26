@@ -42,6 +42,7 @@ export var songView = new function() {
 
   var lines = [];
   var allChords = [];
+  var overrideAllChords = [];
   var fullSongName = "";
 
   this.getChords = function() {
@@ -68,6 +69,7 @@ export var songView = new function() {
 
   this.setSong = function(data) {
     allChords = data["allChords"];
+    overrideAllChords = data["overrideAllChords"];
     let count = 0;
     lines = data["lines"].map(line => "lyrics" in line ? Object.assign({ count: count++ }, line) : line);
 
@@ -77,8 +79,8 @@ export var songView = new function() {
     fullSongName = data["id"];
   };
 
-  // Default song
-  var songId = "viva_la_vida - coldplay";
+
+  var songId;
 
   this.getId = function() {
     return songId;
@@ -111,6 +113,11 @@ export var songView = new function() {
     data["allChords"] = allChords.slice().map(function(chord) {
       return transposeChord(chord, amount);
     });
+
+    if(overrideAllChords && transpose == 0) {
+      data["allChords"] = overrideAllChords;
+    }
+
     data["lines"] = lines.slice().map(function(line) {
       var newLine = $.extend({}, line);
       if (newLine["chord"]) {

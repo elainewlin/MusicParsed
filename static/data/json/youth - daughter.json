@@ -9,6 +9,43 @@
   "id": "Youth - Daughter",
   "lines": [
     {
+      "label": "[Notes]"
+    },
+    {
+      "chord": "",
+      "lyrics": "Low G string, tune G, C, E, G"
+    },
+    {
+      "label": "Picking pattern:"
+    },
+    {
+      "chord": "  C        F        Am       G",
+      "lyrics": "A---0---0----2---2----5---5----4---4---"
+    },
+    {
+      "chord": "",
+      "lyrics": "E--0-0-0-0--1-1-1-1--0-0-0-0--3-3-3-3--"
+    },
+    {
+      "chord": "",
+      "lyrics": "C-0---0----0---0----0---0----2---2-----"
+    },
+    {
+      "chord": "",
+      "lyrics": "G--------------------------------------"
+    },
+    {
+      "label": "Strum pattern:"
+    },
+    {
+      "chord": "",
+      "lyrics": "1+2+3+4+"
+    },
+    {
+      "chord": "",
+      "lyrics": "d d D du"
+    },
+    {
       "label": "[Intro]"
     },
     {
@@ -222,6 +259,12 @@
       "chord": "Am  Am  F  G  Am",
       "lyrics": ""
     }
+  ],
+  "overrideAllChords": [
+    "C|0,0,0,0",
+    "F|2,0,1,2",
+    "Am|2,0,0,5",
+    "G|0,2,3,4"
   ],
   "title": "Youth"
 }
