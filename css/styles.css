@@ -91,6 +91,7 @@ html#songPage body {
   border: 1px solid var(--main-blue);
   border-top: 0;
   border-right: 0;
+  z-index: 3;
 }
 
 .chordPics:hover {
