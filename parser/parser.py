@@ -116,7 +116,6 @@ class TextParser:
         data["artist"] = artist
         data["id"] = songID
         data["lines"] = []
-        print(title)
 
         allChords = []
 
@@ -140,7 +139,8 @@ class TextParser:
 
         overrideAllChords = "ALL CHORDS "
         if firstLine.startswith(overrideAllChords):
-            data["overrideAllChords"] = firstLine.split(overrideAllChords)[1].split(";")
+            newChords = firstLine.split(overrideAllChords)[1].split(";")
+            data["overrideAllChords"] = newChords
             next(linesIter)
 
         for line in linesIter:
@@ -168,6 +168,7 @@ class TextParser:
         title = clean(title)
         artist = clean(artist)
         fileName = dataToName(title, artist, JSON)
+        print(fileName)
         jsonFile = os.path.join(JSON_FOLDER, fileName)
         with open(jsonFile, "w") as outfile:
             json.dump(data, outfile, indent=2, sort_keys=True)
@@ -259,6 +260,64 @@ class TextParser:
             json.dump(allSongs, outfile, indent=2, sort_keys=True)
 
 
+class ImovieParser:
+    """
+    Manually adding spaces to convert between left-aligned Courier New and
+    centered Gill Sans bold for play-along videos drives me mad.
+
+    New process:
+    1. Run the parser on the relevant song.
+    2. Copy paste output into Pages doc.
+    3. Compare Pages doc with .txt file.
+    """
+
+    # Each line in iMovie can fit at most 60 characters
+    MAX_LINE_LENGTH = 60
+
+    # Each letter width in iMovie is about 1.5 spaces
+    SPACE_MULTIPLIER = 1.5
+
+    def __init__(self, jsonFileName):
+        self.jsonFileName = jsonFileName
+
+    def imovieFormat(self, chordLine, lyricLine):
+        if len(chordLine) == 0:
+            return lyricLine
+
+        if len(lyricLine) == 0:
+            return chordLine
+
+        chords = chordLine.split()
+        chordIndices = [chordLine.index(chord) for chord in chords]
+
+        newChordLine = ""
+        newChordLine += chords[0]
+
+        for i in range(1, len(chordIndices)):
+            currPos = chordIndices[i]
+            prevPos = chordIndices[i - 1]
+            numSpaces = currPos - prevPos
+
+            newNumSpaces = round(self.SPACE_MULTIPLIER * numSpaces)
+            newChordLine += " " * newNumSpaces + chords[i]
+
+        return "{}\n{}".format(newChordLine, lyricLine)
+
+    def jsonToImovie(self):
+        jsonFile = os.path.join(JSON_FOLDER, self.jsonFileName)
+        songJson = json.loads(open(jsonFile, "r").read())
+        lines = songJson["lines"]
+
+        CHORD = "chord"
+        LYRICS = "lyrics"
+        for pair in lines:
+            if not (CHORD in pair and LYRICS in pair):
+                continue
+            chordLine = pair[CHORD]
+            lyricLine = pair[LYRICS]
+            print(self.imovieFormat(chordLine, lyricLine))
+
+
 if __name__ == "__main__":
     # Argument parsing is currently un-used
     # TO DO modify for use on the app"s import feature
@@ -272,3 +331,7 @@ if __name__ == "__main__":
     modified = textParser.getAllModified()
     textParser.allToJSON(modified)
     textParser.getAllSongs()
+
+    imovieParser = ImovieParser(
+        "we_are_the_crystal_gems - steven_universe.json")
+    imovieParser.jsonToImovie()
