@@ -17,13 +17,13 @@ pre {
 /* Navbar styles */
 
 .navigation {
-  margin: 0;
-  line-height: 40px;
-  height: 40px;
+  margin: 2px 0;
+  line-height: 46px;
+  height: 46px;
+  display: flex;
 }
 
 .navbar-logo {
-  display: inline-block;
   width: 150px;
 }
 
@@ -33,9 +33,9 @@ pre {
 }
 
 .navbar-item {
-  display: inline-block;
   text-align: center;
   min-width: 90px;
+  padding-left: 4px;
 }
 
 .navbar-link:hover {
@@ -55,7 +55,7 @@ pre {
 /* Navbar social icons */
 
 .social-section {
-  float: right;
+  margin-left: auto;
 }
 
 .social-image {

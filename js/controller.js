@@ -1,5 +1,5 @@
 import $ from "jquery";
-import "bootstrap/js/button";
+import "bootstrap/js/dist/button";
 import "jquery-ui/ui/widgets/tooltip";
 import "jquery-ui/themes/base/all.css";
 import { songView } from "./model.js";
@@ -38,7 +38,12 @@ const loadTransposeButtons = function() {
   }
   document.getElementById(TRANSPOSE).innerHTML = buttonTemplate({ buttons: transposeButtons });
 
-  $("#transpose").find("input").change(function(e) {
+  const transpose = songView.getTranspose();
+  selectButton(TRANSPOSE, transpose);
+
+  const transposeWidget = getWidget(TRANSPOSE);
+
+  transposeWidget.change(function(e) {
     const transposeAmount = e.target.value;
     songView.setTranspose(transposeAmount);
     window.history.replaceState({"id": songView.getId(), "transpose": transposeAmount}, "", `?transpose=${transposeAmount}`);
@@ -150,11 +155,6 @@ export var loadWidgets = function() {
 
   // Orientation toggle
   loadOrientationButtons();
-};
-
-export const renderTranspose = function() {
-  const transpose = songView.getTranspose();
-  selectButton(TRANSPOSE, transpose);
 };
 
 
