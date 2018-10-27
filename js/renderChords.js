@@ -7,6 +7,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "../css/styles.css";
 
 $(document).ready(function() {
+  songView.setInstrument("ukulele");
   loadInstrumentButtons({showNone: false});
   loadOrientationButtons();
   songView.setSong({"allChords": ["Am", "F", "C", "G"], "lines": []});

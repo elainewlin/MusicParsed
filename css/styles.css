@@ -94,7 +94,7 @@ html#songPage body {
   z-index: 3;
 }
 
-.chordPics:hover {
+.hideable:hover {
   cursor: pointer;
 }
 

@@ -102,7 +102,7 @@ export const loadInstrumentButtons = function(options={}) {
 
   if(options.showNone === false) {
     instrumentOptions.shift();
-  }
+  } 
   const instrumentButtons = [];
   for (let value of instrumentOptions) {
     instrumentButtons.push({
@@ -163,13 +163,13 @@ export var loadWidgets = function() {
 
 
 $(document).ready(function() {
-  let chordPics = $(".chordPics");
-  chordPics.click(function() {
+  let hideableChordPics = $(".hideable");
+  hideableChordPics.click(function() {
     songView.setInstrument("none");
     selectButton(INSTRUMENT, songView.getInstrument());
     renderChords();
   });
-  chordPics.tooltip();
+  hideableChordPics.tooltip();
 
   // Capo
   $("#capo").click(function() {
