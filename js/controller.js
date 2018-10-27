@@ -96,9 +96,13 @@ const loadColumnButtons = function() {
   });
 };
 
-export const loadInstrumentButtons = function() {
+export const loadInstrumentButtons = function(options={}) {
   // Render instrument toggle widget
   const instrumentOptions = ["none", "ukulele", "baritone", "guitar", "guitalele"];
+
+  if(options.showNone === false) {
+    instrumentOptions.shift();
+  }
   const instrumentButtons = [];
   for (let value of instrumentOptions) {
     instrumentButtons.push({
