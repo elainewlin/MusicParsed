@@ -7,27 +7,27 @@
 
 {% block nav_widgets %}
 {% include "partials/nav_search.html" %}
-<span class="navbar-item">
-  <label for="widgets">Widgets: </label>
+<form class="form-inline">
+  <label class="ml-2 mr-2" for="widgets">Widgets:</label>
   <button class="btn btn-outline-secondary" type="button" id="viewToggle" title="Hide/show the column and transpose widgets">hide</button>
-</span>
+</form>
 {% endblock %}
 
 {% block content %}
 <div id="songView">
   <div id="widgets">
-    <div class="ui-widget">
-      <label for="chords">Chords: </label>
+    <form class="form-inline ui-widget">
+      <label class="mr-2" for="chords">Chords:</label>
       <span id="instrument"></span>
-      <label for="orientation">Orientation: </label>
+      <label class="ml-2 mr-2" for="orientation">Orientation:</label>
       <span id="orientation"></span>
-    </div>
-    <div class="ui-widget">
-      <label for="transpose">Transpose: </label>
+    </form>
+    <form class="form-inline ui-widget">
+      <label class="mr-2" for="transpose">Transpose:</label>
       <span id="transpose"></span>
-      <label for="column">Columns: </label>
+      <label class="ml-2 mr-2" for="column">Columns:</label>
       <span id="column"></span>
-    </div>
+    </form>
   </div>
   <h3>
     <span id="title"></span>
