@@ -10,6 +10,7 @@ const TRANSPOSE = "transpose";
 const COLUMN = "column";
 const INSTRUMENT = "instrument";
 const ORIENTATION = "orientation";
+const CHORD_OPTION = "chord_option";
 
 const getWidget = function(type) {
   return $(`#${type}`).find("input");
@@ -18,6 +19,34 @@ const getWidget = function(type) {
 const selectButton = function(type, value) {
   $(`#${type}`).find("label").removeClass("active");
   $(`#${type}-${value}`).addClass("active").find("input").prop("checked", true);
+};
+
+const loadChordOptionButtons = function() {
+  const chordOptions = ["original", "simple"];
+  const chordOptionButtons = [];
+  for (let value of chordOptions) {
+    chordOptionButtons.push({
+      type: CHORD_OPTION,
+      name: value,
+      value: value,
+    });
+  }
+  document.getElementById(CHORD_OPTION).innerHTML = buttonTemplate({ buttons: chordOptionButtons });
+
+  selectButton(CHORD_OPTION, songView.getChordOption());
+
+  const chordOptionWidget = getWidget(CHORD_OPTION);
+
+  chordOptionWidget.change(function(e) {
+    songView.setChordOption(e.target.value);
+    rerender();
+  });
+};
+
+const updateTranspose = function(transposeAmount) {
+  songView.setTranspose(transposeAmount);
+  window.history.replaceState({"id": songView.getId(), "transpose": transposeAmount}, "", `?transpose=${transposeAmount}`);
+  rerender();
 };
 
 const loadTransposeButtons = function() {
@@ -44,10 +73,7 @@ const loadTransposeButtons = function() {
   const transposeWidget = getWidget(TRANSPOSE);
 
   transposeWidget.change(function(e) {
-    const transposeAmount = e.target.value;
-    songView.setTranspose(transposeAmount);
-    window.history.replaceState({"id": songView.getId(), "transpose": transposeAmount}, "", `?transpose=${transposeAmount}`);
-    rerender();
+    updateTranspose(e.target.value);
   });
 };
 
@@ -102,7 +128,7 @@ export const loadInstrumentButtons = function(options={}) {
 
   if(options.showNone === false) {
     instrumentOptions.shift();
-  } 
+  }
   const instrumentButtons = [];
   for (let value of instrumentOptions) {
     instrumentButtons.push({
@@ -157,6 +183,9 @@ export var loadWidgets = function() {
   // Instrument toggle
   loadInstrumentButtons();
 
+  // Toggle between original + simple chords
+  loadChordOptionButtons();
+
   // Orientation toggle
   loadOrientationButtons();
 };
@@ -174,8 +203,7 @@ $(document).ready(function() {
   // Capo
   $("#capo").click(function() {
     const capo = songView.getCapo();
-    songView.setTranspose(capo);
-    rerender();
+    updateTranspose(capo);
     $("#capo").hide();
   });
 

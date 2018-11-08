@@ -11,11 +11,39 @@ var pitchFifths = [].concat.apply([], accidentalFifths.map(function(af) {
 export var pitchToFifths = new Map(pitchFifths);
 var fifthsToPitch = new Map(pitchFifths.map(function(pf) { return [pf[1], pf[0]]; }));
 
-function transposeChord(chord, amount) {
-  return chord.replace(/[A-G](?:bb|𝄫|b|♭|#|♯|x|𝄪)?/g, function(pitch) {
-    return fifthsToPitch.get(pitchToFifths.get(pitch) + amount);
+const noteString = "[A-G](?:bb|𝄫|b|♭|#|♯|x|𝄪)?";
+const noteRegex = new RegExp(noteString, "g");
+
+// matches minor chords like Amadd9, but not Cmaj7
+const minorChord = "m?(?!aj)";
+
+// matches everything that does not follow a /
+const simpleChordRegex = new RegExp(`(?<=^|[^/])${noteString}${minorChord}`, "g");
+
+String.prototype.replaceAt = function(index, replacement) {
+  return this.substr(0, index) + replacement+ this.substr(index + replacement.length);
+};
+
+const constructChord = function(totalLength, chords, offsets) {
+  let blankChord = Array(totalLength).join(" ");
+  for(let i = 0; i < offsets.length; i++) {
+    blankChord = blankChord.replaceAt(offsets[i], chords[i]);
+  }
+  return blankChord.trimEnd();
+};
+
+// Make complicated chords easier for beginners
+// i.e. Am7 -> Am, Dsus4 -> D
+const simplifyChord = function(chord) {
+  const chords = [];
+  const offsets = [];
+
+  chord.replace(simpleChordRegex, function(pitch, offset) {
+    chords.push(pitch);
+    offsets.push(offset);
   });
-}
+  return constructChord(chord.length, chords, offsets);
+};
 
 export var songView = new function() {
   var currentInstrument = localStorage.getItem("instrument") || "none";
@@ -40,6 +68,18 @@ export var songView = new function() {
     orientation = newOrientation;
   };
 
+  // chordOption = original | simple
+  let chordOption = localStorage.getItem("chordOption") || "simple";
+
+  this.getChordOption = function() {
+    return chordOption;
+  };
+
+  this.setChordOption = function(newPreference) {
+    localStorage.setItem("chordOption", newPreference);
+    chordOption = newPreference;
+  };
+
   var lines = [];
   var allChords = [];
   var overrideAllChords = [];
@@ -62,6 +102,18 @@ export var songView = new function() {
       capo = 0;
     }
   };
+
+  const transposeChord = function(chord, amount) {
+    const shouldSimplify = chordOption === "simple";
+    let chordToTranspose = chord;
+    if (shouldSimplify) {
+      chordToTranspose = simplifyChord(chord);
+    }
+    return chordToTranspose.replace(noteRegex, function(pitch) {
+      return fifthsToPitch.get(pitchToFifths.get(pitch) + amount);
+    });
+  };
+
 
   this.getFullSongName = function() {
     return fullSongName;
@@ -90,7 +142,7 @@ export var songView = new function() {
     songId = newId;
   };
 
-  var transpose = 0; // # of steps transposed, range -6 to 6
+  var transpose = localStorage.getItem("transpose") || 0; // # of steps transposed, range -6 to 6
 
   this.getTranspose = function() {
     return transpose;
@@ -98,11 +150,14 @@ export var songView = new function() {
 
   this.setTranspose = function(newTranspose) {
     transpose = parseInt(newTranspose);
+    localStorage.setItem("transpose", transpose);
   };
 
   this.getData = function() {
     var allFifths = [].concat.apply([], allChords.map(function(chord) {
-      var m = chord.match(/^([A-G](?:bb|𝄫|b|♭|#|♯|x|𝄪)?)(m\b|madd|msus|dim)?/);
+      const chordTypes = "(m\b|madd|msus|dim)?";
+      const chordRegex = new RegExp(`^(${noteString})${chordTypes}`);
+      var m = chord.match(chordRegex);
       return m ? [pitchToFifths.get(m[1]) - (m[2] ? 3 : 0)] : [];
     }));
     var center = Math.round(allFifths.reduce(function(a, b) { return a + b; }) / allFifths.length);
@@ -110,10 +165,10 @@ export var songView = new function() {
     var amount = (transpose * 7 + center + 12004) % 12 - center - 4;
 
     var data = {};
-    data["allChords"] = allChords.slice().map(function(chord) {
+    const transposedAllChords = allChords.slice().map(function(chord) {
       return transposeChord(chord, amount);
     });
-
+    data["allChords"] = Array.from(new Set(transposedAllChords));
     if(overrideAllChords && transpose == 0) {
       data["allChords"] = overrideAllChords;
     }

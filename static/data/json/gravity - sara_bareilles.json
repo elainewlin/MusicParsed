@@ -1,98 +1,127 @@
 {
   "allChords": [
-    "F", 
-    "G", 
-    "C", 
-    "Am"
-  ], 
-  "artist": "Sara Bareilles", 
-  "id": "Gravity - Sara Bareilles", 
+    "C",
+    "Am",
+    "F",
+    "G"
+  ],
+  "artist": "Sara Bareilles",
+  "id": "Gravity - Sara Bareilles",
   "lines": [
     {
+      "label": "[Intro]"
+    },
+    {
+      "chord": "C Am",
+      "lyrics": ""
+    },
+    {
       "label": "[Verse]"
-    }, 
+    },
     {
-      "chord": "F                                       G", 
-      "lyrics": "Something always brings me back to you."
-    }, 
+      "chord": "F                            G",
+      "lyrics": " Something always brings me back to you."
+    },
     {
-      "chord": "C               Am", 
-      "lyrics": "It never takes too long."
-    }, 
+      "chord": "C                 Am",
+      "lyrics": " It never takes too long."
+    },
     {
-      "chord": "F                               G       C                                               Am", 
-      "lyrics": "No matter what I say or do I'll still feel you here 'til the moment I'm gone."
-    }, 
+      "chord": "F                  G",
+      "lyrics": " No matter what I say or do"
+    },
     {
-      "chord": "F                               G", 
-      "lyrics": "You hold me without touch."
-    }, 
+      "chord": "C                                        Am",
+      "lyrics": " I'll still feel you here 'til the moment I'm gone."
+    },
     {
-      "chord": "C                               Am", 
-      "lyrics": "You keep me without chains."
-    }, 
+      "chord": "F                G",
+      "lyrics": " You hold me without touch."
+    },
     {
-      "chord": "F                                       G                                       C", 
-      "lyrics": "I never wanted anything so much than to drown in your love and"
-    }, 
+      "chord": "C                   Am",
+      "lyrics": " You keep me without chains."
+    },
     {
-      "chord": "Am", 
-      "lyrics": "not feel your rain."
-    }, 
+      "chord": "F                    G",
+      "lyrics": " I never wanted anything so much"
+    },
+    {
+      "chord": "          C                          Am",
+      "lyrics": "Than to drown in your love and not feel your rain."
+    },
     {
       "label": "[Chorus]"
-    }, 
+    },
     {
-      "chord": "F               G                       C", 
-      "lyrics": "Set me free, leave me be. I don't want to fall another moment into"
-    }, 
+      "chord": "     F         G",
+      "lyrics": "Set me free, leave me be."
+    },
     {
-      "chord": "        Am", 
-      "lyrics": "your gravity."
-    }, 
+      "chord": "                 C                             Am",
+      "lyrics": "I don't want to fall another moment into your gravity."
+    },
     {
-      "chord": "F                       G       C                                               Am", 
+      "chord": "     F           G       C                               Am",
       "lyrics": "Here I am and I stand so tall, just the way I'm supposed to be."
-    }, 
+    },
     {
-      "chord": "F                       C", 
+      "chord": "F                       C",
       "lyrics": "But you're on to me and all over me."
-    }, 
+    },
     {
-      "chord": "F                                       G", 
-      "lyrics": "You loved me 'cause I'm fragile."
-    }, 
+      "label": "[Verse]"
+    },
     {
-      "chord": "C                                       Am", 
-      "lyrics": "When I thought that I was strong."
-    }, 
+      "chord": "F                    G",
+      "lyrics": " You loved me 'cause I'm fragile."
+    },
     {
-      "chord": "F                                       G               C                               Am", 
-      "lyrics": "But you touch me for a little while and all my fragile strength is gone."
-    }, 
+      "chord": "C                   Am",
+      "lyrics": " When I thought that I was strong."
+    },
+    {
+      "chord": "F                    G              C                      Am",
+      "lyrics": " But you touch me for a little while and all my fragile strength is gone."
+    },
     {
       "label": "[Chorus]"
-    }, 
+    },
     {
-      "chord": "F                                       G", 
-      "lyrics": "I live here on my knees as I try to make you see that you're"
-    }, 
+      "chord": "     F         G",
+      "lyrics": "Set me free, leave me be."
+    },
     {
-      "chord": "F", 
-      "lyrics": "everything I think I need here on"
-    }, 
+      "chord": "                 C                             Am",
+      "lyrics": "I don't want to fall another moment into your gravity."
+    },
     {
-      "chord": "Am", 
-      "lyrics": "The ground."
-    }, 
+      "chord": "     F           G       C                               Am",
+      "lyrics": "Here I am and I stand so tall, just the way I'm supposed to be."
+    },
     {
-      "chord": "F                                                       G", 
-      "lyrics": "But you're neither friend nor foe though I can't seem to let you go."
-    }, 
+      "chord": "F                       C",
+      "lyrics": "But you're on to me and all over me."
+    },
     {
-      "chord": "F G C Am", 
-      "lyrics": "The one thing that I still know is that you're keeping me down"
+      "label": "[Bridge]"
+    },
+    {
+      "chord": "F        G                     Am   G",
+      "lyrics": " I live here on my knees as I try to make you see that you're"
+    },
+    {
+      "chord": "F       G                     Am       G",
+      "lyrics": "Everything I think I need here on the ground."
+    },
+    {
+      "chord": "F                  G                      C               Am",
+      "lyrics": " But you're neither friend nor foe though I can't seem to let you go."
+    },
+    {
+      "chord": "F                   G                     C                Am",
+      "lyrics": " The one thing that I still know is that you're keeping me down"
     }
-  ], 
+  ],
   "title": "Gravity"
 }
