@@ -5,38 +5,35 @@ import "../../css/convert.css";
 import { Guitar, Ukulele, Note } from "./music.js";
 
 // Gets sequence of notes from the guitar chords
-var parseTab = function(instrument) {
-  var sequence = [];
-  var tab = $(".tab")[0].value.split("\n");
+const parseTab = function(instrument) {
+  const allNotes = [];
+  const tab = $(".tab")[0].value.split("\n");
 
-  var allStrings = tab.map(function(oneString) {
-    return oneString.split("");
-  });
+  for (let i = 0; i < instrument.stringCount; i++) {
+    // Note for the open string
+    const initialNote = instrument.notes[i];
 
-  for (var time = 0; time < allStrings[0].length; time++) {
-    var chord = [];
-    for (var i = 0; i < instrument.stringCount; i++) {
-      var oneString = allStrings[i];
-      var initialNote = instrument.notes[i];
+    // All notes played on one string
+    var oneString = tab[i];
 
-      // left-align chords
-      if (!Number.isInteger(parseInt(oneString[time - 1]))) {
-        var oneDigit = parseInt(oneString[time]);
-        var twoDigit = parseInt(oneString[time] + oneString[time + 1]);
+    const digits = new RegExp(/\d+/, "g");
+    oneString.replace(digits, function(fret, time) {
+      allNotes.push(Note(initialNote, parseInt(fret), time));
+    })
+  }
 
-        if (Number.isInteger(oneDigit)) {
-          if (Number.isInteger(twoDigit)) {
-            chord.push(Note(initialNote, twoDigit, time));
-          } else {
-            chord.push(Note(initialNote, twoDigit, time));
-          }
-        }
-      }
+  const timeToNotes = {};
+  allNotes.map(note => {
+    if (note.time in timeToNotes) {
+      timeToNotes[note.time].push(note)
+    } else {
+      timeToNotes[note.time] = [note]
     }
+  })
 
-    if (chord.length > 0) {
-      sequence.push(chord);
-    }
+  const sequence = [];
+  for(let time in timeToNotes) {
+    sequence.push(timeToNotes[time]);
   }
 
   return sequence;
@@ -76,7 +73,7 @@ var printTab = function(instrument, sequence) {
     }
   }
 
-  var newTab = $(".tab.converted").html();
+  var newTab = "";
 
   strings.map(function(oneString) {
     newTab += oneString.join("") + "\n";

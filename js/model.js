@@ -21,7 +21,7 @@ const minorChord = "m?(?!aj)";
 const simpleChordRegex = new RegExp(`^(?!/)${noteString}${minorChord}`, "g");
 
 String.prototype.replaceAt = function(index, replacement) {
-  return this.substr(0, index) + replacement+ this.substr(index + replacement.length);
+  return this.substr(0, index) + replacement + this.substr(index + replacement.length);
 };
 
 const constructChord = function(totalLength, chords, offsets) {
