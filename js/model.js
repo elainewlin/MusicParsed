@@ -18,7 +18,7 @@ const noteRegex = new RegExp(noteString, "g");
 const minorChord = "m?(?!aj)";
 
 // matches everything that does not follow a /
-const simpleChordRegex = new RegExp(`(?<=^|[^/])${noteString}${minorChord}`, "g");
+const simpleChordRegex = new RegExp(`^(?!/)${noteString}${minorChord}`, "g");
 
 String.prototype.replaceAt = function(index, replacement) {
   return this.substr(0, index) + replacement+ this.substr(index + replacement.length);
@@ -38,10 +38,13 @@ const simplifyChord = function(chord) {
   const chords = [];
   const offsets = [];
 
-  chord.replace(simpleChordRegex, function(pitch, offset) {
-    chords.push(pitch);
+  const chordBoundary = new RegExp(/\S+/, "g");
+  chord.replace(chordBoundary, function(originalChord, offset) {
+    const simpleChord = originalChord.match(simpleChordRegex)[0];
+    chords.push(simpleChord);
     offsets.push(offset);
   });
+
   return constructChord(chord.length, chords, offsets);
 };
 
