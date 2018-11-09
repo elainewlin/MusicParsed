@@ -1,4 +1,4 @@
-var OCTAVE = ["C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"];
+const OCTAVE = ["C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"];
 
 export var Ukulele = function() {
   var that = Object.create(Ukulele.prototype);

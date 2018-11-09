@@ -42,79 +42,64 @@ const parseTab = function(instrument) {
 var printTab = function(instrument, sequence) {
   var strings = [];
   for (var i = 0; i < instrument.stringCount; i++) {
-    strings.push([]);
+    strings.push("");
   }
 
-  for (var time in sequence) {
-    var chord = sequence[time];
+  for (let time in sequence) {
+    const chord = sequence[time];
 
     for (let i in chord) {
-      var note = chord[i];
-      var stringIndex = instrument.notes.indexOf(note.initialString);
-      var numBlanks = note.time - strings[stringIndex].length;
+      const note = chord[i];
+      const stringIndex = instrument.notes.indexOf(note.initialString);
+      const numBlanks = note.time - strings[stringIndex].length;
 
-      for (let j = 0; j < numBlanks; j++) {
-        strings[stringIndex].push("-");
-      }
-
-      const fret = note.fret.toString();
-      for (let j = 0; j < fret.length; j++) {
-        strings[stringIndex].push(fret[j]);
-      }
+      strings[stringIndex] += Array(numBlanks).join("-");
+      strings[stringIndex] += note.fret.toString();
     }
   }
 
-  var maxLength = Math.max(...strings.map(oneString => oneString.length));
-
+  const maxLength = Math.max(...strings.map(oneString => oneString.length));
   for (let i = 0; i < instrument.stringCount; i++) {
     const numBlanks = maxLength - strings[i].length;
-    for (let j = 0; j < numBlanks; j++) {
-      strings[i].push("-");
-    }
+    strings[i] += Array(numBlanks).join("-");
   }
 
-  var newTab = "";
-
-  strings.map(function(oneString) {
-    newTab += oneString.join("") + "\n";
-  });
+  const newTab = strings.join("\n");
   $(".tab.converted").html(newTab);
 
 };
 
-var ukeToGuitar = function() {
-  var sequence = parseTab(Ukulele());
-  var guitarSequence = [];
-  for (var time in sequence) {
-    var chord = sequence[time];
-    var guitarChord = [];
-
-    for (let i in chord) {
-      const note = chord[i];
-      guitarChord.push(note.toGuitar());
-    }
-    guitarSequence.push(guitarChord);
+const convertNote = function(note, newInstrument) {
+  if (newInstrument instanceof Guitar) {
+    return note.toGuitar();
   }
-  printTab(Guitar(), guitarSequence);
-};
-
-var guitarToUke = function() {
-  var sequence = parseTab(Guitar());
-  var ukeSequence = [];
-  for (var time in sequence) {
-    var chord = sequence[time];
-    var ukeChord = [];
-
-    for (let i in chord) {
-      const note = chord[i];
-      ukeChord.push(note.toUkulele());
-    }
-    ukeSequence.push(ukeChord);
+  if (newInstrument instanceof Ukulele) {
+    return note.toUkulele();
   }
-  printTab(Ukulele(), ukeSequence);
-};
+}
 
-var convertFunction = guitarToUke;
+const convertTab = function(oldInstrument, newInstrument) {
+  const oldSequence = parseTab(oldInstrument);
+
+  const newSequence = [];
+  for (let time in oldSequence) {
+    const oldChord = oldSequence[time];
+    const newChord = [];
+
+    for (let i in oldChord) {
+      const oldNote = oldChord[i];
+      const newNote = convertNote(oldNote, newInstrument);
+      newChord.push(newNote);
+    }
+    newSequence.push(newChord);
+  }
+  printTab(newInstrument, newSequence);
+}
+
+const ukeToGuitar = () => convertTab(Ukulele(), Guitar());
+const guitarToUke = () => convertTab(Guitar(), Ukulele());
+
+let convertFunction = guitarToUke;
 
 $("#toUkulele").click(function() {
   $(".fromInstrument").html("guitar");
@@ -123,8 +108,8 @@ $("#toUkulele").click(function() {
 });
 
 $("#toGuitar").click(function() {
-  $(".toInstrument").html("guitar");
   $(".fromInstrument").html("ukulele");
+  $(".toInstrument").html("guitar");
   convertFunction = ukeToGuitar;
 });
 
