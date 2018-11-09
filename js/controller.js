@@ -43,12 +43,6 @@ const loadChordOptionButtons = function() {
   });
 };
 
-const updateTranspose = function(transposeAmount) {
-  songView.setTranspose(transposeAmount);
-  window.history.replaceState({"id": songView.getId(), "transpose": transposeAmount}, "", `?transpose=${transposeAmount}`);
-  rerender();
-};
-
 const loadTransposeButtons = function() {
   const transposeButtons = [];
 
@@ -73,7 +67,10 @@ const loadTransposeButtons = function() {
   const transposeWidget = getWidget(TRANSPOSE);
 
   transposeWidget.change(function(e) {
-    updateTranspose(e.target.value);
+    const transposeAmount = e.target.value;
+    songView.setTranspose(transposeAmount);
+    window.history.replaceState({"id": songView.getId(), "transpose": transposeAmount}, "", `?transpose=${transposeAmount}`);
+    rerender();
   });
 };
 
@@ -203,7 +200,8 @@ $(document).ready(function() {
   // Capo
   $("#capo").click(function() {
     const capo = songView.getCapo();
-    updateTranspose(capo);
+    songView.setTranspose(capo);
+    rerender();
     $("#capo").hide();
   });
 
