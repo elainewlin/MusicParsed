@@ -17,8 +17,11 @@ const getWidget = function(type) {
 };
 
 const selectButton = function(type, value) {
-  $(`#${type}`).find("label").removeClass("active");
-  $(`#${type}-${value}`).addClass("active").find("input").prop("checked", true);
+  const buttonToSelect = $(`#${type}-${value}`);
+  if (!buttonToSelect.find("input").prop("checked")) {
+    $(`#${type}`).find("label").removeClass("active");
+    buttonToSelect.addClass("active").find("input").prop("checked", true);
+  }
 };
 
 const loadChordOptionButtons = function() {
@@ -61,8 +64,7 @@ const loadTransposeButtons = function() {
   }
   document.getElementById(TRANSPOSE).innerHTML = buttonTemplate({ buttons: transposeButtons });
 
-  const transpose = songView.getTranspose();
-  selectButton(TRANSPOSE, transpose);
+  renderTranspose();
 
   const transposeWidget = getWidget(TRANSPOSE);
 
@@ -185,6 +187,11 @@ export var loadWidgets = function() {
 
   // Orientation toggle
   loadOrientationButtons();
+};
+
+export const renderTranspose = function() {
+  const transpose = songView.getTranspose();
+  selectButton(TRANSPOSE, transpose);
 };
 
 
