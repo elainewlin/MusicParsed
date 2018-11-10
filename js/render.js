@@ -1,7 +1,7 @@
 import $ from "jquery";
 import "jquery-ui/ui/widgets/autocomplete";
 import "jquery-ui/themes/base/all.css";
-import { loadWidgets } from "./controller.js";
+import { loadWidgets, renderTranspose } from "./controller.js";
 import { pitchToFifths, songView } from "./model.js";
 import chordsTemplate from "../mustache/chords.mustache";
 import songTemplate from "../mustache/song.mustache";
@@ -201,6 +201,7 @@ export var rerender = function() {
   $("#title").text(fullName);
 
   document.getElementById("song").innerHTML = songTemplate(data);
+  renderTranspose();
   renderChords();
 };
 
