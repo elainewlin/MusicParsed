@@ -19,17 +19,17 @@ const parseTab = function(instrument) {
     const digits = new RegExp(/\d+/, "g");
     oneString.replace(digits, function(fret, time) {
       allNotes.push(Note(initialNote, parseInt(fret), time));
-    })
+    });
   }
 
   const timeToNotes = {};
   allNotes.map(note => {
     if (note.time in timeToNotes) {
-      timeToNotes[note.time].push(note)
+      timeToNotes[note.time].push(note);
     } else {
-      timeToNotes[note.time] = [note]
+      timeToNotes[note.time] = [note];
     }
-  })
+  });
 
   const sequence = [];
   for(let time in timeToNotes) {
@@ -76,7 +76,7 @@ const convertNote = function(note, newInstrument) {
   if (newInstrument instanceof Ukulele) {
     return note.toUkulele();
   }
-}
+};
 
 const convertTab = function(oldInstrument, newInstrument) {
   const oldSequence = parseTab(oldInstrument);
@@ -94,7 +94,7 @@ const convertTab = function(oldInstrument, newInstrument) {
     newSequence.push(newChord);
   }
   printTab(newInstrument, newSequence);
-}
+};
 
 const ukeToGuitar = () => convertTab(Ukulele(), Guitar());
 const guitarToUke = () => convertTab(Guitar(), Ukulele());

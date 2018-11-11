@@ -4,7 +4,7 @@ import "jquery-ui/themes/base/all.css";
 import { loadWidgets, renderTranspose } from "./controller.js";
 import { pitchToFifths, songView } from "./model.js";
 import chordsTemplate from "../mustache/chords.mustache";
-import songTemplate from "../mustache/song.mustache";
+// import songTemplate from "../mustache/song.mustache";
 
 const guitarChords = [
   /* C  */
@@ -195,12 +195,68 @@ const renderCapo = function() {
   }
 };
 
+/**
+offsetToChords is a mapping between the string offsets to the chords
+lyrics is a lyric line
+i.e.
+Dm      G
+Hello world
+would have offsetToChord = {0: "Dm", 8: "G"}, lyrics = "Hello world"
+*/
+const renderChordLyricLine = function(chordString, lyrics) {
+  let className = "line";
+
+  if (chordString.length > 0 && lyrics.length > 0) {
+    className = "chordLyricLine";
+  }
+  const chordBoundary = new RegExp(/\S+/, "g");
+
+  const offsetToChordMapping = {};
+  let maxOffset = 0;
+  chordString.replace(chordBoundary, function(chord, offset) {
+    maxOffset = Math.max(maxOffset, offset);
+    offsetToChordMapping[offset] = chord;
+  });
+
+  let newLyrics = "";
+  lyrics = $.trim(lyrics);
+  lyrics = lyrics.padEnd(maxOffset);
+  let lyricStartIndex = 0;
+  for (let offset in offsetToChordMapping) {
+    const chord = offsetToChordMapping[offset];
+    newLyrics += lyrics.slice(lyricStartIndex, offset); 
+    newLyrics += `<span class="chords">${chord}</span>`;
+    lyricStartIndex = offset;
+  }
+  newLyrics += lyrics.slice(lyricStartIndex);
+
+  
+
+  newLyrics = `<div class=${className}>${newLyrics}</div>`;
+  return newLyrics;
+};
+
+const renderLines = function(lines) {
+  let songString = "";
+
+  lines.map((line) => {
+    if ("label" in line) {
+      songString += `<h5>${line["label"]}</h5>`;
+    } else {
+      const chordString = line["chord"];
+      const lyrics = line["lyrics"];
+      songString += renderChordLyricLine(chordString, lyrics);
+    }
+  });
+  return songString;
+};
+
 export var rerender = function() {
   const data = songView.getData();
   const fullName = songView.getFullSongName();
   $("#title").text(fullName);
 
-  document.getElementById("song").innerHTML = songTemplate(data);
+  document.getElementById("song").innerHTML = renderLines(data["lines"]); //songTemplate(data);
   renderTranspose();
   renderChords();
 };
