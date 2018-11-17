@@ -195,53 +195,44 @@ const renderCapo = function() {
   }
 };
 
-/**
-offsetToChords is a mapping between the string offsets to the chords
-lyrics is a lyric line
-i.e.
-Dm      G
-Hello world
-would have offsetToChord = {0: "Dm", 8: "G"}, lyrics = "Hello world"
-*/
 const renderChordLyricLine = function(chordString, lyrics) {
   let className = "line";
 
   if (chordString.length > 0 && lyrics.length > 0) {
     className = "chordLyricLine";
   }
+
+  /**
+  Keep track of the chords + their offset positions in the string i.e.
+  Dm      G
+  Hello world
+  has offset + chords (0, "Dm"), (8, "G")
+  */
   const chordBoundary = new RegExp(/\S+/, "g");
 
-  const offsetToChordMapping = [];
-  let maxOffset = 0;
+  const offsetChordPairs = [];
   chordString.replace(chordBoundary, function(chord, offset) {
-    maxOffset = Math.max(maxOffset, offset);
-    offsetToChordMapping.push({offset: offset, chord: chord});
+    offsetChordPairs.push({offset, chord});
   });
+  if (offsetChordPairs.length === 0 || offsetChordPairs[0].offset !== 0) {
+    offsetChordPairs.unshift({offset: 0, chord: null});
+  }
+  const maxOffset = offsetChordPairs[offsetChordPairs.length - 1].offset;
+
+  lyrics = lyrics.padEnd(maxOffset);
+  offsetChordPairs.push({offset: lyrics.length, chord: null});
 
   let chordLyricPairs = [];
-  lyrics = $.trim(lyrics);
-  lyrics = lyrics.padEnd(maxOffset);
-  let lyricStartIndex = 0;
-  let lastChord = null;
-  offsetToChordMapping.forEach((offsetChord) => {
-    const offset = offsetChord.offset;
-    const chord = offsetChord.chord;
-    let lyric = lyrics.slice(lyricStartIndex, offset);
-    if (className === "line" && lastChord !== null) {
-      lyric = lyric.slice(lastChord.length);
-    }
-    chordLyricPairs.push({
-      chord: lastChord,
-      lyric: lyric,
-    });
-    lyricStartIndex = offset;
-    lastChord = chord;
-  });
 
-  chordLyricPairs.push({
-    chord: lastChord,
-    lyric: lyrics.slice(lyricStartIndex),
-  });
+  for (let i = 0; i < offsetChordPairs.length - 1; i++) {
+    const {offset: lastOffset, chord} = offsetChordPairs[i];
+    const nextOffset = offsetChordPairs[i + 1].offset;
+    let lyric = lyrics.slice(lastOffset, nextOffset);
+    if (className === "line" && chord !== null) {
+      lyric = lyric.slice(chord.length);
+    }
+    chordLyricPairs.push({chord, lyric});
+  }
 
   return {
     className: className,
