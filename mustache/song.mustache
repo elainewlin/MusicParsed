@@ -1,11 +1,8 @@
 {{#lines}}
   {{#label}}
-    <h4>{{label}}</h4>
+    <h5>{{label}}</h5>
   {{/label}}
   {{^label}}
-    <div class="line">
-      <div class="chords"><span>{{chord}}</span></div>
-      <span class="lyrics">{{lyrics}}</span>
-    </div>
+    <div class="{{className}}">{{#chordLyricPairs}}{{#chord}}<span class="chords"><span>{{chord}}</span></span>{{/chord}}{{lyric}}{{/chordLyricPairs}}</div>
   {{/label}}
 {{/lines}}

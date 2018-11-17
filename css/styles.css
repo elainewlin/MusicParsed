@@ -35,7 +35,29 @@
 .line {
   font-family: "DejaVu Sans Mono", monospace;
   font-size: 16px;
-  break-inside: avoid-column;
+  line-height: 1.5em;
+  white-space: pre-wrap;
+}
+
+.chordLyricLine {
+  font-family: "DejaVu Sans Mono", monospace;
+  font-size: 16px;
+  white-space: pre-wrap;
+}
+
+.chords {
+  color: var(--main-blue);
+}
+
+.chordLyricLine .chords {
+  position: relative;
+  height: 2.7em;
+  display: inline-block;
+  vertical-align: text-bottom;
+}
+
+.chordLyricLine .chords span {
+  position: absolute;
 }
 
 #song {
@@ -70,11 +92,6 @@ html#songPage body {
   padding: 10px;
 }
 
-.chords {
-  display: block;
-  white-space: pre;
-  color: var(--main-blue);
-}
 
 #chordPicBox {
   position: relative;

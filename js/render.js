@@ -195,12 +195,76 @@ const renderCapo = function() {
   }
 };
 
+const renderChordLyricLine = function(chordString, lyrics) {
+  let className = "line";
+
+  if (chordString.length > 0 && lyrics.length > 0) {
+    className = "chordLyricLine";
+  }
+
+  /**
+  Keep track of the chords + their offset positions in the string i.e.
+  Dm      G
+  Hello world
+  has offset + chords (0, "Dm"), (8, "G")
+  */
+  const chordBoundary = new RegExp(/\S+/, "g");
+
+  const offsetChordPairs = [];
+  chordString.replace(chordBoundary, function(chord, offset) {
+    offsetChordPairs.push({offset, chord});
+  });
+  if (offsetChordPairs.length === 0 || offsetChordPairs[0].offset !== 0) {
+    offsetChordPairs.unshift({offset: 0, chord: null});
+  }
+  const maxOffset = offsetChordPairs[offsetChordPairs.length - 1].offset;
+
+  lyrics = lyrics.padEnd(maxOffset);
+  offsetChordPairs.push({offset: lyrics.length, chord: null});
+
+  let chordLyricPairs = [];
+
+  for (let i = 0; i < offsetChordPairs.length - 1; i++) {
+    const {offset: lastOffset, chord} = offsetChordPairs[i];
+    const nextOffset = offsetChordPairs[i + 1].offset;
+    let lyric = lyrics.slice(lastOffset, nextOffset);
+    if (className === "line" && chord !== null) {
+      lyric = lyric.slice(chord.length);
+    }
+    chordLyricPairs.push({chord, lyric});
+  }
+
+  return {
+    className: className,
+    chordLyricPairs: chordLyricPairs,
+  };
+};
+
+const renderLines = function(lines) {
+  let newLines = [];
+
+  lines.map((line) => {
+    if ("label" in line) {
+      newLines.push({
+        label: line["label"],
+      });
+    } else {
+      const chordString = line["chord"];
+      const lyrics = line["lyrics"];
+      newLines.push(renderChordLyricLine(chordString, lyrics));
+    }
+  });
+  return newLines;
+};
+
 export var rerender = function() {
   const data = songView.getData();
   const fullName = songView.getFullSongName();
   $("#title").text(fullName);
 
-  document.getElementById("song").innerHTML = songTemplate(data);
+  document.getElementById("song").innerHTML = songTemplate({
+    lines: renderLines(data["lines"])
+  }); 
   renderTranspose();
   renderChords();
 };
