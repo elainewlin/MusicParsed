@@ -42,9 +42,7 @@
 .chordLyricLine {
   font-family: "DejaVu Sans Mono", monospace;
   font-size: 16px;
-  line-height: 3em;
   white-space: pre-wrap;
-  margin: 0.75em 0 -0.75em;
 }
 
 .chords {
@@ -52,7 +50,13 @@
 }
 
 .chordLyricLine .chords {
-  line-height: 0;
+  position: relative;
+  height: 2.7em;
+  display: inline-block;
+  vertical-align: text-bottom;
+}
+
+.chordLyricLine .chords span {
   position: absolute;
 }
 
