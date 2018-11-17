@@ -4,7 +4,7 @@ import "jquery-ui/themes/base/all.css";
 import { loadWidgets, renderTranspose } from "./controller.js";
 import { pitchToFifths, songView } from "./model.js";
 import chordsTemplate from "../mustache/chords.mustache";
-// import songTemplate from "../mustache/song.mustache";
+import songTemplate from "../mustache/song.mustache";
 
 const guitarChords = [
   /* C  */
@@ -211,44 +211,59 @@ const renderChordLyricLine = function(chordString, lyrics) {
   }
   const chordBoundary = new RegExp(/\S+/, "g");
 
-  const offsetToChordMapping = {};
+  const offsetToChordMapping = [];
   let maxOffset = 0;
   chordString.replace(chordBoundary, function(chord, offset) {
     maxOffset = Math.max(maxOffset, offset);
-    offsetToChordMapping[offset] = chord;
+    offsetToChordMapping.push({offset: offset, chord: chord});
   });
 
-  let newLyrics = "";
+  let chordLyricPairs = [];
   lyrics = $.trim(lyrics);
   lyrics = lyrics.padEnd(maxOffset);
   let lyricStartIndex = 0;
-  for (let offset in offsetToChordMapping) {
-    const chord = offsetToChordMapping[offset];
-    newLyrics += lyrics.slice(lyricStartIndex, offset); 
-    newLyrics += `<span class="chords">${chord}</span>`;
+  let lastChord = null;
+  offsetToChordMapping.forEach((offsetChord) => {
+    const offset = offsetChord.offset;
+    const chord = offsetChord.chord;
+    let lyric = lyrics.slice(lyricStartIndex, offset);
+    if (className === "line" && lastChord !== null) {
+      lyric = lyric.slice(lastChord.length);
+    }
+    chordLyricPairs.push({
+      chord: lastChord,
+      lyric: lyric,
+    });
     lyricStartIndex = offset;
-  }
-  newLyrics += lyrics.slice(lyricStartIndex);
+    lastChord = chord;
+  });
 
-  
+  chordLyricPairs.push({
+    chord: lastChord,
+    lyric: lyrics.slice(lyricStartIndex),
+  });
 
-  newLyrics = `<div class=${className}>${newLyrics}</div>`;
-  return newLyrics;
+  return {
+    className: className,
+    chordLyricPairs: chordLyricPairs,
+  };
 };
 
 const renderLines = function(lines) {
-  let songString = "";
+  let newLines = [];
 
   lines.map((line) => {
     if ("label" in line) {
-      songString += `<h5>${line["label"]}</h5>`;
+      newLines.push({
+        label: line["label"],
+      });
     } else {
       const chordString = line["chord"];
       const lyrics = line["lyrics"];
-      songString += renderChordLyricLine(chordString, lyrics);
+      newLines.push(renderChordLyricLine(chordString, lyrics));
     }
   });
-  return songString;
+  return newLines;
 };
 
 export var rerender = function() {
@@ -256,7 +271,9 @@ export var rerender = function() {
   const fullName = songView.getFullSongName();
   $("#title").text(fullName);
 
-  document.getElementById("song").innerHTML = renderLines(data["lines"]); //songTemplate(data);
+  document.getElementById("song").innerHTML = songTemplate({
+    lines: renderLines(data["lines"])
+  }); 
   renderTranspose();
   renderChords();
 };
