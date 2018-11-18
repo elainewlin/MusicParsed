@@ -228,10 +228,11 @@ const renderChordLyricLine = function(chordString, lyrics) {
     const {offset: lastOffset, chord} = offsetChordPairs[i];
     const nextOffset = offsetChordPairs[i + 1].offset;
     let lyric = lyrics.slice(lastOffset, nextOffset);
-    if (className === "line" && chord !== null) {
-      lyric = lyric.slice(chord.length);
+    if (chord === null || /[^ ]/.test(lyric.slice(0, chord.length + 1))) {
+      chordLyricPairs.push({chord, lyric, overLyric: true});
+    } else {
+      chordLyricPairs.push({chord, lyric: lyric.slice(chord.length)});
     }
-    chordLyricPairs.push({chord, lyric});
   }
 
   return {

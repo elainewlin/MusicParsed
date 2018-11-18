@@ -56,7 +56,7 @@
   vertical-align: text-bottom;
 }
 
-.chordLyricLine .chords span {
+.chordLyricLine .chords .overLyric {
   position: absolute;
 }
 
