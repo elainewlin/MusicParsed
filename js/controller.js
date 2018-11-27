@@ -227,4 +227,84 @@ $(document).ready(function() {
   });
   viewToggle.tooltip();
 
+  // Copy and paste
+  document.addEventListener("copy", function(event) {
+    const selection = document.getSelection();
+
+    let mangle = false;
+    const ranges = [];
+    for (let i = 0; i < selection.rangeCount; i++) {
+      const range = selection.getRangeAt(i);
+      const container = range.commonAncestorContainer.cloneNode(false);
+      container.appendChild(range.cloneContents());
+      const chords = container.querySelectorAll(".chords");
+      if (chords.length) {
+        mangle = true;
+      }
+      ranges.push({ range, container, chords });
+    }
+    if (!mangle) {
+      return;
+    }
+
+    const containers = document.createElement("div");
+    document.body.appendChild(containers);
+    try {
+      selection.removeAllRanges();
+
+      for (const { container, chords } of ranges) {
+        containers.appendChild(container);
+
+        for (const chord of chords) {
+          const parent = chord.parentNode;
+          let fakeChordLine = parent.firstChild;
+          if (
+            !fakeChordLine.classList ||
+            !fakeChordLine.classList.contains("fakeChordLine")
+          ) {
+            fakeChordLine = document.createElement("div");
+            fakeChordLine.classList.add("fakeChordLine");
+            parent.insertBefore(fakeChordLine, parent.firstChild);
+          }
+
+          const chordText = chord.textContent;
+          const range = document.createRange();
+          range.setStartAfter(fakeChordLine);
+          range.setEndBefore(chord);
+          let chords = fakeChordLine.textContent;
+          if (chords) {
+            chords += " ";
+          }
+          fakeChordLine.textContent =
+            chords.padEnd([...range.toString()].length) + chordText;
+
+          if (
+            chord.firstChild.classList &&
+            chord.firstChild.classList.contains("overLyric")
+          ) {
+            parent.removeChild(chord);
+          } else {
+            parent.replaceChild(
+              document.createTextNode("".padEnd([...chordText].length)),
+              chord
+            );
+          }
+        }
+
+        const range = document.createRange();
+        range.selectNodeContents(container);
+        selection.addRange(range);
+      }
+
+      event.clipboardData.setData("text/plain", selection.toString());
+      event.preventDefault();
+    } finally {
+      document.body.removeChild(containers);
+      selection.removeAllRanges();
+      for (const { range } of ranges) {
+        selection.addRange(range);
+      }
+    }
+  });
+
 });
