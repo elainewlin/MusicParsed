@@ -45,6 +45,10 @@
   white-space: pre-wrap;
 }
 
+.fakeChordLine {
+  white-space: pre-wrap;
+}
+
 .chords {
   color: var(--main-blue);
 }
