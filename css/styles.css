@@ -78,7 +78,7 @@
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
-  height: calc(100%-46px);
+  height: calc(100% - 46px);
   padding: 0 10px;
 }
 
