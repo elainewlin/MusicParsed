@@ -226,5 +226,89 @@ $(document).ready(function() {
     }
   });
   viewToggle.tooltip();
+});
 
+// Copy and paste
+document.addEventListener("copy", function(event) {
+  const selection = document.getSelection();
+
+  let mangle = false; // whether the selection contains chords
+  const ranges = [];
+  for (let i = 0; i < selection.rangeCount; i++) {
+    const range = selection.getRangeAt(i);
+    const container = range.commonAncestorContainer.cloneNode(false);
+    container.appendChild(range.cloneContents());
+    const chords = container.querySelectorAll(".chords");
+    if (chords.length) {
+      mangle = true;
+    }
+    ranges.push({ range, container, chords });
+  }
+  if (!mangle) {
+    return;
+  }
+
+  const containers = document.createElement("div");
+  document.body.appendChild(containers);
+  try {
+    selection.removeAllRanges();
+
+    for (const { container, chords } of ranges) {
+      containers.appendChild(container);
+
+      for (const chord of chords) {
+        // Re-construct the old chord lyric implementation </3
+        const parent = chord.parentNode;
+        let fakeChordLine = parent.firstChild;
+        if (
+          !fakeChordLine.classList ||
+          !fakeChordLine.classList.contains("fakeChordLine")
+        ) {
+          fakeChordLine = document.createElement("div");
+          fakeChordLine.classList.add("fakeChordLine");
+          parent.insertBefore(fakeChordLine, parent.firstChild);
+        }
+
+        const chordText = chord.textContent;
+        const range = document.createRange();
+        range.setStartAfter(fakeChordLine);
+        range.setEndBefore(chord);
+        let chords = fakeChordLine.textContent;
+        if (chords) {
+          chords += " ";
+        }
+
+        // Odd logic to account for odd character e.g. double sharp
+        const chordPosition = [...range.toString()].length;
+        fakeChordLine.textContent = chords.padEnd(chordPosition) + chordText;
+
+        if (
+          chord.firstChild.classList &&
+          chord.firstChild.classList.contains("overLyric")
+        ) {
+          parent.removeChild(chord);
+        } else {
+          const chordLength = [...chordText].length;
+          parent.replaceChild(
+            document.createTextNode("".padEnd(chordLength)),
+            chord
+          );
+        }
+      }
+
+      const range = document.createRange();
+      range.selectNodeContents(container);
+      selection.addRange(range);
+    }
+
+    event.clipboardData.setData("text/plain", selection.toString());
+    event.preventDefault(); // No jarble here
+  } finally {
+    // Clean up DOM so we don't get abstract art
+    document.body.removeChild(containers);
+    selection.removeAllRanges();
+    for (const { range } of ranges) {
+      selection.addRange(range);
+    }
+  }
 });
