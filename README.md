@@ -2,9 +2,8 @@
 
 Start local server: 
 
-```python app.py ```
-
-```npm install```
+    npm install
+    node app.js
 
 Template documentation
 * Use Mustache for rendering HTML templates from JSON files
