@@ -1,4 +1,4 @@
-import "babel-polyfill";
+import "@babel/polyfill";
 import $ from "jquery";
 import { songView } from "./model.js";
 import { loadInstrumentButtons, loadOrientationButtons } from "./controller.js";

@@ -1,8 +1,10 @@
 const path = require("path");
 const webpack = require("webpack");
 const CleanWebpackPlugin = require("clean-webpack-plugin");
+const MiniCssExtractPlugin = require("mini-css-extract-plugin");
+const OptimizeCssAssetsPlugin = require("optimize-css-assets-webpack-plugin");
+const TerserPlugin = require("terser-webpack-plugin");
 const WebpackManifestPlugin = require("webpack-manifest-plugin");
-const ExtractTextPlugin = require("extract-text-webpack-plugin");
 
 module.exports = {
   entry: {
@@ -13,7 +15,7 @@ module.exports = {
     global: "./css/global.css",
   },
   output: {
-    filename: "[name].[chunkhash].bundle.js",
+    filename: "[name].[contenthash].bundle.js",
     path: path.resolve(__dirname, "static", "dist"),
     publicPath: "/static/dist/"
   },
@@ -27,17 +29,16 @@ module.exports = {
       loader: "mustache-loader"
     }, {
       test: /\.css$/,
-      use: ExtractTextPlugin.extract({
-        fallback: "style-loader",
-        use: [{
+      use: [
+        MiniCssExtractPlugin.loader, {
           loader: "css-loader",
           options: {
             importLoaders: 1,
           },
         }, {
           loader: "postcss-loader",
-        }],
-      }),
+        }
+      ],
     }, {
       test: /\.(eot|png|svg|ttf|woff|woff2)$/,
       loader: "url-loader",
@@ -46,12 +47,21 @@ module.exports = {
       }
     }]
   },
+  optimization: {
+    minimizer: [
+      new OptimizeCssAssetsPlugin,
+      new TerserPlugin,
+    ],
+  },
   plugins: [
     new CleanWebpackPlugin(["static/dist"]),
+    new MiniCssExtractPlugin({
+      filename: "[name].[contenthash].css",
+      chunkFilename: "[id].[contenthash].css",
+    }),
     new WebpackManifestPlugin({
       publicPath: "/static/dist/"
     }),
-    new ExtractTextPlugin("[name].[contenthash].css"),
     new webpack.ProvidePlugin({
       jQuery: "jquery"
     })
