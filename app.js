@@ -77,7 +77,7 @@ app.get("/song/:artist/:title", (req, res) =>
   res.render("index", {
     title: req.params.title,
     artist: req.params.artist,
-    transpose: req.query.transpose || 0,
+    transpose: req.query.transpose | 0,
   })
 );
 
