@@ -333,5 +333,5 @@ if __name__ == "__main__":
     textParser.getAllSongs()
 
     imovieParser = ImovieParser(
-        "layla - eric_clapton.json")
-    # imovieParser.jsonToImovie()
+        "without_me - halsey.json")
+    imovieParser.jsonToImovie()
