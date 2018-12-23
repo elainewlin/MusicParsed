@@ -47,6 +47,7 @@ module.exports = {
       }
     }]
   },
+  node: false,
   optimization: {
     minimizer: [
       new OptimizeCssAssetsPlugin,
