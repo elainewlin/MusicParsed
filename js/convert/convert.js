@@ -1,4 +1,3 @@
-import "@babel/polyfill";
 import $ from "jquery";
 import "bootstrap/js/dist/button";
 import "../../css/convert.css";
