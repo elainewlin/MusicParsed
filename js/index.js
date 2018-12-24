@@ -1,4 +1,3 @@
-import "@babel/polyfill";
 import $ from "jquery";
 import { initRender, popStateHandler} from "./render.js";
 import "bootstrap/dist/css/bootstrap.min.css";
