@@ -10,6 +10,7 @@ $(document).ready(function() {
   loadInstrumentButtons({showNone: false});
   loadOrientationButtons();
   songView.setSong({"allChords": ["Am", "F", "C", "G"], "lines": []});
+  songView.setTranspose(0);
   renderChords();
 
   $("#renderChords").click(function() {
