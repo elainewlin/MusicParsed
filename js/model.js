@@ -29,7 +29,7 @@ const constructChord = function(totalLength, chords, offsets) {
   for(let i = 0; i < offsets.length; i++) {
     blankChord = blankChord.replaceAt(offsets[i], chords[i]);
   }
-  return blankChord.trimEnd();
+  return blankChord;
 };
 
 // Make complicated chords easier for beginners
