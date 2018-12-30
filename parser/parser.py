@@ -287,8 +287,15 @@ class ImovieParser:
         if len(lyricLine) == 0:
             return chordLine
 
+        if len(lyricLine) > self.MAX_LINE_LENGTH:
+            print("<<The next line is too long>>")
+
         chords = chordLine.split()
-        chordIndices = [chordLine.index(chord) for chord in chords]
+        chordIndices = []
+        for i, letter in enumerate(chordLine):
+            if letter != " ":
+                if (i == 0 or (i > 0 and chordLine[i - 1] == " ")):
+                    chordIndices.append(i)
 
         newChordLine = ""
         newChordLine += chords[0]
@@ -299,6 +306,10 @@ class ImovieParser:
             numSpaces = currPos - prevPos
 
             newNumSpaces = round(self.SPACE_MULTIPLIER * numSpaces)
+
+            if currPos > len(lyricLine):
+                newNumSpaces = 1
+            newNumSpaces = max(1, newNumSpaces)
             newChordLine += " " * newNumSpaces + chords[i]
 
         return "{}\n{}".format(newChordLine, lyricLine)
@@ -333,5 +344,5 @@ if __name__ == "__main__":
     textParser.getAllSongs()
 
     imovieParser = ImovieParser(
-        "without_me - halsey.json")
-    # imovieParser.jsonToImovie()
+        "drive - oh_wonder.json")
+    imovieParser.jsonToImovie()
