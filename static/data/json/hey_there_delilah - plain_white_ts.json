@@ -1,186 +1,226 @@
 {
   "allChords": [
-    "D", 
-    "F#m", 
-    "Bm", 
-    "G", 
+    "D",
+    "F#m",
+    "Bm",
+    "G",
     "A"
-  ], 
-  "artist": "Plain White T's", 
-  "id": "Hey There Delilah - Plain White T's", 
+  ],
+  "artist": "Plain White T's",
+  "id": "Hey There Delilah - Plain White T's",
   "lines": [
     {
-      "label": "[Intro]"
-    }, 
+      "chord": "",
+      "lyrics": "Strum pattern: 1-(234)-1-(234)"
+    },
     {
-      "chord": "D  F#m  D  F#m", 
+      "label": "[Intro]"
+    },
+    {
+      "chord": "D  F#m  D  F#m",
       "lyrics": ""
-    }, 
+    },
     {
       "label": "[Verse 1]"
-    }, 
+    },
     {
-      "chord": "D                            F#m", 
-      "lyrics": "Hey there Delilah, What\u2019s it like in New York City?"
-    }, 
+      "chord": "D                            F#m",
+      "lyrics": "Hey there Delilah, What's it like in New York City?"
+    },
     {
-      "chord": "      D                               F#m", 
-      "lyrics": "I\u2019m a thousand miles away, But girl tonight you look so pretty,"
-    }, 
+      "chord": "      D",
+      "lyrics": "I'm a thousand miles away,"
+    },
     {
-      "chord": "        Bm  G                 A                  Bm", 
-      "lyrics": "Yes you do, Time Square can\u2019t shine as bright as you,"
-    }, 
+      "chord": "           F#m",
+      "lyrics": "But girl tonight you look so pretty,"
+    },
     {
-      "chord": "             A", 
-      "lyrics": "I swear it\u2019s true."
-    }, 
+      "chord": "        Bm  G                 A                  Bm",
+      "lyrics": "Yes you do, Time Square can't shine as bright as you,"
+    },
     {
-      "chord": "D                            F#m", 
-      "lyrics": "Hey there Delilah, Don\u2019t you worry about the distance,"
-    }, 
+      "chord": "             A",
+      "lyrics": "I swear it's true."
+    },
     {
-      "chord": "          D                                  F#m", 
-      "lyrics": "I\u2019m right there if you get lonely, Give this song another listen,"
-    }, 
+      "chord": "D                            F#m",
+      "lyrics": "Hey there Delilah, Don't you worry about the distance,"
+    },
     {
-      "chord": "           Bm    G            A                Bm", 
-      "lyrics": "Close your eyes, Listen to my voice it\u2019s my disguise,"
-    }, 
+      "chord": "          D",
+      "lyrics": "I'm right there if you get lonely,"
+    },
     {
-      "chord": "            A", 
-      "lyrics": "I\u2019m by your side."
-    }, 
+      "chord": "          F#m",
+      "lyrics": "Give this song another listen,"
+    },
+    {
+      "chord": "           Bm    G            A                Bm",
+      "lyrics": "Close your eyes, Listen to my voice it's my disguise,"
+    },
+    {
+      "chord": "            A",
+      "lyrics": "I'm by your side."
+    },
     {
       "label": "[Chorus]"
-    }, 
+    },
     {
-      "chord": "D                      Bm  D                      Bm", 
-      "lyrics": "Oh it\u2019s what you do to me, Oh it\u2019s what you do to me,"
-    }, 
+      "chord": "D                      Bm  D                      Bm",
+      "lyrics": "Oh it's what you do to me, Oh it's what you do to me,"
+    },
     {
-      "chord": "D                      Bm  D                      Bm", 
-      "lyrics": "Oh it\u2019s what you do to me, Oh it\u2019s what you do to me,"
-    }, 
+      "chord": "D                      Bm  D                      Bm",
+      "lyrics": "Oh it's what you do to me, Oh it's what you do to me,"
+    },
     {
-      "chord": "               D", 
+      "chord": "               D",
       "lyrics": "What you do to me."
-    }, 
+    },
     {
       "label": "[Verse 2]"
-    }, 
+    },
     {
-      "chord": "D                         F#m", 
+      "chord": "D                         F#m",
       "lyrics": "Hey there Delilah, I know times are getting hard,"
-    }, 
+    },
     {
-      "chord": "           D                                    F#m", 
-      "lyrics": "But just believe me girl some day, I'll pay the bills with this guitar,"
-    }, 
+      "chord": "           D",
+      "lyrics": "But just believe me girl some day,"
+    },
     {
-      "chord": "              Bm    G              A               Bm", 
+      "chord": "             F#m",
+      "lyrics": "I'll pay the bills with this guitar,"
+    },
+    {
+      "chord": "              Bm    G              A               Bm",
       "lyrics": "We'll have it good, We'll have the life we knew we would,"
-    }, 
+    },
     {
-      "chord": "           A", 
+      "chord": "           A",
       "lyrics": "My word is good."
-    }, 
+    },
     {
-      "chord": "D                           F#m", 
-      "lyrics": "Hey there Delilah, I\u2019ve got so much left to say,"
-    }, 
+      "chord": "D                           F#m",
+      "lyrics": "Hey there Delilah, I've got so much left to say,"
+    },
     {
-      "chord": "         D                                 F#m", 
-      "lyrics": "If every simple song I wrote to you, Would take your breath away,"
-    }, 
+      "chord": "         D",
+      "lyrics": "If every simple song I wrote to you,"
+    },
     {
-      "chord": "             Bm   G            A                  Bm", 
-      "lyrics": "I\u2019d write it all, Even more in love with me you\u2019d fall,"
-    }, 
+      "chord": "      F#m",
+      "lyrics": "Would take your breath away,"
+    },
     {
-      "chord": "             A", 
-      "lyrics": "We\u2019d have it all."
-    }, 
+      "chord": "             Bm   G            A                  Bm",
+      "lyrics": "I'd write it all, Even more in love with me you'd fall,"
+    },
+    {
+      "chord": "             A",
+      "lyrics": "We'd have it all."
+    },
     {
       "label": "[Chorus]"
-    }, 
+    },
     {
-      "chord": "D                      Bm  D                      Bm", 
-      "lyrics": "Oh it\u2019s what you do to me, Oh it\u2019s what you do to me,"
-    }, 
+      "chord": "D                      Bm  D                      Bm",
+      "lyrics": "Oh it's what you do to me, Oh it's what you do to me,"
+    },
     {
-      "chord": "D                      Bm  D                      Bm", 
-      "lyrics": "Oh it\u2019s what you do to me, Oh it\u2019s what you do to me,"
-    }, 
+      "chord": "D                      Bm  D                      Bm",
+      "lyrics": "Oh it's what you do to me, Oh it's what you do to me,"
+    },
+    {
+      "chord": "",
+      "lyrics": "Strum pattern: 2-3-4-3-1-3-4-3"
+    },
     {
       "label": "[Bridge]"
-    }, 
+    },
     {
-      "chord": "G                                      A", 
-      "lyrics": "A thousand miles seems pretty far, But they\u2019ve got planes and trains and cars,"
-    }, 
+      "chord": "G",
+      "lyrics": "A thousand miles seems pretty far,"
+    },
     {
-      "chord": "D                                 Bm", 
-      "lyrics": "I\u2019d walk to you if I had no other way"
-    }, 
+      "chord": "    A",
+      "lyrics": "But they've got planes and trains and cars,"
+    },
     {
-      "chord": "G                                         A", 
-      "lyrics": "Our friends would all make fun of us, And we'll just laugh along because,"
-    }, 
+      "chord": "D                                 Bm",
+      "lyrics": "I'd walk to you if I had no other way"
+    },
     {
-      "chord": "   D                                     Bm", 
+      "chord": "G",
+      "lyrics": "Our friends would all make fun of us,"
+    },
+    {
+      "chord": "    A",
+      "lyrics": "And we'll just laugh along because,"
+    },
+    {
+      "chord": "   D                                     Bm",
       "lyrics": "We know that none of them have felt this way,"
-    }, 
+    },
     {
-      "chord": "G                               A", 
-      "lyrics": "Delilah I can promise you, That by the time that we get through,"
-    }, 
+      "chord": "G",
+      "lyrics": "Delilah I can promise you,"
+    },
     {
-      "chord": "    Bm                                               A", 
-      "lyrics": "The world will never ever be the same, And you\u2019re to blame."
-    }, 
+      "chord": "     A",
+      "lyrics": "That by the time that we get through,"
+    },
+    {
+      "chord": "    Bm                                               A",
+      "lyrics": "The world will never ever be the same, And you're to blame."
+    },
     {
       "label": "[Verse 3]"
-    }, 
+    },
     {
-      "chord": "D                        F#m", 
-      "lyrics": "Hey there Delilah you be good, And don\u2019t you miss me,"
-    }, 
+      "chord": "D                        F#m",
+      "lyrics": "Hey there Delilah you be good, And don't you miss me,"
+    },
     {
-      "chord": "         D                                         F#m", 
-      "lyrics": "Two more years and you\u2019ll be done with school, And I'll be making history,"
-    }, 
+      "chord": "         D",
+      "lyrics": "Two more years and you'll be done with school,"
+    },
     {
-      "chord": "       Bm  G                A              Bm", 
-      "lyrics": "Like I do, You\u2019ll know it's all because of you,"
-    }, 
+      "chord": "    F#m",
+      "lyrics": "And I'll be making history,"
+    },
     {
-      "chord": "G             A            Bm", 
+      "chord": "       Bm  G                A              Bm",
+      "lyrics": "Like I do, You'll know it's all because of you,"
+    },
+    {
+      "chord": "G             A            Bm",
       "lyrics": "We can do whatever we want to,"
-    }, 
+    },
     {
-      "chord": "G           A               Bm                  A", 
-      "lyrics": "Hey there Delilah here's to you, This one\u2019s for you."
-    }, 
+      "chord": "G           A               Bm                  A",
+      "lyrics": "Hey there Delilah here's to you, This one's for you."
+    },
     {
       "label": "[Final Chorus]"
-    }, 
+    },
     {
-      "chord": "D                      Bm  D                      Bm", 
-      "lyrics": "Oh it\u2019s what you do to me, Oh it\u2019s what you do to me,"
-    }, 
+      "chord": "D                      Bm  D                      Bm",
+      "lyrics": "Oh it's what you do to me, Oh it's what you do to me,"
+    },
     {
-      "chord": "D                      Bm  D                      Bm", 
-      "lyrics": "Oh it\u2019s what you do to me, Oh it\u2019s what you do to me,"
-    }, 
+      "chord": "D                      Bm  D                      Bm",
+      "lyrics": "Oh it's what you do to me, Oh it's what you do to me,"
+    },
     {
-      "chord": "               D", 
+      "chord": "               D",
       "lyrics": "What you do to me."
-    }, 
+    },
     {
-      "chord": "   Bm   D    Bm    D    Bm   D    Bm   D D", 
+      "chord": "   Bm   D    Bm    D    Bm   D    Bm   D D",
       "lyrics": "Ohhh"
     }
-  ], 
+  ],
   "title": "Hey There Delilah"
 }
