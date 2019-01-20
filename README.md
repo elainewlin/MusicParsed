@@ -2,7 +2,7 @@
 
 Start local server: 
 
-    npm install
+    yarn
     node app.js
 
 Template documentation
