@@ -72,7 +72,7 @@ export var songView = new function() {
   };
 
   // chordOption = original | simple
-  let chordOption = localStorage.getItem("chordOption") || "simple";
+  let chordOption = localStorage.getItem("chordOption") || "original";
 
   this.getChordOption = function() {
     return chordOption;
