@@ -12,11 +12,14 @@
   "id": "City Hall - Vienna Teng",
   "lines": [
     {
-      "chord": "",
-      "lyrics": "Intro: G C G    C G D G"
+      "label": "Intro:"
     },
     {
-      "label": "Strophe 1:"
+      "chord": "G C G    C G D G",
+      "lyrics": ""
+    },
+    {
+      "label": "Verse 1:"
     },
     {
       "chord": "G              C                 G",
@@ -89,7 +92,7 @@
       "lyrics": "At city hall"
     },
     {
-      "label": "Strophe 2:"
+      "label": "Verse 2:"
     },
     {
       "chord": "G                      C                         G",
@@ -131,8 +134,7 @@
       "lyrics": "It ain't too much for 'em all to handle"
     },
     {
-      "chord": "",
-      "lyrics": "Chorus"
+      "label": "Chorus:"
     },
     {
       "chord": "G             C            G",
@@ -159,7 +161,7 @@
       "lyrics": "At city hall"
     },
     {
-      "label": "Strophe 3:"
+      "label": "Verse 3:"
     },
     {
       "chord": "   G                         C                G",
@@ -205,8 +207,7 @@
       "lyrics": "This beautiful thing won't change"
     },
     {
-      "chord": "",
-      "lyrics": "Chorus"
+      "label": "Chorus:"
     },
     {
       "chord": "G             C            G",
