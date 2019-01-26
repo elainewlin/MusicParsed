@@ -21,14 +21,14 @@ const minorChord = "m?(?!aj)";
 // matches everything that does not follow a /
 const simpleChordRegex = new RegExp(`^(?!/)${noteString}${minorChord}`, "g");
 
-String.prototype.replaceAt = function(index, replacement) {
-  return this.substr(0, index) + replacement + this.substr(index + replacement.length);
+const replaceAt = function(str, index, replacement) {
+  return str.substr(0, index) + replacement + str.substr(index + replacement.length);
 };
 
 const constructChord = function(totalLength, chords, offsets) {
   let blankChord = Array(totalLength).join(" ");
   for(let i = 0; i < offsets.length; i++) {
-    blankChord = blankChord.replaceAt(offsets[i], chords[i]);
+    blankChord = replaceAt(blankChord, offsets[i], chords[i]);
   }
   return blankChord;
 };
