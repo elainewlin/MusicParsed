@@ -1,12 +1,13 @@
+import "core-js/fn/array/flat-map";
 import $ from "jquery";
 
 var accidentalFifths = [["bb", -14], ["𝄫", -14], ["b", -7], ["♭", -7], ["", 0], ["#", 7], ["♯", 7], ["x", 14], ["𝄪", 14]];
 var letterFifths = [["F", -1], ["C", 0], ["G", 1], ["D", 2], ["A", 3], ["E", 4], ["B", 5]];
-var pitchFifths = [].concat.apply([], accidentalFifths.map(function(af) {
+var pitchFifths = accidentalFifths.flatMap(function(af) {
   return letterFifths.map(function(lf) {
     return [lf[0] + af[0], lf[1] + af[1]];
   });
-}));
+});
 
 export var pitchToFifths = new Map(pitchFifths);
 var fifthsToPitch = new Map(pitchFifths.map(function(pf) { return [pf[1], pf[0]]; }));
@@ -157,12 +158,12 @@ export var songView = new function() {
   };
 
   this.getData = function() {
-    var allFifths = [].concat.apply([], allChords.map(function(chord) {
+    var allFifths = allChords.flatMap(function(chord) {
       const chordTypes = "(m\b|madd|msus|dim)?";
       const chordRegex = new RegExp(`^(${noteString})${chordTypes}`);
       var m = chord.match(chordRegex);
       return m ? [pitchToFifths.get(m[1]) - (m[2] ? 3 : 0)] : [];
-    }));
+    });
     var center = Math.round(allFifths.reduce(function(a, b) { return a + b; }) / allFifths.length);
     // Transpose the average chord no flatter than Ab or Fm and no sharper than C# or A#m.
     var amount = (transpose * 7 + center + 12004) % 12 - center - 4;

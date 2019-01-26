@@ -1,3 +1,4 @@
+import "core-js/fn/array/flat-map";
 import $ from "jquery";
 import "jquery-ui/ui/widgets/autocomplete";
 import "jquery-ui/themes/base/all.css";
@@ -100,9 +101,9 @@ const renderChordFingering = function(chordName, chordFingering, instrumentData)
       return !(y > 0) || +y <= instrumentData.frets;
     }) ?
       1 :
-      Math.min.apply(null, [].concat.apply([], chordFingering.map(function(y) {
+      Math.min.apply(null, chordFingering.flatMap(function(y) {
         return y > 0 ? [+y] : [];
-      })));
+      }));
   var left = offset == 1 ? 0 : 0.5 * ("" + offset).length;
   return [{
     viewLeft: -0.5 - left,
@@ -111,15 +112,15 @@ const renderChordFingering = function(chordName, chordFingering, instrumentData)
     chordName: chordName,
     offset: offset == 1 ? undefined : offset,
     openY: offset == 1 ? -0.5 : 0,
-    dots: [].concat.apply([], chordFingering.map(function(y, x) {
+    dots: chordFingering.flatMap(function(y, x) {
       return y > 0 ? [{ x: x, y: +y - offset + 1 }] : [];
-    })),
-    open: [].concat.apply([], chordFingering.map(function(y, x) {
+    }),
+    open: chordFingering.flatMap(function(y, x) {
       return y == 0 ? [x] : [];
-    })),
-    mute: [].concat.apply([], chordFingering.map(function(y, x) {
+    }),
+    mute: chordFingering.flatMap(function(y, x) {
       return y == "x" ? [x] : [];
-    })),
+    }),
   }];
 };
 
@@ -164,9 +165,9 @@ export const renderAllChords = function(allChords, currentInstrument) {
     fretLines: Array.apply(null, Array(instrumentData.frets)).map(function(_, i) {
       return i + 0.5;
     }),
-    chords: [].concat.apply([], allChords.map(function(chord) {
+    chords: allChords.flatMap(function(chord) {
       return renderChord(chord, instrumentData);
-    }))
+    }),
   };
   document.getElementsByClassName("chordPics")[0].innerHTML = chordsTemplate(chordData);
 };
