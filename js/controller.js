@@ -46,6 +46,11 @@ const loadChordOptionButtons = function() {
   });
 };
 
+export const renderTranspose = function() {
+  const transpose = songView.getTranspose();
+  selectButton(TRANSPOSE, transpose);
+};
+
 const loadTransposeButtons = function() {
   const transposeButtons = [];
 
@@ -187,11 +192,6 @@ export var loadWidgets = function() {
 
   // Orientation toggle
   loadOrientationButtons();
-};
-
-export const renderTranspose = function() {
-  const transpose = songView.getTranspose();
-  selectButton(TRANSPOSE, transpose);
 };
 
 
