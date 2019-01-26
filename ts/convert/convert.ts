@@ -1,12 +1,12 @@
 import $ from "jquery";
 import "bootstrap/js/dist/button";
 import "../../css/convert.css";
-import { Guitar, Ukulele, Note } from "./music.js";
+import { Instrument, Guitar, Ukulele, Note } from "./music";
 
 // Gets sequence of notes from the guitar chords
-const parseTab = function(instrument) {
-  const allNotes = [];
-  const tab = $(".tab")[0].value.split("\n");
+const parseTab = function(instrument: Instrument): Note[][] {
+  const allNotes: Note[] = [];
+  const tab = ($(".tab")[0] as HTMLTextAreaElement).value.split("\n");
 
   for (let i = 0; i < instrument.stringCount; i++) {
     // Note for the open string
@@ -18,10 +18,11 @@ const parseTab = function(instrument) {
     const digits = new RegExp(/\d+/, "g");
     oneString.replace(digits, function(fret, time) {
       allNotes.push(Note(initialNote, parseInt(fret), time));
+      return "";
     });
   }
 
-  const timeToNotes = {};
+  const timeToNotes: { [time: number]: Note[] } = {};
   allNotes.map(note => {
     if (note.time in timeToNotes) {
       timeToNotes[note.time].push(note);
@@ -38,7 +39,7 @@ const parseTab = function(instrument) {
   return sequence;
 };
 
-var printTab = function(instrument, sequence) {
+var printTab = function(instrument: Instrument, sequence: Note[][]): void {
   var strings = [];
   for (var i = 0; i < instrument.stringCount; i++) {
     strings.push("");
@@ -68,16 +69,17 @@ var printTab = function(instrument, sequence) {
 
 };
 
-const convertNote = function(note, newInstrument) {
+const convertNote = function(note: Note, newInstrument: Instrument): Note {
   if (newInstrument instanceof Guitar) {
     return note.toGuitar();
   }
   if (newInstrument instanceof Ukulele) {
     return note.toUkulele();
   }
+  throw new Error("convertNote: unknown instrument");
 };
 
-const convertTab = function(oldInstrument, newInstrument) {
+const convertTab = function(oldInstrument: Instrument, newInstrument: Instrument): void {
   const oldSequence = parseTab(oldInstrument);
 
   const newSequence = [];
@@ -95,8 +97,8 @@ const convertTab = function(oldInstrument, newInstrument) {
   printTab(newInstrument, newSequence);
 };
 
-const ukeToGuitar = () => convertTab(Ukulele(), Guitar());
-const guitarToUke = () => convertTab(Guitar(), Ukulele());
+const ukeToGuitar = (): void => convertTab(Ukulele(), Guitar());
+const guitarToUke = (): void => convertTab(Guitar(), Ukulele());
 
 let convertFunction = guitarToUke;
 

@@ -1,6 +1,11 @@
 const OCTAVE = ["C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"];
 
-export var Ukulele = function() {
+export interface Instrument {
+  stringCount: number;
+  notes: number[];
+}
+
+export var Ukulele = function(): Instrument {
   var that = Object.create(Ukulele.prototype);
   that.stringCount = 4;
   that.notes = [33, 28, 24, 31];
@@ -8,7 +13,7 @@ export var Ukulele = function() {
   return that;
 };
 
-export var Guitar = function() {
+export var Guitar = function(): Instrument {
   var that = Object.create(Guitar.prototype);
   that.stringCount = 6;
   that.notes = [28, 23, 19, 14, 9, 4];
@@ -16,7 +21,15 @@ export var Guitar = function() {
   return that;
 };
 
-export var Note = function(initialString, fret, time) {
+export interface Note {
+  initialString: number;
+  fret: number;
+  time: number;
+  toGuitar(): Note;
+  toUkulele(): Note;
+}
+
+export var Note = function(initialString: number, fret: number, time: number): Note {
   var that = Object.create(Note.prototype);
   that.initialString = initialString;
   that.fret = fret;
