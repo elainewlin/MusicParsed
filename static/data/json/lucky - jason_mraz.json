@@ -1,191 +1,247 @@
 {
   "allChords": [
-    "C", 
-    "Am", 
-    "Dm7", 
-    "G", 
-    "E7", 
-    "G#dim", 
-    "Gsus4", 
-    "Em", 
-    "Am7"
-  ], 
-  "artist": "Jason Mraz", 
-  "id": "Lucky - Jason Mraz", 
+    "C",
+    "Am",
+    "Dm7",
+    "G",
+    "E7",
+    "G#dim",
+    "Gadd4",
+    "Gsus4",
+    "Em",
+    "Am7",
+    "G7"
+  ],
+  "artist": "Jason Mraz",
+  "id": "Lucky - Jason Mraz",
   "lines": [
     {
       "label": "[Intro]"
-    }, 
+    },
     {
-      "chord": "C", 
+      "chord": "C",
       "lyrics": ""
-    }, 
+    },
     {
-      "label": "[Verse]"
-    }, 
+      "label": "[Jason]"
+    },
     {
-      "chord": "           C                 Am", 
-      "lyrics": "Now do ya hear me talking to you"
-    }, 
+      "chord": "       C                  Am",
+      "lyrics": "Do you hear me talking to you"
+    },
     {
-      "chord": "           Dm7                G        E7", 
+      "chord": "           Dm7               G         E7",
       "lyrics": "Across the water, across the deep blue ocean"
-    }, 
+    },
     {
-      "chord": "           Am         Dm7", 
+      "chord": "          Am            Dm7",
       "lyrics": "Under the open sky, oh my"
-    }, 
+    },
     {
-      "chord": "          G", 
+      "chord": "            G",
       "lyrics": "Baby I'm trying"
-    }, 
+    },
     {
-      "label": "[Verse]"
-    }, 
+      "label": "[Colbie]"
+    },
     {
-      "chord": "           C                 Am", 
+      "chord": "      C              Am",
       "lyrics": "Boy I hear you in my dreams"
-    }, 
+    },
     {
-      "chord": "           Dm7                G", 
+      "chord": "            Dm7                G   G/F",
       "lyrics": "I feel your whisper across the sea"
-    }, 
+    },
     {
-      "chord": "           E7            Am", 
+      "chord": "           E7            Am",
       "lyrics": "I keep you with me in my heart"
-    }, 
+    },
     {
-      "chord": "            Dm7         G         G#dim", 
+      "chord": "            Dm7         G         G#dim",
       "lyrics": "You make it easier when life gets hard"
-    }, 
+    },
     {
-      "label": "[Chorus]"
-    }, 
+      "label": "[Both]"
+    },
     {
-      "chord": "Am           Dm7                G", 
-      "lyrics": "Lucky I'm in love with my best friend"
-    }, 
+      "chord": "Am           Dm7                    G",
+      "lyrics": "  Lucky I'm in love with my best friend"
+    },
     {
-      "chord": "                C       C/B     Am", 
+      "chord": "            C            Gadd4/B     Am",
       "lyrics": "Lucky to have been where I have been"
-    }, 
+    },
     {
-      "chord": "            Dm7         Gsus4  G", 
+      "chord": "            Dm7          Gsus4  G",
       "lyrics": "Lucky to be coming home again"
-    }, 
+    },
     {
-      "chord": "C      Am      Em       G", 
-      "lyrics": "Ooooh ooh-oooooh ooh-ooooooh...."
-    }, 
+      "chord": "C           Am             Em       G",
+      "lyrics": "Oo oo-oo oo-oo oo-oo-oo-oo oo-oo-oo"
+    },
     {
       "label": "[Bridge]"
-    }, 
+    },
     {
-      "chord": "Dm7        Am               G", 
-      "lyrics": "They don't know how long it takes"
-    }, 
+      "chord": "",
+      "lyrics": "Colbie, (Jason)"
+    },
     {
-      "chord": "              Dm7", 
-      "lyrics": "Waiting for a love like this"
-    }, 
+      "chord": "Dm7                   Am               G",
+      "lyrics": "They don't know how   long it takes"
+    },
     {
-      "chord": "      Am              G                  Dm7", 
-      "lyrics": "Every time we say goodbye, I wish we had one more kiss"
-    }, 
+      "chord": "",
+      "lyrics": "          (They don't know how long it takes)"
+    },
     {
-      "chord": "                     Am              G   Am7 C/B", 
-      "lyrics": "I'll wait for you, I promise you, I will"
-    }, 
+      "chord": "               Dm7",
+      "lyrics": " Waiting for a love like this"
+    },
     {
-      "label": "[Chorus]"
-    }, 
+      "chord": "",
+      "lyrics": "(Waiting for a love like this)"
+    },
     {
-      "chord": "Am        Dm7                  G", 
-      "lyrics": "Lucky I'm in love with my best friend"
-    }, 
+      "chord": "              Am7                G",
+      "lyrics": "Every time we say  good-bye,"
+    },
     {
-      "chord": "          C                C/B  Am", 
+      "chord": "",
+      "lyrics": "      (Ev-ery time we   say  goodbye,)"
+    },
+    {
+      "chord": "               Dm7",
+      "lyrics": " I wish we had one more kiss"
+    },
+    {
+      "chord": "",
+      "lyrics": "(I wish we had one more kiss)"
+    },
+    {
+      "chord": "                            Am7            G  Am7 G7/B",
+      "lyrics": "[Both] I'll wait for you, I promise you, I will"
+    },
+    {
+      "chord": "",
+      "lyrics": "(Oh I'm)"
+    },
+    {
+      "label": "[Both]"
+    },
+    {
+      "chord": "Am           Dm7                    G",
+      "lyrics": "  Lucky I'm in love with my best friend"
+    },
+    {
+      "chord": "            C            Gadd4/B     Am",
       "lyrics": "Lucky to have been where I have been"
-    }, 
+    },
     {
-      "chord": "            Dm7          Gsus4  G", 
+      "chord": "            Dm7          Gsus4  G",
       "lyrics": "Lucky to be coming home again"
-    }, 
+    },
     {
-      "chord": "Am          Dm7              G", 
-      "lyrics": "Lucky we're in love in every way"
-    }, 
+      "chord": "Am             Dm7              G",
+      "lyrics": "  Lucky we're in love in every way"
+    },
     {
-      "chord": "         C                C/B      Am", 
+      "chord": "          C                C/B       Am",
       "lyrics": "Lucky to have stayed where we have stayed"
-    }, 
+    },
     {
-      "chord": "            Dm7              Gsus4  G", 
+      "chord": "            Dm7             Gsus4  G",
       "lyrics": "Lucky to be coming home some day"
-    }, 
+    },
     {
       "label": "[Verse]"
-    }, 
+    },
     {
-      "chord": "           C                    Am", 
+      "chord": "",
+      "lyrics": "Jason, (Colbie)"
+    },
+    {
+      "chord": "           C                   Am",
       "lyrics": "And so I'm sailing, through the sea"
-    }, 
+    },
     {
-      "chord": "      Dm7                 G", 
-      "lyrics": "To an island, where we'll meet"
-    }, 
+      "chord": "       Dm7                 G",
+      "lyrics": " To an island, where we'll meet"
+    },
     {
-      "chord": "                E7              Am", 
+      "chord": "",
+      "lyrics": "(To an island, where we'll meet)"
+    },
+    {
+      "chord": "                E7              Am",
       "lyrics": "You'll hear the music, fill the air"
-    }, 
+    },
     {
-      "chord": "        Dm7      G", 
-      "lyrics": "I put a flower in you hair"
-    }, 
+      "chord": "        Dm7    G",
+      "lyrics": "I put a flower in your hair"
+    },
     {
-      "chord": "               C                   Am", 
+      "chord": "",
+      "lyrics": "       (flower)"
+    },
+    {
+      "label": "[Colbie]"
+    },
+    {
+      "chord": "               C       C/B         Am",
       "lyrics": "And though the breezes through the trees"
-    }, 
+    },
     {
-      "chord": "        Dm7                  G", 
+      "chord": "        Dm7                  G   G/F",
       "lyrics": "Move so pretty, you're all I see"
-    }, 
+    },
     {
-      "chord": "        E7                  Am", 
+      "chord": "       E7                  Am",
       "lyrics": "As the world keep spinning round"
-    }, 
+    },
     {
-      "chord": "    Dm7             G", 
+      "chord": "    Dm7           G           G#dim",
       "lyrics": "You hold me right here, right now"
-    }, 
+    },
     {
-      "chord": "Am           Dm7                G", 
-      "lyrics": "I'm lucky I'm in love with my best friend"
-    }, 
+      "label": "[Both]"
+    },
     {
-      "chord": "                C       C/B     Am", 
+      "chord": "Am           Dm7                    G",
+      "lyrics": "  Lucky I'm in love with my best friend"
+    },
+    {
+      "chord": "            C            Gadd4/B     Am",
       "lyrics": "Lucky to have been where I have been"
-    }, 
+    },
     {
-      "chord": "            Dm7         G", 
+      "chord": "            Dm7          Gsus4  G",
       "lyrics": "Lucky to be coming home again"
-    }, 
+    },
     {
-      "chord": "Am           Dm7                G", 
-      "lyrics": "Lucky we're in love in every way"
-    }, 
+      "chord": "Am             Dm7              G",
+      "lyrics": "  Lucky we're in love in every way"
+    },
     {
-      "chord": "         C                 C/B     Am", 
+      "chord": "          C                C/B       Am",
       "lyrics": "Lucky to have stayed where we have stayed"
-    }, 
+    },
     {
-      "chord": "            Dm7         G", 
+      "chord": "            Dm7             Gsus4  G",
       "lyrics": "Lucky to be coming home some day"
-    }, 
+    },
     {
-      "chord": "C        Am          Em  G       C", 
-      "lyrics": "oooooh oooh-oooooooh ooooh-ooooh."
+      "chord": "C           Am             Em       G",
+      "lyrics": "Oo oo-oo oo-oo oo-oo-oo-oo oo-oo-oo"
+    },
+    {
+      "chord": "C           Am             Em",
+      "lyrics": "Oo oo-oo oo-oo oo-oo-oo-oo oo-oo-oo"
+    },
+    {
+      "chord": "G        C",
+      "lyrics": "oo-oo-oo oo"
     }
-  ], 
+  ],
   "title": "Lucky"
 }
