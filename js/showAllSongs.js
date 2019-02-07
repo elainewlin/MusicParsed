@@ -37,11 +37,12 @@ const sortSongsByArtist = function(songs) {
   let allSongsByArtist = [];
   for (let artist in allSongs) {
     // Song titles in alphabetical order
-    const songsByArtist = allSongs[artist].sort(comparator("title"));
+    const songsByArtist = [...allSongs[artist]];
+    songsByArtist.sort(comparator("title"));
     allSongsByArtist.push({ "artist": artist, "songs": songsByArtist });
   }
   // Artists in alphabetical order
-  allSongsByArtist = allSongsByArtist.sort(comparator("artist"));
+  allSongsByArtist.sort(comparator("artist"));
   return allSongsByArtist;
 };
 
@@ -69,7 +70,6 @@ window.onload = function() {
       allTags.add(ALL_TAG);
       data.map(function(song) {
         allSongs.push(song);
-
         const tags = song["tags"];
         tags.map((tag) => {
           allTags.add(tag);

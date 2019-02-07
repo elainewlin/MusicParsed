@@ -197,12 +197,8 @@ class TextParser:
             for line in tagFile:
                 songId = line.strip()
 
-                if songId in songsToTags:
-                    songsToTags[songId].append(tagName)
-                else:
-                    songsToTags[songId] = [tagName]
+                songsToTags.setdefault(songId, []).append(tagName)
         return songsToTags
-
 
     def getAllText(self):
         """
