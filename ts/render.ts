@@ -1,12 +1,13 @@
+import "core-js/fn/array/flat-map";
 import $ from "jquery";
 import "jquery-ui/ui/widgets/autocomplete";
 import "jquery-ui/themes/base/all.css";
-import { loadWidgets, renderTranspose } from "./controller.js";
-import { pitchToFifths, songView } from "./model.js";
+import { loadWidgets, renderTranspose } from "./controller";
+import { SongData, SongLine, pitchToFifths, songView } from "./model";
 import chordsTemplate from "../mustache/chords.mustache";
 import songTemplate from "../mustache/song.mustache";
 
-const guitarChords = [
+const guitarChords: { [flavor: string]: string }[] = [
   /* C  */
   {"": "x,3,2,0,1,0", "m7sus4": "8,8,8,8,8,8", "madd9": "x,3,0,4,4,3", "dim7": "x,3,x,2,4,2", "aug7": "x,x,2,3,1,4", "aug": "x,3,2,1,1,0", "m7": "x,3,5,3,4,3", "m6": "8,10,10,8,10,8", "5": "x,3,5,5,x,x", "7": "x,3,2,3,1,0", "6": "x,3,5,5,5,5", "9": "x,3,2,3,3,3", "maj7": "x,3,2,0,0,0", "m9": "x,3,1,3,3,x", "sus2": "x,3,0,0,3,3", "sus4": "8,10,10,10,8,8", "2": "x,3,0,0,3,3", "11": "8,8,8,9,8,8", "dim": "x,3,1,x,1,1", "13": "8,x,8,9,10,x", "add4": "x,3,3,0,1,0", "add2": "x,3,0,0,3,0", "m7b5": "x,3,4,3,4,x", "msus4": "8,8,10,8,8,8", "m": "x,3,5,5,4,3", "add9": "x,3,0,0,0,0", "7sus4": "x,3,5,3,6,3"},
   /* Db */
@@ -33,7 +34,7 @@ const guitarChords = [
   {"": "x,2,4,4,4,2", "m7sus4": "7,7,7,7,7,7", "madd9": "x,2,0,3,2,2", "dim7": "x,2,3,1,3,x", "aug7": "x,2,1,2,0,3", "aug": "x,2,1,0,0,3", "m7": "x,2,0,2,0,2", "m6": "7,9,9,7,9,7", "5": "7,9,9,x,x,x", "7": "x,2,1,2,0,2", "6": "x,2,4,4,4,4", "9": "x,2,1,2,2,x", "maj7": "x,x,9,8,7,6", "m9": "x,2,0,2,2,2", "sus2": "x,2,4,4,2,2", "sus4": "x,2,2,4,5,2", "2": "x,2,4,4,2,2", "11": "7,7,7,8,7,7", "dim": "x,x,9,10,12,10", "13": "x,2,x,2,4,4", "add4": "x,2,2,4,4,2", "add2": "7,4,4,4,4,7", "m7b5": "x,2,x,2,3,1", "msus4": "1,1,3,3,1,1", "m": "x,2,2,4,4,3,2", "add9": "7,4,4,4,4,6", "7sus4": "x,2,4,2,5,2"},
 ];
 
-const ukuleleChords = [
+const ukuleleChords: { [flavor: string]: string }[] = [
   /* C  */
   {"": "0,0,0,3", "m7sus4": "3,3,1,3", "madd9": "5,3,3,5", "dim7": "2,3,2,3", "aug7": "1,0,0,1", "aug": "1,0,0,3", "m7": "3,3,3,3", "m6": "2,3,3,3", "5": "0,0,3,3", "7": "0,0,0,1", "6": "0,0,0,0", "9": "3,0,0,1", "maj7": "0,0,0,2", "m9": "5,3,6,5", "sus2": "0,2,3,3", "sus4": "0,0,1,3", "2": "0,2,3,3", "11": "0,0,1,1", "dim": "x,3,2,3", "13": "3,0,0,0", "add4": "0,4,1,3", "add2": "0,2,0,3", "m7b5": "3,3,2,3", "msus4": "0,3,1,3", "m": "0,3,3,3", "add9": "0,2,0,3", "7sus4": "0,0,1,1", "7sus4_1": "0,5,6,3"},
   /* Db */
@@ -60,7 +61,13 @@ const ukuleleChords = [
   {"": "4,3,2,2", "m7sus4": "2,2,0,2", "madd9": "4,2,2,4", "dim7": "1,2,1,2", "aug7": "2,3,3,2", "aug": "4,3,3,2", "m7": "2,2,2,2", "m6": "1,2,2,2", "5": "x,x,2,2", "7": "2,3,2,2", "6": "1,3,2,2", "9": "4,3,5,4", "maj7": "4,3,2,1", "m9": "4,2,5,4", "sus2": "4,1,2,2", "sus4": "4,4,2,2", "2": "6,6,2,2", "11": "4,4,5,4", "dim": "4,2,1,2", "13": "2,3,4,2", "add4": "9,11,11,9", "add2": "6,6,7,6", "m7b5": "2,2,1,2", "msus4": "7,6,7,7", "m": "4,2,2,2", "add9": "4,3,2,4", "7sus4": "2,4,2,2"},
 ];
 
-const instrumentsData = {
+interface InstrumentData {
+  strings: number;
+  frets: number;
+  chords: { [flavor: string]: string }[];
+}
+
+const instrumentsData: { [instrument: string]: InstrumentData } = {
   ukulele: {
     strings: 4,
     frets: 4,
@@ -84,25 +91,40 @@ const instrumentsData = {
 };
 
 // Support for left-handed chord diagrams
-const reverseString = function(str) {
+const reverseString = function(str: string): string {
   return str.split("").reverse().join("");
 };
+
+type ChordFingeringData = {
+  viewLeft: number;
+  viewWidth: number;
+  width: number;
+  chordName: string;
+  offset?: number;
+  openY: number;
+  dots: { x: number; y: number }[];
+  open: number[];
+  mute: number[];
+} | {
+  chordName: string;
+  unknown: true;
+}
 
 // Input example:
 // chordName: Bm
 // chordFingering: 4,2,2,2 for G,C,E,A
 // instrumentData: what instrument?
 // Output: SVG rendering of the chord
-const renderChordFingering = function(chordName, chordFingering, instrumentData) {
-  chordFingering = chordFingering.split(",");
+const renderChordFingering = function(chordName: string, chordFingeringStr: string, instrumentData: InstrumentData): ChordFingeringData[] {
+  const chordFingering = chordFingeringStr.split(",");
   var offset =
     chordFingering.every(function(y) {
-      return !(y > 0) || +y <= instrumentData.frets;
+      return !(+y > 0) || +y <= instrumentData.frets;
     }) ?
       1 :
-      Math.min.apply(null, [].concat.apply([], chordFingering.map(function(y) {
-        return y > 0 ? [+y] : [];
-      })));
+      Math.min.apply(null, chordFingering.flatMap(function(y) {
+        return +y > 0 ? [+y] : [];
+      }));
   var left = offset == 1 ? 0 : 0.5 * ("" + offset).length;
   return [{
     viewLeft: -0.5 - left,
@@ -111,23 +133,23 @@ const renderChordFingering = function(chordName, chordFingering, instrumentData)
     chordName: chordName,
     offset: offset == 1 ? undefined : offset,
     openY: offset == 1 ? -0.5 : 0,
-    dots: [].concat.apply([], chordFingering.map(function(y, x) {
-      return y > 0 ? [{ x: x, y: +y - offset + 1 }] : [];
-    })),
-    open: [].concat.apply([], chordFingering.map(function(y, x) {
-      return y == 0 ? [x] : [];
-    })),
-    mute: [].concat.apply([], chordFingering.map(function(y, x) {
+    dots: chordFingering.flatMap(function(y, x) {
+      return +y > 0 ? [{ x: x, y: +y - offset + 1 }] : [];
+    }),
+    open: chordFingering.flatMap(function(y, x) {
+      return +y == 0 ? [x] : [];
+    }),
+    mute: chordFingering.flatMap(function(y, x) {
       return y == "x" ? [x] : [];
-    })),
+    }),
   }];
 };
 
 // Code is smart enough to auto-render chord thanks to regex magic
-const renderChord = function(chord, instrumentData) {
+const renderChord = function(chord: string, instrumentData: InstrumentData): ChordFingeringData[] {
   var chordName = chord;
-  var m = chord.match(/^([A-G](?:bb|𝄫|b|♭|#|♯|x|𝄪)?)(.*)$/);
-  var chordFingering = instrumentData.chords[(pitchToFifths.get(m[1]) * 7 + 12000) % 12][m[2]];
+  var m = chord.match(/^([A-G](?:bb|𝄫|b|♭|#|♯|x|𝄪)?)(.*)$/)!;
+  var chordFingering = instrumentData.chords[(pitchToFifths.get(m[1])! * 7 + 12000) % 12][m[2]];
 
   const overrideDefaultChord = chord.includes("|");
   if (overrideDefaultChord) {
@@ -149,7 +171,7 @@ const renderChord = function(chord, instrumentData) {
   }
 };
 
-export const renderAllChords = function(allChords, currentInstrument) {
+export const renderAllChords = function(allChords: string[], currentInstrument: string): void {
   const instrumentData = instrumentsData[currentInstrument];
   var chordData = {
     strings: instrumentData.strings,
@@ -164,14 +186,14 @@ export const renderAllChords = function(allChords, currentInstrument) {
     fretLines: Array.apply(null, Array(instrumentData.frets)).map(function(_, i) {
       return i + 0.5;
     }),
-    chords: [].concat.apply([], allChords.map(function(chord) {
+    chords: allChords.flatMap(function(chord) {
       return renderChord(chord, instrumentData);
-    }))
+    }),
   };
   document.getElementsByClassName("chordPics")[0].innerHTML = chordsTemplate(chordData);
 };
 
-export var renderChords = function() {
+export var renderChords = function(): void {
   const data = songView.getData();
   var currentInstrument = songView.getInstrument();
 
@@ -185,7 +207,7 @@ export var renderChords = function() {
   renderAllChords(data.allChords, currentInstrument);
 };
 
-const renderCapo = function() {
+const renderCapo = function(): void {
   const capo = songView.getCapo();
   if (capo) {
     $("#capo").show();
@@ -195,7 +217,18 @@ const renderCapo = function() {
   }
 };
 
-const renderChordLyricLine = function(chordString, lyrics) {
+interface ChordLyricPair {
+  chord: string | null;
+  lyric: string;
+  overLyric?: true;
+}
+
+interface ChordLyricLine {
+  className: string;
+  chordLyricPairs: ChordLyricPair[];
+}
+
+const renderChordLyricLine = function(chordString: string, lyrics: string): ChordLyricLine {
   let className = "line";
 
   if (chordString.length > 0 && lyrics.length > 0) {
@@ -210,9 +243,10 @@ const renderChordLyricLine = function(chordString, lyrics) {
   */
   const chordBoundary = new RegExp(/\S+/, "g");
 
-  const offsetChordPairs = [];
+  const offsetChordPairs: { offset: number; chord: string | null }[] = [];
   chordString.replace(chordBoundary, function(chord, offset) {
     offsetChordPairs.push({offset, chord});
+    return "";
   });
   if (offsetChordPairs.length === 0 || offsetChordPairs[0].offset !== 0) {
     offsetChordPairs.unshift({offset: 0, chord: null});
@@ -222,7 +256,7 @@ const renderChordLyricLine = function(chordString, lyrics) {
   lyrics = lyrics.padEnd(maxOffset);
   offsetChordPairs.push({offset: lyrics.length, chord: null});
 
-  let chordLyricPairs = [];
+  let chordLyricPairs: ChordLyricPair[] = [];
 
   for (let i = 0; i < offsetChordPairs.length - 1; i++) {
     const {offset: lastOffset, chord} = offsetChordPairs[i];
@@ -241,8 +275,12 @@ const renderChordLyricLine = function(chordString, lyrics) {
   };
 };
 
-const renderLines = function(lines) {
-  let newLines = [];
+type RenderedLine = {
+  label: string;
+} | ChordLyricLine;
+
+const renderLines = function(lines: SongLine[]): RenderedLine[] {
+  let newLines: RenderedLine[] = [];
 
   lines.map((line) => {
     if ("label" in line) {
@@ -258,20 +296,20 @@ const renderLines = function(lines) {
   return newLines;
 };
 
-export var rerender = function() {
+export var rerender = function(): void {
   const data = songView.getData();
   const fullName = songView.getFullSongName();
   $("#title").text(fullName);
 
-  document.getElementById("song").innerHTML = songTemplate({
+  document.getElementById("song")!.innerHTML = songTemplate({
     lines: renderLines(data["lines"])
   }); 
   renderTranspose();
   renderChords();
 };
 
-export var loadSong = function(songId) {
-  $.getJSON("/static/data/json/" + songId + ".json", function(data) {
+export var loadSong = function(songId: string): void {
+  $.getJSON("/static/data/json/" + songId + ".json", function(data: SongData) {
     songView.setId(songId);
     songView.setSong(data);
     renderCapo();
@@ -279,7 +317,7 @@ export var loadSong = function(songId) {
   });
 };
 
-export var popStateHandler = function(history) {
+export var popStateHandler = function(history: History | PopStateEvent): void {
   let transposeAmount = 0;
   let songId;
 
@@ -292,7 +330,7 @@ export var popStateHandler = function(history) {
     songId = history.state.id;
   } else {
     if (dataset.transpose) {
-      transposeAmount = dataset.transpose;
+      transposeAmount = +dataset.transpose;
     }
     songId = dataset.title + " - " + dataset.artist;
   }
@@ -301,20 +339,30 @@ export var popStateHandler = function(history) {
   loadSong(songId);
 };
 
-export var songSearch = function(songLoadFunction) {
+export interface Song {
+  artist: string;
+  id: string;
+  label: string;
+  tags: string[];
+  title: string;
+  url: string;
+  value: string;
+}
+
+export var songSearch = function(songLoadFunction: (song: Song) => void): void {
   $("#tags").autocomplete({
     autoFocus: true,
-    source: function(request, response) {
+    source: function(request: { term: string }, response: (matches: Song[]) => void) {
       $.ajax({
         url: "/static/data/ALL_SONGS.json",
         dataType: "json",
         data: {
           term: request.term
         },
-        success: function(data) {
+        success: function(data: Song[]) {
           var re = $.ui.autocomplete.escapeRegex(request.term);
           var matcher = new RegExp(re, "i");
-          var matches = $.grep(data, function(item) {
+          var matches = $.grep(data, function(item: Song) {
             return matcher.test(item["value"]); // searching by song ID
           });
           response(matches);
@@ -326,7 +374,7 @@ export var songSearch = function(songLoadFunction) {
     }
   });
 
-  const getRandomIndex = function(totalSongs) {
+  const getRandomIndex = function(totalSongs: number): number {
     return Math.floor(Math.random() * totalSongs) + 1;
   };
 
@@ -344,10 +392,10 @@ export var songSearch = function(songLoadFunction) {
   $(".random").tooltip();
 };
 
-export var initRender = function() {
+export var initRender = function(): void {
   loadWidgets();
 
-  const loadSongNoRefresh = function(song) {
+  const loadSongNoRefresh = function(song: {id: string; url: string}): void {
     const id = song.id;
     const url = song.url;
 

@@ -1,3 +1,5 @@
+/* eslint @typescript-eslint/no-var-requires: "off", no-console: "off" */
+
 const escapeHtml = require("escape-html");
 const express = require("express");
 const fs = require("fs");
