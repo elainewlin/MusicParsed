@@ -84,7 +84,7 @@ window.onload = function() {
       });
       allSongsByTag.set(ALL_TAG, allSongs);
 
-      const allTagButtons = Array.from(allTags).map((tag) => {
+      const allTagButtons = Array.from(allTags).sort().map((tag) => {
         return {
           type: TAG_TYPE,
           name: tag,
