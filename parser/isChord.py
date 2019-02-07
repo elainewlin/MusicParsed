@@ -8,7 +8,7 @@ def isLabel(line):
 
 
 pitch = r"[A-G](?:bb|𝄫|b|♭|#|♯|x)?"
-chordType = "(?:maj|m|aug|dim)?\d*(?:(?:add|sus|no|bb|𝄫|b|♭|#|♯|x|𝄪)\d+)*(?:/"
+chordType = r"(?:maj|m|aug|dim)?\d*(?:(?:add|sus|no|bb|𝄫|b|♭|#|♯|x|𝄪)\d+)*(?:/"
 # We use this when we override chord fingerings for ~fancy~ chords
 fancyChordEnd = "(_[0-9]+)?"
 chord = pitch + chordType + pitch + ")?" + fancyChordEnd
