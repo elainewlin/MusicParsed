@@ -22,3 +22,13 @@ repos:
     alias: eslint:ts
     name: eslint:ts
     types: [ts]
+- repo: local
+  hooks:
+  - id: typescript
+    name: typescript
+    entry: tsc
+    language: node
+    'types': [ts]
+    args: [--noEmit, --project, tsconfig.json]
+    pass_filenames: false
+    additional_dependencies: ["typescript@3.2.4"]
