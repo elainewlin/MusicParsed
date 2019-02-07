@@ -104,13 +104,8 @@ const loadColumnButtons = function(): void {
 
   // Change default column count depending on screen width
   const width = $(window).width()!;
-  // iPads
   if (width < 1200) {
-    // phones
-    defaultColCount = 2;
-    if (width < 600) {
-      defaultColCount = 1;
-    }
+    defaultColCount = 1;
   }
 
   renderColumnButtons();
