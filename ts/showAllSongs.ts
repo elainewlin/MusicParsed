@@ -3,11 +3,13 @@ import "../css/styles.css";
 import "../css/global.css";
 import allSongsListTemplate from "../mustache/allSongsList.mustache";
 import buttonTemplate from "../mustache/button.mustache";
-import {songSearch} from "./render.js";
-import {selectButton} from "./controller.js";
+import {Song, songSearch} from "./render";
+import {selectButton} from "./controller";
 
 // Helper function for sorting arrays of objects by property
-var comparator = function(property) {
+var comparator = function<Property extends string>(
+  property: Property,
+): (obj1: { [_ in Property]: string }, obj2: { [_ in Property]: string }) => number {
   return function(obj1, obj2) {
     var prop1 = obj1[property];
     var prop2 = obj2[property];
@@ -22,8 +24,8 @@ var comparator = function(property) {
   };
 };
 
-const sortSongsByArtist = function(songs) {
-  const allSongs = {};
+const sortSongsByArtist = function(songs: Song[]): { artist: string; songs: Song[] }[] {
+  const allSongs: { [artist: string]: Song[] } = {};
   songs.map(function(song) {
     // Sorting by artist
     const artist = song["artist"];
@@ -52,12 +54,12 @@ const TAG_TYPE = "tag";
 let selectedTag = ALL_TAG;
 const allSongsByTag = new Map();
 
-const renderSelectedSongs = function(selectedTag) {
+const renderSelectedSongs = function(selectedTag: string): void {
   selectButton(TAG_TYPE, selectedTag);
   const songsToRender = allSongsByTag.get(selectedTag);
   const sortedSongs = sortSongsByArtist(songsToRender);
 
-  document.getElementById("allSongs").innerHTML = allSongsListTemplate({
+  document.getElementById("allSongs")!.innerHTML = allSongsListTemplate({
     allSongs: sortedSongs,
   });
 };
@@ -66,12 +68,12 @@ window.onload = function() {
   $.ajax({
     url: "/static/data/ALL_SONGS.json",
     dataType: "json",
-    success: function(data) {
+    success: function(data: Song[]) {
       const allTags = new Set();
-      const allSongs = [];
+      const allSongs: Song[] = [];
 
       allTags.add(ALL_TAG);
-      data.map(function(song) {
+      data.map(function(song: Song) {
         allSongs.push(song);
         const tags = song["tags"];
         tags.map((tag) => {
@@ -91,20 +93,20 @@ window.onload = function() {
           value: tag
         };
       });
-      document.getElementById("allTags").innerHTML = buttonTemplate({
+      document.getElementById("allTags")!.innerHTML = buttonTemplate({
         buttons: allTagButtons
       });
 
       renderSelectedSongs(selectedTag);
 
       $("#allTags").find("input").change(function(e) {
-        selectedTag = e.target.value;
+        selectedTag = (e.target as HTMLInputElement).value;
         renderSelectedSongs(selectedTag);
       });
     }
   });
 
-  const loadSongUrl = function(song) {
+  const loadSongUrl = function(song: Song): void {
     window.location.href = song.url;
   };
 

@@ -1,17 +1,17 @@
-const path = require("path");
-const webpack = require("webpack");
-const CleanWebpackPlugin = require("clean-webpack-plugin");
-const MiniCssExtractPlugin = require("mini-css-extract-plugin");
-const OptimizeCssAssetsPlugin = require("optimize-css-assets-webpack-plugin");
-const TerserPlugin = require("terser-webpack-plugin");
-const WebpackManifestPlugin = require("webpack-manifest-plugin");
+import path from "path";
+import webpack from "webpack";
+import CleanWebpackPlugin from "clean-webpack-plugin";
+import MiniCssExtractPlugin from "mini-css-extract-plugin";
+import OptimizeCssAssetsPlugin from "optimize-css-assets-webpack-plugin";
+import TerserPlugin from "terser-webpack-plugin";
+import WebpackManifestPlugin from "webpack-manifest-plugin";
 
-module.exports = {
+const config: webpack.Configuration = {
   entry: {
-    convert: "./js/convert/convert.js",
-    index: "./js/index.js",
-    renderChords: "./js/renderChords.js",
-    showAllSongs: "./js/showAllSongs.js",
+    convert: "./ts/convert/convert.ts",
+    index: "./ts/index.ts",
+    renderChords: "./ts/renderChords.ts",
+    showAllSongs: "./ts/showAllSongs.ts",
     global: "./css/global.css",
   },
   output: {
@@ -21,7 +21,7 @@ module.exports = {
   },
   module: {
     rules: [{
-      test: /\.js$/,
+      test: /\.(?:js|ts)$/,
       exclude: /node_modules/,
       loader: "babel-loader"
     }, {
@@ -67,4 +67,9 @@ module.exports = {
       jQuery: "jquery"
     })
   ],
+  resolve: {
+    extensions: [".ts", ".js"],
+  },
 };
+
+export default config;

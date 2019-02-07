@@ -2,8 +2,8 @@ import $ from "jquery";
 import "bootstrap/js/dist/button";
 import "jquery-ui/ui/widgets/tooltip";
 import "jquery-ui/themes/base/all.css";
-import { songView } from "./model.js";
-import { renderChords, rerender } from "./render.js";
+import { songView } from "./model";
+import { renderChords, rerender } from "./render";
 import buttonTemplate from "../mustache/button.mustache";
 
 const TRANSPOSE = "transpose";
@@ -12,11 +12,11 @@ const INSTRUMENT = "instrument";
 const ORIENTATION = "orientation";
 const CHORD_OPTION = "chord_option";
 
-const getWidget = function(type) {
+const getWidget = function(type: string): JQuery {
   return $(`#${type}`).find("input");
 };
 
-export const selectButton = function(type, value) {
+export const selectButton = function(type: string, value: number | string): void {
   const buttonToSelect = $(`#${type}-${value}`);
   if (!buttonToSelect.find("input").prop("checked")) {
     $(`#${type}`).find("label").removeClass("active");
@@ -24,7 +24,7 @@ export const selectButton = function(type, value) {
   }
 };
 
-const loadChordOptionButtons = function() {
+const loadChordOptionButtons = function(): void {
   const chordOptions = ["original", "simple"];
   const chordOptionButtons = [];
   for (let value of chordOptions) {
@@ -34,19 +34,24 @@ const loadChordOptionButtons = function() {
       value: value,
     });
   }
-  document.getElementById(CHORD_OPTION).innerHTML = buttonTemplate({ buttons: chordOptionButtons });
+  document.getElementById(CHORD_OPTION)!.innerHTML = buttonTemplate({ buttons: chordOptionButtons });
 
   selectButton(CHORD_OPTION, songView.getChordOption());
 
   const chordOptionWidget = getWidget(CHORD_OPTION);
 
   chordOptionWidget.change(function(e) {
-    songView.setChordOption(e.target.value);
+    songView.setChordOption((e.target as HTMLInputElement).value);
     rerender();
   });
 };
 
-const loadTransposeButtons = function() {
+export const renderTranspose = function(): void {
+  const transpose = songView.getTranspose();
+  selectButton(TRANSPOSE, transpose);
+};
+
+const loadTransposeButtons = function(): void {
   const transposeButtons = [];
 
   for (let value = -6; value <= 6; value++) {
@@ -62,21 +67,21 @@ const loadTransposeButtons = function() {
       value: value
     });
   }
-  document.getElementById(TRANSPOSE).innerHTML = buttonTemplate({ buttons: transposeButtons });
+  document.getElementById(TRANSPOSE)!.innerHTML = buttonTemplate({ buttons: transposeButtons });
 
   renderTranspose();
 
   const transposeWidget = getWidget(TRANSPOSE);
 
   transposeWidget.change(function(e) {
-    const transposeAmount = e.target.value;
+    const transposeAmount = +(e.target as HTMLInputElement).value;
     songView.setTranspose(transposeAmount);
     window.history.replaceState({"id": songView.getId(), "transpose": transposeAmount}, "", `?transpose=${transposeAmount}`);
     rerender();
   });
 };
 
-const renderColumnButtons = function() {
+const renderColumnButtons = function(): void {
   const columnButtons = [];
 
   for (let value = 1; value <= 4; value++) {
@@ -86,19 +91,19 @@ const renderColumnButtons = function() {
       value: value,
     });
   }
-  document.getElementById(COLUMN).innerHTML = buttonTemplate({ buttons: columnButtons });
+  document.getElementById(COLUMN)!.innerHTML = buttonTemplate({ buttons: columnButtons });
 };
 
-const loadColumnButtons = function() {
+const loadColumnButtons = function(): void {
 
-  const updateColCount = function(colCount) {
+  const updateColCount = function(colCount: number): void {
     $("#song").css("column-count", colCount);
     $("#song").css("position", colCount > 1 ? "absolute" : "static");
   };
   let defaultColCount = 3;
 
   // Change default column count depending on screen width
-  const width = $(window).width();
+  const width = $(window).width()!;
   // iPads
   if (width < 1200) {
     // phones
@@ -116,12 +121,12 @@ const loadColumnButtons = function() {
   const columnWidget = getWidget(COLUMN);
 
   columnWidget.change(function(e) {
-    const colCount = e.target.value;
+    const colCount = +(e.target as HTMLInputElement).value;
     updateColCount(colCount);
   });
 };
 
-export const loadInstrumentButtons = function(options={}) {
+export const loadInstrumentButtons = function(options: { showNone?: false } = {}): void {
   // Render instrument toggle widget
   const instrumentOptions = ["none", "ukulele", "baritone", "guitar", "guitalele"];
 
@@ -136,7 +141,7 @@ export const loadInstrumentButtons = function(options={}) {
       value: value,
     });
   }
-  document.getElementById(INSTRUMENT).innerHTML = buttonTemplate({ buttons: instrumentButtons });
+  document.getElementById(INSTRUMENT)!.innerHTML = buttonTemplate({ buttons: instrumentButtons });
 
   const currentInstrument = songView.getInstrument();
   selectButton(INSTRUMENT, currentInstrument);
@@ -144,13 +149,13 @@ export const loadInstrumentButtons = function(options={}) {
   const instrumentWidget = getWidget(INSTRUMENT);
 
   instrumentWidget.change(function(e) {
-    const newInstrument = e.target.value;
+    const newInstrument = (e.target as HTMLInputElement).value;
     songView.setInstrument(newInstrument);
     renderChords();
   });
 };
 
-export const loadOrientationButtons = function() {
+export const loadOrientationButtons = function(): void {
   const orientationOptions = ["left", "right"];
   const orientationButtons = [];
   for (let value of orientationOptions) {
@@ -160,19 +165,19 @@ export const loadOrientationButtons = function() {
       value: value,
     });
   }
-  document.getElementById(ORIENTATION).innerHTML = buttonTemplate({ buttons: orientationButtons });
+  document.getElementById(ORIENTATION)!.innerHTML = buttonTemplate({ buttons: orientationButtons });
 
   selectButton(ORIENTATION, songView.getOrientation());
 
   const orientationWidget = getWidget(ORIENTATION);
 
   orientationWidget.change(function(e) {
-    songView.setOrientation(e.target.value);
+    songView.setOrientation((e.target as HTMLInputElement).value);
     renderChords();
   });
 };
 
-export var loadWidgets = function() {
+export var loadWidgets = function(): void {
   // Transpose widget
   loadTransposeButtons();
 
@@ -187,11 +192,6 @@ export var loadWidgets = function() {
 
   // Orientation toggle
   loadOrientationButtons();
-};
-
-export const renderTranspose = function() {
-  const transpose = songView.getTranspose();
-  selectButton(TRANSPOSE, transpose);
 };
 
 
@@ -230,13 +230,13 @@ $(document).ready(function() {
 
 // Copy and paste
 document.addEventListener("copy", function(event) {
-  const selection = document.getSelection();
+  const selection = document.getSelection()!;
 
   let mangle = false; // whether the selection contains chords
   const ranges = [];
   for (let i = 0; i < selection.rangeCount; i++) {
     const range = selection.getRangeAt(i);
-    const container = range.commonAncestorContainer.cloneNode(false);
+    const container = range.commonAncestorContainer.cloneNode(false) as Node & ParentNode;
     container.appendChild(range.cloneContents());
     const chords = container.querySelectorAll(".chords");
     if (chords.length) {
@@ -258,10 +258,10 @@ document.addEventListener("copy", function(event) {
 
       for (const chord of chords) {
         // Re-construct the old chord lyric implementation </3
-        const parent = chord.parentNode;
-        let fakeChordLine = parent.firstChild;
+        const parent = chord.parentElement!;
+        let fakeChordLine = parent.firstElementChild;
         if (
-          !fakeChordLine.classList ||
+          !fakeChordLine ||
           !fakeChordLine.classList.contains("fakeChordLine")
         ) {
           fakeChordLine = document.createElement("div");
@@ -269,11 +269,11 @@ document.addEventListener("copy", function(event) {
           parent.insertBefore(fakeChordLine, parent.firstChild);
         }
 
-        const chordText = chord.textContent;
+        const chordText = chord.textContent!;
         const range = document.createRange();
         range.setStartAfter(fakeChordLine);
         range.setEndBefore(chord);
-        let chords = fakeChordLine.textContent;
+        let chords = fakeChordLine.textContent!;
         if (chords) {
           chords += " ";
         }
@@ -283,8 +283,8 @@ document.addEventListener("copy", function(event) {
         fakeChordLine.textContent = chords.padEnd(chordPosition) + chordText;
 
         if (
-          chord.firstChild.classList &&
-          chord.firstChild.classList.contains("overLyric")
+          chord.firstElementChild &&
+          chord.firstElementChild.classList.contains("overLyric")
         ) {
           parent.removeChild(chord);
         } else {
