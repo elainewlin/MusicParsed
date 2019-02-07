@@ -11,6 +11,7 @@ JSON = "json"
 DATA_DIRECTORY = os.path.join(os.path.dirname(os.getcwd()), "static/data")
 TEXT_FOLDER = os.path.join(DATA_DIRECTORY, "text")
 JSON_FOLDER = os.path.join(DATA_DIRECTORY, JSON)
+TAG_FOLDER = os.path.join(DATA_DIRECTORY, "tags")
 ALL_SONGS = "ALL_SONGS.json"
 ALL_SONGS_PATH = os.path.join(DATA_DIRECTORY, ALL_SONGS)
 
@@ -184,6 +185,23 @@ class TextParser:
             self.toJSON(fileName)
         self.getAllSongs()
 
+    def parseSongTags(self):
+        """
+        Update ALL_SONGS.json with song tag metadata
+        """
+        songsToTags = {}
+        for fileName in sorted(os.listdir(TAG_FOLDER)):
+            if not fileName.endswith(TEXT):
+                continue
+            tagName = fileName.split(".")[0]
+            tagFile = open(os.path.join(TAG_FOLDER, fileName))
+
+            for line in tagFile:
+                songId = line.strip()
+
+                songsToTags.setdefault(songId, []).append(tagName)
+        return songsToTags
+
     def getAllText(self):
         """
         Return:
@@ -234,11 +252,14 @@ class TextParser:
         Updates ALL_SONGS.json with data from all songs
         """
         allSongs = []
+        songsToTags = self.parseSongTags()
+
         for fileName in sorted(os.listdir(JSON_FOLDER)):
             newSong = {}
             songID = nameToID(fileName)
             [title, artist] = idToData(songID)
-            # tags = []
+
+            tags = songsToTags.get(songID, [])
             with open(os.path.join(JSON_FOLDER, fileName)) as dataFile:
                 data = json.load(dataFile)
                 # Song title, called label for jQuery autocomplete
@@ -249,6 +270,7 @@ class TextParser:
 
             # URL friendly i.e. love_story - taylor_swift
             newSong["id"] = songID
+            newSong["tags"] = tags
 
             urlInfo = {
                 "title": idToData(songID)[0],

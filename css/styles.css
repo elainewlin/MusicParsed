@@ -145,10 +145,6 @@ html#songPage body {
 
 /* Styles for all songs page */
 
-.allSongsContainer {
-  padding: 10px 40px 0;
-}
-
 #allSongs {
   column-width: 350px;
   column-count: 3;

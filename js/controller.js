@@ -16,7 +16,7 @@ const getWidget = function(type) {
   return $(`#${type}`).find("input");
 };
 
-const selectButton = function(type, value) {
+export const selectButton = function(type, value) {
   const buttonToSelect = $(`#${type}-${value}`);
   if (!buttonToSelect.find("input").prop("checked")) {
     $(`#${type}`).find("label").removeClass("active");
