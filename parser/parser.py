@@ -191,6 +191,8 @@ class TextParser:
         """
         songsToTags = {}
         for fileName in sorted(os.listdir(TAG_FOLDER)):
+            if not fileName.endswith(TEXT):
+                continue
             tagName = fileName.split(".")[0]
             tagFile = open(os.path.join(TAG_FOLDER, fileName))
 

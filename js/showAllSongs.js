@@ -4,6 +4,7 @@ import "../css/global.css";
 import allSongsListTemplate from "../mustache/allSongsList.mustache";
 import buttonTemplate from "../mustache/button.mustache";
 import {songSearch} from "./render.js";
+import {selectButton} from "./controller.js";
 
 // Helper function for sorting arrays of objects by property
 var comparator = function(property) {
@@ -47,11 +48,13 @@ const sortSongsByArtist = function(songs) {
 };
 
 const ALL_TAG = "all";
+const TAG_TYPE = "tag";
 let selectedTag = ALL_TAG;
-const allSongsByTag = {};
+const allSongsByTag = new Map();
 
 const renderSelectedSongs = function(selectedTag) {
-  const songsToRender = allSongsByTag[selectedTag];
+  selectButton(TAG_TYPE, selectedTag);
+  const songsToRender = allSongsByTag.get(selectedTag);
   const sortedSongs = sortSongsByArtist(songsToRender);
 
   document.getElementById("allSongs").innerHTML = allSongsListTemplate({
@@ -73,18 +76,17 @@ window.onload = function() {
         const tags = song["tags"];
         tags.map((tag) => {
           allTags.add(tag);
-          if (allSongsByTag.hasOwnProperty(tag)) {
-            allSongsByTag[tag].push(song);
-          } else {
-            allSongsByTag[tag] = [song];
+          if (!allSongsByTag.has(tag)) {
+            allSongsByTag.set(tag, []);
           }
+          allSongsByTag.get(tag).push(song);
         });
       });
-      allSongsByTag[ALL_TAG] = allSongs;
+      allSongsByTag.set(ALL_TAG, allSongs);
 
       const allTagButtons = Array.from(allTags).map((tag) => {
         return {
-          type: "tag",
+          type: TAG_TYPE,
           name: tag,
           value: tag
         };
@@ -94,6 +96,11 @@ window.onload = function() {
       });
 
       renderSelectedSongs(selectedTag);
+
+      $("#allTags").find("input").change(function(e) {
+        selectedTag = e.target.value;
+        renderSelectedSongs(selectedTag);
+      });
     }
   });
 
@@ -103,9 +110,4 @@ window.onload = function() {
 
   songSearch(loadSongUrl);
 };
-
-$(document).on("change", "input", function(e) {
-  selectedTag = e.target.value;
-  renderSelectedSongs(selectedTag);
-});
 
