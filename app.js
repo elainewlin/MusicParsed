@@ -11,7 +11,7 @@ const port = process.env.PORT || 5000;
 const app = express();
 
 // Compatibility with Jinja2 templates
-const env = nunjucks.configure("templates", { express: app });
+const env = nunjucks.configure("templates", { express: app, watch: true });
 app.set("view engine", "html");
 
 // Compatibility with {{ url_for('static', filename='images/logo.svg') }}
