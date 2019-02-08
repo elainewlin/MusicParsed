@@ -13,16 +13,6 @@ const app = express();
 const env = nunjucks.configure("templates", { express: app, watch: true });
 app.set("view engine", "html");
 
-// Compatibility with {{ url_for('static', filename='images/logo.svg') }}
-// syntax from Flask
-env.addGlobal("url_for", (endpoint, params) => {
-  if (endpoint === "static") {
-    return `/static/${params.filename}`;
-  } else {
-    throw `url_for: unknown endpoint ${endpoint}`;
-  }
-});
-
 // Provide the webpack manifest
 let reloadManifest = true;
 app.use((req, res, next) => {
