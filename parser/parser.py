@@ -1,6 +1,7 @@
 import os
 import json
 import requests
+import subprocess
 from bs4 import BeautifulSoup
 import argparse
 from isChord import isChordLine, isLyricLine, isLabel
@@ -221,24 +222,20 @@ class TextParser:
           - each entry is "title - artist.txt"
         """
 
-        modifiedTextFile = "modified.txt"
-        open(modifiedTextFile, "w").close()
-        os.system("git status -s >> %s" % modifiedTextFile)
-        f = open(modifiedTextFile, "r")
-        lines = f.readlines()
+        lines = subprocess.check_output(
+            ["git", "status", "-z"]
+        ).decode().split("\0")
 
         """
         git status output needs to be parsed
-        1. remove new line character
-        2. remove first 3 characters  " M " or "?? "
-        3. remove quotes
+        1. remove first 3 characters  " M " or "?? "
         """
         cleanedLines = []
         deleted = " D "
 
         for l in lines:
             if not l.startswith(deleted):
-                cleanedLines.append(l.strip("\n")[3:].replace("\"", ""))
+                cleanedLines.append(l[3:])
         allModifiedText = []
         for l in cleanedLines:
             textFolder = "text/"
