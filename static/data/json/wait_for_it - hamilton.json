@@ -3,9 +3,11 @@
     "C",
     "Am",
     "Em",
+    "Gsus4",
+    "F6",
     "F",
-    "G",
-    "Gsus4"
+    "Fmaj7",
+    "C6"
   ],
   "artist": "Hamilton",
   "capo": "1",
@@ -27,7 +29,7 @@
       "lyrics": "Theodosia writes me a letter every day"
     },
     {
-      "chord": "C                   Am                         Em",
+      "chord": "C                   Am                         Em/B",
       "lyrics": "I'm keeping the bed warm while her husband is away"
     },
     {
@@ -35,12 +37,16 @@
       "lyrics": "He's on the British side in Georgia"
     },
     {
-      "chord": "Em",
+      "chord": "     Em",
       "lyrics": "He's trying to keep the colonies in line"
     },
     {
       "chord": "C                       Am",
       "lyrics": "Well he can keep all of Georgia"
+    },
+    {
+      "chord": "",
+      "lyrics": "           N.C."
     },
     {
       "chord": "",
@@ -50,43 +56,43 @@
       "label": "[Chorus]"
     },
     {
-      "chord": "Am                        F",
+      "chord": "Am                        C",
       "lyrics": "Love doesn't discriminate"
     },
     {
-      "chord": "                            G",
+      "chord": "                            Gsus4",
       "lyrics": "Between the sinners and the saints"
     },
     {
-      "chord": "                G",
+      "chord": "",
       "lyrics": "It takes and it takes and it takes"
     },
     {
-      "chord": "    Am                    F",
+      "chord": "    Am                    C",
       "lyrics": "And we keep lovin' anyway"
     },
     {
-      "chord": "                G",
-      "lyrics": "We laugh and we fall and we break"
+      "chord": "                F6",
+      "lyrics": "We laugh and we cry and we break"
     },
     {
-      "chord": "       G",
+      "chord": "",
       "lyrics": "And we make our mistakes"
     },
     {
-      "chord": "    Am                  F",
+      "chord": "    Am                  C",
       "lyrics": "And if there's a reason I'm by her side"
     },
     {
-      "chord": "     G",
+      "chord": "     Gsus4",
       "lyrics": "When so many have tried"
     },
     {
-      "chord": "               Am          F",
+      "chord": "               Am          C",
       "lyrics": "I'm willing to wait for it"
     },
     {
-      "chord": "                     Gsus4",
+      "chord": "                     F6",
       "lyrics": "Then, I'm willing to wait for it"
     },
     {
@@ -98,27 +104,31 @@
     },
     {
       "chord": "",
-      "lyrics": "preacher, preacher, preacher"
+      "lyrics": "(preacher, preacher, preacher)"
     },
     {
-      "chord": "C                             Am                       Em",
+      "chord": "C                             Am                       Em/B",
       "lyrics": "But there are things that the homilies and hymns won't teach ya,"
     },
     {
       "chord": "",
-      "lyrics": "teach ya, teach ya, teach ya"
+      "lyrics": "(teach ya, teach ya, teach ya)"
     },
     {
       "chord": "C               Am",
-      "lyrics": "My mother was a genius"
+      "lyrics": "My mother was a genius (genius)"
     },
     {
-      "chord": "     Em",
-      "lyrics": "My father commanded respect, respect"
+      "chord": "   Em",
+      "lyrics": "My father commanded respect, (respect, respect)"
     },
     {
       "chord": "C                   Am",
       "lyrics": "When they died they left no instructions,"
+    },
+    {
+      "chord": "",
+      "lyrics": "N.C."
     },
     {
       "chord": "",
@@ -128,40 +138,44 @@
       "label": "[Chorus]"
     },
     {
-      "chord": "Am                         F",
+      "chord": "Am                         C",
       "lyrics": "Death doesn\u2019t discriminate"
     },
     {
-      "chord": "                            G",
+      "chord": "                            Gsus4",
       "lyrics": "Between the sinners and the saints"
     },
     {
-      "chord": "                G",
+      "chord": "",
       "lyrics": "It takes and it takes and it takes"
     },
     {
-      "chord": "      Am                    F",
-      "lyrics": "Yeah, we keep living anyway"
+      "chord": "     Am                   C",
+      "lyrics": "And we keep living anyway"
     },
     {
-      "chord": "               G",
+      "chord": "               F6",
       "lyrics": "We rise and we fall and we break"
     },
     {
-      "chord": "       G",
+      "chord": "",
       "lyrics": "And we make our mistakes"
     },
     {
-      "chord": "    Am                  F",
+      "chord": "    Am                  C",
       "lyrics": "And if there\u2019s a reason I\u2019m still alive"
     },
     {
-      "chord": "     G",
+      "chord": "     Gsus4",
       "lyrics": "When everyone who loves me has died"
     },
     {
-      "chord": "                     Am          F",
-      "lyrics": "Then, I\u2019m willing to wait for it"
+      "chord": "                     Am                        C",
+      "lyrics": "Then, I\u2019m willing to wait for it (wait for it)"
+    },
+    {
+      "chord": "",
+      "lyrics": "                    N.C."
     },
     {
       "chord": "",
@@ -172,14 +186,14 @@
     },
     {
       "chord": "Am",
-      "lyrics": "Wait for it, wait for it"
+      "lyrics": "Wait for it, (wait for it,"
     },
     {
-      "chord": "Am",
-      "lyrics": "Wait for it, wait for it"
+      "chord": "",
+      "lyrics": "Wait for it, wait for it)"
     },
     {
-      "chord": "C                     G             Am",
+      "chord": "C                                   Am",
       "lyrics": "I am the one thing in life I can control"
     },
     {
@@ -187,7 +201,7 @@
       "lyrics": "(Wait for it, wait for it"
     },
     {
-      "chord": "Am",
+      "chord": "",
       "lyrics": "Wait for it, wait for it)"
     },
     {
@@ -199,19 +213,19 @@
       "lyrics": "(Wait for it, wait for it"
     },
     {
-      "chord": "Am",
+      "chord": "",
       "lyrics": "Wait for it, wait for it)"
     },
     {
-      "chord": "C                  G",
+      "chord": "C                                  Am",
       "lyrics": "I am not falling behind or running late"
     },
     {
-      "chord": "Am",
+      "chord": "",
       "lyrics": "(Wait for it, wait for it"
     },
     {
-      "chord": "Am",
+      "chord": "",
       "lyrics": "Wait for it, wait for it)"
     },
     {
@@ -226,15 +240,15 @@
       "lyrics": "I am lying in wait"
     },
     {
-      "chord": "       Am",
+      "chord": "",
       "lyrics": "(Wait, wait, wait)"
     },
     {
-      "chord": "C                 G              Am",
+      "chord": "C                                Am",
       "lyrics": "Hamilton faces an endless uphill climb"
     },
     {
-      "chord": "        Am",
+      "chord": "",
       "lyrics": "(Climb, climb, climb)"
     },
     {
@@ -242,15 +256,15 @@
       "lyrics": "He got something to prove,"
     },
     {
-      "chord": "                  Am",
+      "chord": "                       Am",
       "lyrics": "he got nothing to lose"
     },
     {
-      "chord": "       Am",
+      "chord": "",
       "lyrics": "(Lose, lose, lose, lose)"
     },
     {
-      "chord": "C                    G",
+      "chord": "C",
       "lyrics": "Hamilton's pace is relentless,"
     },
     {
@@ -258,22 +272,22 @@
       "lyrics": "he wastes no time"
     },
     {
-      "chord": "       Am",
+      "chord": "",
       "lyrics": "(Time, time, time)"
     },
     {
-      "chord": "G",
+      "chord": "F6                     Fmaj7",
       "lyrics": "What is it like in his shoes?"
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Am                        F",
+      "chord": "   C                      Am",
       "lyrics": "Hamilton doesn\u2019t hesitate"
     },
     {
-      "chord": "                 G",
+      "chord": "                 Em",
       "lyrics": "He exhibits no restraint"
     },
     {
@@ -281,11 +295,11 @@
       "lyrics": "He takes and he takes and he takes"
     },
     {
-      "chord": "    Am                      F",
+      "chord": "    C                       Am",
       "lyrics": "And he keeps winning anyway"
     },
     {
-      "chord": "               G",
+      "chord": "               Em",
       "lyrics": "He changes the game"
     },
     {
@@ -293,19 +307,19 @@
       "lyrics": "He plays and he raises the stakes"
     },
     {
-      "chord": "    Am                  F",
+      "chord": "    Am",
       "lyrics": "And if there\u2019s a reason"
     },
     {
-      "chord": "                           G",
+      "chord": "C6                      Am/B",
       "lyrics": "He seems to thrive when so few survive,"
     },
     {
-      "chord": "                               Am          F",
-      "lyrics": "Then Goddamnit\u2014 I'm willing to wait for it"
+      "chord": "                               Am                        C",
+      "lyrics": "Then Goddamnit\u2014 I'm willing to wait for it (wait for it)"
     },
     {
-      "chord": "               G",
+      "chord": "               F",
       "lyrics": "I'm willing to wait for it..."
     },
     {
@@ -316,31 +330,31 @@
       "lyrics": "Life doesn't discriminate"
     },
     {
-      "chord": "F                           G",
+      "chord": "C                           Gsus4",
       "lyrics": "Between the sinners and the saints"
     },
     {
-      "chord": "                G",
+      "chord": "",
       "lyrics": "It takes and it takes and it takes"
     },
     {
-      "chord": "    Am                    F",
+      "chord": "    Am                    C",
       "lyrics": "And we keep living anyway"
     },
     {
-      "chord": "               G",
+      "chord": "               F6",
       "lyrics": "We rise and we fall and we break"
     },
     {
-      "chord": "       G",
+      "chord": "",
       "lyrics": "And we make our mistakes"
     },
     {
-      "chord": "    Am                  F",
+      "chord": "    Am                  C",
       "lyrics": "And if there's a reason I'm still alive"
     },
     {
-      "chord": "     G",
+      "chord": "     Gsus4             Em/G",
       "lyrics": "When so many have died"
     },
     {
@@ -351,7 +365,7 @@
       "label": "[Picking]"
     },
     {
-      "chord": "",
+      "chord": "  C     Am    Em",
       "lyrics": "A---------0---------"
     },
     {
@@ -367,12 +381,20 @@
       "lyrics": "G-------------4-----"
     },
     {
-      "chord": "",
-      "lyrics": "Wait for it"
+      "chord": "                                C",
+      "lyrics": "Wait for it, (wait for it, wait for it)"
     },
     {
-      "chord": "            C",
-      "lyrics": "Wait for it"
+      "chord": "     Am                         Em",
+      "lyrics": "Wait for it, (wait for it, wait for it,"
+    },
+    {
+      "chord": "",
+      "lyrics": "wait for it, wait for it, wait for it,"
+    },
+    {
+      "chord": "                               C",
+      "lyrics": "wait for it, wait for it, wait for it)"
     }
   ],
   "title": "Wait for It"
