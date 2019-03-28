@@ -105,6 +105,32 @@ app.route("/song/:id").get(function(req, res) {
   });
 });
 
+app.route("/chord/:instrument/:rootIndex/:type?").get(function (req, res) {
+  const instrument = req.params.instrument;
+  const rootIndex = parseInt(req.params.rootIndex);
+  const type = req.params.type ? req.params.type : "";
+
+  const client = new MongoClient(uri, { useNewUrlParser: true });
+  client.connect(err => {
+    if (err) {
+      throw err;
+    }
+
+    const db = client.db("test");
+    const searchQuery = {
+      "instrument": instrument, 
+      "rootIndex": rootIndex, 
+      "type": type
+    };
+    db.collection("chords").findOne(searchQuery, function (err, result) {
+      if (err) {
+        throw err;
+      }
+      res.send(result);
+    });
+  });
+});
+
 
 // Routes
 app.use("/static", express.static("static"));
