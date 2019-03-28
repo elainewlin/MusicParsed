@@ -1,255 +1,256 @@
 {
   "allChords": [
-    "D", 
-    "Dadd4", 
-    "A7sus4", 
-    "Em7", 
-    "Bm", 
-    "E", 
-    "G7", 
-    "F#m", 
-    "Eadd4", 
-    "B7sus4", 
-    "F#m7", 
-    "Bsus4", 
-    "A", 
-    "C#m", 
-    "F#", 
-    "A7", 
+    "D",
+    "Dadd4",
+    "A7sus4",
+    "Em7",
+    "Bm",
+    "E",
+    "G7",
+    "F#m",
+    "Eadd4",
+    "B7sus4",
+    "F#m7",
+    "Bsus4",
+    "A",
+    "C#m",
+    "F#",
+    "A7",
     "G#m"
-  ], 
-  "artist": "Disney", 
-  "id": "Love Is An Open Door - Disney", 
+  ],
+  "artist": "Disney",
+  "fullName": "Love Is An Open Door - Disney",
+  "id": "love_is_an_open_door - disney",
   "lines": [
     {
-      "chord": "", 
+      "chord": "",
       "lyrics": "[Anna] Okay, can I just, say something crazy?"
-    }, 
+    },
     {
-      "chord": "", 
+      "chord": "",
       "lyrics": "[Hans] I love crazy!"
-    }, 
+    },
     {
       "label": "[Verse 1]"
-    }, 
+    },
     {
-      "chord": "              D               Dadd4/F#   D/G         A7sus4", 
+      "chord": "              D               Dadd4/F#   D/G         A7sus4",
       "lyrics": "[Anna] All my life has been a series of doors in my face"
-    }, 
+    },
     {
-      "chord": "         D               Dadd4/F#    D/G       A7sus4", 
+      "chord": "         D               Dadd4/F#    D/G       A7sus4",
       "lyrics": "And then suddenly I bump into you"
-    }, 
+    },
     {
-      "chord": "", 
+      "chord": "",
       "lyrics": "[Hans] I was thinking the same thing! 'Cause like"
-    }, 
+    },
     {
-      "chord": "D                   Dadd4/F#              D/G     A7sus4", 
+      "chord": "D                   Dadd4/F#              D/G     A7sus4",
       "lyrics": "I've been searching my whole life to find my own place"
-    }, 
+    },
     {
-      "chord": "          D              Dadd4/F#            Em7         A7sus4", 
+      "chord": "          D              Dadd4/F#            Em7         A7sus4",
       "lyrics": "And maybe it's the party talking or the chocolate fondue"
-    }, 
+    },
     {
-      "chord": "", 
+      "chord": "",
       "lyrics": "[Anna] *giggles*"
-    }, 
+    },
     {
       "label": "[Pre-Chorus]"
-    }, 
+    },
     {
-      "chord": "                Bm", 
+      "chord": "                Bm",
       "lyrics": "[Anna] But with you"
-    }, 
+    },
     {
-      "chord": "", 
+      "chord": "",
       "lyrics": "[Hans] But with you"
-    }, 
+    },
     {
-      "chord": "               D", 
+      "chord": "               D",
       "lyrics": "[Hans] I found my place"
-    }, 
+    },
     {
-      "chord": "", 
+      "chord": "",
       "lyrics": "[Anna] I see your face"
-    }, 
+    },
     {
       "label": "[Chorus]"
-    }, 
+    },
     {
-      "chord": "                E                              G7", 
+      "chord": "                E                              G7",
       "lyrics": "[Both] And it's nothing like I've ever known before"
-    }, 
+    },
     {
-      "chord": "                D   F#m  E", 
+      "chord": "                D   F#m  E",
       "lyrics": "Love is an open door"
-    }, 
+    },
     {
-      "chord": "G7              D   F#m  E", 
+      "chord": "G7              D   F#m  E",
       "lyrics": "Love is an open door"
-    }, 
+    },
     {
-      "chord": "G7              D", 
+      "chord": "G7              D",
       "lyrics": "Love is an open door"
-    }, 
+    },
     {
-      "chord": "            F#m", 
+      "chord": "            F#m",
       "lyrics": "[Anna] With you!"
-    }, 
+    },
     {
-      "chord": "", 
+      "chord": "",
       "lyrics": "[Hans] With you!"
-    }, 
+    },
     {
-      "chord": "            E", 
+      "chord": "            E",
       "lyrics": "[Anna] With you!"
-    }, 
+    },
     {
-      "chord": "", 
+      "chord": "",
       "lyrics": "[Hans] With you!"
-    }, 
+    },
     {
-      "chord": "       G7              D   Dadd4/F#   D/G   A7sus4", 
+      "chord": "       G7              D   Dadd4/F#   D/G   A7sus4",
       "lyrics": "[Both] Love is an open door"
-    }, 
+    },
     {
       "label": "[Instrumental]"
-    }, 
+    },
     {
-      "chord": "D   Dadd4/F#   D/G   A7sus4", 
+      "chord": "D   Dadd4/F#   D/G   A7sus4",
       "lyrics": ""
-    }, 
+    },
     {
       "label": "[Verse 2]"
-    }, 
+    },
     {
-      "chord": "                   E", 
+      "chord": "                   E",
       "lyrics": "[Hans] I mean it's crazy"
-    }, 
+    },
     {
-      "chord": "", 
+      "chord": "",
       "lyrics": "[Anna] What?"
-    }, 
+    },
     {
-      "chord": "          Eadd4/G#", 
+      "chord": "          Eadd4/G#",
       "lyrics": "[Hans] We finish each other's..."
-    }, 
+    },
     {
-      "chord": "       E/A", 
+      "chord": "       E/A",
       "lyrics": "[Anna] Sandwiches!"
-    }, 
+    },
     {
-      "chord": "                   B7sus4", 
+      "chord": "                   B7sus4",
       "lyrics": "[Hans] That's what I was gonna say!"
-    }, 
+    },
     {
-      "chord": "                  E", 
+      "chord": "                  E",
       "lyrics": "[Anna] I've never met someone"
-    }, 
+    },
     {
-      "chord": "           Eadd4/G#               F#m7    Bsus4", 
+      "chord": "           Eadd4/G#               F#m7    Bsus4",
       "lyrics": "[Both] Who thinks so much like me. Jinx! Jinx again!"
-    }, 
+    },
     {
-      "chord": "    E               Eadd4/G#", 
+      "chord": "    E               Eadd4/G#",
       "lyrics": "Our mental synchronization"
-    }, 
+    },
     {
-      "chord": "    A                 Bsus4", 
+      "chord": "    A                 Bsus4",
       "lyrics": "Can have but one explanation"
-    }, 
+    },
     {
-      "chord": "       E", 
+      "chord": "       E",
       "lyrics": "[Hans] You"
-    }, 
+    },
     {
-      "chord": "", 
+      "chord": "",
       "lyrics": "[Anna] and I"
-    }, 
+    },
     {
-      "chord": "", 
+      "chord": "",
       "lyrics": "[Hans] were"
-    }, 
+    },
     {
-      "chord": "       Eadd4/G#", 
+      "chord": "       Eadd4/G#",
       "lyrics": "[Anna] just"
-    }, 
+    },
     {
-      "chord": "                F#m7   Bsus4", 
+      "chord": "                F#m7   Bsus4",
       "lyrics": "[Both] Meant to be"
-    }, 
+    },
     {
       "label": "[Pre-Chorus]"
-    }, 
+    },
     {
-      "chord": "               C#m", 
+      "chord": "               C#m",
       "lyrics": "[Anna] Say goodbye"
-    }, 
+    },
     {
-      "chord": "", 
+      "chord": "",
       "lyrics": "[Hans] Say goodbye"
-    }, 
+    },
     {
-      "chord": "              E", 
+      "chord": "              E",
       "lyrics": "[Both] To the pain of the past"
-    }, 
+    },
     {
-      "chord": "F#                          A7", 
+      "chord": "F#                          A7",
       "lyrics": "We don't have to feel it anymore"
-    }, 
+    },
     {
       "label": "[Chorus]"
-    }, 
+    },
     {
-      "chord": "                       E   G#m  F#", 
+      "chord": "                       E   G#m  F#",
       "lyrics": "[Both] Love is an open door"
-    }, 
+    },
     {
-      "chord": "A7              E   G#m  F#", 
+      "chord": "A7              E   G#m  F#",
       "lyrics": "Love is an open door"
-    }, 
+    },
     {
-      "chord": "A7                  E", 
+      "chord": "A7                  E",
       "lyrics": "Life can be so much more"
-    }, 
+    },
     {
-      "chord": "            G#m", 
+      "chord": "            G#m",
       "lyrics": "[Anna] With you!"
-    }, 
+    },
     {
-      "chord": "", 
+      "chord": "",
       "lyrics": "[Hans] With you!"
-    }, 
+    },
     {
-      "chord": "            F#", 
+      "chord": "            F#",
       "lyrics": "[Anna] With you!"
-    }, 
+    },
     {
-      "chord": "", 
+      "chord": "",
       "lyrics": "[Hans] With you!"
-    }, 
+    },
     {
-      "chord": "       A7              E", 
+      "chord": "       A7              E",
       "lyrics": "[Both] Love is an open door"
-    }, 
+    },
     {
-      "chord": "", 
+      "chord": "",
       "lyrics": "[Hans] Can I say something crazy?"
-    }, 
+    },
     {
-      "chord": "", 
+      "chord": "",
       "lyrics": "[Anna] *giggles*"
-    }, 
+    },
     {
-      "chord": "", 
+      "chord": "",
       "lyrics": "[Hans] Will you marry me?"
-    }, 
+    },
     {
-      "chord": "", 
+      "chord": "",
       "lyrics": "[Anna] Can I say something even crazier? Yes!"
     }
-  ], 
+  ],
   "title": "Love Is An Open Door"
 }

@@ -1,116 +1,117 @@
 {
   "allChords": [
-    "G", 
-    "Em", 
-    "Am7", 
-    "D7", 
-    "C", 
-    "F#m7b5", 
-    "B7", 
-    "G7", 
-    "F9", 
-    "C#dim7", 
-    "F#7", 
-    "Bm7", 
-    "E7", 
-    "Em7", 
-    "C13", 
-    "C7", 
+    "G",
+    "Em",
+    "Am7",
+    "D7",
+    "C",
+    "F#m7b5",
+    "B7",
+    "G7",
+    "F9",
+    "C#dim7",
+    "F#7",
+    "Bm7",
+    "E7",
+    "Em7",
+    "C13",
+    "C7",
     "Cm6"
-  ], 
-  "artist": "Audrey Hepburn", 
-  "id": "Moon River - Audrey Hepburn", 
+  ],
+  "artist": "Audrey Hepburn",
+  "fullName": "Moon River - Audrey Hepburn",
+  "id": "moon_river - audrey_hepburn",
   "lines": [
     {
       "label": "[Intro]"
-    }, 
+    },
     {
-      "chord": "G Em Am7 D7", 
+      "chord": "G Em Am7 D7",
       "lyrics": ""
-    }, 
+    },
     {
       "label": "[Verse 1]"
-    }, 
+    },
     {
-      "chord": "G      Em  C              G", 
+      "chord": "G      Em  C              G",
       "lyrics": "Moon river, wider than a mile"
-    }, 
+    },
     {
-      "chord": "        C             G       F#m7b5 B7", 
+      "chord": "        C             G       F#m7b5 B7",
       "lyrics": "I'm crossing you in style someday"
-    }, 
+    },
     {
-      "chord": "     Em    G7         C      F9", 
+      "chord": "     Em    G7         C      F9",
       "lyrics": "Oh, dream maker, you heart breaker"
-    }, 
+    },
     {
-      "chord": "   Em           C#dim7 F#7    Bm7 E7     Am7 D7", 
+      "chord": "   Em           C#dim7 F#7    Bm7 E7     Am7 D7",
       "lyrics": "Wherever you're go ing,   I'm going your way"
-    }, 
+    },
     {
       "label": "[Verse 2]"
-    }, 
+    },
     {
-      "chord": " G    Em     C                G", 
+      "chord": " G    Em     C                G",
       "lyrics": "Two drifters, off to see the world,"
-    }, 
+    },
     {
-      "chord": "         C             G       F#m7b5 B7", 
+      "chord": "         C             G       F#m7b5 B7",
       "lyrics": "There's such a lot of world to see"
-    }, 
+    },
     {
-      "chord": "      Em Em7/D    Em/C# C13  C7    G", 
+      "chord": "      Em Em7/D    Em/C# C13  C7    G",
       "lyrics": "We're after   the same  rainbow's end,"
-    }, 
+    },
     {
-      "chord": "  C                 G", 
+      "chord": "  C                 G",
       "lyrics": "Waiting \u2018round the bend"
-    }, 
+    },
     {
-      "chord": "     C           G     Em   Am7   D7", 
+      "chord": "     C           G     Em   Am7   D7",
       "lyrics": "My huckleberry friend, moon river   and me"
-    }, 
+    },
     {
       "label": "[Instrumental]"
-    }, 
+    },
     {
-      "chord": "G Em C G C G F#m7b5 B7", 
+      "chord": "G Em C G C G F#m7b5 B7",
       "lyrics": ""
-    }, 
+    },
     {
       "label": "[Bridge]"
-    }, 
+    },
     {
-      "chord": "     Em    G7         C      F9", 
+      "chord": "     Em    G7         C      F9",
       "lyrics": "Oh, dream maker, you heart breaker"
-    }, 
+    },
     {
-      "chord": "   Em           C#dim7 F#7    Bm7 E7     Am7 D7", 
+      "chord": "   Em           C#dim7 F#7    Bm7 E7     Am7 D7",
       "lyrics": "Wherever you're go ing,   I'm going your way"
-    }, 
+    },
     {
       "label": "[Verse 3]"
-    }, 
+    },
     {
-      "chord": " G     Em    C                G", 
+      "chord": " G     Em    C                G",
       "lyrics": "Two drifters, off to see the world,"
-    }, 
+    },
     {
-      "chord": "         C             G       F#m7b5 B7", 
+      "chord": "         C             G       F#m7b5 B7",
       "lyrics": "There's such a lot of world to see"
-    }, 
+    },
     {
-      "chord": "      Em Em7/D   C#dim7 C13   C7   G", 
+      "chord": "      Em Em7/D   C#dim7 C13   C7   G",
       "lyrics": "We're after  the same   rainbow's end,"
-    }, 
+    },
     {
-      "chord": "  C                 G", 
+      "chord": "  C                 G",
       "lyrics": "Waiting \u2018round the bend"
-    }, 
+    },
     {
-      "chord": "     C           G     Em    Am7  D7    C Cm6", 
+      "chord": "     C           G     Em    Am7  D7    C Cm6",
       "lyrics": "My huckleberry friend, moon river   and me."
     }
-  ], 
+  ],
   "title": "Moon River"
 }

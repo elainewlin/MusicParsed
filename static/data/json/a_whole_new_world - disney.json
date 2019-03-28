@@ -1,203 +1,204 @@
 {
   "allChords": [
-    "D", 
-    "G", 
-    "A", 
-    "Em", 
-    "F#7", 
-    "Bm", 
-    "Bm7", 
-    "E7", 
-    "A7", 
-    "Bbdim7", 
-    "D7", 
-    "C", 
-    "F", 
-    "Bb", 
-    "Gm", 
-    "Dm", 
-    "Dm7", 
-    "G7", 
-    "C7", 
-    "Dbdim7", 
-    "F7", 
+    "D",
+    "G",
+    "A",
+    "Em",
+    "F#7",
+    "Bm",
+    "Bm7",
+    "E7",
+    "A7",
+    "Bbdim7",
+    "D7",
+    "C",
+    "F",
+    "Bb",
+    "Gm",
+    "Dm",
+    "Dm7",
+    "G7",
+    "C7",
+    "Dbdim7",
+    "F7",
     "Eb"
-  ], 
-  "artist": "Disney", 
-  "id": "A Whole New World - Disney", 
+  ],
+  "artist": "Disney",
+  "fullName": "A Whole New World - Disney",
+  "id": "a_whole_new_world - disney",
   "lines": [
     {
       "label": "Aladdin:"
-    }, 
+    },
     {
-      "chord": "D     D/G           D", 
+      "chord": "D     D/G           D",
       "lyrics": "I can show you the world"
-    }, 
+    },
     {
-      "chord": "D         D/G        G/B   A/C#", 
+      "chord": "D         D/G        G/B   A/C#",
       "lyrics": "Shining, shimmering, splendid"
-    }, 
+    },
     {
-      "chord": "Em       F#7           Bm", 
+      "chord": "Em       F#7           Bm",
       "lyrics": "Tell me, princess, now when did"
-    }, 
+    },
     {
-      "chord": "Bm/A     G                 D", 
+      "chord": "Bm/A     G                 D",
       "lyrics": "You last let your heart decide?"
-    }, 
+    },
     {
-      "chord": "D     D/G         D", 
+      "chord": "D     D/G         D",
       "lyrics": "I can open your eyes"
-    }, 
+    },
     {
-      "chord": "D        D/G       G/B  A/C#", 
+      "chord": "D        D/G       G/B  A/C#",
       "lyrics": "Take you wonder by wonder"
-    }, 
+    },
     {
-      "chord": "Em     F#7          Bm", 
+      "chord": "Em     F#7          Bm",
       "lyrics": "Over, sideways and under"
-    }, 
+    },
     {
-      "chord": "Bm/A   G           D", 
+      "chord": "Bm/A   G           D",
       "lyrics": "On a magic carpet ride"
-    }, 
+    },
     {
-      "chord": "             A    D", 
+      "chord": "             A    D",
       "lyrics": "A whole new world"
-    }, 
+    },
     {
-      "chord": "      A                  D", 
+      "chord": "      A                  D",
       "lyrics": "A new fantastic point of view"
-    }, 
+    },
     {
-      "chord": "           G      D/F#", 
+      "chord": "           G      D/F#",
       "lyrics": "No one to tell us no"
-    }, 
+    },
     {
-      "chord": "     G      D/F#", 
+      "chord": "     G      D/F#",
       "lyrics": "Or where to go"
-    }, 
+    },
     {
-      "chord": "   Bm7       E7    A7", 
+      "chord": "   Bm7       E7    A7",
       "lyrics": "Or say we're only dreaming"
-    }, 
+    },
     {
       "label": "Jasmine:"
-    }, 
+    },
     {
-      "chord": "            A     D", 
+      "chord": "            A     D",
       "lyrics": "A whole new world"
-    }, 
+    },
     {
-      "chord": "              A   Bbdim7 Bm", 
+      "chord": "              A   Bbdim7 Bm",
       "lyrics": "A dazzling place I never knew"
-    }, 
+    },
     {
-      "chord": " D7           G      D/F#", 
+      "chord": " D7           G      D/F#",
       "lyrics": "But when I'm way up here"
-    }, 
+    },
     {
-      "chord": "      G       D/F#", 
+      "chord": "      G       D/F#",
       "lyrics": "It's crystal clear"
-    }, 
+    },
     {
-      "chord": "     Bm7     E7   C          A7         D", 
+      "chord": "     Bm7     E7   C          A7         D",
       "lyrics": "That now I'm in a whole new world with you"
-    }, 
+    },
     {
-      "chord": "         D", 
+      "chord": "         D",
       "lyrics": "Aladdin: Now I'm in a whole new world with you"
-    }, 
+    },
     {
       "label": "Jasmine:"
-    }, 
+    },
     {
-      "chord": "F    F/Bb     F", 
+      "chord": "F    F/Bb     F",
       "lyrics": "Unbelievable sights"
-    }, 
+    },
     {
-      "chord": "F     F/Bb   Bb/D  C/E", 
+      "chord": "F     F/Bb   Bb/D  C/E",
       "lyrics": "Indescribable feeling"
-    }, 
+    },
     {
-      "chord": "Gm        A7              Dm", 
+      "chord": "Gm        A7              Dm",
       "lyrics": "Soaring, tumbling, freewheeling"
-    }, 
+    },
     {
-      "chord": "Dm/C        Bb              F", 
+      "chord": "Dm/C        Bb              F",
       "lyrics": "Through an endless diamond sky"
-    }, 
+    },
     {
       "label": "Jasmine (Aladdin):"
-    }, 
+    },
     {
-      "chord": "            C                                 F", 
+      "chord": "            C                                 F",
       "lyrics": "A whole new world (Don't you dare close your eyes)"
-    }, 
+    },
     {
-      "chord": "          C                  F", 
+      "chord": "          C                  F",
       "lyrics": "A hundred thousand things to see (Hold your breath - it gets better)"
-    }, 
+    },
     {
-      "chord": "            Bb       F/A", 
+      "chord": "            Bb       F/A",
       "lyrics": "I'm like a shooting star"
-    }, 
+    },
     {
-      "chord": "      Bb     F/A", 
+      "chord": "      Bb     F/A",
       "lyrics": "I've come so far"
-    }, 
+    },
     {
-      "chord": "  Dm7      G7      C7", 
+      "chord": "  Dm7      G7      C7",
       "lyrics": "I can't go back to where I used to be"
-    }, 
+    },
     {
       "label": "Aladdin (Jasmine):"
-    }, 
+    },
     {
-      "chord": "            C                       F", 
+      "chord": "            C                       F",
       "lyrics": "A whole new world (Every turn a surprise)"
-    }, 
+    },
     {
-      "chord": "         C   Dbdim7 Dm", 
+      "chord": "         C   Dbdim7 Dm",
       "lyrics": "With new horizons to pursue (Every moment red-letter)"
-    }, 
+    },
     {
       "label": "Both:"
-    }, 
+    },
     {
-      "chord": "F7              Bb   F/A", 
+      "chord": "F7              Bb   F/A",
       "lyrics": "I'll chase them anywhere"
-    }, 
+    },
     {
-      "chord": "         Bb       F/A", 
+      "chord": "         Bb       F/A",
       "lyrics": "There's time to spare"
-    }, 
+    },
     {
-      "chord": "Dm7      G7        Eb         C7         Dm F/C", 
+      "chord": "Dm7      G7        Eb         C7         Dm F/C",
       "lyrics": "Let me share this whole new world with you"
-    }, 
+    },
     {
       "label": "Aladdin (Jasmine):"
-    }, 
+    },
     {
-      "chord": "            Bb                 F/A", 
+      "chord": "            Bb                 F/A",
       "lyrics": "A whole new world (A whole new world)"
-    }, 
+    },
     {
-      "chord": "                   Gm                     F/A", 
+      "chord": "                   Gm                     F/A",
       "lyrics": "That's where we'll be (That's where we'll be)"
-    }, 
+    },
     {
-      "chord": "            Bb                 C", 
+      "chord": "            Bb                 C",
       "lyrics": "A thrilling chase (A wonderous place)"
-    }, 
+    },
     {
       "label": "Both:"
-    }, 
+    },
     {
-      "chord": "     C7      F", 
+      "chord": "     C7      F",
       "lyrics": "For you and me"
     }
-  ], 
+  ],
   "title": "A Whole New World"
 }

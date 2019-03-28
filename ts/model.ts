@@ -53,7 +53,8 @@ const simplifyChord = function(chord: string): string {
 export type SongLine = {label: string} | {chord: string; lyrics: string};
 
 export interface SongData {
-  id: string;
+  id?: string;
+  fullName: string;
   artist?: string;
   title?: string;
   capo?: string;
@@ -163,7 +164,7 @@ export var songView: SongView = new (function SongView(this: SongView) {
 
     setCapo(data["capo"]);
 
-    fullSongName = data["id"];
+    fullSongName = data["fullName"];
   };
 
 

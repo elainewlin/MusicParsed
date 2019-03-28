@@ -1,47 +1,48 @@
 {
   "allChords": [
-    "Bm", 
-    "F#m", 
-    "Em", 
-    "F#7", 
-    "G", 
-    "A", 
-    "D", 
-    "D7", 
-    "F#", 
+    "Bm",
+    "F#m",
+    "Em",
+    "F#7",
+    "G",
+    "A",
+    "D",
+    "D7",
+    "F#",
     "Bb"
-  ], 
-  "artist": "Steven Universe", 
-  "id": "Destiny - Steven Universe", 
+  ],
+  "artist": "Steven Universe",
+  "fullName": "Destiny - Steven Universe",
+  "id": "destiny - steven_universe",
   "lines": [
     {
-      "chord": "Bm                F#m", 
+      "chord": "Bm                F#m",
       "lyrics": "Do you believe in destiny?"
-    }, 
+    },
     {
-      "chord": "Em                            Bm", 
+      "chord": "Em                            Bm",
       "lyrics": "Close your eyes and leave the rest to me"
-    }, 
+    },
     {
-      "chord": "Bm                F#7", 
+      "chord": "Bm                F#7",
       "lyrics": "Do you believe in fantasy?"
-    }, 
+    },
     {
-      "chord": "Em                           Bm", 
+      "chord": "Em                           Bm",
       "lyrics": "I have to when it's right in front of me, oh"
-    }, 
+    },
     {
-      "chord": "G            A     D     D7          G", 
+      "chord": "G            A     D     D7          G",
       "lyrics": "What are you doing here, in the real world?"
-    }, 
+    },
     {
-      "chord": "             F#    Bm       D", 
+      "chord": "             F#    Bm       D",
       "lyrics": "What are you doing here, so close I could touch you?"
-    }, 
+    },
     {
-      "chord": "G            A     D         Bb                    A", 
+      "chord": "G            A     D         Bb                    A",
       "lyrics": "What are you doing here, and what are you doing to me?"
     }
-  ], 
+  ],
   "title": "Destiny"
 }

@@ -1,101 +1,102 @@
 {
   "allChords": [
-    "Bb", 
-    "Eb", 
-    "Gm", 
-    "F", 
-    "C", 
-    "Am", 
+    "Bb",
+    "Eb",
+    "Gm",
+    "F",
+    "C",
+    "Am",
     "G"
-  ], 
-  "artist": "Michael Smith", 
-  "id": "Breathe - Michael Smith", 
+  ],
+  "artist": "Michael Smith",
+  "fullName": "Breathe - Michael Smith",
+  "id": "breathe - michael_smith",
   "lines": [
     {
       "label": "[Verse 1]"
-    }, 
+    },
     {
-      "chord": "Bb                Eb", 
+      "chord": "Bb                Eb",
       "lyrics": "This is the air I breathe"
-    }, 
+    },
     {
-      "chord": "Bb                Eb", 
+      "chord": "Bb                Eb",
       "lyrics": "This is the air I breathe"
-    }, 
+    },
     {
-      "chord": "Bb           Gm              F", 
+      "chord": "Bb           Gm              F",
       "lyrics": "Your holy presence living in me"
-    }, 
+    },
     {
       "label": "[Verse 2]"
-    }, 
+    },
     {
-      "chord": "Bb         Eb", 
+      "chord": "Bb         Eb",
       "lyrics": "This is my daily bread"
-    }, 
+    },
     {
-      "chord": "Bb         Eb", 
+      "chord": "Bb         Eb",
       "lyrics": "This is my daily bread"
-    }, 
+    },
     {
-      "chord": "Bb          Gm           F", 
+      "chord": "Bb          Gm           F",
       "lyrics": "Your very word spoken to me"
-    }, 
+    },
     {
       "label": "[Chorus]"
-    }, 
+    },
     {
-      "chord": "Bb    F               Eb", 
+      "chord": "Bb    F               Eb",
       "lyrics": "And I'm desperate for you"
-    }, 
+    },
     {
-      "chord": "Bb    F               Eb", 
+      "chord": "Bb    F               Eb",
       "lyrics": "And I'm lost without you"
-    }, 
+    },
     {
       "label": "[Key change: up 2 steps]"
-    }, 
+    },
     {
       "label": "[Verse 1]"
-    }, 
+    },
     {
-      "chord": "C                 F", 
+      "chord": "C                 F",
       "lyrics": "This is the air I breathe"
-    }, 
+    },
     {
-      "chord": "C                F", 
+      "chord": "C                F",
       "lyrics": "This is the air I breathe"
-    }, 
+    },
     {
-      "chord": "C              Am            G", 
+      "chord": "C              Am            G",
       "lyrics": "Your holy presence living in me"
-    }, 
+    },
     {
       "label": "[Verse 2]"
-    }, 
+    },
     {
-      "chord": "C          F", 
+      "chord": "C          F",
       "lyrics": "This is my daily bread"
-    }, 
+    },
     {
-      "chord": "C           F", 
+      "chord": "C           F",
       "lyrics": "This is my daily bread"
-    }, 
+    },
     {
-      "chord": "C         Am             G", 
+      "chord": "C         Am             G",
       "lyrics": "Your very word spoken to me"
-    }, 
+    },
     {
       "label": "[Chorus]"
-    }, 
+    },
     {
-      "chord": "C     G               F", 
+      "chord": "C     G               F",
       "lyrics": "And I'm desperate for you"
-    }, 
+    },
     {
-      "chord": "C     G             F  C", 
+      "chord": "C     G             F  C",
       "lyrics": "And I'm lost without you"
     }
-  ], 
+  ],
   "title": "Breathe"
 }

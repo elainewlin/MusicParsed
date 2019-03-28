@@ -116,7 +116,7 @@ class TextParser:
         [title, artist] = idToData(songID)
         data["title"] = title
         data["artist"] = artist
-        data["id"] = songID
+        data["fullName"] = songID
         data["lines"] = []
 
         allChords = []
@@ -169,6 +169,7 @@ class TextParser:
 
         title = clean(title)
         artist = clean(artist)
+        data["id"] = "{0} - {1}".format(title, artist)
         fileName = dataToName(title, artist, JSON)
         print(fileName)
         jsonFile = os.path.join(JSON_FOLDER, fileName)
@@ -260,10 +261,10 @@ class TextParser:
             with open(os.path.join(JSON_FOLDER, fileName)) as dataFile:
                 data = json.load(dataFile)
                 # Song title, called label for jQuery autocomplete
-                newSong["label"] = data["id"]
+                newSong["label"] = data["fullName"]
                 newSong["artist"] = data["artist"]
                 newSong["title"] = data["title"]
-                newSong["value"] = data["id"]
+                newSong["value"] = data["fullName"]
 
             # URL friendly i.e. love_story - taylor_swift
             newSong["id"] = songID

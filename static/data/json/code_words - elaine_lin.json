@@ -1,81 +1,82 @@
 {
   "allChords": [
-    "F", 
-    "C", 
-    "Am", 
+    "F",
+    "C",
+    "Am",
     "G"
-  ], 
-  "artist": "Elaine Lin", 
-  "id": "Code Words - Elaine Lin", 
+  ],
+  "artist": "Elaine Lin",
+  "fullName": "Code Words - Elaine Lin",
+  "id": "code_words - elaine_lin",
   "lines": [
     {
       "label": "[Verse 1]"
-    }, 
+    },
     {
-      "chord": "F C Am G", 
+      "chord": "F C Am G",
       "lyrics": "You already write"
-    }, 
+    },
     {
-      "chord": "", 
+      "chord": "",
       "lyrics": "many songs,"
-    }, 
+    },
     {
-      "chord": "", 
+      "chord": "",
       "lyrics": "lines and lines,"
-    }, 
+    },
     {
-      "chord": "", 
+      "chord": "",
       "lyrics": "in Sublime because"
-    }, 
+    },
     {
       "label": "[Chorus x2]"
-    }, 
+    },
     {
-      "chord": "C G Am F", 
+      "chord": "C G Am F",
       "lyrics": "Each song is a module,"
-    }, 
+    },
     {
-      "chord": "", 
+      "chord": "",
       "lyrics": "each verse is a function, and"
-    }, 
+    },
     {
-      "chord": "", 
+      "chord": "",
       "lyrics": "Python\u2019s your words."
-    }, 
+    },
     {
       "label": "[Verse 2]"
-    }, 
+    },
     {
-      "chord": "F C Am G", 
+      "chord": "F C Am G",
       "lyrics": "So why not write"
-    }, 
+    },
     {
-      "chord": "", 
+      "chord": "",
       "lyrics": "your own songs?"
-    }, 
+    },
     {
-      "chord": "", 
+      "chord": "",
       "lyrics": "Lines and lines."
-    }, 
+    },
     {
-      "chord": "", 
+      "chord": "",
       "lyrics": "Just make them rhyme because"
-    }, 
+    },
     {
       "label": "[Chorus x2]"
-    }, 
+    },
     {
-      "chord": "C G Am F", 
+      "chord": "C G Am F",
       "lyrics": "A song\u2019s just a module,"
-    }, 
+    },
     {
-      "chord": "", 
+      "chord": "",
       "lyrics": "each verse just a function, and"
-    }, 
+    },
     {
-      "chord": "", 
+      "chord": "",
       "lyrics": "words are your code."
     }
-  ], 
+  ],
   "title": "Code Words"
 }
