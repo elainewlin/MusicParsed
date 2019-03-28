@@ -62,28 +62,43 @@ const ukuleleChords: { [flavor: string]: string }[] = [
 ];
 
 interface InstrumentData {
+  name: string;
+  offset: number;
   strings: number;
   frets: number;
   chords: { [flavor: string]: string }[];
 }
 
+enum Instrument {
+  Guitar = "guitar",
+  Ukulele = "ukulele"
+}
+
 const instrumentsData: { [instrument: string]: InstrumentData } = {
   ukulele: {
+    name: Instrument.Ukulele,
+    offset: 0,
     strings: 4,
     frets: 4,
     chords: ukuleleChords
   },
   baritone: {
+    name: Instrument.Ukulele,
+    offset: 5,
     strings: 4,
     frets: 4,
     chords: ukuleleChords.slice(5).concat(ukuleleChords.slice(0, 5))
   },
   guitar: {
+    name: Instrument.Guitar,
+    offset: 0,
     strings: 6,
     frets: 5,
     chords: guitarChords
   },
   guitalele: {
+    name: Instrument.Guitar,
+    offset: 7,
     strings: 6,
     frets: 5,
     chords: guitarChords.slice(7).concat(guitarChords.slice(0, 7))
@@ -107,7 +122,7 @@ type ChordFingeringData = {
   mute: number[];
 } | {
   chordName: string;
-  unknown: true;
+  unknown: boolean;
 }
 
 // Input example:
@@ -115,7 +130,7 @@ type ChordFingeringData = {
 // chordFingering: 4,2,2,2 for G,C,E,A
 // instrumentData: what instrument?
 // Output: SVG rendering of the chord
-const renderChordFingering = function(chordName: string, chordFingeringStr: string, instrumentData: InstrumentData): ChordFingeringData[] {
+const renderChordFingering = function(chordName: string, chordFingeringStr: string, instrumentData: InstrumentData): ChordFingeringData {
   const chordFingering = chordFingeringStr.split(",");
   var offset =
     chordFingering.every(function(y) {
@@ -126,7 +141,7 @@ const renderChordFingering = function(chordName: string, chordFingeringStr: stri
         return +y > 0 ? [+y] : [];
       }));
   var left = offset == 1 ? 0 : 0.5 * ("" + offset).length;
-  return [{
+  return {
     viewLeft: -0.5 - left,
     viewWidth: instrumentData.strings + left,
     width: (instrumentData.strings + left) * 11,
@@ -142,38 +157,21 @@ const renderChordFingering = function(chordName: string, chordFingeringStr: stri
     mute: chordFingering.flatMap(function(y, x) {
       return y == "x" ? [x] : [];
     }),
-  }];
+  };
 };
 
 // Code is smart enough to auto-render chord thanks to regex magic
-const renderChord = function(chord: string, instrumentData: InstrumentData): ChordFingeringData[] {
-  var chordName = chord;
-  var m = chord.match(/^([A-G](?:bb|𝄫|b|♭|#|♯|x|𝄪)?)(.*)$/)!;
-  var chordFingering = instrumentData.chords[(pitchToFifths.get(m[1])! * 7 + 12000) % 12][m[2]];
-
-  const overrideDefaultChord = chord.includes("|");
-  if (overrideDefaultChord) {
-    const chordComponents = chord.split("|");
-    chordName = chordComponents[0];
-    chordFingering = chordComponents[1];
-  }
-
-  if (chordFingering) {
-    if (songView.getOrientation() === "left") {
-      chordFingering = reverseString(chordFingering);
-    }
-    return renderChordFingering(chordName, chordFingering, instrumentData);
-  } else {
-    return [{
-      chordName: chordName,
-      unknown: true
-    }];
-  }
-};
-
-export const renderAllChords = function(allChords: string[], currentInstrument: string): void {
+const renderAllChords = function(allChords: string[], currentInstrument: string): void {
   const instrumentData = instrumentsData[currentInstrument];
-  var chordData = {
+
+  // Set default
+  const chords: ChordFingeringData[] = allChords.map(chord => {
+    return {
+      chordName: chord,
+      unknown: true
+    };
+  });
+  const chordData = {
     strings: instrumentData.strings,
     stringsMinus1: instrumentData.strings - 1,
     frets: instrumentData.frets,
@@ -186,11 +184,38 @@ export const renderAllChords = function(allChords: string[], currentInstrument: 
     fretLines: Array.apply(null, Array(instrumentData.frets)).map(function(_, i) {
       return i + 0.5;
     }),
-    chords: allChords.flatMap(function(chord) {
-      return renderChord(chord, instrumentData);
-    }),
+    chords: chords
   };
-  document.getElementsByClassName("chordPics")[0].innerHTML = chordsTemplate(chordData);
+
+  for (let i = 0; i < allChords.length; i++) {
+    const chord = allChords[i];
+    let chordName = chord;
+    var m = chord.match(/^([A-G](?:bb|𝄫|b|♭|#|♯|x|𝄪)?)(.*)$/)!;
+
+    const instrumentName = instrumentData.name;
+    const rootIndex = (pitchToFifths.get(m[1])! * 7 + 12000 + instrumentData.offset) % 12;
+    const type = m[2];
+    $.get(`/chord/${instrumentName}/${rootIndex}/${type}`, function(result) {
+      let chordFingering = result.fingering;
+
+      const overrideDefaultChord = chord.includes("|");
+      if (overrideDefaultChord) {
+        const chordComponents = chord.split("|");
+        chordName = chordComponents[0];
+        chordFingering = chordComponents[1];
+      }
+
+      if (chordFingering) {
+        if (songView.getOrientation() === "left") {
+          chordFingering = reverseString(chordFingering);
+        }
+        chordData.chords[i] = renderChordFingering(chordName, chordFingering, instrumentData);
+      } 
+      document.getElementsByClassName("chordPics")[0].innerHTML = chordsTemplate(chordData);
+    });
+  }
+
+    
 };
 
 export var renderChords = function(): void {
@@ -309,7 +334,7 @@ export var rerender = function(): void {
 };
 
 export var loadSong = function(songId: string): void {
-  $.getJSON("/static/data/json/" + songId + ".json", function(data: SongData) {
+  $.getJSON(`/song/${songId}`, function(data: SongData) {
     songView.setId(songId);
     songView.setSong(data);
     renderCapo();
@@ -354,7 +379,7 @@ export var songSearch = function(songLoadFunction: (song: Song) => void): void {
     autoFocus: true,
     source: function(request: { term: string }, response: (matches: Song[]) => void) {
       $.ajax({
-        url: "/static/data/ALL_SONGS.json",
+        url: "/allSongs",
         dataType: "json",
         data: {
           term: request.term
@@ -379,7 +404,7 @@ export var songSearch = function(songLoadFunction: (song: Song) => void): void {
   };
 
   $.ajax({
-    url: "/static/data/ALL_SONGS.json",
+    url: "/allSongs",
     dataType: "json",
     success: function(data) {
       $(".random").click(function() {

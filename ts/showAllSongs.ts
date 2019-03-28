@@ -66,7 +66,7 @@ const renderSelectedSongs = function(selectedTag: string): void {
 
 window.onload = function() {
   $.ajax({
-    url: "/static/data/ALL_SONGS.json",
+    url: "/allSongs",
     dataType: "json",
     success: function(data: Song[]) {
       const allTags = new Set();
