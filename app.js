@@ -4,9 +4,12 @@ const escapeHtml = require("escape-html");
 const express = require("express");
 const fs = require("fs");
 const nunjucks = require("nunjucks");
+const MongoClient = require("mongodb").MongoClient;
 
 const host = process.env.PORT ? undefined : "127.0.0.1";
 const port = process.env.PORT || 5000;
+const dotenv = require("dotenv");
+dotenv.config();
 
 const app = express();
 
@@ -56,6 +59,53 @@ env.addGlobal(
   )
 );
 
+let uri = "mongodb://localhost:27017";
+if (process.env.USE_PROD) {
+  const user = process.env.MONGO_USER;
+  const password = process.env.MONGO_PASSWORD;
+  const clusterUri = process.env.MONGO_URI;
+  uri = `mongodb+srv://${user}:${password}@${clusterUri}/test?retryWrites=true`;
+} 
+
+app.route("/allSongs").get(function(req, res) {
+  const client = new MongoClient(uri, { useNewUrlParser: true });
+
+  client.connect(err => {
+    if (err) {
+      throw err;
+    }
+
+    const db = client.db("test");
+    db.collection("allSongs").find().toArray(function (err, result) {
+      console.log(result);
+      if (err) {
+        throw err;
+      }
+      res.send(result);
+    });
+  });
+});
+
+app.route("/song/:id").get(function(req, res) {
+  const songId = req.params.id;
+
+  const client = new MongoClient(uri, { useNewUrlParser: true });
+  client.connect(err => {
+    if (err) {
+      throw err;
+    }
+
+    const db = client.db("test");
+    db.collection("songs").findOne({"id": songId}, function (err, result) {
+      if (err) {
+        throw err;
+      }
+      res.send(result);
+    });
+  });
+});
+
+
 // Routes
 app.use("/static", express.static("static"));
 
@@ -75,13 +125,13 @@ app.get("/guides/:guide_type", (req, res) =>
   res.render(`guides/${req.params.guide_type}`)
 );
 
-app.get("/song/:artist/:title", (req, res) =>
+app.get("/song/:artist/:title", (req, res) => {
   res.render("index", {
     title: req.params.title,
     artist: req.params.artist,
     transpose: req.query.transpose | 0,
-  })
-);
+  });
+});
 
 // Start server
 app.listen(port, host, () => {
