@@ -2,11 +2,12 @@
 
 .tab {
   font-family: "DejaVu Sans Mono", monospace;
-}
-
-textarea {
   width: 100%;
   height: 150px;
+}
+
+.tall-tab {
+  height: 400px;
 }
 
 .convert {
