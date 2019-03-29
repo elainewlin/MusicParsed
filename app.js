@@ -5,6 +5,7 @@ const express = require("express");
 const fs = require("fs");
 const nunjucks = require("nunjucks");
 const MongoClient = require("mongodb").MongoClient;
+const bodyParser = require("body-parser"); 
 
 const host = process.env.PORT ? undefined : "127.0.0.1";
 const port = process.env.PORT || 5000;
@@ -12,6 +13,8 @@ const dotenv = require("dotenv");
 dotenv.config();
 
 const app = express();
+app.use(bodyParser.json()); 
+app.use(bodyParser.urlencoded({ extended: true }));
 
 // Compatibility with Jinja2 templates
 const env = nunjucks.configure("templates", { express: app });
@@ -77,7 +80,6 @@ app.route("/allSongs").get(function(req, res) {
 
     const db = client.db("test");
     db.collection("allSongs").find().toArray(function (err, result) {
-      console.log(result);
       if (err) {
         throw err;
       }
@@ -131,7 +133,6 @@ app.route("/chord/:instrument/:rootIndex/:type?").get(function (req, res) {
   });
 });
 
-
 // Routes
 app.use("/static", express.static("static"));
 
@@ -159,7 +160,43 @@ app.get("/song/:artist/:title", (req, res) => {
   });
 });
 
+app.get("/edit", (req, res) => res.render("edit_songs"));
+
 // Start server
 app.listen(port, host, () => {
   console.log(`Listening on port ${port}`);
+});
+
+app.post("/addSong", (req, res) => {
+  const client = new MongoClient(uri, { useNewUrlParser: true });
+  client.connect(err => {
+    if (err) {
+      throw err;
+    }
+
+    const db = client.db("test");
+    const query = {
+      "title": req.body.title,
+      "artist": req.body.artist,
+      "id": req.body.id
+    };
+    db.collection("songs").updateOne(query, {$set: req.body}, {upsert: true});
+    res.send(req.body);
+  });
+});
+
+app.post("/deleteSong/:id", (req, res) => {
+  const client = new MongoClient(uri, { useNewUrlParser: true });
+  client.connect(err => {
+    if (err) {
+      throw err;
+    }
+
+    const db = client.db("test");
+    const query = {
+      "id": req.params.id
+    };
+    db.collection("songs").deleteOne(query);
+    res.send("Deleted!");
+  });
 });
