@@ -5,6 +5,6 @@ static/data/ghostdriver.log
 static/data/urls.txt
 /static/dist
 *.pyc
-*.idea
-*.DS_Store
-*.env
+.idea
+.DS_Store
+.env

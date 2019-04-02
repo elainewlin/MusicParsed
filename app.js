@@ -57,7 +57,7 @@ app.route("/allSongs").get(function(req, res) {
       if (err) {
         throw err;
       }
-      res.send(result);
+      res.json(result);
     });
   });
 });
@@ -76,7 +76,7 @@ app.route("/song/:id").get(function(req, res) {
       if (err) {
         throw err;
       }
-      res.send(result);
+      res.json(result);
     });
   });
 });
@@ -102,7 +102,7 @@ app.route("/chord/:instrument/:rootIndex/:type?").get(function (req, res) {
       if (err) {
         throw err;
       }
-      res.send(result);
+      res.json(result);
     });
   });
 });
@@ -155,7 +155,7 @@ app.post("/addSong", (req, res) => {
       "id": req.body.id
     };
     db.collection("songs").updateOne(query, {$set: req.body}, {upsert: true});
-    res.send(req.body);
+    res.json(req.body);
   });
 });
 
@@ -171,6 +171,6 @@ app.post("/deleteSong/:id", (req, res) => {
       "id": req.params.id
     };
     db.collection("songs").deleteOne(query);
-    res.send("Deleted!");
+    res.json("Deleted!");
   });
 });
