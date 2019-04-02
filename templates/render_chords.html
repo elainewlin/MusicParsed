@@ -1,8 +1,8 @@
 {% extends "partials/base.html" %}
 
 {% block script %}
-{{ webpack["index.css"] }}
-{{ webpack["renderChords.js"] }}
+<link rel="stylesheet" href="{{ manifest['index.css'] }}" />
+<script src="{{ manifest['renderChords.js'] }}"></script>
 {% endblock %}
 
 {% block content %}

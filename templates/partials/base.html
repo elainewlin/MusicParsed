@@ -3,7 +3,7 @@
 
 <head>
 {% include "partials/ga.html" %}
-{{ webpack["global.css"] }}
+<link rel="stylesheet" href="{{ manifest['global.css'] }}" />
 {% block script %}
 {% endblock %}
 </head>

@@ -1,6 +1,5 @@
 /* eslint @typescript-eslint/no-var-requires: "off", no-console: "off" */
 
-const escapeHtml = require("escape-html");
 const express = require("express");
 const fs = require("fs");
 const nunjucks = require("nunjucks");
@@ -11,50 +10,25 @@ const port = process.env.PORT || 5000;
 const app = express();
 
 // Compatibility with Jinja2 templates
-const env = nunjucks.configure("templates", { express: app });
+const env = nunjucks.configure("templates", { express: app, watch: true });
 app.set("view engine", "html");
 
-// Compatibility with {{ url_for('static', filename='images/logo.svg') }}
-// syntax from Flask
-env.addGlobal("url_for", (endpoint, params) => {
-  if (endpoint === "static") {
-    return `/static/${params.filename}`;
-  } else {
-    throw `url_for: unknown endpoint ${endpoint}`;
-  }
-});
-
-// Compatibility with {{ webpack["index.js"] }} syntax from Flask_WebpackExt
-let manifest;
+// Provide the webpack manifest
 let reloadManifest = true;
-env.addGlobal(
-  "webpack",
-  new Proxy(
-    {},
-    {
-      get(target, name) {
-        if (reloadManifest) {
-          fs.watch("static/dist/manifest.json", { persistent: false }, () => {
-            reloadManifest = true;
-          });
-          reloadManifest = false;
-          manifest = JSON.parse(fs.readFileSync("static/dist/manifest.json"));
-        }
-        if (/\.css$/.test(name)) {
-          return nunjucks.runtime.markSafe(
-            `<link rel="stylesheet" href="${escapeHtml(manifest[name])}" />`
-          );
-        } else if (/\.js$/.test(name)) {
-          return nunjucks.runtime.markSafe(
-            `<script src="${escapeHtml(manifest[name])}"></script>`
-          );
-        } else {
-          throw `Unknown webpack key ${name}`;
-        }
-      },
-    }
-  )
-);
+app.use((req, res, next) => {
+  if (reloadManifest) {
+    env.addGlobal("manifest", null);
+    reloadManifest = false;
+    fs.watch("static/dist/manifest.json", { persistent: false }, () => {
+      reloadManifest = true;
+    });
+  }
+  if (env.getGlobal("manifest") === null) {
+    const manifest = JSON.parse(fs.readFileSync("static/dist/manifest.json"));
+    env.addGlobal("manifest", manifest);
+  }
+  next();
+});
 
 // Routes
 app.use("/static", express.static("static"));
