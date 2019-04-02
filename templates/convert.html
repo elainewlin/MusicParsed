@@ -1,7 +1,7 @@
 {% extends "partials/base.html" %}
 
 {% block script %}
-{{ webpack["convert.css"] }}
+<link rel="stylesheet" href="{{ manifest['convert.css'] }}" />
 {% endblock %}
 
 {% block content %}
@@ -35,6 +35,6 @@
   </div>
 </div>
 
-{{ webpack["convert.js"] }}
+<script src="{{ manifest['convert.js'] }}"></script>
 {% endblock %}
 

@@ -1,8 +1,8 @@
 {% extends "partials/base.html" %}
 
 {% block script %}
-{{ webpack["index.css"] }}
-{{ webpack["index.js"] }}
+<link rel="stylesheet" href="{{ manifest['index.css'] }}" />
+<script src="{{ manifest['index.js'] }}"></script>
 {% endblock %}
 
 {% block nav_widgets %}

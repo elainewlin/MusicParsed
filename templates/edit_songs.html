@@ -1,8 +1,8 @@
 {% extends "partials/base.html" %}
 
 {% block script %}
-{{ webpack["convert.css"] }}
-{{ webpack["parser.js"] }}
+<link rel="stylesheet" href="{{ manifest['convert.css'] }}" />
+<script src="{{ manifest['parser.js'] }}"></script>
 {% endblock %}
 
 {% block content %}
