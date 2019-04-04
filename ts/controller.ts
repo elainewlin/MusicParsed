@@ -296,7 +296,7 @@ document.addEventListener("copy", function(event) {
       selection.addRange(range);
     }
 
-    event.clipboardData.setData("text/plain", selection.toString());
+    event.clipboardData!.setData("text/plain", selection.toString());
     event.preventDefault(); // No jarble here
   } finally {
     // Clean up DOM so we don't get abstract art
