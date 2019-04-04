@@ -1,5 +1,4 @@
 import "core-js/fn/array/flat-map";
-import $ from "jquery";
 
 var accidentalFifths: [string, number][] = [["bb", -14], ["𝄫", -14], ["b", -7], ["♭", -7], ["", 0], ["#", 7], ["♯", 7], ["x", 14], ["𝄪", 14]];
 var letterFifths: [string, number][] = [["F", -1], ["C", 0], ["G", 1], ["D", 2], ["A", 3], ["E", 4], ["B", 5]];
@@ -209,7 +208,7 @@ export var songView: SongView = new (function SongView(this: SongView) {
     }
 
     const dataLines = lines.slice().map(function(line) {
-      var newLine = $.extend({}, line);
+      var newLine = {...line};
       if ("chord" in newLine) {
         newLine["chord"] = transposeChord(newLine["chord"], amount);
       }
