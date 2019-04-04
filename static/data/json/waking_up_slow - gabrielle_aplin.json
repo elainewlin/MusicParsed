@@ -1,9 +1,22 @@
 {
   "allChords": [
+    "C5",
+    "Bbadd2",
+    "Dm",
     "C",
-    "Bb",
     "F",
-    "Gm"
+    "Bbsus2",
+    "Cadd4",
+    "Gmadd4",
+    "Gm",
+    "Dm7",
+    "Am",
+    "Bb",
+    "Dm7add4",
+    "F6",
+    "Fadd2",
+    "Fmaj9",
+    "Dmadd2"
   ],
   "artist": "Gabrielle Aplin",
   "capo": "1",
@@ -14,66 +27,66 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "C",
+      "chord": "C5",
       "lyrics": "Heaven help me"
     },
     {
-      "chord": "        Bb                F",
+      "chord": "",
       "lyrics": "My mind changes like the wind"
     },
     {
-      "chord": "C",
+      "chord": "",
       "lyrics": "Please excuse me"
     },
     {
-      "chord": "        Bb             F",
+      "chord": "",
       "lyrics": "I don't know where to begin"
     },
     {
-      "chord": "    F",
+      "chord": "    Bbadd2",
       "lyrics": "But I"
     },
     {
-      "chord": "",
+      "chord": "                     Dm",
       "lyrics": "Didn't think I cared"
     },
     {
-      "chord": "C",
+      "chord": "                       C",
       "lyrics": "I could be your friend"
     },
     {
-      "chord": "Bb",
+      "chord": "",
       "lyrics": "But I'm unprepared"
     },
     {
-      "chord": "    C                    F",
+      "chord": "                     F/A      Bbsus2",
       "lyrics": "Oh, I've never felt like this"
     },
     {
-      "chord": "F",
+      "chord": "              Dm",
       "lyrics": "I was unaware"
     },
     {
-      "chord": "C",
+      "chord": "                         Cadd4",
       "lyrics": "You were lighting flares"
     },
     {
-      "chord": "Bb",
+      "chord": "                       C",
       "lyrics": "Now I'm running scared"
     },
     {
-      "chord": "    C                  Gm",
+      "chord": "                    F/A  Gmadd4",
       "lyrics": "Oh, how did it come to this?"
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "Gm            Bb",
+      "chord": "Gm              F",
       "lyrics": "You know I've never"
     },
     {
-      "chord": "        F            C",
+      "chord": "F       Dm7        F  C",
       "lyrics": "Been so lonely on my own"
     },
     {
@@ -81,15 +94,19 @@
       "lyrics": "And it shows"
     },
     {
-      "chord": "               Bb",
+      "chord": "                F",
       "lyrics": "'Cause I don't see you"
     },
     {
-      "chord": "       F",
+      "chord": "        Dm",
       "lyrics": "Like I used to"
     },
     {
-      "chord": "    C",
+      "chord": "",
+      "lyrics": "N.C"
+    },
+    {
+      "chord": "",
       "lyrics": "Now I'm going back on the things that I know"
     },
     {
@@ -100,15 +117,15 @@
       "lyrics": "Oh"
     },
     {
-      "chord": "       C",
+      "chord": "F   Dm  C",
       "lyrics": "All my nights"
     },
     {
-      "chord": "           Bb",
+      "chord": "C      Am   Bb",
       "lyrics": "Taste like gold"
     },
     {
-      "chord": "               C",
+      "chord": "Bb",
       "lyrics": "Yeah, when I'm with you"
     },
     {
@@ -116,65 +133,65 @@
       "lyrics": "It's like everything glows"
     },
     {
-      "chord": "           C",
+      "chord": "F       Dm  C",
       "lyrics": "And all my days"
     },
     {
-      "chord": "           Bb",
+      "chord": "C       Am  Bb",
       "lyrics": "We can lay low"
     },
     {
-      "chord": "                 C",
+      "chord": "                  Dm7add4",
       "lyrics": "Yeah, when we're waking up"
     },
     {
-      "chord": "                F",
+      "chord": "       C         Bbadd2",
       "lyrics": "We're waking up slow"
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "F",
+      "chord": "Bb               Dm",
       "lyrics": "I can rearrange"
     },
     {
-      "chord": "C",
+      "chord": "                       Cadd4",
       "lyrics": "Would you do the same?"
     },
     {
-      "chord": "Bb",
+      "chord": "",
       "lyrics": "I don't wanna change"
     },
     {
-      "chord": "C                           F",
+      "chord": "                          F6/A    Bbadd2",
       "lyrics": "But you're just too good to miss"
     },
     {
-      "chord": "F",
+      "chord": "Bbadd2                 Dm7",
       "lyrics": "'Cause I'm intertwined"
     },
     {
-      "chord": "C",
+      "chord": "                      Cadd4",
       "lyrics": "And I'm running blind"
     },
     {
-      "chord": "Bb",
+      "chord": "",
       "lyrics": "But I don't mind"
     },
     {
-      "chord": "C                      Gm",
+      "chord": "                    F/A  Gm",
       "lyrics": "I'm so glad it came to this"
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "Gm            Bb",
+      "chord": "          Gm   Fadd2",
       "lyrics": "You know I've never"
     },
     {
-      "chord": "        F            C",
+      "chord": "        Dm7        F  C",
       "lyrics": "Been so lonely on my own"
     },
     {
@@ -182,15 +199,19 @@
       "lyrics": "And it shows"
     },
     {
-      "chord": "               Bb",
-      "lyrics": "'Cause I don't see ya"
+      "chord": "                F",
+      "lyrics": "'Cause I don't see you"
     },
     {
-      "chord": "       F",
+      "chord": "        Dm7",
       "lyrics": "Like I used to"
     },
     {
-      "chord": "    C",
+      "chord": "",
+      "lyrics": "N.C"
+    },
+    {
+      "chord": "",
       "lyrics": "Now I'm going back on the things that I know"
     },
     {
@@ -201,15 +222,15 @@
       "lyrics": "Oh"
     },
     {
-      "chord": "       C",
+      "chord": "F   Dm  C",
       "lyrics": "All my nights"
     },
     {
-      "chord": "           Bb",
+      "chord": "C      Am   Bb",
       "lyrics": "Taste like gold"
     },
     {
-      "chord": "               C",
+      "chord": "Bb",
       "lyrics": "Yeah, when I'm with you"
     },
     {
@@ -217,94 +238,98 @@
       "lyrics": "It's like everything glows"
     },
     {
-      "chord": "           C",
+      "chord": "F       Dm  C",
       "lyrics": "And all my days"
     },
     {
-      "chord": "            Bb",
+      "chord": "C       Am  Bb",
       "lyrics": "We can lay low"
     },
     {
-      "chord": "                 C",
+      "chord": "                  Dm7add4",
       "lyrics": "Yeah, when we're waking up"
     },
     {
-      "chord": "                F",
+      "chord": "       C         F",
       "lyrics": "We're waking up slow"
     },
     {
       "label": "[Post-Chorus]"
     },
     {
-      "chord": "F                         C",
+      "chord": "F                 Dm7          C",
       "lyrics": "It's a little bit clearer now"
     },
     {
-      "chord": "                             Bb",
+      "chord": "                    F/A      Bb",
       "lyrics": "I love you like the sun came out"
     },
     {
-      "chord": "",
+      "chord": "Bb",
       "lyrics": "Oh"
     },
     {
-      "chord": "      C",
+      "chord": "Bb",
       "lyrics": "We're waking up"
     },
     {
-      "chord": "                F",
+      "chord": "Bb               F",
       "lyrics": "We're waking up slow"
     },
     {
-      "chord": "                        C",
+      "chord": "                  Dm7          C",
       "lyrics": "It's like I never had a doubt"
     },
     {
-      "chord": "                             Bb",
+      "chord": "                    F/A      Bb",
       "lyrics": "I love you like the sun came out"
     },
     {
-      "chord": "",
+      "chord": "Bb",
       "lyrics": "Oh"
     },
     {
-      "chord": "      C",
+      "chord": "         Dm7add4",
       "lyrics": "We're waking up"
     },
     {
-      "chord": "",
+      "chord": "          Cadd4",
       "lyrics": "We're waking up"
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "F",
+      "chord": "Bb           F/A",
       "lyrics": "Like I told ya"
     },
     {
-      "chord": "C",
+      "chord": "Bb                C  Dm",
       "lyrics": "Don't look backwards"
     },
     {
-      "chord": "Gm",
+      "chord": "Dm",
       "lyrics": "'Cause now I see you here"
     },
     {
-      "chord": "Bb",
+      "chord": "Fmaj9",
       "lyrics": "Nothing else matters"
     },
     {
-      "chord": "F",
+      "chord": "Bb           F/A",
       "lyrics": "Like I told ya"
     },
     {
-      "chord": "C",
+      "chord": "Bb                C  Dm",
       "lyrics": "Don't look backwards"
     },
     {
-      "chord": "Gm",
+      "chord": "Dm                        Dmadd2",
       "lyrics": "'Cause now I see you here"
+    },
+    {
+      "chord": "",
+      "lyrics": "N.C"
     },
     {
       "chord": "",
@@ -318,15 +343,15 @@
       "lyrics": "Oh"
     },
     {
-      "chord": "       C",
+      "chord": "F   Dm  C",
       "lyrics": "All my nights"
     },
     {
-      "chord": "           Bb",
+      "chord": "C      Am   Bb",
       "lyrics": "Taste like gold"
     },
     {
-      "chord": "               C",
+      "chord": "Bb",
       "lyrics": "Yeah, when I'm with you"
     },
     {
@@ -334,58 +359,62 @@
       "lyrics": "It's like everything glows"
     },
     {
-      "chord": "           C               Bb",
-      "lyrics": "And all my days we can lay low"
+      "chord": "F       Dm  C",
+      "lyrics": "And all my days"
     },
     {
-      "chord": "                 C",
+      "chord": "C       Am  Bb",
+      "lyrics": "We can lay low"
+    },
+    {
+      "chord": "                  Dm7add4",
       "lyrics": "Yeah, when we're waking up"
     },
     {
-      "chord": "                F",
+      "chord": "       C         F",
       "lyrics": "We're waking up slow"
     },
     {
       "label": "[Post-Chorus]"
     },
     {
-      "chord": "                          C",
+      "chord": "F                 Dm7          C",
       "lyrics": "It's a little bit clearer now"
     },
     {
-      "chord": "                             Bb",
+      "chord": "                    F/A      Bb",
       "lyrics": "I love you like the sun came out"
     },
     {
-      "chord": "",
+      "chord": "Bb",
       "lyrics": "Oh"
     },
     {
-      "chord": "      C",
+      "chord": "Bb",
       "lyrics": "We're waking up"
     },
     {
-      "chord": "                F",
+      "chord": "Bb               F",
       "lyrics": "We're waking up slow"
     },
     {
-      "chord": "                        C",
+      "chord": "                  Dm7          C",
       "lyrics": "It's like I never had a doubt"
     },
     {
-      "chord": "                             Bb",
+      "chord": "                    F/A      Bb",
       "lyrics": "I love you like the sun came out"
     },
     {
-      "chord": "",
+      "chord": "Bb",
       "lyrics": "Oh"
     },
     {
-      "chord": "      C",
+      "chord": "         Dm",
       "lyrics": "We're waking up"
     },
     {
-      "chord": "",
+      "chord": "          Cadd4",
       "lyrics": "We're waking up"
     }
   ],
