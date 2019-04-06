@@ -1,6 +1,6 @@
 import { SongData } from "./model";
 
-const clean = function(text: string): string {
+const slugify = function(text: string): string {
   text = text.replace(/[^A-Za-z0-9 ]+/g, "").toLowerCase();
   return text.replace(/ /g, "_");
 };
@@ -58,7 +58,7 @@ export const parseLines = function({
     title,
     artist,
     fullName: `${title} - ${artist}`,
-    id: `${clean(title)} - ${clean(artist)}`,
+    id: `${slugify(title)} - ${slugify(artist)}`,
     lines: [],
     allChords: [],
   };
@@ -115,4 +115,11 @@ export const parseLines = function({
   }
 
   return data;
+};
+
+export default {
+  slugify,
+  isLabel,
+  isChordLine,
+  isLyricLine
 };
