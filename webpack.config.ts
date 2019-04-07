@@ -38,10 +38,14 @@ const config: webpack.Configuration = {
             loader: "css-loader",
             options: {
               importLoaders: 1,
+              sourceMap: true,
             },
           },
           {
             loader: "postcss-loader",
+            options: {
+              sourceMap: true,
+            },
           },
         ],
       },
@@ -56,7 +60,16 @@ const config: webpack.Configuration = {
   },
   node: false,
   optimization: {
-    minimizer: [new OptimizeCssAssetsPlugin(), new TerserPlugin()],
+    minimizer: [
+      new OptimizeCssAssetsPlugin({
+        cssProcessorOptions: {
+          map: true,
+        },
+      }),
+      new TerserPlugin({
+        sourceMap: true,
+      }),
+    ],
   },
   plugins: [
     new CleanWebpackPlugin(["static/dist"]),
@@ -74,6 +87,7 @@ const config: webpack.Configuration = {
   resolve: {
     extensions: [".ts", ".js"],
   },
+  devtool: "source-map",
 };
 
 export default config;
