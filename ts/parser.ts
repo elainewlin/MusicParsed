@@ -1,11 +1,11 @@
 import { SongData } from "./model";
 
-const clean = function(text: string): string {
+export const slugify = function(text: string): string {
   text = text.replace(/[^A-Za-z0-9 ]+/g, "").toLowerCase();
   return text.replace(/ /g, "_");
 };
 
-const isLabel = function(line: string): boolean {
+export const isLabel = function(line: string): boolean {
   if (!line) {
     return false;
   }
@@ -13,7 +13,7 @@ const isLabel = function(line: string): boolean {
   return (line.startsWith("[") && line.endsWith("]")) || line.endsWith(":");
 };
 
-const isChordLine = function(line: string): boolean {
+export const isChordLine = function(line: string): boolean {
   if (!line) {
     return false;
   }
@@ -41,7 +41,7 @@ const isChordLine = function(line: string): boolean {
   return isLineChord;
 };
 
-const isLyricLine = function(line: string): boolean {
+export const isLyricLine = function(line: string): boolean {
   return !isLabel(line) && !isChordLine(line);
 };
 
@@ -58,7 +58,7 @@ export const parseLines = function({
     title,
     artist,
     fullName: `${title} - ${artist}`,
-    id: `${clean(title)} - ${clean(artist)}`,
+    id: `${slugify(title)} - ${slugify(artist)}`,
     lines: [],
     allChords: [],
   };
