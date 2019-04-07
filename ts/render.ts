@@ -3,7 +3,8 @@ import $ from "jquery";
 import "jquery-ui/ui/widgets/autocomplete";
 import "jquery-ui/themes/base/all.css";
 import { loadWidgets, renderTranspose } from "./controller";
-import { SongData, SongLine, pitchToFifths, songView } from "./model";
+import { SongData, SongLine, songView } from "./model";
+import { pitchToFifths } from "../lib/pitch";
 import chordsTemplate from "../mustache/chords.mustache";
 import songTemplate from "../mustache/song.mustache";
 

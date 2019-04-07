@@ -1,42 +1,15 @@
 import "core-js/fn/array/flat-map";
 
-const accidentalFifths: [string, number][] = [
-  ["bb", -14],
-  ["𝄫", -14],
-  ["b", -7],
-  ["♭", -7],
-  ["", 0],
-  ["#", 7],
-  ["♯", 7],
-  ["x", 14],
-  ["𝄪", 14],
-];
-const letterFifths: [string, number][] = [
-  ["F", -1],
-  ["C", 0],
-  ["G", 1],
-  ["D", 2],
-  ["A", 3],
-  ["E", 4],
-  ["B", 5],
-];
-const pitchFifths: [string, number][] = accidentalFifths.flatMap(af =>
-  letterFifths.map((lf): [string, number] => [lf[0] + af[0], lf[1] + af[1]])
-);
-
-export const pitchToFifths: Map<string, number> = new Map(pitchFifths);
-const fifthsToPitch: Map<number, string> = new Map(
-  pitchFifths.map((pf): [number, string] => [pf[1], pf[0]])
-);
-
-const noteString = "[A-G](?:bb|𝄫|b|♭|#|♯|x|𝄪)?";
-const noteRegex = new RegExp(noteString, "g");
+import { pitchToFifths, fifthsToPitch, noteRegex } from "../lib/pitch";
 
 // matches minor chords like Amadd9, but not Cmaj7
 const minorChord = "m?(?!aj)";
 
 // matches everything that does not follow a /
-const simpleChordRegex = new RegExp(`^(?!/)${noteString}${minorChord}`, "g");
+const simpleChordRegex = new RegExp(
+  `^(?!/)${noteRegex.source}${minorChord}`,
+  "g"
+);
 
 const replaceAt = function(
   str: string,
@@ -220,7 +193,7 @@ export const songView: SongView = new ((function SongView(this: SongView) {
   this.getData = function() {
     const allFifths = allChords.flatMap(chord => {
       const chordTypes = "(m\b|madd|msus|dim)?";
-      const chordRegex = new RegExp(`^(${noteString})${chordTypes}`);
+      const chordRegex = new RegExp(`^(${noteRegex.source})${chordTypes}`);
       const m = chord.match(chordRegex);
       return m ? [pitchToFifths.get(m[1])! - (m[2] ? 3 : 0)] : [];
     });
