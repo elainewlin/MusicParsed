@@ -39,4 +39,4 @@ export const pitchToSemitones = (pitch: string): number =>
 export const transposePitch = (pitch: string, fifths: number): string =>
   fifthsToPitch.get(pitchToFifths.get(pitch)! + fifths)!;
 
-export const noteRegex = /[A-G](?:bb|𝄫|b|♭|#|♯|x|𝄪)?/g;
+export const pitchRegex = /[A-G](?:bb|𝄫|b|♭|#|♯|x|𝄪)?/g;

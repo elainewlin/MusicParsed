@@ -1,13 +1,13 @@
 import "core-js/fn/array/flat-map";
 
-import { pitchToFifths, transposePitch, noteRegex } from "../lib/pitch";
+import { pitchToFifths, transposePitch, pitchRegex } from "../lib/pitch";
 
 // matches minor chords like Amadd9, but not Cmaj7
 const minorChord = "m?(?!aj)";
 
 // matches everything that does not follow a /
 const simpleChordRegex = new RegExp(
-  `^(?!/)${noteRegex.source}${minorChord}`,
+  `^(?!/)${pitchRegex.source}${minorChord}`,
   "g"
 );
 
@@ -146,7 +146,7 @@ export const songView: SongView = new ((function SongView(this: SongView) {
     if (shouldSimplify) {
       chordToTranspose = simplifyChord(chord);
     }
-    return chordToTranspose.replace(noteRegex, pitch =>
+    return chordToTranspose.replace(pitchRegex, pitch =>
       transposePitch(pitch, amount)
     );
   };
@@ -192,7 +192,7 @@ export const songView: SongView = new ((function SongView(this: SongView) {
   this.getData = function() {
     const allFifths = allChords.flatMap(chord => {
       const chordTypes = "(m\b|madd|msus|dim)?";
-      const chordRegex = new RegExp(`^(${noteRegex.source})${chordTypes}`);
+      const chordRegex = new RegExp(`^(${pitchRegex.source})${chordTypes}`);
       const m = chord.match(chordRegex);
       return m ? [pitchToFifths.get(m[1])! - (m[2] ? 3 : 0)] : [];
     });
