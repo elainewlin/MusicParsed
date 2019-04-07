@@ -39,6 +39,7 @@ def test_false_matches():
     test = "Apple"
     assert not isChord(test)
 
+
 # These chords are so fancy~
 
 
@@ -48,8 +49,7 @@ def test_chord_with_underscore():
 
 
 def test_complex_chords():
-    complexChords = ["Cmaj7", "Caug", "Bbsus2",
-                     "Dbdim", "Gadd9", "Dm", "Emadd9"]
+    complexChords = ["Cmaj7", "Caug", "Bbsus2", "Dbdim", "Gadd9", "Dm", "Emadd9"]
     for chord in complexChords:
         assert isChord(chord), chord
 
@@ -60,4 +60,4 @@ def test_complex_chords():
 
 def test_no_note():
     # Because ukuleles don't have enough strings
-    assert isChordLine('A7no3')
+    assert isChordLine("A7no3")

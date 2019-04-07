@@ -16,11 +16,19 @@ const getWidget = function(type: string): JQuery {
   return $(`#${type}`).find("input");
 };
 
-export const selectButton = function(type: string, value: number | string): void {
+export const selectButton = function(
+  type: string,
+  value: number | string
+): void {
   const buttonToSelect = $(`#${type}-${value}`);
   if (!buttonToSelect.find("input").prop("checked")) {
-    $(`#${type}`).find("label").removeClass("active");
-    buttonToSelect.addClass("active").find("input").prop("checked", true);
+    $(`#${type}`)
+      .find("label")
+      .removeClass("active");
+    buttonToSelect
+      .addClass("active")
+      .find("input")
+      .prop("checked", true);
   }
 };
 
@@ -34,7 +42,9 @@ const loadChordOptionButtons = function(): void {
       value: value,
     });
   }
-  document.getElementById(CHORD_OPTION)!.innerHTML = buttonTemplate({ buttons: chordOptionButtons });
+  document.getElementById(CHORD_OPTION)!.innerHTML = buttonTemplate({
+    buttons: chordOptionButtons,
+  });
 
   selectButton(CHORD_OPTION, songView.getChordOption());
 
@@ -64,10 +74,12 @@ const loadTransposeButtons = function(): void {
     transposeButtons.push({
       type: TRANSPOSE,
       name: name,
-      value: value
+      value: value,
     });
   }
-  document.getElementById(TRANSPOSE)!.innerHTML = buttonTemplate({ buttons: transposeButtons });
+  document.getElementById(TRANSPOSE)!.innerHTML = buttonTemplate({
+    buttons: transposeButtons,
+  });
 
   renderTranspose();
 
@@ -76,7 +88,11 @@ const loadTransposeButtons = function(): void {
   transposeWidget.change(function(e) {
     const transposeAmount = +(e.target as HTMLInputElement).value;
     songView.setTranspose(transposeAmount);
-    window.history.replaceState({"id": songView.getId(), "transpose": transposeAmount}, "", `?transpose=${transposeAmount}`);
+    window.history.replaceState(
+      { id: songView.getId(), transpose: transposeAmount },
+      "",
+      `?transpose=${transposeAmount}`
+    );
     rerender();
   });
 };
@@ -91,11 +107,12 @@ const renderColumnButtons = function(): void {
       value: value,
     });
   }
-  document.getElementById(COLUMN)!.innerHTML = buttonTemplate({ buttons: columnButtons });
+  document.getElementById(COLUMN)!.innerHTML = buttonTemplate({
+    buttons: columnButtons,
+  });
 };
 
 const loadColumnButtons = function(): void {
-
   const updateColCount = function(colCount: number): void {
     $("#song").css("column-count", colCount);
     $("#song").css("position", colCount > 1 ? "absolute" : "static");
@@ -121,11 +138,19 @@ const loadColumnButtons = function(): void {
   });
 };
 
-export const loadInstrumentButtons = function(options: { showNone?: false } = {}): void {
+export const loadInstrumentButtons = function(
+  options: { showNone?: false } = {}
+): void {
   // Render instrument toggle widget
-  const instrumentOptions = ["none", "ukulele", "baritone", "guitar", "guitalele"];
+  const instrumentOptions = [
+    "none",
+    "ukulele",
+    "baritone",
+    "guitar",
+    "guitalele",
+  ];
 
-  if(options.showNone === false) {
+  if (options.showNone === false) {
     instrumentOptions.shift();
   }
   const instrumentButtons = [];
@@ -136,7 +161,9 @@ export const loadInstrumentButtons = function(options: { showNone?: false } = {}
       value: value,
     });
   }
-  document.getElementById(INSTRUMENT)!.innerHTML = buttonTemplate({ buttons: instrumentButtons });
+  document.getElementById(INSTRUMENT)!.innerHTML = buttonTemplate({
+    buttons: instrumentButtons,
+  });
 
   const currentInstrument = songView.getInstrument();
   selectButton(INSTRUMENT, currentInstrument);
@@ -160,7 +187,9 @@ export const loadOrientationButtons = function(): void {
       value: value,
     });
   }
-  document.getElementById(ORIENTATION)!.innerHTML = buttonTemplate({ buttons: orientationButtons });
+  document.getElementById(ORIENTATION)!.innerHTML = buttonTemplate({
+    buttons: orientationButtons,
+  });
 
   selectButton(ORIENTATION, songView.getOrientation());
 
@@ -188,7 +217,6 @@ export var loadWidgets = function(): void {
   // Orientation toggle
   loadOrientationButtons();
 };
-
 
 $(document).ready(function() {
   let hideableChordPics = $(".hideable");
@@ -231,7 +259,8 @@ document.addEventListener("copy", function(event) {
   const ranges = [];
   for (let i = 0; i < selection.rangeCount; i++) {
     const range = selection.getRangeAt(i);
-    const container = range.commonAncestorContainer.cloneNode(false) as Node & ParentNode;
+    const container = range.commonAncestorContainer.cloneNode(false) as Node &
+      ParentNode;
     container.appendChild(range.cloneContents());
     const chords = container.querySelectorAll(".chords");
     if (chords.length) {

@@ -1,4 +1,17 @@
-const OCTAVE = ["C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"];
+const OCTAVE = [
+  "C",
+  "C#",
+  "D",
+  "D#",
+  "E",
+  "F",
+  "F#",
+  "G",
+  "G#",
+  "A",
+  "A#",
+  "B",
+];
 
 export interface Instrument {
   stringCount: number;
@@ -29,7 +42,11 @@ export interface Note {
   toUkulele(): Note;
 }
 
-export var Note = function(initialString: number, fret: number, time: number): Note {
+export var Note = function(
+  initialString: number,
+  fret: number,
+  time: number
+): Note {
   var that = Object.create(Note.prototype);
   that.initialString = initialString;
   that.fret = fret;

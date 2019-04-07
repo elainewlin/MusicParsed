@@ -3,18 +3,22 @@ import "../css/styles.css";
 import "../css/global.css";
 import allSongsListTemplate from "../mustache/allSongsList.mustache";
 import buttonTemplate from "../mustache/button.mustache";
-import {Song, songSearch} from "./render";
-import {selectButton} from "./controller";
+import { Song, songSearch } from "./render";
+import { selectButton } from "./controller";
 
 // Helper function for sorting arrays of objects by property
 var comparator = function<Property extends string>(
-  property: Property,
-): (obj1: { [_ in Property]: string }, obj2: { [_ in Property]: string }) => number {
+  property: Property
+): (
+  obj1: { [_ in Property]: string },
+  obj2: { [_ in Property]: string }
+) => number {
   return function(obj1, obj2) {
     var prop1 = obj1[property];
     var prop2 = obj2[property];
 
-    if (prop1 < prop2) { //sort string ascending
+    if (prop1 < prop2) {
+      //sort string ascending
       return -1;
     }
     if (prop1 > prop2) {
@@ -24,7 +28,9 @@ var comparator = function<Property extends string>(
   };
 };
 
-const sortSongsByArtist = function(songs: Song[]): { artist: string; songs: Song[] }[] {
+const sortSongsByArtist = function(
+  songs: Song[]
+): { artist: string; songs: Song[] }[] {
   const allSongs: { [artist: string]: Song[] } = {};
   songs.map(function(song) {
     // Sorting by artist
@@ -42,7 +48,7 @@ const sortSongsByArtist = function(songs: Song[]): { artist: string; songs: Song
     // Song titles in alphabetical order
     const songsByArtist = [...allSongs[artist]];
     songsByArtist.sort(comparator("title"));
-    allSongsByArtist.push({ "artist": artist, "songs": songsByArtist });
+    allSongsByArtist.push({ artist: artist, songs: songsByArtist });
   }
   // Artists in alphabetical order
   allSongsByArtist.sort(comparator("artist"));
@@ -76,7 +82,7 @@ window.onload = function() {
       data.map(function(song: Song) {
         allSongs.push(song);
         const tags = song["tags"];
-        tags.map((tag) => {
+        tags.map(tag => {
           allTags.add(tag);
           if (!allSongsByTag.has(tag)) {
             allSongsByTag.set(tag, []);
@@ -86,24 +92,28 @@ window.onload = function() {
       });
       allSongsByTag.set(ALL_TAG, allSongs);
 
-      const allTagButtons = Array.from(allTags).sort().map((tag) => {
-        return {
-          type: TAG_TYPE,
-          name: tag,
-          value: tag
-        };
-      });
+      const allTagButtons = Array.from(allTags)
+        .sort()
+        .map(tag => {
+          return {
+            type: TAG_TYPE,
+            name: tag,
+            value: tag,
+          };
+        });
       document.getElementById("allTags")!.innerHTML = buttonTemplate({
-        buttons: allTagButtons
+        buttons: allTagButtons,
       });
 
       renderSelectedSongs(selectedTag);
 
-      $("#allTags").find("input").change(function(e) {
-        selectedTag = (e.target as HTMLInputElement).value;
-        renderSelectedSongs(selectedTag);
-      });
-    }
+      $("#allTags")
+        .find("input")
+        .change(function(e) {
+          selectedTag = (e.target as HTMLInputElement).value;
+          renderSelectedSongs(selectedTag);
+        });
+    },
   });
 
   const loadSongUrl = function(song: Song): void {
@@ -112,4 +122,3 @@ window.onload = function() {
 
   songSearch(loadSongUrl);
 };
-
