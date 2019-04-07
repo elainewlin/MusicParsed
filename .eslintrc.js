@@ -15,7 +15,12 @@ module.exports = {
     "@typescript-eslint/indent": "off",
     "@typescript-eslint/no-non-null-assertion":
       "off" /* should maybe enable this later */,
+    "arrow-body-style": "error",
+    "func-style": "error",
     "linebreak-style": ["error", "unix"],
+    "no-var": "error",
+    "prefer-arrow-callback": "error",
+    "prefer-const": "error",
     quotes: ["error", "double"],
     semi: ["error", "always"],
   },

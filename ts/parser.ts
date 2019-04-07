@@ -28,7 +28,7 @@ export const isChordLine = function(line: string): boolean {
 
   let isLineChord = true;
 
-  line.replace(chordBoundary, function(word) {
+  line.replace(chordBoundary, word => {
     let wordIsChord = false;
 
     if (word.match(chordReg)) {
@@ -93,7 +93,7 @@ export const parseLines = function({
       data.lines.push({ label: line });
     } else if (isChordLine(line)) {
       for (;;) {
-        let nextLine = iterator.next().value;
+        const nextLine = iterator.next().value;
         let lyrics = "";
         if (isLyricLine(nextLine)) {
           lyrics = nextLine;

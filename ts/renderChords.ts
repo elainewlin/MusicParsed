@@ -5,7 +5,7 @@ import { renderChords } from "./render";
 import "bootstrap/dist/css/bootstrap.css";
 import "../css/styles.css";
 
-$(document).ready(function() {
+$(document).ready(() => {
   songView.setInstrument("ukulele");
   loadInstrumentButtons({ showNone: false });
   loadOrientationButtons();
@@ -18,7 +18,7 @@ $(document).ready(function() {
   songView.setTranspose(0);
   renderChords();
 
-  $("#renderChords").click(function() {
+  $("#renderChords").click(() => {
     const rawChordString = $("#chords").val() as string;
 
     // Super basic parser

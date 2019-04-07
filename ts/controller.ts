@@ -35,7 +35,7 @@ export const selectButton = function(
 const loadChordOptionButtons = function(): void {
   const chordOptions = ["original", "simple"];
   const chordOptionButtons = [];
-  for (let value of chordOptions) {
+  for (const value of chordOptions) {
     chordOptionButtons.push({
       type: CHORD_OPTION,
       name: value,
@@ -50,7 +50,7 @@ const loadChordOptionButtons = function(): void {
 
   const chordOptionWidget = getWidget(CHORD_OPTION);
 
-  chordOptionWidget.change(function(e) {
+  chordOptionWidget.change(e => {
     songView.setChordOption((e.target as HTMLInputElement).value);
     rerender();
   });
@@ -85,7 +85,7 @@ const loadTransposeButtons = function(): void {
 
   const transposeWidget = getWidget(TRANSPOSE);
 
-  transposeWidget.change(function(e) {
+  transposeWidget.change(e => {
     const transposeAmount = +(e.target as HTMLInputElement).value;
     songView.setTranspose(transposeAmount);
     window.history.replaceState(
@@ -132,7 +132,7 @@ const loadColumnButtons = function(): void {
 
   const columnWidget = getWidget(COLUMN);
 
-  columnWidget.change(function(e) {
+  columnWidget.change(e => {
     const colCount = +(e.target as HTMLInputElement).value;
     updateColCount(colCount);
   });
@@ -154,7 +154,7 @@ export const loadInstrumentButtons = function(
     instrumentOptions.shift();
   }
   const instrumentButtons = [];
-  for (let value of instrumentOptions) {
+  for (const value of instrumentOptions) {
     instrumentButtons.push({
       type: INSTRUMENT,
       name: value,
@@ -170,7 +170,7 @@ export const loadInstrumentButtons = function(
 
   const instrumentWidget = getWidget(INSTRUMENT);
 
-  instrumentWidget.change(function(e) {
+  instrumentWidget.change(e => {
     const newInstrument = (e.target as HTMLInputElement).value;
     songView.setInstrument(newInstrument);
     renderChords();
@@ -180,7 +180,7 @@ export const loadInstrumentButtons = function(
 export const loadOrientationButtons = function(): void {
   const orientationOptions = ["left", "right"];
   const orientationButtons = [];
-  for (let value of orientationOptions) {
+  for (const value of orientationOptions) {
     orientationButtons.push({
       type: ORIENTATION,
       name: value,
@@ -195,13 +195,13 @@ export const loadOrientationButtons = function(): void {
 
   const orientationWidget = getWidget(ORIENTATION);
 
-  orientationWidget.change(function(e) {
+  orientationWidget.change(e => {
     songView.setOrientation((e.target as HTMLInputElement).value);
     renderChords();
   });
 };
 
-export var loadWidgets = function(): void {
+export const loadWidgets = function(): void {
   // Transpose widget
   loadTransposeButtons();
 
@@ -218,9 +218,9 @@ export var loadWidgets = function(): void {
   loadOrientationButtons();
 };
 
-$(document).ready(function() {
-  let hideableChordPics = $(".hideable");
-  hideableChordPics.click(function() {
+$(document).ready(() => {
+  const hideableChordPics = $(".hideable");
+  hideableChordPics.click(() => {
     songView.setInstrument("none");
     selectButton(INSTRUMENT, songView.getInstrument());
     renderChords();
@@ -228,7 +228,7 @@ $(document).ready(function() {
   hideableChordPics.tooltip();
 
   // Capo
-  $("#capo").click(function() {
+  $("#capo").click(() => {
     const capo = songView.getCapo();
     songView.setTranspose(capo);
     rerender();
@@ -236,9 +236,9 @@ $(document).ready(function() {
   });
 
   // View widget, column, transpose widgets
-  let viewToggle = $("#viewToggle");
+  const viewToggle = $("#viewToggle");
 
-  viewToggle.click(function() {
+  viewToggle.click(() => {
     const widgets = $("#widgets");
     widgets.toggle();
 
@@ -252,7 +252,7 @@ $(document).ready(function() {
 });
 
 // Copy and paste
-document.addEventListener("copy", function(event) {
+document.addEventListener("copy", event => {
   const selection = document.getSelection()!;
 
   let mangle = false; // whether the selection contains chords

@@ -7,15 +7,15 @@ import { Song, songSearch } from "./render";
 import { selectButton } from "./controller";
 
 // Helper function for sorting arrays of objects by property
-var comparator = function<Property extends string>(
+const comparator = function<Property extends string>(
   property: Property
 ): (
   obj1: { [_ in Property]: string },
   obj2: { [_ in Property]: string }
 ) => number {
   return function(obj1, obj2) {
-    var prop1 = obj1[property];
-    var prop2 = obj2[property];
+    const prop1 = obj1[property];
+    const prop2 = obj2[property];
 
     if (prop1 < prop2) {
       //sort string ascending
@@ -32,7 +32,7 @@ const sortSongsByArtist = function(
   songs: Song[]
 ): { artist: string; songs: Song[] }[] {
   const allSongs: { [artist: string]: Song[] } = {};
-  songs.map(function(song) {
+  songs.map(song => {
     // Sorting by artist
     const artist = song["artist"];
 
@@ -43,8 +43,8 @@ const sortSongsByArtist = function(
     }
   });
 
-  let allSongsByArtist = [];
-  for (let artist in allSongs) {
+  const allSongsByArtist = [];
+  for (const artist in allSongs) {
     // Song titles in alphabetical order
     const songsByArtist = [...allSongs[artist]];
     songsByArtist.sort(comparator("title"));
@@ -79,7 +79,7 @@ window.onload = function() {
       const allSongs: Song[] = [];
 
       allTags.add(ALL_TAG);
-      data.map(function(song: Song) {
+      data.map((song: Song) => {
         allSongs.push(song);
         const tags = song["tags"];
         tags.map(tag => {
@@ -94,13 +94,11 @@ window.onload = function() {
 
       const allTagButtons = Array.from(allTags)
         .sort()
-        .map(tag => {
-          return {
-            type: TAG_TYPE,
-            name: tag,
-            value: tag,
-          };
-        });
+        .map(tag => ({
+          type: TAG_TYPE,
+          name: tag,
+          value: tag,
+        }));
       document.getElementById("allTags")!.innerHTML = buttonTemplate({
         buttons: allTagButtons,
       });
@@ -109,7 +107,7 @@ window.onload = function() {
 
       $("#allTags")
         .find("input")
-        .change(function(e) {
+        .change(e => {
           selectedTag = (e.target as HTMLInputElement).value;
           renderSelectedSongs(selectedTag);
         });
