@@ -17,42 +17,46 @@ const config: webpack.Configuration = {
   output: {
     filename: "[name].[contenthash].bundle.js",
     path: path.resolve(__dirname, "static", "dist"),
-    publicPath: "/static/dist/"
+    publicPath: "/static/dist/",
   },
   module: {
-    rules: [{
-      test: /\.(?:js|ts)$/,
-      exclude: /node_modules/,
-      loader: "babel-loader"
-    }, {
-      test: /\.mustache$/,
-      loader: "mustache-loader"
-    }, {
-      test: /\.css$/,
-      use: [
-        MiniCssExtractPlugin.loader, {
-          loader: "css-loader",
-          options: {
-            importLoaders: 1,
+    rules: [
+      {
+        test: /\.(?:js|ts)$/,
+        exclude: /node_modules/,
+        loader: "babel-loader",
+      },
+      {
+        test: /\.mustache$/,
+        loader: "mustache-loader",
+      },
+      {
+        test: /\.css$/,
+        use: [
+          MiniCssExtractPlugin.loader,
+          {
+            loader: "css-loader",
+            options: {
+              importLoaders: 1,
+            },
           },
-        }, {
-          loader: "postcss-loader",
-        }
-      ],
-    }, {
-      test: /\.(eot|png|svg|ttf|woff|woff2)$/,
-      loader: "url-loader",
-      options: {
-        limit: 8192
-      }
-    }]
+          {
+            loader: "postcss-loader",
+          },
+        ],
+      },
+      {
+        test: /\.(eot|png|svg|ttf|woff|woff2)$/,
+        loader: "url-loader",
+        options: {
+          limit: 8192,
+        },
+      },
+    ],
   },
   node: false,
   optimization: {
-    minimizer: [
-      new OptimizeCssAssetsPlugin,
-      new TerserPlugin,
-    ],
+    minimizer: [new OptimizeCssAssetsPlugin(), new TerserPlugin()],
   },
   plugins: [
     new CleanWebpackPlugin(["static/dist"]),
@@ -61,11 +65,11 @@ const config: webpack.Configuration = {
       chunkFilename: "[id].[contenthash].css",
     }),
     new WebpackManifestPlugin({
-      publicPath: "/static/dist/"
+      publicPath: "/static/dist/",
     }),
     new webpack.ProvidePlugin({
-      jQuery: "jquery"
-    })
+      jQuery: "jquery",
+    }),
   ],
   resolve: {
     extensions: [".ts", ".js"],

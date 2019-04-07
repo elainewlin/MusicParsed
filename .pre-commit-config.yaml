@@ -1,34 +1,39 @@
 repos:
-- repo: https://github.com/pre-commit/pre-commit-hooks.git
-  rev: v2.1.0
-  hooks:
-  - id: flake8
-- repo: https://github.com/pre-commit/mirrors-autopep8.git
-  rev: v1.4.3
-  hooks:
-  - id: autopep8
-- repo: https://github.com/pre-commit/mirrors-eslint.git
-  rev: v5.13.0
-  hooks:
-  - &eslint
-    id: eslint
-    types: [javascript]
-    additional_dependencies:
-    - eslint@5.13.0
-    - typescript@3.2.4
-    - "@typescript-eslint/eslint-plugin@1.2.0"
-    - "@typescript-eslint/parser@1.2.0"
-  - <<: *eslint
-    alias: eslint:ts
-    name: eslint:ts
-    types: [ts]
-- repo: local
-  hooks:
-  - id: typescript
-    name: typescript
-    entry: tsc
-    language: node
-    'types': [ts]
-    args: [--noEmit, --project, tsconfig.json]
-    pass_filenames: false
-    additional_dependencies: ["typescript@3.2.4"]
+  - repo: https://github.com/pre-commit/pre-commit-hooks.git
+    rev: v2.1.0
+    hooks:
+      - id: flake8
+  - repo: https://github.com/pre-commit/mirrors-autopep8.git
+    rev: v1.4.3
+    hooks:
+      - id: autopep8
+  - repo: https://github.com/pre-commit/mirrors-eslint.git
+    rev: v5.13.0
+    hooks:
+      - &eslint
+        id: eslint
+        types: [javascript]
+        additional_dependencies:
+          - eslint@5.13.0
+          - typescript@3.2.4
+          - "@typescript-eslint/eslint-plugin@1.2.0"
+          - "@typescript-eslint/parser@1.2.0"
+      - <<: *eslint
+        alias: eslint:ts
+        name: eslint:ts
+        types: [ts]
+  - repo: local
+    hooks:
+      - id: typescript
+        name: typescript
+        entry: tsc
+        language: node
+        "types": [ts]
+        args: [--noEmit, --project, tsconfig.json]
+        pass_filenames: false
+        additional_dependencies: ["typescript@3.2.4"]
+  - repo: https://github.com/prettier/prettier.git
+    rev: 1.16.4
+    hooks:
+      - id: prettier
+        exclude: "^templates/|^static/data/"

@@ -1,6 +1,5 @@
 import * as parser from "../parser";
-import { 
-  assert } from "chai";
+import { assert } from "chai";
 describe("slugify", () => {
   it("should kill all non-alphanumeric characters", () => {
     const string = "titl!@#$%^&*()'e";
@@ -39,7 +38,7 @@ describe("isLabel", () => {
   it("is false for  non-label", () => {
     const line = "Hello world!";
     assert.isFalse(parser.isLabel(line));
-  });  
+  });
 });
 
 describe("isChordLine", () => {
@@ -53,11 +52,11 @@ describe("isChordLine", () => {
     const ACCIDENTALS = ["bb", "𝄫", "b", "♭", "#", "♯", "x", "𝄪"];
     const minor = (chord: string): string => chord + "m";
 
-    ROOT_NOTES.forEach((root) => {
+    ROOT_NOTES.forEach(root => {
       assert.isTrue(parser.isChordLine(root));
       assert.isTrue(parser.isChordLine(minor(root)));
 
-      ACCIDENTALS.forEach((accidental) => {
+      ACCIDENTALS.forEach(accidental => {
         assert.isTrue(parser.isChordLine(root + accidental));
       });
     });
@@ -65,9 +64,9 @@ describe("isChordLine", () => {
 
   it("requires all words to be chords", () => {
     const validLines = ["A C", "Dm   C   Dm C"];
-    validLines.forEach((line) => assert.isTrue(parser.isChordLine(line)));
+    validLines.forEach(line => assert.isTrue(parser.isChordLine(line)));
     const invalidLines = ["A carrot", "Apple"];
-    invalidLines.forEach((line) => assert.isFalse(parser.isChordLine(line)));
+    invalidLines.forEach(line => assert.isFalse(parser.isChordLine(line)));
   });
 
   it("is true for chords with underscore", () => {
@@ -75,8 +74,18 @@ describe("isChordLine", () => {
   });
 
   it("is true for complex chords", () => {
-    const complexChords = ["F/A", "Cmaj7", "Caug", "Bbsus2", "Dbdim", "Gadd9", "Dm", "Emadd9", "A7no3"];
-    complexChords.forEach((chord) => assert.isTrue(parser.isChordLine(chord)));
+    const complexChords = [
+      "F/A",
+      "Cmaj7",
+      "Caug",
+      "Bbsus2",
+      "Dbdim",
+      "Gadd9",
+      "Dm",
+      "Emadd9",
+      "A7no3",
+    ];
+    complexChords.forEach(chord => assert.isTrue(parser.isChordLine(chord)));
     assert.isTrue(parser.isChordLine(complexChords.join(" ")));
   });
 });
@@ -91,7 +100,7 @@ describe("isLyricLine", () => {
     const labelLine = "Verse:";
     assert.isFalse(parser.isLyricLine(labelLine));
   });
-  
+
   it("is true otherwise", function() {
     const lyrics = "I used to rule the world";
     assert.isTrue(parser.isLyricLine(lyrics));

@@ -32,7 +32,7 @@ const parseTab = function(instrument: Instrument): Note[][] {
   });
 
   const sequence = [];
-  for(let time in timeToNotes) {
+  for (let time in timeToNotes) {
     sequence.push(timeToNotes[time]);
   }
 
@@ -66,7 +66,6 @@ var printTab = function(instrument: Instrument, sequence: Note[][]): void {
 
   const newTab = strings.join("\n");
   $(".tab.converted").html(newTab);
-
 };
 
 const convertNote = function(note: Note, newInstrument: Instrument): Note {
@@ -79,7 +78,10 @@ const convertNote = function(note: Note, newInstrument: Instrument): Note {
   throw new Error("convertNote: unknown instrument");
 };
 
-const convertTab = function(oldInstrument: Instrument, newInstrument: Instrument): void {
+const convertTab = function(
+  oldInstrument: Instrument,
+  newInstrument: Instrument
+): void {
   const oldSequence = parseTab(oldInstrument);
 
   const newSequence = [];

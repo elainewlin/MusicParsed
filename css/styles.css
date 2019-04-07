@@ -23,7 +23,8 @@
 
 @font-face {
   font-family: "DejaVu Sans Mono";
-  src: local("DejaVu Sans Mono"), url("~dejavu-fonts-ttf/ttf/DejaVuSansMono.ttf") format("truetype");
+  src: local("DejaVu Sans Mono"),
+    url("~dejavu-fonts-ttf/ttf/DejaVuSansMono.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
@@ -96,7 +97,6 @@ html#songPage body {
   padding: 10px;
 }
 
-
 #chordPicBox {
   position: relative;
   padding: 20px;
@@ -141,7 +141,6 @@ html#songPage body {
 .songTag {
   break-inside: avoid-column;
 }
-
 
 /* Styles for all songs page */
 

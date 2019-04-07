@@ -7,9 +7,13 @@ import "../css/styles.css";
 
 $(document).ready(function() {
   songView.setInstrument("ukulele");
-  loadInstrumentButtons({showNone: false});
+  loadInstrumentButtons({ showNone: false });
   loadOrientationButtons();
-  songView.setSong({"fullName": "", "allChords": ["Am", "F", "C", "G"], "lines": []});
+  songView.setSong({
+    fullName: "",
+    allChords: ["Am", "F", "C", "G"],
+    lines: [],
+  });
   songView.setChordOption("original");
   songView.setTranspose(0);
   renderChords();
@@ -19,8 +23,8 @@ $(document).ready(function() {
 
     // Super basic parser
     // Removes white space and splits by semi-colon
-    const allChords = rawChordString.replace(/ /g,"").split(";");
-    songView.setSong({"fullName": "", "allChords": allChords, "lines": []});
+    const allChords = rawChordString.replace(/ /g, "").split(";");
+    songView.setSong({ fullName: "", allChords: allChords, lines: [] });
     renderChords();
   });
 });
