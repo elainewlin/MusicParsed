@@ -1,7 +1,10 @@
 import "core-js/fn/array/flat-map";
 
-import { pitchToFifths, pitchRegex } from "../lib/pitch";
-import { simplifyChord, transposeChord } from "../lib/chord";
+import {
+  simplifyChord,
+  transposeChord,
+  transposeAmountToFifths,
+} from "../lib/chord";
 
 export type SongLine = { label: string } | { chord: string; lyrics: string };
 
@@ -132,17 +135,7 @@ export const songView: SongView = new ((function SongView(this: SongView) {
   };
 
   this.getData = function() {
-    const allFifths = allChords.flatMap(chord => {
-      const chordTypes = "(m\b|madd|msus|dim)?";
-      const chordRegex = new RegExp(`^(${pitchRegex.source})${chordTypes}`);
-      const m = chord.match(chordRegex);
-      return m ? [pitchToFifths.get(m[1])! - (m[2] ? 3 : 0)] : [];
-    });
-    const center = Math.round(
-      allFifths.reduce((a, b) => a + b) / allFifths.length
-    );
-    // Transpose the average chord no flatter than Ab or Fm and no sharper than C# or A#m.
-    const amount = ((transpose * 7 + center + 12004) % 12) - center - 4;
+    const amount = transposeAmountToFifths(allChords, transpose);
 
     let processChord = (chord: string): string => transposeChord(chord, amount);
     const shouldSimplify = chordOption === "simple";
