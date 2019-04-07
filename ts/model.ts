@@ -1,55 +1,6 @@
 import "core-js/fn/array/flat-map";
-
-var accidentalFifths: [string, number][] = [["bb", -14], ["𝄫", -14], ["b", -7], ["♭", -7], ["", 0], ["#", 7], ["♯", 7], ["x", 14], ["𝄪", 14]];
-var letterFifths: [string, number][] = [["F", -1], ["C", 0], ["G", 1], ["D", 2], ["A", 3], ["E", 4], ["B", 5]];
-var pitchFifths: [string, number][] = accidentalFifths.flatMap(function(af) {
-  return letterFifths.map(function(lf): [string, number] {
-    return [lf[0] + af[0], lf[1] + af[1]];
-  });
-});
-
-export var pitchToFifths: Map<string, number> = new Map(pitchFifths);
-var fifthsToPitch: Map<number, string> = new Map(pitchFifths.map(function(pf): [number, string] { return [pf[1], pf[0]]; }));
-
-const noteString = "[A-G](?:bb|𝄫|b|♭|#|♯|x|𝄪)?";
-const noteRegex = new RegExp(noteString, "g");
-
-// matches minor chords like Amadd9, but not Cmaj7
-const minorChord = "m?(?!aj)";
-
-// matches everything that does not follow a /
-const simpleChordRegex = new RegExp(`^(?!/)${noteString}${minorChord}`, "g");
-
-const replaceAt = function(str: string, index: number, replacement: string): string {
-  return str.substr(0, index) + replacement + str.substr(index + replacement.length);
-};
-
-const constructChord = function(totalLength: number, chords: string[], offsets: number[]): string {
-  let blankChord = Array(totalLength).join(" ");
-  for(let i = 0; i < offsets.length; i++) {
-    blankChord = replaceAt(blankChord, offsets[i], chords[i]);
-  }
-  return blankChord;
-};
-
-// Make complicated chords easier for beginners
-// i.e. Am7 -> Am, Dsus4 -> D
-const simplifyChord = function(chord: string): string {
-  const chords: string[] = [];
-  const offsets: number[] = [];
-
-  const chordBoundary = new RegExp(/\S+/, "g");
-  chord.replace(chordBoundary, function(originalChord, offset) {
-    const simpleChord = originalChord.match(simpleChordRegex)![0];
-    chords.push(simpleChord);
-    offsets.push(offset);
-    return "";
-  });
-
-  return constructChord(chord.length, chords, offsets);
-};
-
-export type SongLine = {label: string} | {chord: string; lyrics: string};
+import {noteString, pitchToFifths, fifthsToPitch, simplifyChord} from "./chordHelpers";
+import {SongLine} from "./songParser";
 
 export interface SongData {
   id?: string;
@@ -145,7 +96,7 @@ export var songView: SongView = new (function SongView(this: SongView) {
     if (shouldSimplify) {
       chordToTranspose = simplifyChord(chord);
     }
-    return chordToTranspose.replace(noteRegex, function(pitch) {
+    return chordToTranspose.replace(new RegExp(noteString, "g"), function(pitch) {
       return fifthsToPitch.get(pitchToFifths.get(pitch)! + amount)!;
     });
   };

@@ -1,6 +1,6 @@
 import * as parser from "../parser";
-import { 
-  assert } from "chai";
+import { assert } from "chai";
+
 describe("slugify", () => {
   it("should kill all non-alphanumeric characters", () => {
     const string = "titl!@#$%^&*()'e";
