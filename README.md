@@ -3,7 +3,7 @@
 Start local server:
 
     yarn
-    node app.js
+    yarn app
 
 Useful commands:
 
