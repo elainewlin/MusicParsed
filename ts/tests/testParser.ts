@@ -1,24 +1,23 @@
-import parser from "../parser";
-import { expect, assert } from "chai";
-import "mocha";
-
+import * as parser from "../parser";
+import { 
+  assert } from "chai";
 describe("slugify", () => {
   it("should kill all non-alphanumeric characters", () => {
     const string = "titl!@#$%^&*()'e";
     const result = parser.slugify(string);
-    expect(result).to.equal("title");
+    assert(result === "title");
   });
 
   it("should lower-case the string", () => {
     const string = "HELLO";
     const result = parser.slugify(string);
-    expect(result).to.equal("hello");
+    assert(result === "hello");
   });
 
   it("should replace all spaces with underscore", () => {
     const string = "I have so many spaces!";
     const result = parser.slugify(string);
-    expect(result).to.equal("i_have_so_many_spaces");
+    assert(result === "i_have_so_many_spaces");
   });
 });
 
@@ -54,11 +53,11 @@ describe("isChordLine", () => {
     const FLAT_SHARP_MARKINGS = ["bb","𝄫", "b", "♭", "#", "♯", "x"];
     const minor = (chord: string): string => chord + "m";
 
-    ROOT_NOTES.map((root) => {
+    ROOT_NOTES.forEach((root) => {
       assert.isTrue(parser.isChordLine(root));
       assert.isTrue(parser.isChordLine(minor(root)));
 
-      FLAT_SHARP_MARKINGS.map((marking) => {
+      FLAT_SHARP_MARKINGS.forEach((marking) => {
         assert.isTrue(parser.isChordLine(root + marking));
       });
     });
@@ -66,9 +65,9 @@ describe("isChordLine", () => {
 
   it("requires all words to be chords", () => {
     const validLines = ["A C", "Dm   C   Dm C"];
-    validLines.map((line) => assert.isTrue(parser.isChordLine(line)));
+    validLines.forEach((line) => assert.isTrue(parser.isChordLine(line)));
     const invalidLines = ["A carrot", "Apple"];
-    invalidLines.map((line) => assert.isFalse(parser.isChordLine(line)));
+    invalidLines.forEach((line) => assert.isFalse(parser.isChordLine(line)));
   });
 
   it("is true for chords with underscore", () => {
@@ -77,7 +76,7 @@ describe("isChordLine", () => {
 
   it("is true for complex chords", () => {
     const complexChords = ["F/A", "Cmaj7", "Caug", "Bbsus2", "Dbdim", "Gadd9", "Dm", "Emadd9", "A7no3"];
-    complexChords.map((chord) => assert.isTrue(parser.isChordLine(chord)));
+    complexChords.forEach((chord) => assert.isTrue(parser.isChordLine(chord)));
     assert.isTrue(parser.isChordLine(complexChords.join(" ")));
   });
 });
