@@ -1,6 +1,6 @@
 /* eslint no-console: "off" */
 
-import { parseLines } from "./parser";
+import { parseLines } from "../lib/parser";
 import fs from "fs";
 import path from "path";
 

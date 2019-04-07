@@ -3,7 +3,8 @@ import $ from "jquery";
 import "jquery-ui/ui/widgets/autocomplete";
 import "jquery-ui/themes/base/all.css";
 import { renderAllChords } from "../lib/fingering";
-import { SongData, SongLine } from "../lib/song";
+import { SongData } from "../lib/song";
+import { renderLines } from "../lib/parser";
 import { loadWidgets, renderTranspose } from "./controller";
 import { songView } from "./model";
 import songTemplate from "../mustache/song.mustache";
@@ -34,90 +35,6 @@ const renderCapo = function(): void {
   } else {
     $("#capo").hide();
   }
-};
-
-interface ChordLyricPair {
-  chord: string | null;
-  lyric: string;
-  overLyric?: true;
-}
-
-interface ChordLyricLine {
-  className: string;
-  chordLyricPairs: ChordLyricPair[];
-}
-
-const renderChordLyricLine = function(
-  chordString: string,
-  lyrics: string
-): ChordLyricLine {
-  let className = "line";
-
-  if (chordString.length > 0 && lyrics.length > 0) {
-    className = "chordLyricLine";
-  }
-
-  /**
-  Keep track of the chords + their offset positions in the string i.e.
-  Dm      G
-  Hello world
-  has offset + chords (0, "Dm"), (8, "G")
-  */
-  const chordBoundary = new RegExp(/\S+/, "g");
-
-  const offsetChordPairs: { offset: number; chord: string | null }[] = [];
-  chordString.replace(chordBoundary, (chord, offset) => {
-    offsetChordPairs.push({ offset, chord });
-    return "";
-  });
-  if (offsetChordPairs.length === 0 || offsetChordPairs[0].offset !== 0) {
-    offsetChordPairs.unshift({ offset: 0, chord: null });
-  }
-  const maxOffset = offsetChordPairs[offsetChordPairs.length - 1].offset;
-
-  lyrics = lyrics.padEnd(maxOffset);
-  offsetChordPairs.push({ offset: lyrics.length, chord: null });
-
-  const chordLyricPairs: ChordLyricPair[] = [];
-
-  for (let i = 0; i < offsetChordPairs.length - 1; i++) {
-    const { offset: lastOffset, chord } = offsetChordPairs[i];
-    const nextOffset = offsetChordPairs[i + 1].offset;
-    const lyric = lyrics.slice(lastOffset, nextOffset);
-    if (chord === null || /[^ ]/.test(lyric.slice(0, chord.length + 1))) {
-      chordLyricPairs.push({ chord, lyric, overLyric: true });
-    } else {
-      chordLyricPairs.push({ chord, lyric: lyric.slice(chord.length) });
-    }
-  }
-
-  return {
-    className: className,
-    chordLyricPairs: chordLyricPairs,
-  };
-};
-
-type RenderedLine =
-  | {
-      label: string;
-    }
-  | ChordLyricLine;
-
-const renderLines = function(lines: SongLine[]): RenderedLine[] {
-  const newLines: RenderedLine[] = [];
-
-  lines.map(line => {
-    if ("label" in line) {
-      newLines.push({
-        label: line["label"],
-      });
-    } else {
-      const chordString = line["chord"];
-      const lyrics = line["lyrics"];
-      newLines.push(renderChordLyricLine(chordString, lyrics));
-    }
-  });
-  return newLines;
 };
 
 export const rerender = function(): void {

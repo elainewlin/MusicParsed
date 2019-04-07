@@ -1,4 +1,4 @@
-import * as parser from "../parser";
+import * as parser from "../../lib/parser";
 import { assert } from "chai";
 describe("slugify", () => {
   it("should kill all non-alphanumeric characters", () => {
