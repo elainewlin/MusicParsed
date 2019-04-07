@@ -7,7 +7,7 @@ import { pitchToSemitones, pitchRegex } from "../lib/pitch";
 import { InstrumentData, instrumentsData } from "../lib/instrument";
 
 // Support for left-handed chord diagrams
-const reverseString = function(str: string): string {
+export const reverseString = function(str: string): string {
   return str
     .split("")
     .reverse()
@@ -36,7 +36,7 @@ type ChordFingeringData =
 // chordFingering: 4,2,2,2 for G,C,E,A
 // instrumentData: what instrument?
 // Output: SVG rendering of the chord
-const renderChordFingering = function(
+export const renderChordFingering = function(
   chordName: string,
   chordFingeringStr: string,
   instrumentData: InstrumentData
@@ -64,7 +64,7 @@ const renderChordFingering = function(
 };
 
 // Code is smart enough to auto-render chord thanks to regex magic
-const renderChord = function(
+export const renderChord = function(
   chord: string,
   instrumentData: InstrumentData,
   orientation: string = "right"
