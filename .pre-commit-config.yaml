@@ -3,10 +3,10 @@ repos:
     rev: v2.1.0
     hooks:
       - id: flake8
-  - repo: https://github.com/pre-commit/mirrors-autopep8.git
-    rev: v1.4.3
+  - repo: https://github.com/ambv/black.git
+    rev: 19.3b0
     hooks:
-      - id: autopep8
+      - id: black
   - repo: https://github.com/pre-commit/mirrors-eslint.git
     rev: v5.13.0
     hooks:

@@ -223,9 +223,7 @@ class TextParser:
           - each entry is "title - artist.txt"
         """
 
-        lines = subprocess.check_output(
-            ["git", "status", "-z"]
-        ).decode().split("\0")
+        lines = subprocess.check_output(["git", "status", "-z"]).decode().split("\0")
 
         """
         git status output needs to be parsed
@@ -270,10 +268,7 @@ class TextParser:
             newSong["id"] = songID
             newSong["tags"] = tags
 
-            urlInfo = {
-                "title": idToData(songID)[0],
-                "artist": idToData(songID)[1]
-            }
+            urlInfo = {"title": idToData(songID)[0], "artist": idToData(songID)[1]}
             newSong["url"] = "/song/{artist}/{title}".format(**urlInfo)
             allSongs.append(newSong)
         with open(ALL_SONGS_PATH, "w") as outfile:
@@ -314,7 +309,7 @@ class ImovieParser:
         chordIndices = []
         for i, letter in enumerate(chordLine):
             if letter != " ":
-                if (i == 0 or (i > 0 and chordLine[i - 1] == " ")):
+                if i == 0 or (i > 0 and chordLine[i - 1] == " "):
                     chordIndices.append(i)
 
         newChordLine = ""
@@ -363,6 +358,5 @@ if __name__ == "__main__":
     textParser.allToJSON(modified)
     textParser.getAllSongs()
 
-    imovieParser = ImovieParser(
-        "hey_there_delilah - plain_white_ts.json")
+    imovieParser = ImovieParser("hey_there_delilah - plain_white_ts.json")
     # imovieParser.jsonToImovie()

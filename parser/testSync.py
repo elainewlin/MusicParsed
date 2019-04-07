@@ -20,5 +20,4 @@ for i in range(len(allText)):
     fileName = dataToName(title, artist, "json")
     assert fileName in allJSON, fileName
 
-assert len(allText) == len(allJSON), \
-    "{} {}".format(len(allText), len(allJSON))
+assert len(allText) == len(allJSON), "{} {}".format(len(allText), len(allJSON))
