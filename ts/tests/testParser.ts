@@ -50,15 +50,15 @@ describe("isChordLine", () => {
 
   it("is true for basic chords", () => {
     const ROOT_NOTES = ["C", "D", "E", "F", "G", "A", "B"];
-    const FLAT_SHARP_MARKINGS = ["bb","𝄫", "b", "♭", "#", "♯", "x"];
+    const ACCIDENTALS = ["bb", "𝄫", "b", "♭", "#", "♯", "x", "𝄪"];
     const minor = (chord: string): string => chord + "m";
 
     ROOT_NOTES.forEach((root) => {
       assert.isTrue(parser.isChordLine(root));
       assert.isTrue(parser.isChordLine(minor(root)));
 
-      FLAT_SHARP_MARKINGS.forEach((marking) => {
-        assert.isTrue(parser.isChordLine(root + marking));
+      ACCIDENTALS.forEach((accidental) => {
+        assert.isTrue(parser.isChordLine(root + accidental));
       });
     });
   });
