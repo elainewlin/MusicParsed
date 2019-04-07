@@ -29,8 +29,14 @@ const pitchFifths: [string, number][] = accidentalFifths.flatMap(af =>
 );
 
 export const pitchToFifths: Map<string, number> = new Map(pitchFifths);
-export const fifthsToPitch: Map<number, string> = new Map(
+const fifthsToPitch: Map<number, string> = new Map(
   pitchFifths.map((pf): [number, string] => [pf[1], pf[0]])
 );
+
+export const pitchToSemitones = (pitch: string): number =>
+  (pitchToFifths.get(pitch)! * 7 + 12000) % 12;
+
+export const transposePitch = (pitch: string, fifths: number): string =>
+  fifthsToPitch.get(pitchToFifths.get(pitch)! + fifths)!;
 
 export const noteRegex = /[A-G](?:bb|𝄫|b|♭|#|♯|x|𝄪)?/g;

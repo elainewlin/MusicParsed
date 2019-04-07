@@ -4,7 +4,7 @@ import "jquery-ui/ui/widgets/autocomplete";
 import "jquery-ui/themes/base/all.css";
 import { loadWidgets, renderTranspose } from "./controller";
 import { SongData, SongLine, songView } from "./model";
-import { pitchToFifths } from "../lib/pitch";
+import { pitchToSemitones } from "../lib/pitch";
 import chordsTemplate from "../mustache/chords.mustache";
 import songTemplate from "../mustache/song.mustache";
 
@@ -836,9 +836,7 @@ const renderChord = function(
 ): ChordFingeringData[] {
   let chordName = chord;
   const m = chord.match(/^([A-G](?:bb|𝄫|b|♭|#|♯|x|𝄪)?)(.*)$/)!;
-  let chordFingering = instrumentData.chords[
-    (pitchToFifths.get(m[1])! * 7 + 12000) % 12
-  ].get(m[2]);
+  let chordFingering = instrumentData.chords[pitchToSemitones(m[1])].get(m[2]);
 
   const overrideDefaultChord = chord.includes("|");
   if (overrideDefaultChord) {
