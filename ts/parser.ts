@@ -1,3 +1,4 @@
+import { isChord } from "../lib/chord";
 import { SongData } from "./model";
 
 export const slugify = function(text: string): string {
@@ -18,24 +19,12 @@ export const isChordLine = function(line: string): boolean {
     return false;
   }
 
-  const pitch = "[A-G](?:bb|𝄫|b|♭|#|♯|x|𝄪)?";
-  const fancyChordEnd = "(_[0-9]+)?$";
-  const chordType = `(?:maj|m|aug|dim)?[0-9]*(?:(?:add|sus|no|bb|𝄫|b|♭|#|♯|x|𝄪)[0-9]+)*(?:/${pitch})?`;
-  // We use this when we override chord fingerings for ~fancy~ chords
-  const chord = `^${pitch}${chordType}${fancyChordEnd}`;
-  const chordReg = new RegExp(chord, "g");
   const chordBoundary = /\S+/g;
 
   let isLineChord = true;
 
   line.replace(chordBoundary, word => {
-    let wordIsChord = false;
-
-    if (word.match(chordReg)) {
-      wordIsChord = true;
-    }
-
-    isLineChord = isLineChord && wordIsChord;
+    isLineChord = isLineChord && isChord(word);
     return "";
   });
   return isLineChord;

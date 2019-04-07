@@ -1,54 +1,7 @@
 import "core-js/fn/array/flat-map";
 
-import { pitchToFifths, transposePitch, pitchRegex } from "../lib/pitch";
-
-// matches minor chords like Amadd9, but not Cmaj7
-const minorChord = "m?(?!aj)";
-
-// matches everything that does not follow a /
-const simpleChordRegex = new RegExp(
-  `^(?!/)${pitchRegex.source}${minorChord}`,
-  "g"
-);
-
-const replaceAt = function(
-  str: string,
-  index: number,
-  replacement: string
-): string {
-  return (
-    str.substr(0, index) + replacement + str.substr(index + replacement.length)
-  );
-};
-
-const constructChord = function(
-  totalLength: number,
-  chords: string[],
-  offsets: number[]
-): string {
-  let blankChord = Array(totalLength).join(" ");
-  for (let i = 0; i < offsets.length; i++) {
-    blankChord = replaceAt(blankChord, offsets[i], chords[i]);
-  }
-  return blankChord;
-};
-
-// Make complicated chords easier for beginners
-// i.e. Am7 -> Am, Dsus4 -> D
-const simplifyChord = function(chord: string): string {
-  const chords: string[] = [];
-  const offsets: number[] = [];
-
-  const chordBoundary = new RegExp(/\S+/, "g");
-  chord.replace(chordBoundary, (originalChord, offset) => {
-    const simpleChord = originalChord.match(simpleChordRegex)![0];
-    chords.push(simpleChord);
-    offsets.push(offset);
-    return "";
-  });
-
-  return constructChord(chord.length, chords, offsets);
-};
+import { pitchToFifths, pitchRegex } from "../lib/pitch";
+import { simplifyChord, transposeChord } from "../lib/chord";
 
 export type SongLine = { label: string } | { chord: string; lyrics: string };
 
@@ -140,17 +93,6 @@ export const songView: SongView = new ((function SongView(this: SongView) {
     }
   };
 
-  const transposeChord = function(chord: string, amount: number): string {
-    const shouldSimplify = chordOption === "simple";
-    let chordToTranspose = chord;
-    if (shouldSimplify) {
-      chordToTranspose = simplifyChord(chord);
-    }
-    return chordToTranspose.replace(pitchRegex, pitch =>
-      transposePitch(pitch, amount)
-    );
-  };
-
   this.getFullSongName = function() {
     return fullSongName;
   };
@@ -202,9 +144,14 @@ export const songView: SongView = new ((function SongView(this: SongView) {
     // Transpose the average chord no flatter than Ab or Fm and no sharper than C# or A#m.
     const amount = ((transpose * 7 + center + 12004) % 12) - center - 4;
 
-    const transposedAllChords = allChords
-      .slice()
-      .map(chord => transposeChord(chord, amount));
+    let processChord = (chord: string): string => transposeChord(chord, amount);
+    const shouldSimplify = chordOption === "simple";
+    if (shouldSimplify) {
+      processChord = (chord: string) =>
+        transposeChord(simplifyChord(chord), amount);
+    }
+
+    const transposedAllChords = allChords.slice().map(processChord);
     let dataAllChords = Array.from(new Set(transposedAllChords));
     if (overrideAllChords && transpose == 0) {
       dataAllChords = overrideAllChords;
@@ -213,7 +160,7 @@ export const songView: SongView = new ((function SongView(this: SongView) {
     const dataLines = lines.slice().map(line => {
       const newLine = { ...line };
       if ("chord" in newLine) {
-        newLine["chord"] = transposeChord(newLine["chord"], amount);
+        newLine["chord"] = newLine["chord"].replace(/\S+/g, processChord);
       }
       return newLine;
     });
