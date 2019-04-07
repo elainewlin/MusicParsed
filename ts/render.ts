@@ -805,17 +805,12 @@ const renderChordFingering = function(
   instrumentData: InstrumentData
 ): ChordFingeringData[] {
   const chordFingering = chordFingeringStr.split(",");
-  var offset = chordFingering.every(function(y) {
-    return !(+y > 0) || +y <= instrumentData.frets;
-  })
+  const offset = chordFingering.every(
+    y => !(+y > 0) || +y <= instrumentData.frets
+  )
     ? 1
-    : Math.min.apply(
-        null,
-        chordFingering.flatMap(function(y) {
-          return +y > 0 ? [+y] : [];
-        })
-      );
-  var left = offset == 1 ? 0 : 0.5 * ("" + offset).length;
+    : Math.min.apply(null, chordFingering.flatMap(y => (+y > 0 ? [+y] : [])));
+  const left = offset == 1 ? 0 : 0.5 * ("" + offset).length;
   return [
     {
       viewLeft: -0.5 - left,
@@ -824,15 +819,11 @@ const renderChordFingering = function(
       chordName: chordName,
       offset: offset == 1 ? undefined : offset,
       openY: offset == 1 ? -0.5 : 0,
-      dots: chordFingering.flatMap(function(y, x) {
-        return +y > 0 ? [{ x: x, y: +y - offset + 1 }] : [];
-      }),
-      open: chordFingering.flatMap(function(y, x) {
-        return +y == 0 ? [x] : [];
-      }),
-      mute: chordFingering.flatMap(function(y, x) {
-        return y == "x" ? [x] : [];
-      }),
+      dots: chordFingering.flatMap((y, x) =>
+        +y > 0 ? [{ x: x, y: +y - offset + 1 }] : []
+      ),
+      open: chordFingering.flatMap((y, x) => (+y == 0 ? [x] : [])),
+      mute: chordFingering.flatMap((y, x) => (y == "x" ? [x] : [])),
     },
   ];
 };
@@ -842,9 +833,9 @@ const renderChord = function(
   chord: string,
   instrumentData: InstrumentData
 ): ChordFingeringData[] {
-  var chordName = chord;
-  var m = chord.match(/^([A-G](?:bb|𝄫|b|♭|#|♯|x|𝄪)?)(.*)$/)!;
-  var chordFingering = instrumentData.chords[
+  let chordName = chord;
+  const m = chord.match(/^([A-G](?:bb|𝄫|b|♭|#|♯|x|𝄪)?)(.*)$/)!;
+  let chordFingering = instrumentData.chords[
     (pitchToFifths.get(m[1])! * 7 + 12000) % 12
   ].get(m[2]);
 
@@ -875,7 +866,7 @@ export const renderAllChords = function(
   currentInstrument: string
 ): void {
   const instrumentData = instrumentsData[currentInstrument];
-  var chordData = {
+  const chordData = {
     strings: instrumentData.strings,
     stringsMinus1: instrumentData.strings - 1,
     frets: instrumentData.frets,
@@ -883,28 +874,21 @@ export const renderAllChords = function(
     viewHeight: instrumentData.frets + 1.5,
     height: (instrumentData.frets + 1.5) * 11,
     stringLines: Array.apply(null, Array(instrumentData.strings - 2)).map(
-      function(_, i) {
-        return i + 1;
-      }
+      (_, i) => i + 1
     ),
-    fretLines: Array.apply(null, Array(instrumentData.frets)).map(function(
-      _,
-      i
-    ) {
-      return i + 0.5;
-    }),
-    chords: allChords.flatMap(function(chord) {
-      return renderChord(chord, instrumentData);
-    }),
+    fretLines: Array.apply(null, Array(instrumentData.frets)).map(
+      (_, i) => i + 0.5
+    ),
+    chords: allChords.flatMap(chord => renderChord(chord, instrumentData)),
   };
   document.getElementsByClassName("chordPics")[0].innerHTML = chordsTemplate(
     chordData
   );
 };
 
-export var renderChords = function(): void {
+export const renderChords = function(): void {
   const data = songView.getData();
-  var currentInstrument = songView.getInstrument();
+  const currentInstrument = songView.getInstrument();
 
   const chordPics = $(".chordPics");
   if (currentInstrument == "none") {
@@ -956,7 +940,7 @@ const renderChordLyricLine = function(
   const chordBoundary = new RegExp(/\S+/, "g");
 
   const offsetChordPairs: { offset: number; chord: string | null }[] = [];
-  chordString.replace(chordBoundary, function(chord, offset) {
+  chordString.replace(chordBoundary, (chord, offset) => {
     offsetChordPairs.push({ offset, chord });
     return "";
   });
@@ -968,12 +952,12 @@ const renderChordLyricLine = function(
   lyrics = lyrics.padEnd(maxOffset);
   offsetChordPairs.push({ offset: lyrics.length, chord: null });
 
-  let chordLyricPairs: ChordLyricPair[] = [];
+  const chordLyricPairs: ChordLyricPair[] = [];
 
   for (let i = 0; i < offsetChordPairs.length - 1; i++) {
     const { offset: lastOffset, chord } = offsetChordPairs[i];
     const nextOffset = offsetChordPairs[i + 1].offset;
-    let lyric = lyrics.slice(lastOffset, nextOffset);
+    const lyric = lyrics.slice(lastOffset, nextOffset);
     if (chord === null || /[^ ]/.test(lyric.slice(0, chord.length + 1))) {
       chordLyricPairs.push({ chord, lyric, overLyric: true });
     } else {
@@ -994,7 +978,7 @@ type RenderedLine =
   | ChordLyricLine;
 
 const renderLines = function(lines: SongLine[]): RenderedLine[] {
-  let newLines: RenderedLine[] = [];
+  const newLines: RenderedLine[] = [];
 
   lines.map(line => {
     if ("label" in line) {
@@ -1010,7 +994,7 @@ const renderLines = function(lines: SongLine[]): RenderedLine[] {
   return newLines;
 };
 
-export var rerender = function(): void {
+export const rerender = function(): void {
   const data = songView.getData();
   const fullName = songView.getFullSongName();
   $("#title").text(fullName);
@@ -1022,8 +1006,8 @@ export var rerender = function(): void {
   renderChords();
 };
 
-export var loadSong = function(songId: string): void {
-  $.getJSON("/static/data/json/" + songId + ".json", function(data: SongData) {
+export const loadSong = function(songId: string): void {
+  $.getJSON("/static/data/json/" + songId + ".json", (data: SongData) => {
     songView.setId(songId);
     songView.setSong(data);
     renderCapo();
@@ -1031,11 +1015,13 @@ export var loadSong = function(songId: string): void {
   });
 };
 
-export var popStateHandler = function(history: History | PopStateEvent): void {
+export const popStateHandler = function(
+  history: History | PopStateEvent
+): void {
   let transposeAmount = 0;
   let songId;
 
-  let dataset = document.documentElement.dataset;
+  const dataset = document.documentElement.dataset;
 
   if (history.state) {
     if (history.state.transpose) {
@@ -1063,7 +1049,9 @@ export interface Song {
   value: string;
 }
 
-export var songSearch = function(songLoadFunction: (song: Song) => void): void {
+export const songSearch = function(
+  songLoadFunction: (song: Song) => void
+): void {
   $("#tags").autocomplete({
     autoFocus: true,
     source: function(
@@ -1077,11 +1065,12 @@ export var songSearch = function(songLoadFunction: (song: Song) => void): void {
           term: request.term,
         },
         success: function(data: Song[]) {
-          var re = $.ui.autocomplete.escapeRegex(request.term);
-          var matcher = new RegExp(re, "i");
-          var matches = $.grep(data, function(item: Song) {
-            return matcher.test(item["value"]); // searching by song ID
-          });
+          const re = $.ui.autocomplete.escapeRegex(request.term);
+          const matcher = new RegExp(re, "i");
+          const matches = $.grep(
+            data,
+            (item: Song) => matcher.test(item["value"]) // searching by song ID
+          );
           response(matches);
         },
       });
@@ -1099,7 +1088,7 @@ export var songSearch = function(songLoadFunction: (song: Song) => void): void {
     url: "/static/data/ALL_SONGS.json",
     dataType: "json",
     success: function(data) {
-      $(".random").click(function() {
+      $(".random").click(() => {
         const randomSong = data[getRandomIndex(data.length)];
         songLoadFunction(randomSong);
       });
@@ -1109,7 +1098,7 @@ export var songSearch = function(songLoadFunction: (song: Song) => void): void {
   $(".random").tooltip();
 };
 
-export var initRender = function(): void {
+export const initRender = function(): void {
   loadWidgets();
 
   const loadSongNoRefresh = function(song: { id: string; url: string }): void {

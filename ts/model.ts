@@ -1,6 +1,6 @@
 import "core-js/fn/array/flat-map";
 
-var accidentalFifths: [string, number][] = [
+const accidentalFifths: [string, number][] = [
   ["bb", -14],
   ["𝄫", -14],
   ["b", -7],
@@ -11,7 +11,7 @@ var accidentalFifths: [string, number][] = [
   ["x", 14],
   ["𝄪", 14],
 ];
-var letterFifths: [string, number][] = [
+const letterFifths: [string, number][] = [
   ["F", -1],
   ["C", 0],
   ["G", 1],
@@ -20,17 +20,13 @@ var letterFifths: [string, number][] = [
   ["E", 4],
   ["B", 5],
 ];
-var pitchFifths: [string, number][] = accidentalFifths.flatMap(function(af) {
-  return letterFifths.map(function(lf): [string, number] {
-    return [lf[0] + af[0], lf[1] + af[1]];
-  });
-});
+const pitchFifths: [string, number][] = accidentalFifths.flatMap(af =>
+  letterFifths.map((lf): [string, number] => [lf[0] + af[0], lf[1] + af[1]])
+);
 
-export var pitchToFifths: Map<string, number> = new Map(pitchFifths);
-var fifthsToPitch: Map<number, string> = new Map(
-  pitchFifths.map(function(pf): [number, string] {
-    return [pf[1], pf[0]];
-  })
+export const pitchToFifths: Map<string, number> = new Map(pitchFifths);
+const fifthsToPitch: Map<number, string> = new Map(
+  pitchFifths.map((pf): [number, string] => [pf[1], pf[0]])
 );
 
 const noteString = "[A-G](?:bb|𝄫|b|♭|#|♯|x|𝄪)?";
@@ -71,7 +67,7 @@ const simplifyChord = function(chord: string): string {
   const offsets: number[] = [];
 
   const chordBoundary = new RegExp(/\S+/, "g");
-  chord.replace(chordBoundary, function(originalChord, offset) {
+  chord.replace(chordBoundary, (originalChord, offset) => {
     const simpleChord = originalChord.match(simpleChordRegex)![0];
     chords.push(simpleChord);
     offsets.push(offset);
@@ -113,8 +109,8 @@ interface SongView {
   getData(): { allChords: string[]; lines: SongLine[]; instrument: string };
 }
 
-export var songView: SongView = new ((function SongView(this: SongView) {
-  var currentInstrument = localStorage.getItem("instrument") || "none";
+export const songView: SongView = new ((function SongView(this: SongView) {
+  let currentInstrument = localStorage.getItem("instrument") || "none";
 
   this.getInstrument = function() {
     return currentInstrument;
@@ -125,7 +121,7 @@ export var songView: SongView = new ((function SongView(this: SongView) {
     currentInstrument = newInstrument;
   };
 
-  var orientation = localStorage.getItem("orientation") || "right";
+  let orientation = localStorage.getItem("orientation") || "right";
 
   this.getOrientation = function() {
     return orientation;
@@ -148,16 +144,16 @@ export var songView: SongView = new ((function SongView(this: SongView) {
     chordOption = newPreference;
   };
 
-  var lines: SongLine[] = [];
-  var allChords: string[] = [];
-  var overrideAllChords: string[] | undefined = [];
-  var fullSongName = "";
+  let lines: SongLine[] = [];
+  let allChords: string[] = [];
+  let overrideAllChords: string[] | undefined = [];
+  let fullSongName = "";
 
   this.getChords = function() {
     return allChords;
   };
 
-  var capo = 0;
+  let capo = 0;
 
   this.getCapo = function() {
     return capo;
@@ -177,9 +173,10 @@ export var songView: SongView = new ((function SongView(this: SongView) {
     if (shouldSimplify) {
       chordToTranspose = simplifyChord(chord);
     }
-    return chordToTranspose.replace(noteRegex, function(pitch) {
-      return fifthsToPitch.get(pitchToFifths.get(pitch)! + amount)!;
-    });
+    return chordToTranspose.replace(
+      noteRegex,
+      pitch => fifthsToPitch.get(pitchToFifths.get(pitch)! + amount)!
+    );
   };
 
   this.getFullSongName = function() {
@@ -199,7 +196,7 @@ export var songView: SongView = new ((function SongView(this: SongView) {
     fullSongName = data["fullName"];
   };
 
-  var songId: string;
+  let songId: string;
 
   this.getId = function() {
     return songId;
@@ -209,7 +206,7 @@ export var songView: SongView = new ((function SongView(this: SongView) {
     songId = newId;
   };
 
-  var transpose = +(localStorage.getItem("transpose") || 0); // # of steps transposed, range -6 to 6
+  let transpose = +(localStorage.getItem("transpose") || 0); // # of steps transposed, range -6 to 6
 
   this.getTranspose = function() {
     return transpose;
@@ -221,30 +218,28 @@ export var songView: SongView = new ((function SongView(this: SongView) {
   };
 
   this.getData = function() {
-    var allFifths = allChords.flatMap(function(chord) {
+    const allFifths = allChords.flatMap(chord => {
       const chordTypes = "(m\b|madd|msus|dim)?";
       const chordRegex = new RegExp(`^(${noteString})${chordTypes}`);
-      var m = chord.match(chordRegex);
+      const m = chord.match(chordRegex);
       return m ? [pitchToFifths.get(m[1])! - (m[2] ? 3 : 0)] : [];
     });
-    var center = Math.round(
-      allFifths.reduce(function(a, b) {
-        return a + b;
-      }) / allFifths.length
+    const center = Math.round(
+      allFifths.reduce((a, b) => a + b) / allFifths.length
     );
     // Transpose the average chord no flatter than Ab or Fm and no sharper than C# or A#m.
-    var amount = ((transpose * 7 + center + 12004) % 12) - center - 4;
+    const amount = ((transpose * 7 + center + 12004) % 12) - center - 4;
 
-    const transposedAllChords = allChords.slice().map(function(chord) {
-      return transposeChord(chord, amount);
-    });
+    const transposedAllChords = allChords
+      .slice()
+      .map(chord => transposeChord(chord, amount));
     let dataAllChords = Array.from(new Set(transposedAllChords));
     if (overrideAllChords && transpose == 0) {
       dataAllChords = overrideAllChords;
     }
 
-    const dataLines = lines.slice().map(function(line) {
-      var newLine = { ...line };
+    const dataLines = lines.slice().map(line => {
+      const newLine = { ...line };
       if ("chord" in newLine) {
         newLine["chord"] = transposeChord(newLine["chord"], amount);
       }

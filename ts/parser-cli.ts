@@ -19,7 +19,7 @@ const fields = [
   "lyrics",
 ];
 
-function compare(a: unknown, b: unknown, path: string): void {
+const compare = function(a: unknown, b: unknown, path: string): void {
   if (typeof a !== typeof b) {
     console.log("wrong type", path, typeof a, typeof b);
     return;
@@ -27,7 +27,7 @@ function compare(a: unknown, b: unknown, path: string): void {
   if (typeof a === "object" && typeof b === "object") {
     const a1 = a as { [key: string]: unknown };
     const b1 = b as { [key: string]: unknown };
-    for (let key of new Set([...Object.keys(a1), ...Object.keys(b1)])) {
+    for (const key of new Set([...Object.keys(a1), ...Object.keys(b1)])) {
       compare(a1[key], b1[key], `${path}.${key}`);
     }
   } else if (typeof a === "string" && typeof b === "string") {
@@ -37,7 +37,7 @@ function compare(a: unknown, b: unknown, path: string): void {
   } else {
     console.log("what even are these?", path);
   }
-}
+};
 
 fs.readdirSync(textDir).map(filename => {
   const m = /^(.*) - (.*)\.txt$/.exec(filename);

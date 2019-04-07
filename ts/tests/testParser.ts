@@ -91,17 +91,17 @@ describe("isChordLine", () => {
 });
 
 describe("isLyricLine", () => {
-  it("is false for chord lines", function() {
+  it("is false for chord lines", () => {
     const chordLine = "Dm C F G";
     assert.isFalse(parser.isLyricLine(chordLine));
   });
 
-  it("is false for label lines", function() {
+  it("is false for label lines", () => {
     const labelLine = "Verse:";
     assert.isFalse(parser.isLyricLine(labelLine));
   });
 
-  it("is true otherwise", function() {
+  it("is true otherwise", () => {
     const lyrics = "I used to rule the world";
     assert.isTrue(parser.isLyricLine(lyrics));
   });

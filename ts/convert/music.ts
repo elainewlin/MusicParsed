@@ -18,16 +18,16 @@ export interface Instrument {
   notes: number[];
 }
 
-export var Ukulele = function(): Instrument {
-  var that = Object.create(Ukulele.prototype);
+export const Ukulele = function(): Instrument {
+  const that = Object.create(Ukulele.prototype);
   that.stringCount = 4;
   that.notes = [33, 28, 24, 31];
   Object.freeze(that);
   return that;
 };
 
-export var Guitar = function(): Instrument {
-  var that = Object.create(Guitar.prototype);
+export const Guitar = function(): Instrument {
+  const that = Object.create(Guitar.prototype);
   that.stringCount = 6;
   that.notes = [28, 23, 19, 14, 9, 4];
   Object.freeze(that);
@@ -42,24 +42,24 @@ export interface Note {
   toUkulele(): Note;
 }
 
-export var Note = function(
+export const Note = function(
   initialString: number,
   fret: number,
   time: number
 ): Note {
-  var that = Object.create(Note.prototype);
+  const that = Object.create(Note.prototype);
   that.initialString = initialString;
   that.fret = fret;
   that.time = time;
 
   that.getNote = function() {
-    var value = initialString + fret;
+    const value = initialString + fret;
     return OCTAVE[value % 12];
   };
 
   that.toUkulele = function() {
-    var stringIndex = Guitar().notes.indexOf(initialString);
-    var ukeStrings = Ukulele().notes;
+    const stringIndex = Guitar().notes.indexOf(initialString);
+    const ukeStrings = Ukulele().notes;
 
     if (stringIndex < 4) {
       if (fret >= 5) {
@@ -77,8 +77,8 @@ export var Note = function(
   };
 
   that.toGuitar = function() {
-    var stringIndex = Ukulele().notes.indexOf(initialString);
-    var guitarStrings = Guitar().notes;
+    const stringIndex = Ukulele().notes.indexOf(initialString);
+    const guitarStrings = Guitar().notes;
 
     return Note(guitarStrings[stringIndex], fret + 5, time);
   };

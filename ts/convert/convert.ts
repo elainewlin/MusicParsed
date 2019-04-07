@@ -13,10 +13,10 @@ const parseTab = function(instrument: Instrument): Note[][] {
     const initialNote = instrument.notes[i];
 
     // All notes played on one string
-    var oneString = tab[i];
+    const oneString = tab[i];
 
     const digits = new RegExp(/\d+/, "g");
-    oneString.replace(digits, function(fret, time) {
+    oneString.replace(digits, (fret, time) => {
       allNotes.push(Note(initialNote, parseInt(fret), time));
       return "";
     });
@@ -32,23 +32,23 @@ const parseTab = function(instrument: Instrument): Note[][] {
   });
 
   const sequence = [];
-  for (let time in timeToNotes) {
+  for (const time in timeToNotes) {
     sequence.push(timeToNotes[time]);
   }
 
   return sequence;
 };
 
-var printTab = function(instrument: Instrument, sequence: Note[][]): void {
-  var strings = [];
-  for (var i = 0; i < instrument.stringCount; i++) {
+const printTab = function(instrument: Instrument, sequence: Note[][]): void {
+  const strings = [];
+  for (let i = 0; i < instrument.stringCount; i++) {
     strings.push("");
   }
 
-  for (let time in sequence) {
+  for (const time in sequence) {
     const chord = sequence[time];
 
-    for (let i in chord) {
+    for (const i in chord) {
       const note = chord[i];
       const stringIndex = instrument.notes.indexOf(note.initialString);
       const numBlanks = note.time - strings[stringIndex].length;
@@ -85,11 +85,11 @@ const convertTab = function(
   const oldSequence = parseTab(oldInstrument);
 
   const newSequence = [];
-  for (let time in oldSequence) {
+  for (const time in oldSequence) {
     const oldChord = oldSequence[time];
     const newChord = [];
 
-    for (let i in oldChord) {
+    for (const i in oldChord) {
       const oldNote = oldChord[i];
       const newNote = convertNote(oldNote, newInstrument);
       newChord.push(newNote);
@@ -104,19 +104,19 @@ const guitarToUke = (): void => convertTab(Guitar(), Ukulele());
 
 let convertFunction = guitarToUke;
 
-$("#toUkulele").click(function() {
+$("#toUkulele").click(() => {
   $(".fromInstrument").html("guitar");
   $(".toInstrument").html("ukulele");
   convertFunction = guitarToUke;
 });
 
-$("#toGuitar").click(function() {
+$("#toGuitar").click(() => {
   $(".fromInstrument").html("ukulele");
   $(".toInstrument").html("guitar");
   convertFunction = ukeToGuitar;
 });
 
-$(".convert").click(function() {
+$(".convert").click(() => {
   $(".tab.converted").html("");
   convertFunction();
 });
