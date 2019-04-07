@@ -1,5 +1,5 @@
 import { isChord } from "../lib/chord";
-import { SongData } from "./model";
+import { SongData } from "../lib/song";
 
 export const slugify = function(text: string): string {
   text = text.replace(/[^A-Za-z0-9 ]+/g, "").toLowerCase();

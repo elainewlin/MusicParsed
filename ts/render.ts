@@ -3,8 +3,9 @@ import $ from "jquery";
 import "jquery-ui/ui/widgets/autocomplete";
 import "jquery-ui/themes/base/all.css";
 import { renderAllChords } from "../lib/fingering";
+import { SongData, SongLine } from "../lib/song";
 import { loadWidgets, renderTranspose } from "./controller";
-import { SongData, SongLine, songView } from "./model";
+import { songView } from "./model";
 import songTemplate from "../mustache/song.mustache";
 
 export const renderChords = function(): void {
