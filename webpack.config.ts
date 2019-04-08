@@ -8,10 +8,10 @@ import WebpackManifestPlugin from "webpack-manifest-plugin";
 
 const config: webpack.Configuration = {
   entry: {
-    convert: "./ts/convert/convert.ts",
-    index: "./ts/index.ts",
-    renderChords: "./ts/renderChords.ts",
-    showAllSongs: "./ts/showAllSongs.ts",
+    convert: "./web/convert/convert.ts",
+    index: "./web/index.ts",
+    renderChords: "./web/renderChords.ts",
+    showAllSongs: "./web/showAllSongs.ts",
     global: "./css/global.css",
   },
   output: {

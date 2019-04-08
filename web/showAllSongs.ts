@@ -3,7 +3,7 @@ import "../css/styles.css";
 import "../css/global.css";
 import allSongsListTemplate from "../mustache/allSongsList.mustache";
 import buttonTemplate from "../mustache/button.mustache";
-import { Song, songSearch } from "./render";
+import { Song, songSearch } from "./songView";
 import { selectButton } from "./controller";
 
 // Helper function for sorting arrays of objects by property

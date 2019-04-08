@@ -1,4 +1,10 @@
-import { SongData } from "./model";
+/**
+ * @file Everything related to converting between song and lyric
+ * representations.
+ */
+
+import { isChord } from "./chord";
+import { SongData, SongLine } from "./song";
 
 export const slugify = function(text: string): string {
   text = text.replace(/[^A-Za-z0-9 ]+/g, "").toLowerCase();
@@ -18,24 +24,12 @@ export const isChordLine = function(line: string): boolean {
     return false;
   }
 
-  const pitch = "[A-G](?:bb|𝄫|b|♭|#|♯|x|𝄪)?";
-  const fancyChordEnd = "(_[0-9]+)?$";
-  const chordType = `(?:maj|m|aug|dim)?[0-9]*(?:(?:add|sus|no|bb|𝄫|b|♭|#|♯|x|𝄪)[0-9]+)*(?:/${pitch})?`;
-  // We use this when we override chord fingerings for ~fancy~ chords
-  const chord = `^${pitch}${chordType}${fancyChordEnd}`;
-  const chordReg = new RegExp(chord, "g");
   const chordBoundary = /\S+/g;
 
   let isLineChord = true;
 
   line.replace(chordBoundary, word => {
-    let wordIsChord = false;
-
-    if (word.match(chordReg)) {
-      wordIsChord = true;
-    }
-
-    isLineChord = isLineChord && wordIsChord;
+    isLineChord = isLineChord && isChord(word);
     return "";
   });
   return isLineChord;
@@ -115,4 +109,88 @@ export const parseLines = function({
   }
 
   return data;
+};
+
+interface ChordLyricPair {
+  chord: string | null;
+  lyric: string;
+  overLyric?: true;
+}
+
+interface ChordLyricLine {
+  className: string;
+  chordLyricPairs: ChordLyricPair[];
+}
+
+const renderChordLyricLine = function(
+  chordString: string,
+  lyrics: string
+): ChordLyricLine {
+  let className = "line";
+
+  if (chordString.length > 0 && lyrics.length > 0) {
+    className = "chordLyricLine";
+  }
+
+  /**
+  Keep track of the chords + their offset positions in the string i.e.
+  Dm      G
+  Hello world
+  has offset + chords (0, "Dm"), (8, "G")
+  */
+  const chordBoundary = new RegExp(/\S+/, "g");
+
+  const offsetChordPairs: { offset: number; chord: string | null }[] = [];
+  chordString.replace(chordBoundary, (chord, offset) => {
+    offsetChordPairs.push({ offset, chord });
+    return "";
+  });
+  if (offsetChordPairs.length === 0 || offsetChordPairs[0].offset !== 0) {
+    offsetChordPairs.unshift({ offset: 0, chord: null });
+  }
+  const maxOffset = offsetChordPairs[offsetChordPairs.length - 1].offset;
+
+  lyrics = lyrics.padEnd(maxOffset);
+  offsetChordPairs.push({ offset: lyrics.length, chord: null });
+
+  const chordLyricPairs: ChordLyricPair[] = [];
+
+  for (let i = 0; i < offsetChordPairs.length - 1; i++) {
+    const { offset: lastOffset, chord } = offsetChordPairs[i];
+    const nextOffset = offsetChordPairs[i + 1].offset;
+    const lyric = lyrics.slice(lastOffset, nextOffset);
+    if (chord === null || /[^ ]/.test(lyric.slice(0, chord.length + 1))) {
+      chordLyricPairs.push({ chord, lyric, overLyric: true });
+    } else {
+      chordLyricPairs.push({ chord, lyric: lyric.slice(chord.length) });
+    }
+  }
+
+  return {
+    className: className,
+    chordLyricPairs: chordLyricPairs,
+  };
+};
+
+type RenderedLine =
+  | {
+      label: string;
+    }
+  | ChordLyricLine;
+
+export const renderLines = function(lines: SongLine[]): RenderedLine[] {
+  const newLines: RenderedLine[] = [];
+
+  lines.map(line => {
+    if ("label" in line) {
+      newLines.push({
+        label: line["label"],
+      });
+    } else {
+      const chordString = line["chord"];
+      const lyrics = line["lyrics"];
+      newLines.push(renderChordLyricLine(chordString, lyrics));
+    }
+  });
+  return newLines;
 };

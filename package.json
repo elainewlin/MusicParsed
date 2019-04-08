@@ -5,7 +5,8 @@
   "scripts": {
     "postinstall": "webpack -r babel-register-ts -p",
     "watch": "webpack -r babel-register-ts --watch --progress --mode=development --debug --output-pathinfo",
-    "test": "mocha -r babel-register-ts ts/tests/*.ts"
+    "app": "node scripts/app.js",
+    "test": "mocha -r babel-register-ts test/*.ts"
   },
   "repository": {
     "type": "git",
