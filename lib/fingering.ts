@@ -3,7 +3,7 @@
  */
 
 import "core-js/fn/array/flat-map";
-import { pitchToSemitones } from "../lib/pitch";
+import { pitchToSemitones, pitchRegex } from "../lib/pitch";
 import { InstrumentData, instrumentsData } from "../lib/instrument";
 import chordsTemplate from "../mustache/chords.mustache";
 
@@ -73,7 +73,7 @@ const renderChord = function(
   orientation: string = "right"
 ): ChordFingeringData[] {
   let chordName = chord;
-  const m = chord.match(/^([A-G](?:bb|𝄫|b|♭|#|♯|x|𝄪)?)(.*)$/)!;
+  const m = chord.match(new RegExp(`^(${pitchRegex.source})(.*)$`))!;
   let chordFingering = instrumentData.chords[pitchToSemitones(m[1])].get(m[2]);
 
   const overrideDefaultChord = chord.includes("|");
