@@ -1,5 +1,5 @@
 import $ from "jquery";
-import { initRender, popStateHandler } from "../web/songView";
+import { initRender, popStateHandler } from "./songView";
 import "bootstrap/dist/css/bootstrap.css";
 import "../css/styles.css";
 

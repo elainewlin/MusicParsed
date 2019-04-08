@@ -11,7 +11,7 @@ import {
 import { renderAllChords } from "../lib/fingering";
 import { SongLine, SongData } from "../lib/song";
 import { renderLines } from "../lib/parser";
-import { loadWidgets, renderTranspose } from "../ts/controller";
+import { loadWidgets, renderTranspose } from "./controller";
 import songTemplate from "../mustache/song.mustache";
 
 interface SongView {

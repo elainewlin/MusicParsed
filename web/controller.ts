@@ -2,7 +2,7 @@ import $ from "jquery";
 import "bootstrap/js/dist/button";
 import "jquery-ui/ui/widgets/tooltip";
 import "jquery-ui/themes/base/all.css";
-import { renderChords, rerender, songView } from "../web/songView";
+import { renderChords, rerender, songView } from "./songView";
 import buttonTemplate from "../mustache/button.mustache";
 
 const TRANSPOSE = "transpose";

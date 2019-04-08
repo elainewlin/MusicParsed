@@ -1,6 +1,6 @@
 import $ from "jquery";
 import { loadInstrumentButtons, loadOrientationButtons } from "./controller";
-import { renderChords, songView } from "../web/songView";
+import { renderChords, songView } from "./songView";
 import "bootstrap/dist/css/bootstrap.css";
 import "../css/styles.css";
 
