@@ -12,6 +12,7 @@ import { renderAllChords } from "../lib/fingering";
 import { SongLine, SongData } from "../lib/song";
 import { renderLines } from "../lib/parser";
 import { loadWidgets, renderTranspose } from "./controller";
+import chordsTemplate from "../mustache/chords.mustache";
 import songTemplate from "../mustache/song.mustache";
 
 interface SongView {
@@ -172,10 +173,12 @@ export const renderChords = function(): void {
   }
   chordPics.show();
 
-  document.getElementsByClassName("chordPics")[0].innerHTML = renderAllChords(
-    data.allChords,
-    currentInstrument,
-    songView.getOrientation()
+  document.getElementsByClassName("chordPics")[0].innerHTML = chordsTemplate(
+    renderAllChords(
+      data.allChords,
+      currentInstrument,
+      songView.getOrientation()
+    )
   );
 };
 

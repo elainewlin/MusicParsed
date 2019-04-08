@@ -122,7 +122,7 @@ interface ChordLyricLine {
   chordLyricPairs: ChordLyricPair[];
 }
 
-const renderChordLyricLine = function(
+export const renderChordLyricLine = function(
   chordString: string,
   lyrics: string
 ): ChordLyricLine {

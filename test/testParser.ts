@@ -1,5 +1,6 @@
 import * as parser from "../lib/parser";
 import { assert } from "chai";
+
 describe("slugify", () => {
   it("should kill all non-alphanumeric characters", () => {
     const string = "titl!@#$%^&*()'e";
@@ -104,5 +105,23 @@ describe("isLyricLine", () => {
   it("is true otherwise", () => {
     const lyrics = "I used to rule the world";
     assert.isTrue(parser.isLyricLine(lyrics));
+  });
+});
+
+describe("renderChordLyricLine", () => {
+  it("should handle no chords/lyrics", () => {
+    const result = parser.renderChordLyricLine("", "");
+    const expected = {
+      className: "line",
+      chordLyricPairs: [{ chord: null, lyric: "", overLyric: true as true }],
+    };
+    assert.deepEqual(result, expected);
+  });
+});
+
+describe("renderLines", () => {
+  it("should handle empty array", () => {
+    const result = parser.renderLines([]);
+    assert.deepEqual(result, []);
   });
 });
