@@ -5,7 +5,6 @@
 import "core-js/fn/array/flat-map";
 import { pitchToSemitones, pitchRegex } from "../lib/pitch";
 import { InstrumentData, instrumentsData } from "../lib/instrument";
-import chordsTemplate from "../mustache/chords.mustache";
 
 // Support for left-handed chord diagrams
 const reverseString = function(str: string): string {
@@ -98,13 +97,25 @@ const renderChord = function(
   }
 };
 
+interface ChordsData {
+  strings: number;
+  stringsMinus1: number;
+  frets: number;
+  fretsPlusHalf: number;
+  viewHeight: number;
+  height: number;
+  stringLines: number[];
+  fretLines: number[];
+  chords: ChordFingeringData[];
+}
+
 export const renderAllChords = function(
   allChords: string[],
   currentInstrument: string,
   orientation: string = "right"
-): string {
+): ChordsData {
   const instrumentData = instrumentsData[currentInstrument];
-  const chordData = {
+  return {
     strings: instrumentData.strings,
     stringsMinus1: instrumentData.strings - 1,
     frets: instrumentData.frets,
@@ -121,5 +132,4 @@ export const renderAllChords = function(
       renderChord(chord, instrumentData, orientation)
     ),
   };
-  return chordsTemplate(chordData);
 };
