@@ -38,3 +38,4 @@ repos:
     hooks:
       - id: prettier
         exclude: "^templates/|^static/data/"
+        args: [--loglevel=warn]
