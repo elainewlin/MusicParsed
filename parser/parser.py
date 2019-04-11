@@ -174,7 +174,7 @@ class TextParser:
         print(fileName)
         jsonFile = os.path.join(JSON_FOLDER, fileName)
         with open(jsonFile, "w") as outfile:
-            json.dump(data, outfile, indent=2, sort_keys=True)
+            json.dump(data, outfile, ensure_ascii=False, indent=2, sort_keys=True)
 
     def allToJSON(self, toConvert):
         """
@@ -272,7 +272,7 @@ class TextParser:
             newSong["url"] = "/song/{artist}/{title}".format(**urlInfo)
             allSongs.append(newSong)
         with open(ALL_SONGS_PATH, "w") as outfile:
-            json.dump(allSongs, outfile, indent=2, sort_keys=True)
+            json.dump(allSongs, outfile, ensure_ascii=False, indent=2, sort_keys=True)
 
 
 class ImovieParser:
@@ -354,7 +354,7 @@ if __name__ == "__main__":
     # urlParser.allToText()
 
     textParser = TextParser()
-    modified = textParser.getAllModified()
+    modified = textParser.getAllText()
     textParser.allToJSON(modified)
     textParser.getAllSongs()
 
