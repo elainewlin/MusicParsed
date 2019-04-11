@@ -36,6 +36,4 @@ Template documentation
     - lyrics: string with the lyrics
     - label: string with label of the section i.e. "Chorus", "Verse 1"
 
-- Python script parser.py makes it easy to generate the JSON files
-  - URLParser class: URL of a song --> text file of a song
-  - TextParser class: text file of a song --> JSON file of a song
+- parser-cli (`yarn parser`) makes it easy to generate the JSON files

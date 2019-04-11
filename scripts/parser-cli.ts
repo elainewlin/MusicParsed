@@ -1,63 +1,101 @@
 /* eslint no-console: "off" */
 
-import { parseLines } from "../lib/parser";
+import { slugify, parseLines } from "../lib/parser";
 import fs from "fs";
 import path from "path";
 
 const textDir = path.resolve(__dirname, "..", "static", "data", "text");
+const tagsDir = path.resolve(__dirname, "..", "static", "data", "tags");
 const jsonDir = path.resolve(__dirname, "..", "static", "data", "json");
+const allSongsPath = path.resolve(
+  __dirname,
+  "..",
+  "static",
+  "data",
+  "ALL_SONGS.json"
+);
 
 const fields = [
   "allChords",
   "artist",
+  "capo",
+  "chord",
   "fullName",
   "id",
-  "lines",
-  "title",
   "label",
-  "chord",
+  "lines",
   "lyrics",
+  "overrideAllChords",
+  "tags",
+  "title",
+  "url",
+  "value",
 ];
 
-const compare = function(a: unknown, b: unknown, path: string): void {
-  if (typeof a !== typeof b) {
-    console.log("wrong type", path, typeof a, typeof b);
-    return;
-  }
-  if (typeof a === "object" && typeof b === "object") {
-    const a1 = a as { [key: string]: unknown };
-    const b1 = b as { [key: string]: unknown };
-    for (const key of new Set([...Object.keys(a1), ...Object.keys(b1)])) {
-      compare(a1[key], b1[key], `${path}.${key}`);
-    }
-  } else if (typeof a === "string" && typeof b === "string") {
-    if (a !== b) {
-      console.log("wrong string", path, a, b);
-    }
-  } else {
-    console.log("what even are these?", path);
-  }
-};
+const tags = fs
+  .readdirSync(tagsDir)
+  .map(filename => /^(.*)\.txt$/.exec(filename))
+  .filter(m => m)
+  .sort()
+  .map(m => {
+    const [filename, tag] = m!;
+    const tagText = fs.readFileSync(path.resolve(tagsDir, filename), {
+      encoding: "utf-8",
+    });
+    return [tag, [...tagText.match(/[^\n]+/g)!]];
+  });
 
-fs.readdirSync(textDir).map(filename => {
-  const m = /^(.*) - (.*)\.txt$/.exec(filename);
-  if (m) {
-    const [, title, artist] = m;
+const songTags = new Map();
+for (const [tag, ids] of tags) {
+  for (const id of ids) {
+    if (!songTags.has(id)) songTags.set(id, []);
+    songTags.get(id).push(tag);
+  }
+}
+
+const allSongs = fs
+  .readdirSync(textDir)
+  .map(filename => /^(.*) - (.*)\.txt$/.exec(filename))
+  .filter(m => m)
+  .map(m => {
+    const [filename, title, artist] = m!;
 
     const songText = fs.readFileSync(path.resolve(textDir, filename), {
       encoding: "utf-8",
     });
     const songData = parseLines({ title, artist, songText });
+    const songJson = JSON.stringify(songData, fields, 2);
 
-    const jsonPath = path.resolve(jsonDir, `${songData.id}.json`);
-    const jsonData = JSON.parse(
-      fs.readFileSync(jsonPath, { encoding: "utf-8" })
-    );
-
-    if (JSON.stringify(songData, fields) !== JSON.stringify(jsonData, fields)) {
-      console.log(`Differences in ${songData.id}`);
-      compare(songData, jsonData, "");
-      console.log();
+    const songPath = path.resolve(jsonDir, `${songData.id}.json`);
+    if (
+      !fs.existsSync(songPath) ||
+      fs.readFileSync(songPath, { encoding: "utf-8" }) !== songJson
+    ) {
+      console.log(songPath);
+      fs.writeFileSync(songPath, songJson);
     }
-  }
-});
+
+    const id = songData.id!;
+    let tags = songTags.has(id) ? songTags.get(id) : [];
+
+    return {
+      artist: songData.artist,
+      id,
+      label: songData.fullName,
+      tags,
+      title: songData.title,
+      url: `/song/${slugify(songData.artist!)}/${slugify(songData.title!)}`,
+      value: songData.fullName,
+    };
+  });
+
+allSongs.sort((a, b) => (a.id < b.id ? -1 : a.id > b.id ? 1 : 0));
+
+const allSongsJson = JSON.stringify(allSongs, fields, 2);
+if (
+  !fs.existsSync(allSongsPath) ||
+  fs.readFileSync(allSongsPath, { encoding: "utf-8" }) !== allSongsJson
+) {
+  console.log(allSongsPath);
+  fs.writeFileSync(allSongsPath, allSongsJson);
+}
