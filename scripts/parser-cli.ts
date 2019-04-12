@@ -76,7 +76,7 @@ const allSongs = fs
     }
 
     const id = songData.id!;
-    let tags = songTags.has(id) ? songTags.get(id) : [];
+    const tags = songTags.has(id) ? songTags.get(id) : [];
 
     return {
       artist: songData.artist,
