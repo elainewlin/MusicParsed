@@ -2,12 +2,12 @@
   "allChords": [
     "Cm",
     "F",
-    "G#",
-    "D#",
-    "A#",
+    "Ab",
+    "Absus2",
+    "Eb",
+    "Bb",
     "Dm",
     "G",
-    "Bb",
     "C"
   ],
   "artist": "High School Musical",
@@ -18,99 +18,99 @@
       "label": "[Intro]"
     },
     {
-      "chord": "Cm   F   G#",
+      "chord": "Cm   F   Ab   Absus2",
       "lyrics": ""
     },
     {
-      "chord": "     Cm              F",
+      "chord": "            Cm       F",
       "lyrics": "[Zac] We're soaring, flying"
     },
     {
-      "chord": "          G#                       D#",
-      "lyrics": "[Vanessa] There's not a star in heaven"
+      "chord": "Ab                     Eb",
+      "lyrics": "There's not a star in heaven"
     },
     {
-      "chord": "   A#         Cm",
+      "chord": "      Bb       Cm",
       "lyrics": "that we can't reach"
     },
     {
-      "chord": "F",
-      "lyrics": "if we're trying"
+      "chord": "                    F",
+      "lyrics": "[Vanessa] if we're trying"
     },
     {
-      "chord": "G#",
+      "chord": "              Ab",
       "lyrics": "so we're breaking free"
     },
     {
       "label": "[Zac]"
     },
     {
-      "chord": "Cm                    F",
+      "chord": "Cm                      F      Ab",
       "lyrics": "You know the world can see us"
     },
     {
-      "chord": "G#                  D#           A#     Cm",
+      "chord": "                 Eb             Bb/D   Cm",
       "lyrics": "in a way that's different than who we are"
     },
     {
       "label": "[Vanessa]"
     },
     {
-      "chord": "                 F",
+      "chord": "                    F",
       "lyrics": "creating space between us"
     },
     {
-      "chord": "       G#                   D#  A#",
-      "lyrics": "'till we're separate hearts"
+      "chord": "     Ab                     Eb  Bb/D",
+      "lyrics": "'til we're separate hearts"
     },
     {
       "label": "[Both]"
     },
     {
-      "chord": "G#",
+      "chord": "Ab",
       "lyrics": "But your faith"
     },
     {
-      "chord": "F",
+      "chord": "    F/A",
       "lyrics": "it gives me strength"
     },
     {
-      "chord": "G#",
+      "chord": "Ab",
       "lyrics": "strength to believe"
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "      G#",
+      "chord": "",
       "lyrics": "[Zac] we're breaking free"
     },
     {
-      "chord": "          Cm",
+      "chord": "                Cm",
       "lyrics": "[Vanessa] We're soaring"
     },
     {
-      "chord": "      F",
+      "chord": "       F",
       "lyrics": "[Zac] flying"
     },
     {
-      "chord": "       G#                        D#",
+      "chord": "       Ab                     Eb",
       "lyrics": "[Both] there's not a star in heaven"
     },
     {
-      "chord": "   A#         Cm",
+      "chord": "      Bb/D     Cm",
       "lyrics": "that we can't reach"
     },
     {
-      "chord": "      F",
+      "chord": "                F",
       "lyrics": "[Zac] if we're trying"
     },
     {
-      "chord": "       G#",
+      "chord": "                       Ab",
       "lyrics": "[Both] yeah we're breaking free"
     },
     {
-      "chord": "      G#",
+      "chord": "",
       "lyrics": "[Zac] oh we're breaking free"
     },
     {
@@ -121,103 +121,139 @@
       "label": "[Zac]"
     },
     {
-      "chord": "Cm                 F",
-      "lyrics": "Can you feel it building?"
+      "chord": "Cm                 F         Ab",
+      "lyrics": "  Can you feel it building?"
     },
     {
-      "chord": "G#                 D#           A#",
+      "chord": "                 Eb         Bb/D     Cm",
       "lyrics": "like a wave the ocean just can't control"
     },
     {
       "label": "[Vanessa]"
     },
     {
-      "chord": "Cm                  F",
-      "lyrics": "connected by a feeling oooh"
+      "chord": "                 F",
+      "lyrics": "connected by a feeling [Both] oooh"
     },
     {
-      "chord": "         G#      D#   A#",
-      "lyrics": "in our very souls"
+      "chord": "         Ab                        Eb   Bb/D",
+      "lyrics": "in our very souls [Zac] very souls    oooh"
     },
     {
       "label": "[Both]"
     },
     {
-      "chord": "G#              F",
+      "chord": "Ab               F/A",
       "lyrics": "Rising 'till it lifts us up"
     },
     {
-      "chord": "G#",
+      "chord": "   Ab",
       "lyrics": "so everyone can see"
     },
     {
       "label": "[Chorus]"
     },
     {
+      "chord": "",
+      "lyrics": "[Zac] we're breaking free"
+    },
+    {
+      "chord": "          Cm",
+      "lyrics": "[Vanessa] Soaring"
+    },
+    {
+      "chord": "       F",
+      "lyrics": "[Zac] flying"
+    },
+    {
+      "chord": "       Ab                     Eb",
+      "lyrics": "[Both] there's not a star in heaven"
+    },
+    {
+      "chord": "      Bb/D     Cm",
+      "lyrics": "that we can't reach"
+    },
+    {
+      "chord": "                F",
+      "lyrics": "[Zac] if we're trying"
+    },
+    {
+      "chord": "                       Ab",
+      "lyrics": "[Both] yeah we're breaking free"
+    },
+    {
+      "chord": "",
+      "lyrics": "[Zac] oh we're breaking free"
+    },
+    {
+      "chord": "",
+      "lyrics": "[Vanessa] oooh"
+    },
+    {
       "chord": "          Cm",
       "lyrics": "[Vanessa] Running"
     },
     {
-      "chord": "      F",
+      "chord": "       F",
       "lyrics": "[Zac] climbing"
     },
     {
-      "chord": "G#",
-      "lyrics": "get to the place"
+      "chord": "   Ab",
+      "lyrics": "to get to the place"
     },
     {
-      "chord": "          D#           A#      Cm",
+      "chord": "           Eb          Bb/D   Cm",
       "lyrics": "[Both] to be all that we can be"
     },
     {
-      "chord": "      F",
+      "chord": "                 F",
       "lyrics": "[Zac] now's the time"
     },
     {
-      "chord": "       G#",
+      "chord": "                     Ab",
       "lyrics": "[Both] so we're breaking free"
     },
     {
-      "chord": "             D#          A#",
-      "lyrics": "[Zac] we're breaking free"
+      "chord": "                 Eb                      Bb/D",
+      "lyrics": "[Zac] we're breaking free [Vanessa] Ooh yeah"
     },
     {
       "label": "[Zac]"
     },
     {
-      "chord": "G#",
-      "lyrics": "more than hope, more than faith"
+      "chord": "Ab                           F/A",
+      "lyrics": "  more than hope, more than faith"
     },
     {
       "label": "[Vanessa]"
     },
     {
-      "chord": "F",
+      "chord": "                        Ab",
       "lyrics": "this is truth, this is fate"
     },
     {
-      "chord": "G#",
-      "lyrics": "and together we see it coming"
+      "chord": "",
+      "lyrics": "and together we [Both] see it coming"
     },
     {
       "label": "[Zac]"
     },
     {
-      "chord": "G#",
-      "lyrics": "more than you, more than me"
+      "chord": "Ab                          F/A",
+      "lyrics": "  more than you, more than me"
     },
     {
       "label": "[Vanessa]"
     },
     {
-      "chord": "F",
+      "chord": "                  Ab",
       "lyrics": "not a want but a need"
     },
     {
       "label": "[Both]"
     },
     {
-      "chord": "G#",
+      "chord": "",
       "lyrics": "both of us breaking free..."
     },
     {
@@ -236,58 +272,66 @@
       "lyrics": "[Zac] flying"
     },
     {
-      "chord": "       Bb                       F",
+      "chord": "       Bb                      F",
       "lyrics": "[Both] there's not a star in heaven"
     },
     {
-      "chord": "       C         Dm",
+      "chord": "      C/E       Dm",
       "lyrics": "that we can't reach"
     },
     {
-      "chord": "G",
+      "chord": "           G",
       "lyrics": "if we're trying"
     },
     {
-      "chord": "      Bb",
+      "chord": "                       Bb",
       "lyrics": "[Zac] yeah, we're breaking free"
     },
     {
-      "chord": "          Bb",
+      "chord": "",
       "lyrics": "[Vanessa] breaking free"
     },
     {
-      "chord": "          Dm",
-      "lyrics": "[Vanessa] Running"
+      "chord": "                Dm",
+      "lyrics": "[Vanessa] We're running"
     },
     {
-      "chord": "      G",
+      "chord": "             G",
       "lyrics": "[Zac] oooh climbing"
     },
     {
-      "chord": "       Bb                      F",
+      "chord": "          Bb                   F",
       "lyrics": "[Both] to get to the place to be all"
     },
     {
-      "chord": "       C      Dm",
+      "chord": "      C/E    Dm",
       "lyrics": "that we can be"
     },
     {
-      "chord": "G",
-      "lyrics": "now's the time"
+      "chord": "           G",
+      "lyrics": "now's the time [Zac] Now's the time"
     },
     {
-      "chord": "                      Bb",
-      "lyrics": "[Vanessa] so we're breaking free"
+      "chord": "                     Bb",
+      "lyrics": "[Vanessa] we're breaking free"
+    },
+    {
+      "chord": "",
+      "lyrics": "[Zac] oh we're breaking free"
+    },
+    {
+      "chord": "",
+      "lyrics": "[Vanessa] ohhh"
     },
     {
       "label": "[Both]"
     },
     {
-      "chord": "Dm                      G",
-      "lyrics": "You know the world can see us"
+      "chord": "Dm                        G      Bb",
+      "lyrics": "  You know the world can see us"
     },
     {
-      "chord": "Bb                  F           C      Bb",
+      "chord": "                F               C/E   Bb",
       "lyrics": "in a way that's different than who we are."
     }
   ],
