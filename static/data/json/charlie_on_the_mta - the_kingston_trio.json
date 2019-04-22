@@ -12,155 +12,599 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "G",
-      "lyrics": "Now let me tell you a story"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Now let me tell you a story",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        C",
-      "lyrics": "'bout a man named Charlie"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'bout a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "man named Charlie",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G                D7",
-      "lyrics": "On this tragic & fateful day"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "On this ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "tragic & fateful ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "day",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       G",
-      "lyrics": "He put 10 cents into his pocket"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "He put ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "10 cents into his pocket",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            C",
-      "lyrics": "kissed his wife & family"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "kissed his w",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ife & family",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G           D7   G",
-      "lyrics": "Went to ride on the M.T.A."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Went to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ride on the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "M.T.A",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ".",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "G",
-      "lyrics": "But did he ever return?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "But did he ever return?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        C",
-      "lyrics": "No, he never returned,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "No, he n",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ever returned,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         G                   D7",
-      "lyrics": "And his fate is still unlearned"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And his f",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ate is still unlearn",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "ed",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G",
-      "lyrics": "He may ride forever"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "He may r",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ide forever",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            C",
-      "lyrics": "'neath the streets of Boston"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'neath the s",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "treets of Boston",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         G       D7           G",
-      "lyrics": "He's the man who never returned"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "He's the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "man who ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "never returne",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "d",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "G",
-      "lyrics": "Charlie handed in his dime"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Charlie handed in his dime",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        C",
-      "lyrics": "At the Kendall Square Station"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "At the K",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "endall Square Station",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             G              D7",
-      "lyrics": "And he changed for Jamaica Plain"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And he change",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "d for Jamaica P",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "lain",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G",
-      "lyrics": "When he got there the conductor told him"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When he ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "got there the conductor told him",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " C",
-      "lyrics": "\"One more nickel\""
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "\"",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "One more nickel\"",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G            D7         G",
-      "lyrics": "Charlie couldn't get off that train"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Charlie ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "couldn't get ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "off that tr",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ain",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 3]"
     },
     {
-      "chord": "     G",
-      "lyrics": "Now all night long Charlie"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Now a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ll night long Charlie",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " C",
-      "lyrics": "rides thru the station"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "r",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ides thru the station",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         G                   D7",
-      "lyrics": "Saying, \"What will become of me?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Saying, \"",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "What will become of ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "me?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G                   C",
-      "lyrics": "How can I afford to see my sister in Chelsea"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "How can ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "I afford to see my s",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ister in Chelsea",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      G          D7   G",
-      "lyrics": "Or my cousin in Roxbury?\""
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Or my ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "cousin in R",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "oxbur",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "y?\"",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 4]"
     },
     {
-      "chord": "G",
-      "lyrics": "Charlie's wife goes down to"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Charlie's wife goes down to",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "Scollay Square Station"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Scollay Square Station",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      G                     D7",
-      "lyrics": "Every day at a quarter past two"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Every ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "day at a quarter past ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "two",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            G",
-      "lyrics": "And thu the open window"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And thu the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "open window",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          C",
-      "lyrics": "she hands Charlie a sandwich"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "she hands ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "Charlie a sandwich",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       G             D7      G",
-      "lyrics": "As the train comes rumblin' thru"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "As the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "train comes ru",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "mblin' t",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "hru",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 5]"
     },
     {
-      "chord": "G",
-      "lyrics": "Now you citizens of Boston,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Now you citizens of Boston,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            C",
-      "lyrics": " don't you think it is a scandal"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " don't you t",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hink it is a scandal",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         G                    D7",
-      "lyrics": "That the people have to pay & pay"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "people have to pay & ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "pay",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          G                       C",
-      "lyrics": "Fight the fare increase, vote for Walter O'Brien"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Fight the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "fare increase, vote for ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "Walter O'Brien",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G               D7   G",
-      "lyrics": "And get Charlie off the M.T.A.!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And get ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "Charlie off the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "M.T.A",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ".!",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Charlie on the MTA"

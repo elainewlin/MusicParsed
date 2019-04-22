@@ -11,192 +11,868 @@
   "id": "two_headed_boy - neutral_milk_hotel",
   "lines": [
     {
-      "chord": "G          B",
-      "lyrics": "Two headed boy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Two headed ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "boy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G           B",
-      "lyrics": "All floating in glass"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "All ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "floating in ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "glass",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G          B",
-      "lyrics": "The sun it has passed"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "sun it has ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "passed",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         C            G",
-      "lyrics": "Now it's blacker than black"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Now it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "blacker than ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "black",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      C                      D",
-      "lyrics": "I can hear as you tap on your jar"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I can ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hear as you tap on your",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " jar",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     C                           G",
-      "lyrics": "I am listening to hear where you are"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I am ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "listening to hear where you ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "are",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     C                           G",
-      "lyrics": "I am listening to hear where you are"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I am ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "listening to hear where you ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "are",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G          B",
-      "lyrics": "Two headed boy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Two headed ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "boy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G              B",
-      "lyrics": "Put on sunday shoes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Put on sunday s",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "hoes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G               B        C        G",
-      "lyrics": "And dance round the room to accordion keys"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "dance round the ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "room to a",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ccordion ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "keys",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         C                         D",
-      "lyrics": "With the needle that sings in your heart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "With the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "needle that sings in your ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "heart",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         C                         G",
-      "lyrics": "Catching signals that sound in the dark"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Catching ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "signals that sound in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "dark",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         C                         G",
-      "lyrics": "Catching signals that sound in the dark"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Catching ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "signals that sound in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "dark",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        D            C",
-      "lyrics": "We will take off our clothes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We will ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "take off our ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "clothes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                       G",
-      "lyrics": "And they'll be placing fingers through"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And they'll be placing ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "fingers through",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    D               C",
-      "lyrics": "the notches in your spine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "notches in your ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "spine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                          G",
-      "lyrics": "And when all is breaking, everything"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And when all is breaking, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "everything",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        D             C",
-      "lyrics": "that you could keep inside"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "that you",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " could keep in",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "side",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                            Am",
-      "lyrics": "now you're eyes aint moving now,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "now you're eyes aint moving ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "now,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                               D",
-      "lyrics": "they just lay there in their cloud"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "they just lay there in their cl",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "oud",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G          B",
-      "lyrics": "Two headed boy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Two headed ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "boy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     G           B",
-      "lyrics": "With pulleys and weights"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "With ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "pulleys and ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "weights",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   G      B        C              G",
-      "lyrics": "Creating a radio played just for two"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cre",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ating a",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": " radio pl",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ayed just for t",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "wo",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       C                            D",
-      "lyrics": "In the parlor with a moon across her face"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "In the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "parlor with a moon across her",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " face",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C                            G",
-      "lyrics": "And through the music he sweetly displays"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "through the music he sweetly ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "displays",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       C                        G",
-      "lyrics": "Silver speakers that sparkle all day"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Silver ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "speakers that sparkle all",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " day",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C            C",
-      "lyrics": "Made for his lover who's floating and"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Made for his ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "lover who's floating and",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "choking with her hands across her"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "choking with her hands across her",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D   C",
-      "lyrics": "face"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "face",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "           G            D             C",
-      "lyrics": "And in the dark we will take off our clothes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "dark we will ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "take off our c",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "lothes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                       G",
-      "lyrics": "And they'll be placing fingers through"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And they'll be placing ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "fingers through",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    D               C",
-      "lyrics": "the notches in your spine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "notches in your ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "spine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                          G",
-      "lyrics": "And when all is breaking, everything"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And when all is breaking, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "everything",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        D             C",
-      "lyrics": "that you could keep inside"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "that you",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " could keep in",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "side",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                            Am",
-      "lyrics": "now you're eyes aint moving now,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "now you're eyes aint moving ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "now,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                               D",
-      "lyrics": "they just lay there in their clouououououd"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "they just lay there in their cl",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ouououououd",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G          B",
-      "lyrics": "Two headed boy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Two headed ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "boy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          G         B",
-      "lyrics": "There's no reason to grieve"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "There's no",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " reason to",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": " grieve",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G              B                  C           G",
-      "lyrics": "The world that you need is wrapped in gold silver sleeves"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "world that you ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "need is wrapped in ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "gold silver ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "sleeves",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     C                              D",
-      "lyrics": "Left beneath Christmas trees in the snow"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Left ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "beneath Christmas trees in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "snow",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           C                      G",
-      "lyrics": "And I will take you and leave you alone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I will ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "take you and leave you ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "alone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         C                       G",
-      "lyrics": "Watching spirals of white softly flow"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Watching ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "spirals of white softly ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "flow",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          C",
-      "lyrics": "Over your eyelids and all you did"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Over your ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "eyelids and all you did",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                       D",
-      "lyrics": "Will wait until the point when you let go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Will wait until the point when you let ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "go",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                G",
-      "lyrics": "Dee dee dee dee de"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Dee dee dee dee d",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                G",
-      "lyrics": "Dee dee dee dee de"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Dee dee dee dee d",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                G",
-      "lyrics": "Dee dee dee dee de"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Dee dee dee dee d",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Two Headed Boy"

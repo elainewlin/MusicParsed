@@ -11,56 +11,225 @@
   "id": "just_a_hypocrite - elaine_lin",
   "lines": [
     {
-      "chord": "Gm                F",
-      "lyrics": "I tell my body promises every day"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "I tell my body pro",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "mises every day",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Bb",
-      "lyrics": "I can't seem to keep them"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I can't ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "seem to keep them",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm                  F",
-      "lyrics": "I see my flaws everywhere"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "I see my flaws every",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "where",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                      Bb",
-      "lyrics": "I can't seem to leave them"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I can't seem to leave ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "them",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Gm7",
-      "lyrics": "So why"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm7",
+          "lyric": "why",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     F               Eb",
-      "lyrics": "do I tell you how to be?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "do I ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "tell you how to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "be?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             F",
-      "lyrics": "What I see reflects the (w)hole in me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "What I see re",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "flects the (w)hole in me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Gm7",
-      "lyrics": "So why"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm7",
+          "lyric": "why",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     F               Eb",
-      "lyrics": "do I tell you how to be?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "do I ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "tell you how to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "be?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   F",
-      "lyrics": "All your flaws can find a place in me."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "All your flaws can ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "find a place in me.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm7 F Eb F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm7",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "Eb",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Gm          Eb            Bb",
-      "lyrics": "I guess I'm just a hypocrite"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "I guess I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "just a hypocri",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "te",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm          Eb            Bb",
-      "lyrics": "I guess I'm just a hypocrite"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "I guess I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "just a hypocri",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "te",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Just a Hypocrite"

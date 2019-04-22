@@ -11,200 +11,784 @@
   "id": "im_not_your_toy - la_roux",
   "lines": [
     {
-      "chord": "C                    Em",
-      "lyrics": "Love, love is like a stubborn youth"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Love, love is like a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "stubborn youth",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                      Am",
-      "lyrics": "That you'd rather just deny"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "That you'd rather just ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "deny",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                Em",
-      "lyrics": "I'm walking on a broken roof"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I'm walking on a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "broken roof",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                        Am",
-      "lyrics": "While I'm looking at the sky"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "While I'm looking at the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "sky",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                       G",
-      "lyrics": "It's all false love and affection"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "It's all false love and ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "affection",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          D",
-      "lyrics": "You don't want me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You don't ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "want me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  Am",
-      "lyrics": "You just like the attention"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You just like the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "attention",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         C                  G",
-      "lyrics": "Yes it's all false love and affection"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Yes it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "all false love and ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "affection",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          D",
-      "lyrics": "You don't like me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You don't ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "like me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  Am",
-      "lyrics": "You just want the attention"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You just want the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "attention",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             C",
-      "lyrics": "I'm not your toy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm not your ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "toy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                  D          Am",
-      "lyrics": "This isn't another girl meets boy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "This isn't another ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "girl meets ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "boy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             C",
-      "lyrics": "I'm not your toy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm not your ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "toy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                  D          Am",
-      "lyrics": "This isn't another girl meets boy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "This isn't another ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "girl meets ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "boy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                     Em",
-      "lyrics": "Love, love hides in a smoky light"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Love, love hides in a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "smoky light",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                    Am",
-      "lyrics": "I can never find the truth"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "I can never find the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "truth",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                          Em",
-      "lyrics": "Boy, your touches leave me mystified"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Boy, your touches leave me ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "mystified",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D              Am",
-      "lyrics": "I wish I could believe in you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "I wish I could ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "believe in you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         C                  G",
-      "lyrics": "Yes it's all false love and affection"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Yes it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "all false love and ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "affection",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          D",
-      "lyrics": "You don't want me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You don't ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "want me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  Am",
-      "lyrics": "You just like the attention"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You just like the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "attention",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         C                  G",
-      "lyrics": "Yes it's all false love and affection"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Yes it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "all false love and ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "affection",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          D",
-      "lyrics": "You don't like me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You don't ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "like me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "                  Am         (break)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "                  Am         (break)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "You just want the attention"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You just want the attention",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             C",
-      "lyrics": "I'm not your toy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm not your ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "toy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                  D          Am",
-      "lyrics": "This isn't another girl meets boy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "This isn't another ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "girl meets ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "boy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             C",
-      "lyrics": "I'm not your toy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm not your ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "toy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                  D          Am",
-      "lyrics": "This isn't another girl meets boy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "This isn't another ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "girl meets ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "boy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             C",
-      "lyrics": "I'm not your toy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm not your ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "toy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                  D          Am",
-      "lyrics": "This isn't another girl meets boy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "This isn't another ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "girl meets ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "boy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             C",
-      "lyrics": "I'm not your toy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm not your ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "toy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                  D          Am",
-      "lyrics": "This isn't another girl meets boy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "This isn't another ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "girl meets ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "boy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                       G",
-      "lyrics": "It's all false love and affection"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "It's all false love and ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "affection",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          D",
-      "lyrics": "You don't want me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You don't ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "want me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  Am",
-      "lyrics": "You just like the attention"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You just like the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "attention",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         C                  G",
-      "lyrics": "Yes it's all false love and affection"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Yes it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "all false love and ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "affection",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          D",
-      "lyrics": "You don't like me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You don't ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "like me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "                  Am         (break)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "                  Am         (break)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "You just want the attention"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You just want the attention",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "2x C G D Am"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "2x C G D Am",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            C",
-      "lyrics": "I'm not your toy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm not your",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " toy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                  D          Am",
-      "lyrics": "This isn't another girl meets boy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "This isn't another ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "girl meets ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "boy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             C",
-      "lyrics": "I'm not your toy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm not your ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "toy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                  D          Am",
-      "lyrics": "This isn't another girl meets boy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "This isn't another ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "girl meets ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "boy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             C",
-      "lyrics": "I'm not your toy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm not your ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "toy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                  D          Am",
-      "lyrics": "This isn't another girl meets boy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "This isn't another ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "girl meets ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "boy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             C",
-      "lyrics": "I'm not your toy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm not your ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "toy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                  D          Am",
-      "lyrics": "This isn't another girl meets boy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "This isn't another ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "girl meets ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "boy",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "I'm Not Your Toy"

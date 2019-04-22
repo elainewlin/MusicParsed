@@ -12,199 +12,751 @@
       "label": "[Verse]"
     },
     {
-      "chord": "D",
-      "lyrics": "Some bright   morning   when this life is   over,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Some bright   morning   when this life is   over,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G    G            D",
-      "lyrics": "I' -   ll fly a -    way."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I' - ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " ll fly a - "
+        },
+        {
+          "chord": "D",
+          "lyric": "  way."
+        }
+      ]
     },
     {
-      "chord": "               D",
-      "lyrics": "To that   home on   God's celestial   shore,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To that   home ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "on   God's celestial   shore,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D    D     A          D",
-      "lyrics": "I' -   ll ...   fly a -    way."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "I' - ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " ll ."
+        },
+        {
+          "chord": "A",
+          "lyric": "..   fly a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "-    way.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "D      D",
-      "lyrics": "I' - ll   fly a -   way oh   glory,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "I' - ll",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "  fly a -   way oh   glory,"
+        }
+      ]
     },
     {
-      "chord": "G    G           D",
-      "lyrics": "I' -   ll fly a -   way, (in the   morning),"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I' - ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " ll fly a -"
+        },
+        {
+          "chord": "D",
+          "lyric": "  way, (in the   morning),"
+        }
+      ]
     },
     {
-      "chord": "               D",
-      "lyrics": "When I   die Halle -   lujah by and   by,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When I   die Ha",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "lle -   lujah by and   by,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D    D     A          D",
-      "lyrics": "I' -   ll ...   fly a -    way."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "I' - ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " ll ."
+        },
+        {
+          "chord": "A",
+          "lyric": "..   fly a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "-    way.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "D",
-      "lyrics": "When the   shadows   of this life have   gone,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "When the   shadows   of this life have   gone,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G    G            D",
-      "lyrics": "I' -   ll fly a -    way."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I' - ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " ll fly a - "
+        },
+        {
+          "chord": "D",
+          "lyric": "  way."
+        }
+      ]
     },
     {
-      "chord": "              D",
-      "lyrics": "Like a   bird from these   prison walls I'll   fly,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Like a   bird ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "from these   prison walls I'll   fly,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D    D     A          D",
-      "lyrics": "I' -   ll ...   fly a -    way."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "I' - ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " ll ."
+        },
+        {
+          "chord": "A",
+          "lyric": "..   fly a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "-    way.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "D      D",
-      "lyrics": "I' - ll   fly a -   way oh   glory,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "I' - ll",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "  fly a -   way oh   glory,"
+        }
+      ]
     },
     {
-      "chord": "G    G           D",
-      "lyrics": "I' -   ll fly a -   way, (in the   morning),"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I' - ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " ll fly a -"
+        },
+        {
+          "chord": "D",
+          "lyric": "  way, (in the   morning),"
+        }
+      ]
     },
     {
-      "chord": "               D",
-      "lyrics": "When I   die Halle -   lujah by and   by,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When I   die Ha",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "lle -   lujah by and   by,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D    D     A          D",
-      "lyrics": "I' -   ll ...   fly a -    way."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "I' - ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " ll ."
+        },
+        {
+          "chord": "A",
+          "lyric": "..   fly a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "-    way.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "[Break] (One verse Instrumenta)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Break] (One verse Instrumenta)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D    G D",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "    "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "D    A D",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "    "
+        },
+        {
+          "chord": "A",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "                D",
-      "lyrics": "Oh how   glad and   happy when we   meet,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh how   glad an",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "d   happy when we   meet,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G    G            D",
-      "lyrics": "I' -   ll fly a -    way."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I' - ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " ll fly a - "
+        },
+        {
+          "chord": "D",
+          "lyric": "  way."
+        }
+      ]
     },
     {
-      "chord": "D",
-      "lyrics": "No more   cold iron   shackles on my   feet,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "No more   cold iron   shackles on my   feet,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D    D     A          D",
-      "lyrics": "I' -   ll ...   fly a -    way."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "I' - ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " ll ."
+        },
+        {
+          "chord": "A",
+          "lyric": "..   fly a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "-    way.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "D      D",
-      "lyrics": "I' - ll   fly a -   way oh   glory,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "I' - ll",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "  fly a -   way oh   glory,"
+        }
+      ]
     },
     {
-      "chord": "G    G           D",
-      "lyrics": "I' -   ll fly a -   way, (in the   morning),"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I' - ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " ll fly a -"
+        },
+        {
+          "chord": "D",
+          "lyric": "  way, (in the   morning),"
+        }
+      ]
     },
     {
-      "chord": "               D",
-      "lyrics": "When I   die Halle -   lujah by and   by,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When I   die Ha",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "lle -   lujah by and   by,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D    D     A          D",
-      "lyrics": "I' -   ll ...   fly a -    way."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "I' - ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " ll ."
+        },
+        {
+          "chord": "A",
+          "lyric": "..   fly a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "-    way.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Break]"
     },
     {
-      "chord": "D    G D",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "    "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "D    A D",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "    "
+        },
+        {
+          "chord": "A",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "D      D",
-      "lyrics": "I' - ll   fly a -   way oh   glory,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "I' - ll",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "  fly a -   way oh   glory,"
+        }
+      ]
     },
     {
-      "chord": "G    G           D",
-      "lyrics": "I' -   ll fly a -   way, (in the   morning),"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I' - ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " ll fly a -"
+        },
+        {
+          "chord": "D",
+          "lyric": "  way, (in the   morning),"
+        }
+      ]
     },
     {
-      "chord": "               D",
-      "lyrics": "When I   die Halle -   lujah by and   by,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When I   die Ha",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "lle -   lujah by and   by,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D    D     A          D",
-      "lyrics": "I' -   ll ...   fly a -    way."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "I' - ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " ll ."
+        },
+        {
+          "chord": "A",
+          "lyric": "..   fly a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "-    way.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "D",
-      "lyrics": "Just a   few more   weary days and   then,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Just a   few more   weary days and   then,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G    G            D",
-      "lyrics": "I' -   ll fly a -    way."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I' - ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " ll fly a - "
+        },
+        {
+          "chord": "D",
+          "lyric": "  way."
+        }
+      ]
     },
     {
-      "chord": "D",
-      "lyrics": "To a   land where   joys will never   end,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "To a   land where   joys will never   end,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D    D   A         D",
-      "lyrics": "I' -   ll ... fly a -   way."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "I' - ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " ll"
+        },
+        {
+          "chord": "A",
+          "lyric": " ... fly a",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " -   way.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus x2]"
     },
     {
-      "chord": "D      D",
-      "lyrics": "I' - ll   fly a -   way oh   glory,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "I' - ll",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "  fly a -   way oh   glory,"
+        }
+      ]
     },
     {
-      "chord": "G    G           D",
-      "lyrics": "I' -   ll fly a -   way, (in the   morning),"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I' - ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " ll fly a -"
+        },
+        {
+          "chord": "D",
+          "lyric": "  way, (in the   morning),"
+        }
+      ]
     },
     {
-      "chord": "               D",
-      "lyrics": "When I   die Halle -   lujah by and   by,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When I   die Ha",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "lle -   lujah by and   by,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D    D         A          D",
-      "lyrics": "I' -   ll ...   fly a -    way."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "I' - ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " ll ...  "
+        },
+        {
+          "chord": "A",
+          "lyric": " fly a -   ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " way.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D    D         A          D",
-      "lyrics": "I' -   ll ...   fly a -    way."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "I' - ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " ll ...  "
+        },
+        {
+          "chord": "A",
+          "lyric": " fly a -   ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " way.",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "I'll Fly Away"

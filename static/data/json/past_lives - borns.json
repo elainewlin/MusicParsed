@@ -14,270 +14,819 @@
       "label": "[Intro]"
     },
     {
-      "chord": "E  B  G#  A  B  A  B",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "  "
+        },
+        {
+          "chord": "B",
+          "lyric": "  "
+        },
+        {
+          "chord": "G#",
+          "lyric": "  "
+        },
+        {
+          "chord": "A",
+          "lyric": "  "
+        },
+        {
+          "chord": "B",
+          "lyric": "  "
+        },
+        {
+          "chord": "A",
+          "lyric": "  "
+        },
+        {
+          "chord": "B",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Intro]"
     },
     {
-      "chord": "E",
-      "lyrics": "Past lives couldn't ever hold me down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "Past lives couldn't ever hold me down",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B             G#                         A",
-      "lyrics": "Lost love is sweeter when it's finally found"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "Lost love is s",
+          "overLyric": true
+        },
+        {
+          "chord": "G#",
+          "lyric": "weeter when it's finally fo",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "und",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             B",
-      "lyrics": "I've got the strangest feeling"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've got the ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "strangest feeling",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A           B",
-      "lyrics": "This isn't our first time around"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "This isn't o",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "ur first time around",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "Past lives couldn't ever come between us"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "Past lives couldn't ever come between us",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B              G#",
-      "lyrics": "Some time the dreamers finally wake up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "Some time the d",
+          "overLyric": true
+        },
+        {
+          "chord": "G#",
+          "lyric": "reamers finally wake up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A             B",
-      "lyrics": "Don't wake me I'm not dreaming"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Don't wake me ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "I'm not dreaming",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A             B",
-      "lyrics": "Don't wake me I'm not dreaming"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Don't wake me ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "I'm not dreaming",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 1]"
     },
     {
-      "chord": "E",
-      "lyrics": "All my past lives they got nothing on me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "All my past lives they got nothing on me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "Golden eagle you're the one and only"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "Golden eagle you're the one and only",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A",
-      "lyrics": "Flying high through the cities and the sky"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Flying high through the cities and the sky",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "I take you way back, cover centuries"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "I take you way back, cover centuries",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                                A",
-      "lyrics": "Don't you remember, that you were meant to be my Queen of Hearts"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Don't you remember, that you were meant to be my",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " Queen of Hearts",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Meant to be my love"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Meant to be my love",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "          C#m",
-      "lyrics": "Oooooooooooo"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oooooooooo",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "oo",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   B",
-      "lyrics": "Through all of my lives"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Through all of my l",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "ives",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     E                A",
-      "lyrics": "I never thought I'd wait so long for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I never thought I'd w",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ait so long for y",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ou",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               C#m                    B",
-      "lyrics": "The timing is right, the stars are aligned"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The timing is r",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "ight, the stars are ali",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "gned",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "   E",
-      "lyrics": "So save that heart for me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "save that heart for me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                        A",
-      "lyrics": "Cause girl you know that you're my destiny"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause girl you know that",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " you're my destiny",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m",
-      "lyrics": "Swear to the moon, the stars, the sons, and the daughters"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "Swear to the moon, the stars, the sons, and the daughters",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B                            A",
-      "lyrics": "Our love is deeper than the oceans of water"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "Our love is deeper than the o",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ceans of water",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "Hey I need you now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "Hey I need you now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I've waited oh so long yeah"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've waited oh so long yeah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Baby love, I need you now"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Baby love, I need you now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I've waited oh so long"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've waited oh so long",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "E",
-      "lyrics": "Passing seasons, empty bottles of wine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "Passing seasons, empty bottles of wine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                                   A",
-      "lyrics": "My ancient kingdom, came crashing down without you baby child"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "My ancient kingdom, came crashing down without you ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "baby child",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I'm lost without your love"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm lost without your love",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "Diamond sparrow, my moonlit majesty"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "Diamond sparrow, my moonlit majesty",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "You know I need you, come flying back to me"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You know I need you, come flying back to me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m                B",
-      "lyrics": "Through all of my lives"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "Through all of my l",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "ives",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     E                A",
-      "lyrics": "I never thought I'd wait so long for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I never thought I'd w",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ait so long for y",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ou",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              C#m                    B",
-      "lyrics": "The timing is right, the stars are aligned"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The timing is ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "right, the stars are al",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "igned",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "E",
-      "lyrics": "So save that heart for me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "So save that heart for me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                         A",
-      "lyrics": "Cause girl you know that you're my destiny"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause girl you know that ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "you're my destiny",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m",
-      "lyrics": "Swear to the moon, the stars, the sons, and the daughters"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "Swear to the moon, the stars, the sons, and the daughters",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B                            A",
-      "lyrics": "Our love is deeper than the oceans of water"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "Our love is deeper than the o",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ceans of water",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "Save that heart for me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "Save that heart for me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                      A",
-      "lyrics": "And girl I'll give you everything you’ll need"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And girl I'll give you",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " everything you’ll need",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m",
-      "lyrics": "Here's to our past lives, our mothers and fathers"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "Here's to our past lives, our mothers and fathers",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B                           A",
-      "lyrics": "Our love is deeper than the oceans of water"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "Our love is deeper than the ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "oceans of water",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "Hey I need you now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "Hey I need you now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I've waited oh so long yeah"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've waited oh so long yeah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Baby love, I need you now"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Baby love, I need you now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I've waited oh so long"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've waited oh so long",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "Hey I need you now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "Hey I need you now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I've waited oh so long yeah"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've waited oh so long yeah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Baby love, I need you now"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Baby love, I need you now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I've waited oh so long"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've waited oh so long",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "Save that heart for me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "Save that heart for me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                      A",
-      "lyrics": "Cause girl you know that you're my destiny"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause girl you know th",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "at you're my destiny",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m",
-      "lyrics": "Swear to the moon, the stars, the sons and the daughters"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "Swear to the moon, the stars, the sons and the daughters",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B                           A",
-      "lyrics": "Our love is deeper than the oceans of water"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "Our love is deeper than the ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "oceans of water",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "Save that heart for me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "Save that heart for me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                      A",
-      "lyrics": "And girl I'll give you everything you’ll need"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And girl I'll give you",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " everything you’ll need",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m",
-      "lyrics": "Here's to our past lives, our mothers and fathers"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "Here's to our past lives, our mothers and fathers",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B                           A",
-      "lyrics": "Our love is deeper than the oceans of water"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "Our love is deeper than the ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "oceans of water",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "Hey I need you now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "Hey I need you now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I've waited oh so long"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've waited oh so long",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Past Lives"

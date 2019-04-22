@@ -17,285 +17,1286 @@
       "label": "[Intro]"
     },
     {
-      "chord": "F G Am G    F G Am E",
-      "lyrics": "         Ooh, yeah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "Am",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " Ooh"
+        },
+        {
+          "chord": "F",
+          "lyric": ", ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ye",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ah ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 1]"
     },
     {
-      "chord": "F          G           Am                 G",
-      "lyrics": " I'll admit, I was wrong, what else can I say, girl?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " I'll admit",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ", I was wron",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "g, what else can I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "say, girl?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                 G               Am     E",
-      "lyrics": "Can't you play my head and not my heart?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Can't you play my ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "head and not my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "heart? ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F           G           Am                   G",
-      "lyrics": " I was drunk, I was gone, that don't make it right, but"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " I was drunk",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ", I was gone",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ", that don't make it ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "right, but",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  F                  G             Am         E",
-      "lyrics": "I promise there were no feelings involved, mmh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "promise there were ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "no feelings in",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "volved, mmh",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "Dm               Em            Dm",
-      "lyrics": " She said, \"Boy, tell me honestly"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": " She said, \"Boy, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "tell me honest",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ly",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                        Em    Am",
-      "lyrics": "Was it real or just for show?\", yeah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Was it real or just for ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "show?\"",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ", yeah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm               Em          F",
-      "lyrics": " She said, \"Save your apologies"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": " She said, \"Save ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "your apologi",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "es",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Esus4 E",
-      "lyrics": "Baby, I just gotta know\""
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Baby, I just gotta ",
+          "overLyric": true
+        },
+        {
+          "chord": "Esus4",
+          "lyric": "know\" ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "    F        G         Am      G",
-      "lyrics": "How long has this been goin'   on?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "How ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "long has ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "this been ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "goin'   ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "on?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         F                  G",
-      "lyrics": "You been creepin' 'round on me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You been ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "creepin' 'round on ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Am            E",
-      "lyrics": "While you callin' me \"baby\""
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "While you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "callin' me \"ba",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "by\"",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    F        G         Am      G",
-      "lyrics": "How long has this been goin'   on?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "How ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "long has ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "this been ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "goin'   ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "on?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         F            G",
-      "lyrics": "You been actin' so shady"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You been ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "actin' so sha",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "dy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Am             E",
-      "lyrics": "I've been feelin' it lately, baby"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've been ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "feelin' it late",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ly, baby",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Post-Chorus]"
     },
     {
-      "chord": "F    G",
-      "lyrics": " Ooo-oh (yeah)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " Ooo-",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "oh (yeah)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am   G",
-      "lyrics": " Ooo-oh (encore)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " Ooo-",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "oh (encore)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F    G   Am E",
-      "lyrics": "Oooh-ooh-oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Oooh-",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ooh-",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "oh ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "F          G             Am                  G",
-      "lyrics": " I'll admit, it's my fault, but you gotta believe me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " I'll admit",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ", it's my faul",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "t, but you gotta bel",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ieve me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F             G             Am    E",
-      "lyrics": "When I say it only happened once, mmm"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "When I say it ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "only happened ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "once, ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "mmm",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F       G            Am                 G",
-      "lyrics": " I tried, and I tried, but you'll never see that"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " I tried",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ", and I tried",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ", but you'll never ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "see that",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F          G                Am            E",
-      "lyrics": "You're the only one I wanna love, oh, yeah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "You're the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "only one I wanna ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "love, oh, yeah",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "Dm               Em            Dm",
-      "lyrics": " She said, \"Boy, tell me honestly"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": " She said, \"Boy, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "tell me honest",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ly",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                        Em    Am",
-      "lyrics": "Was it real or just for show?\", yeah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Was it real or just for ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "show?\"",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ", yeah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm               Em          F",
-      "lyrics": " She said, \"Save your apologies"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": " She said, \"Save ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "your apologi",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "es",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Esus4 E",
-      "lyrics": "Baby, I just gotta know\""
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Baby, I just gotta ",
+          "overLyric": true
+        },
+        {
+          "chord": "Esus4",
+          "lyric": "know\" ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "    F        G         Am      G",
-      "lyrics": "How long has this been goin'   on?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "How ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "long has ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "this been ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "goin'   ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "on?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         F                  G",
-      "lyrics": "You been creepin' 'round on me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You been ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "creepin' 'round on ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Am            E",
-      "lyrics": "While you callin' me \"baby\""
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "While you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "callin' me \"ba",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "by\"",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    F        G         Am      G",
-      "lyrics": "How long has this been goin'   on?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "How ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "long has ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "this been ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "goin'   ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "on?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         F            G",
-      "lyrics": "You been actin' so shady"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You been ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "actin' so sha",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "dy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Am             E",
-      "lyrics": "I've been feelin' it lately, baby"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've been ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "feelin' it late",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ly, baby",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Post-Chorus]"
     },
     {
-      "chord": "F    G",
-      "lyrics": " Ooo-oh (yeah)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " Ooo-",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "oh (yeah)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am   G",
-      "lyrics": " Ooo-oh (encore)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " Ooo-",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "oh (encore)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F    G   Am  E",
-      "lyrics": "Oooh-ooh-oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Oooh-",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ooh-",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "oh  ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "How long has this been goin' on, baby?"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "How long has this been goin' on, baby?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F   G",
-      "lyrics": "Ooo-oh (yeah)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Ooo-",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "oh (yeah)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am  G",
-      "lyrics": "Ooo-oh, you gotta go tell me now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Ooo-",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "oh, you gotta go tell me now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F    G   Am  E",
-      "lyrics": "Oooh-ooh-oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Oooh-",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ooh-",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "oh  ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "Dm               Em            Dm",
-      "lyrics": " She said, \"Boy, tell me honestly"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": " She said, \"Boy, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "tell me honest",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ly",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                        Em    Am",
-      "lyrics": "Was it real or just for show?\", yeah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Was it real or just for ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "show?\"",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ", yeah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm               Em          F",
-      "lyrics": " She said, \"Save your apologies"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": " She said, \"Save ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "your apologi",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "es",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Esus4 E",
-      "lyrics": "Baby, I just gotta know\""
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Baby, I just gotta ",
+          "overLyric": true
+        },
+        {
+          "chord": "Esus4",
+          "lyric": "know\" ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "    F        G         Am      G",
-      "lyrics": "How long has this been goin'   on?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "How ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "long has ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "this been ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "goin'   ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "on?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         F                  G",
-      "lyrics": "You been creepin' 'round on me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You been ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "creepin' 'round on ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Am            E",
-      "lyrics": "While you callin' me \"baby\""
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "While you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "callin' me \"ba",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "by\"",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    F        G         Am      G",
-      "lyrics": "How long has this been goin'   on?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "How ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "long has ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "this been ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "goin'   ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "on?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         F            G",
-      "lyrics": "You been actin' so shady"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You been ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "actin' so sha",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "dy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Am             E",
-      "lyrics": "I've been feelin' it lately, baby"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've been ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "feelin' it late",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ly, baby",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Post-Chorus]"
     },
     {
-      "chord": "F     G",
-      "lyrics": " (Ooo-oh, yeah)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " (Ooo-",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "oh, yeah)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "How long has this been goin' on?"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "How long has this been goin' on?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am   G",
-      "lyrics": "(Ooh, encore)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "(Ooh,",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " encore)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "You've been creepin' 'round on me"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You've been creepin' 'round on me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F     G   Am  E",
-      "lyrics": "(Oooh-ooh-oh)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "(Oooh-",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ooh-",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "oh) ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "How long has it been goin' on, baby? Oh"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "How long has it been goin' on, baby? Oh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F     G",
-      "lyrics": " (Ooo-oh)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " (Ooo-",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "oh)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "How long has this been goin' on?"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "How long has this been goin' on?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am    G",
-      "lyrics": "(Ooh, encore)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "(Ooh, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "encore)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "(You gotta go tell me now)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(You gotta go tell me now)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F     G   Am     E",
-      "lyrics": "(Oooh-ooh-oh)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "(Oooh-",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ooh-",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "oh)    ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "You've been actin' so shady"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You've been actin' so shady",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I've been feelin' it lately, baby"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've been feelin' it lately, baby",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "How Long"

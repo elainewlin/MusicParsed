@@ -16,233 +16,915 @@
       "label": "[Verse]"
     },
     {
-      "chord": "Bm",
-      "lyrics": "On a cold winters morning"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "On a cold winters morning",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       G",
-      "lyrics": "In the time before the light"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "In the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "time before the light",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   A",
-      "lyrics": "In flames of death's eternal rain"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "In ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "flames of death's eternal rain",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   A               Bm",
-      "lyrics": "We ride towards the fight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ride towards the",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": " fight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm",
-      "lyrics": "When the darkness is falling down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "When the darkness is falling down",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G",
-      "lyrics": "And the times are tough alright"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "times are tough alright",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    A",
-      "lyrics": "The sound of evil laughter"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "sound of evil laughter",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Bm",
-      "lyrics": "Falls around the world tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Falls a",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "round the world tonight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm",
-      "lyrics": "Fighting hard, fighting on for the steel"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Fighting hard, fighting on for the steel",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            G",
-      "lyrics": "Through the wastelands evermore"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Through the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "wastelands evermore",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    A",
-      "lyrics": "The scattered souls will feel the hell"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "scattered souls will feel the hell",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Bm",
-      "lyrics": "Bodies wasted on the shores"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Bodies ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "wasted on the shores",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "       Em",
-      "lyrics": "On the blackest plains in hell's domain"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "On the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "blackest plains in hell's domain",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Bm",
-      "lyrics": "We watch them as they go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "watch them as they go",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   G                               A",
-      "lyrics": "In fire and pain, now once again we know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "In ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "fire and pain, now once again we",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " know",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          D       A",
-      "lyrics": "So now we fly ever free,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So now we ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "fly ever",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " free,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      G",
-      "lyrics": "We're free before the thunderstorm"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We're ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "free before the thunderstorm",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm             A",
-      "lyrics": "on towards the wilderness"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "on towards the ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "wilderness",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G",
-      "lyrics": "Our quest carries on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Our ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "quest carries on",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm             G       Bm             D",
-      "lyrics": "Far beyond the sundown, far beyond the moonlight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Far beyond the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "sundown,",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": " far beyond the",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " moonlight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                                 A",
-      "lyrics": "Deep inside our hearts and all our souls"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Deep inside our hearts and all our",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " souls",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "        G                  Bm",
-      "lyrics": "So far away we wait for the day"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So far a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "way we wait for the",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": " day",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        A                         F#m",
-      "lyrics": "For the light source so wasted and gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "For the ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "light source so wasted and",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": " gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            G                      Bm",
-      "lyrics": "We feel the pain of a lifetime lost in a thousand days"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We feel the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "pain of a lifetime lost",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": " in a thousand days",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            A                   Bm",
-      "lyrics": "Through the fire and the flames we carry on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Through the ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "fire and the flames ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "we carry on",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "Bm",
-      "lyrics": "As the red day is dawning"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "As the red day is dawning",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G",
-      "lyrics": "And the lightning cracks the sky"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "lightning cracks the sky",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          A",
-      "lyrics": "They will raise their hands to the heavens above"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "They will ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "raise their hands to the heavens above",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Bm",
-      "lyrics": "With resentment in their eyes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "With re",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "sentment in their eyes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm",
-      "lyrics": "Running back through the midmorning light"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Running back through the midmorning light",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          G",
-      "lyrics": "There's a burning in my heart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "There's a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "burning in my heart",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      A",
-      "lyrics": "We're banished from a time in a fallen land"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We're ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "banished from a time in a fallen land",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Bm",
-      "lyrics": "To a life beyond the stars"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "life beyond the stars",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "        Em",
-      "lyrics": "In your darkest dreams you still believe"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "In your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "darkest dreams you still believe",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Bm",
-      "lyrics": "Our destiny this time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Our ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "destiny this time",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G                            A",
-      "lyrics": "And endlessly we'll all be free tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "endlessly we'll all be free t",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "onight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           D         A        G",
-      "lyrics": "And on the wings of a dream so far beyond reality"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And on the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "wings of a",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " dream so",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " far beyond reality",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm           A           G",
-      "lyrics": "All alone in desperation, now that time has come"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "All alone in ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "desperation,",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " now that time has come",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm                 G          Bm             D",
-      "lyrics": "Lost inside you'll never find, lost within my own mind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Lost inside you'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "never find,",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": " lost within my",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " own mind",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                                A",
-      "lyrics": "Day after day this misery must go on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Day after day this misery must go",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " on",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "       G                   Bm",
-      "lyrics": "So far away we wait for the day"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So far ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "away we wait for the",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": " day",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        A                         F#m",
-      "lyrics": "For the light source so wasted and gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "For the ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "light source so wasted and",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": " gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            G                      Bm",
-      "lyrics": "We feel the pain of a lifetime lost in a thousand days"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We feel the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "pain of a lifetime lost",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": " in a thousand days",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            A                       Bm",
-      "lyrics": "Through the fire and the flames we carry on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Through the ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "fire and the flames we c",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "arry on",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "            Bm                            G",
-      "lyrics": "Now here we stand with their blood on our hands"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Now here we ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "stand with their blood on our ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "hands",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             A                   D",
-      "lyrics": "We fought so hard now can we understand"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We fought so ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "hard now can we unde",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "rstand",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               Bm                      G",
-      "lyrics": "I'll break the seal of this curse if I possibly can"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll break the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "seal of this curse if I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "possibly can",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    A               F#",
-      "lyrics": "For freedom of every man"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "For ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "freedom of every",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": " man",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "       G                   Bm",
-      "lyrics": "So far away we wait for the day"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So far ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "away we wait for the",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": " day",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        A                         F#m",
-      "lyrics": "For the light source so wasted and gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "For the ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "light source so wasted and",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": " gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            G                      Bm",
-      "lyrics": "We feel the pain of a lifetime lost in a thousand days"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We feel the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "pain of a lifetime lost",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": " in a thousand days",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            A                       Bm",
-      "lyrics": "Through the fire and the flames we carry on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Through the ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "fire and the flames we c",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "arry on",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Through The Fire And Flames"

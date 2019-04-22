@@ -14,268 +14,1060 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "            Am                             F",
-      "lyrics": "Your little brother never tells you but he loves you so"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Your little ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "brother never tells you but he ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "loves you so",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              C                         G",
-      "lyrics": "You said your mother only smiled on her TV show"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You said your ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "mother only smiled on her ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "TV show",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Am                            F",
-      "lyrics": "You're only happy when your sorry head is filled with dope"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're only ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "happy when your sorry head is ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "filled with dope",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           C                                G",
-      "lyrics": "I hope you make it to the day you're twenty eight years old"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I hope you ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "make it to the day you're twenty ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "eight years old",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "       Am                             F",
-      "lyrics": "You're dripping like a saturated sunrise"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "dripping like a saturated sunri",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "se",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       C                            G",
-      "lyrics": "You're spilling like an overflowing sink"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "spilling like an overflowing ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "sink",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Am                                F",
-      "lyrics": "You're ripped at every edge but you're a masterpiece"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ripped at every edge but you're a ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "masterpiece",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       C                                  Em",
-      "lyrics": "And I'm tearing through the pages and the ink"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I'm",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " tearing through the pages and the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ink",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "              Am",
-      "lyrics": "Everything is blue"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Everything is ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "blue",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               F",
-      "lyrics": "His pills, his hands, his jeans"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "His pills, his ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "hands, his jeans",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            C",
-      "lyrics": "And now I'm covered in the colors"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And now I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "covered in the colors",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     G",
-      "lyrics": "Pull apart at the seams"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Pull ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "apart at the seams",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Am       F",
-      "lyrics": "And it's blue"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And it's blu",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "e        ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "            C        G",
-      "lyrics": "And it's blue"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And it's blu",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "e        ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "              Am",
-      "lyrics": "Everything is grey"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Everything is ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "grey",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              F",
-      "lyrics": "His hair, his smoke, his dreams"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "His hair, his ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "smoke, his dreams",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             C",
-      "lyrics": "And now he's so devoid of color"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And now he's ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "so devoid of color",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         G",
-      "lyrics": "He don't know what it means"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "He don't ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "know what it means",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am       F",
-      "lyrics": "And he's blue"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "he's blue",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    C        G",
-      "lyrics": "And he's blue"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "he's blue",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "           Am                             F",
-      "lyrics": "You were a vision in the morning when the light came through"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You were a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "vision in the morning when the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "light came through",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         C                         G",
-      "lyrics": "I know I've only felt religion when I lay with you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I know I'",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ve only felt religion when",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " I lay with you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Am                          F",
-      "lyrics": "You said you'll never be forgiven till your boys are too"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You said you",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "'ll never be forgiven till y",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "our boys are too",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          C                             G",
-      "lyrics": "I'm still waking every morning but it's not with you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm still ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "waking every morning but it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "not with you",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "       Am                             F",
-      "lyrics": "You're dripping like a saturated sunrise"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "dripping like a saturated sunri",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "se",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       C                            G",
-      "lyrics": "You're spilling like an overflowing sink"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "spilling like an overflowing ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "sink",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Am                                F",
-      "lyrics": "You're ripped at every edge but you're a masterpiece"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ripped at every edge but you're a ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "masterpiece",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       C                                  Em",
-      "lyrics": "And I'm tearing through the pages and the ink"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I'm",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " tearing through the pages and the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ink",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "              Am",
-      "lyrics": "Everything is blue"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Everything is ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "blue",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               F",
-      "lyrics": "His pills, his hands, his jeans"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "His pills, his ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "hands, his jeans",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            C",
-      "lyrics": "And now I'm covered in the colors"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And now I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "covered in the colors",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     G",
-      "lyrics": "Pull apart at the seams"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Pull ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "apart at the seams",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am       F",
-      "lyrics": "And it's blue"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "it's blue",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    C        G",
-      "lyrics": "And it's blue"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "it's blue",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "              Am",
-      "lyrics": "Everything is grey"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Everything is ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "grey",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              F",
-      "lyrics": "His hair, his smoke, his dreams"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "His hair, his ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "smoke, his dreams",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             C",
-      "lyrics": "And now he's so devoid of color"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And now he's ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "so devoid of color",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         G",
-      "lyrics": "He don't know what it means"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "He don't ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "know what it means",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am       F",
-      "lyrics": "And he's blue"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "he's blue",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    C        G",
-      "lyrics": "And he's blue"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "he's blue",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "Am",
-      "lyrics": "You were red and you liked me because I was blue"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "You were red and you liked me because I was blue",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "But you touched me and suddenly I was a lilac sky"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "But you touched me and suddenly I was a lilac sky",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "Then you decided purple"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Then you decided purple",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Just wasn't for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Just wasn't for you",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "              Am",
-      "lyrics": "Everything is blue"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Everything is ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "blue",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               F",
-      "lyrics": "His pills, his hands, his jeans"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "His pills, his ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "hands, his jeans",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            C",
-      "lyrics": "And now I'm covered in the colors"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And now I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "covered in the colors",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     G",
-      "lyrics": "Pull apart at the seams"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Pull ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "apart at the seams",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  Am       F",
-      "lyrics": "And it's blue"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "An",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "d it's bl",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ue",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  C        G",
-      "lyrics": "And it's blue"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "An",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "d it's bl",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ue",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              Am",
-      "lyrics": "Everything is grey"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Everything is ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "grey",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              F",
-      "lyrics": "His hair, his smoke, his dreams"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "His hair, his ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "smoke, his dreams",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             C",
-      "lyrics": "And now he's so devoid of color"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And now he's ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "so devoid of color",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         G",
-      "lyrics": "He don't know what it means"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "He don't ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "know what it means",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  Am       F",
-      "lyrics": "And he's blue"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "An",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "d he's bl",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ue",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  C        G",
-      "lyrics": "And he's blue"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "An",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "d he's bl",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ue",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Outro]"
     },
     {
-      "chord": "      Am       F",
-      "lyrics": "Everything is blue"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Everyt",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "hing is b",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "lue",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      C        G",
-      "lyrics": "Everything is blue"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Everyt",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hing is b",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "lue",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Am       F",
-      "lyrics": "Everything is blue"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Everyt",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "hing is b",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "lue",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      C        G",
-      "lyrics": "Everything is blue"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Everyt",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hing is b",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "lue",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Colors"

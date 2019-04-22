@@ -14,168 +14,791 @@
       "label": "Verse:"
     },
     {
-      "chord": "Bm            D",
-      "lyrics": "Throw me in a landfill"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Throw me in a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "landfill",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                    A",
-      "lyrics": "Don't think about the consequences"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Don't think about the",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " consequences",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm              D",
-      "lyrics": "Throw me in the dirt pit"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Throw me in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "dirt pit",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                     A",
-      "lyrics": "Don't think about the choices that you make"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Don't think about the ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "choices that you make",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm              D",
-      "lyrics": "Throw me in the water"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Throw me in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "water",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                     A",
-      "lyrics": "Don't think about the splash I will create"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Don't think about the ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "splash I will create",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm                 D",
-      "lyrics": "Leave me at the alter"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Leave me at the alt",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "er",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                A",
-      "lyrics": "Knowing all the things you just escaped"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Knowing all the t",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "hings you just escaped",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Verse:"
     },
     {
-      "chord": "Bm             D",
-      "lyrics": "Push me out to sea"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Push me out to ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "sea",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G             A",
-      "lyrics": "On a little boat that you made out"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "On a little bo",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "at that you made out",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm         D     G                    A",
-      "lyrics": "Of the evergreen that you helped your father cut away"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Of the ever",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "green ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "that you helped your ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "father cut away",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm              D",
-      "lyrics": "Leave me on the tracks"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Leave me on the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "tracks",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                 A",
-      "lyrics": "To wait until the morning train arrives"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "To wait until the ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "morning train arrives",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm                  D",
-      "lyrics": "Don't you dare look back"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Don't you dare look ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "back",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G          A",
-      "lyrics": "Walk away, catch up with the sunrise"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Walk away, ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "catch up with the sunrise",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Chorus:"
     },
     {
-      "chord": "     Bm   G  F#m   A         Bm  D",
-      "lyrics": "Cos' this is torturous electricity"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cos' ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "this ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "is ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "tortur",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ous electr",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "icit",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "y",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G       A      Bm   G",
-      "lyrics": "Between both of us and this is"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Between ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "both of ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "us and ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "this ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "is",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D     A               Bm     D",
-      "lyrics": "Dangerous cos' I want you so much"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Danger",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ous cos' I want ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "you so ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "much",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      G         A",
-      "lyrics": "But I hate your guts"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "hate your ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "guts",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I hate you"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I hate you",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Verse:"
     },
     {
-      "chord": "Bm                 D",
-      "lyrics": "So leave me in the cold"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "So leave me in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "cold",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G              A",
-      "lyrics": "Wait until the snow covers me up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Wait until the ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "snow covers me up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm          D",
-      "lyrics": "So I cannot move"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "So I cannot ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "move",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G         A",
-      "lyrics": "So I'm embedded in the frost"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "So I'm emb",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "edded in the frost",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm              D",
-      "lyrics": "Leave me in the rain"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Leave me in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "rain",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G             A                   Bm",
-      "lyrics": "Wait until my clothes cling to my frame"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Wait until my ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "clothes cling to my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "frame",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               D",
-      "lyrics": "Wipe away your tear stains"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Wipe away your ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "tear stains",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                    A",
-      "lyrics": "Thought you said you didn't feel pain"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Thought you said you ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "didn't feel pain",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Chorus:"
     },
     {
-      "chord": "     Bm   G  F#m   A         Bm  D",
-      "lyrics": "Well this is torturous electricity"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Well ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "this ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "is ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "tortur",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ous electr",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "icit",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "y",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G       A      Bm   G",
-      "lyrics": "Between both of us and this is"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Between ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "both of ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "us and ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "this ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "is",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D     A               Bm     D",
-      "lyrics": "Dangerous cos' I want you so much"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Danger",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ous cos' I want ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "you so ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "much",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      G         A            Bm     D",
-      "lyrics": "But I hate your guts. I want you so much"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "hate your ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "guts. I want ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "you so ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "much",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      G         A",
-      "lyrics": "But I hate your guts."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "hate your ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "guts.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Bm   G  F#m   A         Bm  D",
-      "lyrics": "Well this is torturous electricity"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Well ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "this ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "is ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "tortur",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ous electr",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "icit",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "y",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G       A      Bm   G",
-      "lyrics": "Between both of us and this is"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Between ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "both of ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "us and ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "this ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "is",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D     A               Bm     D",
-      "lyrics": "Dangerous cos' I want you so much"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Danger",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ous cos' I want ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "you so ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "much",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      G         A",
-      "lyrics": "But I hate your guts"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "hate your ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "guts",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Bm     D          G         A",
-      "lyrics": "I want you so much but I hate your guts"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I want ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "you so ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "much but I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "hate your ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "guts",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Landfill"

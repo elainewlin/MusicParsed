@@ -15,331 +15,1080 @@
       "label": "[Intro x2]"
     },
     {
-      "chord": "Am  F",
-      "lyrics": "Ahhh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Ahhh",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "  G",
-      "lyrics": "Hey"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "He",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "y",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C    G",
-      "lyrics": "Ahhh-Ahhh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Ahhh-",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "Ahhh",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 1]"
     },
     {
-      "chord": "   Am",
-      "lyrics": "He knows"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "He ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "knows",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      F",
-      "lyrics": "Dirty secrets that I keep"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Dirty ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "secrets that I keep",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G",
-      "lyrics": "Does he know it’s killing me?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Does he ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "know it’s killing me?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   C         G",
-      "lyrics": "He knows, he knows"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "He ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "knows, he ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "knows",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Am",
-      "lyrics": "D-d-does he know?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "D-d-does he ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "know?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          F",
-      "lyrics": "Another’s hands have touched my skin"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Another’s ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "hands have touched my skin",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         G",
-      "lyrics": "I won’t tell him where I’ve been"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I won’t t",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ell him where I’ve been",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C           G",
-      "lyrics": "He knows, he knows, he knows"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "He knows, he",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " knows, he knows",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-chorus]"
     },
     {
-      "chord": "F                G",
-      "lyrics": "It’s tearing me apart,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "It’s tearing me a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "part,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               Am",
-      "lyrics": "She’s slipping away [I’m slipping away]"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "She’s slipping ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "away [I’m slipping away]",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "Am I just hanging on to all the words she used to say?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Am I just hanging on to all the words she used to say?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                   G",
-      "lyrics": "The pictures on her phone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "The pictures on her ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "phone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 Am",
-      "lyrics": "She’s not coming home [I’m not coming home]"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "She’s not coming ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "home [I’m not coming home]",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  E",
-      "lyrics": "Coming home, coming home"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Coming home, comin",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "g home",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Am",
-      "lyrics": "I know what you did last summer, [Ah-ah]"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I know what you did last summer, [Ah-ah]",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Just lied to me, there’s no other [Hey-ey]"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Just lied to me, there’s no other [Hey-ey]",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "I know what you did last summer,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I know what you did last summer,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C      G",
-      "lyrics": "Tell me where you’ve been?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Tell me",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " where you’ve been?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "I know what you did last summer, [Ah-ah]"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I know what you did last summer, [Ah-ah]",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Look me in the eyes my lover [Hey-ey]"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Look me in the eyes my lover [Hey-ey]",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "I know what you did last summer,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I know what you did last summer,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C      G",
-      "lyrics": "Tell me where you’ve been?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Tell me",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " where you’ve been?",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Post-Chorus]"
     },
     {
-      "chord": "Am                                F",
-      "lyrics": "I know, I know, I know, I know, I know, I know, I know [Ah-ah] [Hey-ey]"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I know, I know, I know, I know, I ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "know, I know, I know [Ah-ah] [Hey-ey]",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                                 C              G",
-      "lyrics": "I know, I know, I know, I know, I know, I know, I know [Ah-ah] [Ah-ah]"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I know, I know, I know, I know, I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "know, I know, I",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " know [Ah-ah] [Ah-ah]",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                             F",
-      "lyrics": "I didn’t mean it, no, I didn’t mean it, mean it, no [Ah-ah] [Hey-ey]"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I didn’t mean it, no, I didn’t ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "mean it, mean it, no [Ah-ah] [Hey-ey]",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                         C                  G",
-      "lyrics": "Can’t seem to let you go, can’t seem to hold you close [Ah-ah] [Ah-ah]"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Can’t seem to let you go, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "can’t seem to hold ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "you close [Ah-ah] [Ah-ah]",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "I know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I know",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "Am       F",
-      "lyrics": "When she looks me in the eyes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "When she ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "looks me in the eyes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "They don’t seem as bright,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "They don’t seem as bright,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   C        G          Am",
-      "lyrics": "No more, no more, I know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "No ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "more, no ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "more, I kno",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "w",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         F",
-      "lyrics": "That she loved me at one time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That she ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "loved me at one time",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G",
-      "lyrics": "Would I promise her that night"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Would I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "promise her that night",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         C                 G",
-      "lyrics": "Cross my heart and hope to die"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cross my ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "heart and hope to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "die",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "F               G",
-      "lyrics": "It’s tearing me apart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "It’s tearing me ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "apart",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               Am",
-      "lyrics": "She’s slipping away [I’m slipping away]"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "She’s slipping ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "away [I’m slipping away]",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                                                F",
-      "lyrics": "Am I just hanging on to all the words she used to say?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Am I just hanging on to all the words she used to ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "say?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    G",
-      "lyrics": "The pictures on her phone [Pictures on my phone]"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The pictures on her ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "phone [Pictures on my phone]",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 Am",
-      "lyrics": "She’s not coming home [I’m not coming home]"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "She’s not coming ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "home [I’m not coming home]",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "Oh, na na na yeah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "Oh, na na na yeah",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Am",
-      "lyrics": "I know what you did last summer, [Ah-ah]"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I know what you did last summer, [Ah-ah]",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Just lied to me, there’s no other [Hey-ey]"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Just lied to me, there’s no other [Hey-ey]",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "I know what you did last summer,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I know what you did last summer,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C      G",
-      "lyrics": "Tell me where you’ve been?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Tell me",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " where you’ve been?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "I know what you did last summer, [Ah-ah]"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I know what you did last summer, [Ah-ah]",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Look me in the eyes my lover [Hey-ey]"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Look me in the eyes my lover [Hey-ey]",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "I know what you did last summer,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I know what you did last summer,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C      G",
-      "lyrics": "Tell me where you’ve been?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Tell me",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " where you’ve been?",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "F                                 G",
-      "lyrics": "I know, I know, I know, I know, I know, I know, I know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I know, I know, I know, I know, I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "know, I know, I know",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                                Em",
-      "lyrics": "I know, I know, I know, I know, I know, I know, I know  [No, no, no]"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I know, I know, I know, I know, I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "know, I know, I know  [No, no, no]",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                          G",
-      "lyrics": "Can’t seem to let you go, can’t seem to keep you close [Hold me close]"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Can’t seem to let you go, c",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "an’t seem to keep you close [Hold me close]",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                         Em",
-      "lyrics": "Can’t seem to let you go, can’t seem to keep you close [You know I didn’t mean it though]"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Can’t seem to let you go, c",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "an’t seem to keep you close [You know I didn’t mean it though]",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                                 G",
-      "lyrics": "Tell me where you’ve been lately, tell me where you’ve been lately [Just hold me close]"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Tell me where you’ve been lately, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "tell me where you’ve been lately [Just hold me close]",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                                Em",
-      "lyrics": "Tell me where you’ve been lately, tell me where you’ve been lately [Don’t, don’t, don’t, don’t let me go]"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Tell me where you’ve been lately, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "tell me where you’ve been lately [Don’t, don’t, don’t, don’t let me go]",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                             G",
-      "lyrics": "Can’t seem to keep you close, can’t seem to let you go [I didn’t mean it though]"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Can’t seem to keep you close, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "can’t seem to let you go [I didn’t mean it though]",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                            Em",
-      "lyrics": "I know you didn’t mean it though, I know you didn’t mean it though [I don’t wanna let you go]"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I know you didn’t mean it thou",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "gh, I know you didn’t mean it though [I don’t wanna let you go]",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                                  G",
-      "lyrics": "Tell me you didn’t mean it though, tell me you didn’t mean it though [Can’t seem to let you go,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Tell me you didn’t mean it though, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "tell me you didn’t mean it though [Can’t seem to let you go,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "seem to let you go]"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "seem to let you go]",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                                 Em",
-      "lyrics": "I know you didn’t mean it though, I wanna know you mean it though [Hold me close]"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I know you didn’t mean it though, I",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " wanna know you mean it though [Hold me close]",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                                 G",
-      "lyrics": "I know you didn’t mean it though, I know you didn’t mean it though [Just hold me close]"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I know you didn’t mean it though, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "I know you didn’t mean it though [Just hold me close]",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                         E",
-      "lyrics": "Can’t seem to let you go, can’t seem to hold you close,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Can’t seem to let you go, c",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "an’t seem to hold you close,",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Am",
-      "lyrics": "I know what you did last summer, [Ah-ah]"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I know what you did last summer, [Ah-ah]",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Just lied to me, there’s no other [Hey-ey]"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Just lied to me, there’s no other [Hey-ey]",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "I know what you did last summer,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I know what you did last summer,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C      G",
-      "lyrics": "Tell me where you’ve been?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Tell me",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " where you’ve been?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "I know what you did last summer, [Ah-ah]"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I know what you did last summer, [Ah-ah]",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Look me in the eyes my lover [Hey-ey]"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Look me in the eyes my lover [Hey-ey]",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "I know what you did last summer,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I know what you did last summer,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C      G",
-      "lyrics": "Tell me where you’ve been?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Tell me",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " where you’ve been?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                                F",
-      "lyrics": "I know, I know, I know, I know, I know, I know, I know [Ah-ah][Hey-ey]"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I know, I know, I know, I know, I ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "know, I know, I know [Ah-ah][Hey-ey]",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                                 C              G",
-      "lyrics": "I know, I know, I know, I know, I know, I know, I know [Ah-ah][Ah-ah]"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I know, I know, I know, I know, I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "know, I know, I",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " know [Ah-ah][Ah-ah]",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                                F",
-      "lyrics": "I know, I know, I know, I know, I know, I know, I know [Ah-ah][Hey-ey]"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I know, I know, I know, I know, I ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "know, I know, I know [Ah-ah][Hey-ey]",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                                 C              G",
-      "lyrics": "I know, I know, I know, I know, I know, I know, I know [Ah-ah][Ah-ah]"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I know, I know, I know, I know, I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "know, I know, I",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " know [Ah-ah][Ah-ah]",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "I Know What You Did Last Summer"

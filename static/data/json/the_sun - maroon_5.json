@@ -17,227 +17,847 @@
       "label": "[Verse]"
     },
     {
-      "chord": "Am            C",
-      "lyrics": "After school, walkin home"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "After school, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "walkin home",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D",
-      "lyrics": "Fresh dirt under my fingernails and"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Fresh dirt under my fingernails and",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am          C",
-      "lyrics": "I can smell hot asphalt"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I can smell ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hot asphalt",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D",
-      "lyrics": "Cars screech to a halt to let me pass"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Cars screech to a halt to let me pass",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am        C",
-      "lyrics": "And I cannot remember"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "And I cann",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ot remember",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D",
-      "lyrics": "What life was like through photographs"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "What life was like through photographs",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am          C           D",
-      "lyrics": "And trying to recreate images life gives us from the past"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "And trying t",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "o recreate i",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "mages life gives us from the past",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    D",
-      "lyrics": "And sometimes its a sad song.  But I"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And sometimes its a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "sad song.  But I",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "F          C                Am",
-      "lyrics": "Cannot forget, refuse to regret"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Cannot forg",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "et, refuse to reg",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ret",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          G",
-      "lyrics": "So glad I met you and"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So glad I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "met you and",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                C",
-      "lyrics": "Take my breath away"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Take my breath aw",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ay",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Am",
-      "lyrics": "Make everyday"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Make every",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "day",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 G",
-      "lyrics": "Worth all of the pain that I've gone through"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Worth all of the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "pain that I've gone through",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F         C",
-      "lyrics": "And mama, I've been cryin'"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "And mama, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I've been cryin'",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Am                        G",
-      "lyrics": "Cause things ain't how they used to be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "things ain't how they used",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " to be",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               F",
-      "lyrics": "She said, 'The battle's almost won"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "She said, 'The ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "battle's almost won",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Dm            E               Am C",
-      "lyrics": "And we're only several mi-les from the sun.'"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And we're ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "only several m",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "i-les from the s",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "un.",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "'",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     D          Am      C D",
-      "lyrics": "O-wo-ho-o-o-o-o-oh, yeah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "O-wo-",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ho-o-o-o-o-",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "oh, yeah",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "       Am        C",
-      "lyrics": "And I'm movin on, down my street"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I'm",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " movin on,",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " down my street",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D",
-      "lyrics": "I see people I won't ever meet"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "I see people I won't ever meet",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "I think of her, take a breath"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I think of her, take a breath",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                                  Am",
-      "lyrics": "Feel the beat in the rhythm of my steps"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Feel the beat in the rhythm of my s",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "teps",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    D",
-      "lyrics": "And sometimes its a sad song.  But I"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And sometimes its a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "sad song.  But I",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "F          C                Am",
-      "lyrics": "Cannot forget, refuse to regret"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Cannot forg",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "et, refuse to reg",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ret",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          G",
-      "lyrics": "So glad I met you and"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So glad I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "met you and",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                C",
-      "lyrics": "Take my breath away"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Take my breath aw",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ay",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Am",
-      "lyrics": "Make everyday"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Make every",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "day",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 G",
-      "lyrics": "Worth all of the pain that I've gone through"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Worth all of the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "pain that I've gone through",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F         C",
-      "lyrics": "And mama, I've been cryin'"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "And mama, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I've been cryin'",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Am                        G",
-      "lyrics": "Cause things ain't how they used to be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "things ain't how they used",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " to be",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               F",
-      "lyrics": "She said, 'The battle's almost won"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "She said, 'The ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "battle's almost won",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Dm            E               Am C",
-      "lyrics": "And we're only several mi-les from the sun.'"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And we're ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "only several m",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "i-les from the s",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "un.",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "'",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "Am",
-      "lyrics": "Rhythm of the conversation"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Rhythm of the conversation",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E7",
-      "lyrics": "The perfection of her creation"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E7",
+          "lyric": "The perfection of her creation",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "The sex she slipped into my coffee"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "The sex she slipped into my coffee",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E7",
-      "lyrics": "The way she felt when she first saw me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E7",
+          "lyric": "The way she felt when she first saw me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "Hate to love and love to hate her"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Hate to love and love to hate her",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E7",
-      "lyrics": "Like a broken record player"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E7",
+          "lyric": "Like a broken record player",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "Back and forth and here and gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Back and forth and here and gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    E7",
-      "lyrics": "and on and on and on and on!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "on and on and on and on!",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "F          C                Am",
-      "lyrics": "Cannot forget, refuse to regret"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Cannot forg",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "et, refuse to reg",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ret",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G",
-      "lyrics": "So glad I met you and"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So glad ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "I met you and",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                C",
-      "lyrics": "Take my breath away"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Take my breath aw",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ay",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Am",
-      "lyrics": "Make everyday"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Make every",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "day",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 G",
-      "lyrics": "Worth all of the pain that I've gone through"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Worth all of the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "pain that I've gone through",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F         C",
-      "lyrics": "And mama, I've been cryin'"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "And mama, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I've been cryin'",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Am                        G",
-      "lyrics": "Cause things ain't how they used to be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "things ain't how they used",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " to be",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             F",
-      "lyrics": "She said, 'The battle's almost won"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "She said, 'Th",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "e battle's almost won",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Dm            E",
-      "lyrics": "And we're only several mi-i-i-iles"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And we'r",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "e only several",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": " mi-i-i-iles",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         F",
-      "lyrics": "Said, 'The battle's almost won"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Said, 'Th",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "e battle's almost won",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Dm            E               Am C",
-      "lyrics": "And we're only several mi-les from the sun.'"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And we're",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": " only several ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "mi-les from the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "sun",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ".'",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  Dm      Am",
-      "lyrics": "Yea-A...-A-ah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Ye",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "a-A...-A",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "-ah",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "The Sun"

@@ -13,244 +13,977 @@
       "label": "[Intro]"
     },
     {
-      "chord": "C  G  Am  F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C  G  F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C  G  Am  F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C  G  F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 1]"
     },
     {
-      "chord": "C                        G",
-      "lyrics": "Headed down south to the land of the pines"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Headed down south to the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "land of the pines",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Am                   F",
-      "lyrics": "And I'm thumbin' my way into North Caroline"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "thumbin' my way into ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "North Caroline",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "Starin' up the road"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Starin' up the road",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            G         F",
-      "lyrics": "And pray to God I see headlights"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And pray to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "God I see ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "headlights",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  C                         G",
-      "lyrics": "I made it down the coast in seventeen hours"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "made it down the coast in ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "seventeen hours",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                      F",
-      "lyrics": "Pickin' me a bouquet of dogwood flowers"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Pickin' me a bouquet of ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "dogwood flowers",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          C",
-      "lyrics": "And I'm a hopin' for Raleigh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I'm a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hopin' for Raleigh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      G             F",
-      "lyrics": "I can see my baby tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I can ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "see my baby to",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "night",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "   C                   G",
-      "lyrics": "So rock me mama like a wagon wheel"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "rock me mama like a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "wagon wheel",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am              F",
-      "lyrics": "Rock me mama anyway you feel"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Rock me mama any",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "way you feel",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C   G     F",
-      "lyrics": "Hey, mama rock me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Hey,",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " mama ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "rock me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                     G",
-      "lyrics": "Rock me mama like the wind and the rain"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Rock me mama like the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "wind and the rain",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                  F",
-      "lyrics": "Rock me mama like a south-bound train"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Rock me mama like a ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "south-bound train",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C   G     F",
-      "lyrics": "Hey, mama rock me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Hey,",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " mama ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "rock me",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Instrumental]"
     },
     {
-      "chord": "C  G  Am  F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C  G  F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "C                     G",
-      "lyrics": "Runnin' from the cold up in New England"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Runnin' from the cold ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "up in New England",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Am                         F",
-      "lyrics": "I was born to be a fiddler in an old-time stringband"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I was ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "born to be a fiddler in an ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "old-time stringband",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   C",
-      "lyrics": "My baby plays the guitar"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "My ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "baby plays the guitar",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G              F",
-      "lyrics": "I pick a banjo now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I pick a banjo ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        C                            G",
-      "lyrics": "Oh, the North country winters keep a gettin' me now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh, the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "North country winters keep a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "gettin' me now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Am                       F",
-      "lyrics": "Lost my money playin' poker so I had to up and leave"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Lost my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "money playin' poker so I ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "had to up and leave",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      C",
-      "lyrics": "But I ain't a turnin' back"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ain't a turnin' back",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   G                    F",
-      "lyrics": "To livin' that old life no more"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "livin' that old life ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "no more",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "   C                   G",
-      "lyrics": "So rock me mama like a wagon wheel"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "rock me mama like a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "wagon wheel",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am              F",
-      "lyrics": "Rock me mama anyway you feel"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Rock me mama any",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "way you feel",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C   G     F",
-      "lyrics": "Hey, mama rock me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Hey,",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " mama ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "rock me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                     G",
-      "lyrics": "Rock me mama like the wind and the rain"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Rock me mama like the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "wind and the rain",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                  F",
-      "lyrics": "Rock me mama like a south-bound train"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Rock me mama like a ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "south-bound train",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C   G     F",
-      "lyrics": "Hey, mama rock me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Hey,",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " mama ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "rock me",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Instrumental]"
     },
     {
-      "chord": "C  G  Am  F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C  G  F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C  G  Am  F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C  G  F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 3]"
     },
     {
-      "chord": "C                    G",
-      "lyrics": "Walkin' to the south out of Roanoke"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Walkin' to the south ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "out of Roanoke",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Am",
-      "lyrics": "I caught a trucker out of Philly"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I caught a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "trucker out of Philly",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      F",
-      "lyrics": "Had a nice long toke"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Had a ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "nice long toke",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C                           G",
-      "lyrics": "But he's a headed west from the Cumberland Gap"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "he's a headed west from the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "Cumberland Gap",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   F",
-      "lyrics": "To Johnson City, Tennessee"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "Johnson City, Tennessee",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      C                   G",
-      "lyrics": "And I gotta get a move on fit for the sun"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "gotta get a move on ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "fit for the sun",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Am",
-      "lyrics": "I hear my baby callin' my name"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I hear my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "baby callin' my name",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      F",
-      "lyrics": "And I know that she's the only one"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "know that she's the only one",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C",
-      "lyrics": "And if I die in Raleigh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "if I die in Raleigh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   G                F",
-      "lyrics": "At least I will die free"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "At ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "least I will die ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "free",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "   C                   G",
-      "lyrics": "So rock me mama like a wagon wheel"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "rock me mama like a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "wagon wheel",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am              F",
-      "lyrics": "Rock me mama anyway you feel"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Rock me mama any",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "way you feel",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C   G     F",
-      "lyrics": "Hey, mama rock me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Hey,",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " mama ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "rock me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                     G",
-      "lyrics": "Rock me mama like the wind and the rain"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Rock me mama like the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "wind and the rain",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                  F",
-      "lyrics": "Rock me mama like a south-bound train"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Rock me mama like a ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "south-bound train",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C   G     F           C",
-      "lyrics": "Hey, mama rock me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Hey,",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " mama ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "rock me     ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "Wagon Wheel"

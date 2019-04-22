@@ -12,60 +12,236 @@
   "id": "tidal_wave_of_sensation - elaine_lin",
   "lines": [
     {
-      "chord": "Am",
-      "lyrics": "Am I drowning?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Am I drowning?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "All I feel is a"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "All I feel is a",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                G",
-      "lyrics": "tidal wave of sensation"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "tidal wave of sen",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "sation",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "sweeping, pouring, crashing,"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "sweeping, pouring, crashing,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G5                           Am",
-      "lyrics": "aching, aching, aching in my brain"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G5",
+          "lyric": "aching, aching, aching in my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "brain",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       F",
-      "lyrics": "Is it okay?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Is it o",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "kay?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "To feel this"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To feel this",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                G",
-      "lyrics": "tidal wave of sensation"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "tidal wave of sen",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "sation",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                         Am",
-      "lyrics": "that's about to drown my brain"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "that's about to drown my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "brain",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               F",
-      "lyrics": "until it's all pain."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "until it's all ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "pain.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       C                G",
-      "lyrics": "Just a tidal wave of sensation"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Just a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "tidal wave of sen",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "sation",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     Am F C G G5",
-      "lyrics": "I can't take another day."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I can't take another ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "day",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ". ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "G5",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "D   C   G   G",
-      "lyrics": "Ooh ooh ooh-ooh."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Ooh ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ooh ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ooh-",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ooh.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D   C   G   G5",
-      "lyrics": "Ooh ooh ooh-ooh."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Ooh ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ooh ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ooh-",
+          "overLyric": true
+        },
+        {
+          "chord": "G5",
+          "lyric": "ooh.",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Tidal Wave of Sensation"

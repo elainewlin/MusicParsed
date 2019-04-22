@@ -13,60 +13,174 @@
   "id": "my_present - elaine_lin",
   "lines": [
     {
-      "chord": "Am F C G",
-      "lyrics": "It’s not a fight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "It’",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "s ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "no",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "t a fight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "No place to run"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "No place to run",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "No place to hide"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "No place to hide",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Demons and angels"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Demons and angels",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "are all inside"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "are all inside",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "It’s not a dream"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It’s not a dream",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Don’t have to wake"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Don’t have to wake",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Don’t have to scream"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Don’t have to scream",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "The searing boil’s"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The searing boil’s",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "not what it seems."
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "not what it seems.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm Eb Bb F",
-      "lyrics": "Throw off the shackles"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Thr",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "ow ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "off",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " the shackles",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "that bind you to time."
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "that bind you to time.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Live in the moment"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Live in the moment",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "The life that is mine."
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The life that is mine.",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "My Present"

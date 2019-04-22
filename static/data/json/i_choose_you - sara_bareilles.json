@@ -15,167 +15,764 @@
       "label": "[VERSE 1]"
     },
     {
-      "chord": "A                   E/G♯               F♯m",
-      "lyrics": "Let the bough break let it come down crashing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Let the bough break ",
+          "overLyric": true
+        },
+        {
+          "chord": "E/G♯",
+          "lyric": "let it come down cr",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "ashing",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dadd9            A             E/G♯",
-      "lyrics": "Let the sun fade out to a dark sky"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dadd9",
+          "lyric": "Let the sun fade ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "out to a dark ",
+          "overLyric": true
+        },
+        {
+          "chord": "E/G♯",
+          "lyric": "sky",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A                  E/G♯             F♯m",
-      "lyrics": "Can’t say I’d even notice it was absent"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Can’t say I’d even ",
+          "overLyric": true
+        },
+        {
+          "chord": "E/G♯",
+          "lyric": "notice it was abs",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "ent",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dadd9                     A               E",
-      "lyrics": "Cause I could live by the light in your eyes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dadd9",
+          "lyric": "Cause I could live by the ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "light in your ey",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "es",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F♯m",
-      "lyrics": "I’ll unfold before you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F♯m",
+          "lyric": "I’ll unfold before you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dadd9",
-      "lyrics": "What I’ve strung together"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dadd9",
+          "lyric": "What I’ve strung together",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bsus4                       Dadd9  Dm",
-      "lyrics": "The very first words of a lifelong love letter"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bsus4",
+          "lyric": "The very first words of a li",
+          "overLyric": true
+        },
+        {
+          "chord": "Dadd9",
+          "lyric": "felong ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "love letter",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[CHORUS]"
     },
     {
-      "chord": "A                      E/G♯                 F♯m",
-      "lyrics": "Tell the world that we finally got it all right"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Tell the world that we ",
+          "overLyric": true
+        },
+        {
+          "chord": "E/G♯",
+          "lyric": "finally got it all ri",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "ght",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Dadd9  A             E",
-      "lyrics": "I choo-oo-oo-oo-oo-oose yoo-oo-oo-oo-ou"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I choo-oo-oo-oo-",
+          "overLyric": true
+        },
+        {
+          "chord": "Dadd9",
+          "lyric": "oo-oose",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " yoo-oo-oo-oo-",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ou",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A                   E/G♯                 F♯m",
-      "lyrics": "I will become yours and you will become mine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "I will become yours ",
+          "overLyric": true
+        },
+        {
+          "chord": "E/G♯",
+          "lyric": "and you will become m",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "ine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Dadd9  A             E",
-      "lyrics": "I choo-oo-oo-oo-oo-oose yoo-oo-oo-oo-ou"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I choo-oo-oo-oo-",
+          "overLyric": true
+        },
+        {
+          "chord": "Dadd9",
+          "lyric": "oo-oose",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " yoo-oo-oo-oo-",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ou",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Dadd9           A                E/G♯",
-      "lyrics": "I choo-oo-oo-oo-oo / oo-oo / oo-oo-oo-oo / oo-oose"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I choo-oo-oo-oo-",
+          "overLyric": true
+        },
+        {
+          "chord": "Dadd9",
+          "lyric": "oo / oo-oo / oo-",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "oo-oo-oo / oo-oos",
+          "overLyric": true
+        },
+        {
+          "chord": "E/G♯",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "You"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A  E/G♯  F♯m  Dadd9  A  E",
-      "lyrics": "Oh, ohh, ohh Oh, ohh, ohh (or \"Yeah…)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Oh,",
+          "overLyric": true
+        },
+        {
+          "chord": "E/G♯",
+          "lyric": " ohh, ",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "ohh O",
+          "overLyric": true
+        },
+        {
+          "chord": "Dadd9",
+          "lyric": "h, ohh,",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " oh",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "h (or \"Yeah…)",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[VERSE 2]"
     },
     {
-      "chord": "A                     E/G♯              F♯m",
-      "lyrics": "There was a time when I would have believed them"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "There was a time when ",
+          "overLyric": true
+        },
+        {
+          "chord": "E/G♯",
+          "lyric": "I would have belie",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "ved them",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Dadd9             A              E/G♯",
-      "lyrics": "If they told me you could not come true, just love’s illusion"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "If they ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dadd9",
+          "lyric": "told me you could ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "not come true, ",
+          "overLyric": true
+        },
+        {
+          "chord": "E/G♯",
+          "lyric": "just love’s illusion",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             A      E/G♯",
-      "lyrics": "But then you found me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But then you ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "found m",
+          "overLyric": true
+        },
+        {
+          "chord": "E/G♯",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    F♯m",
-      "lyrics": "and everything changed"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and ",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "everything changed",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Dadd9        A             E",
-      "lyrics": "And I believe in something again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dadd9",
+          "lyric": "I believe in ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "something agai",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "n",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F♯m           Dadd9",
-      "lyrics": "My whole heart will be yours forever"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F♯m",
+          "lyric": "My whole heart",
+          "overLyric": true
+        },
+        {
+          "chord": "Dadd9",
+          "lyric": " will be yours forever",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bsus4               Dadd9      Dm",
-      "lyrics": "This is a beautiful start to a lifelong love letter"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bsus4",
+          "lyric": "This is a beautiful ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dadd9",
+          "lyric": "start to a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "lifelong love letter",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[CHORUS]"
     },
     {
-      "chord": "A                      E/G♯                 F♯m",
-      "lyrics": "Tell the world that we finally got it all right"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Tell the world that we ",
+          "overLyric": true
+        },
+        {
+          "chord": "E/G♯",
+          "lyric": "finally got it all ri",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "ght",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Dadd9  A             E",
-      "lyrics": "I choo-oo-oo-oo-oo-oose yoo-oo-oo-oo-ou"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I choo-oo-oo-oo-",
+          "overLyric": true
+        },
+        {
+          "chord": "Dadd9",
+          "lyric": "oo-oose",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " yoo-oo-oo-oo-",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ou",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A                   E/G♯                 F♯m",
-      "lyrics": "I will become yours and you will become mine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "I will become yours ",
+          "overLyric": true
+        },
+        {
+          "chord": "E/G♯",
+          "lyric": "and you will become m",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "ine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Dadd9  A             E",
-      "lyrics": "I choo-oo-oo-oo-oo-oose yoo-oo-oo-oo-ou"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I choo-oo-oo-oo-",
+          "overLyric": true
+        },
+        {
+          "chord": "Dadd9",
+          "lyric": "oo-oose",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " yoo-oo-oo-oo-",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ou",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Dadd9           A                E/G♯",
-      "lyrics": "I choo-oo-oo-oo-oo / oo-oo / oo-oo-oo-oo / oo-oose you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I choo-oo-oo-oo-",
+          "overLyric": true
+        },
+        {
+          "chord": "Dadd9",
+          "lyric": "oo / oo-oo / oo-",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "oo-oo-oo / oo-oos",
+          "overLyric": true
+        },
+        {
+          "chord": "E/G♯",
+          "lyric": "e you",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[BRIDGE]"
     },
     {
-      "chord": "F♯m                       Dadd9",
-      "lyrics": "We are not perfect we’ll learn from our mistakes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F♯m",
+          "lyric": "We are not perfect we’ll l",
+          "overLyric": true
+        },
+        {
+          "chord": "Dadd9",
+          "lyric": "earn from our mistakes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       A                       E/G♯",
-      "lyrics": "And as long as it takes I will prove my love to you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And as ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "long as it takes I will ",
+          "overLyric": true
+        },
+        {
+          "chord": "E/G♯",
+          "lyric": "prove my love to you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F♯m                     Dadd9",
-      "lyrics": "I am not scared of the elements I am underprepared"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F♯m",
+          "lyric": "I am not scared of the e",
+          "overLyric": true
+        },
+        {
+          "chord": "Dadd9",
+          "lyric": "lements I am underprepared",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A",
-      "lyrics": "But I am willing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "But I am willing",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "And even better, I get to be the other half of you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "And even better, I get to be the other half of you",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[CHORUS]"
     },
     {
-      "chord": "A                      E/G♯                F♯m",
-      "lyrics": "Tell the world that we finally got it all right"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Tell the world that we ",
+          "overLyric": true
+        },
+        {
+          "chord": "E/G♯",
+          "lyric": "finally got it all r",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "ight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Dadd9  A             E",
-      "lyrics": "I choo-oo-oo-oo-oo-oose yoo-oo-oo-oo-ou, yeah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I choo-oo-oo-oo-",
+          "overLyric": true
+        },
+        {
+          "chord": "Dadd9",
+          "lyric": "oo-oose",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " yoo-oo-oo-oo-",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ou, yeah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A                   E/G♯                 F♯m",
-      "lyrics": "I will become yours and you will become mine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "I will become yours ",
+          "overLyric": true
+        },
+        {
+          "chord": "E/G♯",
+          "lyric": "and you will become m",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "ine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Dadd9  A             E",
-      "lyrics": "I choo-oo-oo-oo-oo-oose yoo-oo-oo-oo-ou"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I choo-oo-oo-oo-",
+          "overLyric": true
+        },
+        {
+          "chord": "Dadd9",
+          "lyric": "oo-oose",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " yoo-oo-oo-oo-",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ou",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Dadd9  A             E",
-      "lyrics": "I choo-oo-oo-oo-oo-oose yoo-oo-oo-oo-ou"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I choo-oo-oo-oo-",
+          "overLyric": true
+        },
+        {
+          "chord": "Dadd9",
+          "lyric": "oo-oose",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " yoo-oo-oo-oo-",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ou",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Dadd9           A                E",
-      "lyrics": "I choo-oo-oo-oo-oo / oo-oo / oo-oo-oo-oo / oo-oose you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I choo-oo-oo-oo-",
+          "overLyric": true
+        },
+        {
+          "chord": "Dadd9",
+          "lyric": "oo / oo-oo / oo-",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "oo-oo-oo / oo-oos",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "e you",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "I Choose You"

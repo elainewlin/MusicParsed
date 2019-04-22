@@ -15,159 +15,534 @@
       "label": "[VERSE]"
     },
     {
-      "chord": "F#m",
-      "lyrics": " In a few weeks I will get time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": " In a few weeks I will get time",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E6",
-      "lyrics": " To realise it's right before my eyes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E6",
+          "lyric": " To realise it's right before my eyes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m",
-      "lyrics": " And I can take it if it's"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": " And I can take it if it's",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dmaj7",
-      "lyrics": "What I want to"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dmaj7",
+          "lyric": "What I want to",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m             F#m7",
-      "lyrics": "do. I am leaving this is starting"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": "do. I am leaving",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m7",
+          "lyric": " this is starting",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E6",
-      "lyrics": " to feel like it's right before my eyes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E6",
+          "lyric": " to feel like it's right before my eyes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m",
-      "lyrics": " And I can taste it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": " And I can taste it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Dmaj7",
-      "lyrics": "It's my sweet beginning"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dmaj7",
+          "lyric": "sweet beginning",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[CHORUS]"
     },
     {
-      "chord": "F#m                    F#m7        A",
-      "lyrics": " And I can tell just what you want"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": " And I can tell just wh",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m7",
+          "lyric": "at you want ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                     Dmaj7",
-      "lyrics": "You don't want to be alone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You don't want to be ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dmaj7",
+          "lyric": "alone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     F#m7",
-      "lyrics": "You don't want to be alone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You don't want to be ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m7",
+          "lyric": "alone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m                     F#m7     A",
-      "lyrics": " And I can tell just what you know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": " And I can tell just wha",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m7",
+          "lyric": "t you kno",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "w",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                              Dmaj7",
-      "lyrics": "But you've known it the whole time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But you've known it the whole ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dmaj7",
+          "lyric": "time",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                F#m7",
-      "lyrics": "Yeah, you've known it the whole time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Yeah, you've known it the whole ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m7",
+          "lyric": "time",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[VERSE]"
     },
     {
-      "chord": "F#m",
-      "lyrics": " Maybe next year I'll have no time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": " Maybe next year I'll have no time",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E6                                  C#m",
-      "lyrics": " To think about the questions to address"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E6",
+          "lyric": " To think about the questions to add",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "ress",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m",
-      "lyrics": "Am I the one to try to"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "Am I the one to try to",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dmaj7",
-      "lyrics": "Stop the fire?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dmaj7",
+          "lyric": "Stop the fire?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m                  F#m7",
-      "lyrics": " I wouldn't test you I'm not the best you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": " I wouldn't test you ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m7",
+          "lyric": "I'm not the best you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E6                                C#m",
-      "lyrics": " Could have attained why try anything?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E6",
+          "lyric": " Could have attained why try anyth",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "ing?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " C#m",
-      "lyrics": "I will get there"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": " will get there",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Dmaj7",
-      "lyrics": "Just remember I know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Just r",
+          "overLyric": true
+        },
+        {
+          "chord": "Dmaj7",
+          "lyric": "emember I know",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[CHORUS]"
     },
     {
-      "chord": "F#m                     F#m7     A",
-      "lyrics": " And I can tell just what you want"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": " And I can tell just wha",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m7",
+          "lyric": "t you wan",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "t",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     Dmaj7",
-      "lyrics": "You don't want to be alone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You don't want to be ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dmaj7",
+          "lyric": "alone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     F#m7",
-      "lyrics": "You don't want to be alone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You don't want to be ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m7",
+          "lyric": "alone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m                     F#m7     A",
-      "lyrics": " And I can tell just what you know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": " And I can tell just wha",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m7",
+          "lyric": "t you kno",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "w",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                              Dmaj7",
-      "lyrics": "But you've known it the whole time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But you've known it the whole ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dmaj7",
+          "lyric": "time",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                F#m7",
-      "lyrics": "Yeah, you've known it the whole time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Yeah, you've known it the whole ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m7",
+          "lyric": "time",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[INTERLUDE]"
     },
     {
-      "chord": "F#m A Dmaj7 F#m7",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": " "
+        },
+        {
+          "chord": "A",
+          "lyric": " "
+        },
+        {
+          "chord": "Dmaj7",
+          "lyric": " "
+        },
+        {
+          "chord": "F#m7",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[CHORUS]"
     },
     {
-      "chord": "F#m                     F#m7     A",
-      "lyrics": " And I can tell just what you want"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": " And I can tell just wha",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m7",
+          "lyric": "t you wan",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "t",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     Dmaj7",
-      "lyrics": "You don't want to be alone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You don't want to be ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dmaj7",
+          "lyric": "alone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     F#m7",
-      "lyrics": "You don't want to be alone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You don't want to be ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m7",
+          "lyric": "alone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m                     F#m7     A",
-      "lyrics": " And I can tell just what you know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": " And I can tell just wha",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m7",
+          "lyric": "t you kno",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "w",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                              Dmaj7",
-      "lyrics": "But you've known it the whole time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But you've known it the whole ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dmaj7",
+          "lyric": "time",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                F#m7",
-      "lyrics": "Yeah, you've known it the whole time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Yeah, you've known it the whole ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m7",
+          "lyric": "time",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "What You Know"

@@ -16,211 +16,730 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "C",
-      "lyrics": "We were both young when I first saw you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "We were both young when I first saw you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  F",
-      "lyrics": "I close my eyes and the flashback starts"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "close my eyes and the flashback starts",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Am                    F",
-      "lyrics": "I'm standing there on a balcony of summer air"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm standing ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "there on a balcony of ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "summer air",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "See the lights, see the party, the ball gowns"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "See the lights, see the party, the ball gowns",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  F",
-      "lyrics": "I see you make your way through the crowd"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "see you make your way through the crowd",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Am",
-      "lyrics": "You say hello"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You say he",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "llo",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           G",
-      "lyrics": "Little did I know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Little did ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "I know",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "     F                        G",
-      "lyrics": "That you were Romeo, you were throwing pebbles"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "you were Romeo, you were ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "throwing pebbles",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Am                        C",
-      "lyrics": "And my daddy said stay away from Juliet"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "daddy said stay away from ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "Juliet",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          F",
-      "lyrics": "And I was crying on the staircase"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I was ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "crying on the staircase",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                        Am  F     G",
-      "lyrics": "Begging you please don't go, and I said"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Begging you please don't ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "go, ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "and I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "said",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "C",
-      "lyrics": "Romeo take me somewhere we can be alone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Romeo take me somewhere we can be alone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "I'll be waiting all there's left to do is run"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I'll be waiting all there's left to do is run",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "You'll be the prince and I'll be the princess"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "You'll be the prince and I'll be the princess",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                 G                 C",
-      "lyrics": "It's a love story baby just say yes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "It's a love story ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "baby just say yes ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "   C",
-      "lyrics": "So I sneak out to the garden to see you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I sneak out to the garden to see you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "We keep quiet 'cause we're dead if they knew"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "We keep quiet 'cause we're dead if they knew",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              Am",
-      "lyrics": "So close your eyes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So close your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "eyes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                       G",
-      "lyrics": "Escape this town for a little while"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Escape this town for a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "little while",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "       F                      G",
-      "lyrics": "'Cause you were Romeo I was a scarlet letter"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Cause ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "you were Romeo I was a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "scarlet letter",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Am                        C",
-      "lyrics": "and my daddy said stay away from Juliet"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "daddy said stay away from ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "Juliet",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             F",
-      "lyrics": "But you were everything to me I was"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But you were ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "everything to me I was",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                        Am  F   G",
-      "lyrics": "Begging you please don't go, and I said"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Begging you please don't ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "go, ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "and ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "I said",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "C",
-      "lyrics": "Romeo take me somewhere we can be alone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Romeo take me somewhere we can be alone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "I'll be waiting all there's left to do is run"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I'll be waiting all there's left to do is run",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "You'll be the prince and I'll be the princess"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "You'll be the prince and I'll be the princess",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                 G                 C",
-      "lyrics": "It's a love story baby just say yes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "It's a love story ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "baby just say yes ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "Romeo, save me, they try to tell me how to feel"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Romeo, save me, they try to tell me how to feel",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "This love is difficult, but it's real,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "This love is difficult, but it's real,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "Don't be afraid, we'll make it out of this mess"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Don't be afraid, we'll make it out of this mess",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                 G                 C",
-      "lyrics": "It's a love story baby just say yes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "It's a love story ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "baby just say yes ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Solo]"
     },
     {
-      "chord": "C  G  Am  F G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "                 Am     F               C                         G",
-      "lyrics": "I got tired of waiting,   wondering if you were ever coming around"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I got tired of wa",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "iting, ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " wondering if y"
+        },
+        {
+          "chord": "C",
+          "lyric": "ou were ever coming around",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                   Am      F",
-      "lyrics": "My faith in you was fading"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "My faith in you was",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " fading ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "       C                             G",
-      "lyrics": "When I met you on the outskirts of town and I said"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "met you on the outskirts of to",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "wn and I said",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "C",
-      "lyrics": "Romeo save me I've been feeling so alone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Romeo save me I've been feeling so alone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "I keep waiting for you but you never come"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I keep waiting for you but you never come",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am",
-      "lyrics": "Is this in my head, I don't know what to think"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Is t",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "his in my head, I don't know what to think",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   F                       G",
-      "lyrics": "He knelt to the ground and pulled out a ring and said"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "He ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "knelt to the ground and ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "pulled out a ring and said",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D",
-      "lyrics": "Marry me, Juliet you'll never have to be alone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Marry me, Juliet you'll never have to be alone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A",
-      "lyrics": "I love you, and that's all I really know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "I love you, and that's all I really know",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Bm",
-      "lyrics": "I talked to your dad, go pick out a white dress"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I t",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "alked to your dad, go pick out a white dress",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                 A          D",
-      "lyrics": "It's a love story baby just say yes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "It's a love story ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "baby just s",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ay yes",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Outro]"
     },
     {
-      "chord": "D  A      Bm",
-      "lyrics": "uh Oh, uh oh, yes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "uh ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "Oh, uh ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "oh, yes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                       D",
-      "lyrics": "We were both young when I first saw you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "We were both young when ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "I first saw you",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Love Story"

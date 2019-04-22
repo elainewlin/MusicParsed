@@ -15,110 +15,360 @@
       "label": "[Strumming pattern]"
     },
     {
-      "chord": "",
-      "lyrics": "BUSDUBSU"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "BUSDUBSU",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "12345678"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "12345678",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am G6 Dm G6",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " "
+        },
+        {
+          "chord": "G6",
+          "lyric": " "
+        },
+        {
+          "chord": "Dm",
+          "lyric": " "
+        },
+        {
+          "chord": "G6",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Feel Good Inc Chorus]"
     },
     {
-      "chord": "Am                 G6",
-      "lyrics": "Windmill, windmill for the land"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Windmill, windmill ",
+          "overLyric": true
+        },
+        {
+          "chord": "G6",
+          "lyric": "for the land",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm           G6",
-      "lyrics": "Turn forever hand in hand"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Turn forever ",
+          "overLyric": true
+        },
+        {
+          "chord": "G6",
+          "lyric": "hand in hand",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am             G6",
-      "lyrics": "Take it all in on your stride"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Take it all in ",
+          "overLyric": true
+        },
+        {
+          "chord": "G6",
+          "lyric": "on your stride",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm             G6",
-      "lyrics": "It is ticking, falling down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "It is ticking, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G6",
+          "lyric": "falling down",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am       G6",
-      "lyrics": "Forever, love has freely"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Forever, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G6",
+          "lyric": "love has freely",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm             G6",
-      "lyrics": "Turned forever you and me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Turned forever ",
+          "overLyric": true
+        },
+        {
+          "chord": "G6",
+          "lyric": "you and me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                 G6",
-      "lyrics": "Windmill, windmill for the land"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Windmill, windmill ",
+          "overLyric": true
+        },
+        {
+          "chord": "G6",
+          "lyric": "for the land",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm           G6  G6",
-      "lyrics": "Is everybody in?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Is everybody ",
+          "overLyric": true
+        },
+        {
+          "chord": "G6",
+          "lyric": "in? ",
+          "overLyric": true
+        },
+        {
+          "chord": "G6",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Feel Good Inc Verse]"
     },
     {
-      "chord": "                  Am",
-      "lyrics": "Laughin' gas these hazmats, fast cats"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Laughin' gas these",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " hazmats, fast cats",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G6",
-      "lyrics": "Linin' 'em up like ass cracks"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G6",
+          "lyric": "Linin' 'em up like ass cracks",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm",
-      "lyrics": "Play these ponies at the track"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Play these ponies at the track",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G6",
-      "lyrics": "It's my chocolate attack"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G6",
+          "lyric": "It's my chocolate attack",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "Steppin' in the heart of this here"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Steppin' in the heart of this here",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G6",
-      "lyrics": "Care Bear rappin' in harder this year"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G6",
+          "lyric": "Care Bear rappin' in harder this year",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm                       G6",
-      "lyrics": "Watch me as I gravitate, ha-ha-ha!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Watch me as I gravitate, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G6",
+          "lyric": "ha-ha-ha!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Am",
-      "lyrics": "Yo, we gon' ghost town this Motown"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Yo, we gon' ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ghost town this Motown",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     G6",
-      "lyrics": "With yo' sound, you in the blink"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "With ",
+          "overLyric": true
+        },
+        {
+          "chord": "G6",
+          "lyric": "yo' sound, you in the blink",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Dm",
-      "lyrics": "Gon' bite the dust, can't fight with us"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Gon' ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "bite the dust, can't fight with us",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     G6",
-      "lyrics": "With yo' sound, you kill the Inc."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "With ",
+          "overLyric": true
+        },
+        {
+          "chord": "G6",
+          "lyric": "yo' sound, you kill the Inc.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Am",
-      "lyrics": "So don't stop, get it, get it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "don't stop, get it, get it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G6",
-      "lyrics": "Until you're cheddar head"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G6",
+          "lyric": "Until you're cheddar head",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Dm                        G6",
-      "lyrics": "And watch the way I navigate, ha-ha-ha!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "watch the way I navigate, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G6",
+          "lyric": "ha-ha-ha!",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Feel Good Inc Chorus]"
@@ -127,227 +377,934 @@
       "label": "[Feel Good Inc Outro x2]"
     },
     {
-      "chord": "Am",
-      "lyrics": "So don't stop, get it, get it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "So don't stop, get it, get it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G6",
-      "lyrics": "Peep how your captain's in it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G6",
+          "lyric": "Peep how your captain's in it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm                         G6",
-      "lyrics": "Steady, watch me navigate, ha-ha-ha-ha"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Steady, watch me navigate, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G6",
+          "lyric": "ha-ha-ha-ha",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Strumming pattern]"
     },
     {
-      "chord": "",
-      "lyrics": "D DUSUBU U USUDU"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "D DUSUBU U USUDU",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "1 2 3 4 5 6 7 8"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "1 2 3 4 5 6 7 8",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[No Diggity Verse]"
     },
     {
-      "chord": "       Am        Dm",
-      "lyrics": "Shorty get down, good Lord"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Shorty ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "get down, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "good Lord",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                     E",
-      "lyrics": "Baby got 'em open all over town"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Baby got 'em open all ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "over town",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Am             Dm",
-      "lyrics": "Strictly biz, she don't play around"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Strictly ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "biz, she don't ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "play around",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      F                 E",
-      "lyrics": "Cover much grounds, got game by the pound"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cover ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "much grounds, got ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "game by the pound",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                  Dm",
-      "lyrics": "Getting paid is her forte"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Getting paid is her ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "forte",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         F               E",
-      "lyrics": "Each and every day, true player way"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Each and ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "every day, true ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "player way",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  Am                      Dm",
-      "lyrics": "I can't get her out of my mind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "can't get her out of my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "mind",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  F                            E",
-      "lyrics": "I think about the girl all the time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "think about the girl all the ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "time",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am               Dm",
-      "lyrics": "East side to the west side"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "East side to the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "west side",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        F                   E",
-      "lyrics": "Pushin' phat rides, it's no surprise"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Pushin' ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "phat rides, it's no ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "surprise",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                    Dm                     F",
-      "lyrics": "She got tricks in the stash, stacking up the cash"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "She got tricks in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "stash, stacking up the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "cash",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "Fast when it comes to the gas"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "Fast when it comes to the gas",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am          Dm",
-      "lyrics": "By no means average"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "By no means ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "average",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                          E",
-      "lyrics": "She's on when she's got to have it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "She's on when she's got to ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "have it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                     Dm               F",
-      "lyrics": "Baby, you're a perfect ten, I wanna get in"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Baby, you're a perfect ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ten, I wanna get ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "in",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          E             Am",
-      "lyrics": "Can I get down so I can win?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Can I get ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "down so I can ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "win?",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[No Diggity Chorus]"
     },
     {
-      "chord": "                   Dm",
-      "lyrics": "I like the way you work it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I like the way you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "work it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      F              E",
-      "lyrics": "Trump tight all day, every day"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Trump ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "tight all day, ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "every day",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am            Dm",
-      "lyrics": "Maybe in time I can get you,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Maybe in time ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "I can get you,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          F               E",
-      "lyrics": "I can get you in my ride"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I can get ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "you in my ride  ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am                 Dm",
-      "lyrics": "I like the way you work it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I like the way you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "work it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   F                 E",
-      "lyrics": "No diggity, I got to bag it up, na na"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "No ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "diggity, I got to ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "bag it up, na na",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                 Dm",
-      "lyrics": "I like the way you work it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I like the way you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "work it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F           E",
-      "lyrics": "No diggity"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "No diggity  ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[No Diggity Verse]"
     },
     {
-      "chord": "      Am        Dm",
-      "lyrics": "She's got class and style"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "She's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "got class ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "and style",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                       E",
-      "lyrics": "Street knowledge by the pound"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Street knowledge by the ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "pound",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Am       Dm     F               E",
-      "lyrics": "Baby never act wild, very low key on the profile"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Baby never a",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ct wild, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "very lo",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "w key on the pro",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "file",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                    Dm",
-      "lyrics": "Catchin' feelings is a no"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Catchin' feelings is a",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": " no",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       F            E",
-      "lyrics": "Let me tell you how it goes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Let me ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "tell you how ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "it goes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                      Dm",
-      "lyrics": "Herb's the word, spin's the verb"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Herb's the word, spin's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "the verb",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          F               E",
-      "lyrics": "Lovers it curves so freak what you heard"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Lovers it ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "curves so freak ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "what you heard",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Am       Dm",
-      "lyrics": "Rollin' with the phatness"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Rollin' ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "with the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "phatness",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                    E",
-      "lyrics": "You don't even know what the half is"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "You don't even know w",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "hat the half is",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Am           Dm",
-      "lyrics": "You gotta pay to play"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You gotta ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "pay to play  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "     F                E",
-      "lyrics": "Just for shorty, bang-bang, to look your way"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Just ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "for shorty, bang-",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "bang, to look your way",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am             Dm",
-      "lyrics": "I like the way you work it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I like the way ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "you work it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      F              E",
-      "lyrics": "Trump tight all day, every day"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Trump ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "tight all day, ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "every day",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am            Dm",
-      "lyrics": "Maybe in time I can get you,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Maybe in time ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "I can get you,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          F               E",
-      "lyrics": "I can get you in my ride"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I can get ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "you in my ride  ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am                 Dm",
-      "lyrics": "I like the way you work it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I like the way you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "work it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   F                 E",
-      "lyrics": "No diggity, I got to bag it up, na na"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "No ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "diggity, I got to ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "bag it up, na na",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                 Dm",
-      "lyrics": "I like the way you work it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I like the way you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "work it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F           E",
-      "lyrics": "No diggity"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "No diggity  ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[No Diggity Outro]"
     },
     {
-      "chord": "Am              Dm          F    E",
-      "lyrics": "Hey yo, hey yo, hey yo, hey yo (got to bag it)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Hey yo, hey yo, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "hey yo, hey ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "yo (g",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ot to bag it)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am              Dm          E",
-      "lyrics": "Hey yo, hey yo, hey yo, hey yo"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Hey yo, hey yo, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "hey yo, hey ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "yo",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am              Dm          F    E",
-      "lyrics": "Hey yo, hey yo, hey yo, hey yo (got to bag it)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Hey yo, hey yo, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "hey yo, hey ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "yo (g",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ot to bag it)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am              Dm          F    E            Am",
-      "lyrics": "Hey yo, hey yo, hey yo, hey yo (got to bag it up)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Hey yo, hey yo, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "hey yo, hey ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "yo (g",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ot to bag it ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "up)",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Feel Good Inc x No Diggity"

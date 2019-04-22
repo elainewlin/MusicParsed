@@ -15,249 +15,821 @@
       "label": "[Intro]"
     },
     {
-      "chord": "   Fsus2           Gsus4",
-      "lyrics": "An ode to my dead ED"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "An ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus2",
+          "lyric": "ode to my dead E",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": "D",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am                 C",
-      "lyrics": "How badly did you hurt me?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "How ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "badly did you hurt ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "me?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Fsus2    Gsus4",
-      "lyrics": "I spent over ten years"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I spent ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus2",
+          "lyric": "over ten ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": "years",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Am         C",
-      "lyrics": "With slight hunger and fears"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "With slight ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "hunger and ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "fears",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Fsus2        Gsus4 Am   C",
-      "lyrics": "That no one would ever  love me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus2",
+          "lyric": "no one would ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": "ever  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "love ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 1]"
     },
     {
-      "chord": "C",
-      "lyrics": "Do you know me?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Do you know me?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "What do you see?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "What do you see?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "A pretty girl"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "A pretty girl",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Happy as can be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Happy as can be",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "Warm smile so bright"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Warm smile so bright",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gsus4",
-      "lyrics": "Laughter so light"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gsus4",
+          "lyric": "Laughter so light",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "But you can’t see"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "But you can’t see",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fsus2              Fsus2 Fsus2",
-      "lyrics": "The internal fight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fsus2",
+          "lyric": "The internal fight ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus2",
+          "lyric": " "
+        },
+        {
+          "chord": "Fsus2",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "        Fsus2",
-      "lyrics": "Because I wear a mask"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Because ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus2",
+          "lyric": "I wear a mask",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Gsus4",
-      "lyrics": "It’s just a painted shell"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It’s just a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": "painted shell",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am",
-      "lyrics": "And no one knows that"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "no one knows that",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   C",
-      "lyrics": "It hurts like hell"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hurts like hell",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fsus2",
-      "lyrics": "I wear a mask"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fsus2",
+          "lyric": "I wear a mask",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Gsus4",
-      "lyrics": "It’s just a painted shell"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It’s just a",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": " painted shell",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am",
-      "lyrics": "And no one knows that"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "no one knows that",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   C",
-      "lyrics": "It hurts like hell"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hurts like hell",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fsus2 Gsus4 Am C C",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Fsus2",
+          "lyric": " "
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": " "
+        },
+        {
+          "chord": "Am",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "C",
-      "lyrics": "Try to leave home"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Try to leave home",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Exposed, alone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Exposed, alone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "Where do I go?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Where do I go?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Can’t find a new one"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Can’t find a new one",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "Paint chips and tears"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Paint chips and tears",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gsus4",
-      "lyrics": "A thin veneer"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gsus4",
+          "lyric": "A thin veneer",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "No place to go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "No place to go",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fsus2              Fsus2 Fsus2",
-      "lyrics": "Alone, I stay here"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fsus2",
+          "lyric": "Alone, I stay here ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus2",
+          "lyric": " "
+        },
+        {
+          "chord": "Fsus2",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Fsus2",
-      "lyrics": "Wearing a mask"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fsus2",
+          "lyric": "Wearing a mask",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Gsus4",
-      "lyrics": "It’s just a painted shell"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It’s just a",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": " painted shell",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am",
-      "lyrics": "And no one knows that"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "no one knows that",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   C",
-      "lyrics": "It hurts like hell"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hurts like hell",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fsus2",
-      "lyrics": "Wearing a mask"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fsus2",
+          "lyric": "Wearing a mask",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Gsus4",
-      "lyrics": "It’s just a painted shell"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It’s just a",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": " painted shell",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am",
-      "lyrics": "And no one knows that"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "no one knows that",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   C",
-      "lyrics": "It hurts like hell"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hurts like hell",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fsus2 Gsus4 Am C",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Fsus2",
+          "lyric": " "
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": " "
+        },
+        {
+          "chord": "Am",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "   Am",
-      "lyrics": "It sucked out my happiness and"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "sucked out my happiness and",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Stripped away my confidence"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Stripped away my confidence",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   C",
-      "lyrics": "It sucked out my happiness and"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "sucked out my happiness and",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Stripped away my confidence"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Stripped away my confidence",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 3]"
     },
     {
-      "chord": "C",
-      "lyrics": "But now it’s dead"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "But now it’s dead",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Yes, now it’s dead"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Yes, now it’s dead",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "I killed the monster"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I killed the monster",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F              F  F",
-      "lyrics": "All in my head"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "All in my head ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "         F",
-      "lyrics": "Now, the shell is my home"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Now, the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "shell is my home",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G",
-      "lyrics": "And I am alone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "I am alone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am",
-      "lyrics": "And no one knows that"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "no one knows that",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   C",
-      "lyrics": "It hurts like hell"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hurts like hell",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F G Am C",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "Am",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "         F",
-      "lyrics": "Yes, the shell is my home"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Yes, the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "shell is my home",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G",
-      "lyrics": "And I am alone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "I am alone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am",
-      "lyrics": "And no one knows that"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "no one knows that",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   C",
-      "lyrics": "It hurts like hell"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hurts like hell",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Painted Shell"

@@ -17,183 +17,792 @@
       "label": "[Intro]"
     },
     {
-      "chord": "Em7 D G C C C G D",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Em7",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Em7 D G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Em7",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse - Bradley]"
     },
     {
-      "chord": "Em7       D/F#      G",
-      "lyrics": "  Tell me something girl..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em7",
+          "lyric": "  Tell me ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "something ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "girl...",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                       C G    D",
-      "lyrics": "  Are you happy in this modern world?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " Are you happy in this "
+        },
+        {
+          "chord": "C",
+          "lyric": "mo",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "dern ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "world?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em7     D/F#     G",
-      "lyrics": "  Or do you need more?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em7",
+          "lyric": "  Or do ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "you need ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "more?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                                C   G     D",
-      "lyrics": "  Is there something else you’re searching for?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " Is there something else you’re "
+        },
+        {
+          "chord": "C",
+          "lyric": "sear",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ching ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "for?",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus - Bradley]"
     },
     {
-      "chord": "Em7 D/F# G",
-      "lyrics": "I’m fall-in'"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em7",
+          "lyric": "I’m ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "fall-",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "in'",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                         G       D",
-      "lyrics": "  In all the good times I find myself longin'"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " In all the good times I "
+        },
+        {
+          "chord": "G",
+          "lyric": "find mys",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "elf longin'",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em7 D/F# G",
-      "lyrics": "    for  change"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em7",
+          "lyric": " "
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "for  ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "change",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                        G       D",
-      "lyrics": "  And in the bad times I fear myself"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " And in the bad times I "
+        },
+        {
+          "chord": "G",
+          "lyric": "fear mys",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "elf",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em7 D/F# G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Em7",
+          "lyric": " "
+        },
+        {
+          "chord": "D/F#",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Em7 D/F# G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Em7",
+          "lyric": " "
+        },
+        {
+          "chord": "D/F#",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse - Lady Gaga]"
     },
     {
-      "chord": "Em7       D/F#      G",
-      "lyrics": "  Tell me something boy..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em7",
+          "lyric": "  Tell me ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "something ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "boy...",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                            C    G    D",
-      "lyrics": "  Aren’t you tired tryin' to fill that void"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " Aren’t you tired tryin' to "
+        },
+        {
+          "chord": "C",
+          "lyric": "fill ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "that ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "void",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em7     D/F#     G",
-      "lyrics": "  Or do you need more?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em7",
+          "lyric": "  Or do ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "you need ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "more?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                          C  G   D",
-      "lyrics": "  Ain’t it hard keeping it so hardcore"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " Ain’t it hard keeping it "
+        },
+        {
+          "chord": "C",
+          "lyric": "so ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "hard",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "core",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus - Lady Gaga]"
     },
     {
-      "chord": "Em7 D/F# G",
-      "lyrics": "I’m fall-in'"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em7",
+          "lyric": "I’m ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "fall-",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "in'",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                         G       D",
-      "lyrics": "  In all the good times I find myself longin'"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " In all the good times I "
+        },
+        {
+          "chord": "G",
+          "lyric": "find mys",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "elf longin'",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em7 D/F# G",
-      "lyrics": "    for  change"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em7",
+          "lyric": " "
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "for  ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "change",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                        G       D",
-      "lyrics": "  And in the bad times I fear myself"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " And in the bad times I "
+        },
+        {
+          "chord": "G",
+          "lyric": "fear mys",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "elf",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus - Lady Gaga]"
     },
     {
-      "chord": "Am                    D/F#",
-      "lyrics": "I’m off the deep end, watch as I dive in"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I’m off the deep end, ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "watch as I dive in",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G           D/F#     Em",
-      "lyrics": "I’ll never meet the ground"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I’ll never m",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "eet the g",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "round",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                         D/F#",
-      "lyrics": "Crash through the surface, where they can’t hurt us"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Crash through the surface, ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "where they can’t hurt us",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      G            D/F#    Em",
-      "lyrics": "We’re far from the shallow now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We’re ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "far from the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "shallow ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "now",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Both]"
     },
     {
-      "chord": "Am              D/F#",
-      "lyrics": "  In the sha-ha-sha-ha-low"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "  In the sha-ha-",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "sha-ha-low",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G         D             Em",
-      "lyrics": "  In the sha-ha-sha-la-la-la-low"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " In the s"
+        },
+        {
+          "chord": "D",
+          "lyric": "ha-ha-sha-la-l",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "a-la-low",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am              D/F#",
-      "lyrics": "  In the sha-ha-sha-ha-ha-low"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "  In the sha-ha-",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "sha-ha-ha-low",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G            D       Em",
-      "lyrics": "  We’re far from the shallow now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  We’re ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "far from the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "shallow ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "now",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge - Lady Gaga]"
     },
     {
-      "chord": "Bm   D  A   Em",
-      "lyrics": "Whoaaaa Whoaaaa"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Whoaa",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "aa ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "Whoa",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "aaa",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm    D    A",
-      "lyrics": "Whoaaaaaaaaaaaaaa"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Whoaaa",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "aaaaa",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "aaaaaa",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus - Lady Gaga]"
     },
     {
-      "chord": "Am                    D",
-      "lyrics": "I’m off the deep end, watch as I dive in"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I’m off the deep end, ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "watch as I dive in",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G           D        Em",
-      "lyrics": "I’ll never meet the ground"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I’ll never m",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "eet the g",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "round",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                         D",
-      "lyrics": "Crash through the surface, where they can’t hurt us"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Crash through the surface, ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "where they can’t hurt us",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      G            D       Em",
-      "lyrics": "We’re far from the shallow now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We’re ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "far from the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "shallow ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "now",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Both]"
     },
     {
-      "chord": "Am              D/F#",
-      "lyrics": "  In the sha-ha-sha-ha-low"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "  In the sha-ha-",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "sha-ha-low",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G         D             Em",
-      "lyrics": "  In the sha-ha-sha-la-la-la-low"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " In the s"
+        },
+        {
+          "chord": "D",
+          "lyric": "ha-ha-sha-la-l",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "a-la-low",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am              D/F#",
-      "lyrics": "  In the sha-ha-sha-ha-ha-low"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "  In the sha-ha-",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "sha-ha-ha-low",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G            D       Em",
-      "lyrics": "  We’re far from the shallow now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  We’re ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "far from the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "shallow ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "now",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Shallow"

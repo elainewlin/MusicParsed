@@ -12,165 +12,829 @@
       "label": "[Intro]"
     },
     {
-      "chord": "Dm G  C C Dm G  C C",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "Dm",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 1]"
     },
     {
-      "chord": "Dm       G                C",
-      "lyrics": "Sunday morning, rain is falling"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Sunday mo",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "rning, rain is fa",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "lling",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm           G             C",
-      "lyrics": "Steal some covers, share some skin"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Steal some co",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "vers, share so",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "me skin",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm           G               C",
-      "lyrics": "Clouds are shrouding us in moments unforgettable,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Clouds are sh",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "rouding us in mo",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ments unforgettable,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  Dm               G                 C",
-      "lyrics": "you twist to fit the mold that I am in"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "yo",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "u twist to fit th",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "e mold that I am i",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "n",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Dm                 G             C",
-      "lyrics": "But things just get so crazy, living life gets hard to do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "things just get so ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "crazy, living ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "life gets hard to do",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Dm             G                C",
-      "lyrics": "and I would gladly hit the road, get up and go if I knew"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and I would ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "gladly hit the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "road, get up and ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "go if I knew",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Dm               G               C",
-      "lyrics": "That someday it would lead me back to you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "someday it would ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "lead me back to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Dm               G               C",
-      "lyrics": "That someday it would lead me back to you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "someday it would ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "lead me back to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "            Dm  G C",
-      "lyrics": "That may be all I need"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That may be ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "all ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "need",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Dm  G C",
-      "lyrics": "In darkness she is all I see"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "In darkness she is ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "all ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "see",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Dm    G    C",
-      "lyrics": "Come and rest your bones with me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Come and rest your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "bones ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "with ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                       Dm",
-      "lyrics": "Driving slow on Sunday morning"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Driving slow on Sunday ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "morning",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      G             C",
-      "lyrics": "and I never want to leave"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "never want to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "leave",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "Dm        G                C",
-      "lyrics": "Fingers trace your every outline"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Fingers tr",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ace your every ou",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "tline",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm        G               C",
-      "lyrics": "Paint a picture with my hands"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Paint a pi",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "cture with my ha",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "nds",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm         G                   C",
-      "lyrics": "Back and forth, we sway like branches in a storm"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Back and fo",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "rth, we sway like br",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "anches in a storm",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Dm             G                C",
-      "lyrics": "Change the weather, still together when it ends"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Change the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "weather, still ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "together when it ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ends",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "            Dm  G C",
-      "lyrics": "That may be all I need"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That may be ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "all ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "need",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Dm  G C",
-      "lyrics": "In darkness she is all I see"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "In darkness she is ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "all ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "see",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Dm    G    C",
-      "lyrics": "Come and rest your bones with me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Come and rest your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "bones ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "with ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                       Dm",
-      "lyrics": "Driving slow on Sunday morning"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Driving slow on Sunday ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "morning",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      G             C",
-      "lyrics": "and I never want to leave"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "never want to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "leave",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Instrumental]"
     },
     {
-      "chord": "C Dm G  C C",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "Dm",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Dm G  C C",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Dm G  C C",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "    Dm                 G             C",
-      "lyrics": "But things just get so crazy, living life gets hard to do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "things just get so ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "crazy, living ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "life gets hard to do",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Dm               G                C",
-      "lyrics": "Sunday morning, rain is falling, and I'm calling out to you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Sunday ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "morning, rain is ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "falling, and I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "calling out to you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Dm            G                C",
-      "lyrics": "Singing someday it'll bring me back to you,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Singing ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "someday it'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "bring me back to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "you,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Dm           G                   C",
-      "lyrics": "find a way to bring myself back home to you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "find a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "way to bring ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "myself back home to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "            Dm  G C",
-      "lyrics": "That may be all I need"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That may be ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "all ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "need",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Dm  G C",
-      "lyrics": "In darkness she is all I see"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "In darkness she is ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "all ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "see",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Dm    G    C",
-      "lyrics": "Come and rest your bones with me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Come and rest your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "bones ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "with ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                       Dm",
-      "lyrics": "Driving slow on Sunday morning"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Driving slow on Sunday ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "morning",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      G             C",
-      "lyrics": "and I never want to leave"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "never want to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "leave",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Sunday Morning"

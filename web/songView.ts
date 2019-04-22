@@ -9,8 +9,7 @@ import {
   transposeAmountToFifths,
 } from "../lib/chord";
 import { renderAllChords } from "../lib/fingering";
-import { SongLine, SongData } from "../lib/song";
-import { renderLines } from "../lib/parser";
+import { RenderedLine, SongData, ChordLyricLine } from "../lib/song";
 import { loadWidgets, renderTranspose } from "./controller";
 import chordsTemplate from "../mustache/chords.mustache";
 import songTemplate from "../mustache/song.mustache";
@@ -31,7 +30,7 @@ interface SongView {
   setId(newId: string): void;
   getTranspose(): number;
   setTranspose(newTranspose: number): void;
-  getData(): { allChords: string[]; lines: SongLine[]; instrument: string };
+  getData(): { allChords: string[]; lines: RenderedLine[]; instrument: string };
 }
 
 export const songView: SongView = new ((function SongView(this: SongView) {
@@ -69,7 +68,7 @@ export const songView: SongView = new ((function SongView(this: SongView) {
     chordOption = newPreference;
   };
 
-  let lines: SongLine[] = [];
+  let lines: RenderedLine[] = [];
   let allChords: string[] = [];
   let overrideAllChords: string[] | undefined = [];
   let fullSongName = "";
@@ -99,11 +98,7 @@ export const songView: SongView = new ((function SongView(this: SongView) {
   this.setSong = function(data) {
     allChords = data["allChords"];
     overrideAllChords = data["overrideAllChords"];
-    let count = 0;
-    lines = data["lines"].map(line =>
-      "lyrics" in line ? Object.assign({ count: count++ }, line) : line
-    );
-
+    lines = data["lines"];
     setCapo(data["capo"]);
 
     fullSongName = data["fullName"];
@@ -132,7 +127,6 @@ export const songView: SongView = new ((function SongView(this: SongView) {
 
   this.getData = function() {
     const amount = transposeAmountToFifths(allChords, transpose);
-
     let processChord = (chord: string): string => transposeChord(chord, amount);
     const shouldSimplify = chordOption === "simple";
     if (shouldSimplify) {
@@ -146,12 +140,17 @@ export const songView: SongView = new ((function SongView(this: SongView) {
       dataAllChords = overrideAllChords;
     }
 
-    const dataLines = lines.slice().map(line => {
-      const newLine = { ...line };
-      if ("chord" in newLine) {
-        newLine["chord"] = newLine["chord"].replace(/\S+/g, processChord);
+    // Deep copy the object so we don't accidentally mutate lines :/
+    let dataLines = JSON.parse(JSON.stringify(lines));
+    dataLines = dataLines.map((line: ChordLyricLine) => {
+      if ("chordLyricPairs" in line) {
+        for (const pair of line.chordLyricPairs) {
+          if (pair.chord !== null) {
+            pair.chord = processChord(pair.chord);
+          }
+        }
       }
-      return newLine;
+      return line;
     });
 
     return {
@@ -198,7 +197,7 @@ export const rerender = function(): void {
   $("#title").text(fullName);
 
   document.getElementById("song")!.innerHTML = songTemplate({
-    lines: renderLines(data["lines"]),
+    lines: data["lines"],
   });
   renderTranspose();
   renderChords();

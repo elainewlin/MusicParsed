@@ -16,163 +16,682 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "G          D/F#",
-      "lyrics": "Summer has come and passed"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Summer has ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "come and passed",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Em           D",
-      "lyrics": "The innocent can never last"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "innocent can ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "never last",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C               Cm        G",
-      "lyrics": "Wake me up when September ends"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Wake me up when ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "September ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ends",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                D/F#",
-      "lyrics": "Like my fathers' come to pass"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Like my fathers' ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "come to pass",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em              D",
-      "lyrics": "Seven years has gone so fast"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Seven years has ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "gone so fast",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C               Cm        G    D/F#",
-      "lyrics": "Wake me up when September ends"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Wake me up when ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "September ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ends ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Em             Bm",
-      "lyrics": "Here comes the rain again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Here comes the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "rain again",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                G     D/F#",
-      "lyrics": "Falling from the stars"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Falling from the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "stars ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Em             Bm",
-      "lyrics": "Drenched in my pain again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Drenched in my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "pain again",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C               D",
-      "lyrics": "Becoming who we are"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Becoming who we ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "are",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G         D/F#",
-      "lyrics": "As my memory rests"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "As my memo",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "ry rests",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Em            D",
-      "lyrics": "But never forgets what I lost"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "never forgets ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "what I lost",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C               Cm        G",
-      "lyrics": "Wake me up when September ends"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Wake me up when ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "September ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ends",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "G          D/F#",
-      "lyrics": "Summer has come and passed"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Summer has ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "come and passed",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Em           D",
-      "lyrics": "The innocent can never last"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "innocent can ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "never last",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C               Cm        G",
-      "lyrics": "Wake me up when September ends"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Wake me up when ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "September ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ends",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G            D/F#",
-      "lyrics": "Ring out the bells again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Ring out the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "bells again",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em               D",
-      "lyrics": "Like we did when spring began"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Like we did when ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "spring began",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C               Cm        G    D/F#",
-      "lyrics": "Wake me up when September ends"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Wake me up when ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "September ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ends ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Em             Bm",
-      "lyrics": "Here comes the rain again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Here comes the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "rain again",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                G     D/F#",
-      "lyrics": "Falling from the stars"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Falling from the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "stars ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Em             Bm",
-      "lyrics": "Drenched in my pain again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Drenched in my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "pain again",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C               D",
-      "lyrics": "Becoming who we are"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Becoming who we ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "are",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G         D/F#",
-      "lyrics": "As my memory rests"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "As my memo",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "ry rests",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Em            D",
-      "lyrics": "But never forgets what I lost"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "never forgets ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "what I lost",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C          Cm             G    D/F#",
-      "lyrics": "Wake me up when September ends"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Wake me up ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "when September ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ends ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Solo]"
     },
     {
-      "chord": "Em  Bm  C  G  D/F#",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "  "
+        },
+        {
+          "chord": "Bm",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "D/F#",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Em  Bm  C  Dsus4  D  Dsus4  D",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "  "
+        },
+        {
+          "chord": "Bm",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "Dsus4",
+          "lyric": "  "
+        },
+        {
+          "chord": "D",
+          "lyric": "  "
+        },
+        {
+          "chord": "Dsus4",
+          "lyric": "  "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 3]"
     },
     {
-      "chord": "G          D/F#",
-      "lyrics": "Summer has come and passed"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Summer has ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "come and passed",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Em           D",
-      "lyrics": "The innocent can never last"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "innocent can ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "never last",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C               Cm        G",
-      "lyrics": "Wake me up when September ends"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Wake me up when ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "September ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ends",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                Bm",
-      "lyrics": "Like my father's come to pass"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Like my father's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "come to pass",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em               D",
-      "lyrics": "Twenty years has gone so fast"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Twenty years has ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "gone so fast",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C               Cm        G",
-      "lyrics": "Wake me up when September ends"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Wake me up when ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "September ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ends",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C               Cm        G",
-      "lyrics": "Wake me up when September ends"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Wake me up when ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "September ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ends",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C               Cm        G",
-      "lyrics": "Wake me up when September ends"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Wake me up when ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "September ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ends",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Wake Me Up When September Ends"

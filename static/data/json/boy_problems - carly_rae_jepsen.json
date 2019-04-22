@@ -14,197 +14,878 @@
       "label": "[Verse]"
     },
     {
-      "chord": "Bb                           F",
-      "lyrics": "If you're gonna go then go, she said to me on the phone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "If you're gonna go then go, s",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "he said to me on the phone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm                          C",
-      "lyrics": "So tired of hearin' all your boy problems"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "So tired of hearin' all your",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " boy problems",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb                              F",
-      "lyrics": "If you're gonna stay then stay, he's not gonna change anyway"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "If you're gonna stay then stay, ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "he's not gonna change anyway",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm                          C",
-      "lyrics": "So tired of hearin' all your boy problems"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "So tired of hearin' all your",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " boy problems",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre Chorus]"
     },
     {
-      "chord": "      Bb                             F",
-      "lyrics": "And I know that she's right, and I should not be offended"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "know that she's right, and I sh",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ould not be offended",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Dm                                  C",
-      "lyrics": "That I know what it looks like from the outside"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": " I know what it looks like from the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "outside",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Bb                             F",
-      "lyrics": "And I know that she's right, and I should not be offended"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "know that she's right, and I sh",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ould not be offended",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Dm                                  C",
-      "lyrics": "Yeah I know what it looks like, from the outside, from the outside"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Yeah ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "I know what it looks like, from the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "outside, from the outside",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Bb                F             Dm                 C",
-      "lyrics": "   Boy problems, who's got 'em? I've got 'em top"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": " Boy problems, w"
+        },
+        {
+          "chord": "F",
+          "lyric": "ho's got 'em? ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "I've got 'em top   ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Bb               F               Dm                     C",
-      "lyrics": "   Boy trouble, we've got double, don't know what to do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": " Boy trouble, w"
+        },
+        {
+          "chord": "F",
+          "lyric": "e've got double,",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": " don't know what to do ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                Bb                               F",
-      "lyrics": "I think I broke up with my boyfriend today, and I don't really care"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I think I broke ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "up with my boyfriend today, and I",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " don't really care",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Dm                 C",
-      "lyrics": "I've got worse problems, I broke up with my boyfriend"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've got",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": " worse problems, I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "broke up with my boyfriend",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Bb                               F",
-      "lyrics": "I think I broke up with my boyfriend today, and I don't really care"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I think I broke ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "up with my boyfriend today, and I",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " don't really care",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Dm                 C",
-      "lyrics": "I've got worse problems, I broke up with my boyfriend"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've got",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": " worse problems, I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "broke up with my boyfriend",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "Bb                      F",
-      "lyrics": "Finally gotta let it go, she said to me on the phone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "Finally gotta let it go,",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " she said to me on the phone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm                           C",
-      "lyrics": "So tired of hearin' all your boy problems"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "So tired of hearin' all your ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "boy problems",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb                           F",
-      "lyrics": "It could be the perfect day, you'll just make it rain anyway"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "It could be the perfect day, ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "you'll just make it rain anyway",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm                           C",
-      "lyrics": "So tired of hearin' all your boy problems"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "So tired of hearin' all your ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "boy problems",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre Chorus]"
     },
     {
-      "chord": "      Bb                             F",
-      "lyrics": "And I know that she's right, and I should not be offended"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "know that she's right, and I sh",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ould not be offended",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Dm                                  C",
-      "lyrics": "That I know what it looks like from the outside"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": " I know what it looks like from the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "outside",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Bb                             F",
-      "lyrics": "And I know that she's right, and I should not be offended"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "know that she's right, and I sh",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ould not be offended",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Dm                                  C",
-      "lyrics": "Yeah I know what it looks like, from the outside, from the outside"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Yeah ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "I know what it looks like, from the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "outside, from the outside",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Bb                F             Dm                 C",
-      "lyrics": "   Boy problems, who's got 'em? I've got 'em too"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": " Boy problems, w"
+        },
+        {
+          "chord": "F",
+          "lyric": "ho's got 'em? ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "I've got 'em too   ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Bb               F               Dm                     C",
-      "lyrics": "   Boy trouble, we've got double, don't know what to do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": " Boy trouble, w"
+        },
+        {
+          "chord": "F",
+          "lyric": "e've got double,",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": " don't know what to do ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                Bb                               F",
-      "lyrics": "I think I broke up with my boyfriend today, and I don't really care"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I think I broke ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "up with my boyfriend today, and I",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " don't really care",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Dm                 C",
-      "lyrics": "I've got worse problems, I broke up with my boyfriend"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've got",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": " worse problems, I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "broke up with my boyfriend",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Bb                               F",
-      "lyrics": "I think I broke up with my boyfriend today, and I don't really care"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I think I broke ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "up with my boyfriend today, and I",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " don't really care",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Dm                 C",
-      "lyrics": "I've got worse problems, I broke up with my boyfriend"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've got",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": " worse problems, I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "broke up with my boyfriend",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "       Am              Bb                    Dm            C",
-      "lyrics": "What's worse? Losin' a lover or losin' your best friend"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "What's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "worse? Losin' a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "lover or losin' your b",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "est friend    ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "       Am                    Bb                              Dm",
-      "lyrics": "What's worse is when you discover, you're not good for each other"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "What's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "worse is when you disc",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "over, you're not good for each o",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ther",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                               C",
-      "lyrics": "She's been giving, you've been taking"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "She's been giving, you've been ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "taking",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Bb                F             Dm                 C",
-      "lyrics": "   Boy problems, who's got 'em? I've got 'em too"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": " Boy problems, w"
+        },
+        {
+          "chord": "F",
+          "lyric": "ho's got 'em? ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "I've got 'em too   ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Bb               F               Dm                     C",
-      "lyrics": "   Boy trouble, we've got double, don't know what to do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": " Boy trouble, w"
+        },
+        {
+          "chord": "F",
+          "lyric": "e've got double,",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": " don't know what to do ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                Bb                               F",
-      "lyrics": "I think I broke up with my boyfriend today, and I don't really care"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I think I broke ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "up with my boyfriend today, and I",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " don't really care",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Dm                 C",
-      "lyrics": "I've got worse problems, I broke up with my boyfriend"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've got",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": " worse problems, I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "broke up with my boyfriend",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Bb                               F",
-      "lyrics": "I think I broke up with my boyfriend today, and I don't really care"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I think I broke ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "up with my boyfriend today, and I",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " don't really care",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Dm                 C",
-      "lyrics": "I've got worse problems, I broke up with my boyfriend"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've got",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": " worse problems, I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "broke up with my boyfriend",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb                F             Dm                 C",
-      "lyrics": "   Boy problems, who's got 'em? I've got 'em too"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": " Boy problems, w"
+        },
+        {
+          "chord": "F",
+          "lyric": "ho's got 'em? ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "I've got 'em too   ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Bb               F               Dm                     C",
-      "lyrics": "   Boy trouble, we've got double, don't know what to do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": " Boy trouble, w"
+        },
+        {
+          "chord": "F",
+          "lyric": "e've got double,",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": " don't know what to do ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                Bb                               F",
-      "lyrics": "I think I broke up with my boyfriend today, and I don't really care"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I think I broke ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "up with my boyfriend today, and I",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " don't really care",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Dm                 C",
-      "lyrics": "I've got worse problems, I broke up with my boyfriend"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've got",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": " worse problems, I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "broke up with my boyfriend",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Bb                               F",
-      "lyrics": "I think I broke up with my boyfriend today, and I don't really care"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I think I broke ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "up with my boyfriend today, and I",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " don't really care",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Dm                 C",
-      "lyrics": "I've got worse problems, I broke up with my boyfriend"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've got",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": " worse problems, I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "broke up with my boyfriend",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Boy Problems"

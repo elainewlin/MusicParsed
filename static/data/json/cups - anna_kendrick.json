@@ -10,84 +10,264 @@
   "id": "cups - anna_kendrick",
   "lines": [
     {
-      "chord": "C",
-      "lyrics": "I got my ticket for the long way ‘round"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I got my ticket for the long way ‘round",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                            C",
-      "lyrics": "Two bottle ‘a whiskey for the way"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Two bottle ‘a whiskey for the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "way",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                          Am",
-      "lyrics": "And I sure would like some sweet company"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "And I sure would like some ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "sweet company",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                                   C",
-      "lyrics": "And I’m leaving tomorrow, wha-do-ya say?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "And I’m leaving tomorrow, wha-do-ya ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "say?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "When I’m gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "When I’m gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "When I’m gone"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When I’m gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                             C",
-      "lyrics": "You’re gonna miss me when I’m gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "You’re gonna miss me when I’m ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "You’re gonna miss me by my hair"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "You’re gonna miss me by my hair",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "You’re gonna miss me everywhere, oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "You’re gonna miss me everywhere, oh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                             C",
-      "lyrics": "You’re gonna miss me when I’m gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "You’re gonna miss me when I’m ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "I’ve got my ticket for the long way ‘round"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I’ve got my ticket for the long way ‘round",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                            C",
-      "lyrics": "The one with the prettiest of views"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "The one with the prettiest of ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "views",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         F                   Am               C",
-      "lyrics": "It’s got mountains, it’s got rivers, it’s got sights to give you shivers"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It’s got ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "mountains, it’s got ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "rivers, it’s got ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "sights to give you shivers",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                                  C",
-      "lyrics": "But it sure would be prettier with you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "But it sure would be prettier with ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "When I’m gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "When I’m gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "When I’m gone"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When I’m gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                             C",
-      "lyrics": "You’re gonna miss me when I’m gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "You’re gonna miss me when I’m ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "You’re gonna miss me by my walk"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "You’re gonna miss me by my walk",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "You’re gonna miss me by my talk, oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "You’re gonna miss me by my talk, oh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                             C",
-      "lyrics": "You’re gonna miss me when I’m gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "You’re gonna miss me when I’m ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "gone",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Cups"

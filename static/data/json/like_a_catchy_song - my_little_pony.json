@@ -14,84 +14,392 @@
       "label": "[Verse]"
     },
     {
-      "chord": "      D             Em7",
-      "lyrics": "We're far apart, in every way"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We're ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "far apart, in ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": "every way",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G                    A",
-      "lyrics": "But you're the best part of my day"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "you're the best part ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "of my day",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    D          Em7",
-      "lyrics": "And sure as I, breathe the air"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "sure as I, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": "breathe the air",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                 A",
-      "lyrics": "I know we are the perfect pair"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I know we are the ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "perfect pair",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "     Em                G          D      A",
-      "lyrics": "On a prickly path that goes on for miles"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "On a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "prickly path that ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "goes on for",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " miles ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "         Em               G        D    A",
-      "lyrics": "But it's worth it just to see you smile"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "worth it just to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "see you s",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "mile ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    D            Em7",
-      "lyrics": "And I cannot, be pulled apart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "I cannot, be ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": "pulled apart",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                 A",
-      "lyrics": "From the hold you have on my heart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "From the hold you ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "have on my heart",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    D           Em7                 G",
-      "lyrics": "And even if the world tells us it's wrong"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "even if the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": "world tells us it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "wrong",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             A",
-      "lyrics": "You're in my head like a catchy song~"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're in my ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "head like a catchy song~",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "    D                   Em7",
-      "lyrics": "The seasons change, and leaves may fall"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "seasons change, and ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": "leaves may fall",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G                A",
-      "lyrics": "But I'll be with you through it all"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "I'll be with you ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "through it all",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    D              Em7              G    A",
-      "lyrics": "And rain or shine, you'll always be mine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "rain or shine, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": "you'll always be ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "mine ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "     Em                G          D      A",
-      "lyrics": "On a prickly path that goes on for miles"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "On a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "prickly path that ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "goes on for",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " miles ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "           Em           G                  D     A",
-      "lyrics": "You're the only one who makes them all worth while"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "only one who ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "makes them all wort",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "h whil",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Outro]"
     },
     {
-      "chord": "    D              Em7",
-      "lyrics": "And you should not blame me, too"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "you should not ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": "blame me, too",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   G                       A",
-      "lyrics": "If I can't help fallin' in love with you~"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "If ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "I can't help fallin' in ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "love with you~",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Like a Catchy Song"

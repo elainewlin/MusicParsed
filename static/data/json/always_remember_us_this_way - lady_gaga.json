@@ -14,170 +14,741 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "             Am                  F",
-      "lyrics": "That Arizona sky burning in your eyes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That Arizona ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "sky burning in your ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "eyes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C                                      G",
-      "lyrics": "You look at me and, babe, I wanna catch on fire"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "look at me and, babe, I wanna catch on ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "fire",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  Am                   F",
-      "lyrics": "It’s buried in my soul like California gold"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It’s buried in my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "soul like California ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "gold",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C                                     G",
-      "lyrics": "You found the light in me that I couldn’t find"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "found the light in me that I couldn’t ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "find",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "            F",
-      "lyrics": "So when I'm all choked up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So when I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "all choked up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     C",
-      "lyrics": "And I can't find the words"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I can't find the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "words",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Am",
-      "lyrics": "Every time we say goodbye"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Every ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "time we say goodbye",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         G",
-      "lyrics": "Baby, it hurts"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Baby, it ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "hurts",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         F   G    Am",
-      "lyrics": "When the sun goes down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "sun ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "goes ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "down",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        F    G     C",
-      "lyrics": "And the band won't play"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "band ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "won't ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "play",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     F       G               C",
-      "lyrics": "I'll always remember us this way"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "always r",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "emember us this ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "way",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "              Am",
-      "lyrics": "Lovers in the night"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Lovers in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "night",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                F",
-      "lyrics": "Poets trying to write"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Poets trying to ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "write",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   C",
-      "lyrics": "We don't know how to rhyme"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "don't know how to rhyme",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            G",
-      "lyrics": "But damn we try"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But damn we ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "try",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 Am",
-      "lyrics": "But all I really know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But all I really ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "know",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     F",
-      "lyrics": "You're where I wanna go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're where I wanna ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "go",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C                                G",
-      "lyrics": "The part of me that's you will never die"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "part of me that's you will never ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "die",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "            F",
-      "lyrics": "So when I'm all choked up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So when I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "all choked up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     C",
-      "lyrics": "And I can't find the words"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I can't find the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "words",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Am",
-      "lyrics": "Every time we say goodbye"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Every ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "time we say goodbye",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         G",
-      "lyrics": "Baby, it hurts"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Baby, it ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "hurts",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         F   G    Am",
-      "lyrics": "When the sun goes down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "sun ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "goes ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "down",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        F    G     C",
-      "lyrics": "And the band won't play"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "band ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "won't ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "play",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     F       G               Bb",
-      "lyrics": "I'll always remember us this way"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "always r",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "emember us this ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "way",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "",
-      "lyrics": "Oh, yeah"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh, yeah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                                     C Bb F G",
-      "lyrics": "I don't wanna be just a memory, baby, oooh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I don't wanna be just a memory, baby, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "oo",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "oh ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "            F",
-      "lyrics": "So when I'm all choked up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So when I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "all choked up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     C",
-      "lyrics": "And I can't find the words"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I can't find the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "words",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Am",
-      "lyrics": "Every time we say goodbye"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Every ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "time we say goodbye",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         G",
-      "lyrics": "Baby, it hurts"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Baby, it ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "hurts",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         F   G    Am",
-      "lyrics": "When the sun goes down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "sun ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "goes ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "down",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        F    G     C",
-      "lyrics": "And the band won't play"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "band ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "won't ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "play",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     F       G               Am",
-      "lyrics": "I'll always remember us this way"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "always r",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "emember us this ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "way",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Outro]"
     },
     {
-      "chord": "         F   G  Am",
-      "lyrics": "When you look at me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When you ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "look",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " at",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        F     G     C",
-      "lyrics": "And the whole world fades"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "whole ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "world ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "fades",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     F       G                  F  Bb F  C",
-      "lyrics": "I'll always remember us this way"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "always r",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "emember us this way",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "  "
+        },
+        {
+          "chord": "Bb",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "Always Remember Us This Way"

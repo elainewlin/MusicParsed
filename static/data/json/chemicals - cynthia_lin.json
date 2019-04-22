@@ -16,185 +16,466 @@
       "label": "[Intro x2]"
     },
     {
-      "chord": "Bm Gm7♭5 Bm7 Bm6",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": " "
+        },
+        {
+          "chord": "Gm7♭5",
+          "lyric": " "
+        },
+        {
+          "chord": "Bm7",
+          "lyric": " "
+        },
+        {
+          "chord": "Bm6",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Break x2]"
     },
     {
-      "chord": "Bm Gm7♭5 Bm7 Bm6",
-      "lyrics": "ba da ba ba ba ba da ba da"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "ba ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm7♭5",
+          "lyric": "da ba ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm7",
+          "lyric": "ba b",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm6",
+          "lyric": "a ba da ba da",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "",
-      "lyrics": "I woke up numb"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I woke up numb",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Just three years ago"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Just three years ago",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Thought my time had come"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Thought my time had come",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "My doctor said it wasn't so"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "My doctor said it wasn't so",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "so he gave me pills"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "so he gave me pills",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "to change the chemicals in my brain."
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "to change the chemicals in my brain.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "They made me feel alive."
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "They made me feel alive.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "They made me feel sane."
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "They made me feel sane.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "",
-      "lyrics": "I'm gonna change"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm gonna change",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "(the chemicals in my brain)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(the chemicals in my brain)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I'm gonna change"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm gonna change",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I'm gonna change"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm gonna change",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "(the chemicals in my brain)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(the chemicals in my brain)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I'm gonna change"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm gonna change",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Break]"
     },
     {
-      "chord": "",
-      "lyrics": "ba da ba ba ba ba da ba da"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "ba da ba ba ba ba da ba da",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "",
-      "lyrics": "I would try to eat"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I would try to eat",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "so I could feel complete"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "so I could feel complete",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "so I could feel anything"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "so I could feel anything",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "but that's no easy feat"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "but that's no easy feat",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I would try to kiss"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I would try to kiss",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "so I could feel bliss"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "so I could feel bliss",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "and everybody had a good time"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and everybody had a good time",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "but my abyss is bottomless"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "but my abyss is bottomless",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "",
-      "lyrics": "I'm gonna change"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm gonna change",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "(the chemicals in my brain)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(the chemicals in my brain)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I'm gonna change"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm gonna change",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I'm gonna change"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm gonna change",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "(the chemicals in my brain)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(the chemicals in my brain)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I'm gonna change"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm gonna change",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I'm gonna change"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm gonna change",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "(the chemicals in my brain)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(the chemicals in my brain)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I'm gonna rearrange"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm gonna rearrange",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "(the chemicals in my brain)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(the chemicals in my brain)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I'm gonna change"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm gonna change",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "G5 Em7 G5 F♯",
-      "lyrics": "I wanna feel something real"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G5",
+          "lyric": "I w",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": "anna",
+          "overLyric": true
+        },
+        {
+          "chord": "G5",
+          "lyric": " fe",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯",
+          "lyric": "el something real",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I'm gonna stick a needle in my vein"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm gonna stick a needle in my vein",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I'm gonna feel the pain"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm gonna feel the pain",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "slip away"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "slip away",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Chemicals"

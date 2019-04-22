@@ -13,180 +13,646 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "F                     Dm",
-      "lyrics": "There is not a single word"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "There is not a single ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "word",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             F",
-      "lyrics": "In the whole world"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "In the whole ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "world",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                        Dm",
-      "lyrics": "That could describe the hurt"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That could describe the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "hurt",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                       Bb",
-      "lyrics": "The dullest knife just sawing back and forth"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The dullest knife just ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "sawing back and forth",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    C",
-      "lyrics": "Ripping through the softest skin there ever was"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Ripping through the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "softest skin there ever was",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "                Bb",
-      "lyrics": "How were you to know?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "How were you to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "know?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                C",
-      "lyrics": "How were you to know?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "How were you to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "know?",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "    F                     Dm",
-      "lyrics": "And I, I hate to see your heart break"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "I, I hate to see your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "heart break",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Bb",
-      "lyrics": "I hate to see your eyes get darker as they close"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I hate to see your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "eyes get darker as they close",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C",
-      "lyrics": "But I've been there before"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I've been there before",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    F                     Dm",
-      "lyrics": "And I, I hate to see your heart break"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "I, I hate to see your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "heart break",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Bb",
-      "lyrics": "I hate to see your eyes get darker as they close"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I hate to see your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "eyes get darker as they close",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C",
-      "lyrics": "But I've been there before"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I've been there before",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "F                    Dm",
-      "lyrics": "Love happens all the time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Love happens all the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "time",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     F",
-      "lyrics": "To people who aren't kind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To people who aren't ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "kind",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Dm",
-      "lyrics": "And heroes who are blind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And heroes who are ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "blind",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  Bb",
-      "lyrics": "Expecting perfect scripted movie scenes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Expecting perfect ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "scripted movie scenes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     C",
-      "lyrics": "Who wants an awkward silence mystery?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Who wants an awkward ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "silence mystery?",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "                Bb",
-      "lyrics": "How were you to know?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "How were you to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "know?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                C",
-      "lyrics": "How were you to know?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "How were you to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "know?",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "    F                     Dm",
-      "lyrics": "And I, I hate to see your heart break"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "I, I hate to see your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "heart break",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Bb",
-      "lyrics": "I hate to see your eyes get darker as they close"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I hate to see your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "eyes get darker as they close",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C",
-      "lyrics": "But I've been there before"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I've been there before",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    F                     Dm",
-      "lyrics": "And I, I hate to see your heart break"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "I, I hate to see your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "heart break",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Bb",
-      "lyrics": "I hate to see your eyes get darker as they close"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I hate to see your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "eyes get darker as they close",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C                                Bb",
-      "lyrics": "But I've been there before"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I've been there before           ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "            Dm                 C                 Bb",
-      "lyrics": "For all the air that's in your lungs"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "For all the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "air that's in your ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "lungs             ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "            Dm             C",
-      "lyrics": "For all the joy that is to come"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "For all the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "joy that is to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "come",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                        Bb",
-      "lyrics": "For all the things that you're alive to feel"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "For all the things that ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "you're alive to feel",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    C",
-      "lyrics": "Just let the pain remind you hearts can heal"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Just let the pain re",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "mind you hearts can heal",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "                Bb",
-      "lyrics": "How were you to know?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "How were you to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "know?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                C",
-      "lyrics": "How were you to know?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "How were you to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "know?",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "    F                     Dm",
-      "lyrics": "And I, I hate to see your heart break"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "I, I hate to see your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "heart break",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Bb",
-      "lyrics": "I hate to see your eyes get darker as they close"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I hate to see your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "eyes get darker as they close",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C",
-      "lyrics": "But I've been there before"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I've been there before",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    F                     Dm",
-      "lyrics": "And I, I hate to see your heart break"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "I, I hate to see your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "heart break",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Bb",
-      "lyrics": "I hate to see your eyes get darker as they close"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I hate to see your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "eyes get darker as they close",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C",
-      "lyrics": "But I've been there before"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I've been there before",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Hate to See Your Heart Break"

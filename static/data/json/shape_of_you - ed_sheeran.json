@@ -13,344 +13,1497 @@
       "label": "[INTRO]"
     },
     {
-      "chord": "C#m F#m A  B",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": " "
+        },
+        {
+          "chord": "F#m",
+          "lyric": " "
+        },
+        {
+          "chord": "A",
+          "lyric": "  "
+        },
+        {
+          "chord": "B",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[VERSE]"
     },
     {
-      "chord": "C#m                      F#m                          A             B",
-      "lyrics": "The club isn't the best place to find a lover so the bar is where I go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "The club isn't the best p",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "lace to find a lover so the b",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ar is where I ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "go",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m                      F#m                          A                      B",
-      "lyrics": "Me and my friends at the table doing shots, drinking fast and then we talk slow"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "Me and my friends at the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "table doing shots, drinking f",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ast and then we talk sl",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "ow",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     C#m                        F#m                     A                        B",
-      "lyrics": "Come over and start up a conversation with just me and trust me I'll give it a chance now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Come ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "over and start up a convers",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "ation with just me and t",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "rust me I'll give it a ch",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "ance now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        C#m                     F#m                     A                B",
-      "lyrics": "Take my hand, stop! Put Van the man on the jukebox and then we start to dance and now I'm singing like"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Take my ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "hand, stop! Put Van the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "man on the jukebox and t",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "hen we start to d",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "ance and now I'm singing like",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[PRE-CHORUS]"
     },
     {
-      "chord": "C#m              F#m",
-      "lyrics": "Girl, you know I want your love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "Girl, you know I ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "want your love",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A                       B                C#m",
-      "lyrics": "Your love was handmade for somebody like me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Your love was handmade f",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "or somebody like ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             F#m",
-      "lyrics": "Come on now, follow my lead"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Come on now, ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "follow my lead",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A               B",
-      "lyrics": "I may be crazy, don't mind me, say"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "I may be crazy, ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "don't mind me, say",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m            F#m",
-      "lyrics": "Boy, let's not talk too much"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "Boy, let's not ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "talk too much",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A                    B                C#m",
-      "lyrics": "Grab on my waist and put that body on me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Grab on my waist and ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "put that body on ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             F#m",
-      "lyrics": "Come on now, follow my lead"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Come on now, ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "follow my lead",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  A",
-      "lyrics": "Come—come on now, follow my lead"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Co",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "me—come on now, follow my lead",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[CHORUS]"
     },
     {
-      "chord": "C#m      F#m                    A",
-      "lyrics": "  I'm in love with the shape of you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "  I'm in ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "love with the shape of ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               B                 C#m",
-      "lyrics": "  We push and pull like a magnet do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  We push and p",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "ull like a magnet ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "do",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              F#m              A",
-      "lyrics": "  Although my heart is falling too"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  Although my ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "heart is falling ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "too",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          B",
-      "lyrics": "  I'm in love with your body"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  I'm in l",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "ove with your body",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m         F#m                  A",
-      "lyrics": "  And last night you were in my room"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "  And last n",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "ight you were in my r",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "oom",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             B                    C#m",
-      "lyrics": "  And now my bedsheets smell like you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  And now my ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "bedsheets smell like ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    F#m                 A",
-      "lyrics": "  Every day discovering something brand new"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  Every day discover",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "ing something brand ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "new",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               B",
-      "lyrics": "  Well I'm in love with your body"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  Well I'm in l",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "ove with your body",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m F#m A            B",
-      "lyrics": "(Oh I)      I'm in love with your body"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "(Oh ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "I)  ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "   I'm in lo"
+        },
+        {
+          "chord": "B",
+          "lyric": "ve with your body",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m F#m A            B",
-      "lyrics": "(Oh I)      I'm in love with your body"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "(Oh ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "I)  ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "   I'm in lo"
+        },
+        {
+          "chord": "B",
+          "lyric": "ve with your body",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m F#m A            B",
-      "lyrics": "(Oh I)      I'm in love with your body"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "(Oh ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "I)  ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "   I'm in lo"
+        },
+        {
+          "chord": "B",
+          "lyric": "ve with your body",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m                 F#m                  A",
-      "lyrics": "  Every day discovering something brand new"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "  Every day discover",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "ing something brand n",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ew",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          B",
-      "lyrics": "  I'm in love with the shape of you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  I'm in l",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "ove with the shape of you",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[VERSE]"
     },
     {
-      "chord": "C#m                   F#m",
-      "lyrics": "One week in we let the story begin"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "One week in we let the",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": " story begin",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            A                B",
-      "lyrics": "We're going out on our first date"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We're going ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "out on our first ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "date",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            C#m                 F#m",
-      "lyrics": "But you and me are thrifty so go all you can eat"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But you and ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "me are thrifty so go",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": " all you can eat",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             A                   B",
-      "lyrics": "Fill up your bag and I fill up a plate"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Fill up your ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "bag and I fill up a ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "plate",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            C#m                       F#m",
-      "lyrics": "We talk for hours and hours about the sweet and the sour"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We talk for ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "hours and hours about the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "sweet and the sour",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             A                B",
-      "lyrics": "And how your family is doin' okay"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And how your ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "family is doin' o",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "kay",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              C#m               F#m",
-      "lyrics": "And leave and get in a taxi, we kiss in the backseat"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And leave and ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "get in a taxi, we ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "kiss in the backseat",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          A                     B",
-      "lyrics": "Tell the driver make the radio play, and I'm singing like"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Tell the d",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "river make the radio p",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "lay, and I'm singing like",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[PRE-CHORUS]"
     },
     {
-      "chord": "C#m              F#m",
-      "lyrics": "Girl, you know I want your love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "Girl, you know I ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "want your love",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A                       B                C#m",
-      "lyrics": "Your love was handmade for somebody like me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Your love was handmade f",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "or somebody like ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             F#m",
-      "lyrics": "Come on now, follow my lead"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Come on now, ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "follow my lead",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A               B",
-      "lyrics": "I may be crazy, don't mind me, say"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "I may be crazy, ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "don't mind me, say",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m            F#m",
-      "lyrics": "Boy, let's not talk too much"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "Boy, let's not ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "talk too much",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A                    B                C#m",
-      "lyrics": "Grab on my waist and put that body on me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Grab on my waist and ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "put that body on ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             F#m",
-      "lyrics": "Come on now, follow my lead"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Come on now, ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "follow my lead",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  A",
-      "lyrics": "Come—come on now, follow my lead"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Co",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "me—come on now, follow my lead",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[CHORUS]"
     },
     {
-      "chord": "C#m      F#m                    A",
-      "lyrics": "  I'm in love with the shape of you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "  I'm in ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "love with the shape of ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               B                 C#m",
-      "lyrics": "  We push and pull like a magnet do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  We push and p",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "ull like a magnet ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "do",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               F#m             A",
-      "lyrics": "  Although my heart is falling too"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  Although my h",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "eart is falling ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "too",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          B                 C#m",
-      "lyrics": "  I'm in love with your body"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  I'm in l",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "ove with your body",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "           F#m                  A",
-      "lyrics": "  And last night you were in my room"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  And last ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "night you were in my ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "room",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             B                    C#m",
-      "lyrics": "  And now my bedsheets smell like you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  And now my ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "bedsheets smell like ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    F#m                 A",
-      "lyrics": "  Every day discovering something brand new"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  Every day discover",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "ing something brand ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "new",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               B                 C#m",
-      "lyrics": "  Well I'm in love with your body"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  Well I'm in l",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "ove with your body",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C#m F#m A            B",
-      "lyrics": "(Oh I)      I'm in love with your body"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "(Oh ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "I)  ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "   I'm in lo"
+        },
+        {
+          "chord": "B",
+          "lyric": "ve with your body",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m F#m A            B",
-      "lyrics": "(Oh I)      I'm in love with your body"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "(Oh ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "I)  ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "   I'm in lo"
+        },
+        {
+          "chord": "B",
+          "lyric": "ve with your body",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m F#m A            B",
-      "lyrics": "(Oh I)      I'm in love with your body"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "(Oh ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "I)  ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "   I'm in lo"
+        },
+        {
+          "chord": "B",
+          "lyric": "ve with your body",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m                 F#m                  A",
-      "lyrics": "  Every day discovering something brand new"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "  Every day discover",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "ing something brand n",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ew",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          B",
-      "lyrics": "  I'm in love with the shape of you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  I'm in l",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "ove with the shape of you",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[BRIDGE]"
     },
     {
-      "chord": "C#m              F#m",
-      "lyrics": "  Come on, be my baby, come on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "  Come on, be my ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "baby, come on",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A                B",
-      "lyrics": "  Come on, be my baby, come on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": " Come on, be my "
+        },
+        {
+          "chord": "B",
+          "lyric": "baby, come on",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m              F#m",
-      "lyrics": "  Come on, be my baby, come on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "  Come on, be my ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "baby, come on",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A                B",
-      "lyrics": "  Come on, be my baby, come on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": " Come on, be my "
+        },
+        {
+          "chord": "B",
+          "lyric": "baby, come on",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m              F#m",
-      "lyrics": "  Come on, be my baby, come on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "  Come on, be my ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "baby, come on",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A                B",
-      "lyrics": "  Come on, be my baby, come on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": " Come on, be my "
+        },
+        {
+          "chord": "B",
+          "lyric": "baby, come on",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m              F#m",
-      "lyrics": "  Come on, be my baby, come on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "  Come on, be my ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "baby, come on",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A                B",
-      "lyrics": "  Come on, be my baby, come on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": " Come on, be my "
+        },
+        {
+          "chord": "B",
+          "lyric": "baby, come on",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[CHORUS]"
     },
     {
-      "chord": "C#m      F#m                    A",
-      "lyrics": "  I'm in love with the shape of you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "  I'm in ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "love with the shape of ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               B                 C#m",
-      "lyrics": "  We push and pull like a magnet do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  We push and p",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "ull like a magnet ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "do",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              F#m              A",
-      "lyrics": "  Although my heart is falling too"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  Although my ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "heart is falling ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "too",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          B                 C#m",
-      "lyrics": "  I'm in love with your body"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  I'm in l",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "ove with your body",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "           F#m                  A",
-      "lyrics": "  And last night you were in my room"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  And last ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "night you were in my ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "room",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             B                    C#m",
-      "lyrics": "  And now my bedsheets smell like you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  And now my ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "bedsheets smell like ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    F#m                 A",
-      "lyrics": "  Every day discovering something brand new"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  Every day discover",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "ing something brand ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "new",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               B                 C#m",
-      "lyrics": "  Well I'm in love with your body"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  Well I'm in l",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "ove with your body",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                 F#m",
-      "lyrics": "  Come on, be my baby, come on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  Come on, be my ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "baby, come on",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A                B",
-      "lyrics": "  Come on, be my baby, come on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": " Come on, be my "
+        },
+        {
+          "chord": "B",
+          "lyric": "baby, come on",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m              F#m",
-      "lyrics": "  Come on, be my baby, come on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "  Come on, be my ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "baby, come on",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A                B",
-      "lyrics": "  Come on, be my baby, come on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": " Come on, be my "
+        },
+        {
+          "chord": "B",
+          "lyric": "baby, come on",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m              F#m",
-      "lyrics": "  Come on, be my baby, come on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "  Come on, be my ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "baby, come on",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A                B",
-      "lyrics": "  Come on, be my baby, come on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": " Come on, be my "
+        },
+        {
+          "chord": "B",
+          "lyric": "baby, come on",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m                 F#m                  A",
-      "lyrics": "  Every day discovering something brand new"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "  Every day discover",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "ing something brand n",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ew",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          B                     C#m",
-      "lyrics": "  I'm in love with the shape of you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  I'm in l",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "ove with the shape of ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Shape Of You"

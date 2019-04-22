@@ -11,216 +11,906 @@
   "id": "hey_there_delilah - plain_white_ts",
   "lines": [
     {
-      "chord": "",
-      "lyrics": "Strum pattern: 1-(234)-1-(234)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Strum pattern: 1-(234)-1-(234)",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Intro]"
     },
     {
-      "chord": "D  F#m  D  F#m",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "  "
+        },
+        {
+          "chord": "F#m",
+          "lyric": "  "
+        },
+        {
+          "chord": "D",
+          "lyric": "  "
+        },
+        {
+          "chord": "F#m",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 1]"
     },
     {
-      "chord": "D                            F#m",
-      "lyrics": "Hey there Delilah, What's it like in New York City?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Hey there Delilah, What's it ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "like in New York City?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      D",
-      "lyrics": "I'm a thousand miles away,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "thousand miles away,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           F#m",
-      "lyrics": "But girl tonight you look so pretty,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But girl to",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "night you look so pretty,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Bm  G                 A                  Bm",
-      "lyrics": "Yes you do, Time Square can't shine as bright as you,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Yes you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "do, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "Time Square can't ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "shine as bright as ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "you,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             A",
-      "lyrics": "I swear it's true."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I swear it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "true.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                            F#m",
-      "lyrics": "Hey there Delilah, Don't you worry about the distance,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Hey there Delilah, Don't you ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "worry about the distance,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          D",
-      "lyrics": "I'm right there if you get lonely,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm right ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "there if you get lonely,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          F#m",
-      "lyrics": "Give this song another listen,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Give this ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "song another listen,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Bm    G            A                Bm",
-      "lyrics": "Close your eyes, Listen to my voice it's my disguise,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Close your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "eyes, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "Listen to my ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "voice it's my dis",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "guise,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            A",
-      "lyrics": "I'm by your side."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm by your ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "side.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "D                      Bm  D                      Bm",
-      "lyrics": "Oh it's what you do to me, Oh it's what you do to me,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Oh it's what you do to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "me, ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "Oh it's what you do to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "me,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                      Bm  D                      Bm",
-      "lyrics": "Oh it's what you do to me, Oh it's what you do to me,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Oh it's what you do to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "me, ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "Oh it's what you do to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "me,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               D",
-      "lyrics": "What you do to me."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "What you do to ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "me.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "D                         F#m",
-      "lyrics": "Hey there Delilah, I know times are getting hard,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Hey there Delilah, I know ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "times are getting hard,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           D",
-      "lyrics": "But just believe me girl some day,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But just be",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "lieve me girl some day,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             F#m",
-      "lyrics": "I'll pay the bills with this guitar,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll pay the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "bills with this guitar,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              Bm    G              A               Bm",
-      "lyrics": "We'll have it good, We'll have the life we knew we would,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We'll have it ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "good, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "We'll have the ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "life we knew we ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "would,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           A",
-      "lyrics": "My word is good."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "My word is ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "good.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                           F#m",
-      "lyrics": "Hey there Delilah, I've got so much left to say,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Hey there Delilah, I've got ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "so much left to say,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         D",
-      "lyrics": "If every simple song I wrote to you,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "If every ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "simple song I wrote to you,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      F#m",
-      "lyrics": "Would take your breath away,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Would ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "take your breath away,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Bm   G            A                  Bm",
-      "lyrics": "I'd write it all, Even more in love with me you'd fall,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'd write it ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "all, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "Even more in ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "love with me you'd ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "fall,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             A",
-      "lyrics": "We'd have it all."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We'd have it ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "all.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "D                      Bm  D                      Bm",
-      "lyrics": "Oh it's what you do to me, Oh it's what you do to me,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Oh it's what you do to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "me, ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "Oh it's what you do to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "me,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                      Bm  D                      Bm",
-      "lyrics": "Oh it's what you do to me, Oh it's what you do to me,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Oh it's what you do to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "me, ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "Oh it's what you do to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "me,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Strum pattern: 2-3-4-3-1-3-4-3"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Strum pattern: 2-3-4-3-1-3-4-3",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "G",
-      "lyrics": "A thousand miles seems pretty far,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "A thousand miles seems pretty far,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    A",
-      "lyrics": "But they've got planes and trains and cars,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "they've got planes and trains and cars,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                                 Bm",
-      "lyrics": "I'd walk to you if I had no other way"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "I'd walk to you if I had no other ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "way",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Our friends would all make fun of us,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Our friends would all make fun of us,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    A",
-      "lyrics": "And we'll just laugh along because,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "we'll just laugh along because,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   D                                     Bm",
-      "lyrics": "We know that none of them have felt this way,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "know that none of them have felt this ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "way,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Delilah I can promise you,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Delilah I can promise you,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     A",
-      "lyrics": "That by the time that we get through,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "by the time that we get through,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Bm                                               A",
-      "lyrics": "The world will never ever be the same, And you're to blame."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "world will never ever be the same, And you're to ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "blame.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 3]"
     },
     {
-      "chord": "D                        F#m",
-      "lyrics": "Hey there Delilah you be good, And don't you miss me,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Hey there Delilah you be ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "good, And don't you miss me,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         D",
-      "lyrics": "Two more years and you'll be done with school,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Two more ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "years and you'll be done with school,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    F#m",
-      "lyrics": "And I'll be making history,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "I'll be making history,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Bm  G                A              Bm",
-      "lyrics": "Like I do, You'll know it's all because of you,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Like I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "do, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "You'll know it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "all because of ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "you,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G             A            Bm",
-      "lyrics": "We can do whatever we want to,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "We can do what",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ever we want ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "to,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G           A               Bm                  A",
-      "lyrics": "Hey there Delilah here's to you, This one's for you."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Hey there De",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "lilah here's to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "you, This one's for ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "you.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Final Chorus]"
     },
     {
-      "chord": "D                      Bm  D                      Bm",
-      "lyrics": "Oh it's what you do to me, Oh it's what you do to me,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Oh it's what you do to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "me, ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "Oh it's what you do to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "me,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                      Bm  D                      Bm",
-      "lyrics": "Oh it's what you do to me, Oh it's what you do to me,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Oh it's what you do to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "me, ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "Oh it's what you do to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "me,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               D",
-      "lyrics": "What you do to me."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "What you do to ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "me.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Bm   D    Bm    D    Bm   D    Bm   D D",
-      "lyrics": "Ohhh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Ohh",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "h    ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "    "
+        },
+        {
+          "chord": "Bm",
+          "lyric": "    "
+        },
+        {
+          "chord": "D",
+          "lyric": "    "
+        },
+        {
+          "chord": "Bm",
+          "lyric": "   "
+        },
+        {
+          "chord": "D",
+          "lyric": "    "
+        },
+        {
+          "chord": "Bm",
+          "lyric": "   "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "Hey There Delilah"

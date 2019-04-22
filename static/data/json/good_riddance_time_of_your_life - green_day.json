@@ -14,158 +14,697 @@
       "label": "[Intro]"
     },
     {
-      "chord": "G G Cadd9 D",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "Cadd9",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G G Cadd9 D",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "Cadd9",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 1]"
     },
     {
-      "chord": "G                       C                 D",
-      "lyrics": "Another turning point a fork stuck in the road,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Another turning point a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "fork stuck in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "road,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                                C                   D",
-      "lyrics": "Time grabs you by the wrist, and directs you where to go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Time grabs you by the wrist, and ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "directs you where to",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " go",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em          D            C                 G",
-      "lyrics": "So make the best of this test and don't ask why"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "So make the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "best of this ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "test and don't ask",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " why",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em         D              C                 G",
-      "lyrics": "It's not a question but a lesson learned in time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "It's not a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "question but a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "lesson learned in ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "time",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Em                    G           Em           G",
-      "lyrics": "It's something unpredictable but in the end it's right"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "It's something unpredi",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ctable but i",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "n the end it'",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "s right",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                 D            G",
-      "lyrics": "I hope you had the time of your life."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "I hope you had the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "time of your ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "life.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Interlude]"
     },
     {
-      "chord": "G G C D",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G G C D",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "G                             C                    D",
-      "lyrics": "So take the photographs and still frames in your mind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "So take the photographs and st",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ill frames in your mi",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "nd",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                         C                    D",
-      "lyrics": "Hang it on a shelf and in good health and good time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Hang it on a shelf and in ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "good health and good ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "time",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em          D             C            G",
-      "lyrics": "Tattoos of memories and dead skin on trial"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Tattoos of m",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "emories and de",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ad skin on tr",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ial",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em            D            C             G",
-      "lyrics": "For what it's worth it was worth all the while"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "For what it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "worth it was ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "worth all the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "while",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Em                    G           Em           G",
-      "lyrics": "It's something unpredictable but in the end it's right"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "It's something unpredi",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ctable but i",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "n the end it'",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "s right",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                 D            G",
-      "lyrics": "I hope you had the time of your life."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "I hope you had the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "time of your ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "life.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Instrumental]"
     },
     {
-      "chord": "G G C D",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G G C D",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G G C D",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G G C D",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Em  D  C  G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "  "
+        },
+        {
+          "chord": "D",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Em  D  C  G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "  "
+        },
+        {
+          "chord": "D",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Em                    G           Em           G",
-      "lyrics": "It's something unpredictable but in the end it's right"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "It's something unpredi",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ctable but i",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "n the end it'",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "s right",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                 D            G",
-      "lyrics": "I hope you had the time of your life."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "I hope you had the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "time of your ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "life.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Interlude]"
     },
     {
-      "chord": "G G C D",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G G C D",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Em                    G           Em           G",
-      "lyrics": "It's something unpredictable but in the end it's right"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "It's something unpredi",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ctable but i",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "n the end it'",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "s right",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                 D            G",
-      "lyrics": "I hope you had the time of your life."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "I hope you had the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "time of your ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "life.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Ending]"
     },
     {
-      "chord": "G G Cadd9 D",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "Cadd9",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G G Cadd9 D",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "Cadd9",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "Good Riddance Time Of Your Life"

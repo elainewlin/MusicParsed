@@ -16,96 +16,537 @@
   "id": "totoro - studio_ghibli",
   "lines": [
     {
-      "chord": "C          G    G7         Am",
-      "lyrics": "To to ro totoro to to ro totoro"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "To to ro to",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "toro ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "to to ro to",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "toro",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C      G  Am    Em",
-      "lyrics": "Dareka ga kossori"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Dareka ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ga ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "kossor",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "i",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F          F         Dm7      G",
-      "lyrics": "Komichi ni ko no mi uzumete"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Komichi ni ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ko no mi u",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "zumete   ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C        G  Am   Em",
-      "lyrics": "Chiisana me haetara"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Chiisana ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "me ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "haeta",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ra",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F            Fm",
-      "lyrics": "himitsu no ango"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "himitsu no an",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "go",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Am        Am7",
-      "lyrics": "Mori e no pasupooto"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Mori e ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "no pasupoo",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "to",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm7      D            G",
-      "lyrics": "Sutekina bouken hajimaru"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm7",
+          "lyric": "Sutekina ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "bouken hajima",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ru",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          C          G    G7         Am",
-      "lyrics": "Tonari no to to ro totoro to to ro totoro"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Tonari no ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "to to ro to",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "toro ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "to to ro to",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "toro",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F       Am7       Dm7             G",
-      "lyrics": "Mori no naka ni mukashi kara sunderu"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Mori no ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "naka ni mu",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "kashi kara sunde",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ru",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          C          G    G7         Am",
-      "lyrics": "Tonari no to to ro totoro to to ro totoro"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Tonari no ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "to to ro to",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "toro ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "to to ro to",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "toro",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F              Am7      Dm7            G",
-      "lyrics": "Kodomo no toki ni dake anata ni otozureru"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Kodomo no toki ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "ni dake a",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "nata ni otozure",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ru",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             C",
-      "lyrics": "Fushigina deai"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Fushigina dea",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "i",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C    G   Am   Em",
-      "lyrics": "Ame furi basu tei"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Ame f",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "uri ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "basu ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "tei",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F        F        Dm7   G",
-      "lyrics": "Zubunure obake ga itara"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Zubunure ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "obake ga ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "itara ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C     G  Am    Em",
-      "lyrics": "Anata no amagasa"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Anata ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "no ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "amagas",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "a",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F            Fm",
-      "lyrics": "saxxxxe agemasho"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "saxxxxe agema",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "sho",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Am        Am7",
-      "lyrics": "Mori e no pasupooto"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Mori e ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "no pasupoo",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "to",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm7      D           G",
-      "lyrics": "Mahou no tobira akimasu"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm7",
+          "lyric": "Mahou no ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "tobira akima",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "su",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          C          G    G7         Am",
-      "lyrics": "Tonari no to to ro totoro to to ro totoro"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Tonari no ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "to to ro to",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "toro ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "to to ro to",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "toro",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F       Am7       Dm7          G",
-      "lyrics": "Tsukiyo no ban ni okarina fuiteru"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Tsukiyo ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "no ban ni ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "okarina fuite",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ru",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          C          G    G7         Am",
-      "lyrics": "Tonari no to to ro totoro to to ro totoro"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Tonari no ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "to to ro to",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "toro ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "to to ro to",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "toro",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F            Am7    Dm7             G",
-      "lyrics": "Moshimo aeta nara sutekina shiawase ga"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Moshimo aeta ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "nara su",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "tekina shiawase ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ga",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              C",
-      "lyrics": "Anata ni kuru wa"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Anata ni kuru ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "wa",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Totoro"

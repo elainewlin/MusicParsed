@@ -13,225 +13,950 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "Am              G                C",
-      "lyrics": "I was scared of dentists and the dark,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I was scared of ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "dentists and the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "dark,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am              G                C",
-      "lyrics": "I was scared of pretty girls and starting conversations,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I was scared of ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "pretty girls and ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "starting conversations,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am     G                   C",
-      "lyrics": "Oh, all my friends are turning green,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "all my ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "friends are turning ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "green,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Am         G                 C",
-      "lyrics": "You're the magician's assistant in their dreams."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "magician's ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "assistant in their",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " dreams.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "Am   G    C",
-      "lyrics": "Ooh, ooh, ooh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Ooh, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ooh, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ooh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am G          C",
-      "lyrics": "Ooh, and they come unstuck"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Ooh",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ", and they ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "come unstuck",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Am    G                   C",
-      "lyrics": "Lady, running down to the riptide,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Lady, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "running down to the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "riptide,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                 Am",
-      "lyrics": "Taken away to the dark side,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Taken away to the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "dark side,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G               C",
-      "lyrics": "I wanna be your left hand man."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I wanna be your ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "left hand man.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  Am       G                        C",
-      "lyrics": "I love you when you're singing that song and,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "love you ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "when you're singing that ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "song and,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                  Am",
-      "lyrics": "I got a lump in my throat 'cause"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I got a lump in my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "throat 'cause",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                           C",
-      "lyrics": "You're gonna sing the words wrong"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "You're gonna sing the words ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "wrong",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "Am                 G                   C",
-      "lyrics": "There's this movie that I think you'll like,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "There's this movie ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "that I think you'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "like,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Am             G                C",
-      "lyrics": "This guy decides to quit his job and heads to New York City,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "This ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "guy decides to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "quit his job and ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "heads to New York City,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Am       G               C",
-      "lyrics": "This cowboy's running from himself."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "This ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "cowboy's ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "running from him",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "self.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am                G              C",
-      "lyrics": "And she's been living on the highest shelf"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "she's been living ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "on the highest ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "shelf",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "Am   G    C",
-      "lyrics": "Ooh, ooh, ooh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Ooh, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ooh, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ooh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am G          C",
-      "lyrics": "Ooh, and they come unstuck"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Ooh",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ", and they ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "come unstuck",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Am    G                   C",
-      "lyrics": "Lady, running down to the riptide,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Lady, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "running down to the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "riptide,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                 Am",
-      "lyrics": "Taken away to the dark side,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Taken away to the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "dark side,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G               C",
-      "lyrics": "I wanna be your left hand man."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I wanna be your ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "left hand man.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  Am       G                        C",
-      "lyrics": "I love you when you're singing that song and,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "love you ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "when you're singing that ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "song and,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                  Am",
-      "lyrics": "I got a lump in my throat 'cause"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I got a lump in my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "throat 'cause",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                           C",
-      "lyrics": "You're gonna sing the words wrong"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "You're gonna sing the words ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "wrong",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Interlude]"
     },
     {
-      "chord": "Am                         G",
-      "lyrics": "I just wanna, I just wanna know,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I just wanna, I just wanna ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "know,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                               F",
-      "lyrics": "If you're gonna, if you're gonna stay,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "If you're gonna, if you're gonna",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " stay,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                         G",
-      "lyrics": "I just gotta, I just gotta know,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I just gotta, I just gotta ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "know,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                                F",
-      "lyrics": "I can't have it, I can't have it any other way"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I can't have it, I can't have it ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "any other way",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  Am          G                C",
-      "lyrics": "I swear she's destined for the screen,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "swear she's ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "destined for the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "screen,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am               G                 C",
-      "lyrics": "Closest thing to Michelle Pfeiffer that you've ever seen, oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Closest thing to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "Michelle Pfeiffer ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "that you've ever seen, oh",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Am    G                   C",
-      "lyrics": "Lady, running down to the riptide,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Lady, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "running down to the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "riptide,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                 Am",
-      "lyrics": "Taken away to the dark side,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Taken away to the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "dark side,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G               C",
-      "lyrics": "I wanna be your left hand man."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I wanna be your ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "left hand man.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  Am       G                        C",
-      "lyrics": "I love you when you're singing that song and,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "love you ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "when you're singing that ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "song and,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                  Am",
-      "lyrics": "I got a lump in my throat 'cause"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I got a lump in my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "throat 'cause",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                           C",
-      "lyrics": "You're gonna sing the words wrong"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "You're gonna sing the words ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "wrong",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am    G                   C",
-      "lyrics": "Lady, running down to the riptide,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Lady, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "running down to the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "riptide,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                 Am",
-      "lyrics": "Taken away to the dark side,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Taken away to the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "dark side,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G               C",
-      "lyrics": "I wanna be your left hand man."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I wanna be your ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "left hand man.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  Am       G                        C",
-      "lyrics": "I love you when you're singing that song and,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "love you ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "when you're singing that ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "song and,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                  Am",
-      "lyrics": "I got a lump in my throat 'cause"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I got a lump in my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "throat 'cause",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                           C",
-      "lyrics": "You're gonna sing the words wrong"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "You're gonna sing the words ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "wrong",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am    G                   C",
-      "lyrics": "Lady, running down to the riptide,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Lady, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "running down to the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "riptide,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                 Am",
-      "lyrics": "Taken away to the dark side,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Taken away to the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "dark side,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G               C",
-      "lyrics": "I wanna be your left hand man."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I wanna be your ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "left hand man.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  Am       G                        C",
-      "lyrics": "I love you when you're singing that song and,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "love you ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "when you're singing that ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "song and,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                  Am",
-      "lyrics": "I got a lump in my throat 'cause"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I got a lump in my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "throat 'cause",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                           C",
-      "lyrics": "You're gonna sing the words wrong"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "You're gonna sing the words ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "wrong",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                  Am",
-      "lyrics": "I got a lump in my throat 'cause"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I got a lump in my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "throat 'cause",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                           C",
-      "lyrics": "You're gonna sing the words wrong"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "You're gonna sing the words ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "wrong",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Riptide"

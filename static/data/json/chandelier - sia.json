@@ -14,201 +14,720 @@
       "label": "[Verse]"
     },
     {
-      "chord": "Am",
-      "lyrics": "Party girls don't get hurt"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Party girls don't get hurt",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Can't feel anything, when will I learn"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Can't feel anything, when will I learn",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                        Em",
-      "lyrics": "I push it down, push it do--own"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I push it down, push it d",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "o--own",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "I'm the one \"for a good time call\""
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I'm the one \"for a good time call\"",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        F",
-      "lyrics": "Phone's blowin' up, they're ringin' my doorbell"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Phone's ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "blowin' up, they're ringin' my doorbell",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  G                        Em",
-      "lyrics": "I feel the love, feel the lo--ove"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "feel the love, feel the l",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "o--ove",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "F",
-      "lyrics": "One, two, three, one, two, three drink"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "One, two, three, one, two, three drink",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "One, two, three, one, two, three drink"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "One, two, three, one, two, three drink",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "One, two, three, one, two, three drink"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "One, two, three, one, two, three drink",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Throw em back, till I lose count"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Throw em back, till I lose count",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "F         G              C                    F",
-      "lyrics": "I'm gonna swing from the chandelier, from the chandelier"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I'm gonna ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "swing from the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "chandelier, from the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "chandelier",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F         G                  C                      F",
-      "lyrics": "I'm gonna live like tomorrow doesn't exist, like it doesn't exist"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I'm gonna ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "live like tomorrow ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "doesn't exist, like it ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "doesn't exist",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F         G          C                               F",
-      "lyrics": "I'm gonna fly like a bird through the night, feel my tears as they dry"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I'm gonna ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "fly like a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "bird through the night, feel my ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "tears as they dry",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F         G              C                    F",
-      "lyrics": "I'm gonna swing from the chandelier, from the chandelier"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I'm gonna ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "swing from the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "chandelier, from the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "chandelier",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "                F                                       G",
-      "lyrics": "And I'm holding on for dear life, won't look down won't open my eyes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I'm holding ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "on for dear life, won't look down won't ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "open my eyes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     C                                          F",
-      "lyrics": "Keep my glass full until morning light, 'cause I'm just holding on for tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Keep my glass full un",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "til morning light, 'cause I'm just holding ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "on for tonight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     F                                       G",
-      "lyrics": "Help me, I'm holding on for dear life, won't look down won't open my eyes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Help me, I'm holding ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "on for dear life, won't look down won't ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "open my eyes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     C                                          F",
-      "lyrics": "Keep my glass full until morning light, 'cause I'm just holding on for tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Keep my glass full un",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "til morning light, 'cause I'm just holding ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "on for tonight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "On for tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "On for tonight",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "Am",
-      "lyrics": "Sun is up, I'm a mess"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Sun is up, I'm a mess",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      F",
-      "lyrics": "Gotta get out now, gotta run from this"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Gotta ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "get out now, gotta run from this",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     G                                 Em",
-      "lyrics": "Here comes the shame, here comes the sha--ame"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Here ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "comes the shame, here comes the sh",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "a--ame",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "F",
-      "lyrics": "One, two, three, one, two, three drink"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "One, two, three, one, two, three drink",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "One, two, three, one, two, three drink"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "One, two, three, one, two, three drink",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "One, two, three, one, two, three drink"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "One, two, three, one, two, three drink",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Throw em back, till I lose count"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Throw em back, till I lose count",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "F         G              C                    F",
-      "lyrics": "I'm gonna swing from the chandelier, from the chandelier"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I'm gonna ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "swing from the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "chandelier, from the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "chandelier",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F         G                  C                      F",
-      "lyrics": "I'm gonna live like tomorrow doesn't exist, like it doesn't exist"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I'm gonna ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "live like tomorrow ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "doesn't exist, like it ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "doesn't exist",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F         G          C                               F",
-      "lyrics": "I'm gonna fly like a bird through the night, feel my tears as they dry"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I'm gonna ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "fly like a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "bird through the night, feel my ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "tears as they dry",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F         G              C                    F",
-      "lyrics": "I'm gonna swing from the chandelier, from the chandelier"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I'm gonna ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "swing from the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "chandelier, from the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "chandelier",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "                F                                       G",
-      "lyrics": "And I'm holding on for dear life, won't look down won't open my eyes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I'm holding ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "on for dear life, won't look down won't ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "open my eyes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     C                                          F",
-      "lyrics": "Keep my glass full until morning light, 'cause I'm just holding on for tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Keep my glass full un",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "til morning light, 'cause I'm just holding ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "on for tonight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     F                                       G",
-      "lyrics": "Help me, I'm holding on for dear life, won't look down won't open my eyes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Help me, I'm holding ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "on for dear life, won't look down won't ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "open my eyes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     C                                          F",
-      "lyrics": "Keep my glass full until morning light, 'cause I'm just holding on for tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Keep my glass full un",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "til morning light, 'cause I'm just holding ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "on for tonight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "On for tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "On for tonight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "On for tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "On for tonight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                    G",
-      "lyrics": "Yes I'm just holdin' on for tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Yes I'm just holdin' ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "on for tonight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    C",
-      "lyrics": "Oh I'm just holdin' on for tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh I'm just holdin' ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "on for tonight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "On for tonight"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "On for tonight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "On for tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "On for tonight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    F",
-      "lyrics": "Yes I'm just holdin' on for tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Yes I'm just holdin'",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " on for tonight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    C",
-      "lyrics": "Oh I'm just holdin' on for tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh I'm just holdin' ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "on for tonight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "On for tonight"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "On for tonight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "On for tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "On for tonight",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Chandelier"

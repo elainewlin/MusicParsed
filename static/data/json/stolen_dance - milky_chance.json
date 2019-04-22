@@ -11,300 +11,1051 @@
   "id": "stolen_dance - milky_chance",
   "lines": [
     {
-      "chord": "",
-      "lyrics": "MusicalMylow's version"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "MusicalMylow's version",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Transpose +3 for original"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Transpose +3 for original",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Intro]"
     },
     {
-      "chord": "Fm        Eb      Db",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm",
+          "lyric": "        "
+        },
+        {
+          "chord": "Eb",
+          "lyric": "      "
+        },
+        {
+          "chord": "Db",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "Fm        Eb      Db",
-      "lyrics": "I want you by my side"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm",
+          "lyric": "I want you",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": " by my s",
+          "overLyric": true
+        },
+        {
+          "chord": "Db",
+          "lyric": "ide",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ab                    C7",
-      "lyrics": "So that I never feel alone again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "So that I never feel a",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "lone again",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fm            Eb      Db",
-      "lyrics": "They've always been so kind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm",
+          "lyric": "They've always",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": " been so",
+          "overLyric": true
+        },
+        {
+          "chord": "Db",
+          "lyric": " kind",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ab                           C7",
-      "lyrics": "But now they've brought you away from here"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "But now they've brought you a",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "way from here",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fm          Eb             Db",
-      "lyrics": "I hope they didn't get your mind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm",
+          "lyric": "I hope they ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "didn't get your",
+          "overLyric": true
+        },
+        {
+          "chord": "Db",
+          "lyric": " mind",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ab                        C7",
-      "lyrics": "Your heart is too strong anyway"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "Your heart is too strong a",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "nyway",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fm        Eb             Db",
-      "lyrics": "We need to fetch back the time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm",
+          "lyric": "We need to",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": " fetch back the",
+          "overLyric": true
+        },
+        {
+          "chord": "Db",
+          "lyric": " time",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ab                     C7",
-      "lyrics": "They have stolen from us"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "They have stolen from u",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "s",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Db",
-      "lyrics": "And I want you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Db",
+          "lyric": "And I want you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ab",
-      "lyrics": "We can bring it on the floor"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "We can bring it on the floor",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             C7              Fm",
-      "lyrics": "You've never danced like this before"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You've never ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "danced like this",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": " before",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Eb",
-      "lyrics": "But we don't talk about it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But we don't ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "talk about it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Db                  Ab",
-      "lyrics": "Dancin on doin the boogie all night long"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Db",
+          "lyric": "Dancin on doin the b",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "oogie all night long",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C7          Fm",
-      "lyrics": "Stoned in paradise"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C7",
+          "lyric": "Stoned in pa",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "radise",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb",
-      "lyrics": "Shouldn't talk about it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "Shouldn't talk about it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Db",
-      "lyrics": "And I want you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Db",
+          "lyric": "And I want you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ab",
-      "lyrics": "We can bring it on the floor"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "We can bring it on the floor",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             C7              Fm",
-      "lyrics": "You've never danced like this before"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You've never ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "danced like this",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": " before",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Eb",
-      "lyrics": "But we don't talk about it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But we don't ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "talk about it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Db                  Ab",
-      "lyrics": "Dancin on doin the boogie all night long"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Db",
+          "lyric": "Dancin on doin the b",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "oogie all night long",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C7          Fm",
-      "lyrics": "Stoned in paradise"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C7",
+          "lyric": "Stoned in pa",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "radise",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Shouldn't talk about it"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Shouldn't talk about it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Shouldn't talk about it"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Shouldn't talk about it",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "Fm Eb",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm",
+          "lyric": " "
+        },
+        {
+          "chord": "Eb",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Fm Eb Db Ab C7",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm",
+          "lyric": " "
+        },
+        {
+          "chord": "Eb",
+          "lyric": " "
+        },
+        {
+          "chord": "Db",
+          "lyric": " "
+        },
+        {
+          "chord": "Ab",
+          "lyric": " "
+        },
+        {
+          "chord": "C7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Fm Eb Db Ab C7",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm",
+          "lyric": " "
+        },
+        {
+          "chord": "Eb",
+          "lyric": " "
+        },
+        {
+          "chord": "Db",
+          "lyric": " "
+        },
+        {
+          "chord": "Ab",
+          "lyric": " "
+        },
+        {
+          "chord": "C7",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "Fm        Eb      Db",
-      "lyrics": "Coldest winter for me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm",
+          "lyric": "Coldest wi",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "nter for",
+          "overLyric": true
+        },
+        {
+          "chord": "Db",
+          "lyric": " me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ab                 C7",
-      "lyrics": "No sun is shining anymore"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "No sun is shining a",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "nymore",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fm        Eb      Db",
-      "lyrics": "The only thing I feel is pain"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm",
+          "lyric": "The only t",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "hing I f",
+          "overLyric": true
+        },
+        {
+          "chord": "Db",
+          "lyric": "eel is pain",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ab                 C7",
-      "lyrics": "Caused by absence of you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "Caused by absence o",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "f you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fm        Eb      Db",
-      "lyrics": "Suspence is controlling my mind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm",
+          "lyric": "Suspence i",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "s contro",
+          "overLyric": true
+        },
+        {
+          "chord": "Db",
+          "lyric": "lling my mind",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ab                 C7",
-      "lyrics": "I cannot find the way out of here"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "I cannot find the w",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "ay out of here",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fm        Eb      Db",
-      "lyrics": "I want you by my side"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm",
+          "lyric": "I want you",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": " by my s",
+          "overLyric": true
+        },
+        {
+          "chord": "Db",
+          "lyric": "ide",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ab                    C7",
-      "lyrics": "So that i never feel alone again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "So that i never feel a",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "lone again",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Db",
-      "lyrics": "And I want you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Db",
+          "lyric": "And I want you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ab",
-      "lyrics": "We can bring it on the floor"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "We can bring it on the floor",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             C7              Fm",
-      "lyrics": "You've never danced like this before"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You've never ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "danced like this",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": " before",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Eb",
-      "lyrics": "But we don't talk about it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But we don't ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "talk about it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Db                  Ab",
-      "lyrics": "Dancin on doin the boogie all night long"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Db",
+          "lyric": "Dancin on doin the b",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "oogie all night long",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C7          Fm",
-      "lyrics": "Stoned in paradise"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C7",
+          "lyric": "Stoned in pa",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "radise",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb",
-      "lyrics": "Shouldn't talk about it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "Shouldn't talk about it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Db",
-      "lyrics": "And I want you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Db",
+          "lyric": "And I want you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ab",
-      "lyrics": "We can bring it on the floor"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "We can bring it on the floor",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             C7              Fm",
-      "lyrics": "You've never danced like this before"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You've never ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "danced like this",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": " before",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Eb",
-      "lyrics": "But we don't talk about it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But we don't ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "talk about it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Db                  Ab",
-      "lyrics": "Dancin on doin the boogie all night long"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Db",
+          "lyric": "Dancin on doin the b",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "oogie all night long",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C7          Fm",
-      "lyrics": "Stoned in paradise"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C7",
+          "lyric": "Stoned in pa",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "radise",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Shouldn't talk about it"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Shouldn't talk about it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Shouldn't talk about it"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Shouldn't talk about it",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "Fm Eb",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm",
+          "lyric": " "
+        },
+        {
+          "chord": "Eb",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Fm Eb Db Ab C7",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm",
+          "lyric": " "
+        },
+        {
+          "chord": "Eb",
+          "lyric": " "
+        },
+        {
+          "chord": "Db",
+          "lyric": " "
+        },
+        {
+          "chord": "Ab",
+          "lyric": " "
+        },
+        {
+          "chord": "C7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Fm Eb Db Ab C7",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm",
+          "lyric": " "
+        },
+        {
+          "chord": "Eb",
+          "lyric": " "
+        },
+        {
+          "chord": "Db",
+          "lyric": " "
+        },
+        {
+          "chord": "Ab",
+          "lyric": " "
+        },
+        {
+          "chord": "C7",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Db",
-      "lyrics": "And I want you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Db",
+          "lyric": "And I want you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ab",
-      "lyrics": "We can bring it on the floor"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "We can bring it on the floor",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             C7              Fm",
-      "lyrics": "You've never danced like this before"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You've never ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "danced like this",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": " before",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Eb",
-      "lyrics": "But we don't talk about it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But we don't ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "talk about it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Db                  Ab",
-      "lyrics": "Dancin on doin the boogie all night long"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Db",
+          "lyric": "Dancin on doin the b",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "oogie all night long",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C7          Fm",
-      "lyrics": "Stoned in paradise"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C7",
+          "lyric": "Stoned in pa",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "radise",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb",
-      "lyrics": "Shouldn't talk about it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "Shouldn't talk about it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Db",
-      "lyrics": "And I want you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Db",
+          "lyric": "And I want you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ab",
-      "lyrics": "We can bring it on the floor"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "We can bring it on the floor",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             C7              Fm",
-      "lyrics": "You've never danced like this before"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You've never ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "danced like this",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": " before",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Eb",
-      "lyrics": "But we don't talk about it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But we don't ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "talk about it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Db                  Ab",
-      "lyrics": "Dancin on doin the boogie all night long"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Db",
+          "lyric": "Dancin on doin the b",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "oogie all night long",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C7          Fm",
-      "lyrics": "Stoned in paradise"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C7",
+          "lyric": "Stoned in pa",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "radise",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Stolen Dance"

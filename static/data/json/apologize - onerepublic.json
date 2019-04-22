@@ -13,113 +13,578 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "        Am",
-      "lyrics": "I'm holding on your rope,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm hold",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ing on your rope,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        F               C       G",
-      "lyrics": "Got me ten feet off the ground"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Got me t",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "en feet off the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ground  ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "        Am                         F                 C         G",
-      "lyrics": "And I'm hearing what you say but I just can't make a sound"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "hearing what you say but I ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "just can't make a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "sound     ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "       Am",
-      "lyrics": "You tell me that you need me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You tel",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "l me that you need me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                       C          G",
-      "lyrics": "Then you go and cut me down, but wait"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Then you go and cut me d",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "own, but wa",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "You tell me that you're sorry"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "You tell me that you're sorry",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                       C           G",
-      "lyrics": "Didn't think I'd turn around, and say..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Didn't think I'd turn ar",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ound, and sa",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "y...",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "          Am                  F       C           G",
-      "lyrics": "that it's too late to apologize, it's too late"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "that it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "too late to apologiz",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "e, it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "too late    ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "            Am                 F        C         G",
-      "lyrics": "I said it's too late to apologize, it's too late"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I said it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "too late to apologi",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ze, it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "too late  ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "Am                              F",
-      "lyrics": "I'd take another chance, take a fall"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I'd take another chance, take a ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "fall",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                C       G",
-      "lyrics": "Take a shot for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Take a shot for ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "you     ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "      Am                            F",
-      "lyrics": "And I need you like a heart needs a beat"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "need you like a heart needs a ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "beat",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 C           G",
-      "lyrics": "But it's nothing new - yeah yeah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But it's nothing ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "new - yeah y",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "eah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  Am                      F",
-      "lyrics": "I loved you with the fire red-"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "loved you with the fire ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "red-",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                C               G",
-      "lyrics": "Now it's turning blue, and you say..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Now it's turning",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " blue, and you s",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ay...",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                      F                      C",
-      "lyrics": "\"Sorry\" like the angel heaven let me think was you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "\"Sorry\" like the angel h",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "eaven let me think was ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G",
-      "lyrics": "But I'm afraid..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "I'm afraid...",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Am                  F       C           G",
-      "lyrics": "that it's too late to apologize, it's too late"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "that it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "too late to apologiz",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "e, it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "too late    ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "            Am                  F       C          G",
-      "lyrics": "I said it's too late to apologize, it's too late"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I said it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "too late to apologiz",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "e, it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "too late   ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "   Am  F     C       G",
-      "lyrics": "whoaa ohhh..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "who",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "aa o",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "hhh...",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "       "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "          Am                  F       C          G",
-      "lyrics": "that it's too late to apologize, it's too late"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "that it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "too late to apologiz",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "e, it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "too late   ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "            Am                 F        C         G",
-      "lyrics": "I said it's too late to apologize, it's too late"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I said it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "too late to apologi",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ze, it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "too late  ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "            Am                 F        C     G",
-      "lyrics": "I said it's too late to apologize, yeah-"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I said it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "too late to apologi",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ze, yeah-",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "     "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "            Am                  F       C     G",
-      "lyrics": "I said it's too late to apologize, yeah-"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I said it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "too late to apologiz",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "e, yeah-",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "     "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    Am                           F                   C",
-      "lyrics": "I'm holding on your rope, got me ten feet... off the ground..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "holding on your rope, got me ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ten feet... off the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ground...",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Apologize"

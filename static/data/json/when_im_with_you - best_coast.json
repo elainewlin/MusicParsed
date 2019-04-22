@@ -13,50 +13,185 @@
       "label": "[Intro]"
     },
     {
-      "chord": "     G        Em",
-      "lyrics": "The world is lazy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The w",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "orld is l",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "azy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     G",
-      "lyrics": "but you and me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "but y",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ou and me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Em",
-      "lyrics": "we're just crazy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "we're just c",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "razy",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "                Cmaj7        D",
-      "lyrics": "So when I'm with you, I have fun"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So when I'm with",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": " you, I have ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "fun",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  Cmaj7         D",
-      "lyrics": "Yeah when I'm with you I have fun"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Yeah when I'm with",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": " you I have fu",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "n",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  Cmaj7         D",
-      "lyrics": "Yeah when I'm with you I have fun"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Yeah when I'm with",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": " you I have fu",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "n",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  Cmaj7         G",
-      "lyrics": "Yeah when I'm with you I have fun"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Yeah when I'm with",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": " you I have fu",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "n",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "G                    Em",
-      "lyrics": "Ever since I was a little girl"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Ever since I was a li",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ttle girl",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G",
-      "lyrics": "My mama always told me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "My m",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ama always told me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Em",
-      "lyrics": "there'd be boys like you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "there'd be b",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "oys like you",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Instrumental]"
@@ -65,39 +200,187 @@
       "label": "[Chorus]"
     },
     {
-      "chord": "                Cmaj7        D",
-      "lyrics": "So when I'm with you, I have fun"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So when I'm with",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": " you, I have ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "fun",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  Cmaj7         D",
-      "lyrics": "Yeah when I'm with you I have fun"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Yeah when I'm with",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": " you I have fu",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "n",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  Cmaj7         D",
-      "lyrics": "Yeah when I'm with you I have fun"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Yeah when I'm with",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": " you I have fu",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "n",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  Cmaj7         G",
-      "lyrics": "Yeah when I'm with you I have fun"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Yeah when I'm with",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": " you I have fu",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "n",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Outro]"
     },
     {
-      "chord": "G         Em     G  Em",
-      "lyrics": "I hate sleeping alone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I hate sle",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "eping a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "lon",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G         Em     G  Em",
-      "lyrics": "I hate sleeping alone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I hate sle",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "eping a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "lon",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G         Em     G  Em",
-      "lyrics": "I hate sleeping alone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I hate sle",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "eping a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "lon",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G         Em     G  Em",
-      "lyrics": "I hate sleeping alone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I hate sle",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "eping a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "lon",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "When I'm With You"

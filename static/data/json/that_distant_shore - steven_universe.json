@@ -22,77 +22,273 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "Dmaj7",
-      "lyrics": "It all became so lovely"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dmaj7",
+          "lyric": "It all became so lovely",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em",
-      "lyrics": "Those bluest skies above me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Those bluest skies above me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm                         D/F#       Fmaj7",
-      "lyrics": "Those funny feelings I had never felt before I met you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Those funny feelings I had ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "never felt ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7",
+          "lyric": "before I met you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dmaj7",
-      "lyrics": "I thought I'd stay a while"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dmaj7",
+          "lyric": "I thought I'd stay a while",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em7",
-      "lyrics": "I tried to learn to smile"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em7",
+          "lyric": "I tried to learn to smile",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm7                  D/F#       B7",
-      "lyrics": "So many colors I had never even known"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm7",
+          "lyric": "So many colors I had ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "never even ",
+          "overLyric": true
+        },
+        {
+          "chord": "B7",
+          "lyric": "known",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Refrain 1]"
     },
     {
-      "chord": "Em          A                  F#m             Fdim",
-      "lyrics": "Maybe I'll find myself sitting on that distant shore"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Maybe I'll f",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ind myself sitting ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "on that distant ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fdim",
+          "lyric": "shore",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em        Gm  A D",
-      "lyrics": "Maybe I'm not alone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Maybe I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "not ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "al",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "one",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "Bb",
-      "lyrics": "Then I see the colors fading"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "Then I see the colors fading",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D",
-      "lyrics": "Gentleness of light escaping"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Gentleness of light escaping",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb                                  C              A",
-      "lyrics": "Shadows of my fear invading, have I seen this all before?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "Shadows of my fear invading, have I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "seen this all b",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "efore?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dmaj7",
-      "lyrics": "I know that there's something residing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dmaj7",
+          "lyric": "I know that there's something residing",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em7",
-      "lyrics": "A terror deep inside me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em7",
+          "lyric": "A terror deep inside me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm7                       D/F#            B7",
-      "lyrics": "I couldn't understand how you could be so bold"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm7",
+          "lyric": "I couldn't understand how ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "you could be so ",
+          "overLyric": true
+        },
+        {
+          "chord": "B7",
+          "lyric": "bold",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Refrain 2]"
     },
     {
-      "chord": "Em         A                   F#m             Fdim",
-      "lyrics": "Maybe I'll find myself smiling on that distant shore"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Maybe I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "find myself smiling ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "on that distant ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fdim",
+          "lyric": "shore",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em        Gm  A D",
-      "lyrics": "Maybe I'm not alone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Maybe I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "not ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "al",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "one",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "That Distant Shore"

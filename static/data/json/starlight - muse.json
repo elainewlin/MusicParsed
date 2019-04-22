@@ -17,173 +17,728 @@
       "label": "[Verse]"
     },
     {
-      "chord": "B",
-      "lyrics": "Far Away"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "Far Away",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m                    G#m",
-      "lyrics": "This ship is taking me far away"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "This ship is taking me ",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": "far away",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "Far away from the"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "Far away from the",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B",
-      "lyrics": "Memories"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "Memories",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m                   G#m               E",
-      "lyrics": "Of all the people who care if I live or die"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "Of all the people who ",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": "care if I live or ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "die",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B",
-      "lyrics": "Starlight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "Starlight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m                   G#m",
-      "lyrics": "I will be chasing the starlight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "I will be chasing the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": "starlight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "Until the end of my"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "Until the end of my",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B",
-      "lyrics": "life"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "life",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m                  G#m          E",
-      "lyrics": "I don't know if it's worth it any more"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "I don't know if it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": "worth it any ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "more",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "B    C#m    G#m     E",
-      "lyrics": "Hold you in my arms, I just wanted to"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "Hold ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "you in ",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": "my arms,",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": " I just wanted to",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B    C#m    G#m     E",
-      "lyrics": "Hold you in my arms"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "Hold ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "you in ",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": "my arms ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "B",
-      "lyrics": "My life"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "My life",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m           G#m",
-      "lyrics": "You electrify my life"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "You electrify ",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": "my life",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E                    B",
-      "lyrics": "Let's conspire to ig-nite"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "Let's conspire to ig-",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "nite",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m                      G#m            E",
-      "lyrics": "All the souls that would die just to be alive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "All the souls that would ",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": "die just to be ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "alive",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "C#m  F#            D#        G#m",
-      "lyrics": "I'll never let you go if you promise not to"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "never let you ",
+          "overLyric": true
+        },
+        {
+          "chord": "D#",
+          "lyric": "go if you ",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": "promise not to",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A    E           A    D#",
-      "lyrics": "Fade away, never fade away"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Fade ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "away, never ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "fade ",
+          "overLyric": true
+        },
+        {
+          "chord": "D#",
+          "lyric": "away",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G#m D#              E     B",
-      "lyrics": "Our hopes and expecta----tions"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G#m",
+          "lyric": "Our ",
+          "overLyric": true
+        },
+        {
+          "chord": "D#",
+          "lyric": "hopes and expect",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "a----t",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "ions",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G#m   D#             E     B",
-      "lyrics": "Black holes and revela----tions"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G#m",
+          "lyric": "Black ",
+          "overLyric": true
+        },
+        {
+          "chord": "D#",
+          "lyric": "holes and revel",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "a----t",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "ions",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G#m D#              E     B",
-      "lyrics": "Our hopes and expecta----tions"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G#m",
+          "lyric": "Our ",
+          "overLyric": true
+        },
+        {
+          "chord": "D#",
+          "lyric": "hopes and expect",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "a----t",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "ions",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G#m   D#             E     F#7",
-      "lyrics": "Black holes and revela----tions"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G#m",
+          "lyric": "Black ",
+          "overLyric": true
+        },
+        {
+          "chord": "D#",
+          "lyric": "holes and revel",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "a----t",
+          "overLyric": true
+        },
+        {
+          "chord": "F#7",
+          "lyric": "ions",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "B    C#m    G#m     E",
-      "lyrics": "Hold you in my arms, I just wanted to"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "Hold ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "you in ",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": "my arms,",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": " I just wanted to",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B    C#m    G#m     E",
-      "lyrics": "Hold you in my arms"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "Hold ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "you in ",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": "my arms ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "B",
-      "lyrics": "Far Away"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "Far Away",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m                    G#m",
-      "lyrics": "This ship is taking me far away"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "This ship is taking me ",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": "far away",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "Far away from the"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "Far away from the",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B",
-      "lyrics": "Memories"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "Memories",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m                   G#m               E",
-      "lyrics": "Of all the people who care if I live or die"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "Of all the people who ",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": "care if I live or ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "die",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "C#m  F#            D#        G#m",
-      "lyrics": "I'll never let you go if you promise not to"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "never let you ",
+          "overLyric": true
+        },
+        {
+          "chord": "D#",
+          "lyric": "go if you ",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": "promise not to",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A    E           A    D#",
-      "lyrics": "Fade away, never fade away"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Fade ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "away, never ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "fade ",
+          "overLyric": true
+        },
+        {
+          "chord": "D#",
+          "lyric": "away",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G#m D#              E     B",
-      "lyrics": "Our hopes and expecta----tions"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G#m",
+          "lyric": "Our ",
+          "overLyric": true
+        },
+        {
+          "chord": "D#",
+          "lyric": "hopes and expect",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "a----t",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "ions",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G#m   D#             E     B",
-      "lyrics": "Black holes and revela----tions (yeah)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G#m",
+          "lyric": "Black ",
+          "overLyric": true
+        },
+        {
+          "chord": "D#",
+          "lyric": "holes and revel",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "a----t",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "ions (yeah)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G#m D#              E     B",
-      "lyrics": "Our hopes and expecta----tions"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G#m",
+          "lyric": "Our ",
+          "overLyric": true
+        },
+        {
+          "chord": "D#",
+          "lyric": "hopes and expect",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "a----t",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "ions",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G#m   D#              E     F#7",
-      "lyrics": "Black holes and revela----tions"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G#m",
+          "lyric": "Black ",
+          "overLyric": true
+        },
+        {
+          "chord": "D#",
+          "lyric": "holes and revela",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "----ti",
+          "overLyric": true
+        },
+        {
+          "chord": "F#7",
+          "lyric": "ons",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Outro]"
     },
     {
-      "chord": "B    C#m    G#m     E",
-      "lyrics": "Hold you in my arms, I just wanted to"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "Hold ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "you in ",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": "my arms,",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": " I just wanted to",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B    C#m    G#m     E",
-      "lyrics": "Hold you in my arms, I just wanted to hooold"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "Hold ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "you in ",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": "my arms,",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": " I just wanted to hooold",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Starlight"

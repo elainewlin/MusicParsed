@@ -13,306 +13,1241 @@
       "label": "[Chorus]"
     },
     {
-      "chord": "C   Em       G",
-      "lyrics": "Oh Saturday Sun"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Oh S",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "aturday S",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "un",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  D",
-      "lyrics": "I met someone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "met someone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C          Em",
-      "lyrics": "Out on the West Coast"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Out on the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "West Coast",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                   D",
-      "lyrics": "I gotta get back I can't let this go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I gotta get back I c",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "an't let this go",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C   Em       G",
-      "lyrics": "Oh Saturday Sun"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Oh S",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "aturday S",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "un",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  D",
-      "lyrics": "I met someone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "met someone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C               Em",
-      "lyrics": "Don't care what it costs"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Don't care what ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "it costs",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                          C    Em  G  D",
-      "lyrics": "No ray of sunlight's ever lost"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "No ray of sunlight's ever ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "lost ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "C           Em",
-      "lyrics": "So tired of sleepin' alone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "So tired of ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "sleepin' alone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                  D",
-      "lyrics": "So tired of eatin' alone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "So tired of eatin' ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "alone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                 Em",
-      "lyrics": "I need to ask her what's goin' on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I need to ask her ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "what's goin' on",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G                 D",
-      "lyrics": "Are we goin' strong"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Are ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "we goin' strong   ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C           Em",
-      "lyrics": "She fell I rested her head"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "She fell I r",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ested her head",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   G                        D",
-      "lyrics": "My shoulder was the perfect height"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "My ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "shoulder was the perfect ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "height",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          C",
-      "lyrics": "We fit so right"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We fit so ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "right",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Em                G                      D",
-      "lyrics": "So what's goin' on 'Cause I've been undone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "what's goin' on 'C",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ause I've been undone  ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "C                   Em",
-      "lyrics": "The long drive the coastline"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "The long drive the c",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "oastline",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G              D",
-      "lyrics": "Lookin' out at first light"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Lookin' out at ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "first light",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C          Em",
-      "lyrics": "Am I still on her mind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Am I still ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "on her mind",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "I've been undone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I've been undone",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "C   Em       G",
-      "lyrics": "Oh Saturday Sun"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Oh S",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "aturday S",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "un",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  D",
-      "lyrics": "I met someone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "met someone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C          Em",
-      "lyrics": "Out on the West Coast"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Out on the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "West Coast",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                   D",
-      "lyrics": "I gotta get back I can't let this go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I gotta get back I c",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "an't let this go",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C   Em       G",
-      "lyrics": "Oh Saturday Sun"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Oh S",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "aturday S",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "un",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  D",
-      "lyrics": "I met someone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "met someone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C               Em",
-      "lyrics": "Don't care what it costs"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Don't care what ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "it costs",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                          C    Em  G  D",
-      "lyrics": "No ray of sunlight's ever lost"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "No ray of sunlight's ever ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "lost ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C  Em G D",
-      "lyrics": "Ever lost"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Eve",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "r l",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "os",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "t",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C      Em",
-      "lyrics": "Ba-ba ba-ba"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Ba-ba b",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "a-ba",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G      D",
-      "lyrics": "Ba-ba ba-ba-ba-ba"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Ba-ba b",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "a-ba-ba-ba",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C      Em",
-      "lyrics": "Ba-ba ba-ba"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Ba-ba b",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "a-ba",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G      D",
-      "lyrics": "Ba-ba ba-ba-ba-ba"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Ba-ba b",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "a-ba-ba-ba",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "C             Em",
-      "lyrics": "And still the memory's right there"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "And still the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "memory's right there",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                        D",
-      "lyrics": "She put the breeze in my hair"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "She put the breeze in my ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "hair",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            C       Em",
-      "lyrics": "No kiss was softer softer than this"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "No kiss was ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "softer s",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ofter than this",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G                D",
-      "lyrics": "I'm readin' her lips"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "readin' her lips ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "C              Em",
-      "lyrics": "Oh each night I read"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Oh each night I",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " read",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G            D",
-      "lyrics": "She left her books in my bed"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "She left her ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "books in my bed",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C           Em",
-      "lyrics": "And her song in my head"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "her song in ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "my head",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "I've been undone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I've been undone",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "C   Em       G",
-      "lyrics": "Oh Saturday Sun"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Oh S",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "aturday S",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "un",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  D",
-      "lyrics": "I met someone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "met someone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C          Em",
-      "lyrics": "Out on the West Coast"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Out on the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "West Coast",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                   D",
-      "lyrics": "I gotta get back I can't let this go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I gotta get back I c",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "an't let this go",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C   Em       G",
-      "lyrics": "Oh Saturday Sun"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Oh S",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "aturday S",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "un",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  D",
-      "lyrics": "I met someone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "met someone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C               Em",
-      "lyrics": "Don't care what it costs"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Don't care what ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "it costs",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                          C    Em  G  D",
-      "lyrics": "No ray of sunlight's ever lost"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "No ray of sunlight's ever ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "lost ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C  Em G D",
-      "lyrics": "Ever lost"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Eve",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "r l",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "os",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "t",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C      Em",
-      "lyrics": "Ba-ba ba-ba"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Ba-ba b",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "a-ba",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G      D",
-      "lyrics": "Ba-ba ba-ba-ba-ba"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Ba-ba b",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "a-ba-ba-ba",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C      Em",
-      "lyrics": "Ba-ba ba-ba"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Ba-ba b",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "a-ba",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G      D",
-      "lyrics": "Ba-ba ba-ba-ba-ba"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Ba-ba b",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "a-ba-ba-ba",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C   Em G D",
-      "lyrics": "Lost"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Lost",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C   Em G D",
-      "lyrics": "Lost"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Lost",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C   Em       G",
-      "lyrics": "Oh Saturday Sun"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Oh S",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "aturday S",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "un",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  D",
-      "lyrics": "I met someone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "met someone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C          Em",
-      "lyrics": "Out on the West Coast"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Out on the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "West Coast",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                   D",
-      "lyrics": "I gotta get back I can't let this go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I gotta get back I c",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "an't let this go",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C   Em       G",
-      "lyrics": "Oh Saturday Sun"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Oh S",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "aturday S",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "un",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  D",
-      "lyrics": "I met someone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "met someone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C               Em",
-      "lyrics": "Don't care what it costs"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Don't care what ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "it costs",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                          C    Em  G  D",
-      "lyrics": "No ray of sunlight's ever lost"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "No ray of sunlight's ever ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "lost ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C   Em       G",
-      "lyrics": "Oh Saturday Sun"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Oh S",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "aturday S",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "un",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C  Em       G",
-      "lyrics": "Oh Saturday Sun"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Oh ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "Saturday ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "Sun",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  D",
-      "lyrics": "I met someone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "met someone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C  Em       G",
-      "lyrics": "Oh Saturday Sun"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Oh ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "Saturday ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "Sun",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D",
-      "lyrics": "ba-ba-ba-ba"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "ba-ba-ba-ba",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C      Em",
-      "lyrics": "Ba-ba ba-ba"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Ba-ba b",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "a-ba",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G      D",
-      "lyrics": "Ba-ba ba-ba-ba-ba"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Ba-ba b",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "a-ba-ba-ba",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Saturday Sun"

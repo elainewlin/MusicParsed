@@ -14,166 +14,643 @@
       "label": "Intro:"
     },
     {
-      "chord": "C",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "Verse:"
     },
     {
-      "chord": "C                                               Em",
-      "lyrics": " Your mouth is a revolver firing bullets in the sky."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " Your mouth is a revolver firing bullets in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "sky.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                                            Em",
-      "lyrics": " Your love is like a soldier, loyal till you die."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " Your love is like a soldier, loyal till you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "die.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                                                    Am",
-      "lyrics": " And I've been looking at the stars for a long, long time."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " And I've been looking at the stars for a long, long ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "time.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                  C",
-      "lyrics": "I've been putting out fires all my life."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've been putting out fires all my",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " life.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                                   G",
-      "lyrics": "Everybody wants a flame, but they don't want to get burnt."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Everybody wants a flame, but they don't want to get",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " burnt.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                      C",
-      "lyrics": "And today is our turn."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And today is our turn.",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "Chorus:"
     },
     {
-      "chord": "C                        Am                       F",
-      "lyrics": " Days like these lead to, nights like this lead to love like ours,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " Days like these lead to,",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " nights like this lead to",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " love like ours,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Am                  G",
-      "lyrics": "You light the spark in my bonfire heart."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You light the",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " spark in my bonfire",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " heart.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                        Am",
-      "lyrics": " People like us, we don't need that much."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " People like us, we don't",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " need that much.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        F                           Am                   G",
-      "lyrics": "Just someone that starts, starts the spark in our bonfire hearts."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Just som",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "eone that starts, starts the",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " spark in our bonfire",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " hearts.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Verse:"
     },
     {
-      "chord": "C                                                Em",
-      "lyrics": " This world is getting colder. Strangers passing by."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " This world is getting colder. Strangers passing ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "by.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                                                      Em",
-      "lyrics": " No one offers you a shoulder. No one looks you in the eye."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " No one offers you a shoulder. No one looks you in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "eye.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                                              Am",
-      "lyrics": " But I've been looking at you for a long, long time."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " But I've been looking at you for a long, long ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "time.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                                C",
-      "lyrics": "Just trying to break through, trying to make you mine."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Just trying to break through, trying to make you",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " mine.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                               G",
-      "lyrics": "Everybody wants a flame, they don't want to get burnt"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Everybody wants a flame, they don't want to get",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " burnt",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                       C",
-      "lyrics": "Well today is our turn."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Well today is our turn.",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "Chorus:"
     },
     {
-      "chord": "C                        Am                       F",
-      "lyrics": " Days like these lead to, nights like this lead to love like ours,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " Days like these lead to,",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " nights like this lead to",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " love like ours,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Am                  G",
-      "lyrics": "You light the spark in my bonfire heart."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You light the",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " spark in my bonfire",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " heart.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                      Am",
-      "lyrics": " People like us, we don't need that much."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " People like us, we don",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "'t need that much.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        F                           Am                   G",
-      "lyrics": "Just someone that starts, starts the spark in our bonfire hearts."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Just som",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "eone that starts, starts the",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " spark in our bonfire",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " hearts.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Bridge:"
     },
     {
-      "chord": "G                 F",
-      "lyrics": " Hmm, our bonfire hearts"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " Hmm, our bonfire ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "hearts",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Am",
-      "lyrics": "our bonfire hearts"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "our bonfire",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " hearts",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               C",
-      "lyrics": "Uh, our bonfire hearts"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Uh, our bonfire",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " hearts",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             G",
-      "lyrics": "You light the spark"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You light the",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " spark",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Chorus:"
     },
     {
-      "chord": "C                        Am",
-      "lyrics": " People like us, we don't need that much."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " People like us, we don't",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " need that much.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        F                           Am                   G",
-      "lyrics": "Just someone that starts, starts the spark in our bonfire hearts."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Just som",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "eone that starts, starts the",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " spark in our bonfire",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " hearts.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                        Am                       F",
-      "lyrics": "   Days like these lead to, nights like this lead to love like ours,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "  Days like these lead t"
+        },
+        {
+          "chord": "Am",
+          "lyric": "o, nights like this lead ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "to love like ours,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Am                  G",
-      "lyrics": "You light the spark in my bonfire heart."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You light the",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " spark in my bonfire",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " heart.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                        Am",
-      "lyrics": " People like us, we don't need that much."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " People like us, we don't",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " need that much.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        F                           Am                   G",
-      "lyrics": "Just someone that starts, starts the spark in our bonfire hearts."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Just som",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "eone that starts, starts the",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " spark in our bonfire",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " hearts.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           C",
-      "lyrics": "our bonfire hearts"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "our bonfire",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " hearts",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                        Am                       F",
-      "lyrics": " Days like these lead to, nights like this lead to love like ours,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " Days like these lead to,",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " nights like this lead to",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " love like ours,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Am                  G",
-      "lyrics": "You light the spark in my bonfire heart."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You light the",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " spark in my bonfire",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " heart.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                        Am",
-      "lyrics": " People like us, we don't need that much."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " People like us, we don't",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " need that much.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        F                           Am                   G",
-      "lyrics": "Just someone that starts, starts the spark in our bonfire hearts."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Just som",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "eone that starts, starts the",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " spark in our bonfire",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " hearts.",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Bonfire Heart"

@@ -14,168 +14,667 @@
       "label": "Verse 1:"
     },
     {
-      "chord": "G              C",
-      "lyrics": "Hey, where did we go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Hey, where did ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "we go",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G              D",
-      "lyrics": "Days when the rains came ?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Days when the r",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ains came ?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G           C",
-      "lyrics": "Down in the hollow"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Down in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hollow",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G         D",
-      "lyrics": "Playing a new game,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Playing a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "new game,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G            C",
-      "lyrics": "Laughing and a-running, hey, hey,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Laughing and ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "a-running, hey, hey,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G            D",
-      "lyrics": "Skipping and a-jumping"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Skipping and ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "a-jumping",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G            C",
-      "lyrics": "In the misty morning fog with our,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "In the misty ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "morning fog with our,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G          D",
-      "lyrics": "Our hearts a-thumping"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Our hearts ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "a-thumping",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C    D             G      Em",
-      "lyrics": "And you, my brown-eyed girl,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "you, ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "my brown-eyed ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "girl,  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C       D          G      D7",
-      "lyrics": "You, my brown-eyed girl."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "You, my ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "brown-eyed ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "girl.  ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "Verse 2:"
     },
     {
-      "chord": "G        C",
-      "lyrics": "Whatever happened"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Whatever ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "happened",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G              D",
-      "lyrics": "To Tuesday and so slow"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "To Tuesday and ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "so slow",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                     C",
-      "lyrics": "Going down to the old mine with a"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Going down to the old ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "mine with a",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G          D",
-      "lyrics": "Transistor radio."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Transistor ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "radio.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G               C",
-      "lyrics": "Standing in the sunlight laughing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Standing in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "sunlight laughing",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G             D",
-      "lyrics": "Hide behind a rainbow's wall,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Hide behind a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "rainbow's wall,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G            C",
-      "lyrics": "Slipping and a-sliding"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Slipping and ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "a-sliding",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G             D",
-      "lyrics": "All along the waterfall"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "All along the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "waterfall",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     C       D           G     Em",
-      "lyrics": "With you, my brown-eyed girl,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "With ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "you, my ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "brown-eyed g",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "irl,  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C       D          G",
-      "lyrics": "You, my brown-eyed girl."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "You, my ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "brown-eyed ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "girl.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Chorus:"
     },
     {
-      "chord": "D7",
-      "lyrics": "Do you remember when we used to sing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D7",
+          "lyric": "Do you remember when we used to sing",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G         C           G               D",
-      "lyrics": "Sha la la la la la la la la la la dee dah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Sha la la ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "la la la la ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "la la la la dee ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "dah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G         C           G               D",
-      "lyrics": "Sha la la la la la la la la la la dee dah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Sha la la ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "la la la la ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "la la la la dee ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "dah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "La dee dah."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "La dee dah.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Verse 2:"
     },
     {
-      "chord": "G          C",
-      "lyrics": "So hard to find my way"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "So hard to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "find my way",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                D",
-      "lyrics": "Now that I'm all on my own."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Now that I'm all ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "on my own.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                  C",
-      "lyrics": "I saw you just the other day,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I saw you just the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "other day,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G       D",
-      "lyrics": "My, how you have grown!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "My, how ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "you have grown!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G              C",
-      "lyrics": "Cast my memory back there, Lord,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Cast my memory ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "back there, Lord,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                     D",
-      "lyrics": "Sometime I'm overcome thinking about"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Sometime I'm overcome ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "thinking about",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                  C",
-      "lyrics": "Making love in the green grass"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Making love in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "green grass",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G          D",
-      "lyrics": "Behind the stadium"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Behind the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "stadium",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     C       D          G      Em",
-      "lyrics": "With you, my brown-eyed girl,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "With ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "you, my ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "brown-eyed ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "girl,  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C       D          G",
-      "lyrics": "You, my brown-eyed girl."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "You, my ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "brown-eyed ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "girl.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Chorus:"
     },
     {
-      "chord": "D7",
-      "lyrics": "Do you remember when we used to sing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D7",
+          "lyric": "Do you remember when we used to sing",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G         C           G               D",
-      "lyrics": "Sha la la la la la la la la la la dee dah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Sha la la ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "la la la la ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "la la la la dee ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "dah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G         C           G               D",
-      "lyrics": "Sha la la la la la la la la la la dee dah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Sha la la ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "la la la la ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "la la la la dee ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "dah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "La dee dah...."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "La dee dah....",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Brown Eyed Girl"

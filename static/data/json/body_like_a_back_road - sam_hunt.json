@@ -13,160 +13,823 @@
       "label": "Intro:"
     },
     {
-      "chord": "D   A    Bm",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "   "
+        },
+        {
+          "chord": "A",
+          "lyric": "    "
+        },
+        {
+          "chord": "Bm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G   D  A   D",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "   "
+        },
+        {
+          "chord": "D",
+          "lyric": "  "
+        },
+        {
+          "chord": "A",
+          "lyric": "   "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "Verse 1:"
     },
     {
-      "chord": "                               A                  Bm",
-      "lyrics": "Got a girl from the south side, got braids in her hair"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Got a girl from the south side,",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " got braids in her ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "hair",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                     D      A                        D",
-      "lyrics": "First time I seen her walk by, man I 'bout fell off off my chair"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "First time I seen her ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "walk by",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": ", man I 'bout fell off of",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "f my chair",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               D      A                    Bm",
-      "lyrics": "Had to get her number, it took me like six weeks"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Had to get her ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "number,",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " it took me like six ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "weeks",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G             D     A          D",
-      "lyrics": "Now me and her go way back like Cadillac seats"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Now ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "me and her go ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "way ba",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ck like Cad",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "illac seats",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Chorus 1:"
     },
     {
-      "chord": "            D         A                Bm",
-      "lyrics": "Body like a back road, drivin' with my eyes closed"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Body like a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "back road,",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " drivin' with my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "eyes closed",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  G          D            A          D",
-      "lyrics": "I know every curve like the back of my hand"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "know every ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "curve like th",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "e back of m",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "y hand",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   D      A              Bm",
-      "lyrics": "Doin' fifteen in a thirty, I ain't in no hurry"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Doin' fifteen in a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "thirty,",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " I ain't in no ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "hurry",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   G         D          A         D",
-      "lyrics": "I'ma take it slow just as fast as I can"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "a take it ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "slow just a",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "s fast as ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "I can",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Verse 2:"
     },
     {
-      "chord": "                        D          A                  Bm",
-      "lyrics": "The way she fit in them blue jeans, she don't need no belt"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The way she fit in them ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "blue jeans,",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " she don't need no ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "belt",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                    D        A             D",
-      "lyrics": "  But I can turn 'em inside out, I don't need no help"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " But I can turn 'em "
+        },
+        {
+          "chord": "D",
+          "lyric": "inside ou",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "t, I don't nee",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "d no help",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              D     A                Bm",
-      "lyrics": "Got hips like honey, so thick and so sweet"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Got hips like ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "honey,",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " so thick and so ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "sweet",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                D             A            D",
-      "lyrics": "  There ain't no curves like hers in them downtown streets"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " There ain't no "
+        },
+        {
+          "chord": "D",
+          "lyric": "curves like he",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "rs in them do",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "wntown streets",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Chorus 2:"
     },
     {
-      "chord": "            D         A                Bm",
-      "lyrics": "Body like a back road, drivin' with my eyes closed"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Body like a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "back road,",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " drivin' with my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "eyes closed",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  G          D            A          D",
-      "lyrics": "I know every curve like the back of my hand"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "know every ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "curve like th",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "e back of m",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "y hand",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   D      A              Bm",
-      "lyrics": "Doin' fifteen in a thirty, I ain't in no hurry"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Doin' fifteen in a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "thirty,",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " I ain't in no ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "hurry",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   G         D          A         D",
-      "lyrics": "I'ma take it slow just as fast as I can"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "a take it ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "slow just a",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "s fast as ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "I can",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Interlude:"
     },
     {
-      "chord": "D   A    Bm",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "   "
+        },
+        {
+          "chord": "A",
+          "lyric": "    "
+        },
+        {
+          "chord": "Bm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G   D  A   D",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "   "
+        },
+        {
+          "chord": "D",
+          "lyric": "  "
+        },
+        {
+          "chord": "A",
+          "lyric": "   "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "Verse 3:"
     },
     {
-      "chord": "                      D        A                        Bm",
-      "lyrics": "We're out here in the boondocks with the breeze and the birds"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We're out here in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "boondocks",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " with the breeze and the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "birds",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                 D       A             D",
-      "lyrics": "Tangled up in the tall grass with my lips on hers"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Tangled up in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "tall gra",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ss with my lip",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "s on hers",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               D       A                  Bm",
-      "lyrics": "On a highway to heaven, headed south of her smile"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "On a highway to",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " heaven,",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " headed south of he",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "r smile",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   G                 D       A           D",
-      "lyrics": "We get there when we get there, every inch is a mile"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "get there when we ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "get ther",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "e, every inc",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "h is a mile",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Chorus 3:"
     },
     {
-      "chord": "            D         A                Bm",
-      "lyrics": "Body like a back road, drivin' with my eyes closed"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Body like a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "back road,",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " drivin' with my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "eyes closed",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  G          D            A          D",
-      "lyrics": "I know every curve like the back of my hand"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "know every ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "curve like th",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "e back of m",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "y hand",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   D      A              Bm",
-      "lyrics": "Doin' fifteen in a thirty, I ain't in no hurry"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Doin' fifteen in a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "thirty,",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " I ain't in no ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "hurry",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   G         D          A         D",
-      "lyrics": "I'ma take it slow just as fast as I can"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "a take it ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "slow just a",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "s fast as ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "I can",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I'ma take it slow just as fast as I can"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'ma take it slow just as fast as I can",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Outro:"
     },
     {
-      "chord": "D   A    Bm",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "   "
+        },
+        {
+          "chord": "A",
+          "lyric": "    "
+        },
+        {
+          "chord": "Bm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G   D  A   D",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "   "
+        },
+        {
+          "chord": "D",
+          "lyric": "  "
+        },
+        {
+          "chord": "A",
+          "lyric": "   "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "D   A    Bm",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "   "
+        },
+        {
+          "chord": "A",
+          "lyric": "    "
+        },
+        {
+          "chord": "Bm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G   D  A   D",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "   "
+        },
+        {
+          "chord": "D",
+          "lyric": "  "
+        },
+        {
+          "chord": "A",
+          "lyric": "   "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "Body Like A Back Road"

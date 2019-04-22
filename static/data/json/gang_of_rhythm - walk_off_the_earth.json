@@ -14,164 +14,784 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "F                                                      Gm",
-      "lyrics": " I got this old guitar, the strings are rusty but it's all I need"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " I got this old guitar, the strings are rusty but it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "all I need",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                             Bb",
-      "lyrics": "Bring in the kick drum it can back the beat"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Bring in the kick drum it can",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": " back the beat",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                               Dm  C",
-      "lyrics": "Let's gather round and sing a song    (hey!)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Let's gather round and sing a s",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ong ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "  (hey!)"
+        }
+      ]
     },
     {
-      "chord": "F                                                    Gm",
-      "lyrics": " I got a shaker too, the kind of sound that wants to make you move"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " I got a shaker too, the kind of sound that wants to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "make you move",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                             Bb",
-      "lyrics": "Bring in the uke it will complete the groove"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Bring in the uke it will comp",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "lete the groove",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                               Dm  C",
-      "lyrics": "Let's gather round and sing a song    (hey!)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Let's gather round and sing a s",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ong ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "  (hey!)"
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "Dm           C              Bb       C",
-      "lyrics": " There's no worries on the earth tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": " There's no w",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "orries on the e",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "arth toni",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ght",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm          C               Bb       C",
-      "lyrics": " We're all walkin' off the world tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": " We're all w",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "alkin' off the w",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "orld toni",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ght",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "F            Bb             F            C",
-      "lyrics": " Come on now everybody yeah come on now everyone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " Come on now ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "everybody yeah ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "come on now e",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "veryone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F              Bb        F           C",
-      "lyrics": " We're like a locomotive under the big hot sun"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " We're like a l",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ocomotive ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "under the bi",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "g hot sun",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                      Bb             F             C",
-      "lyrics": " We're chained to the gang of rhythm, the song is never done"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " We're chained to the g",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ang of rhythm, ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "the song is ne",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ver done",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F            Bb             F            C",
-      "lyrics": " Come on now everybody yeah come on now everyone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " Come on now ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "everybody yeah ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "come on now e",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "veryone",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "F                                                Gm",
-      "lyrics": " We got this melody, bring in the harmonies like CSNY"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " We got this melody, bring in the harmonies like ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "CSNY",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                             Bb                                          Dm  C",
-      "lyrics": "To write a tune you know will never die, let's gather round and sing a song"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To write a tune you know will",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": " never die, let's gather round and sing a so",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ng  ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Pre Chorus]"
     },
     {
-      "chord": "Dm           C              Bb       C",
-      "lyrics": " There's no worries on the earth tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": " There's no w",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "orries on the e",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "arth toni",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ght",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm          C               Bb       C",
-      "lyrics": " We're all walkin' off the world tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": " We're all w",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "alkin' off the w",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "orld toni",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ght",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "F            Bb             F            C",
-      "lyrics": " Come on now everybody yeah come on now everyone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " Come on now ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "everybody yeah ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "come on now e",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "veryone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F              Bb        F           C",
-      "lyrics": " We're like a locomotive under the big hot sun"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " We're like a l",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ocomotive ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "under the bi",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "g hot sun",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                      Bb             F             C",
-      "lyrics": " We're chained to the gang of rhythm, the song is never done"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " We're chained to the g",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ang of rhythm, ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "the song is ne",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ver done",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F            Bb             F            C",
-      "lyrics": " Come on now everybody yeah come on now everyone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " Come on now ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "everybody yeah ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "come on now e",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "veryone",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "F                       Dm                           C",
-      "lyrics": " And when the night is done these chains will hold us strong"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " And when the night is d",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "one these chains will hold us",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " strong",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                      Gm                           C",
-      "lyrics": "The chords will carry on long after we're gone     oh oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The chords will carry ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "on long after we're gone     ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "oh oh",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "Dm           C              Bb       C",
-      "lyrics": " There's no worries on the earth tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": " There's no w",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "orries on the e",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "arth toni",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ght",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm          C               Bb       C",
-      "lyrics": " We're all walkin' off the world tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": " We're all w",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "alkin' off the w",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "orld toni",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ght",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "F            C/E           Dm           C",
-      "lyrics": " Come on now everybody yeah come on now everyone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " Come on now ",
+          "overLyric": true
+        },
+        {
+          "chord": "C/E",
+          "lyric": "everybody yeah",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": " come on now ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "everyone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F             C/E       Dm           C",
-      "lyrics": " We're like a locomotive under the big hot sun"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " We're like a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C/E",
+          "lyric": "locomotive",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": " under the bi",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "g hot sun",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F            Bb             F            C",
-      "lyrics": " Come on now everybody yeah come on now everyone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " Come on now ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "everybody yeah ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "come on now e",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "veryone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F              Bb        F           C",
-      "lyrics": " We're like a locomotive under the big hot sun"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " We're like a l",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ocomotive ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "under the bi",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "g hot sun",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                      Bb             F             C",
-      "lyrics": " We're chained to the gang of rhythm, the song is never done"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " We're chained to the g",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ang of rhythm, ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "the song is ne",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ver done",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F            Bb             F            C",
-      "lyrics": " Come on now everybody yeah come on now everyone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " Come on now ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "everybody yeah ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "come on now e",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "veryone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F             Bb     Gm       C",
-      "lyrics": " We got this melody, come on everyone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " We got this m",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "elody, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "come on e",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "veryone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F              Bb      Gm       C",
-      "lyrics": " Bring in the harmony, come on everyone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " Bring in the h",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "armony, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "come on e",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "veryone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": " I got this old guitar, the strings are rusty"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " I got this old guitar, the strings are rusty",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Gm          F",
-      "lyrics": "But it's all I need"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "all I need  ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "Gang of Rhythm"

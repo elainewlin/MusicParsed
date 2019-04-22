@@ -20,228 +20,1009 @@
       "label": "[Intro]"
     },
     {
-      "chord": "C",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Jason]"
     },
     {
-      "chord": "       C                  Am",
-      "lyrics": "Do you hear me talking to you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Do you ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hear me talking to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Dm7               G         E7",
-      "lyrics": "Across the water, across the deep blue ocean"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Across the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "water, across the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "deep blue ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "ocean",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Am            Dm7",
-      "lyrics": "Under the open sky, oh my"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Under the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "open sky, oh m",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "y",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            G",
-      "lyrics": "Baby I'm trying"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Baby I'm try",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ing",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Colbie]"
     },
     {
-      "chord": "      C              Am",
-      "lyrics": "Boy I hear you in my dreams"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Boy I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hear you in my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "dreams",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Dm7                G   G/F",
-      "lyrics": "I feel your whisper across the sea"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I feel your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "whisper across the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "sea ",
+          "overLyric": true
+        },
+        {
+          "chord": "G/F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "           E7            Am",
-      "lyrics": "I keep you with me in my heart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I keep you ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "with me in my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "heart",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Dm7         G         G#dim",
-      "lyrics": "You make it easier when life gets hard"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You make it ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "easier when ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "life gets ",
+          "overLyric": true
+        },
+        {
+          "chord": "G#dim",
+          "lyric": "hard",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Both]"
     },
     {
-      "chord": "Am           Dm7                    G",
-      "lyrics": "  Lucky I'm in love with my best friend"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "  Lucky I'm i",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "n love with my best fri",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "end",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            C            Gadd4/B     Am",
-      "lyrics": "Lucky to have been where I have been"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Lucky to hav",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "e been where ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gadd4/B",
+          "lyric": "I have been ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "            Dm7          G Gsus4 G",
-      "lyrics": "Lucky to be coming home again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Lucky to be ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "coming home a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ga",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": "in    ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C           Am             Em       G",
-      "lyrics": "Oo oo-oo oo-oo oo-oo-oo-oo oo-oo-oo"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Oo oo-oo oo-",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "oo oo-oo-oo-oo ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "oo-oo-oo ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "",
-      "lyrics": "Colbie, (Jason)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Colbie, (Jason)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm7                   Am               G",
-      "lyrics": "They don't know how   long it takes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm7",
+          "lyric": "They don't know how   ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "long it takes    ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "          (They don't know how long it takes)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "          (They don't know how long it takes)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               Dm7",
-      "lyrics": " Waiting for a love like this"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " Waiting for a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "love like this",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "(Waiting for a love like this)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(Waiting for a love like this)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm7           Am7                G",
-      "lyrics": "Every time we say  good-bye,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm7",
+          "lyric": "Every time we ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "say  good-bye,     ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "      (Ev-ery time we   say  goodbye,)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "      (Ev-ery time we   say  goodbye,)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               Dm7",
-      "lyrics": " I wish we had one more kiss"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " I wish we had ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "one more kiss",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "(I wish we had one more kiss)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(I wish we had one more kiss)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm7                         Am7            G  Am7 G7/B",
-      "lyrics": "[Both] I'll wait for you, I promise you, I will"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm7",
+          "lyric": "[Both] I'll wait for you, I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "promise you, I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "wil",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "l   ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7/B",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "(Oh I'm)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(Oh I'm)",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Both]"
     },
     {
-      "chord": "Am           Dm7                    G",
-      "lyrics": "  Lucky I'm in love with my best friend"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "  Lucky I'm i",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "n love with my best fri",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "end",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            C            Gadd4/B     Am",
-      "lyrics": "Lucky to have been where I have been"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Lucky to hav",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "e been where ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gadd4/B",
+          "lyric": "I have been ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "            Dm7          G G#dim",
-      "lyrics": "Lucky to be coming home again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Lucky to be ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "coming home a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ga",
+          "overLyric": true
+        },
+        {
+          "chord": "G#dim",
+          "lyric": "in",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am             Dm7              G",
-      "lyrics": "  Lucky we're in love in every way"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "  Lucky we're i",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "n love in every w",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ay",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          C                C/B       Am",
-      "lyrics": "Lucky to have stayed where we have stayed"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Lucky to h",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ave stayed where ",
+          "overLyric": true
+        },
+        {
+          "chord": "C/B",
+          "lyric": "we have st",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ayed",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Dm7             G Gsus4 G",
-      "lyrics": "Lucky to be coming home some day"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Lucky to be ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "coming home some",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " d",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": "ay    ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "",
-      "lyrics": "Jason, (Colbie)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Jason, (Colbie)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           C                   Am",
-      "lyrics": "And so I'm sailing, through the sea"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And so I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "sailing, through the",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " sea",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Dm7                 G",
-      "lyrics": " To an island, where we'll meet"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " To an ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "island, where we'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "meet",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "(To an island, where we'll meet)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(To an island, where we'll meet)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                E7              Am",
-      "lyrics": "You'll hear the music, fill the air"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You'll hear the ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "music, fill the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "air",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Dm7    G",
-      "lyrics": "I put a flower in your hair"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I put a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "flower ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "in your hair",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "       (flower)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "       (flower)",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Colbie]"
     },
     {
-      "chord": "               C       C/B         Am",
-      "lyrics": "And though the breezes through the trees"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And though the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "breezes ",
+          "overLyric": true
+        },
+        {
+          "chord": "C/B",
+          "lyric": "through the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "trees",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Dm7                  G   G/F",
-      "lyrics": "Move so pretty, you're all I see"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Move so ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "pretty, you're all I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "see ",
+          "overLyric": true
+        },
+        {
+          "chord": "G/F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "       E7                  Am",
-      "lyrics": "As the world keep spinning round"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "As the ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "world keep spinning ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "round",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Dm7           G           G#dim",
-      "lyrics": "You hold me right here, right now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "hold me right ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "here, right ",
+          "overLyric": true
+        },
+        {
+          "chord": "G#dim",
+          "lyric": "now",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Both]"
     },
     {
-      "chord": "Am           Dm7                    G",
-      "lyrics": "  Lucky I'm in love with my best friend"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "  Lucky I'm i",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "n love with my best fri",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "end",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            C            Gadd4/B     Am",
-      "lyrics": "Lucky to have been where I have been"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Lucky to hav",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "e been where ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gadd4/B",
+          "lyric": "I have been ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "            Dm7          G G#dim",
-      "lyrics": "Lucky to be coming home again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Lucky to be ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "coming home a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ga",
+          "overLyric": true
+        },
+        {
+          "chord": "G#dim",
+          "lyric": "in",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am             Dm7              G",
-      "lyrics": "  Lucky we're in love in every way"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "  Lucky we're i",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "n love in every w",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ay",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          C                C/B       Am",
-      "lyrics": "Lucky to have stayed where we have stayed"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Lucky to h",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ave stayed where ",
+          "overLyric": true
+        },
+        {
+          "chord": "C/B",
+          "lyric": "we have st",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ayed",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Dm7              G Gsus4 G",
-      "lyrics": "Lucky to be coming home some day"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Lucky to be ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "coming home some ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "da",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": "y     ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C           Am             Em       G",
-      "lyrics": "Oo oo-oo oo-oo oo-oo-oo-oo oo-oo-oo"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Oo oo-oo oo-",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "oo oo-oo-oo-oo ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "oo-oo-oo ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C           Am             Em",
-      "lyrics": "Oo oo-oo oo-oo oo-oo-oo-oo oo-oo-oo"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Oo oo-oo oo-",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "oo oo-oo-oo-oo ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "oo-oo-oo",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G        C",
-      "lyrics": "oo-oo-oo oo"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "oo-oo-oo ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "oo",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Lucky"

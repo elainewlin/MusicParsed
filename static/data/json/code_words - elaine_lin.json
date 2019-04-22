@@ -13,69 +13,213 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "F C Am G",
-      "lyrics": "You already write"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Yo",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "u ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "alr",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "eady write",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "many songs,"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "many songs,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "lines and lines,"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "lines and lines,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "in Sublime because"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "in Sublime because",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus x2]"
     },
     {
-      "chord": "C G Am F",
-      "lyrics": "Each song is a module,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Ea",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ch",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " so",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ng is a module,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "each verse is a function, and"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "each verse is a function, and",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Python’s your words."
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Python’s your words.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "F C Am G",
-      "lyrics": "So why not write"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "So",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " w",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "hy ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "not write",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "your own songs?"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "your own songs?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Lines and lines."
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Lines and lines.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Just make them rhyme because"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Just make them rhyme because",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus x2]"
     },
     {
-      "chord": "C G Am F",
-      "lyrics": "A song’s just a module,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "A ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "so",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ng’",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "s just a module,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "each verse just a function, and"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "each verse just a function, and",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "words are your code."
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "words are your code.",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Code Words"

@@ -12,172 +12,667 @@
       "label": "[Verse]"
     },
     {
-      "chord": "C                                     D7",
-      "lyrics": "I see you driving round town with the girl I love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I see you driving round town with the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "girl I love",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             F            C",
-      "lyrics": "And I'm like \"Forget you!\"  Ooo ooo ooo"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I'm like ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "\"Forget you!\"",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " Ooo ooo ooo"
+        }
+      ]
     },
     {
-      "chord": "C                               D7",
-      "lyrics": "I guess the change in my pocket wasn't enough"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I guess the change in my pocket ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "wasn't enough",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              F             C",
-      "lyrics": "And I'm like \"Forget you, and forget her too.\""
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I'm like \"",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "Forget you, an",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "d forget her too.\"",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                    D7",
-      "lyrics": "If I was richer, I'd still be with ya"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "If I was richer, I'd ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "still be with ya",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                         C",
-      "lyrics": "Now ain't that something (Ain't that something)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Now ain't that something (",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "Ain't that something)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                                           D7",
-      "lyrics": "And though there's pain in my chest I still wish you the best"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "And though there's pain in my chest I still ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "wish you the best",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       F            C",
-      "lyrics": "With a \"Forget you\""
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "With a ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "\"Forget you\" ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C                                      D7",
-      "lyrics": "I said I'm sorry...I can't afford a Ferrari"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I said I'm sorry...I can't afford a Fer",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "rari",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    F                                    C",
-      "lyrics": "But that don't mean I can't get you there"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "that don't mean I can't get you there",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C                                   D7",
-      "lyrics": "I guess he's an Xbox...and I'm more Atari"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I guess he's an Xbox...and I'm more ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "Atari",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        F                            C",
-      "lyrics": "But the way you play your game ain't fair"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "way you play your game ain't ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "fair",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "C                        D7",
-      "lyrics": "I pity the foooooool who falls in love with you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I pity the foooooool who ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "falls in love with you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   F                         C",
-      "lyrics": "Oh she's a gold digger, just thought you should know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "she's a gold digger, just ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "thought you should know",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C            D7",
-      "lyrics": "Ooooooooo, I got some news for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Ooooooooo, I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "got some news for you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                                      C",
-      "lyrics": "You can go run and tell your boyfriend"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "You can go run and tell your boyfriend ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "C                                     D7",
-      "lyrics": "I see you driving round town with the girl I love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I see you driving round town with the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "girl I love",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             F            C",
-      "lyrics": "And I'm like \"Forget you!\"  Ooo ooo ooo"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I'm like ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "\"Forget you!\"",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " Ooo ooo ooo"
+        }
+      ]
     },
     {
-      "chord": "C                               D7",
-      "lyrics": "I guess the change in my pocket wasn't enough"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I guess the change in my pocket ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "wasn't enough",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              F             C",
-      "lyrics": "And I'm like \"Forget you, and forget her too.\""
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I'm like \"",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "Forget you, an",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "d forget her too.\"",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                    D7",
-      "lyrics": "If I was richer, I'd still be with ya"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "If I was richer, I'd ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "still be with ya",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                         C",
-      "lyrics": "Now ain't that something (Ain't that something)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Now ain't that something (",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "Ain't that something)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                                           D7",
-      "lyrics": "And though there's pain in my chest I still wish you the best"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "And though there's pain in my chest I still ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "wish you the best",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       F            C",
-      "lyrics": "With a \"Forget you\""
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "With a ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "\"Forget you\" ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C                   D7      F",
-      "lyrics": "Now I know I had to borrow, beg and steal and lie and cheat"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Now I know I had to ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "borrow, ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "beg and steal and lie and cheat",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                           D7",
-      "lyrics": "Tryin to keep ya, tryin' to please ya"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Tryin to keep ya, tryin' to ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "please ya",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      F                                 C",
-      "lyrics": "Cause being in love with your ain't cheap"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "being in love with your ain't chea",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "p",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "C                        D7",
-      "lyrics": "I pity the foooooool who falls in love with you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I pity the foooooool who ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "falls in love with you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   F                         C",
-      "lyrics": "Oh she's a gold digger, just thought you should know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "she's a gold digger, just ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "thought you should know",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C            D7",
-      "lyrics": "Ooooooooo, I got some news for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Ooooooooo, I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "got some news for you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                                C",
-      "lyrics": "Ooh, I really hate you right now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Ooh, I really hate you right now ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "C                                     D7",
-      "lyrics": "I see you driving round town with the girl I love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I see you driving round town with the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "girl I love",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             F            C",
-      "lyrics": "And I'm like \"Forget you!\"  Ooo ooo ooo"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I'm like ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "\"Forget you!\"",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " Ooo ooo ooo"
+        }
+      ]
     },
     {
-      "chord": "C                               D7",
-      "lyrics": "I guess the change in my pocket wasn't enough"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I guess the change in my pocket ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "wasn't enough",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              F             C",
-      "lyrics": "And I'm like \"Forget you, and forget her too.\""
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I'm like \"",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "Forget you, an",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "d forget her too.\"",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                    D7",
-      "lyrics": "If I was richer, I'd still be with ya"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "If I was richer, I'd ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "still be with ya",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                         C",
-      "lyrics": "Now ain't that some something (Ain't that something)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Now ain't that some someth",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ing (Ain't that something)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                                           D7",
-      "lyrics": "And though there's pain in my chest I still wish you the best"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "And though there's pain in my chest I still ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "wish you the best",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       F            C",
-      "lyrics": "With a \"Forget you\""
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "With a ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "\"Forget you\" ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "Forget You"

@@ -30,230 +30,875 @@
       "label": "[Rapunzel]"
     },
     {
-      "chord": "C",
-      "lyrics": "All those days"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "All those days",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G7/C                 C",
-      "lyrics": "Watching from the windows"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G7/C",
+          "lyric": "Watching from the win",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "dows",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "All those years"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "All those years",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G7/C               C",
-      "lyrics": "Outside looking in"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G7/C",
+          "lyric": "Outside looking in ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "All that time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "All that time",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C          F   G",
-      "lyrics": "Never even knowing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Never even ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "know",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ing",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C        D         G7",
-      "lyrics": "Just how blind I've been"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Just how ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "blind I've",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": " been",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "Now I'm here"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Now I'm here",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G7/C               C",
-      "lyrics": "Blinking in the starlight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G7/C",
+          "lyric": "Blinking in the sta",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "rlight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "Now I'm here"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Now I'm here",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G7/C          C",
-      "lyrics": "Suddenly I see"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G7/C",
+          "lyric": "Suddenly I see",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Standing here"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Standing here",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Em",
-      "lyrics": "It's all so clear"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "all so clear",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am        D7      Gsus4",
-      "lyrics": "I'm where I'm meant to be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "where I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "meant to",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": " be",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       F               C",
-      "lyrics": "And at last, I see the light"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And at ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "last, I see the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "light",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Gsus4    Dm7/G      C",
-      "lyrics": "And it's like the fog has lifted"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": "like the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7/G",
+          "lyric": "fog has lif",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ted",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       F               C",
-      "lyrics": "And at last, I see the light"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And at ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "last, I see the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "light",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Esus4   E7    Am",
-      "lyrics": "And it's like the sky is new"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Esus4",
+          "lyric": "like the",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": " sky i",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "s new",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         F                 C",
-      "lyrics": "And it's warm and real and bright"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "warm and real and ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "bright",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Em                F",
-      "lyrics": "And the world has somehow shifted"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "world has somehow ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "shifted",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "All at once"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "All at once",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G7/C              C",
-      "lyrics": "Everything looks different"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G7/C",
+          "lyric": "Everything looks d",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ifferent",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F        G     C",
-      "lyrics": "Now that I see you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Now that ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "I see ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C G7/C C",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "G7/C",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C G7/C C",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "G7/C",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F C F G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C F Gsus4 G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Ab",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Flynn]"
     },
     {
-      "chord": "Eb",
-      "lyrics": "All those days"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "All those days",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb7/Eb             Eb",
-      "lyrics": "Chasing down a daydream"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb7/Eb",
+          "lyric": "Chasing down a dayd",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "ream",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb",
-      "lyrics": "All those years"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "All those years",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb7/Eb      Eb",
-      "lyrics": "Living in a blur"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb7/Eb",
+          "lyric": "Living in a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "blur",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ab",
-      "lyrics": "All that time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "All that time",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb          Ab Bb",
-      "lyrics": "Never truly seeing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "Never truly ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "see",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ing",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb         F         Bb7",
-      "lyrics": "Things the way they were"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "Things the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "way they w",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb7",
+          "lyric": "ere",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb",
-      "lyrics": "Now she's here"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "Now she's here",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb             Eb",
-      "lyrics": "Shining in the starlight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "Shining in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "starlight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb",
-      "lyrics": "Now she's here"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "Now she's here",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb         Eb",
-      "lyrics": "Suddenly I know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "Suddenly I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "know",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ab",
-      "lyrics": "If she's here"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "If she's here",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Gm",
-      "lyrics": "It's crystal clear"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "crystal clear",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Cm       F7        Bbsus4",
-      "lyrics": "I'm where I'm meant to go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "where I'm",
+          "overLyric": true
+        },
+        {
+          "chord": "F7",
+          "lyric": " meant to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bbsus4",
+          "lyric": "go",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Flynn/Rapunzel]"
     },
     {
-      "chord": "       Ab              Eb",
-      "lyrics": "And at last, I see the light"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And at ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "last, I see the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "light",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Flynn]"
     },
     {
-      "chord": "         Bbsus4   Fm7/Bb     Eb",
-      "lyrics": "And it's like the fog has lifted"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bbsus4",
+          "lyric": "like the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm7/Bb",
+          "lyric": "fog has lif",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "ted",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Flynn/Rapunzel]"
     },
     {
-      "chord": "       Ab              Eb",
-      "lyrics": "And at last, I see the light"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And at ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "last, I see the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "light",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Rapunzel]"
     },
     {
-      "chord": "         Gsus4    G7     Cm",
-      "lyrics": "And it's like the sky is new"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": "like the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "sky is ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "new",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Flynn/Rapunzel]"
     },
     {
-      "chord": "         Ab                Eb",
-      "lyrics": "And it's warm and real and bright"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "warm and real and ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "bright",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Gm                Ab",
-      "lyrics": "And the world has somehow shifted"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "world has somehow ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "shifted",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb",
-      "lyrics": "All at once"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "All at once",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb7/Eb            Eb",
-      "lyrics": "Everything is different"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb7/Eb",
+          "lyric": "Everything is diff",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "erent",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ab       Bb    Eb",
-      "lyrics": "Now that I see you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "Now that ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "I see ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ab       Bb    Eb",
-      "lyrics": "Now that I see you.."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "Now that ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "I see ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "you..",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "I See the Light"

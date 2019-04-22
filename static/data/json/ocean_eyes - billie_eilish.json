@@ -13,170 +13,1043 @@
       "label": "[Intro]"
     },
     {
-      "chord": "C D Em C D Em C D Em",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "Em",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "Em",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G C",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 1]"
     },
     {
-      "chord": "C    D    Em           C   D    Em",
-      "lyrics": "I’ve been watching you for some time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I’ve ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "been ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "watching you ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "for ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "some ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "time",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C     D    Em               G     C",
-      "lyrics": "Can’t stop staring at those ocean eyes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Can’t ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "stop ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "staring at those ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ocean ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "eyes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C  D    Em         C D    Em",
-      "lyrics": "Burning cities and napalm skies"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Bur",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ning ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "cities and ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "na",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "palm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "skies",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C  D    Em                  G     C",
-      "lyrics": "Fifteen flares inside those ocean eyes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Fif",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "teen ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "flares inside those ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ocean ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "eyes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     G     C",
-      "lyrics": "Your ocean eyes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Your ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ocean ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "eyes",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "    C D Em  C D Em",
-      "lyrics": "No fair"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "No f",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ai",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "r ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "           C           D       Em",
-      "lyrics": "You really know how to make me cry"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You really ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "know how to ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "make me ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "cry",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     G     C",
-      "lyrics": "When you gimme those ocean eyes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When you gimme those ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ocean ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "eyes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      C D Em  C D Em",
-      "lyrics": "I'm scared"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm sc",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ar",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ed",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "           C           D          Em",
-      "lyrics": "I've never fallen from quite this high"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've never ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "fallen from ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "quite this ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "high",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  G     C",
-      "lyrics": "Falling into your ocean eyes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Falling into your ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ocean ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "eyes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      G     C",
-      "lyrics": "Those ocean eyes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Those ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ocean ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "eyes",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "C    D    Em                C     D    Em",
-      "lyrics": "I've been walking through a world gone blind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I've ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "been ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "walking through a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "world ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "gone ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "blind",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C     D    Em               G       C",
-      "lyrics": "Can't stop thinking of your diamond mind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Can't ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "stop ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "thinking of your ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "diamond ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "mind",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C   D   Em            C       D    Em",
-      "lyrics": "Careful creature made friends with time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Care",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ful ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "creature made ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "friends ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "with ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "time",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   C    D   Em            G       C",
-      "lyrics": "He left her lonely with a diamond mind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "He ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "left ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "her ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "lonely with a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "diamond ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "mind",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          G     C",
-      "lyrics": "And those ocean eyes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And those ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ocean ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "eyes",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "    C D Em  C D Em",
-      "lyrics": "No fair"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "No f",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ai",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "r ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "           C           D       Em",
-      "lyrics": "You really know how to make me cry"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You really ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "know how to ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "make me ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "cry",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     G     C",
-      "lyrics": "When you gimme those ocean eyes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When you gimme those ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ocean ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "eyes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      C D Em  C D Em",
-      "lyrics": "I'm scared"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm sc",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ar",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ed",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "           C           D          Em",
-      "lyrics": "I've never fallen from quite this high"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've never ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "fallen from ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "quite this ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "high",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  G     C",
-      "lyrics": "Falling into your ocean eyes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Falling into your ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ocean ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "eyes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      G     C",
-      "lyrics": "Those ocean eyes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Those ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ocean ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "eyes",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Instrumental]"
     },
     {
-      "chord": "C D Em C D Em C D Em",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "Em",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "Em",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G C",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C D Em C D Em C D Em",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "Em",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "Em",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G C G C",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "    C D Em  C D Em",
-      "lyrics": "No fair"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "No f",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ai",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "r ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "           C           D       Em",
-      "lyrics": "You really know how to make me cry"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You really ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "know how to ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "make me ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "cry",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     G     C",
-      "lyrics": "When you gimme those ocean eyes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When you gimme those ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ocean ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "eyes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      C D Em  C D Em",
-      "lyrics": "I'm scared"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm sc",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ar",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ed",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "           C           D          Em",
-      "lyrics": "I've never fallen from quite this high"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've never ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "fallen from ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "quite this ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "high",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  G     C",
-      "lyrics": "Falling into your ocean eyes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Falling into your ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ocean ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "eyes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      G     C",
-      "lyrics": "Those ocean eyes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Those ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ocean ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "eyes",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Ocean Eyes"

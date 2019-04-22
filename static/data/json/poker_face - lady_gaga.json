@@ -13,280 +13,913 @@
       "label": "[Intro]"
     },
     {
-      "chord": "Em",
-      "lyrics": "Mum mum mum mah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Mum mum mum mah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            C",
-      "lyrics": "Mum mum mum mah mum mum mah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Mum mum mum ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "mah mum mum mah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Mum mum mum mah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Mum mum mum mah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            D/F#",
-      "lyrics": "Mum mum mum mah mum mum mah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Mum mum mum ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "mah mum mum mah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em",
-      "lyrics": "Mum mum mum mah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Mum mum mum mah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            C",
-      "lyrics": "Mum mum mum mah mum mum mah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Mum mum mum ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "mah mum mum mah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Mum mum mum mah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Mum mum mum mah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            D/F#",
-      "lyrics": "Mum mum mum mah mum mum mah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Mum mum mum ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "mah mum mum mah",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 1]"
     },
     {
-      "chord": "Em                         C",
-      "lyrics": "I wanna hold em' like they do in Texas plays (Hey!)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "I wanna hold em' like they ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "do in Texas plays (Hey!)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                                D/F#",
-      "lyrics": "Fold em' let em' hit me raise it baby stay with me (I love it)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Fold em' let em' hit me raise it ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "baby stay with me (I love it)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                           C",
-      "lyrics": "Love Game intuition play the cards with Spades to start"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Love Game intuition play the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "cards with Spades to start",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G                                    D/F#",
-      "lyrics": "And after he's been hooked I'll play the one that's on his heart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "after he's been hooked I'll play the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "one that's on his heart",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "Em              C",
-      "lyrics": "Oh, oh, oh, oh, ohhhhh, ohh-oh-ohhh-oh-oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Oh, oh, oh, oh, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ohhhhh, ohh-oh-ohhh-oh-oh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                      D/F#",
-      "lyrics": "I'll get him hot, show him what I've got"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I'll get him hot, show ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "him what I've got",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em              C",
-      "lyrics": "Oh, oh, oh, oh, ohhhh, ohh-oh-e-ohh-oh-oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Oh, oh, oh, oh, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ohhhh, ohh-oh-e-ohh-oh-oh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                      D/F#",
-      "lyrics": "I'll get her hot, show him what I've got"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I'll get her hot, show ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "him what I've got",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Em",
-      "lyrics": "Can't read my,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Can't read my,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           C",
-      "lyrics": "Can't read my"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Can't read ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "my",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    G",
-      "lyrics": "No he can't read my poker face"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "No he can't read my ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "poker face",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " D/F#",
-      "lyrics": "(She's got me like nobody)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "She's got me like nobody)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em",
-      "lyrics": "Can't read my,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Can't read my,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           C",
-      "lyrics": "Can't read my"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Can't read ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "my",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     G",
-      "lyrics": "No she can't read my poker face"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "No she can't read my ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "poker face",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " D/F#",
-      "lyrics": "(She's got me like nobody)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "She's got me like nobody)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                  C",
-      "lyrics": "P-p-p-poker face, p-p-poker face"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "P-p-p-poker face, p-",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "p-poker face",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "(Mum mum mum mah)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(Mum mum mum mah)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                  D/F#",
-      "lyrics": "P-p-p-poker face, p-p-poker face"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "P-p-p-poker face, p",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "-p-poker face",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "(Mum mum mum mah)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(Mum mum mum mah)",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "Em                      C",
-      "lyrics": "I wanna roll with him a hard pair we will be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "I wanna roll with him a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hard pair we will be",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                    D/F#",
-      "lyrics": "A little gambling is fun when you're with me (I love it)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "A little gambling is ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "fun when you're with me (I love it)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                          C",
-      "lyrics": "Russian Roulette is not the same without a gun"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Russian Roulette is not the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "same without a gun",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G                               D/F#",
-      "lyrics": "And baby when it's love if it's not rough it isn't fun, fun"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "baby when it's love if it's not ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "rough it isn't fun, fun",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "Em              C",
-      "lyrics": "Oh, oh, oh, oh, ohhhhh, ohh-oh-ohhh-oh-oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Oh, oh, oh, oh, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ohhhhh, ohh-oh-ohhh-oh-oh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                      D/F#",
-      "lyrics": "I'll get him hot, show him what I've got"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I'll get him hot, show ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "him what I've got",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em              C",
-      "lyrics": "Oh, oh, oh, oh, ohhhhh, ohh-oh-ohhh-oh-oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Oh, oh, oh, oh, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ohhhhh, ohh-oh-ohhh-oh-oh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                      D/F#",
-      "lyrics": "I'll get her hot, show him what I've got"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I'll get her hot, show ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "him what I've got",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Em",
-      "lyrics": "Can't read my,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Can't read my,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           C",
-      "lyrics": "Can't read my"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Can't read ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "my",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    G",
-      "lyrics": "No he can't read my poker face"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "No he can't read my ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "poker face",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " D/F#",
-      "lyrics": "(She's got me like nobody)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "She's got me like nobody)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em",
-      "lyrics": "Can't read my,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Can't read my,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           C",
-      "lyrics": "Can't read my"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Can't read ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "my",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     G",
-      "lyrics": "No she can't read my poker face"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "No she can't read my ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "poker face",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " D/F#",
-      "lyrics": "(She's got me like nobody)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "She's got me like nobody)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                  C",
-      "lyrics": "P-p-p-poker face, p-p-poker face"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "P-p-p-poker face, p-",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "p-poker face",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "(Mum mum mum mah)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(Mum mum mum mah)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                  D/F#",
-      "lyrics": "P-p-p-poker face, p-p-poker face"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "P-p-p-poker face, p",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "-p-poker face",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "(Mum mum mum mah)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(Mum mum mum mah)",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "        Em",
-      "lyrics": "I won't tell you that I love you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I won't ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "tell you that I love you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        C",
-      "lyrics": "Kiss or hug you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Kiss or ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hug you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                           G",
-      "lyrics": "Cause I'm bluffin' with my muffin"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause I'm bluffin' with my ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "muffin",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                       D/F#",
-      "lyrics": "I'm not lying I'm just stunnin' with my love-glue-gunning"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm not lying I'm just ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "stunnin' with my love-glue-gunning",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                         C",
-      "lyrics": "Just like a chick in the casino"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Just like a chick in the ca",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "sino",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                        G",
-      "lyrics": "Take your bank before I pay you out"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Take your bank before I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "pay you out",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                D/F#",
-      "lyrics": "I promise this, promise this"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I promise this, ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "promise this",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                           Em",
-      "lyrics": "Check this hand cause I'm marvelous"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Check this hand cause I'm m",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "arvelous",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Em",
-      "lyrics": "Can't read my,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Can't read my,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           C",
-      "lyrics": "Can't read my"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Can't read ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "my",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    G",
-      "lyrics": "No he can't read my poker face"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "No he can't read my ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "poker face",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " D/F#",
-      "lyrics": "(She's got me like nobody) x6"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "She's got me like nobody) x6",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                  C",
-      "lyrics": "P-p-p-poker face, p-p-poker face"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "P-p-p-poker face, p-",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "p-poker face",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "(Mum mum mum mah)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(Mum mum mum mah)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                  D/F#",
-      "lyrics": "P-p-p-poker face, p-p-poker face"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "P-p-p-poker face, p",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "-p-poker face",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Poker Face"

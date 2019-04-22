@@ -13,176 +13,787 @@
       "label": "[Chorus]"
     },
     {
-      "chord": "Cadd9                             D                            Em           G",
-      "lyrics": "Maybe you don't have to rush, you could leave a toothbrush at my place, at my place."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cadd9",
+          "lyric": "Maybe you don't have to rush, you ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "could leave a toothbrush at m",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "y place, at m",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "y place.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Cadd9                              D                            Em           G         Cadd9",
-      "lyrics": "We don't need to keep it hush, you could leave a toothbrush at my place, at my pla-ace."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cadd9",
+          "lyric": "We don't need to keep it hush, you ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "could leave a toothbrush at m",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "y place, at m",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "y pla-ace.",
+          "overLyric": true
+        },
+        {
+          "chord": "Cadd9",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 1]"
     },
     {
-      "chord": "                  D",
-      "lyrics": "  Stuck in a limbo, half hypnotized"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  Stuck in a limbo",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ", half hypnotized",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                     G",
-      "lyrics": "  Each time I let you stay the night, stay the night (aah oooh)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "  Each time I let you s",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "tay the night, stay the night (aah oooh)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Cadd9                   D",
-      "lyrics": "  Up in the morning, tangled in sheets"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cadd9",
+          "lyric": "  Up in the morning, tan",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "gled in sheets",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                   G",
-      "lyrics": "  We play the moment on repeat, on repeat  (aah ooh)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "  We play the moment ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "on repeat, on repeat  (aah ooh)",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "            Cadd9                       D",
-      "lyrics": "When you're standing there, in your underwear"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When you're ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cadd9",
+          "lyric": "standing there, in your unde",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "rwear",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Em                     G",
-      "lyrics": "And my T-shirt from the night before"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "T-shirt from the night ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "before",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Cadd9                       D",
-      "lyrics": "With your messed up hair and your feet still bare,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "With your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cadd9",
+          "lyric": "messed up hair and your feet",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " still bare,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Em                  G",
-      "lyrics": "Would you mind closing the bedroom door?  (Aah oooh)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Would you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "mind closing the bed",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "room door?  (Aah oooh)",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Cadd9                             D                            Em           G",
-      "lyrics": "Maybe you don't have to rush, you could leave a toothbrush at my place, at my place."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cadd9",
+          "lyric": "Maybe you don't have to rush, you ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "could leave a toothbrush at m",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "y place, at m",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "y place.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Cadd9                              D                            Em           G         Cadd9",
-      "lyrics": "We don't need to keep it hush, you could leave a toothbrush at my place, at my pla-ace."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cadd9",
+          "lyric": "We don't need to keep it hush, you ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "could leave a toothbrush at m",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "y place, at m",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "y pla-ace.",
+          "overLyric": true
+        },
+        {
+          "chord": "Cadd9",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "          D",
-      "lyrics": "I just, I just can't let you go, you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I just, I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "just can't let you go, you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em            G",
-      "lyrics": "  Give me something I've never known"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "  Give me some",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "thing I've never known",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Cadd9                             D                          Em           G         Cadd9",
-      "lyrics": "So maybe you don't have to rush, you can leave a toothbrush at my place, at my pla-ace."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cadd9",
+          "lyric": "maybe you don't have to rush, you ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "can leave a toothbrush at m",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "y place, at m",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "y pla-ace.",
+          "overLyric": true
+        },
+        {
+          "chord": "Cadd9",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "                    D",
-      "lyrics": "No need to question, next time we meet"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "No need to question,",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " next time we meet",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                     G",
-      "lyrics": "  I know you're coming home with me, home with me (aah oooh)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "  I know you're coming ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "home with me, home with me (aah oooh)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Cadd9                    D",
-      "lyrics": "  Sweat like a sauna, break out the ice"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cadd9",
+          "lyric": "  Sweat like a sauna, bre",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ak out the ice",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                    G",
-      "lyrics": "  I know you're gonna stay the night, stay the night (aah oooh)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "  I know you're gonna ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "stay the night, stay the night (aah oooh)",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "            Cadd9                       D",
-      "lyrics": "When you're standing there, in your underwear"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When you're ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cadd9",
+          "lyric": "standing there, in your unde",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "rwear",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Em                     G",
-      "lyrics": "And my T-shirt from the night before"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "T-shirt from the night ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "before",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Cadd9                       D",
-      "lyrics": "With your messed up hair and your feet still bare,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "With your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cadd9",
+          "lyric": "messed up hair and your feet",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " still bare,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Em                  G",
-      "lyrics": "Would you mind closing the bedroom door?  (Aah oooh)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Would you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "mind closing the bed",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "room door?  (Aah oooh)",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Cadd9                             D                            Em           G",
-      "lyrics": "Maybe you don't have to rush, you could leave a toothbrush at my place, at my place."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cadd9",
+          "lyric": "Maybe you don't have to rush, you ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "could leave a toothbrush at m",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "y place, at m",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "y place.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Cadd9                              D                            Em           G         Cadd9",
-      "lyrics": "We don't need to keep it hush, you could leave a toothbrush at my place, at my pla-ace."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cadd9",
+          "lyric": "We don't need to keep it hush, you ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "could leave a toothbrush at m",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "y place, at m",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "y pla-ace.",
+          "overLyric": true
+        },
+        {
+          "chord": "Cadd9",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "          D",
-      "lyrics": "I just, I just can't let you go, you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I just, I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "just can't let you go, you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em            G",
-      "lyrics": "  Give me something I've never known"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "  Give me some",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "thing I've never known",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Cadd9                             D                          Em           G",
-      "lyrics": "So maybe you don't have to rush, you can leave a toothbrush at my place, at my place."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cadd9",
+          "lyric": "maybe you don't have to rush, you ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "can leave a toothbrush at m",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "y place, at m",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "y place.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "  Cadd9          D",
-      "lyrics": "I don't want this to end"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cadd9",
+          "lyric": "don't want this",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " to end",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Em          G",
-      "lyrics": "And there's no need to play pretend"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And there's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "no need to p",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "lay pretend",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Cadd9         D",
-      "lyrics": "If you stay with me again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "If you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cadd9",
+          "lyric": "stay with me a",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "gain",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Em",
-      "lyrics": "Would you mind closing the bedroom door?    Aah oooh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Would you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "mind closing the bedroom door?    Aah oooh",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Cadd9                             D                            Em           G",
-      "lyrics": "Maybe you don't have to rush, you could leave a toothbrush at my place, at my place."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cadd9",
+          "lyric": "Maybe you don't have to rush, you ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "could leave a toothbrush at m",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "y place, at m",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "y place.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Cadd9                              D                            Em           G         Cadd9",
-      "lyrics": "We don't need to keep it hush, you could leave a toothbrush at my place, at my pla-ace."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cadd9",
+          "lyric": "We don't need to keep it hush, you ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "could leave a toothbrush at m",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "y place, at m",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "y pla-ace.",
+          "overLyric": true
+        },
+        {
+          "chord": "Cadd9",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "          D",
-      "lyrics": "I just, I just can't let you go, you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I just, I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "just can't let you go, you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em            G",
-      "lyrics": "  Give me something I've never known"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "  Give me some",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "thing I've never known",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Cadd9                             D                          Em           G         Cadd9",
-      "lyrics": "So maybe you don't have to rush, you can leave a toothbrush at my place, at my pla-ace."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cadd9",
+          "lyric": "maybe you don't have to rush, you ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "can leave a toothbrush at m",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "y place, at m",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "y pla-ace.",
+          "overLyric": true
+        },
+        {
+          "chord": "Cadd9",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "Toothbrush"

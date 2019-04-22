@@ -13,147 +13,564 @@
       "label": "[Verse]"
     },
     {
-      "chord": "E♭",
-      "lyrics": "I know you've suffered"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E♭",
+          "lyric": "I know you've suffered",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Gm",
-      "lyrics": "But I don't want you to hide"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": " I don't want you to hide",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E♭",
-      "lyrics": "It's cold and loveless"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E♭",
+          "lyric": "It's cold and loveless",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Gm",
-      "lyrics": "I won't let you be denied"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I won",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "'t let you be denied",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E♭",
-      "lyrics": "Soothing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E♭",
+          "lyric": "Soothing",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  Gm",
-      "lyrics": "I'll make you feel pure"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ll make you feel pure",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " E♭",
-      "lyrics": "And trust me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "nd trust me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm",
-      "lyrics": "You can be sure"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "You can be sure",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Cm         E♭             Gm               B♭",
-      "lyrics": "I want to reconcile the violence in your heart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cm",
+          "lyric": "I want to r",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "econcile the vi",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "olence in your he",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "art",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Cm         E♭              Gm                  B♭",
-      "lyrics": "I want to recognize your beauty's not just a mask"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cm",
+          "lyric": "I want to r",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "ecognize your be",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "auty's not just a ma",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "sk",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Cm         E♭            Gm               B♭",
-      "lyrics": "I want to exorcise the demons from your past"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cm",
+          "lyric": "I want to e",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "xorcise the de",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "mons from your pa",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "st",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Cm         E♭           Gm            B♭             E♭",
-      "lyrics": "I want to satisfy the undisclosed desires in your heart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cm",
+          "lyric": "I want to s",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "atisfy the un",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "disclosed desi",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "res in your hea",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "rt",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "",
-      "lyrics": "You trick your lovers"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You trick your lovers",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Gm",
-      "lyrics": "That you're wicked and divine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That you'",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "re wicked and divine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E♭",
-      "lyrics": "You may be a sinner"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E♭",
+          "lyric": "You may be a sinner",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Gm",
-      "lyrics": "But your innocence is mine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But yo",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ur innocence is mine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E♭",
-      "lyrics": "Please me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E♭",
+          "lyric": "Please me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm",
-      "lyrics": "Show me how it's done"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Show me how it's done",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E♭",
-      "lyrics": "Tease me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E♭",
+          "lyric": "Tease me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm",
-      "lyrics": "You are the one"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "You are the one",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Cm         E♭             Gm               B♭",
-      "lyrics": "I want to reconcile the violence in your heart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cm",
+          "lyric": "I want to r",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "econcile the vi",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "olence in your he",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "art",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Cm         E♭              Gm                  B♭",
-      "lyrics": "I want to recognize your beauty's not just a mask"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cm",
+          "lyric": "I want to r",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "ecognize your be",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "auty's not just a ma",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "sk",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Cm         E♭            Gm               B♭",
-      "lyrics": "I want to exorcise the demons from your past"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cm",
+          "lyric": "I want to e",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "xorcise the de",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "mons from your pa",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "st",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Cm         E♭           Gm            B♭             E♭",
-      "lyrics": "I want to satisfy the undisclosed desires in your heart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cm",
+          "lyric": "I want to s",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "atisfy the un",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "disclosed desi",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "res in your hea",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "rt",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "E♭",
-      "lyrics": "Please me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E♭",
+          "lyric": "Please me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm",
-      "lyrics": "Show me how it's done"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Show me how it's done",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E♭",
-      "lyrics": "Trust me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E♭",
+          "lyric": "Trust me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm",
-      "lyrics": "You are the one"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "You are the one",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Cm         E♭             Gm               B♭",
-      "lyrics": "I want to reconcile the violence in your heart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cm",
+          "lyric": "I want to r",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "econcile the vi",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "olence in your he",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "art",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Cm         E♭              Gm                  B♭",
-      "lyrics": "I want to recognize your beauty's not just a mask"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cm",
+          "lyric": "I want to r",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "ecognize your be",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "auty's not just a ma",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "sk",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Cm         E♭            Gm               B♭",
-      "lyrics": "I want to exorcise the demons from your past"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cm",
+          "lyric": "I want to e",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "xorcise the de",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "mons from your pa",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "st",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Cm         E♭           Gm            B♭             E♭",
-      "lyrics": "I want to satisfy the undisclosed desires in your heart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cm",
+          "lyric": "I want to s",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "atisfy the un",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "disclosed desi",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "res in your hea",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "rt",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Undisclosed Desires"

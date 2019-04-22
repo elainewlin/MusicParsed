@@ -14,276 +14,1104 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "Am              G                C    F",
-      "lyrics": "  I thought that I've been hurt before"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "  I thought that",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " I've been hurt b",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "efore",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    Am            G                  C    F",
-      "lyrics": "But no one's ever left me quite this sore"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "no one's ever ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "left me quite this ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "sore ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am               G              C    F",
-      "lyrics": "  Your words cut deeper than a knife"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "  Your words cut ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "deeper than a k",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "nife ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "      Am              G                  C     F",
-      "lyrics": "Now I need someone to breathe me back to life"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Now I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "need someone to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "breathe me back to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "life  ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "F                        G           Am",
-      "lyrics": "  Got a feeling that I'm going under"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " Got a feeling that I'm "
+        },
+        {
+          "chord": "G",
+          "lyric": "going under ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                     Am",
-      "lyrics": "But I know that I'll make it out alive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But I know that I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "make it out alive",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                   G             Am",
-      "lyrics": "  If I quit calling you my lover"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " If I quit calling "
+        },
+        {
+          "chord": "G",
+          "lyric": "you my lover  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "          G",
-      "lyrics": "And move on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And move o",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "n",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "             Am                        G",
-      "lyrics": "You watch me bleed until I can't breathe"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You watch me ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "bleed until I can't breath",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             C                   F",
-      "lyrics": "I'm shaking, falling onto my knees"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm shaking, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "falling onto my knee",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "s",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Am               G",
-      "lyrics": "And now that I'm without your kisses"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And now that ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "I'm without your ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "kisses",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F               C",
-      "lyrics": "I'll be needing stitches"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I'll be needing ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "stitches",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                  G",
-      "lyrics": "Tripping over myself, Aching,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Tripping over myself",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ", Aching,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                      F",
-      "lyrics": "Begging you to come help"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Begging you to come hel",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "p",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Am               G",
-      "lyrics": "And now that I'm without your kisses"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And now that ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "I'm without your ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "kisses",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F               C",
-      "lyrics": "I'll be needing stitches"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I'll be needing ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "stitches",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "Am           G               C    F",
-      "lyrics": " Just like a moth drawn to a flame"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " Just like a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "moth drawn to a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "flame",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "        Am            G                  C    G",
-      "lyrics": "Oh, you lured me in I couldn't sense the pain"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh, you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "lured me in I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "couldn't sense the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "pain ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am            G                 C     F",
-      "lyrics": "  Your bitter heart cold to the touch"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "  Your bitter ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "heart cold to the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "touch ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "              Am              G",
-      "lyrics": "Now I'm gonna reap what I sow"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Now I'm gonna ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "reap what I sow ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                C         F",
-      "lyrics": "I'm left seeing red on my own"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm left seeing ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "red on my ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "own",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "F                        G           Am",
-      "lyrics": "  Got a feeling that I'm going under"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " Got a feeling that I'm "
+        },
+        {
+          "chord": "G",
+          "lyric": "going under ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                     Am",
-      "lyrics": "But I know that I'll make it out alive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But I know that I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "make it out alive",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                   G             Am",
-      "lyrics": "  If I quit calling you my lover"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " If I quit calling "
+        },
+        {
+          "chord": "G",
+          "lyric": "you my lover  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "          G",
-      "lyrics": "And move on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And move o",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "n",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "             Am                        G",
-      "lyrics": "You watch me bleed until I can't breathe"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You watch me ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "bleed until I can't breath",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             C                   F",
-      "lyrics": "I'm shaking, falling onto my knees"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm shaking, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "falling onto my knee",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "s",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Am               G",
-      "lyrics": "And now that I'm without your kisses"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And now that ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "I'm without your ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "kisses",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F               C",
-      "lyrics": "I'll be needing stitches"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I'll be needing ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "stitches",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                  G",
-      "lyrics": "Tripping over myself, Aching,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Tripping over myself",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ", Aching,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                      F",
-      "lyrics": "Begging you to come help"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Begging you to come hel",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "p",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Am               G",
-      "lyrics": "And now that I'm without your kisses"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And now that ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "I'm without your ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "kisses",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F               C",
-      "lyrics": "I'll be needing stitches"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I'll be needing ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "stitches",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "Am G C F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am G C F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "Needle and the thread,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Needle and the thread,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      G",
-      "lyrics": "Gotta get you out of my head"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Gotta ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "get you out of my head",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "Needle and the thread,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Needle and the thread,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      F",
-      "lyrics": "Gonna wind up dead"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Gonna ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "wind up dead",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "Needle and the thread,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Needle and the thread,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      G",
-      "lyrics": "Gotta get you out of my head"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Gotta ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "get you out of my head",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "Needle and the thread,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Needle and the thread,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      F",
-      "lyrics": "Gonna wind up dead"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Gonna ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "wind up dead",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "Needle and the thread,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Needle and the thread,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      G",
-      "lyrics": "Gotta get you out of my head"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Gotta ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "get you out of my head",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "Needle and the thread,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Needle and the thread,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      F",
-      "lyrics": "Gonna wind up dead"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Gonna ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "wind up dead",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "Needle and the thread,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Needle and the thread,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      G",
-      "lyrics": "Gotta get you out of my head"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Gotta ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "get you out of my head",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                   G",
-      "lyrics": "Get you out of my head"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Get you out of my he",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ad",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "             Am                        G",
-      "lyrics": "You watch me bleed until I can't breathe"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You watch me ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "bleed until I can't breath",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             C                   F",
-      "lyrics": "I'm shaking, falling onto my knees"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm shaking, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "falling onto my knee",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "s",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Am               G",
-      "lyrics": "And now that I'm without your kisses"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And now that ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "I'm without your ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "kisses",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F               C",
-      "lyrics": "I'll be needing stitches"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I'll be needing ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "stitches",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                  G",
-      "lyrics": "Tripping over myself, Aching,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Tripping over myself",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ", Aching,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                      F",
-      "lyrics": "Begging you to come help"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Begging you to come hel",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "p",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Am               G",
-      "lyrics": "And now that I'm without your kisses"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And now that ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "I'm without your ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "kisses",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F               C",
-      "lyrics": "I'll be needing stitches"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I'll be needing ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "stitches",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Outro]"
     },
     {
-      "chord": "             Am               G",
-      "lyrics": "And now that I'm without your kisses"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And now that ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "I'm without your ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "kisses",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F               C",
-      "lyrics": "I'll be needing stitches"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I'll be needing ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "stitches",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Am               G",
-      "lyrics": "And now that I'm without your kisses"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And now that ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "I'm without your ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "kisses",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F               C",
-      "lyrics": "I'll be needing stitches"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I'll be needing ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "stitches",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Stitches"

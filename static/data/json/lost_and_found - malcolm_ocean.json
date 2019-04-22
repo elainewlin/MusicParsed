@@ -15,251 +15,1253 @@
       "label": "[intro]"
     },
     {
-      "chord": "  C Am",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "  F C G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "  C Am G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "Am",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "       C         Am",
-      "lyrics": "I got lost, and found"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I got l",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ost, and f",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ound",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     F                          C        G",
-      "lyrics": "that I could no longer hear my favorite sounds"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "that ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "I could no longer hear my f",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "avorite s",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ounds",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          C         Am                G",
-      "lyrics": "and so I wandered around... singing aloud"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and so I w",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "andered ar",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ound... singing al",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "oud",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           F                  C",
-      "lyrics": "trying to capture all these thoughts"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "trying to c",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "apture all these th",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "oughts",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Am                G",
-      "lyrics": "trying to master all these abilities"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "trying to m",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "aster all these ab",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ilities",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                F            C",
-      "lyrics": "learning to connect all the dots"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "learning to conn",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ect all the d",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ots",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Am          Em   F   G   Am   G F C G",
-      "lyrics": "and cultivating possibilities"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and cultiv",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ating possib",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "iliti",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "es  ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "   "
+        },
+        {
+          "chord": "Am",
+          "lyric": "   "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "       C         Am",
-      "lyrics": "I got lost, and found"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I got l",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ost, and f",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ound",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     F                         C                    G",
-      "lyrics": "that all my bright colors had turned to greys and browns"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "that ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "all my bright colors had t",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "urned to greys and br",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "owns",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      C         Am         G",
-      "lyrics": "as I wandered around, downtown"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "as I w",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "andered ar",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ound, downt",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "own",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           F               C",
-      "lyrics": "looking around at all the faces"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "looking aro",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "und at all the f",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "aces",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     F                C",
-      "lyrics": "tryna recognize the places"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "tryna",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " recognize the pl",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "aces",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 Am                              G",
-      "lyrics": "their minds must be... to generate the shapes I see"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "their minds must ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "be... to generate the shapes I s",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ee",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     F                    C",
-      "lyrics": "simulate them on my own features"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "simul",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ate them on my own fe",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "atures",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                 C",
-      "lyrics": "the body is my teacher"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "the body is my tea",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "cher",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Am                           G",
-      "lyrics": "of how they feel: making these strangers real, to me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "of how they f",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "eel: making these strangers r",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "eal, to me",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[instrumental]"
     },
     {
-      "chord": "  C Am",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "  F C G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "  C Am G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "Am",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "       C         Am",
-      "lyrics": "I got lost, and found"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I got l",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ost, and f",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ound",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     F                                C            G",
-      "lyrics": "that I just couldn't seem to keep my feet on the ground"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "that ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "I just couldn't seem to keep my f",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "eet on the gr",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ound",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          C         Am           G",
-      "lyrics": "and so I wandered around, the clouds"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and so I w",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "andered ar",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ound, the clo",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "uds",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       F         C",
-      "lyrics": "Tryna find my direction"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Tryna f",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ind my dir",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ection",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            F                C",
-      "lyrics": "but I need a more direct connection"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "but I need a",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " more direct conn",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ection",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  Am                                         G",
-      "lyrics": "with my terminal goals, to determine which road to point my soles to"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "with my terminal g",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "oals, to determine which road to point my s",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "oles to",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     F                    C",
-      "lyrics": "Find a reason for all my actions—"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Find ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "a reason for all my a",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ctions—",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                 C",
-      "lyrics": "gain some better traction"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "gain some better t",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "raction",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  Am                                   G",
-      "lyrics": "using fusion and fission... to align my hands with my vision..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "using fusion and f",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ission... to align my hands with my v",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ision...",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 Am",
-      "lyrics": "in every life decision..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "in every life dec",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ision...",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                               Em Am",
-      "lyrics": "I found my map was not the territory"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I found my map was not the territ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ory",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am                               Em Am",
-      "lyrics": "at first, this was kinda scary for me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "at first, this was kinda scary fo",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "r m",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                                Em Am",
-      "lyrics": "but I know that living with uncertainty"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "but I know that living with uncert",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ain",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ty",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                   E7                  Am",
-      "lyrics": "beats living with a false sense of security"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "beats living with a f",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "alse sense of securi",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ty",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                                                Em Am",
-      "lyrics": "so now the plan is to think on everything I think I know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "so now the plan is to think on everything I think ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "I k",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                                       Em Am",
-      "lyrics": "and if it doesn't match the world to let it go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "and if it doesn't match the world to let ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "it ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "go",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                                         Em  Am",
-      "lyrics": "putting what remains into creations like this song"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "putting what remains into creations like th",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "is s",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ong",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                       E7                              Am",
-      "lyrics": "reminding me that I can never be quite right only Less Wrong"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "reminding me that I can n",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "ever be quite right only Less Wr",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ong",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am F G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am F G E7",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "E7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am                          Em Am",
-      "lyrics": "So I seek out every opportunity"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "So I seek out every opportun",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ity",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am                                   Em Am",
-      "lyrics": "for creating and cultivating possibilities"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "for creating and cultivating possibil",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "iti",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "es",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                                           Em   Am",
-      "lyrics": "meeting with groups of people, with intersecting goals"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "meeting with groups of people, with intersect",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ing g",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "oals",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                      E7                   Am",
-      "lyrics": "and integrating them into an interconnected whole"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "and integrating them int",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "o an interconnected w",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "hole",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                                           Em   Am",
-      "lyrics": "the conversations get more and more and more abstract"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "the conversations get more and more and more ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "abstr",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "act",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                                                Em    Am",
-      "lyrics": "and meta and meta-meta and just like this they go off-track"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "and meta and meta-meta and just like this they go ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "off-tr",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ack",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                                                 Em Am",
-      "lyrics": "but in the end we're honing in on the world we wanna see"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "but in the end we're honing in on the world we wann",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "a s",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ee",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am               E7                         Am",
-      "lyrics": "all intelligent beings... acting with empathy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "all intelligent b",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "eings... acting with empath",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "y",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am F G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am F G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am F G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am F G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am F G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am F G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am G F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "       C         Am",
-      "lyrics": "I got lost, and found"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I got l",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ost, and f",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ound",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       F                     C              G",
-      "lyrics": "I had so much to do, and so many questions how"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I had s",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "o much to do, and so m",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "any questions h",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ow",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         C          Am            G",
-      "lyrics": "but the wandering around... ends now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "but the w",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "andering ar",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ound... ends n",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ow",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Lost and Found"

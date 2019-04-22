@@ -13,240 +13,1358 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "Em    Bm",
-      "lyrics": "Oh, no"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Oh, no",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am               C                 Em      Bm",
-      "lyrics": "See you walking 'round like it's a funeral"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "See you walking '",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "round like it's a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "funeral ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am         C                    Em         Bm",
-      "lyrics": "Not so serious, girl; why those feet cold?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Not so seri",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ous, girl; why those ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "feet cold? ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am              C                  Em    Bm   Am   C",
-      "lyrics": "We just getting started; don't you tiptoe, tiptoe,   ah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "We just getting ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "started; don't you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "tiptoe",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": ", tip",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "toe, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " ah"
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "Em                 Bm                       Am                C",
-      "lyrics": " Waste time with a masterpiece, don't waste time with a masterpiece"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": " Waste time with a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "masterpiece, don't waste ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "time with a master",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "piece",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em             Bm                   Am                     C",
-      "lyrics": " You should be rolling with me, you should be rolling with me, ah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": " You should be ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "rolling with me, you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "should be rolling with ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "me, ah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                  Bm                Am             C",
-      "lyrics": " You're a real-life fantasy, you're a real-life fantasy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": " You're a real-life ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "fantasy, you're a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "real-life fanta",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "sy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                   Bm               Am",
-      "lyrics": "But you're moving so carefully; let's start living dangerously"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "But you're moving so ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "carefully; let's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "start living dangerously",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Em          Bm   Am",
-      "lyrics": "Talk to me, baby"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Talk to me, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "baby ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    C                Em               Bm            Am",
-      "lyrics": "I'm going blind from this sweet sweet craving, whoa-oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "going blind from ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "this sweet sweet ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "craving, whoa-",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "oh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      C                  Em         Bm    Am",
-      "lyrics": "Let's lose our minds and go fucking crazy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Let's ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "lose our minds and ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "go fucking ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "crazy ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "  C       Em        Bm                Am          C",
-      "lyrics": "I-I-I-I-I-I keep on hoping we'll eat cake by the ocean"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I-",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I-I-I-I-",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "I keep on ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "hoping we'll eat c",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ake by the o",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "cean",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em          Bm   Am",
-      "lyrics": "Walk for me, baby"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Walk for me,",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": " baby",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C               Em        Bm          Am",
-      "lyrics": "I'll be Diddy,  you'll be Naomi, whoa-oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I'll be Diddy,  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "you'll be ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "Naomi, whoa-",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "oh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      C                  Em         Bm    Am",
-      "lyrics": "Let's lose our minds and go fucking crazy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Let's ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "lose our minds and ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "go fucking ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "crazy ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "  C       Em        Bm                Am          C",
-      "lyrics": "I-I-I-I-I-I keep on hoping we'll eat cake by the ocean"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I-",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I-I-I-I-",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "I keep on ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "hoping we'll eat c",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ake by the o",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "cean",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "Em    Bm",
-      "lyrics": "God damn"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "God da",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "mn",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am               C                 Em      Bm",
-      "lyrics": "See you licking frosting from your own hands"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "See you licking f",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "rosting from your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "own hand",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "s",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am           C                   Em      Bm",
-      "lyrics": "Want another taste, I'm begging, yes ma'am"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Want another ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "taste, I'm begging, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "yes ma'a",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "m",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am                C            Em      Bm    Am   C",
-      "lyrics": "I'm tired of all this candy on the dry land, dry land, oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "tired of all this ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "candy on the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "dry land",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": ", dry ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "land,",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " oh",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "Em                 Bm                       Am                C",
-      "lyrics": " Waste time with a masterpiece, don't waste time with a masterpiece"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": " Waste time with a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "masterpiece, don't waste ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "time with a master",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "piece",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em             Bm                   Am                     C",
-      "lyrics": " You should be rolling with me, you should be rolling with me, ah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": " You should be ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "rolling with me, you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "should be rolling with ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "me, ah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                  Bm                Am             C",
-      "lyrics": " You're a real-life fantasy, you're a real-life fantasy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": " You're a real-life ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "fantasy, you're a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "real-life fanta",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "sy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                   Bm               Am",
-      "lyrics": "But you're moving so carefully; let's start living dangerously"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "But you're moving so ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "carefully; let's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "start living dangerously",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Em          Bm   Am",
-      "lyrics": "Talk to me, baby"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Talk to me, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "baby ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    C                Em               Bm            Am",
-      "lyrics": "I'm going blind from this sweet sweet craving, whoa-oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "going blind from ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "this sweet sweet ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "craving, whoa-",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "oh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      C                  Em         Bm    Am",
-      "lyrics": "Let's lose our minds and go fucking crazy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Let's ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "lose our minds and ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "go fucking ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "crazy ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "  C       Em        Bm                Am          C",
-      "lyrics": "I-I-I-I-I-I keep on hoping we'll eat cake by the ocean"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I-",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I-I-I-I-",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "I keep on ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "hoping we'll eat c",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ake by the o",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "cean",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em          Bm   Am",
-      "lyrics": "Walk for me, baby"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Walk for me,",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": " baby",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C               Em        Bm          Am",
-      "lyrics": "I'll be Diddy,  you'll be Naomi, whoa-oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I'll be Diddy,  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "you'll be ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "Naomi, whoa-",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "oh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      C                  Em         Bm    Am",
-      "lyrics": "Let's lose our minds and go fucking crazy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Let's ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "lose our minds and ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "go fucking ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "crazy ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "  C       Em        Bm                Am          C",
-      "lyrics": "I-I-I-I-I-I keep on hoping we'll eat cake by the ocean"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I-",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I-I-I-I-",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "I keep on ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "hoping we'll eat c",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ake by the o",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "cean",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em  Bm    Am",
-      "lyrics": "oooooh ah ah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "oooo",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "oh ah ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  C       Em        Bm                Am          C",
-      "lyrics": "I-I-I-I-I-I keep on hoping we'll eat cake by the ocean"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I-",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I-I-I-I-",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "I keep on ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "hoping we'll eat c",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ake by the o",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "cean",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em  Bm    Am",
-      "lyrics": "oooooh ah ah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "oooo",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "oh ah ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  C       Em        Bm                Am          C",
-      "lyrics": "I-I-I-I-I-I keep on hoping we'll eat cake by the ocean"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I-",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I-I-I-I-",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "I keep on ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "hoping we'll eat c",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ake by the o",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "cean",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "Em Bm Am                       C",
-      "lyrics": "       You're fucking delicious,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": " "
+        },
+        {
+          "chord": "Bm",
+          "lyric": " "
+        },
+        {
+          "chord": "Am",
+          "lyric": " You're fucking delicious",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ",",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em Bm",
-      "lyrics": "       Talk to me girl"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": " "
+        },
+        {
+          "chord": "Bm",
+          "lyric": "  Talk to me girl"
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Em          Bm   Am",
-      "lyrics": "Talk to me, baby"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Talk to me, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "baby ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    C                Em               Bm            Am",
-      "lyrics": "I'm going blind from this sweet sweet craving, whoa-oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "going blind from ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "this sweet sweet ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "craving, whoa-",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "oh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      C                  Em         Bm    Am",
-      "lyrics": "Let's lose our minds and go fucking crazy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Let's ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "lose our minds and ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "go fucking ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "crazy ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "  C       Em        Bm                Am          C",
-      "lyrics": "I-I-I-I-I-I keep on hoping we'll eat cake by the ocean"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I-",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I-I-I-I-",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "I keep on ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "hoping we'll eat c",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ake by the o",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "cean",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em          Bm   Am",
-      "lyrics": "Walk for me, baby"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Walk for me,",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": " baby",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C               Em        Bm          Am",
-      "lyrics": "I'll be Diddy,  you'll be Naomi, whoa-oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I'll be Diddy,  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "you'll be ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "Naomi, whoa-",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "oh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      C                  Em         Bm    Am",
-      "lyrics": "Let's lose our minds and go fucking crazy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Let's ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "lose our minds and ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "go fucking ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "crazy ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "  C       Em        Bm                Am          C",
-      "lyrics": "I-I-I-I-I-I keep on hoping we'll eat cake by the ocean"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I-",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I-I-I-I-",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "I keep on ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "hoping we'll eat c",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ake by the o",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "cean",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Outro]"
     },
     {
-      "chord": "Em    Bm      Am",
-      "lyrics": "  Red velvet, vanilla,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "  Red ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "velvet, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "vanilla,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C               Em",
-      "lyrics": "Chocolate in my life"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Chocolate in my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "life",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm            Am",
-      "lyrics": "Funfetti, I'm ready;"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Funfetti, I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ready;",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  C               Em",
-      "lyrics": "I need it every night"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "need it every ni",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ght",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Bm      Am",
-      "lyrics": "Red velvet, vanilla,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Red ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "velvet, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "vanilla,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C               Em",
-      "lyrics": "Chocolate in my life (I-I-I-I-I)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Chocolate in my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "life (I-I-I-I-I)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Bm                Am          C",
-      "lyrics": "I keep on hoping we'll eat cake by the ocean"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I keep on ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "hoping we'll eat c",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ake by the o",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "cean",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Cake By The Ocean"

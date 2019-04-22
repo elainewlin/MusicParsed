@@ -21,205 +21,975 @@
       "label": "[Intro]"
     },
     {
-      "chord": "C E7 F G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "E7",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C E7 F G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "E7",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "G          C                         E7",
-      "lyrics": "Why do you build me up (build me up) Buttercup, baby"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Why do you ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "build me up (build me up) ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "Buttercup, baby",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        F                             G",
-      "lyrics": "Just to let me down (let me down) and mess me around"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Just to ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "let me down (let me down) and ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "mess me around",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         C                               E7",
-      "lyrics": "And then worst of all (worst of all) you never call, baby"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And then ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "worst of all (worst of all) you ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "never call, baby",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         F                               G",
-      "lyrics": "When you say you will (say you will) but I love you still"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When you ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "say you will (say you will) but ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "I love you still",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       C                          C7",
-      "lyrics": "I need you (I need you) more than anyone, darlin'"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I need ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "you (I need you) more than ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "anyone, darlin'",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    F                         Fm",
-      "lyrics": "You know that I have from the start"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "know that I have from the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "start",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   C           G",
-      "lyrics": "So build me up Buttercup,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "build me up ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "Buttercup,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    F F C Dm C G7",
-      "lyrics": "Don't break my heart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Don't break my heart",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "Dm",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "G7",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 1]"
     },
     {
-      "chord": "          C       G                Bb       F",
-      "lyrics": "\"I'll be over at ten,\" you told me time and again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "\"I'll be o",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ver at t",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "en,\" you told me ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "time and ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "again",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             C          F",
-      "lyrics": "But you're late, I wait around and then"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But you're la",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "te, I wait ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "around and then",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  C           G             Bb       F",
-      "lyrics": "I went to the door, I can't take any more"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "went to the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "door, I can't ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "take any ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "more",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         C               F",
-      "lyrics": "It's not you, you let me down again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's not ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "you, you let me ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "down again",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": " F         Dm                G7",
-      "lyrics": "(Hey, hey, hey!) Baby, baby, try to find"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "Hey, hey, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "hey!) Baby, baby, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "try to find",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " G7        Em                      A7",
-      "lyrics": "(Hey, hey, hey!) A little time and I'll make you mine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "Hey, hey, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "hey!) A little time and ",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "I'll make you mine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm",
-      "lyrics": "I'll be home"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "I'll be home",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        D7                           G",
-      "lyrics": "I'll be beside the phone waiting for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll be ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "beside the phone waiting for ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Ooo-oo-ooo, ooo-oo-ooo"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Ooo-oo-ooo, ooo-oo-ooo",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "G          C                         E7",
-      "lyrics": "Why do you build me up (build me up) Buttercup, baby"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Why do you ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "build me up (build me up) ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "Buttercup, baby",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        F                             G",
-      "lyrics": "Just to let me down (let me down) and mess me around"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Just to ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "let me down (let me down) and ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "mess me around",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         C                               E7",
-      "lyrics": "And then worst of all (worst of all) you never call, baby"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And then ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "worst of all (worst of all) you ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "never call, baby",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         F                               G",
-      "lyrics": "When you say you will (say you will) but I love you still"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When you ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "say you will (say you will) but ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "I love you still",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       C                          C7",
-      "lyrics": "I need you (I need you) more than anyone, darlin'"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I need ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "you (I need you) more than ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "anyone, darlin'",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    F                         Fm",
-      "lyrics": "You know that I have from the start"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "know that I have from the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "start",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   C           G",
-      "lyrics": "So build me up Buttercup,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "build me up ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "Buttercup,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    F F C Dm C G7",
-      "lyrics": "Don't break my heart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Don't break my heart",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "Dm",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "G7",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "   C         G         Bb           F",
-      "lyrics": "To you I'm a toy but I could be the boy you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "you I'm a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "toy but I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "could be the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "boy you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " C                    F",
-      "lyrics": "Adore, if you'd just let me know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "dore, if you'd just l",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "et me know",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   C            G",
-      "lyrics": "Although you're untrue,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Alt",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hough you're ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "untrue,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Bb           F           C",
-      "lyrics": "I'm attracted to you all the more"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "attracted to ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "you all the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "more",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         F",
-      "lyrics": "Why do I need you so"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Why do I ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "need you so",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": " F         Dm                G7",
-      "lyrics": "(Hey, hey, hey!) Baby, baby, try to find"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "Hey, hey, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "hey!) Baby, baby, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "try to find",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " G7        Em                      A7",
-      "lyrics": "(Hey, hey, hey!) A little time and I'll make you mine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "Hey, hey, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "hey!) A little time and ",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "I'll make you mine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm",
-      "lyrics": "I'll be home"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "I'll be home",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        D7                           G",
-      "lyrics": "I'll be beside the phone waiting for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll be ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "beside the phone waiting for ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Ooo-oo-ooo, ooo-oo-ooo"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Ooo-oo-ooo, ooo-oo-ooo",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "G          C                         E7",
-      "lyrics": "Why do you build me up (build me up) Buttercup, baby"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Why do you ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "build me up (build me up) ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "Buttercup, baby",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        F                             G",
-      "lyrics": "Just to let me down (let me down) and mess me around"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Just to ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "let me down (let me down) and ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "mess me around",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         C                               E7",
-      "lyrics": "And then worst of all (worst of all) you never call, baby"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And then ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "worst of all (worst of all) you ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "never call, baby",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         F                               G",
-      "lyrics": "When you say you will (say you will) but I love you still"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When you ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "say you will (say you will) but ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "I love you still",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       C                          C7",
-      "lyrics": "I need you (I need you) more than anyone, darlin'"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I need ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "you (I need you) more than ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "anyone, darlin'",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    F                         Fm",
-      "lyrics": "You know that I have from the start"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "know that I have from the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "start",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   C           G",
-      "lyrics": "So build me up Buttercup,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "build me up ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "Buttercup,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    F F C Dm C",
-      "lyrics": "Don't break my heart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Don't break my heart",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "Dm",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "Build Me Up Buttercup"

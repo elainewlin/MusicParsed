@@ -9,184 +9,815 @@
   "id": "through_the_glass - stone_sour",
   "lines": [
     {
-      "chord": "",
-      "lyrics": "Original key: click +6"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Original key: click +6",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Strumming pattern: D D DU UD D D"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Strumming pattern: D D DU UD D D",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Intro/Chorus]"
     },
     {
-      "chord": "                   Fsus2",
-      "lyrics": "I'm looking at you through the glass"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm looking at you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus2",
+          "lyric": "through the glass",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    Gsus4",
-      "lyrics": "Don't know how much time has passed"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Don't know how much ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": "time has passed",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Am                     Am          Gsus4",
-      "lyrics": "Oh, God it feels like forever, but no one ever tells you that"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh, God it f",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "eels like forever, but ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "no one ever ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": "tells you that",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Fsus2                 Gsus4                         Am",
-      "lyrics": "Forever feels like home, sitting all alone inside your head"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "For",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus2",
+          "lyric": "ever feels like home, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": "sitting all alone inside your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "head",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 1]"
     },
     {
-      "chord": "           Fsus2             Gsus4",
-      "lyrics": "How do you feel, that is the question"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "How do you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus2",
+          "lyric": "feel, that is the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": "question",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Am                    Am              Gsus4",
-      "lyrics": "But I forget, you don't expect an easy answer"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But I for",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "get, you don't expect ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "an easy answer  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "     Fsus2                          Gsus4",
-      "lyrics": "When something like a soul becomes initialized and folded up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus2",
+          "lyric": "something like a soul becomes i",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": "nitialized and folded up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Am                                Am                         Gsus4",
-      "lyrics": "Like paper dolls and little notes, you can't expect a bit of hope"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Like ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "paper dolls and little notes, you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "can't expect a bit of hope ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "   Fsus2                               Gsus4",
-      "lyrics": "So while you're outside looking in, describing what you see"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus2",
+          "lyric": "while you're outside looking in, des",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": "cribing what you see",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  Am                                  Am   Gsus4",
-      "lyrics": "Remember what you're staring at is me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Re",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "member what you're staring at is me ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "   "
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "                         Fsus2",
-      "lyrics": "Cause I'm looking at you through the glass"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause I'm looking at you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus2",
+          "lyric": "through the glass",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    Gsus4",
-      "lyrics": "Don't know how much time has passed"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Don't know how much ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": "time has passed",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 Am                      Am          Gsus4",
-      "lyrics": "All I know is it feels like forever, but no one ever tells you that"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "All I know is it ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "feels like forever, but ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "no one ever ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": "tells you that",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Fsus2                 Gsus4                         Am",
-      "lyrics": "Forever feels like home, sitting all alone inside your head"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "For",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus2",
+          "lyric": "ever feels like home, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": "sitting all alone inside your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "head",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "            Fsus2            Gsus4",
-      "lyrics": "How much is real? So much to question"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "How much is ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus2",
+          "lyric": "real? So much to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": "question",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Am                          Am         Gsus4",
-      "lyrics": "An epidemic of the mannequins, contaminating everything"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "An epi",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "demic of the mannequins, con",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "taminating ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": "everything",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Fsus2                          Gsus4",
-      "lyrics": "We thought came from the heart it never did, right from the start"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus2",
+          "lyric": "thought came from the heart it ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": "never did, right from the start",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                         Am             Gsus4",
-      "lyrics": "Just listen to the noises (No more silent voices)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Just listen to the noises (",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "No more silent ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": "voices)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fsus2                          Gsus4",
-      "lyrics": "Before you tell yourself, it's just a different scene"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fsus2",
+          "lyric": "Before you tell yourself, it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": "just a different scene",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  Am                                          Am   Gsus4",
-      "lyrics": "Remember it's just different from what you've seen"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Re",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "member it's just different from what you've ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "seen ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "                         Fsus2",
-      "lyrics": "Cause I'm looking at you through the glass"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause I'm looking at you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus2",
+          "lyric": "through the glass",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    Gsus4",
-      "lyrics": "Don't know how much time has passed"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Don't know how much ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": "time has passed",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 Am                      Am          Gsus4",
-      "lyrics": "All I know is it feels like forever, but no one ever tells you that"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "All I know is it ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "feels like forever, but ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "no one ever ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": "tells you that",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Fsus2                 Gsus4                         Am",
-      "lyrics": "Forever feels like home, sitting all alone inside your head"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "For",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus2",
+          "lyric": "ever feels like home, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": "sitting all alone inside your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "head",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "             Fsus2      Gsus4       Am",
-      "lyrics": "And it's the stars, the stars, that shine for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And it's the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus2",
+          "lyric": "stars, the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": "stars, that ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "shine for you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Fsus2      Gsus4       Am",
-      "lyrics": "And it's the stars, the stars, that lie to you, yeah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And it's the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus2",
+          "lyric": "stars, the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": "stars, that ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "lie to you, yeah",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "                         Fsus2",
-      "lyrics": "Cause I'm looking at you through the glass"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause I'm looking at you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus2",
+          "lyric": "through the glass",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    Gsus4",
-      "lyrics": "Don't know how much time has passed"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Don't know how much ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": "time has passed",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Am                      Am          Gsus4",
-      "lyrics": "Oh God, it feels like forever, but no one ever tells you that"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh God, it ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "feels like forever, but ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "no one ever ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": "tells you that",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Fsus2                 Gsus4                         Am",
-      "lyrics": "Forever feels like home, sitting all alone inside your head"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "For",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus2",
+          "lyric": "ever feels like home, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": "sitting all alone inside your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "head",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Ending]"
     },
     {
-      "chord": "             Fsus2      Gsus4       Am",
-      "lyrics": "And it's the stars, the stars, that shine for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And it's the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus2",
+          "lyric": "stars, the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": "stars, that ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "shine for you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Fsus2      Gsus4       Am",
-      "lyrics": "And it's the stars, the stars, that lie to you, yeah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And it's the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus2",
+          "lyric": "stars, the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": "stars, that ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "lie to you, yeah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Fsus2      Gsus4       Am",
-      "lyrics": "And it's the stars, the stars, that shine for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And it's the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus2",
+          "lyric": "stars, the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": "stars, that ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "shine for you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Fsus2      Gsus4       Am",
-      "lyrics": "And it's the stars, the stars, that lie to you, yeah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And it's the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus2",
+          "lyric": "stars, the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": "stars, that ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "lie to you, yeah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fsus2  Gsus4  Am",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Fsus2",
+          "lyric": "  "
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": "  "
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Fsus2",
-      "lyrics": "Oh, we're the stars"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fsus2",
+          "lyric": "Oh, we're the stars",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gsus4                    Am",
-      "lyrics": "Oh, we're the stars that lie"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gsus4",
+          "lyric": "Oh, we're the stars that ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "lie",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Through the Glass"

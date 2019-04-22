@@ -15,216 +15,1254 @@
       "label": "[Verse]"
     },
     {
-      "chord": "C          Am7",
-      "lyrics": " When your legs don't work"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " When your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "legs don't work",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          F             G",
-      "lyrics": "Like they used to before"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Like they ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "used to before",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C            Am7                   F    G",
-      "lyrics": " And I can't sweep you off of your feet"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " And I can't ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "sweep you off of your ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "feet ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C          Am7",
-      "lyrics": " Will your mouth still remember"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " Will your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "mouth still remember",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    F               G",
-      "lyrics": "The taste of my love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "taste of my love",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C          Am7",
-      "lyrics": " Will your eyes still smile"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " Will your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "eyes still smile",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F               G",
-      "lyrics": "From your cheeks"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "From your cheeks",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "            C  Am7           F    G              C   Am7  F  G",
-      "lyrics": "And darling I will be loving you 'til we're seventy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And darling ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I w",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "ill be loving ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "you '",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "til we're seven",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ty  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "           C   Am7                   F  G           C    Am7",
-      "lyrics": "And baby my heart could still fall as hard at twenty-three"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And baby my",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " hea",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "rt could still fall as",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " ha",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "rd at twenty",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "-thre",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                 G",
-      "lyrics": "And I'm thinking 'bout how"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "And I'm thinking '",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "bout how",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "Dm                       G        C",
-      "lyrics": "People fall in love in mysterious ways"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "People fall in love in my",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "sterious ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ways",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm                        G",
-      "lyrics": "Maybe just the touch of a hand"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Maybe just the touch of a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "hand",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Dm                            G         Am",
-      "lyrics": "Well me I fall in love with you every single day"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Well ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "me I fall in love with you eve",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ry single ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "day",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Dm                      G",
-      "lyrics": "And I just wanna tell you I am"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "I just wanna tell you I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "am",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "         C    Am7  F",
-      "lyrics": "So honey now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So honey ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "now  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "        G                C   Am7  F",
-      "lyrics": "Take me into your loving arms"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Take me ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "into your loving ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "arms",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "        G                    C           Am7  F",
-      "lyrics": "Kiss me under the light of a thousand stars"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Kiss me ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "under the light of a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "thousand sta",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "rs   ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "           G                  C     Am7",
-      "lyrics": "Place your head on my beating heart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Place your ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "head on my beating ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "heart ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "             F     G",
-      "lyrics": "I'm thinking out loud"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm thinking ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "out lo",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ud",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Am  G     F    C     F     G  C",
-      "lyrics": "And maybe we  found love right where we are"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And maybe ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "we  ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "found ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "love ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "right ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "where ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "we ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "are",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "C        Am7                       F           G",
-      "lyrics": " When my hairs all but gone and my memory fades"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " When my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "hairs all but gone and my ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "memory fades",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C        Am7                      F    G",
-      "lyrics": " And the crowds don't remember my name"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " And the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "crowds don't remember my ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "name ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C        Am7         F                    G           C",
-      "lyrics": " When my hands don't play the strings the same way, mmm"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " When my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "hands don't ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "play the strings the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "same way, mm",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "m",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Am7                        F    G",
-      "lyrics": "I know you will still love me the same"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I know ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "you will still love me the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "same ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "              C   Am7             F    G                 C  Am7  F  G",
-      "lyrics": "Cause honey your soul could never grow old it's evergreen"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause honey yo",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ur s",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "oul could never ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "grow ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "old it's evergreen",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "Am7",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "           C    Am7           F     G            C  Am7  F",
-      "lyrics": "And baby your smile's forever in my mind and memory"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And baby yo",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ur sm",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "ile's forever ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "in my ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "mind and memo",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ry ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "              G",
-      "lyrics": "I'm thinking 'bout how"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm thinking '",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "bout how",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "Dm                       G        C",
-      "lyrics": "People fall in love in mysterious ways"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "People fall in love in my",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "sterious ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ways",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Dm                       G",
-      "lyrics": "And maybe it's all part of a plan"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "maybe it's all part of a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "plan",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Dm                           Am     Am7",
-      "lyrics": "Well I'll just keep on making the same mistakes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Well ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "I'll just keep on making the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "same mi",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "stakes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm                      G",
-      "lyrics": "Hoping that you'll understand"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Hoping that you'll under",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "stand",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "          C    Am7 F",
-      "lyrics": "That baby now, oooooh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That baby ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "now, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "oooo",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "oh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G                C   Am7  F",
-      "lyrics": "Take me into your loving arms"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Take me ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "into your loving ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "arms",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "        G                    C           Am7  F",
-      "lyrics": "Kiss me under the light of a thousand stars"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Kiss me ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "under the light of a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "thousand sta",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "rs   ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "           G                  C     Am7",
-      "lyrics": "Place your head on my beating heart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Place your ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "head on my beating ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "heart ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "             F     G",
-      "lyrics": "I'm thinking out loud"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm thinking ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "out lo",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ud",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Am  G     F    C     F     G  C",
-      "lyrics": "That maybe we  found love right where we are, oh oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That maybe ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "we  ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "found ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "love ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "right ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "where ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "we ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "are, oh oh",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Instrumental]"
     },
     {
-      "chord": "C Am7 F G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "Am7",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C Am7 F G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "Am7",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "        C   Am7 F",
-      "lyrics": "So baby now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So baby ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "now ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "        G                C   Am7  F",
-      "lyrics": "Take me into your loving arms"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Take me ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "into your loving ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "arms",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "        G                    C           Am7    F",
-      "lyrics": "Kiss me under the light of a thousand stars, oh darlin'"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Kiss me ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "under the light of a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "thousand sta",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "rs, oh ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "darlin'",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           G                  C     Am7",
-      "lyrics": "Place your head on my beating heart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Place your ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "head on my beating ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "heart ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "             F     G",
-      "lyrics": "I'm thinking out loud"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm thinking ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "out lo",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ud",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Outro]"
     },
     {
-      "chord": "           Am  G     F    C     F     G  C",
-      "lyrics": "That maybe we  found love right where we are"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That maybe ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "we  ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "found ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "love ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "right ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "where ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "we ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "are",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Am  G     F    C     F     G  C",
-      "lyrics": "And baby we  found love right where we are"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And baby ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "we  ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "found ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "love ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "right ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "where ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "we ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "are",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am  G     F    C     F        C",
-      "lyrics": "And we  found love right where we are"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "we  ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "found ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "love ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "right ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "where we ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "are",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Thinking Out Loud"

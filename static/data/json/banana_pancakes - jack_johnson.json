@@ -18,245 +18,905 @@
       "label": "[Intro]"
     },
     {
-      "chord": "                                 Am7",
-      "lyrics": "Well can't you see that it's just raining?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Well can't you see that it's just",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": " raining?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                       G7",
-      "lyrics": "Ain't no need to go outside."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Ain't no need to go out",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "side.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      D7",
-      "lyrics": "But baby!"
-    },
-    {
-      "label": "[Verse]"
-    },
-    {
-      "chord": "    G           D7",
-      "lyrics": "You hardly even notice"
-    },
-    {
-      "chord": "Am7           C7",
-      "lyrics": "when I try to show you"
-    },
-    {
-      "chord": "     G                D7",
-      "lyrics": "This song is meant to keep you"
-    },
-    {
-      "chord": "     Am7               C7",
-      "lyrics": "from doing what you're supposed to"
-    },
-    {
-      "chord": "G             D7",
-      "lyrics": "wakin' up too early"
-    },
-    {
-      "chord": "Am7            C7",
-      "lyrics": "maybe we could sleep in"
-    },
-    {
-      "chord": "G               D7",
-      "lyrics": "make you banana pancakes"
-    },
-    {
-      "chord": "Am7                  C7",
-      "lyrics": "pretend like it's the weekend"
-    },
-    {
-      "label": "[Chorus]"
-    },
-    {
-      "chord": "Am7",
-      "lyrics": "now"
-    },
-    {
-      "chord": "                            G",
-      "lyrics": "we could pretend it all the time."
-    },
-    {
-      "chord": "                             Am7",
-      "lyrics": "Can't you see that it's just raining."
-    },
-    {
-      "chord": "                       G",
-      "lyrics": "Ain't no need to go outside."
-    },
-    {
-      "chord": "         D7",
-      "lyrics": "But just maybe"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ba",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "by!",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "G          D7    Am7         C7",
-      "lyrics": "Hala ka ukulele, mama made a baby."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "hardly even ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "notice",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                     D7             Am7              C7",
-      "lyrics": "Really don't mind the practice cause you're my little lady."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am7",
+          "lyric": "when I try to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "show you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G         D7              Am7              C7",
-      "lyrics": "Lady lady love me cause I love to lay here lazy."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "This ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "song is meant to ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "keep you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                  D7         Am7                   C7",
-      "lyrics": "We could close the curtains pretend like there's no world"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "from ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "doing what you're ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "supposed to",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "wakin' up too ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "early",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am7",
+          "lyric": "maybe we could ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "sleep in",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "make you banana ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "pancakes",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am7",
+          "lyric": "pretend like it's the",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": " weekend",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Am7",
-      "lyrics": "outside."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am7",
+          "lyric": "now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                             G",
-      "lyrics": " we could pretend it all the time."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "we could pretend it all the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "time.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                             Am7",
-      "lyrics": "Can't you see that it's just raining."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Can't you see that it's just ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "raining.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                       G",
-      "lyrics": "Ain't no need to go outside."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Ain't no need to go out",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "side.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                       Am7",
-      "lyrics": "Ain't no need ain't no need."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But just ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "maybe",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G",
-      "lyrics": "mmm-mmm"
+      "label": "[Verse]"
     },
     {
-      "chord": "                        Am7",
-      "lyrics": "Can't you see can't you see?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Hala ka uku",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "lele, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "mama made a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "baby.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                           G",
-      "lyrics": "Rain all day and I don't mind."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Really don't mind the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "practice cause ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "you're my little ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "lady.",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Lady lady ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "love me cause I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "love to lay here ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "lazy.",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "We could close the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "curtains pr",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "etend like there's no ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "world",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "[Chorus]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am7",
+          "lyric": "outside.",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " we could pretend it all the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "time.",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Can't you see that it's just ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "raining.",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Ain't no need to go out",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "side.",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Ain't no need ain't no ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "need.",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "mmm-",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "mmm",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Can't you see can't you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "see?",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Rain all day and I don't mi",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "nd.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "Am7",
-      "lyrics": "But the telephone is singin' ringin'"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am7",
+          "lyric": "But the telephone is singin' ringin'",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                            D",
-      "lyrics": "it's too early dont pick it up."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "it's too early dont pick it ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "up.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "We don't need to"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We don't need to",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Am7",
-      "lyrics": "we got everything we need right here and"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "we got ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "everything we need right here and",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                      D",
-      "lyrics": "everything we need is enough."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "everything we need is ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "enough.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "just so easy"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "just so easy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Bm7",
-      "lyrics": "When the whole world fit's inside of your arms"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm7",
+          "lyric": "whole world fit's inside of your arms",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Em             Em/D#         C",
-      "lyrics": "do we really need to pay attention to the alarm?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "do we ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "really need to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em/D#",
+          "lyric": "pay attention ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "to the alarm?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G          D7",
-      "lyrics": "wake up slow,  mmm mmm"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "wake up ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "slow,  mmm ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "mmm",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G",
-      "lyrics": "wake up slow"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "wake up ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "slow",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "G   D7",
-      "lyrics": "But baby!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "baby!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G           D7",
-      "lyrics": "You hardly even notice"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "hardly even ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "notice",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am7           C7",
-      "lyrics": "when I try to show you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am7",
+          "lyric": "when I try to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "show you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     G                D7",
-      "lyrics": "This song is meant to keep you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "This ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "song is meant to ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "keep you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Am7               C7",
-      "lyrics": "from doing what you're supposed to"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "from ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "doing what you're ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "supposed to",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G             D7",
-      "lyrics": "wakin' up too early"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "wakin' up too ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "early",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am7            C7",
-      "lyrics": "maybe we could sleep in"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am7",
+          "lyric": "maybe we could ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "sleep in",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G               D7",
-      "lyrics": "make you banana pancakes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "make you banana ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "pancakes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am7                  C7",
-      "lyrics": "pretend like it's the weekend"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am7",
+          "lyric": "pretend like it's the",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": " weekend",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Am7",
-      "lyrics": "now."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am7",
+          "lyric": "now.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                            G",
-      "lyrics": "We could pretend it all the time."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We could pretend it all the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "time.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                             Am7",
-      "lyrics": "Can't you see that it's just raining."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Can't you see that it's just ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "raining.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                       G",
-      "lyrics": "Ain't no need to go outside."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Ain't no need to go out",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "side.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                       Am7",
-      "lyrics": "ain't no need ain't no need."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "ain't no need ain't no ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "need.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   G",
-      "lyrics": "Rain all day and I really really really don't mind."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Rain all day and I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "really really really don't mind.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                         Am7",
-      "lyrics": "Can't you see can't you see?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Can't you see can't you s",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "ee?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   G",
-      "lyrics": "you gotta wake up slow."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "you gotta wake up s",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "low.",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Banana Pancakes"

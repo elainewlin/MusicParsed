@@ -13,252 +13,1153 @@
       "label": "[Notes]"
     },
     {
-      "chord": "",
-      "lyrics": "Low G string, tune G, C, E, G"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Low G string, tune G, C, E, G",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Picking pattern:"
     },
     {
-      "chord": "  C        F        Am       G",
-      "lyrics": "G----0---0----2---2----5---5----4---4--"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "G-",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "---0---0-",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "---2---2-",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "---5---5-",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "---4---4--",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "E--0---0----1---1----0---0----3---3----"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "E--0---0----1---1----0---0----3---3----",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "C-0-0-0-0--0-0-0-0--0-0-0-0--2-2-2-2---"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "C-0-0-0-0--0-0-0-0--0-0-0-0--2-2-2-2---",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "G--------------------------------------"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "G--------------------------------------",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Strum pattern:"
     },
     {
-      "chord": "",
-      "lyrics": "1+2+3+4+"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "1+2+3+4+",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "d d D du"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "d d D du",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Intro]"
     },
     {
-      "chord": "C  F  Am  G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": "  "
+        },
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C  F  Am  G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": "  "
+        },
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "C         F                  Am         G",
-      "lyrics": "  Shadows settle on the place  that you left."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " Shadows "
+        },
+        {
+          "chord": "F",
+          "lyric": "settle on the place",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "  that you ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "left.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C               F               Am       G",
-      "lyrics": "  Our minds are troubled by the emptiness."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " Our minds are "
+        },
+        {
+          "chord": "F",
+          "lyric": "troubled by the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "emptiness",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ".",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C             F              Am          G",
-      "lyrics": "  Destroy the middle, it's a waste of time."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " Destroy the "
+        },
+        {
+          "chord": "F",
+          "lyric": "middle, it's a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "waste of tim",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "e.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         C       F            Am         G",
-      "lyrics": "From the perfect start to the finish line."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "From the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "perfect ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "start to the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "finish line",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ".",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "       C            F                     Am         G",
-      "lyrics": "And if you're still breathing, you're the lucky ones."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And if ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "you're still ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "breathing, you're the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "lucky ones.",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "       C              F                  Am         G",
-      "lyrics": "'Cause most of us are heaving through corrupted lungs."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Cause ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "most of us are ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "heaving through cor",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "rupted lung",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "s.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        C           F           Am         G",
-      "lyrics": "Setting fire to our insides for fun"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Setting ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "fire to our ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "insides for ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "fun        ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "           C            F                     Am",
-      "lyrics": "Collecting names of the lovers that went wrong"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Collecting ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "names of the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "lovers that went wrong",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    G",
-      "lyrics": "The lovers that went wrong."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "lovers that went wrong.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Interlude]"
     },
     {
-      "chord": "Am  Am  F  G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am  Am  F  G",
-      "lyrics": ""
-    },
-    {
-      "label": "[Verse]"
-    },
-    {
-      "chord": "C            F                    Am         G",
-      "lyrics": "  We are the reckless, we are the wild youth"
-    },
-    {
-      "chord": "        C          F              Am         G",
-      "lyrics": "Chasing visions of our futures"
-    },
-    {
-      "chord": "    C         F          Am            G",
-      "lyrics": "One day we'll reveal the truth"
-    },
-    {
-      "chord": "              C             F           Am   G",
-      "lyrics": "That one will die before he gets there."
-    },
-    {
-      "label": "[Chorus]"
-    },
-    {
-      "chord": "       C            F                    Am         G",
-      "lyrics": "And if you're still bleeding, you're the lucky ones."
-    },
-    {
-      "chord": "       C           F                  Am                     G",
-      "lyrics": "'Cause most of our feelings, they are dead and they are gone."
-    },
-    {
-      "chord": "               C          F           Am    G",
-      "lyrics": "We're setting fire to our insides for fun."
-    },
-    {
-      "chord": "           C                 F                      Am",
-      "lyrics": "Collecting pictures from the flood that wrecked our home,"
-    },
-    {
-      "chord": "         G",
-      "lyrics": "It was a flood that wrecked this home."
-    },
-    {
-      "label": "[Bridge]"
-    },
-    {
-      "chord": "Am  Am  F",
-      "lyrics": ""
-    },
-    {
-      "chord": "G",
-      "lyrics": "And you caused it"
-    },
-    {
-      "chord": "Am  Am  F",
-      "lyrics": ""
-    },
-    {
-      "chord": "G",
-      "lyrics": "And you caused it"
-    },
-    {
-      "chord": "Am  Am  F",
-      "lyrics": ""
-    },
-    {
-      "chord": "G",
-      "lyrics": "And you caused it"
-    },
-    {
-      "chord": "Am  Am  F  G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "C                 F               Am         G",
-      "lyrics": "Well I've lost it all, I'm just a silouhette,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " We are the "
+        },
+        {
+          "chord": "F",
+          "lyric": "reckless, we are the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "wild youth ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "  C        F                     Am          G",
-      "lyrics": "A lifeless face that you'll soon forget,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Chasing ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "visions of ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "our futures    ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "         "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "   C        F             Am                 G",
-      "lyrics": "My eyes are damp from the words you left,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "One ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "day we'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "reveal the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "truth         ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "        C     F              Am              G",
-      "lyrics": "Ringing in my head, when you broke my chest."
-    },
-    {
-      "chord": "        C     F              Am              G",
-      "lyrics": "Ringing in my head, when you broke my chest."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That one will ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "die before he ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "gets there. ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "   "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "       C          F                     Am        G",
-      "lyrics": "And if you're in love, then you are the lucky one,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And if ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "you're still ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "bleeding, you're the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "lucky ones.",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "       C              F           Am          G",
-      "lyrics": "'Cause most of us are bitter over someone."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Cause ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "most of our ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "feelings, they are ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "dead and they are gone.",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "        C           F           Am     G",
-      "lyrics": "Setting fire to our insides for fun"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We're setting f",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ire to our ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "insides for ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "fun.  ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "   C                        F            Am",
-      "lyrics": "To distract our hearts from ever missing them."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Collecting ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "pictures from the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "flood that wrecked our ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "home,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G",
-      "lyrics": "But I'm forever missing him."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It was a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "flood that wrecked this home.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "Am  Am  F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "And you caused it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "And you caused it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am  Am  F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "And you caused it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "And you caused it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am  Am  F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "And you caused it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "And you caused it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am  Am  F  G  Am",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "label": "[Verse]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Well I've lost it ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "all, I'm just a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "silouhette,",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "lifeless ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "face that you'll soon ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "forget,     ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "My ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "eyes are ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "damp from the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "words you left,    ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Ringing ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "in my ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "head, when you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "broke my chest. ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Ringing ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "in my ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "head, when you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "broke my chest. ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "label": "[Chorus]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And if ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "you're in l",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ove, then you are the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "lucky one,",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Cause ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "most of us are ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "bitter over ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "someone.    ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Setting ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "fire to our ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "insides for ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "fun    ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "distract our hearts from ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ever missing ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "them.",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "forever missing him.",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "[Bridge]"
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "And you caused it",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "And you caused it",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "And you caused it",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "overrideAllChords": [

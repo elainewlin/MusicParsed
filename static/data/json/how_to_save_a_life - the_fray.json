@@ -13,163 +13,764 @@
       "label": "[Verse]"
     },
     {
-      "chord": "G                    D/F#",
-      "lyrics": "Step one you say we need to talk"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Step one you say we n",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "eed to talk",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Em                 D        D/F#    G",
-      "lyrics": "He walks you say sit down it’s just a talk"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "He w",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "alks you say sit do",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "wn it’s j",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "ust a ta",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "lk",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             D/F#           Em",
-      "lyrics": "He smiles politely back at you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "He smiles pol",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "itely back at y",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ou",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             D       D/F#      G",
-      "lyrics": "You stare politely right on through"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You stare pol",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "itely ri",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "ght on thr",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ough",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               D/F#          Em",
-      "lyrics": "Some sort of window to your right"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Some sort of wi",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "ndow to your r",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             D       D/F#      G",
-      "lyrics": "As he goes left and you stay right"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "As he goes le",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ft and y",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "ou stay ri",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ght",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              D/F#             Em",
-      "lyrics": "Between the lines of fear and blame"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Between the li",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "nes of fear and b",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "lame",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   D     D/F#",
-      "lyrics": "And you begin to wonder why you came"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And you begin to wo",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "nder w",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "hy you came",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "  C             D                Em",
-      "lyrics": "Where did I go wrong, I lost a friend"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Wh",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ere did I go w",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "rong, I lost a fr",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "iend",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            G             D/F#",
-      "lyrics": "Somewhere along in the bitterness"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Somewhere al",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ong in the bit",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "terness",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C                   D                Em",
-      "lyrics": "And I would have stayed up with you all night"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I would have stayed ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "up with you all n",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             G             D/F#",
-      "lyrics": "Had I known how to save a life"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Had I known h",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ow to save a l",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "ife",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "G                 D/F#",
-      "lyrics": "Let him know that you know best"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Let him know that ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "you know best",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Em           D        D/F#",
-      "lyrics": "Cause after all you do know best"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause a",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "fter all you ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "do know b",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "est",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                  D/F#",
-      "lyrics": "  Try to slip past his defence"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " Try to slip past "
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "his defence",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em               D        D/F#",
-      "lyrics": "Without granting innocence"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Without granting ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "innocence",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G             D/F#             Em",
-      "lyrics": "   Lay down a list of what is wrong"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "  Lay down a "
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "list of what is w",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "rong",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             D        D/F#",
-      "lyrics": "The things you’ve told him all along"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The things yo",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "u’ve told",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": " him all along",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                   D/F#",
-      "lyrics": "And pray to God he hears you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "And pray to God he h",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "ears you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Em             D        D/F#",
-      "lyrics": "And pray to God he hears you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "pray to God he ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "hears you",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "  C             D                Em",
-      "lyrics": "Where did I go wrong, I lost a friend"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Wh",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ere did I go w",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "rong, I lost a fr",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "iend",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            G             D/F#",
-      "lyrics": "Somewhere along in the bitterness"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Somewhere al",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ong in the bit",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "terness",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C                   D                Em",
-      "lyrics": "And I would have stayed up with you all night"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I would have stayed ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "up with you all n",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             G             D/F#",
-      "lyrics": "Had I known how to save a life"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Had I known h",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ow to save a l",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "ife",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "    G            D/F#",
-      "lyrics": "As he begins to raise his voice"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "As h",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "e begins to r",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "aise his voice",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Em              D       D/F#          G",
-      "lyrics": "You lower yours and grant him one last choice"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You l",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ower yours and g",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "rant him",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": " one last choi",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ce",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 D/F#",
-      "lyrics": "Drive until you lose the road"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Drive until you l",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "ose the road",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Em                         D/F#",
-      "lyrics": "Or break with the ones you’ve followed"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Or b",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "reak with the ones you’ve f",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "ollowed",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G             D/F#",
-      "lyrics": "   He will do one of two things"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "  He will do "
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "one of two things",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                D/F#",
-      "lyrics": "He will admit to everything"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "He will admit to e",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "verything",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                     D/F#",
-      "lyrics": "Or he’ll say he’s just not the same"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Or he’ll say he’s just",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": " not the same",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Em             D/F#",
-      "lyrics": "And you’ll begin to wonder why you came"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And y",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ou’ll begin to ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "wonder why you came",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "  C             D                Em",
-      "lyrics": "Where did I go wrong, I lost a friend"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Wh",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ere did I go w",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "rong, I lost a fr",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "iend",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            G             D/F#",
-      "lyrics": "Somewhere along in the bitterness"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Somewhere al",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ong in the bit",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "terness",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C                   D                Em",
-      "lyrics": "And I would have stayed up with you all night"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I would have stayed ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "up with you all n",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             G             D/F#",
-      "lyrics": "Had I known how to save a life"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Had I known h",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ow to save a l",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "ife",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "How To Save A Life"

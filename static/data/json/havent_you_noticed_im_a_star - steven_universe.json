@@ -14,76 +14,324 @@
   "id": "havent_you_noticed_im_a_star - steven_universe",
   "lines": [
     {
-      "chord": "G",
-      "lyrics": "I can't help it if I make a scene,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I can't help it if I make a scene,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                                Am",
-      "lyrics": "Stepping out of my hot pink limousine."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Stepping out of my hot pink limou",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "sine.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "I'm turning heads and I'm stopping traffic,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I'm turning heads and I'm stopping traffic,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       D",
-      "lyrics": "When I pose, they scream and when I joke, they laugh."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "pose, they scream and when I joke, they laugh.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           G",
-      "lyrics": "I've got a pair of eyes that they're getting lost in,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've got a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "pair of eyes that they're getting lost in,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D",
-      "lyrics": "They're hypnotized by my way of walking,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "They're hypnotized by my way of walking,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "I've got them dazzled like a stage magician,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I've got them dazzled like a stage magician,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       D",
-      "lyrics": "When I point, they look, and when I talk, they listen."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "point, they look, and when I talk, they listen.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Em                C",
-      "lyrics": "Well, everybody needs a friend,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Well, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "everybody needs a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "friend,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                          D",
-      "lyrics": "And I got you and you and you."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I got you and you and ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "you.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                      G",
-      "lyrics": "So many, I can't even name them,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So many, I can't even ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "name them,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        D                 Am7",
-      "lyrics": "Can you blame me, I'm too famous."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Can you ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "blame me, I'm too ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "famous.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            G        D     Cmaj7",
-      "lyrics": "Haven't you noticed? I'm a star."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Haven't you ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "noticed? ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "I'm a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "star.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                G           D        Cmaj7",
-      "lyrics": "I'm coming into view as the world is turning."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm coming into ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "view as the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "world is ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "turning.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            G            D            Cmaj7",
-      "lyrics": "Haven't you noticed I've made it this far?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Haven't you ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "noticed I've ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "made it this ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "far?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     G            D      Cmaj7",
-      "lyrics": "Now, everyone can see me burning"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Now, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "everyone can ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "see me ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "burning",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     G            D      Cmaj7",
-      "lyrics": "Now, everyone can see me burning"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Now, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "everyone can ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "see me ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "burning",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     G            B7     Em",
-      "lyrics": "Now, everyone can see me burning"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Now, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "everyone can ",
+          "overLyric": true
+        },
+        {
+          "chord": "B7",
+          "lyric": "see me ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "burning",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Haven't You Noticed I'm a Star"

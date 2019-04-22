@@ -18,321 +18,1129 @@
       "label": "[Intro]"
     },
     {
-      "chord": "Cm   F   Ab   Absus2",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Cm",
+          "lyric": "   "
+        },
+        {
+          "chord": "F",
+          "lyric": "   "
+        },
+        {
+          "chord": "Ab",
+          "lyric": "   "
+        },
+        {
+          "chord": "Absus2",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "            Cm       F",
-      "lyrics": "[Zac] We're soaring, flying"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Zac] We're ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "soaring, ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "flying",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ab                     Eb",
-      "lyrics": "There's not a star in heaven"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "There's not a star in h",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "eaven",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Bb       Cm",
-      "lyrics": "that we can't reach"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "that w",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "e can't r",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "each",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    F",
-      "lyrics": "[Vanessa] if we're trying"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Vanessa] if we're t",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "rying",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              Ab",
-      "lyrics": "so we're breaking free"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "so we're break",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "ing free",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Zac]"
     },
     {
-      "chord": "Cm                      F      Ab",
-      "lyrics": "You know the world can see us"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cm",
+          "lyric": "You know the world can s",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ee us  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                 Eb             Bb/D   Cm",
-      "lyrics": "in a way that's different than who we are"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "in a way that's d",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "ifferent than w",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb/D",
+          "lyric": "ho we a",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "re",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Vanessa]"
     },
     {
-      "chord": "                    F",
-      "lyrics": "creating space between us"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "creating space betwe",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "en us",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Ab                     Eb  Bb/D",
-      "lyrics": "'til we're separate hearts"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'til ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "we're separate hearts  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "  "
+        },
+        {
+          "chord": "Bb/D",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Both]"
     },
     {
-      "chord": "Ab",
-      "lyrics": "But your faith"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "But your faith",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    F/A",
-      "lyrics": "it gives me strength"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "it g",
+          "overLyric": true
+        },
+        {
+          "chord": "F/A",
+          "lyric": "ives me strength",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ab",
-      "lyrics": "strength to believe"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "strength to believe",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "",
-      "lyrics": "[Zac] we're breaking free"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Zac] we're breaking free",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Cm",
-      "lyrics": "[Vanessa] We're soaring"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Vanessa] We're ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "soaring",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       F",
-      "lyrics": "[Zac] flying"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Zac] f",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "lying",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Ab                     Eb",
-      "lyrics": "[Both] there's not a star in heaven"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Both] ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "there's not a star in h",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "eaven",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Bb/D     Cm",
-      "lyrics": "that we can't reach"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "that w",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb/D",
+          "lyric": "e can't r",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "each",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                F",
-      "lyrics": "[Zac] if we're trying"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Zac] if we're t",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "rying",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                       Ab",
-      "lyrics": "[Both] yeah we're breaking free"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Both] yeah we're break",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "ing free",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "[Zac] oh we're breaking free"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Zac] oh we're breaking free",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "[Vanessa] oooh"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Vanessa] oooh",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Zac]"
     },
     {
-      "chord": "Cm                 F         Ab",
-      "lyrics": "  Can you feel it building?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cm",
+          "lyric": "  Can you feel it b",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "uilding?  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                 Eb         Bb/D     Cm",
-      "lyrics": "like a wave the ocean just can't control"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "like a wave the o",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "cean just c",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb/D",
+          "lyric": "an't cont",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "rol",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Vanessa]"
     },
     {
-      "chord": "                 F",
-      "lyrics": "connected by a feeling [Both] oooh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "connected by a fe",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "eling [Both] oooh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Ab                        Eb   Bb/D",
-      "lyrics": "in our very souls [Zac] very souls    oooh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "in our ve",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "ry souls [Zac] very souls ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": " oo"
+        },
+        {
+          "chord": "Bb/D",
+          "lyric": "oh",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Both]"
     },
     {
-      "chord": "Ab               F/A",
-      "lyrics": "Rising 'till it lifts us up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "Rising 'till it l",
+          "overLyric": true
+        },
+        {
+          "chord": "F/A",
+          "lyric": "ifts us up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Ab",
-      "lyrics": "so everyone can see"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "so ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "everyone can see",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "",
-      "lyrics": "[Zac] we're breaking free"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Zac] we're breaking free",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Cm",
-      "lyrics": "[Vanessa] Soaring"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Vanessa] ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "Soaring",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       F",
-      "lyrics": "[Zac] flying"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Zac] f",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "lying",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Ab                     Eb",
-      "lyrics": "[Both] there's not a star in heaven"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Both] ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "there's not a star in h",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "eaven",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Bb/D     Cm",
-      "lyrics": "that we can't reach"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "that w",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb/D",
+          "lyric": "e can't r",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "each",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                F",
-      "lyrics": "[Zac] if we're trying"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Zac] if we're t",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "rying",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                       Ab",
-      "lyrics": "[Both] yeah we're breaking free"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Both] yeah we're break",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "ing free",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "[Zac] oh we're breaking free"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Zac] oh we're breaking free",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "[Vanessa] oooh"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Vanessa] oooh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Cm",
-      "lyrics": "[Vanessa] Running"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Vanessa] ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "Running",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       F",
-      "lyrics": "[Zac] climbing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Zac] c",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "limbing",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Ab",
-      "lyrics": "to get to the place"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "get to the place",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Eb          Bb/D   Cm",
-      "lyrics": "[Both] to be all that we can be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Both] to b",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "e all that w",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb/D",
+          "lyric": "e can b",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 F",
-      "lyrics": "[Zac] now's the time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Zac] now's the t",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ime",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     Ab",
-      "lyrics": "[Both] so we're breaking free"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Both] so we're break",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "ing free",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 Eb                      Bb/D",
-      "lyrics": "[Zac] we're breaking free [Vanessa] Ooh yeah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Zac] we're break",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "ing free [Vanessa] Ooh y",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb/D",
+          "lyric": "eah",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Zac]"
     },
     {
-      "chord": "Ab                           F/A",
-      "lyrics": "  more than hope, more than faith"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "  more than hope, more than f",
+          "overLyric": true
+        },
+        {
+          "chord": "F/A",
+          "lyric": "aith",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Vanessa]"
     },
     {
-      "chord": "                        Ab",
-      "lyrics": "this is truth, this is fate"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "this is truth, this is f",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "ate",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "and together we [Both] see it coming"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and together we [Both] see it coming",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Zac]"
     },
     {
-      "chord": "Ab                          F/A",
-      "lyrics": "  more than you, more than me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "  more than you, more than m",
+          "overLyric": true
+        },
+        {
+          "chord": "F/A",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Vanessa]"
     },
     {
-      "chord": "                  Ab",
-      "lyrics": "not a want but a need"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "not a want but a n",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "eed",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Both]"
     },
     {
-      "chord": "",
-      "lyrics": "both of us breaking free..."
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "both of us breaking free...",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "",
-      "lyrics": "KEY CHANGE"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "KEY CHANGE",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Dm",
-      "lyrics": "[Vanessa] Soaring"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Vanessa] ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "Soaring",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      G",
-      "lyrics": "[Zac] flying"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Zac] ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "flying",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Bb                      F",
-      "lyrics": "[Both] there's not a star in heaven"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Both] ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "there's not a star in he",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "aven",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      C/E       Dm",
-      "lyrics": "that we can't reach"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "that w",
+          "overLyric": true
+        },
+        {
+          "chord": "C/E",
+          "lyric": "e can't re",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ach",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           G",
-      "lyrics": "if we're trying"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "if we're tr",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ying",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                       Bb",
-      "lyrics": "[Zac] yeah, we're breaking free"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Zac] yeah, we're break",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ing free",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "[Vanessa] breaking free"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Vanessa] breaking free",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Dm",
-      "lyrics": "[Vanessa] We're running"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Vanessa] We're ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "running",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             G",
-      "lyrics": "[Zac] oooh climbing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Zac] oooh cl",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "imbing",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Bb                   F",
-      "lyrics": "[Both] to get to the place to be all"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Both] to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "get to the place to b",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "e all",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      C/E    Dm",
-      "lyrics": "that we can be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "that w",
+          "overLyric": true
+        },
+        {
+          "chord": "C/E",
+          "lyric": "e can b",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           G",
-      "lyrics": "now's the time [Zac] Now's the time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "now's the t",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ime [Zac] Now's the time",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     Bb",
-      "lyrics": "[Vanessa] we're breaking free"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Vanessa] we're break",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ing free",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "[Zac] oh we're breaking free"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Zac] oh we're breaking free",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "[Vanessa] ohhh"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Vanessa] ohhh",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Both]"
     },
     {
-      "chord": "Dm                        G      Bb",
-      "lyrics": "  You know the world can see us"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "  You know the world can s",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ee us  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                F               C/E   Bb",
-      "lyrics": "in a way that's different than who we are."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "in a way that's ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "different than w",
+          "overLyric": true
+        },
+        {
+          "chord": "C/E",
+          "lyric": "ho we ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "are.",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Breaking Free"

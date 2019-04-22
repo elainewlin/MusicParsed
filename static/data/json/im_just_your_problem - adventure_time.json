@@ -15,82 +15,335 @@
       "label": "[Verse]"
     },
     {
-      "chord": "Em                           G",
-      "lyrics": "Sorry I don't treat you like a goddess"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Sorry I don't treat you like ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "a goddess",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                         G",
-      "lyrics": "Is that what you want me to do?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Is that what you want me t",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "o do?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                              G",
-      "lyrics": "Sorry I don't treat you like you're perfect"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Sorry I don't treat you like you",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "'re perfect",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C                             G",
-      "lyrics": "like all your little loyal subjects do,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "like",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " all your little loyal subject",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "s do,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                         G",
-      "lyrics": "Sorry I'm not made out of sugar"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Sorry I'm not made out of s",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ugar",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Am             D",
-      "lyrics": "and I'm not sweet enough for you."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and I'm not s",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "weet enough for",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " you.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Em                 G",
-      "lyrics": "Is that why you always avoid me,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Is ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "that why you always",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " avoid me,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         C                             G",
-      "lyrics": "that must be such an inconvenience to you!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "that must",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " be such an inconvenience to y",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ou!",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Em           B7",
-      "lyrics": "I'm just you problem"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "I'm just you ",
+          "overLyric": true
+        },
+        {
+          "chord": "B7",
+          "lyric": "problem",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em            B7",
-      "lyrics": "I'm just you problem"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "I'm just you p",
+          "overLyric": true
+        },
+        {
+          "chord": "B7",
+          "lyric": "roblem",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Em        B7",
-      "lyrics": "It's like I'm not even a person, am I?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's like I'm",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " not even ",
+          "overLyric": true
+        },
+        {
+          "chord": "B7",
+          "lyric": "a person, am I?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em            B7",
-      "lyrics": "I'm just your problem"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "I'm just your ",
+          "overLyric": true
+        },
+        {
+          "chord": "B7",
+          "lyric": "problem",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "     Em                     C               G",
-      "lyrics": "well, I--- shouldn't have to justify what I do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "well,",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " I--- shouldn't have to",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " justify what I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "do",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                      C                 G",
-      "lyrics": "I--- shouldn't have to prove anything to you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "I--- shouldn't have to p",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "rove anything to y",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ou",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Em                              Am                D",
-      "lyrics": "I'm sorry that I exist, I forgot what landed me on your blacklist"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm s",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "orry that I exist, I forgot what",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " landed me on your",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " blacklist",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                          C                   G",
-      "lyrics": "I--- shouldn't have to be the one that makes up with you, so"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "I--- shouldn't have to be th",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "e one that makes up ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "with you, so",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em     B7",
-      "lyrics": "why do I want to?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "why do ",
+          "overLyric": true
+        },
+        {
+          "chord": "B7",
+          "lyric": "I want to?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em     B7",
-      "lyrics": "why do I want to..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "why do ",
+          "overLyric": true
+        },
+        {
+          "chord": "B7",
+          "lyric": "I want to...",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "I'm Just Your Problem"

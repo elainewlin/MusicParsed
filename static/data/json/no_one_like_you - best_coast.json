@@ -13,100 +13,470 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "G      Em        C    D",
-      "lyrics": "If I sleep on the floor"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "If I sl",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "eep on the",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " floo",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "r",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G      Em            C    D",
-      "lyrics": "Will it make you love me more?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Will it",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " make you love",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " me m",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ore?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G     Em            C    D",
-      "lyrics": "If I pack up my things and leave"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "If I p",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ack up my thin",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "gs an",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "d leave",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G      Em            C           D",
-      "lyrics": "Can I still be the queen to your king"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Can I s",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "till be the qu",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "een to your ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "king",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[chorus]"
     },
     {
-      "chord": "G   Em   C    D",
-      "lyrics": "No no no no no"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "No n",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "o no ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "no no",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G   Em   C    D",
-      "lyrics": "No no no no no"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "No n",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "o no ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "no no",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "G          Em        C           D",
-      "lyrics": "Know that you don't mean to say things"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Know that y",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ou don't m",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ean to say t",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "hings",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G       Em             C         D",
-      "lyrics": "That hurt me and drive me to my knees"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "That hur",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "t me and drive ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "me to my k",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "nees",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G     Em         C       D",
-      "lyrics": "Been around this crazy world"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Been a",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "round this ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "crazy wo",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "rld",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G     Em            C        D",
-      "lyrics": "But I still want to be your girl"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "But I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "still want to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "be your g",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "irl",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "'cause there's"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'cause there's",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "             G",
-      "lyrics": "no one like you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "no one like y",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ou",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Em",
-      "lyrics": "No one like you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "No one like",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 C         D",
-      "lyrics": "No one like youuuuuuuuuuuuuuuuu"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "No one like youuu",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "uuuuuuuuuu",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "uuuu",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             G",
-      "lyrics": "no one like you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "no one like y",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ou",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Em",
-      "lyrics": "No one like you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "No one like",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 C         D",
-      "lyrics": "No one like youuuuuuuuuuuuuuuuu"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "No one like youuu",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "uuuuuuuuuu",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "uuuu",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "G   Em   C    D",
-      "lyrics": "No no no no no"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "No n",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "o no ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "no no",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G   Em   C    D",
-      "lyrics": "No no no no no"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "No n",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "o no ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "no no",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G   Em   C    D",
-      "lyrics": "No no no no no"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "No n",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "o no ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "no no",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G   Em   C    D",
-      "lyrics": "No no no no no"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "No n",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "o no ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "no no",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "No One Like You"

@@ -13,238 +13,786 @@
       "label": "[Chorus]"
     },
     {
-      "chord": "         E                       B",
-      "lyrics": "I'm at a payphone trying to call home"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm at a ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "payphone trying to call ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "home",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          G#m                F#",
-      "lyrics": "All of my change I spent on you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "All of my ",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": "change I spent on y",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "ou",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                E",
-      "lyrics": "Where have the times gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Where have the t",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "imes gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           B                       G#m                   F#",
-      "lyrics": "Baby it's all wrong, where are the plans we made for two?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Baby it's a",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "ll wrong, where are the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": "plans we made for two?",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "      E                              B",
-      "lyrics": "Yeah, I, I know it's hard to remember"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Yeah, ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "I, I know it's hard to remember",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                         G#m",
-      "lyrics": "The people we used to be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The people we used to be ",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                            F#",
-      "lyrics": "It's even harder to picture"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's even harder to picture ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                               E",
-      "lyrics": "That you're not here next to me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That you're not here next to me",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                                B",
-      "lyrics": "You say it's too late to make it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You say it's too late to make it",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                          G#m",
-      "lyrics": "But is it too late to try?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But is it too late to try?",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                               F#",
-      "lyrics": "And in our time that you wasted"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And in our time that you wasted",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                               E",
-      "lyrics": "All of our bridges burned down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "All of our bridges burned down ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "                     B",
-      "lyrics": "I've wasted my nights"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've wasted my nights",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                         G#m",
-      "lyrics": "You turned out the lights"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You turned out the lights",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                 F#",
-      "lyrics": "Now I'm paralyzed"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Now I'm paralyzed",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                      E                        B",
-      "lyrics": "Still stuck in that time when we called it love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Still stuck in that ti",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "me when we called it love",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "              G#m              F#",
-      "lyrics": "But even the sun sets in paradise"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But even the s",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": "un sets in paradi",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "se",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "         E                       B",
-      "lyrics": "I'm at a payphone trying to call home"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm at a ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "payphone trying to call ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "home",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          G#m                F#",
-      "lyrics": "All of my change I spent on you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "All of my ",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": "change I spent on y",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "ou",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                E",
-      "lyrics": "Where have the times gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Where have the t",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "imes gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           B                       G#m                   F#",
-      "lyrics": "Baby it's all wrong, where are the plans we made for two?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Baby it's a",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "ll wrong, where are the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": "plans we made for two?",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "             E               B",
-      "lyrics": "If happy ever after did exist"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "If happy ever",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": " after did exist",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                 G#m                  F#",
-      "lyrics": "I would still be holding you like this"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I would still be ",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": "holding you like this",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                E                    B",
-      "lyrics": "All those fairytales are full of shit"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "All those fairyt",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ales are full of shit",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                       G#m             F#",
-      "lyrics": "One more fucking love song I'll be sick"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "One more fucking love s",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": "ong I'll be sick",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "E                                B",
-      "lyrics": "You turned your back on tomorrow"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "You turned your back on tomorrow ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                          G#m",
-      "lyrics": "Cause you forgot yesterday"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause you forgot yesterday",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                             F#",
-      "lyrics": "I gave you my love to borrow"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I gave you my love to borrow ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                      E",
-      "lyrics": "But just gave it away"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But just gave it away ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                               B",
-      "lyrics": "You can't expect me to be fine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You can't expect me to be fine ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                           G#m",
-      "lyrics": "I don't expect you to care"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't expect you to care ",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                           F#",
-      "lyrics": "I know I've said it before"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I know I've said it before ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                                   E",
-      "lyrics": "But all of our bridges burned down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But all of our bridges burned down ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[After prechorus and chorus]"
     },
     {
-      "chord": "                E",
-      "lyrics": "Now I'm at a payphone..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Now I'm at a pay",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "phone...",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Rap]"
     },
     {
-      "chord": "",
-      "lyrics": "[Wiz Khalifa]   Man fuck that shit"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Wiz Khalifa]   Man fuck that shit",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B",
-      "lyrics": "I'll be out spending all this money while you sitting round"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "I'll be out spending all this money while you sitting round",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G#m",
-      "lyrics": "Wondering why it wasn't you who came up from nothing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G#m",
+          "lyric": "Wondering why it wasn't you who came up from nothing",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#",
-      "lyrics": "Made it from the bottom"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#",
+          "lyric": "Made it from the bottom",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Now when you see me I'm stunning"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Now when you see me I'm stunning",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "And all of my cars start with the push up a button"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "And all of my cars start with the push up a button",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B",
-      "lyrics": "Telling me the chances I blew up or whatever you call it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "Telling me the chances I blew up or whatever you call it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G#m",
-      "lyrics": "Switched the number to my phone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G#m",
+          "lyric": "Switched the number to my phone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "So you never could call it"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So you never could call it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#",
-      "lyrics": "Don't need my name on my show"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#",
+          "lyric": "Don't need my name on my show",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "You can tell it I'm ballin'"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You can tell it I'm ballin'",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "Swish, what a shame could have got picked"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "Swish, what a shame could have got picked",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B",
-      "lyrics": "Had a really good game but you missed your last shot"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "Had a really good game but you missed your last shot",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G#m",
-      "lyrics": "So you talk about who you see at the top"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G#m",
+          "lyric": "So you talk about who you see at the top",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#",
-      "lyrics": "Or what you could've saw"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#",
+          "lyric": "Or what you could've saw",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "But sad to say it's over for"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But sad to say it's over for",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "Phantom pulled up valet open doors"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "Phantom pulled up valet open doors",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B",
-      "lyrics": "Wiz like go away, got what you was looking for"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "Wiz like go away, got what you was looking for",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G#m",
-      "lyrics": "Now ask me who they want"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G#m",
+          "lyric": "Now ask me who they want",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                               F#",
-      "lyrics": "So you can go and take that little piece of shit with you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So you can go and take that lit",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "tle piece of shit with you",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Payphone"

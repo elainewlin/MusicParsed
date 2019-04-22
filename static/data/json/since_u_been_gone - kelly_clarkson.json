@@ -14,254 +14,1079 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "G",
-      "lyrics": "Here's the thing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Here's the thing",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 Am",
-      "lyrics": "We started out friends"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We started out fr",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "iends",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                                  G",
-      "lyrics": "It was cool, but it was all pretend"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "It was cool, but it was all pretend ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "         Am                Em   G",
-      "lyrics": "Yeah, yeah, since you been gone"
-    },
-    {
-      "label": "[Verse 2]"
-    },
-    {
-      "chord": "                       Am",
-      "lyrics": "You dedicated, you took the time"
-    },
-    {
-      "chord": "Em                                 G",
-      "lyrics": "Wasn't long, till I called you mine"
-    },
-    {
-      "chord": "       Am                Em",
-      "lyrics": "Yeah, yeah, since you been gone"
-    },
-    {
-      "label": "[Pre-Chorus]"
-    },
-    {
-      "chord": "                    G",
-      "lyrics": "And all you'd ever hear me say"
-    },
-    {
-      "chord": "   Am             Em",
-      "lyrics": "Is how I pictured me with you"
-    },
-    {
-      "chord": "      C               G",
-      "lyrics": "That's all you'd ever hear me say"
-    },
-    {
-      "label": "[Chorus]"
-    },
-    {
-      "chord": "                   Em  C",
-      "lyrics": "But since you been gone"
-    },
-    {
-      "chord": "G     Em             C     G",
-      "lyrics": "I can breathe for the first time"
-    },
-    {
-      "chord": "             Em    C     G",
-      "lyrics": "I'm so movin' on, yeah yeah"
-    },
-    {
-      "chord": "          Am        Em          D",
-      "lyrics": "Thanks to you now I get what I want"
-    },
-    {
-      "chord": " C            G",
-      "lyrics": "Since you been gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Yeah, yea",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "h, since you been ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "gone ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "                       Am",
-      "lyrics": "You dedicated, you took the time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You dedicated, you took",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " the time",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                                 G",
-      "lyrics": "Wasn't long, till I called you mine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Wasn't long, till I called you mine",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "       Am                Em",
-      "lyrics": "Yeah, yeah, since you been gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Yeah, y",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "eah, since you bee",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "n gone",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "                    G",
-      "lyrics": "And all you'd ever hear me say"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And all you'd ever h",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ear me say",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Am             Em",
-      "lyrics": "Is how I pictured me with you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Is ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "how I pictured ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "me with you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      C               G",
-      "lyrics": "That's all you'd ever hear me say"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That's",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " all you'd ever ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "hear me say",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "                   Em  C",
-      "lyrics": "But since you been gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But since you been ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "gone",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G     Em             C     G",
-      "lyrics": "I can breathe for the first time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I can ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "breathe for the",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " first",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " time",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Em    C     G",
-      "lyrics": "I'm so movin' on, yeah yeah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm so movin'",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " on, y",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "eah ye",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Am        Em          D",
-      "lyrics": "Thanks to you now I get what I want"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Thanks to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "you now I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "get what I w",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ant",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " C            G",
-      "lyrics": "Since you been gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "S",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ince you been",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " gone",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "[Verse 2]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You dedicated, you took",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " the time",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Wasn't long, till I called you mine",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Yeah, y",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "eah, since you bee",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "n gone",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "[Pre-Chorus]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And all you'd ever h",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ear me say",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Is ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "how I pictured ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "me with you",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That's",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " all you'd ever ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "hear me say",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "[Chorus]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But since you been ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "gone",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I can ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "breathe for the",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " first",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " time",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm so movin'",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " on, y",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "eah ye",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ah",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Thanks to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "you now I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "get what I w",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ant",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "S",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ince you been",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " gone",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "G                           Am",
-      "lyrics": "How can I put it, you put me on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "How can I put it, you put me",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " on",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                                G",
-      "lyrics": "I even fell for that stupid love song"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "I even fell for that stupid love s",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ong",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G         Am                Em   G",
-      "lyrics": "Yeah, yeah, since you been gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Yeah, yeah",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ", since you been g",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "one  ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "How come I'd never hear you say"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "How come I'd never hear you say",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am              Em",
-      "lyrics": "I just wanna be with you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I just wanna be ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "with you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                          G",
-      "lyrics": "Guess you never felt that way"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Guess you never felt that w",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ay",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "                   Em  C",
-      "lyrics": "But since you been gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But since you been ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "gone",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G     Em             C     G",
-      "lyrics": "I can breathe for the first time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I can ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "breathe for the",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " first",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " time",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Em    C     G",
-      "lyrics": "I'm so movin' on, yeah yeah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm so movin'",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " on, y",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "eah ye",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Am        Em          D",
-      "lyrics": "Thanks to you now I get what I want"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Thanks to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "you now I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "get what I w",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ant",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " C            G",
-      "lyrics": "Since you been gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "S",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ince you been",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " gone",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "C         D     Em",
-      "lyrics": "You had your chance, you blew it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "You had yo",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ur cha",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "nce, you blew it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C        D   Em",
-      "lyrics": "Out of sight, out of mind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Out of si",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ght,",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " out of mind",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C          D       Em",
-      "lyrics": "Shut your mouth, I just can't take it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Shut your m",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "outh, I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "just can't take it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "Again and again and again and again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Again and again and again and again",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus - Extended]"
     },
     {
-      "chord": "                Em    C              G",
-      "lyrics": "Since you been gone (since you been gone)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Since you been g",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "one (s",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ince you been g",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "one)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G      Em             C    G",
-      "lyrics": "I can breathe for the first time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I can b",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "reathe for the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "first",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " time",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Em    C     G",
-      "lyrics": "I'm so movin' on, yeah yeah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm so movin'",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " on, y",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "eah ye",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Am",
-      "lyrics": "Thanks to you (thanks to you)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Thanks to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "you (thanks to you)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Em       D         C             G",
-      "lyrics": "Now I get, I get what I want"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Now I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "get, I ge",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "t what I w",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ant           ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G      Em            C     G",
-      "lyrics": "I can breathe for the first time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I can b",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "reathe for the",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " first",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " time",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Em    C     G",
-      "lyrics": "I'm so movin' on, yeah yeah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm so movin'",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " on, y",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "eah ye",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Am",
-      "lyrics": "Thanks to you (thanks to you)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Thanks to y",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ou (thanks to you)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Em",
-      "lyrics": "Now I get (I get)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Now I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "get (I get)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Am          Em",
-      "lyrics": "You should know, that I get"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You should k",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "now, that I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "get",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              D            C",
-      "lyrics": "I get what I want"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I get what I w",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ant          ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Since you been gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Since you been gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Since you been gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Since you been gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Since you been gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Since you been gone",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Since U Been Gone"

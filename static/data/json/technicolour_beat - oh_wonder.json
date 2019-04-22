@@ -20,214 +20,793 @@
   "id": "technicolour_beat - oh_wonder",
   "lines": [
     {
-      "chord": "Am7 G6 Dadd4/A C6/G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am7",
+          "lyric": " "
+        },
+        {
+          "chord": "G6",
+          "lyric": " "
+        },
+        {
+          "chord": "Dadd4/A",
+          "lyric": " "
+        },
+        {
+          "chord": "C6/G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "Am            Gadd2",
-      "lyrics": "Lay down your slow"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Lay down your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gadd2",
+          "lyric": "slow",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     D                         Cadd2",
-      "lyrics": "Come settle down, settle down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Come ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "settle down, settle down  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cadd2",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am             Gadd2",
-      "lyrics": "Let loose your glow"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Let loose your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gadd2",
+          "lyric": "glow",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     D                         Cadd2",
-      "lyrics": "Come settle down, settle down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Come ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "settle down, settle down  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cadd2",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    Am                  C",
-      "lyrics": "And I feel life for the very first time,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "I feel life for the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "very first time,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                       D",
-      "lyrics": "Love in my arms, and the sun in my eyes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Love in my arms, and the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "sun in my eyes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                 C",
-      "lyrics": "I feel safe in the 5am light"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I feel safe in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "5am light",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Em                    D",
-      "lyrics": "You carry my fears as the heavens set fire"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "carry my fears as the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "heavens set fire",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Am                  C",
-      "lyrics": "Jump into the heat"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Jump into the heat  ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G                     Em",
-      "lyrics": "Spinning on our feet"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Spinning on our feet  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "     D            Am",
-      "lyrics": "In a Technicolour beat"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "In a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "Technicolour ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "beat",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            C",
-      "lyrics": "You and me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You and me  ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G                      Em",
-      "lyrics": "Caught up in a dream"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Caught up in a dream   ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "     D            C           Em7   Em7sus4",
-      "lyrics": "In a Technicolour beat, beat, beat, beat"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "In a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "Technicolour ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "beat, beat, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": "beat, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7sus4",
+          "lyric": "beat",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "Am        Gadd2",
-      "lyrics": "Warm, unalone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Warm, unal",
+          "overLyric": true
+        },
+        {
+          "chord": "Gadd2",
+          "lyric": "one",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     D                         Cadd2",
-      "lyrics": "Come settle down, settle down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Come ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "settle down, settle down  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cadd2",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am            Gadd2",
-      "lyrics": "Swing me your bones"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Swing me your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gadd2",
+          "lyric": "bones",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     D                         Cadd2",
-      "lyrics": "Come settle down, settle down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Come ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "settle down, settle down  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cadd2",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    Am                  C",
-      "lyrics": "And I feel life for the very first time,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "I feel life for the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "very first time,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                       D",
-      "lyrics": "Love in my arms, and the sun in my eyes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Love in my arms, and the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "sun in my eyes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                 C",
-      "lyrics": "I feel safe in the 5am light"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I feel safe in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "5am light",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Em                    D",
-      "lyrics": "You carry my fears as the heavens set fire"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "carry my fears as the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "heavens set fire",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Am                  C",
-      "lyrics": "Jump into the heat"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Jump into the heat  ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G                     Em",
-      "lyrics": "Spinning on our feet"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Spinning on our feet  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "     D                  Am",
-      "lyrics": "In a Technicolour beat"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "In a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "Technicolour beat  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "            C",
-      "lyrics": "You and me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You and me  ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G                     Em",
-      "lyrics": "Caught up in a dream"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Caught up in a dream  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "     D            C",
-      "lyrics": "In a Technicolour beat, beat"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "In a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "Technicolour ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "beat, beat",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "Am               G",
-      "lyrics": "Give me one drop, I can feel you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Give me one drop,",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " I can feel you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D               C",
-      "lyrics": "Make me lose control"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Make me lose con",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "trol",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am              G",
-      "lyrics": "We’ll be walking on the water,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "We’ll be walking",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " on the water,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D",
-      "lyrics": "We’re moving in a Technicolour beat,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "We’re moving in a Technicolour beat,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Moving in a Technicolour"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Moving in a Technicolour",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Am",
-      "lyrics": "Jump into the heat"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Jump into the heat",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   C",
-      "lyrics": "(Falling off the ceiling)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(Fa",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "lling off the ceiling)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Spinning on our feet"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Spinning on our feet",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Em          D            Am",
-      "lyrics": "(We're moving) in a Technicolour beat"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(We're m",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "oving) in a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "Technicolour ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "beat",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "You and me"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You and me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      C",
-      "lyrics": "(Found another feeling)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(Found",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " another feeling)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Caught up in a dream,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Caught up in a dream,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Em         D",
-      "lyrics": "(We're moving in a Technicolour beat)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(We're m",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "oving in a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "Technicolour beat)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                  C",
-      "lyrics": "Jump into the heat"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Jump into the heat  ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Spinning on our feet"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Spinning on our feet",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Em          D            Am",
-      "lyrics": "(We're moving) in a Technicolour beat"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(We're m",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "oving) in a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "Technicolour ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "beat",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             C",
-      "lyrics": "You and me,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You and me,  ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Caught up in a dream,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Caught up in a dream,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Em          D",
-      "lyrics": "(We're moving) in a Technicolour beat, beat, beat"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(We're m",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "oving) in a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "Technicolour beat, beat, beat",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Technicolour Beat"

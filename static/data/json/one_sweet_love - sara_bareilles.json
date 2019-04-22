@@ -17,186 +17,898 @@
       "label": "[Verse]"
     },
     {
-      "chord": "D               Em7",
-      "lyrics": "Just about the time the shadows call"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Just about the t",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": "ime the shadows call",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                       D",
-      "lyrics": "I undress my mind and dare you to follow"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I undress my mind and da",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "re you to follow",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Em7",
-      "lyrics": "Paint a portrait of my mystery"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Paint a portrait of",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": " my mystery",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                       D",
-      "lyrics": "Only close my eyes and you are here with me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Only close my eyes and y",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ou are here with me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  Em7",
-      "lyrics": "A nameless face to think I see"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": "nameless face to think I see",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  G                               D",
-      "lyrics": "To sit and watch the waves with me till they're gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " sit and watch the waves with me",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " till they're gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  Em7                             G",
-      "lyrics": "A heart I'd swear I'd recognize is made out of"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": "heart I'd swear I'd recognize is",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " made out of",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               C           G",
-      "lyrics": "My own devices.. Could I be wrong?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "My own devices.",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ". Could I be",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " wrong?",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[CHORUS]"
     },
     {
-      "chord": "    D             Em7        G",
-      "lyrics": "The time that I've taken"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "time that I've",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": " taken     ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "  D           Em7       G",
-      "lyrics": "I pray is not wasted"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "pray is not ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": "wasted    ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "        D      Em7   G             D   Em7      G",
-      "lyrics": "Have I already tasted my piece of one sweet love?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Have I a",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "lready ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": "tasted",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " my piece of o",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ne s",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": "weet love",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "?",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "D                       Em7",
-      "lyrics": "Sleepless nights you creep inside of me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Sleepless nights you cre",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": "ep inside of me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                           D",
-      "lyrics": "Paint your shadows on the breath that we share"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Paint your shadows on the br",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "eath that we share",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                          Em7",
-      "lyrics": "You take more than just my sanity"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You take more than just my",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": " sanity",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                     D",
-      "lyrics": "You take my reason not to care."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "You take my reason not",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " to care.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Em7",
-      "lyrics": "No ordinary wings I'll need"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "No ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": "ordinary wings I'll need",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     G                       D",
-      "lyrics": "The sky itself will carry me back to you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The s",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ky itself will carry me ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "back to you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Em7                              G",
-      "lyrics": "The things I dream that I can do I'll open up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The t",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": "hings I dream that I can do I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "open up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   C",
-      "lyrics": "The moon for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The moon for you   ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                G",
-      "lyrics": "Just come down soon"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Just come down s",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "oon",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[CHORUS]"
     },
     {
-      "chord": "    D             Em7        G",
-      "lyrics": "The time that I've taken"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "time that I've",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": " taken     ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "  D           Em7       G",
-      "lyrics": "I pray is not wasted"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "pray is not ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": "wasted    ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "        D      Em7   G             D   Em7      G",
-      "lyrics": "Have I already tasted my piece of one sweet love?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Have I a",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "lready ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": "tasted",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " my piece of o",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ne s",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": "weet love",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  D       Em7    G      D              Em7      G",
-      "lyrics": "Ready and waiting for a heart worth the breaking"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Re",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ady and ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": "waiting",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " for a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "heart worth the",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": " breaking",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                      D         Em7    G",
-      "lyrics": "But I'd settle for an honest mistake in the name of"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But I'd settle for an ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "honest mis",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": "take in",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " the name of",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D    Em7   G",
-      "lyrics": "One sweet love."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "One s",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": "weet l",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ove.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "A                    G",
-      "lyrics": "Savor the sorrow to soften the pain sip on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Savor the sorrow to s",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "often the pain sip on",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Bm",
-      "lyrics": "The southern rain"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "southern rain",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     A                                     G",
-      "lyrics": "As I do, I don't look don't touch don't do anything"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "As I ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "do, I don't look don't touch don't do ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "anything",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    Em F#m  G",
-      "lyrics": "But hope that there is a you."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But hope that there ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "is ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "a you",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ".",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Em7",
-      "lyrics": "The earth that is the space between,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The e",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": "arth that is the space between,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G                       D",
-      "lyrics": "I'd banish it from under me...to get to you."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'd ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "banish it from under me.",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "..to get to you.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Em7                         G",
-      "lyrics": "Your unexpected love provides my solitary's suicide..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Your",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": " unexpected love provides my",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " solitary's suicide...",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C             G",
-      "lyrics": "oh I wish I knew"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "oh I wish I kn",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ew",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[CHORUS]"
     },
     {
-      "chord": "    D             Em7        G",
-      "lyrics": "The time that I've taken"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "time that I've",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": " taken     ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "  D           Em7       G",
-      "lyrics": "I pray is not wasted"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "pray is not ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": "wasted    ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "        D      Em7   G             D   Em7      G",
-      "lyrics": "Have I already tasted my piece of one sweet love?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Have I a",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "lready ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": "tasted",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " my piece of o",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ne s",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": "weet love",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  D       Em7    G      D              Em7      G",
-      "lyrics": "Ready and waiting for a heart worth the breaking"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Re",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ady and ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": "waiting",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " for a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "heart worth the",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": " breaking",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                      D         Em7    G",
-      "lyrics": "But I'd settle for an honest mistake in the name of"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But I'd settle for an ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "honest mis",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": "take in",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " the name of",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D    Em7   G",
-      "lyrics": "One sweet love."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "One s",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": "weet l",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ove.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Outro]"
     },
     {
-      "chord": "D    Em7   G",
-      "lyrics": "One sweet love."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "One s",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": "weet l",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ove.",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "One Sweet Love"

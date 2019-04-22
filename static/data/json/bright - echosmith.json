@@ -15,181 +15,777 @@
       "label": "[Intro]"
     },
     {
-      "chord": "F Fsus4 F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "Fsus4",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F Fsus4 F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "Fsus4",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 1]"
     },
     {
-      "chord": "F",
-      "lyrics": "I think the universe is on my side"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I think the universe is on my side",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Heaven and Earth have finally aligned"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Heaven and Earth have finally aligned",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B♭                 C                         F Fsus4 F",
-      "lyrics": "Days are good and that's the way it should be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B♭",
+          "lyric": "Days are good and t",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hat's the way it should be",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "Fsus4",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "You sprinkled star dust on my pillow case"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "You sprinkled star dust on my pillow case",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "It's like a moonbeam brushed across my face"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "It's like a moonbeam brushed across my face",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B♭                   C                         F Fsus4 F",
-      "lyrics": "Nights are good and that's the way it should be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B♭",
+          "lyric": "Nights are good and t",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hat's the way it should be",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "Fsus4",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "                 Dm             B♭",
-      "lyrics": "You make me sing oo-oo-oo, la la laaa"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You make me sing ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "oo-oo-oo, la la",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": " laaa",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Dm",
-      "lyrics": "You make a girl go oo-oo-oo"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You make a girl go ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "oo-oo-oo",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       B♭     C",
-      "lyrics": "I'm in love, love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm in ",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "love, l",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ove",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "F                       Dm        C",
-      "lyrics": "Did you see that shooting star tonight?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Did you see that shootin",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "g star ton",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ight?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                       Dm          C",
-      "lyrics": "Were you dazzled by the same constellation?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Were you dazzled by the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "same constel",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "lation?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                      Dm       C",
-      "lyrics": "Did you and Jupiter conspire to get me?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Did you and Jupiter con",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "spire to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "get me?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        B♭                    F              C",
-      "lyrics": "I think you and the Moon and Neptune got it right"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I think ",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "you and the Moon and N",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "eptune got it r",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                       F       C  B♭",
-      "lyrics": "'Cause now I'm shining bright, so bright"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Cause now I'm shining ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "bright, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "so ",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "bright",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F       C  B♭",
-      "lyrics": "Bright, so bright"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Bright, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "so ",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "bright",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "F",
-      "lyrics": "And I see colors in a different way"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "And I see colors in a different way",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "You make what doesn't matter fade to grey"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "You make what doesn't matter fade to grey",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B♭                C                         F",
-      "lyrics": "Life is good and that's the way it should be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B♭",
+          "lyric": "Life is good and t",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hat's the way it should be",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "              Dm              B♭",
-      "lyrics": "You make sing oo-oo-oo,la la laaa"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You make sing ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "oo-oo-oo,la la l",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "aaa",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Dm",
-      "lyrics": "You make a girl go oo-oo-oo"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You make a girl go ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "oo-oo-oo",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        B♭     C",
-      "lyrics": "I'm in love, love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm in l",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "ove, lo",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ve",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "F                       Dm        C",
-      "lyrics": "Did you see that shooting star tonight?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Did you see that shootin",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "g star ton",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ight?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                       Dm          C",
-      "lyrics": "Were you dazzled by the same constellation?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Were you dazzled by the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "same constel",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "lation?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                      Dm        C",
-      "lyrics": "Did you and Jupiter conspire to get me?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Did you and Jupiter con",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "spire to g",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "et me?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        B♭                    F              C",
-      "lyrics": "I think you and the Moon and Neptune got it right"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I think ",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "you and the Moon and N",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "eptune got it r",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                       F                C  B♭",
-      "lyrics": "'Cause now I'm shining bright (oooohhh) so bright"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Cause now I'm shining ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "bright (oooohhh) ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "so ",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "bright",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          F            C       B♭",
-      "lyrics": "And I get lost (ooohh) in your eyes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I get ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "lost (ooohh) ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "in your ",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "eyes",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "F                       Dm        C",
-      "lyrics": "Did you see that shooting star tonight?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Did you see that shootin",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "g star ton",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ight?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                       Dm          C",
-      "lyrics": "Were you dazzled by the same constellation?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Were you dazzled by the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "same constel",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "lation?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                      Dm        C",
-      "lyrics": "Did you and Jupiter conspire to get me?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Did you and Jupiter con",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "spire to g",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "et me?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        B♭                    F              C",
-      "lyrics": "I think you and the Moon and Neptune got it right"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I think ",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "you and the Moon and N",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "eptune got it r",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        B♭                    F              C",
-      "lyrics": "I think you and the Moon and Neptune got it right"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I think ",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "you and the Moon and N",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "eptune got it r",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                       F       C  B♭",
-      "lyrics": "'Cause now I'm shining bright, so bright"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Cause now I'm shining ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "bright, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "so ",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "bright",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F       C  B♭",
-      "lyrics": "Bright, so bright"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Bright, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "so ",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "bright",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F       C  B♭",
-      "lyrics": "Bright, so bright"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Bright, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "so ",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "bright",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          F       C    B♭",
-      "lyrics": "And I get lost in your eyes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I get ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "lost in ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "your ",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "eyes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Tonight",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Bright"

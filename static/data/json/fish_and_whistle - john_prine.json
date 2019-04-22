@@ -14,219 +14,1010 @@
       "label": "Intro:"
     },
     {
-      "chord": "G   C   G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "   "
+        },
+        {
+          "chord": "C",
+          "lyric": "   "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C   G   D",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "   "
+        },
+        {
+          "chord": "G",
+          "lyric": "   "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G   C   G   D   G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "   "
+        },
+        {
+          "chord": "C",
+          "lyric": "   "
+        },
+        {
+          "chord": "G",
+          "lyric": "   "
+        },
+        {
+          "chord": "D",
+          "lyric": "   "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G                                C        G",
-      "lyrics": "I been thinking lately about the people I meet"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I been thinking lately about the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "people I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "meet",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C              G             D",
-      "lyrics": "The carwash on the corner and th hole in the street"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "carwash on the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "corner and th ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "hole in the street",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G                          C",
-      "lyrics": "The way my ankles hurt with my shoes on my feet"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "way my ankles hurt with my ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "shoes on my feet",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G                D              G",
-      "lyrics": "And I'm wondering if I'm gonna to see tommorow"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "wondering if I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "gonna to see to",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "mmorow",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Chorus:"
     },
     {
-      "chord": "G                     C            D",
-      "lyrics": "Father forgive us for what we must do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Father forgive us for ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "what we must ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "do",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C           G            D",
-      "lyrics": "You forgive us and we'll forgive you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "You forgive ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "us and we'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "forgive you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                                C",
-      "lyrics": "We'll forgive each other till we both turn blue"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "We'll forgive each other till we ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "both turn blue",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           G              D         G",
-      "lyrics": "Then we'll whistle and go fishin in heaven"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Then we'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "whistle and go ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "fishin in ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "heaven",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Instrumental:"
     },
     {
-      "chord": "G   C   G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "   "
+        },
+        {
+          "chord": "C",
+          "lyric": "   "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C   G   D",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "   "
+        },
+        {
+          "chord": "G",
+          "lyric": "   "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G   C   G   D   G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "   "
+        },
+        {
+          "chord": "C",
+          "lyric": "   "
+        },
+        {
+          "chord": "G",
+          "lyric": "   "
+        },
+        {
+          "chord": "D",
+          "lyric": "   "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G                       C           G",
-      "lyrics": "I was in the army but I never dug a trench"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I was in the army but I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "never dug a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "trench",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                 G             D",
-      "lyrics": "I used to bust my knuckles on a monkey wrench"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I used to bust my ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "knuckles on a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "monkey wrench",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       G                        C",
-      "lyrics": "Then I go to town and drink and give the girls a pinch"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Then I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "go to town and drink and ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "give the girls a pinch",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      G                D           G",
-      "lyrics": "But I don't think they ever really noticed me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "don't think they ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ever really ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "noticed me",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Chorus:"
     },
     {
-      "chord": "G                     C            G",
-      "lyrics": "Father forgive us for what we must do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Father forgive us for ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "what we must ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "do",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C           G            D",
-      "lyrics": "You forgive us and we'll forgive you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "You forgive ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "us and we'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "forgive you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                               C",
-      "lyrics": "We'll forgive each other til we both turn blue"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "We'll forgive each other til we ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "both turn blue",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          G              D          G",
-      "lyrics": "And we'll whistle and go fishing in heaven"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And we'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "whistle and go ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "fishing in ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "heaven",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D",
-      "lyrics": "Fish and whistle ,whistle and fish"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Fish and whistle ,whistle and fish",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Eat everything that they put on your dish"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Eat everything that they put on your dish",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                         G",
-      "lyrics": "When we get through we'll make a big wish"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "When we get through we'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "make a big wish",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           A7                    D7     D7     D7",
-      "lyrics": "That we'll never half to do this again  again  again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That we'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "never half to do this ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "again  ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "again  ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "again",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Verse 3:"
     },
     {
-      "chord": "G                         C             G",
-      "lyrics": "My very first job I said \"thank you and please\""
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "My very first job I said \"",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "thank you and ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "please\"",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     C                G           D",
-      "lyrics": "They made me scrubb a parking lot down on my knees"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "They ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "made me scrubb a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "parking lot ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "down on my knees",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                    C",
-      "lyrics": "Then I got fired for being scared of bees"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Then I got fired for ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "being scared of bees",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         G            D              G",
-      "lyrics": "And they only give me fifty cents an hour"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And they ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "only give me ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "fifty cents an ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "hour",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Chorus:"
     },
     {
-      "chord": "G                     C            G",
-      "lyrics": "Father forgive us for what we must do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Father forgive us for ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "what we must ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "do",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C           G            D",
-      "lyrics": "You forgive us and we'll forgive you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "You forgive ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "us and we'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "forgive you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                                 C",
-      "lyrics": "We'll forgive each other until we both turn blue"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "We'll forgive each other until we ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "both turn blue",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          G              D          G",
-      "lyrics": "And we'll whistle and go fishing in heaven"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And we'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "whistle and go ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "fishing in ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "heaven",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G   C   G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "   "
+        },
+        {
+          "chord": "C",
+          "lyric": "   "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C   G   D",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "   "
+        },
+        {
+          "chord": "G",
+          "lyric": "   "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G   C   G   D   G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "   "
+        },
+        {
+          "chord": "C",
+          "lyric": "   "
+        },
+        {
+          "chord": "G",
+          "lyric": "   "
+        },
+        {
+          "chord": "D",
+          "lyric": "   "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "D",
-      "lyrics": "Fish and whistle ,whistle and fish"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Fish and whistle ,whistle and fish",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Eat everything that you put on you dish"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Eat everything that you put on you dish",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                         G",
-      "lyrics": "When we get through we'll make a big wish"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "When we get through we'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "make a big wish",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           A7                    D7      D7    D7",
-      "lyrics": "That we'll never half to do this again  again  again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That we'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "never half to do this ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "again  a",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "gain  ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "again",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   G                     C            G",
-      "lyrics": "Oh father forgive us for what we must do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "father forgive us for ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "what we must ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "do",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C           G            D",
-      "lyrics": "You forgive us and we'll forgive you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "You forgive ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "us and we'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "forgive you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                               C",
-      "lyrics": "We'll forgive each other til we both turn blue"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "We'll forgive each other til we ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "both turn blue",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          G              D          G",
-      "lyrics": "And we'll whistle and go fishing in heaven"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And we'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "whistle and go ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "fishing in ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "heaven",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               D          G",
-      "lyrics": "Whistle and go fishing in heaven"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Whistle and go ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "fishing in ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "heaven",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               D          G",
-      "lyrics": "Whistle and go fishing in heaven"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Whistle and go ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "fishing in ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "heaven",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G   C   G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "   "
+        },
+        {
+          "chord": "C",
+          "lyric": "   "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C   G   D",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "   "
+        },
+        {
+          "chord": "G",
+          "lyric": "   "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G   C   G   D   G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "   "
+        },
+        {
+          "chord": "C",
+          "lyric": "   "
+        },
+        {
+          "chord": "G",
+          "lyric": "   "
+        },
+        {
+          "chord": "D",
+          "lyric": "   "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "Fish and Whistle"

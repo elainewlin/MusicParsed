@@ -13,107 +13,578 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "Am   F    C      G",
-      "lyrics": "Each day, I'm so grateful"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Each ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "day, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I'm so ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "grateful",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am        F          C     G",
-      "lyrics": "I've been given more time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I've been ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "given more ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "time  ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am   F      C       G",
-      "lyrics": "Dark clouds come my way but"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Dark ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "clouds ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "come my ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "way but",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am    F           C     G",
-      "lyrics": "I can see the sun shine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I can ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "see the sun ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "shine ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "     C      G     Am            F",
-      "lyrics": "So I smile, smile every day and night"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "smile, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "smile ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "every day and ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "night",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C      G     Am             F",
-      "lyrics": "Smile, smile things will be alright"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Smile, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "smile ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "things will be ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "alright",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C          G        Am         F",
-      "lyrics": "Hard times come and hard times go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Hard times ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "come and ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "hard times ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "go",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C      G     Am       F",
-      "lyrics": "Smile, smile joy will show"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Smile, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "smile ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "joy will ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "show",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "Am F      C           G",
-      "lyrics": "If you're filled with worry"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "If ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "you're ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "filled with ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "worry",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am        F       C    G",
-      "lyrics": "You don't have to fear"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "You don't ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "have to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "fear ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am     F      C           G",
-      "lyrics": "You're brave, strong, and able"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "You're ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "brave, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "strong, and ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "able",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am         F        C     G",
-      "lyrics": "There's no need for tears"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "There's no ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "need for ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "tears ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "   C      G     Am            F",
-      "lyrics": "So smile, smile every day and night"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "smile, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "smile ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "every day and ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "night",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C      G     Am             F",
-      "lyrics": "Smile, smile things will be alright"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Smile, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "smile ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "things will be ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "alright",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C          G        Am         F",
-      "lyrics": "Hard times come and hard times go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Hard times ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "come and ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "hard times ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "go",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C      G     Am       F",
-      "lyrics": "Smile, smile joy will show"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Smile, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "smile ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "joy will ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "show",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "F      G    C    Am",
-      "lyrics": "We can be a light"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "We can ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "be a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "light",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F       G     C      Am",
-      "lyrics": "Shining oh so bright"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Shining ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "oh so ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "bright ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "        C      G     Am            F",
-      "lyrics": "When we smile, smile every day and night"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When we ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "smile, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "smile ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "every day and ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "night",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C      G     Am             F",
-      "lyrics": "Smile, smile things will be alright"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Smile, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "smile ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "things will be ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "alright",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C          G        Am         F",
-      "lyrics": "Hard times come and hard times go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Hard times ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "come and ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "hard times ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "go",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C      G     Am       F",
-      "lyrics": "Smile, smile joy will show"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Smile, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "smile ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "joy will ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "show",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Smile"

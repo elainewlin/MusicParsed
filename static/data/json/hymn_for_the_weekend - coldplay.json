@@ -13,240 +13,1079 @@
       "label": "[Intro]"
     },
     {
-      "chord": "Dm G Am Am",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "Am",
+          "lyric": " "
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "                Dm       G    Am",
-      "lyrics": "Ohhhhh, angels sent from up above"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Ohhhhh, angels s",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ent from ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "up ab",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ove",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              Dm        G        Am",
-      "lyrics": "You know you make my world light up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You know you m",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ake my wor",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ld light ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Dm",
-      "lyrics": "When I was down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When I was down ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "     G       Am",
-      "lyrics": "When I was hurt"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "I was hu",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "rt",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Dm      Am",
-      "lyrics": "You came to lift me up..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You came to l",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ift me u",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "p...",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Dm         G        Am",
-      "lyrics": "Life is a drink, and love's a drug"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Life is a dr",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ink, and lo",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ve's a dr",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ug",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Dm             G     Am",
-      "lyrics": "Oh now I think I must be miles up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh now I th",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ink I must be m",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "iles u",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "p",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Dm       G          Am",
-      "lyrics": "When I was hurt, withered, dried up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When I was hu",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "rt, withe",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "red, dried ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Dm       Am",
-      "lyrics": "You came to rain a flood"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You came to r",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ain a flo",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "od",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "              Am             F",
-      "lyrics": "So drink from me, drink from me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So drink from ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "me, drink from ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Dm",
-      "lyrics": "When I was so thirsty"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When I was s",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "o thirsty",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Am",
-      "lyrics": "Pour on a symphony"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Pour on a sym",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "phony",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     G",
-      "lyrics": "Now I just can't get enough"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Now I",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " just can't get enough",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Am             F",
-      "lyrics": "Put your wings on me, wings on me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Put your wings o",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "n me, wings on ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           G",
-      "lyrics": "When I was so heavy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When I was ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "so heavy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Am",
-      "lyrics": "Pour on a symphony"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Pour on a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "symphony",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G",
-      "lyrics": "When I'm lower, lower, lower, low"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When I'm",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " lower, lower, lower, low",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": " F    G   Am",
-      "lyrics": "I-Oh-ah-oh-ah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "-Oh-a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "h-oh",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "-ah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                        F",
-      "lyrics": "I'm feeling drunk and high"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm feeling drunk and hi",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "gh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     G       Am",
-      "lyrics": "So high, so high"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So hi",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "gh, so h",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "igh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " F    G   Am",
-      "lyrics": "I-oh-ah-oh-ah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "-oh-a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "h-oh",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "-ah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                        F",
-      "lyrics": "I'm feeling drunk and high"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm feeling drunk and hi",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "gh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     G        Am",
-      "lyrics": "So high, so high"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So hi",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "gh, so hi",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "gh",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Instrumental]"
     },
     {
-      "chord": "Dm G Am",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Dm G Am",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "                Dm       G    Am",
-      "lyrics": "Ohhhhh, angels sent from up above"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Ohhhhh, angels s",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ent from ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "up ab",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ove",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              Dm        G        Am",
-      "lyrics": "I feel you coursing through my blood"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I feel you cou",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "rsing thro",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ugh my bl",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ood",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Dm         G        Am",
-      "lyrics": "Life is a drink, your love's about"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Life is a dr",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ink, your l",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ove's abo",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ut",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Dm        Am",
-      "lyrics": "To make the stars come out"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To make the star",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "s come out",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "                Am             F",
-      "lyrics": "Put your wings on me, wings on me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Put your wings o",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "n me, wings on ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           G",
-      "lyrics": "When I was so heavy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When I was ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "so heavy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Am",
-      "lyrics": "Pour on a symphony"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Pour on a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "symphony",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G",
-      "lyrics": "When I'm lower, lower, lower, low"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When I'm",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " lower, lower, lower, low",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": " F    G   Am",
-      "lyrics": "I-Oh-ah-oh-ah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "-Oh-a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "h-oh",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "-ah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                        F",
-      "lyrics": "I'm feeling drunk and high"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm feeling drunk and hi",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "gh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     G       Am",
-      "lyrics": "So high, so high"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So hi",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "gh, so h",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "igh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " F    G   Am",
-      "lyrics": "I-oh-ah-oh-ah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "-oh-a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "h-oh",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "-ah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                        F",
-      "lyrics": "I'm feeling drunk and high"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm feeling drunk and hi",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "gh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     G        Am",
-      "lyrics": "So high, so high"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So hi",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "gh, so hi",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "gh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " F    Dm   Am",
-      "lyrics": "I-oh-ah-oh-ah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "-oh-a",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "h-oh-",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              F         G       Am",
-      "lyrics": "la-la-la-la-la-la high so high so high"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "la-la-la-la-la",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "-la high s",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "o high s",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "o high",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " F    G   Am",
-      "lyrics": "I-oh-ah-oh-ah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "-oh-a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "h-oh",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "-ah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                        F",
-      "lyrics": "I'm feeling drunk and high"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm feeling drunk and hi",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "gh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     G        Am",
-      "lyrics": "So high, so high"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So hi",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "gh, so hi",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "gh",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Outro]"
     },
     {
-      "chord": "                                F G Am",
-      "lyrics": "Then we'll shoot across the sky"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Then we'll shoot across the sky ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                           F G Am",
-      "lyrics": "Then we'll shoot across the ..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Then we'll shoot across the",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " .",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "..",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                           F G Am",
-      "lyrics": "Then we'll shoot across the sky"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Then we'll shoot across the",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " s",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ky",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                           F G Am",
-      "lyrics": "Then we'll shoot across the ..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Then we'll shoot across the",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " .",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "..",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                               F G Am",
-      "lyrics": "Then we'll shoot across the sky"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Then we'll shoot across the sky",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                               F G Am",
-      "lyrics": "Then we'll shoot across the..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Then we'll shoot across the... ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Then we'll shoot across the sky"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Then we'll shoot across the sky",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Then we'll shoot across the..."
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Then we'll shoot across the...",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Hymn For The Weekend"

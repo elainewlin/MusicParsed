@@ -26,179 +26,932 @@
       "label": "[VERSE 1]"
     },
     {
-      "chord": "   Bb               F      C    Dm",
-      "lyrics": "in tongues from the time before man"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "in ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "tongues from the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "time be",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "fore ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "man",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            F        C7/E     F",
-      "lyrics": "listen to a daffodil tell her tale"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "listen to a ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "daffodil ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7/E",
+          "lyric": "tell her ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "tale",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              Gm                   Bb       C         Dm",
-      "lyrics": "Let the guest in, walk out, be the first to greet the morn"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Let the guest ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "in, walk out, be the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "first to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "greet the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "morn",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               F       C7/E    Dm",
-      "lyrics": "The meadows of heaven await harvest"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The meadows of ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "heaven a",
+          "overLyric": true
+        },
+        {
+          "chord": "C7/E",
+          "lyric": "wait har",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "vest",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Bb        F           C        Dm",
-      "lyrics": "the cliffs un-jumped cold waters untouched"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "cliffs un-",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "jumped cold ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "waters un",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "touched",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              F         C7/E  F",
-      "lyrics": "The elsewhere creatures yet unseen"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The elsewhere ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "creatures ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7/E",
+          "lyric": "yet un",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "seen",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Gm",
-      "lyrics": "Finally your number came up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Finally your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "number came up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Bb    C         Dm",
-      "lyrics": "Free fall awaits the brave."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Free ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "fall a",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "waits the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "brave.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[CHORUS]"
     },
     {
-      "chord": "Dm              F              C",
-      "lyrics": "Come, taste the wine, race the blind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Come, taste the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "wine, race the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "blind",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Gm                 Dm",
-      "lyrics": "we will guide you from the light,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "we will ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "guide you from the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "light,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Bbsus2                  C     C Bb C",
-      "lyrics": "writing naughts till the end of time.."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "writing ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bbsus2",
+          "lyric": "naughts till the end of ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "time..",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "Bb",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Dm             F                C",
-      "lyrics": "Come, surf the clouds, race the dark,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Come, surf the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "clouds, race the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "dark,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Gm              Dm",
-      "lyrics": "it feeds from the runs undone,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "it feeds ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "from the runs un",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "done,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Bbsus2    F                C",
-      "lyrics": "meet me where the cliff greets the sea..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "meet me ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bbsus2",
+          "lyric": "where the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "cliff greets the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "sea...",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[VERSE 2]"
     },
     {
-      "chord": "Bb         F          C        Dm",
-      "lyrics": "is in dead leaves and fleeting skies"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "is in dead ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "leaves and ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "fleeting ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "skies",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          F         C7/E     F",
-      "lyrics": "returning swans and sedulous mice"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "returning ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "swans and ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7/E",
+          "lyric": "sedulous ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "mice",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Gm",
-      "lyrics": "writings on the garden's book"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "writings on the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "garden's book",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Bb        C         Dm",
-      "lyrics": "in the minute of a lover's look."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "minute of ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "a lover's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "look.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           F          C/E   Gm     Dm",
-      "lyrics": "Building a sandcastle close to the shore"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Building a ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "sandcastle ",
+          "overLyric": true
+        },
+        {
+          "chord": "C/E",
+          "lyric": "close ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "to the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "shore",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  Bb       F            C        Dm",
-      "lyrics": "A house of cards from a worn out deck."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "house of ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "cards from a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "worn out ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "deck.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                F           C/E   Bb  F",
-      "lyrics": "A home from the fellowship, poise and calm,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A home from the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "fellowship, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C/E",
+          "lyric": "poise ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "and ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "calm,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               Gm                Bb      C    Dm",
-      "lyrics": "writing lyrics for the song only you can understand.."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "writing lyrics ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "for the song only ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "you can ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "under",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "stand..",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[CHORUS]"
     },
     {
-      "chord": "Dm              F              C",
-      "lyrics": "Come, taste the wine, race the blind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Come, taste the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "wine, race the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "blind",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Gm                 Dm",
-      "lyrics": "we will guide you from the light,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "we will ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "guide you from the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "light,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Bbsus2                  C     C Bb C",
-      "lyrics": "writing naughts till the end of time.."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "writing ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bbsus2",
+          "lyric": "naughts till the end of ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "time..",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "Bb",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Dm             F                C",
-      "lyrics": "Come, surf the clouds, race the dark,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Come, surf the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "clouds, race the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "dark,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Gm              Dm",
-      "lyrics": "it feeds from the runs undone,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "it feeds ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "from the runs un",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "done,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Bbsus2    F                C",
-      "lyrics": "meet me where the cliff greets the sea..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "meet me ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bbsus2",
+          "lyric": "where the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "cliff greets the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "sea...",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[BRIDGE]"
     },
     {
-      "chord": "Bm",
-      "lyrics": "Riding hard every shooting star"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Riding hard every shooting star",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        A/C#",
-      "lyrics": "come to life open mind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "come to ",
+          "overLyric": true
+        },
+        {
+          "chord": "A/C#",
+          "lyric": "life open mind",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    Em",
-      "lyrics": "have a laugh at the orthodox,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "have a laugh at the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "orthodox,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm                        D",
-      "lyrics": "Come, drink deep, let the dam of mind seep,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Come, drink deep, let the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "dam of mind seep,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       A",
-      "lyrics": "Travel with great Élan"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Travel ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "with great Élan",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Em",
-      "lyrics": "Dance a jig at the funeral..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Dance a jig at the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "funeral...",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[FINAL CHORUS]"
     },
     {
-      "chord": "Fm              Ab             Eb",
-      "lyrics": "Come, taste the wine, race the blind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm",
+          "lyric": "Come, taste the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "wine, race the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "blind",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Bbm                Fm",
-      "lyrics": "they will guide you from the light,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "they will gui",
+          "overLyric": true
+        },
+        {
+          "chord": "Bbm",
+          "lyric": "de you from the lig",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "ht,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Dbsus2                  Eb     Eb Db Eb",
-      "lyrics": "writing naughts till the end of time.. Ooh,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "writing ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dbsus2",
+          "lyric": "naughts till the end of ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "time.. ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "Ooh",
+          "overLyric": true
+        },
+        {
+          "chord": "Db",
+          "lyric": ",  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Fm             Ab               Eb",
-      "lyrics": "Come, surf the clouds, race the dark,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm",
+          "lyric": "Come, surf the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "clouds, race the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "dark,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Bbm             Fm",
-      "lyrics": "it feeds from the runs undone,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "it feeds ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bbm",
+          "lyric": "from the runs un",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "done,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Dbsus2    Ab               Eb",
-      "lyrics": "meet me where the cliff greets the sea..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "meet me ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dbsus2",
+          "lyric": "where the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "cliff greets the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "sea...",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Elan"

@@ -10,76 +10,268 @@
   "id": "safe_and_sound - capital_cities",
   "lines": [
     {
-      "chord": "F                  C",
-      "lyrics": "I could lift you up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I could lift you up",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "        Am",
-      "lyrics": "I could show you what you want to see"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I could ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "show you what you want to see",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     G",
-      "lyrics": "and take you where you want to be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and t",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ake you where you want to be",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                   C",
-      "lyrics": "You could be my luck"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "You could be my luck",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "      Am",
-      "lyrics": "Even if the sky is falling down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Even i",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "f the sky is falling down",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   G",
-      "lyrics": "I know that we'll be safe and sound"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I k",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "now that we'll be safe and sound",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                    C",
-      "lyrics": "I could fill your cup"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I could fill your cup",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "            Am",
-      "lyrics": "You know my river won't evaporate"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You know my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "river won't evaporate",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      G",
-      "lyrics": "This world we still appreciate"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "This w",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "orld we still appreciate",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                   C",
-      "lyrics": "You could be my luck"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "You could be my luck",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "          Am",
-      "lyrics": "Even in a hurricane of frowns"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Even in a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "hurricane of frowns",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   G",
-      "lyrics": "I know that we'll be safe and sound"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I k",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "now that we'll be safe and sound",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                    C",
-      "lyrics": "I could show you love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I could show you love",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "     Am",
-      "lyrics": "In a tidal wave of mystery"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "In a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "tidal wave of mystery",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G",
-      "lyrics": "You'll still be standing next to me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You'll s",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "till be standing next to me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                   C",
-      "lyrics": "You could be my luck"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "You could be my luck",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "        Am",
-      "lyrics": "Even if we're six feet underground"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Even if ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "we're six feet underground",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   G",
-      "lyrics": "I know that we'll be safe and sound"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I k",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "now that we'll be safe and sound",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Safe And Sound"

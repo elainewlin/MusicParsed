@@ -13,115 +13,482 @@
       "label": "[Intro]"
     },
     {
-      "chord": "C Am",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "F                            G",
-      "lyrics": " Something always brings me back to you."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " Something always brings me b",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ack to you.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                 Am",
-      "lyrics": " It never takes too long."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " It never takes to",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "o long.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                  G",
-      "lyrics": " No matter what I say or do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " No matter what I s",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ay or do",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                                        Am",
-      "lyrics": " I'll still feel you here 'til the moment I'm gone."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " I'll still feel you here 'til the moment",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " I'm gone.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                G",
-      "lyrics": " You hold me without touch."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " You hold me with",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "out touch.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                   Am",
-      "lyrics": " You keep me without chains."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " You keep me without",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " chains.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                    G",
-      "lyrics": " I never wanted anything so much"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " I never wanted anyth",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ing so much",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          C                          Am",
-      "lyrics": "Than to drown in your love and not feel your rain."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Than to dr",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "own in your love and not fe",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "el your rain.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "     F         G",
-      "lyrics": "Set me free, leave me be."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Set m",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "e free, le",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ave me be.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 C                             Am",
-      "lyrics": "I don't want to fall another moment into your gravity."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't want to f",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "all another moment into your g",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ravity.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     F           G       C                               Am",
-      "lyrics": "Here I am and I stand so tall, just the way I'm supposed to be."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Here ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "I am and I s",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "tand so ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "tall, just the way I'm supposed ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "to be.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                       C",
-      "lyrics": "But you're on to me and all over me."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "But you're on to me and ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "all over me.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "F                    G",
-      "lyrics": " You loved me 'cause I'm fragile."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " You loved me 'cause ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "I'm fragile.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                   Am",
-      "lyrics": " When I thought that I was strong."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " When I thought that",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " I was strong.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                    G              C                      Am",
-      "lyrics": " But you touch me for a little while and all my fragile strength is gone."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " But you touch me for",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " a little while",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " and all my fragile str",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ength is gone.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "     F         G",
-      "lyrics": "Set me free, leave me be."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Set m",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "e free, le",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ave me be.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 C                             Am",
-      "lyrics": "I don't want to fall another moment into your gravity."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't want to f",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "all another moment into your g",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ravity.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     F           G       C                               Am",
-      "lyrics": "Here I am and I stand so tall, just the way I'm supposed to be."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Here ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "I am and I s",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "tand so ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "tall, just the way I'm supposed ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "to be.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                       C",
-      "lyrics": "But you're on to me and all over me."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "But you're on to me and ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "all over me.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "F        G                     Am   G",
-      "lyrics": " I live here on my knees as I try to make you see that you're"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " I live h",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ere on my knees as I t",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ry to",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " make you see that you're",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F       G                     Am       G",
-      "lyrics": "Everything I think I need here on the ground."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Everythi",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ng I think I need here",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " on the g",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "round.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                  G                      C               Am",
-      "lyrics": " But you're neither friend nor foe though I can't seem to let you go."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " But you're neither",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " friend nor foe though ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I can't seem to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "let you go.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                   G                     C                Am",
-      "lyrics": " The one thing that I still know is that you're keeping me down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " The one thing that ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "I still know is that y",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ou're keeping me ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "down",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Gravity"

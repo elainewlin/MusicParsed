@@ -13,198 +13,1009 @@
       "label": "[Intro]"
     },
     {
-      "chord": "G  Em  C  D",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "Em",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G  Em  C  D",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "Em",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 1]"
     },
     {
-      "chord": "G                Em      C                D",
-      "lyrics": "  I went down to Georgia, looking for the one"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " I went down to "
+        },
+        {
+          "chord": "Em",
+          "lyric": "Georgia,",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " looking for the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "one",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                   Em            C                D",
-      "lyrics": "  I even checked in New York City, I didn't have no luck"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " I even checked in "
+        },
+        {
+          "chord": "Em",
+          "lyric": "New York City,",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " I didn't have no",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " luck",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "G                 EM                  C                D"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "G                 EM                  C                D",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "  So I'm going to S.F., where all you nerdy boys are hiding"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  So I'm going to S.F., where all you nerdy boys are hiding",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G            D          Em    D",
-      "lyrics": "I got my old school Chevy, and my labrador"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I got my",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " old school C",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "hevy, and m",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "y labr",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ador",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       C           D           G",
-      "lyrics": "Headed down to the liquor store"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Headed ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "down to the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "liquor store",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "N.C."
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "N.C.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Begging"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Begging",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "G      Em         C     D",
-      "lyrics": "  California, you're my last hope"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " Calif"
+        },
+        {
+          "chord": "Em",
+          "lyric": "ornia, you'",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "re my ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "last hope",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G         Em     C      D",
-      "lyrics": "  Give me someone I can take home"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " Give me "
+        },
+        {
+          "chord": "Em",
+          "lyric": "someone",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " I can ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "take home",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   G              Em             C           D",
-      "lyrics": "And, I don't know how much longer that I can wait"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ", I don't know ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "how much longer",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " that I can ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "wait",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           G    D Em      D         C          D        G",
-      "lyrics": "So make him 6'2\", eyes bright blue and sweet like lemonade"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So make him",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " 6'2\"",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ", ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "eyes bri",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ght blue a",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "nd sweet li",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ke lemona",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "de",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G    D  Em  D  C  D   G",
-      "lyrics": "Ooooooh, ooooooh, ohhhhhhhh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Ooooo",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "oh,",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " ooo",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ooo",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "h, ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ohhh",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "hhhhh",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "G            Em",
-      "lyrics": "  I got that good cologne"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " I got that "
+        },
+        {
+          "chord": "Em",
+          "lyric": "good cologne",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                D",
-      "lyrics": "  And I got that charm"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " And I got that "
+        },
+        {
+          "chord": "D",
+          "lyric": "charm",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " G                    Em",
-      "lyrics": "  I just need a pretty Cali girl"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " I just need a pretty",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " Cali girl",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                 D",
-      "lyrics": "  To put under my arm"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " To put under my "
+        },
+        {
+          "chord": "D",
+          "lyric": "arm",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                     Em",
-      "lyrics": "  And I know what you need darlin'"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " And I know what you "
+        },
+        {
+          "chord": "Em",
+          "lyric": "need darlin'",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C               D",
-      "lyrics": "  But I need it too"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " But I need it "
+        },
+        {
+          "chord": "D",
+          "lyric": "too",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           G         D       Em       D",
-      "lyrics": "  A little love and affection all night long"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  A little ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "love and a",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ffection",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " all nigh",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "t long",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         C     D         G",
-      "lyrics": "  I got a whole bunch for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  I got a",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " whole",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " bunch for",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "N.C."
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "N.C.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I'm going out to"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm going out to",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "G      Em    C          D",
-      "lyrics": "  California, you're my last hope"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " Calif"
+        },
+        {
+          "chord": "Em",
+          "lyric": "ornia,",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " you're my ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "last hope",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G         Em     C      D",
-      "lyrics": "  Give me someone I can take home"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " Give me "
+        },
+        {
+          "chord": "Em",
+          "lyric": "someone",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " I can ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "take home",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                 Em                   C    D",
-      "lyrics": "And, I don't know how much longer that I can wait"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "And, I don't know ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "how much longer that ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I can",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " wait",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           G   D Em        D        C          D         G",
-      "lyrics": "So make him 6'2\", eyes bright blue and sweet like lemonade"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So make him",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " 6'2",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "\",",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " eyes brig",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ht blue a",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "nd sweet li",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ke lemonad",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "C                                  D",
-      "lyrics": "  Now that I got you wrapped up in my arms"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " Now that I got you wrapped up in "
+        },
+        {
+          "chord": "D",
+          "lyric": "my arms",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                            D",
-      "lyrics": "  There ain't nobody else to hold (no)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " There ain't nobody else to "
+        },
+        {
+          "chord": "D",
+          "lyric": "hold (no)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                                  D",
-      "lyrics": "  Now that I got you wrapped up in my arms"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " Now that I got you wrapped up in "
+        },
+        {
+          "chord": "D",
+          "lyric": "my arms",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                               D",
-      "lyrics": "  There ain't no other place to go  oh ohh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " There ain't no other place to "
+        },
+        {
+          "chord": "D",
+          "lyric": "go  oh ohh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "N.C."
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "N.C.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "  But"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  But",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "G      Em    C          D",
-      "lyrics": "  California, you're my last hope"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " Calif"
+        },
+        {
+          "chord": "Em",
+          "lyric": "ornia,",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " you're my ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "last hope",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G         Em     C      D",
-      "lyrics": "  Give me someone I can take home"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " Give me "
+        },
+        {
+          "chord": "Em",
+          "lyric": "someone",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " I can ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "take home",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                 Em                   C    D",
-      "lyrics": "And, I don't know how much longer that I can wait"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "And, I don't know ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "how much longer that ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I can",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " wait",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           G    D Em      D         C          D        G",
-      "lyrics": "So make him 6'2\", eyes bright blue and sweet like lemonade"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So make him",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " 6'2\"",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ", ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "eyes bri",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ght blue a",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "nd sweet li",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ke lemona",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "de",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G      Em    C          D",
-      "lyrics": "  California, you're my last hope"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " Calif"
+        },
+        {
+          "chord": "Em",
+          "lyric": "ornia,",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " you're my ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "last hope",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G         Em     C      D",
-      "lyrics": "  Give me someone I can take home"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " Give me "
+        },
+        {
+          "chord": "Em",
+          "lyric": "someone",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " I can ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "take home",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                 Em                   C    D",
-      "lyrics": "And, I don't know how much longer that I can wait"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "And, I don't know ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "how much longer that ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I can",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " wait",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           G   D Em        D        C          D         G",
-      "lyrics": "So make him 6'2\", eyes bright blue and sweet like lemonade"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So make him",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " 6'2",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "\",",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " eyes brig",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ht blue a",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "nd sweet li",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ke lemonad",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G   D Em       D         C          D         G",
-      "lyrics": "Yeah 6'2\", eyes bright blue and sweet like lemonade"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Yeah",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " 6'2",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "\",",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " eyes bri",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ght blue a",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "nd sweet li",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ke lemonad",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Lemonade"

@@ -17,211 +17,828 @@
       "label": "Verse 1:"
     },
     {
-      "chord": "Am                  C",
-      "lyrics": "Wakin up to find another day"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Wakin up to find ano",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ther day",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                         C",
-      "lyrics": "The moon got lost again last night"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "The moon got lost again la",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "st night",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                            C",
-      "lyrics": "But now the sun has finally had it’s say"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "But now the sun has finally ha",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "d it’s say",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                       C",
-      "lyrics": "I guess I feel alright"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I guess I feel alright  ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "       F                                      Am",
-      "lyrics": "But it hurts when I think, when I let it sink in"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But it ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "hurts when I think, when I let it sink ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "in",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              G",
-      "lyrics": "It’s all over me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It’s all over ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              F",
-      "lyrics": "I know you’re here, in the dark"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I know you’re ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "here, in the dark",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  C                   G",
-      "lyrics": "I’m watchin' you sleep, it hurts a lot"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I’m watchin' you s",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "leep, it hurts a lot",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "Chorus:"
     },
     {
-      "chord": "    Ab    Bb             Gm             Cm",
-      "lyrics": "And all I know is you’ve got to give me everything"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "all I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "know is you’ve ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "got to give me ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "everything",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Ab      Bb               Gm                Cm",
-      "lyrics": "And nothing less, 'cause you know I’d give you all of me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "nothing ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "less, 'cause you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "know I’d give you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "all of me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Ab",
-      "lyrics": "I’d give you everything that I am"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I’d give you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "everything that I am",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Bb",
-      "lyrics": "I’m handin over everything that I’ve got"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I’m handin over ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "everything that I’ve got",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              Gm",
-      "lyrics": "Cause I wanna have a really true love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause I wanna ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "have a really true love",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 Cm",
-      "lyrics": "Don’t ever wanna have to go and give you up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Don’t ever wanna ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "have to go and give you up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Ab",
-      "lyrics": "Stay up till four in the morning and the tears are pouring"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Stay up till ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "four in the morning and the tears are pouring",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Bb",
-      "lyrics": "And I wanna make it worth the fight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "wanna make it worth the fight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                      Gm",
-      "lyrics": "But what have we been doing for all this time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But what have we been ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "doing for all this time",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              Cm",
-      "lyrics": "Baby if we’re gonna do it come and do it right"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Baby if we’re ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "gonna do it come and do it right",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Verse 2:"
     },
     {
-      "chord": "Am                    C",
-      "lyrics": "  All I wanted was to know I'm safe"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "  All I wanted was to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "know I'm safe",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                             C",
-      "lyrics": "  Don’t wanna lose the love I found"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " Don’t wanna lose the love I "
+        },
+        {
+          "chord": "C",
+          "lyric": "found",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                            C",
-      "lyrics": "  Remember when you said that you would change"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "  Remember when you said that ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "you would change",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                  C",
-      "lyrics": "  Don’t let me down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " Don’t let me down"
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "         F",
-      "lyrics": "It’s not fair, how you are"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It’s not ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "fair, how you are",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              C                          G",
-      "lyrics": "I can’t be complete, can you give me more"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I can’t be com",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "plete, can you give me more",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "Chorus:"
     },
     {
-      "chord": "    Ab    Bb             Gm             Cm",
-      "lyrics": "And all I know is you’ve got to give me everything"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "all I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "know is you’ve ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "got to give me ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "everything",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Ab      Bb               Gm                Cm",
-      "lyrics": "And nothing less, 'cause you know I’d give you all of me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "nothing ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "less, 'cause you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "know I’d give you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "all of me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Ab",
-      "lyrics": "I’d give you everything that I am"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I’d give you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "everything that I am",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Bb",
-      "lyrics": "I’m handin over everything that I’ve got"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I’m handin over ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "everything that I’ve got",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              Gm",
-      "lyrics": "Cause I wanna have a really true love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause I wanna ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "have a really true love",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 Cm",
-      "lyrics": "Don’t ever wanna have to go and give you up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Don’t ever wanna ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "have to go and give you up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Ab",
-      "lyrics": "Stay up till four in the morning and the tears are pouring"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Stay up till ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "four in the morning and the tears are pouring",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Bb",
-      "lyrics": "And I wanna make it worth the fight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "wanna make it worth the fight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                      Gm",
-      "lyrics": "But what have we been doing for all this time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But what have we been ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "doing for all this time",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              Cm",
-      "lyrics": "Baby if we’re gonna do it come and do it right"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Baby if we’re ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "gonna do it come and do it right",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Bridge:"
     },
     {
-      "chord": "Am",
-      "lyrics": "Oh please, you know what I need"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Oh please, you know what I need",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Save all your lovin for me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Save all your lovin for me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Am",
-      "lyrics": "We can’t escape the love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "can’t escape the love",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     F",
-      "lyrics": "With everything that you have"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "With ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "everything that you have",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Chorus:"
     },
     {
-      "chord": "    Ab    Bb             Gm             Cm",
-      "lyrics": "And all I know is you’ve got to give me everything"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "all I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "know is you’ve ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "got to give me ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "everything",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Ab      Bb               Gm                Cm",
-      "lyrics": "And nothing less, 'cause you know I’d give you all of me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "nothing ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "less, 'cause you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "know I’d give you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "all of me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Ab",
-      "lyrics": "I’d give you everything that I am"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I’d give you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "everything that I am",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Bb",
-      "lyrics": "I’m handin over everything that I’ve got"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I’m handin over ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "everything that I’ve got",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              Gm",
-      "lyrics": "Cause I wanna have a really true love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause I wanna ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "have a really true love",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 Cm",
-      "lyrics": "Don’t ever wanna have to go and give you up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Don’t ever wanna ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "have to go and give you up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Ab",
-      "lyrics": "Stay up till four in the morning and the tears are pouring"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Stay up till ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "four in the morning and the tears are pouring",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Bb",
-      "lyrics": "And I wanna make it worth the fight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "wanna make it worth the fight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                      Gm",
-      "lyrics": "But what have we been doing for all this time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But what have we been ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "doing for all this time",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              Cm",
-      "lyrics": "Baby if we’re gonna do it come and do it right"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Baby if we’re ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "gonna do it come and do it right",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "4 In The Morning"

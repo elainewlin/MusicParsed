@@ -13,240 +13,1204 @@
       "label": "[Intro]"
     },
     {
-      "chord": "Am   F       C   G",
-      "lyrics": "                 Hey!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "   "
+        },
+        {
+          "chord": "F",
+          "lyric": "       "
+        },
+        {
+          "chord": "C",
+          "lyric": "   "
+        },
+        {
+          "chord": "G",
+          "lyric": "Hey!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am   F       C   G",
-      "lyrics": "                 Hey!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "   "
+        },
+        {
+          "chord": "F",
+          "lyric": "       "
+        },
+        {
+          "chord": "C",
+          "lyric": "   "
+        },
+        {
+          "chord": "G",
+          "lyric": "Hey!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am   F       C   G",
-      "lyrics": "                 Hey!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "   "
+        },
+        {
+          "chord": "F",
+          "lyric": "       "
+        },
+        {
+          "chord": "C",
+          "lyric": "   "
+        },
+        {
+          "chord": "G",
+          "lyric": "Hey!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am   F       C   G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "   "
+        },
+        {
+          "chord": "F",
+          "lyric": "       "
+        },
+        {
+          "chord": "C",
+          "lyric": "   "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 1]"
     },
     {
-      "chord": "Am               F               C",
-      "lyrics": "I don't like walking around this old and empty house"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I don't like walk",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ing around this ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "old and empty house",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am                 F                C",
-      "lyrics": "So hold my hand, I'll walk with you my dear"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So h",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "old my hand, I'll w",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "alk with you my d",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ear",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Am           F               C",
-      "lyrics": "The stairs creak as I sleep, it's keeping me awake"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The s",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "tairs creak a",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "s I sleep, it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "keeping me awake",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Am            F                 C",
-      "lyrics": "It's the house telling you to close your eyes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's the h",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ouse telling y",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ou to close your e",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "yes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am          F          C",
-      "lyrics": "Some days I can't even trust myself"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Some days I ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "can't even ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "trust myself",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Am           F            C",
-      "lyrics": "It's killing me to see you this way"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's ki",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "lling me to s",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ee you this w",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ay",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "                   Am       F",
-      "lyrics": "'Cause though the truth may vary"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Cause though the t",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ruth may ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "vary",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C           G",
-      "lyrics": "This ship will carry"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "This",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " ship will c",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "arry",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Am    F        C",
-      "lyrics": "Our bodies safe to shore"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Our bo",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "dies s",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "afe to sh",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ore",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Interlude]"
     },
     {
-      "chord": "Am   F       C   G",
-      "lyrics": "                 Hey!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "   "
+        },
+        {
+          "chord": "F",
+          "lyric": "       "
+        },
+        {
+          "chord": "C",
+          "lyric": "   "
+        },
+        {
+          "chord": "G",
+          "lyric": "Hey!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am   F       C   G",
-      "lyrics": "                 Hey!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "   "
+        },
+        {
+          "chord": "F",
+          "lyric": "       "
+        },
+        {
+          "chord": "C",
+          "lyric": "   "
+        },
+        {
+          "chord": "G",
+          "lyric": "Hey!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am   F       C   G",
-      "lyrics": "                 Hey!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "   "
+        },
+        {
+          "chord": "F",
+          "lyric": "       "
+        },
+        {
+          "chord": "C",
+          "lyric": "   "
+        },
+        {
+          "chord": "G",
+          "lyric": "Hey!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am   F       C   G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "   "
+        },
+        {
+          "chord": "F",
+          "lyric": "       "
+        },
+        {
+          "chord": "C",
+          "lyric": "   "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "            Am       F                C",
-      "lyrics": "There's an old voice in my head that's holding me back"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "There's an o",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ld voice ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "in my head that's",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " holding me back",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am              F               C",
-      "lyrics": "Tell her that I miss our little talks"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Tell her that I ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "miss our little ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "talks",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am              F        C",
-      "lyrics": "Soon it will be over and buried with our past"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Soon it will be ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "over and ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "buried with our past",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am             F                   C",
-      "lyrics": "We used to play outside when we were young (and full of life and full of love)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We u",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "sed to play out",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "side when we were yo",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ung (and full of life and full of love)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am        F               C",
-      "lyrics": "Some days I don't know if I am wrong or right"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Some days ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "I don't know if ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I am wrong or right",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Am             F                 C",
-      "lyrics": "Your mind is playing tricks on you my dear"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Your m",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ind is playing ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "tricks on you my d",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ear",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "                   Am        F",
-      "lyrics": "'Cause though the truth may vary"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Cause though the t",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ruth may v",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ary",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C           G",
-      "lyrics": "This ship will carry"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "This",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " ship will c",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "arry",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Am   F         C     G",
-      "lyrics": "Our bodies safe to shore  Hey!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Our bo",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "dies ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "safe to sh",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ore  H",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ey!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                F      C     G",
-      "lyrics": "Don't listen to a word I say. Hey!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Don't listen to a ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "word I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "say. H",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ey!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am              F          C     G",
-      "lyrics": "The screams all sound the same. Hey!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "The screams all ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "sound the s",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ame. H",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ey!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Am       F",
-      "lyrics": "'Cause though the truth may vary"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Cause though the t",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ruth may ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "vary",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C           G",
-      "lyrics": "This ship will carry"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "This",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " ship will c",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "arry",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Am   F        C     G",
-      "lyrics": "Our bodies safe to shore"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Our bo",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "dies ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "safe to s",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hore  ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 3]"
     },
     {
-      "chord": "Am",
-      "lyrics": "You're gone, gone, gone away. I watched you disappear"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "You're gone, gone, gone away. I watched you disappear",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "All that's left is a ghost of you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "All that's left is a ghost of you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Am",
-      "lyrics": "Now we're torn, torn, torn apart, there's nothing we can do."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Now we're t",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "orn, torn, torn apart, there's nothing we can do.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Am",
-      "lyrics": "Just let me go, we'll meet again soon."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Just ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "let me go, we'll meet again soon.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am          F           C",
-      "lyrics": "Now wait, wait, wait for me. Please hang around"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Now ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "wait, wait, ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "wait for me.",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " Please hang around",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  Am            F       C      G",
-      "lyrics": "I see you when I fall asleep. Hey!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "see you when I",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " fall as",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "leep. H",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ey!",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Am                F      C     G",
-      "lyrics": "Don't listen to a word I say. Hey!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Don't listen to a ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "word I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "say. H",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ey!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am              F          C     G",
-      "lyrics": "The screams all sound the same. Hey!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "The screams all ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "sound the s",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ame. H",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ey!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Am       F",
-      "lyrics": "'Cause though the truth may vary"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Cause though the t",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ruth may ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "vary",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C           G",
-      "lyrics": "This ship will carry"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "This",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " ship will c",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "arry",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Am   F         C     G",
-      "lyrics": "Our bodies safe to shore"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Our bo",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "dies ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "safe to sh",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ore   ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am                F      C     G",
-      "lyrics": "Don't listen to a word I say. Hey!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Don't listen to a ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "word I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "say. H",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ey!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am              F          C     G",
-      "lyrics": "The screams all sound the same. Hey!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "The screams all ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "sound the s",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ame. H",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ey!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Am       F",
-      "lyrics": "'Cause though the truth may vary"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Cause though the t",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ruth may ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "vary",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C           G",
-      "lyrics": "This ship will carry"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "This",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " ship will c",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "arry",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Am   F         C     G",
-      "lyrics": "Our bodies safe to shore"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Our bo",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "dies ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "safe to sh",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ore   ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Ending]"
     },
     {
-      "chord": "                   Am       F",
-      "lyrics": "'Cause though the truth may vary"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Cause though the t",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ruth may ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "vary",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       C         G",
-      "lyrics": "This ship will carry"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "This sh",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ip will ca",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "rry",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Am     F       C",
-      "lyrics": "Our bodies safe to shore"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Our bo",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "dies sa",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "fe to sh",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ore",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Am       F",
-      "lyrics": "'Cause though the truth may vary"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Cause though the t",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ruth may ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "vary",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       C         G",
-      "lyrics": "This ship will carry"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "This sh",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ip will ca",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "rry",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Am     F       C",
-      "lyrics": "Our bodies safe to shore"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Our bo",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "dies sa",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "fe to sh",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ore",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Little Talks"

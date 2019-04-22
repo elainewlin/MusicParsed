@@ -16,265 +16,1079 @@
       "label": "[Verse: Shakira]"
     },
     {
-      "chord": "Bm           Em",
-      "lyrics": "I left a note on my bedpost"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "I left a note",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " on my bedpost",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A                 D",
-      "lyrics": "Said not to repeat yesterday's mistakes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Said not to repeat",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " yesterday's mistakes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm               Em",
-      "lyrics": "What I tend to do when it comes to you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "What I tend to do",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " when it comes to you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A                  D",
-      "lyrics": "I see only the good, selective memory"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "I see only the good",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ", selective memory",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm                            Em",
-      "lyrics": "The way he makes me feel yeah, gotta hold on me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "The way he makes me feel yeah,",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " gotta hold on me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            A              D",
-      "lyrics": "I've never met someone so different"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've never m",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "et someone so d",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ifferent",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Oh here we go"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh here we go",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm                  Em",
-      "lyrics": "He a part of me now, he a part of me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "He a part of me now,",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " he a part of me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     A",
-      "lyrics": "So where you go I follow, follow, follow, oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So wh",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ere you go I follow, follow, follow, oh",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus 1]"
     },
     {
-      "chord": "Bm    A      Em",
-      "lyrics": "Ohohohoh ohohohoh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Ohohoh",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "oh ohoh",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ohoh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           G           F#",
-      "lyrics": "I can't remember to forget you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I can't rem",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ember to for",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "get you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm    A      G",
-      "lyrics": "Ohohohoh ohohohoh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Ohohoh",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "oh ohoh",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ohoh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           D              A/C#",
-      "lyrics": "I keep forgetting I should let you go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I keep forg",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "etting I should",
+          "overLyric": true
+        },
+        {
+          "chord": "A/C#",
+          "lyric": " let you go",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm            A                    Em",
-      "lyrics": "But when you look at me, the only memory"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "But when you l",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ook at me, the only m",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "emory",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G              F#",
-      "lyrics": "Is us kissing in the moonlight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Is us ki",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ssing in the mo",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "onlight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm    A      G",
-      "lyrics": "Ohohohoh ohohohoh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Ohohoh",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "oh ohoh",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ohoh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I can't remember to forget you"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I can't remember to forget you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm    Em    A",
-      "lyrics": "Ooooh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Ooooh ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "    "
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "           D            A/C#",
-      "lyrics": "I can't remember to forget you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I can't rem",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ember to forg",
+          "overLyric": true
+        },
+        {
+          "chord": "A/C#",
+          "lyric": "et you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm    Em     A     D",
-      "lyrics": "Ooooh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Ooooh ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "     "
+        },
+        {
+          "chord": "A",
+          "lyric": "     "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 2: Rihanna]"
     },
     {
-      "chord": "Bm",
-      "lyrics": "I go back again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "I go back again",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em",
-      "lyrics": "Fall off the train"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Fall off the train",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A",
-      "lyrics": "Land in his bed"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Land in his bed",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D      C",
-      "lyrics": "Repeat yesterday's mistakes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Repeat ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "yesterday's mistakes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm                    Em            A",
-      "lyrics": "What I'm trying to say is not to forget"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "What I'm trying to say",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " is not to for",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "get",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    D     A/C#",
-      "lyrics": "You see only the good, selective memory"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You see only the goo",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "d, sel",
+          "overLyric": true
+        },
+        {
+          "chord": "A/C#",
+          "lyric": "ective memory",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm",
-      "lyrics": "The way he makes me feel like"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "The way he makes me feel like",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em",
-      "lyrics": "The way he makes me feel"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "The way he makes me feel",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          A                D",
-      "lyrics": "I never seemed to act so stupid"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I never se",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "emed to act so st",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "upid",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "Oh here we go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Oh here we go",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm                 Em",
-      "lyrics": "He a part of me now he a part of me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "He a part of me now",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " he a part of me",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Shakira]"
     },
     {
-      "chord": "     A",
-      "lyrics": "So where he goes I follow, follow, follow, oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So wh",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ere he goes I follow, follow, follow, oh",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus 2: Both]"
     },
     {
-      "chord": "Bm   A       Em",
-      "lyrics": "Ohohohoh ohohohoh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Ohoho",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "hoh ohoh",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ohoh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           G            F#",
-      "lyrics": "I can't remember to forget you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I can't rem",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ember to forg",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "et you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm   A      G",
-      "lyrics": "Ohohohoh ohohohoh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Ohoho",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "hoh oho",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "hohoh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           D               A/C#",
-      "lyrics": "I keep forgetting I should let you go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I keep forg",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "etting I should ",
+          "overLyric": true
+        },
+        {
+          "chord": "A/C#",
+          "lyric": "let you go",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm            A                    Em",
-      "lyrics": "But when you look at me, the only memory"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "But when you l",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ook at me, the only m",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "emory",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       G              F#",
-      "lyrics": "Is us kissing in the moonlight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Is us k",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "issing in the m",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "oonlight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm   A      G",
-      "lyrics": "Ohohohoh ohohohoh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Ohoho",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "hoh oho",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "hohoh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I can't remember to forget you"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I can't remember to forget you",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge: Shakira]"
     },
     {
-      "chord": "  Bm                  Em",
-      "lyrics": "I rob and I kill to keep him with me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "rob and I kill to ke",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ep him with me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   A                    D    A/C#",
-      "lyrics": "I do anything for that boy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I d",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "o anything for that b",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "oy   ",
+          "overLyric": true
+        },
+        {
+          "chord": "A/C#",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    Bm                    Em",
-      "lyrics": "I'd give my last dime to hold him tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'd ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "give my last dime to h",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "old him tonight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   A                    D",
-      "lyrics": "I do anything for that boy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I d",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "o anything for that b",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "oy",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge: Rihanna]"
     },
     {
-      "chord": "  Bm                  Em",
-      "lyrics": "I rob and I kill to keep him with me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "rob and I kill to ke",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ep him with me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   A                    D",
-      "lyrics": "I do anything for that boy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I d",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "o anything for that b",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "oy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Bm                    Em",
-      "lyrics": "I'd give my last dime to hold him tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'd ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "give my last dime to h",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "old him tonight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   A                    D",
-      "lyrics": "I do anything for that boy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I d",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "o anything for that b",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "oy",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus 3: Both]"
     },
     {
-      "chord": "Bm   A      Em",
-      "lyrics": "Ohohohoh ohohohoh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Ohoho",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "hoh oho",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "hohoh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           G            F#",
-      "lyrics": "I can't remember to forget you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I can't rem",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ember to forg",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "et you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm   A      Em",
-      "lyrics": "Ohohohoh ohohohoh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Ohoho",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "hoh oho",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "hohoh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           D               A/C#",
-      "lyrics": "I keep forgetting I should let you go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I keep forg",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "etting I should ",
+          "overLyric": true
+        },
+        {
+          "chord": "A/C#",
+          "lyric": "let you go",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm            A            Em",
-      "lyrics": "But when you look at me, the only memory"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "But when you l",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ook at me, th",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "e only memory",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       G              F#",
-      "lyrics": "Is us kissing in the moonlight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Is us k",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "issing in the m",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "oonlight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm   A      Em",
-      "lyrics": "Ohohohoh ohohohoh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Ohoho",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "hoh oho",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "hohoh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           G            F#",
-      "lyrics": "I can't remember to forget you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I can't rem",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ember to forg",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "et you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm            A                    Em",
-      "lyrics": "But when you look at me, the only memory"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "But when you l",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ook at me, the only m",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "emory",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       D              A/C#",
-      "lyrics": "Is us kissing in the moonlight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Is us k",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "issing in the m",
+          "overLyric": true
+        },
+        {
+          "chord": "A/C#",
+          "lyric": "oonlight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm   A      G",
-      "lyrics": "Ohohohoh ohohohoh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Ohoho",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "hoh oho",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "hohoh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I can't remember to forget you"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I can't remember to forget you",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Can't Remember To Forget You"

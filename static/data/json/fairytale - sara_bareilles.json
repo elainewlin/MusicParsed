@@ -11,154 +11,680 @@
   "id": "fairytale - sara_bareilles",
   "lines": [
     {
-      "chord": "G                   Dm7",
-      "lyrics": "Cinderella's on her bedroom floor"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Cinderella's on her ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "bedroom floor",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm7",
-      "lyrics": "She's got a"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm7",
+          "lyric": "She's got a",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                       Am",
-      "lyrics": "Crush on the guy at the liquor store"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Crush on the guy at the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "liquor store",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                             Dm7",
-      "lyrics": "Cause Mr. Charming don't come home anymore"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Cause Mr. Charming don't come ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "home anymore",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                       C    F",
-      "lyrics": "And she forgets why she came here"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "And she forgets why she ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "came ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "here",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                      Dm7",
-      "lyrics": "Sleeping Beauty's in a foul mood"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Sleeping Beauty's in a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "foul mood",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm7",
-      "lyrics": "For shame she says"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm7",
+          "lyric": "For shame she says",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                         Am",
-      "lyrics": "None for you dear prince, I'm tired today"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "None for you dear prince, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "I'm tired today",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                   Dm7             F             C            F",
-      "lyrics": "I'd rather sleep my whole life away than have you keep me from dreaming"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I'd rather sleep my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "whole life away ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "than have you ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "keep me from ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "dreaming",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus:]"
     },
     {
-      "chord": "Am G    F    C        Am G  F",
-      "lyrics": "I don't care for your fairytales"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I d",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "on't ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "care ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "for your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "fai",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ryt",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ales",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                                         C",
-      "lyrics": "You're so worried about the maiden though you know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "You're so worried about the maiden though ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "you know",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm7                        Am  G    F",
-      "lyrics": "She's only waiting on the next best thing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm7",
+          "lyric": "She's only waiting on the n",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ext ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "best ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "thing",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "next best thing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "next best thing",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Snow White is doing dishes again cause"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Snow White is doing dishes again cause",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm7",
-      "lyrics": "What else could you do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm7",
+          "lyric": "What else could you do",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     F                Am",
-      "lyrics": "With seven itty-bitty men?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "With ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "seven itty-bitty ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "men?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                         Dm7",
-      "lyrics": "Sends them to bed and she calls up a friend"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Sends them to bed and she ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "calls up a friend",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                        C   F",
-      "lyrics": "Says will you meet me at midnight?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Says will you meet me at ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "midn",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ight?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                          Dm7",
-      "lyrics": "The tall blonde lets out a cry of despair says"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "The tall blonde lets out a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "cry of despair says",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                                  Am",
-      "lyrics": "Would have cut it myself if I knew men could climb hair"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Would have cut it myself if I knew ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "men could climb hair",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                         Dm7                 F                  C  F",
-      "lyrics": "I'll have to find another tower somewhere and keep away from the windows"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I'll have to find another ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "tower somewhere and ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "keep away from the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "win",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "dows",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "G                             Dm7",
-      "lyrics": "Once upon a time in a faraway kingdom"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Once upon a time in a faraway ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "kingdom",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                                Am",
-      "lyrics": "Man made up a story said that I should believe him"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Man made up a story said that I s",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "hould believe him",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                                       Dm7",
-      "lyrics": "Go and tell your white knight that he's handsome in hindsight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Go and tell your white knight that he's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "handsome in hindsight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                    C         F",
-      "lyrics": "But I don't want the next best thing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "But I don't want the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "next best ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "thing",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F          G            Dm7        F           Am",
-      "lyrics": "So I sing - I hold my head down and I break these walls round me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "So I sing -",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " I hold my he",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "ad down and",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " I break the",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "se walls round me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                          Dm7",
-      "lyrics": "Can't take no more of your fairytale love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Can't take no more of your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "fairytale love",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am G     F",
-      "lyrics": "I don't care"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I d",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "on't c",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "are",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C        Am G  F",
-      "lyrics": "For your fairytales"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "For your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "fai",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ryt",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ales",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                                 C",
-      "lyrics": "You're so worried bout the maiden though you know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "You're so worried bout the maiden ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "though you know",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm7",
-      "lyrics": "She's only waiting"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm7",
+          "lyric": "She's only waiting",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "spent the whole life being"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "spent the whole life being",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G             F           Am             G    F",
-      "lyrics": "graded on the sanctity of patience and a dumb appreciation"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "graded on the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "sanctity of ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "patience and a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "dumb ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "appreciation",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Am               G             F            Am",
-      "lyrics": "But the story needs some mending and a better happy ending"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "story needs some ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "mending and a ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "better happy ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ending",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G              F         Am",
-      "lyrics": "Cause I don't want the next best thing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "don't want the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "next best ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "thing",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G              F         Am",
-      "lyrics": "No no I don't want the next best thing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "No no I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "don't want the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "next best ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "thing",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Fairytale"

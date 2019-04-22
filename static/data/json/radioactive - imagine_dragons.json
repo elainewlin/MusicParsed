@@ -13,151 +13,656 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "Bm          D            A",
-      "lyrics": "I'm waking up to ash and dust"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "I'm waking u",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "p to ash and ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "dust",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          E                    Bm",
-      "lyrics": "I wipe my brow and I sweat my rust"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I wipe my ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "brow and I sweat my r",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "ust",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             D               A    E",
-      "lyrics": "I'm breathing in the chemicals"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm breathing",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " in the chemical",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "s    ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Bm          D            A                 E",
-      "lyrics": "I'm breaking in, shaping up, then checking out on the prison bus"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "I'm breaking",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " in, shaping ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "up, then checking ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "out on the prison bus",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm        D              A",
-      "lyrics": "This is it, the apocalypse"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "This is it",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ", the apocalyps",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "Whoa"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "Whoa",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus 1]"
     },
     {
-      "chord": "E              Bm             D",
-      "lyrics": "I'm waking up, I feel it in my bones"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "I'm waking up, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "I feel it in my",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " bones",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A                  E",
-      "lyrics": "Enough to make my systems blow"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Enough to make my s",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ystems blow",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm                     D",
-      "lyrics": "Welcome to the new age, to the new age"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Welcome to the new age,",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " to the new age",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A                      E",
-      "lyrics": "Welcome to the new age, to the new age"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Welcome to the new age,",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": " to the new age",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm     D         A            E",
-      "lyrics": "Whoa, whoa, I'm radioactive, radioactive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Whoa, w",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "hoa, I'm r",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "adioactive, r",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "adioactive",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm     D         A            E",
-      "lyrics": "Whoa, whoa, I'm radioactive, radioactive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Whoa, w",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "hoa, I'm r",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "adioactive, r",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "adioactive",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "Bm           D            A",
-      "lyrics": "I raise my flags, don my clothes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "I raise my fl",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ags, don my c",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "lothes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          E                    Bm",
-      "lyrics": "It's a revolution, I suppose"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's a rev",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "olution, I suppose   ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "              D                  A",
-      "lyrics": "We're painted red to fit right in"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We're painted ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "red to fit right in",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "Whoa"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "Whoa",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm          D            A                 E",
-      "lyrics": "I'm breaking in, shaping up, then checking out on the prison bus"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "I'm breaking",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " in, shaping ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "up, then checking ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "out on the prison bus",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm        D              A",
-      "lyrics": "This is it, the apocalypse"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "This is it",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ", the apocalyps",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "Whoa"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "Whoa",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus 2]"
     },
     {
-      "chord": "E              Bm           D",
-      "lyrics": "I'm waking up, I feel it in my bones"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "I'm waking up, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "I feel it in ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "my bones",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A                  E",
-      "lyrics": "Enough to make my systems blow"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Enough to make my s",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ystems blow",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm                     D",
-      "lyrics": "Welcome to the new age, to the new age"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Welcome to the new age,",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " to the new age",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A                      E",
-      "lyrics": "Welcome to the new age, to the new age"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Welcome to the new age,",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": " to the new age",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm     D         A            E",
-      "lyrics": "Whoa, whoa, I'm radioactive, radioactive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Whoa, w",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "hoa, I'm r",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "adioactive, r",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "adioactive",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm     D         A            E",
-      "lyrics": "Whoa, whoa, I'm radioactive, radioactive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Whoa, w",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "hoa, I'm r",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "adioactive, r",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "adioactive",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "Bm          D   A           E",
-      "lyrics": "All systems go, sun hasn't died"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "All systems ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "go, ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "sun hasn't d",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ied",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm          D     A             E",
-      "lyrics": "Deep in my bones, straight from inside"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Deep in my b",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ones, ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "straight from ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "inside",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus 3]"
     },
     {
-      "chord": "E              Bm             D",
-      "lyrics": "I'm waking up, I feel it in my bones"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "I'm waking up, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "I feel it in my",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " bones",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A                  E",
-      "lyrics": "Enough to make my systems blow"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Enough to make my s",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ystems blow",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm                     D",
-      "lyrics": "Welcome to the new age, to the new age"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Welcome to the new age,",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " to the new age",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A                      E",
-      "lyrics": "Welcome to the new age, to the new age"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Welcome to the new age,",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": " to the new age",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm     D         A            E",
-      "lyrics": "Whoa, whoa, I'm radioactive, radioactive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Whoa, w",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "hoa, I'm r",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "adioactive, r",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "adioactive",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm     D         A            E",
-      "lyrics": "Whoa, whoa, I'm radioactive, radioactive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Whoa, w",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "hoa, I'm r",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "adioactive, r",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "adioactive",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Radioactive"

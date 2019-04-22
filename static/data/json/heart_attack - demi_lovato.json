@@ -15,262 +15,1217 @@
       "label": "[Intro]"
     },
     {
-      "chord": "C                   B7",
-      "lyrics": "Putting my defenses up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Putting my defenses ",
+          "overLyric": true
+        },
+        {
+          "chord": "B7",
+          "lyric": "up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Em                    Am",
-      "lyrics": "'Cause I don't wanna fall in love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Cause ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "I don't wanna fall in ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "love",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     C",
-      "lyrics": "If I ever did that"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "If I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ever did that",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    D",
-      "lyrics": "I think I'd have a heart attack"
-    },
-    {
-      "label": "[Verse]"
-    },
-    {
-      "chord": "C                 G              D",
-      "lyrics": "Never put my love out on the line"
-    },
-    {
-      "chord": "               Em             C",
-      "lyrics": "Never said yes to the right guy"
-    },
-    {
-      "chord": "                  G                 D",
-      "lyrics": "Never had trouble getting what I want"
-    },
-    {
-      "chord": "                          Em                  C",
-      "lyrics": "But when it comes to you, I'm never good enough"
-    },
-    {
-      "chord": "       G       D",
-      "lyrics": "When I don't care"
-    },
-    {
-      "chord": "           Em                 C",
-      "lyrics": "I can play 'em like a Ken doll"
-    },
-    {
-      "chord": "           G     D",
-      "lyrics": "Won't wash my hair"
-    },
-    {
-      "chord": "                   Em              C",
-      "lyrics": "Then make 'em bounce like a basketball"
-    },
-    {
-      "chord": "                G                D",
-      "lyrics": "But you make me wanna act like a girl"
-    },
-    {
-      "chord": "               Em            C",
-      "lyrics": "Paint my nails and wear high heels"
-    },
-    {
-      "chord": "                G",
-      "lyrics": "Yes you make me so nervous"
-    },
-    {
-      "chord": "       B7",
-      "lyrics": "That I just can't hold your hand"
-    },
-    {
-      "label": "[Chorus]"
-    },
-    {
-      "chord": "            C        G   D",
-      "lyrics": "You make me glo-o-o-o-o-ow, but I cover up"
-    },
-    {
-      "chord": "Em           C        G   D",
-      "lyrics": "Won't let it sho-o-o-o-o-ow, so I'm"
-    },
-    {
-      "chord": "C                   B7",
-      "lyrics": "Putting my defenses up"
-    },
-    {
-      "chord": "       Em                    Am",
-      "lyrics": "'Cause I don't wanna fall in love"
-    },
-    {
-      "chord": "     C",
-      "lyrics": "If I ever did that"
-    },
-    {
-      "chord": "                           Em      C   G",
-      "lyrics": "I think I'd have a heart atta-a-a-a-a-ack"
-    },
-    {
-      "chord": "       D                   Em      C   G",
-      "lyrics": "I think I'd have a heart atta-a-a-a-a-ack"
-    },
-    {
-      "chord": "       D",
-      "lyrics": "I think I'd have a heart attack"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I th",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ink I'd have a heart attack",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "C                   G                 D",
-      "lyrics": "Never break a sweat for the other guys"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Never put my love ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "out on the line",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                      Em              C",
-      "lyrics": "When ya come around, I get paralyzed"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Never said yes ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "to the right gu",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "y",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    G          D",
-      "lyrics": "And every time I try to be myself"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Never had trouble ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "getting what I wan",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "t",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Em                C",
-      "lyrics": "It comes out wrong like a cry for help"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But when it comes to you, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "I'm never good enoug",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "h",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          G      D",
-      "lyrics": "It's just not fair"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "don't ca",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "re",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    Em              C",
-      "lyrics": "Pain's more trouble than love is worth"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I can play ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "'em like a Ken doll",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "       G     D",
-      "lyrics": "I gasp for air"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Won't wash ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "my hai",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "r",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 Em                   C",
-      "lyrics": "It feels so good, but you know it hurts"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Then make 'em bounc",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "e like a basketb",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "all",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                G                D",
-      "lyrics": "But you make me wanna act like a girl"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But you make me ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "wanna act like a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "girl",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               Em           C",
-      "lyrics": "Paint my nails and wear perfume"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Paint my nails ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "and wear high ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "heels",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                G",
-      "lyrics": "For you, make me so nervous"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Yes you make me ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "so nervous",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       B7",
-      "lyrics": "That I just can't hold your hand"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That I ",
+          "overLyric": true
+        },
+        {
+          "chord": "B7",
+          "lyric": "just can't hold your hand",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "            C       G   D",
-      "lyrics": "You make me glo-o-o-o-o-ow, but I cover up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You make me ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "glo-o-o-o",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "-o-o",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "w, but I cover up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em           C        G   D",
-      "lyrics": "Won't let it sho-o-o-o-o-ow, so I’m"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Won't let it ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "sho-o-o-o",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "-o-o",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "w, so I'm",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                   B7",
-      "lyrics": "Putting my defenses up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Putting my defenses ",
+          "overLyric": true
+        },
+        {
+          "chord": "B7",
+          "lyric": "up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Em                    Am",
-      "lyrics": "'Cause I don't wanna fall in love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Cause ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "I don't wanna fall in ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "love",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     C",
-      "lyrics": "If I ever did that"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "If I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ever did that",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                           Em      C   G",
-      "lyrics": "I think I'd have a heart atta-a-a-a-a-ack"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I think I'd have a heart at",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ta-a-a-a",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "-a-a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ck",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       D                   Em      C   G",
-      "lyrics": "I think I'd have a heart atta-a-a-a-a-ack"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I think",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " I'd have a heart at",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ta-a-a-a",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "-a-a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ck",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       D                   Em",
-      "lyrics": "I think I'd have a heart attack"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I think",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " I'd have a heart attack",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "[Verse]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Never break a sweat ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "for the other guys",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When ya come around, I",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " get paralyzed  ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And every time I try",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " to be myse",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "lf",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It comes out wrong ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "like a cry for hel",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "p",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's just ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "not fai",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "r",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Pain's more trouble ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "than love is wor",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "th",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I gasp ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "for ai",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "r",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It feels so good,",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " but you know it hurt",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "s",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But you make me ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "wanna act like a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "girl",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Paint my nails ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "and wear perf",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ume",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "For you, make me",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " so nervous",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That I ",
+          "overLyric": true
+        },
+        {
+          "chord": "B7",
+          "lyric": "just can't hold your hand",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "[Chorus]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You make me ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "glo-o-o-",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "o-o-",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ow, but I cover up",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Won't let it ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "sho-o-o-o",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "-o-o",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "w, so I’m",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Putting my defenses ",
+          "overLyric": true
+        },
+        {
+          "chord": "B7",
+          "lyric": "up",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Cause ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "I don't wanna fall in ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "love",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "If I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ever did that",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I think I'd have a heart at",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ta-a-a-a",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "-a-a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ck",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I think",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " I'd have a heart at",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ta-a-a-a",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "-a-a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ck",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I think",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " I'd have a heart at",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "tack",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "               C",
-      "lyrics": "The feelings are lost in my lungs"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The feelings ar",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "e lost in my lungs",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     G",
-      "lyrics": "They're burning, I'd rather be numb"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "They're burning, I'd ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "rather be numb",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            D                   Em",
-      "lyrics": "And there's no one else to blame"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And there's ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "no one else to blame",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                     C",
-      "lyrics": "So scared I'd take off in a run"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So scared I'd take of",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "f in a run",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               G",
-      "lyrics": "I'm flying too close to the sun"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm flying too ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "close to the sun",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   B7",
-      "lyrics": "And I burst into flames"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I burst into fl",
+          "overLyric": true
+        },
+        {
+          "chord": "B7",
+          "lyric": "ames",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "            C        G   D",
-      "lyrics": "You make me glo-o-o-o-o-ow, but I cover up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You make me ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "glo-o-o-o",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "-o-o",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "w, but I cover up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em           C        G   D",
-      "lyrics": "Won't let it sho-o-o-o-o-ow, so I'm"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Won't let it ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "sho-o-o-o",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "-o-o",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "w, so I'm",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                   B7",
-      "lyrics": "Putting my defenses up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Putting my defenses ",
+          "overLyric": true
+        },
+        {
+          "chord": "B7",
+          "lyric": "up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Em                    Am",
-      "lyrics": "'Cause I don't wanna fall in love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Cause ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "I don't wanna fall in ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "love",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     C",
-      "lyrics": "If I ever did that"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "If I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ever did that",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                           Em      C   G",
-      "lyrics": "I think I'd have a heart atta-a-a-a-A-ack"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I think I'd have a heart at",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ta-a-a-a",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "-A-a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ck",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       D                   Em      C   G",
-      "lyrics": "I think I'd have a heart atta-a-a-a-a-ack"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I think",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " I'd have a heart at",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ta-a-a-a",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "-a-a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ck",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       D                   Em      C   G",
-      "lyrics": "I think I'd have a heart atta-a-a-a-a-ack"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I think",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " I'd have a heart at",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ta-a-a-a",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "-a-a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ck",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       D                   Em      C   G",
-      "lyrics": "I think I'd have a heart atta-a-a-a-a-ack"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I think",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " I'd have a heart at",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ta-a-a-a",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "-a-a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ck",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       D                      Em",
-      "lyrics": "I think I'd have a heart attack"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I think",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " I'd have a heart attac",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "k",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Heart Attack"

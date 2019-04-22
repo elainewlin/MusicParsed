@@ -14,143 +14,663 @@
       "label": "[Verse]"
     },
     {
-      "chord": "Em           D/F#             C",
-      "lyrics": "I close both locks below the window"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "I close both ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "locks below the w",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "indow",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em           D/F#            C",
-      "lyrics": "I close both blinds and turn away"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "I close both ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "blinds and turn ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "away",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em           D/F#              C",
-      "lyrics": "Sometimes so-lutions aren't so simple"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Sometimes so-",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "lutions aren't so ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "simple",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em             D/F#           C",
-      "lyrics": "Sometimes good bye's the only way"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Sometimes good ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "bye's the only ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "way",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre Chorus]"
     },
     {
-      "chord": "        G        Am             Em       C",
-      "lyrics": "And the sun        will set for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "sun      ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "  will set for ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "you      ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    G       Am             Em       C",
-      "lyrics": "The sun       will set for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "sun     ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "  will set for ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "you      ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "        G             D",
-      "lyrics": "And the shadow of the day"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "shadow of the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "day",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Em                   C",
-      "lyrics": "Will embrace the world in grey"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Will ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "embrace the world in ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "grey",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G        Am             Em       C",
-      "lyrics": "And the sun        will set for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "sun      ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "  will set for ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "you      ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "Em           D/F#            C",
-      "lyrics": "In cards and flowers on your window"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "In cards and ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "flowers on your ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "window",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em               D/F#             C",
-      "lyrics": "Your friends all plead for you to stay"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Your friends all ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "plead for you to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "stay",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em           D/F#               C",
-      "lyrics": "Sometimes be-ginnings aren't so simple"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Sometimes be-",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "ginnings aren't so ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "simple",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em             D/F#           C",
-      "lyrics": "Sometimes good bye's the only way"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Sometimes good ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "bye's the only ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "way",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre Chorus]"
     },
     {
-      "chord": "        G        Am             Em       C",
-      "lyrics": "And the sun        will set for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "sun      ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "  will set for ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "you      ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    G       Am             Em       C",
-      "lyrics": "The sun       will set for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "sun     ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "  will set for ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "you      ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "        G             D",
-      "lyrics": "And the shadow of the day"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "shadow of the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "day",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Em                   C",
-      "lyrics": "Will embrace the world in grey"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Will ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "embrace the world in ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "grey",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G        Am             Em       C",
-      "lyrics": "And the sun        will set for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "sun      ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "  will set for ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "you      ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Solo 1]"
     },
     {
-      "chord": "G  D/F#  C",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G  D/F#  C",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "        G             D",
-      "lyrics": "And the shadow of the day"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "shadow of the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "day",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Em                   C",
-      "lyrics": "Will embrace the world in grey"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Will ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "embrace the world in ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "grey",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G        Am             Em       C",
-      "lyrics": "And the sun        will set for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "sun      ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "  will set for ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "you      ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Solo 2]"
     },
     {
-      "chord": "G       Am      Em      C",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "       "
+        },
+        {
+          "chord": "Am",
+          "lyric": "      "
+        },
+        {
+          "chord": "Em",
+          "lyric": "      "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G       Am      Em      C",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "       "
+        },
+        {
+          "chord": "Am",
+          "lyric": "      "
+        },
+        {
+          "chord": "Em",
+          "lyric": "      "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "        G             D",
-      "lyrics": "And the shadow of the day"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "shadow of the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "day",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Em                   C",
-      "lyrics": "Will embrace the world in grey"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Will ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "embrace the world in ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "grey",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G        Am             Em       C      G",
-      "lyrics": "And the sun        will set for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "sun      ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "  will set for ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "you      ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "      "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "Shadow Of The Day"

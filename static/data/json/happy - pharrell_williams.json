@@ -15,179 +15,752 @@
       "label": "[Verse]"
     },
     {
-      "chord": "F                                          F Bb C Bb",
-      "lyrics": "It might seem crazy what I'm about to say"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "It might seem crazy what I'm about to say  ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "Bb",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "Bb",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F                                          F Bb C Bb",
-      "lyrics": "Sunshine she's here,  You can take a break"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Sunshine she's here,  You can take a break ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "Bb",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "Bb",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "      F                                       F Bb C Bb",
-      "lyrics": "I'm a hot air balloon, That could go to space"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm a ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "hot air balloon, That could go to space ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "Bb",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "Bb",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "         F                                          F Bb C Bb",
-      "lyrics": "With the air, Like I don't care,  Baby by the way"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "With the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "air, Like I don't care,  Baby by the way   ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "Bb",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "Bb",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "            Dbmaj7             Cm7",
-      "lyrics": "Because I'm happy, Clap along, If you feel,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Because I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dbmaj7",
+          "lyric": "happy, Clap along, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm7",
+          "lyric": "If you feel,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Eb             F",
-      "lyrics": "Like a room without a roof"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Like a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "room without a ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "roof",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Dbmaj7             Cm7",
-      "lyrics": "Because I'm happy, Clap along, If you feel like,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Because I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dbmaj7",
+          "lyric": "happy, Clap along, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm7",
+          "lyric": "If you feel like,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb               F",
-      "lyrics": "Happiness is the truth"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "Happiness is the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "truth",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Dbmaj7             Cm7",
-      "lyrics": "Because I'm happy, Clap along, If you know what,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Because I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dbmaj7",
+          "lyric": "happy, Clap along, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm7",
+          "lyric": "If you know what,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb              F",
-      "lyrics": "Happiness is to you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "Happiness is to ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Dbmaj7             Cm7",
-      "lyrics": "Because I'm happy, Clap along, If you feel like,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Because I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dbmaj7",
+          "lyric": "happy, Clap along, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm7",
+          "lyric": "If you feel like,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb                      F",
-      "lyrics": "That's what you want to do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "That's what you want to ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "do",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "F                                         F Bb C Bb",
-      "lyrics": "Here come bad news, Talking this and that"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Here come bad news, Talking this and that ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "Bb",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "Bb",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F                                        F Bb C Bb",
-      "lyrics": "Give me all you got,  Don't hold it back"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Give me all you got,  Don't hold it back ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "Bb",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "Bb",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F                                                  F Bb C Bb",
-      "lyrics": "Well I should probably warn you, I'll be just fine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Well I should probably warn you, I'll be just fine ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "Bb",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "Bb",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F                                         F Bb C Bb",
-      "lyrics": "No offense to you, Don't waste your time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "No offense to you, Don't waste your time  ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "Bb",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "Bb",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "            Dbmaj7             Cm7",
-      "lyrics": "Because I'm happy, Clap along, If you feel,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Because I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dbmaj7",
+          "lyric": "happy, Clap along, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm7",
+          "lyric": "If you feel,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Eb             F",
-      "lyrics": "Like a room without a roof"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Like a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "room without a ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "roof",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Dbmaj7             Cm7",
-      "lyrics": "Because I'm happy, Clap along, If you feel like,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Because I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dbmaj7",
+          "lyric": "happy, Clap along, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm7",
+          "lyric": "If you feel like,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb               F",
-      "lyrics": "Happiness is the truth"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "Happiness is the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "truth",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Dbmaj7             Cm7",
-      "lyrics": "Because I'm happy, Clap along, If you know what,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Because I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dbmaj7",
+          "lyric": "happy, Clap along, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm7",
+          "lyric": "If you know what,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb              F",
-      "lyrics": "Happiness is to you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "Happiness is to ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Dbmaj7             Cm7",
-      "lyrics": "Because I'm happy, Clap along, If you feel like,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Because I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dbmaj7",
+          "lyric": "happy, Clap along, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm7",
+          "lyric": "If you feel like,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb                      F",
-      "lyrics": "That's what you want to do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "That's what you want to ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "do",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "F",
-      "lyrics": "Bring me  down, Can't nothing,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Bring me  down, Can't nothing,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Bring me down, My love is too high"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Bring me down, My love is too high",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Bring me  down, Can't nothing,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Bring me  down, Can't nothing,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Bring me down, My love is too"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Bring me down, My love is too",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Happy happy happy happy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Happy happy happy happy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Happy happy happy happy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Happy happy happy happy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Happy happy happy happy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Happy happy happy happy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Happy happy happy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Happy happy happy",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "            Dbmaj7             Cm7",
-      "lyrics": "Because I'm happy, Clap along, If you feel,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Because I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dbmaj7",
+          "lyric": "happy, Clap along, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm7",
+          "lyric": "If you feel,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Eb             F",
-      "lyrics": "Like a room without a roof"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Like a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "room without a ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "roof",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Dbmaj7             Cm7",
-      "lyrics": "Because I'm happy, Clap along, If you feel like,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Because I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dbmaj7",
+          "lyric": "happy, Clap along, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm7",
+          "lyric": "If you feel like,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb               F",
-      "lyrics": "Happiness is the truth"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "Happiness is the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "truth",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Dbmaj7             Cm7",
-      "lyrics": "Because I'm happy, Clap along, If you know what,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Because I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dbmaj7",
+          "lyric": "happy, Clap along, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm7",
+          "lyric": "If you know what,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb              F",
-      "lyrics": "Happiness is to you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "Happiness is to ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Dbmaj7             Cm7",
-      "lyrics": "Because I'm happy, Clap along, If you feel like,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Because I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dbmaj7",
+          "lyric": "happy, Clap along, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm7",
+          "lyric": "If you feel like,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb                      F",
-      "lyrics": "That's what you want to do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "That's what you want to ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "do",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "overrideAllChords": [

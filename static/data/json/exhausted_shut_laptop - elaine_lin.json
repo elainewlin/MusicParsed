@@ -13,77 +13,288 @@
       "label": "[Verse]"
     },
     {
-      "chord": "    G       C",
-      "lyrics": "I'm feeling down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "feeling ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "down",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G       C",
-      "lyrics": "I'm feeling blue"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "feeling ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "blue",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Am",
-      "lyrics": "It's late at night"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "late at night",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           F",
-      "lyrics": "Don't know what to do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Don't know ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "what to do",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "     C                  G",
-      "lyrics": "So I shut my laptop and go to bed"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "shut my laptop and ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "go to bed",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am          F",
-      "lyrics": "I gotta get outta my head"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I gotta get ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "outta my head",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  C                  G",
-      "lyrics": "I shut my laptop and go to bed"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "shut my laptop and ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "go to bed",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am          F",
-      "lyrics": "I gotta get outta my head"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I gotta get ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "outta my head",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "       G       C",
-      "lyrics": "You're feeling down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "feeling ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "down",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       G       C",
-      "lyrics": "You're feeling blue"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "feeling ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "blue",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Am",
-      "lyrics": "It's late at night"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "late at night",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           F",
-      "lyrics": "Don't know what to do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Don't know ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "what to do",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "       C                    G",
-      "lyrics": "So you shut your laptop and go to bed"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So you ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "shut your laptop and ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "go to bed",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am            F",
-      "lyrics": "You gotta get outta your head"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "You gotta get ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "outta your head",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                    G",
-      "lyrics": "Shut your laptop and go to bed"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Shut your laptop and ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "go to bed",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am        F",
-      "lyrics": "Gotta get outta your head"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Gotta get ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "outta your head",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Exhausted? SHUT LAPTOP."

@@ -16,32 +16,149 @@
   "id": "destiny - steven_universe",
   "lines": [
     {
-      "chord": "Bm                F#m",
-      "lyrics": "Do you believe in destiny?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Do you believe in ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "destiny?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                            Bm",
-      "lyrics": "Close your eyes and leave the rest to me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Close your eyes and leave the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "rest to me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm                F#7",
-      "lyrics": "Do you believe in fantasy?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Do you believe in ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#7",
+          "lyric": "fantasy?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                           Bm",
-      "lyrics": "I have to when it's right in front of me, oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "I have to when it's right in ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "front of me, oh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G            A     D     D7          G",
-      "lyrics": "What are you doing here, in the real world?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "What are you ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "doing ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "here, ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "in the real ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "world?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             F#    Bm       D",
-      "lyrics": "What are you doing here, so close I could touch you?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "What are you ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "doing ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "here, so ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "close I could touch you?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G            A     D         Bb                    A",
-      "lyrics": "What are you doing here, and what are you doing to me?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "What are you ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "doing ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "here, and ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "what are you doing to ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "me?",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Destiny"

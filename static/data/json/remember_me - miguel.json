@@ -17,175 +17,726 @@
       "label": "[Miguel]"
     },
     {
-      "chord": "         G             Eb",
-      "lyrics": "Remember me, though I have to say goodbye"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Remember ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "me, though I h",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "ave to say goodbye",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         G          F                B",
-      "lyrics": "Remember me, don't let it make you cry"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Remember ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "me, don't l",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "et it make you cr",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "y",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Em                     F              G",
-      "lyrics": "For ever if I'm far away I hold you in my heart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "For e",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ver if I'm far away I h",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "old you in my h",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "eart",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C                         G   Eb           D",
-      "lyrics": "I sing a secret song to you each night we are apart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I si",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ng a secret song to you ea",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ch n",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "ight we are a",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "part",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "         G             Eb,"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "         G             Eb,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Remember me, though I have to travel far"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Remember me, though I have to travel far",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         G                  Dm          G",
-      "lyrics": "Remember me, each time you hear a sad guitar"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Remember ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "me, each time you h",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ear a sad gu",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "itar",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  C                              G             Em",
-      "lyrics": "Know that I’m with you the only way that I can be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Kn",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ow that I’m with you the only w",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ay that I can ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "be",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb                             Dm D",
-      "lyrics": "Until you’re in my arms again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "Until you’re in my arms again  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "          G",
-      "lyrics": "Remember me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Remember m",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Natalia Lafourcade & Miguel]"
     },
     {
-      "chord": "G",
-      "lyrics": "Que nuestra canción no deje de latir"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Que nuestra canción no deje de latir",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Sólo con tu amor yo puedo existir"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Sólo con tu amor yo puedo existir",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Recuérdame"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Recuérdame",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Que nuestra canción no deje de latir"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Que nuestra canción no deje de latir",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                C          G",
-      "lyrics": "Sólo con tu amor yo puedo existir"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Sólo con tu amor ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "yo puedo ex",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "istir",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Natalia Lafourcade]"
     },
     {
-      "chord": "        G              Eb",
-      "lyrics": "Recuérdame, si en tu mente vivo estoy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Recuérda",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "me, si en tu me",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "nte vivo estoy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      G           F           B",
-      "lyrics": "Recuérdame, mis sueños yo te doy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Recuér",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "dame, mis su",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "eños yo te d",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "oy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Em                 C    F        G",
-      "lyrics": "Te llevo en mi corazón y te acompañaré"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Te l",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "levo en mi corazón ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "y te ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "acompañar",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "é",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                          Eb            D",
-      "lyrics": "Unidos en nuestra canción, contigo ahí estaré"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Unidos en nuestra canción, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "contigo ahí es",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "taré",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Natalia Lafourcade]"
     },
     {
-      "chord": "         G      Eb",
-      "lyrics": "Recuérdame, si sola crees estar"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Recuérdam",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "e, si s",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "ola crees estar",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       G          Dm              G",
-      "lyrics": "Recuérdame, y mi cantar te irá a abrazar"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Recuérd",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ame, y mi c",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "antar te irá a a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "brazar",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " C                            G      Em        Eb                  Dm D",
-      "lyrics": "Aún en la distancia nunca vayas a olvidar, que yo contigo siempre voy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ún en la distancia nunca vaya",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "s a olv",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "idar, que ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "yo contigo siempre v",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "oy ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "      G",
-      "lyrics": "Recuérdame"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Recuér",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "dame",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Miguel]"
     },
     {
-      "chord": "G",
-      "lyrics": "If you close your eyes and let the music play"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "If you close your eyes and let the music play",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                         C",
-      "lyrics": "Keep our love alive, I'll never fade away"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Keep our love alive, I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "never fade away",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "If you close your eyes and let the music play"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "If you close your eyes and let the music play",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                           C",
-      "lyrics": "Keep our love alive, I'll never fade away"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Keep our love alive, I'll ne",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ver fade away",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "If you close your eyes and let the music play"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "If you close your eyes and let the music play",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                           C        D",
-      "lyrics": "Keep our love alive, I'll never fade away"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Keep our love alive, I'll ne",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ver fade ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "away",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          G         Eb",
-      "lyrics": "Remember me, for I will soon be gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Remember m",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "e, for I w",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "ill soon be gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         G                Dm               G",
-      "lyrics": "Remember me, and let the love we have live on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Remember ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "me, and let the l",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ove we have live ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "on",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     C                               G       Eb    Em",
-      "lyrics": "And know that I'm with you the only way that I can be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And k",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "now that I'm with you the only w",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ay that ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "I can ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "be",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Eb                      C",
-      "lyrics": "So, until you're in my arms again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So, unt",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "il you're in my arms aga",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "in",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         G",
-      "lyrics": "Remember me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Remember ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Natalia Lafourcade & Miguel]"
     },
     {
-      "chord": "G",
-      "lyrics": "Que nuestra canción no deje de latir"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Que nuestra canción no deje de latir",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Sólo con tu amor yo puedo existir"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Sólo con tu amor yo puedo existir",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Recuérdame"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Recuérdame",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Que nuestra canción no deje de latir"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Que nuestra canción no deje de latir",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                C          G",
-      "lyrics": "Sólo con tu amor yo puedo existir"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Sólo con tu amor ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "yo puedo ex",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "istir",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Remember Me"

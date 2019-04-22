@@ -13,218 +13,811 @@
       "label": "[Verse One]"
     },
     {
-      "chord": "                Am",
-      "lyrics": "I dreamed I was missing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I dreamed I was ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "missing",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            C",
-      "lyrics": "You were so scared."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You were so ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "scared.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 Fmaj7",
-      "lyrics": "But no one would listen"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But no one would ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7",
+          "lyric": "listen",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 G",
-      "lyrics": "Cuz' no one else cared."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cuz' no one else ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "cared.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Am",
-      "lyrics": "After my dreaming"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "After my d",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "reaming",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 C",
-      "lyrics": "I woke with this fear."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I woke with this ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "fear.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Fmaj7",
-      "lyrics": "What am I leaveing,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "What am I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7",
+          "lyric": "leaveing,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               G",
-      "lyrics": "When I am done here?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When I am done ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "here?",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "              Am         C           G",
-      "lyrics": "So if you're asking me I want you to know..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So if you're a",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "sking me I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "want you to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "know...",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Am",
-      "lyrics": "When my time comes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "time comes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                      C",
-      "lyrics": "Forget the wrong that i've done"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Forget the wrong that ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "i've done",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 Fmaj7                 G",
-      "lyrics": "Help me leave behind some reason to be missed."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Help me leave beh",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7",
+          "lyric": "ind some reason to be ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "missed.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Am",
-      "lyrics": "And don't resent me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And don't re",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "sent me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                        C",
-      "lyrics": "And when you're feeling empty"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And when you're feeling ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "empty",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Fmaj7",
-      "lyrics": "Keep me in your memory"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Keep me in your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7",
+          "lyric": "memory",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  G                      Am",
-      "lyrics": "Leave out all the rest,Leave out all the rest."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Leave out all the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "rest,Leave out all the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "rest.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse Two]"
     },
     {
-      "chord": "          C",
-      "lyrics": "Don't be afraid"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Don't be a",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "fraid",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              Fmaj7",
-      "lyrics": "I've taken my beating"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've taken my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7",
+          "lyric": "beating",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   G",
-      "lyrics": "I've shared what I made."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've shared what I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "made.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  Am",
-      "lyrics": "I'm strong on the surface"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm strong on the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "surface",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                C",
-      "lyrics": "Not all the way through."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Not all the way ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "through.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Fmaj7",
-      "lyrics": "I've never been perfect"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've never been ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7",
+          "lyric": "perfect",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 G",
-      "lyrics": "But neither have you."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But neither have ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "you.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "             Am          C           G",
-      "lyrics": "So if you're asking me I want you to know..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So if you're ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "asking me I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "want you to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "know...",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Am",
-      "lyrics": "When my time comes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "time comes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                      C",
-      "lyrics": "Forget the wrong that i've done"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Forget the wrong that ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "i've done",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Fmaj7                  G",
-      "lyrics": "Help me leave behind some reason to be missed."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Help me leave be",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7",
+          "lyric": "hind some reason to be ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "missed.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Am",
-      "lyrics": "And don't resent me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And don't re",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "sent me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                        C",
-      "lyrics": "And when you're feeling empty"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And when you're feeling ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "empty",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Fmaj7",
-      "lyrics": "Keep me in your memory"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Keep me in your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7",
+          "lyric": "memory",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  G                      Fmaj7",
-      "lyrics": "Leave out all the rest,Leave out all the rest."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Leave out all the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "rest,Leave out all the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7",
+          "lyric": "rest.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "",
-      "lyrics": "Forgetting"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Forgetting",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G                                     Fmaj7",
-      "lyrics": "All the hurt inside you've learned to hide so well."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "All the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "hurt inside you've learned to hide so ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7",
+          "lyric": "well.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Pretending"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Pretending",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G                                Fmaj7",
-      "lyrics": "Someone else can come and save me from myself."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Someone ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "else can come and save me from my",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7",
+          "lyric": "self.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   G",
-      "lyrics": "I can't be who you are..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I can't be who you ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "are...",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "        Am",
-      "lyrics": "When my time comes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "time comes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                      C",
-      "lyrics": "Forget the wrong that i've done"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Forget the wrong that ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "i've done",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Fmaj7                  G",
-      "lyrics": "Help me leave behind some reason to be missed."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Help me leave be",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7",
+          "lyric": "hind some reason to be ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "missed.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Am",
-      "lyrics": "And don't resent me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And don't re",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "sent me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                        C",
-      "lyrics": "And when you're feeling empty"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And when you're feeling ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "empty",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Fmaj7",
-      "lyrics": "Keep me in your memory"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Keep me in your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7",
+          "lyric": "memory",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  G                      Fmaj7",
-      "lyrics": "Leave out all the rest,Leave out all the rest."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Leave out all the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "rest,Leave out all the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7",
+          "lyric": "rest.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "",
-      "lyrics": "Forgetting"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Forgetting",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G                                     Fmaj7",
-      "lyrics": "All the hurt inside you've learned to hide so well."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "All the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "hurt inside you've learned to hide so ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7",
+          "lyric": "well.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Pretending"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Pretending",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G                                Fmaj7",
-      "lyrics": "Someone else can come and save me from myself."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Someone ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "else can come and save me from my",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7",
+          "lyric": "self.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   G                 Fmaj7",
-      "lyrics": "I can't be who you are"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I can't be who you ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "are               ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                   G",
-      "lyrics": "I can't be who you are."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I can't be who you ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "are.",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Leave Out All The Rest"

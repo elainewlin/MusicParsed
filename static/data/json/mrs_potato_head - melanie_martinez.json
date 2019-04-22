@@ -13,250 +13,677 @@
       "label": "[Intro]"
     },
     {
-      "chord": "C#m  B  A  E",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "  "
+        },
+        {
+          "chord": "B",
+          "lyric": "  "
+        },
+        {
+          "chord": "A",
+          "lyric": "  "
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "              C#m",
-      "lyrics": "If you weren't born with it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "If you weren't",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": " born with it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     B",
-      "lyrics": "You can buy a couple ornaments"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You can buy a couple ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "ornaments",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                         A",
-      "lyrics": "Just be sure to read the warning, kids"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Just be sure to read the ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "warning, kids",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                            E",
-      "lyrics": "Cause pretty soon you'll be bored of it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause pretty soon you'll be ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "bored of it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m                                B",
-      "lyrics": "Sexual, hey girl if you wanna feel sexual"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "Sexual, hey girl if you wanna feel ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "sexual",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                            A",
-      "lyrics": "You can always call up a professional"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You can always call up a pro",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "fessional",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                              E",
-      "lyrics": "They stick pins in you like a vegetable"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "They stick pins in you like a ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "vegetable",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "C#m",
-      "lyrics": "Kids forever, kids forever"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "Kids forever, kids forever",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B",
-      "lyrics": "Baby soft skin turns into leather"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "Baby soft skin turns into leather",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A",
-      "lyrics": "Don't be dramatic it's only some plastic"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Don't be dramatic it's only some plastic",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "No one will love you if you're unattractive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "No one will love you if you're unattractive",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "C#m",
-      "lyrics": "Oh Mrs. Potato Head tell me,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "Oh Mrs. Potato Head tell me,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B",
-      "lyrics": "is it true that pain is beauty?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "is it true that pain is beauty?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A",
-      "lyrics": "Does a new face come with a warranty?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Does a new face come with a warranty?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "Will a pretty face make it better?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "Will a pretty face make it better?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m",
-      "lyrics": "Oh Mr. Potato Head tell me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "Oh Mr. Potato Head tell me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B",
-      "lyrics": "How did you afford her surgery?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "How did you afford her surgery?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A",
-      "lyrics": "Do you swear you'll stay forever"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Do you swear you'll stay forever",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "Even if her face don't stay together"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "Even if her face don't stay together",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m                    B             A",
-      "lyrics": "Even if her face don't stay together"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "Even if her face don't ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "stay together ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "E                         C#m",
-      "lyrics": "If you want a little more confidence"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "If you want a little more ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "confidence",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                         B",
-      "lyrics": "Potatoes turn to french fries, yeah it's common sense"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Potatoes turn to french fries, yeah it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "common sense",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                             A",
-      "lyrics": "All you need's a couple more condiments"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "All you need's a couple more ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "condiments",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                        E",
-      "lyrics": "And a hundred thousand dollars for some compliments"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And a hundred thousand dollars for some ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "compliments",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     C#m",
-      "lyrics": "It's such a waste"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "such a waste",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                  B",
-      "lyrics": "When little girls grow into their mother's face"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When little girls grow into their ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "mother's face",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                     A",
-      "lyrics": "But little girls are learning how to cut and paste"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But little girls are learning how to ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "cut and paste",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                    E",
-      "lyrics": "And pucker up their lips until they suffocate"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And pucker up their lips until they ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "suffocate",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "C#m",
-      "lyrics": "Kids forever, kids forever"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "Kids forever, kids forever",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B",
-      "lyrics": "Baby soft skin turns into leather"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "Baby soft skin turns into leather",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A",
-      "lyrics": "Don't be dramatic it's only some plastic"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Don't be dramatic it's only some plastic",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "No one will love you if you're unattractive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "No one will love you if you're unattractive",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "C#m",
-      "lyrics": "  Oh Mrs. Potato Head tell me,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "  Oh Mrs. Potato Head tell me,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B",
-      "lyrics": "  is it true that pain is beauty?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": " is it true that pain is beauty?"
+        }
+      ]
     },
     {
-      "chord": "A",
-      "lyrics": "  Does a new face come with a warranty?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": " Does a new face come with a warranty?"
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "  Will a pretty face make it better?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": " Will a pretty face make it better?"
+        }
+      ]
     },
     {
-      "chord": "C#m",
-      "lyrics": "  Oh Mr. Potato Head tell me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "  Oh Mr. Potato Head tell me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B",
-      "lyrics": "  How did you afford her surgery?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": " How did you afford her surgery?"
+        }
+      ]
     },
     {
-      "chord": "A",
-      "lyrics": "  Do you swear you'll stay forever"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": " Do you swear you'll stay forever"
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "Even if her face don't stay together"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "Even if her face don't stay together",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m",
-      "lyrics": "Stay forever, stay forever"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "Stay forever, stay forever",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B",
-      "lyrics": "Even if her face don't stay together"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "Even if her face don't stay together",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A",
-      "lyrics": "Stay forever, stay forever"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Stay forever, stay forever",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "Even if her face don't stay together"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "Even if her face don't stay together",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m",
-      "lyrics": "  Oh Mrs. Potato Head tell me,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "  Oh Mrs. Potato Head tell me,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B",
-      "lyrics": "  is it true that pain is beauty?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": " is it true that pain is beauty?"
+        }
+      ]
     },
     {
-      "chord": "A",
-      "lyrics": "  Does a new face come with a warranty?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": " Does a new face come with a warranty?"
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "  Will a pretty face make it better?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": " Will a pretty face make it better?"
+        }
+      ]
     },
     {
-      "chord": "C#m",
-      "lyrics": "  Oh Mr. Potato Head tell me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "  Oh Mr. Potato Head tell me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B",
-      "lyrics": "  How did you afford her surgery?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": " How did you afford her surgery?"
+        }
+      ]
     },
     {
-      "chord": "A",
-      "lyrics": "  Do you swear you'll stay forever"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": " Do you swear you'll stay forever"
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "Even if her face don't stay together"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "Even if her face don't stay together",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m",
-      "lyrics": "Stay forever, stay forever"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "Stay forever, stay forever",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B",
-      "lyrics": "Even if her face don't stay together"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "Even if her face don't stay together",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A",
-      "lyrics": "Stay forever, stay forever"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Stay forever, stay forever",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "Even if her face don't stay together"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "Even if her face don't stay together",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Mrs Potato Head"

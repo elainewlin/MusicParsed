@@ -16,42 +16,150 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "Bb                Eb",
-      "lyrics": "This is the air I breathe"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "This is the air I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "breathe",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb                Eb",
-      "lyrics": "This is the air I breathe"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "This is the air I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "breathe",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb           Gm              F",
-      "lyrics": "Your holy presence living in me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "Your holy pre",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "sence living in ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "Bb         Eb",
-      "lyrics": "This is my daily bread"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "This is my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "daily bread",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb         Eb",
-      "lyrics": "This is my daily bread"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "This is my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "daily bread",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb          Gm           F",
-      "lyrics": "Your very word spoken to me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "Your very wo",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "rd spoken to ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Bb    F               Eb",
-      "lyrics": "And I'm desperate for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "And I'",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "m desperate for ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb    F               Eb",
-      "lyrics": "And I'm lost without you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "And I'",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "m lost without y",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "ou",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Key change: up 2 steps]"
@@ -60,42 +168,155 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "C                 F",
-      "lyrics": "This is the air I breathe"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "This is the air I ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "breathe",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                F",
-      "lyrics": "This is the air I breathe"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "This is the air I",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " breathe",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C              Am            G",
-      "lyrics": "Your holy presence living in me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Your holy prese",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "nce living in ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "C          F",
-      "lyrics": "This is my daily bread"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "This is my ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "daily bread",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C           F",
-      "lyrics": "This is my daily bread"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "This is my d",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "aily bread",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C         Am             G",
-      "lyrics": "Your very word spoken to me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Your very ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "word spoken to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "C     G               F",
-      "lyrics": "And I'm desperate for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "And I'",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "m desperate for ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C     G             F  C",
-      "lyrics": "And I'm lost without you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "And I'",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "m lost without",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " yo",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "u",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Breathe"

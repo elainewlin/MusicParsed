@@ -13,127 +13,521 @@
       "label": "[Verse]"
     },
     {
-      "chord": "C      Am      F    G",
-      "lyrics": "Drew looks at me, I fake a smile so he won't see"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Drew lo",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "oks at m",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "e, I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "fake a smile so he won't see",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C       Am           F       G",
-      "lyrics": "That I want and I'm needing, everything that we should be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "That I w",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ant and I'm n",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "eeding, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "everything that we should be",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                       F",
-      "lyrics": "I'll bet she's beautiful, that girl he talks about"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I'll bet she's beautiful,",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " that girl he talks about",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                             G",
-      "lyrics": "And she's got everything that I have to live without"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "And she's got everything that ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "I have to live without",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C     Am       F    G",
-      "lyrics": "Drew talks to me, I laugh cause it's so damn funny"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Drew t",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "alks to m",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "e, I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "laugh cause it's so damn funny",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C       Am         F   G",
-      "lyrics": "That I can't even see, anyone when he's with me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "That I c",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "an't even s",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ee, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "anyone when he's with me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                       F",
-      "lyrics": "He says he's so in love, he's finally got it right"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "He says he's so in love, ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "he's finally got it right",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                         G",
-      "lyrics": "I wonder if he knows he's all I think about at night"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I wonder if he knows he's ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "all I think about at night",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "C                      G",
-      "lyrics": "He's the reason for the teardrops on my guitar"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "He's the reason for the",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " teardrops on my guitar",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                           F",
-      "lyrics": "The only thing that keeps me wishing on a wishing star"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "The only thing that keeps me ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "wishing on a wishing star",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                    G                              Am      F",
-      "lyrics": "He's the song in the car I keep singing, don't know why I do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "He's the song in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "car I keep singing, don't know ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "why I do",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "C    Am        F   G",
-      "lyrics": "Drew walks by me, can he tell that I can't breathe?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Drew ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "walks by m",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "e, c",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "an he tell that I can't breathe?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C            Am             F",
-      "lyrics": "And there he goes so perfectly"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "And there he ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "goes so perfect",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ly",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            G",
-      "lyrics": "The kind of flawless I wish I could be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The kind of ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "flawless I wish I could be",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                          F",
-      "lyrics": "She'd better hold him tight, give him all her love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "She'd better hold him tight,",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " give him all her love",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                             G",
-      "lyrics": "Look in those beautiful eyes, and know she lucky cause"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Look in those beautiful eyes, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "and know she lucky cause",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "C                      G",
-      "lyrics": "He's the reason for the teardrops on my guitar"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "He's the reason for the",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " teardrops on my guitar",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                           F",
-      "lyrics": "The only thing that keeps me wishing on a wishing star"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "The only thing that keeps me ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "wishing on a wishing star",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                    G                              Am      F",
-      "lyrics": "He's the song in the car I keep singing, don't know why I do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "He's the song in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "car I keep singing, don't know ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "why I do",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "Am                    F",
-      "lyrics": "So I drive home alone, as I turn off the light"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "So I drive home alone,",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " as I turn off the light",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                         G",
-      "lyrics": "I put his picture down and maybe get some sleep tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I put his picture down and",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " maybe get some sleep tonight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                             G",
-      "lyrics": "Cause he's the reason for the teardrops on my guitar"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Cause he's the reason for the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "teardrops on my guitar",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                      F",
-      "lyrics": "The only one who's got enough of me to break my heart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "The only one who's got e",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "nough of me to break my heart",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "C                    G                              Am      F",
-      "lyrics": "He's the song in the car I keep singing, don't know why I do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "He's the song in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "car I keep singing, don't know ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "why I do",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C                     G",
-      "lyrics": "He's the time, taken up, but there's never enough"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "He's the time, taken u",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "p, but there's never enough",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                        F",
-      "lyrics": "He's all I need to fall into"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "He's all I need to fall in",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "to",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C    Am        F     G                        C",
-      "lyrics": "Drew talks to me, I fake a smile so he won't see"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Drew ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "talks to m",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "e, I f",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ake a smile so he won't s",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ee",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Teardrops on my Guitar"

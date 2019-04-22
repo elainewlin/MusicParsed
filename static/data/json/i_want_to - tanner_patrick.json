@@ -14,211 +14,742 @@
       "label": "[Verse]"
     },
     {
-      "chord": "A",
-      "lyrics": "Give me something to believe"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Give me something to believe",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m",
-      "lyrics": "It's the only thing I need"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": "It's the only thing I need",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                E",
-      "lyrics": "It's true, true, true"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "It's true, true, ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "true",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "You know I want to"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "You know I want to",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A",
-      "lyrics": "Hang on every word you say"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Hang on every word you say",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m",
-      "lyrics": "Wish there was something I could play"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": "Wish there was something I could play",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D             E",
-      "lyrics": "For you, you, you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "For you, you, ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "You know I want to"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "You know I want to",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A     F#m",
-      "lyrics": "Ou ou ou ou"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Ou ou ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "ou ou",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D     E",
-      "lyrics": "Ou ou ou ou"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Ou ou ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ou ou",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   A",
-      "lyrics": "Oh you know I want to"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh you know I want ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "to",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m   D",
-      "lyrics": "Ou ou ou ou"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": "Ou ou ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ou ou",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "Oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "Oh",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "                   D        A",
-      "lyrics": "You know I want to make you mine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You know I want to ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "make you ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "mine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             D       A",
-      "lyrics": "I'm tired of wasting time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm tired of ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "wasting ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "time",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          D       A",
-      "lyrics": "I drive a million miles"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I drive a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "million ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "miles",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          E",
-      "lyrics": "To get to you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To get to ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          A       G",
-      "lyrics": "Because I want to"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Because I ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "want to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "A",
-      "lyrics": "Wish I could see you every night"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Wish I could see you every night",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m",
-      "lyrics": "I'd kiss you and I'd hold you tight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": "I'd kiss you and I'd hold you tight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                E",
-      "lyrics": "It's true, true, true"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "It's true, true, ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "true",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "You know I want to"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "You know I want to",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A     F#m",
-      "lyrics": "Ou ou ou ou"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Ou ou ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "ou ou",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D     E",
-      "lyrics": "Ou ou ou ou"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Ou ou ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ou ou",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   A",
-      "lyrics": "Oh you know I want to"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh you know I want ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "to",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m   D",
-      "lyrics": "Ou ou ou ou"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": "Ou ou ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ou ou",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "Oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "Oh",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "                   D        A",
-      "lyrics": "You know I want to make you mine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You know I want to ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "make you ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "mine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             D       A",
-      "lyrics": "I'm tired of wasting time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm tired of ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "wasting ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "time",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          D       A",
-      "lyrics": "I drive a million miles"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I drive a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "million ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "miles",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          E",
-      "lyrics": "To get to you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To get to ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          A",
-      "lyrics": "Because I want to"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Because I ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "want to",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "A/C#      D              A",
-      "lyrics": "I found a diamond in the rough"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A/C#",
+          "lyric": "I found a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "diamond in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "rough",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     A/C#",
-      "lyrics": "Now I can never get enough"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Now I can never get e",
+          "overLyric": true
+        },
+        {
+          "chord": "A/C#",
+          "lyric": "nough",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         D               A",
-      "lyrics": "Everyone seemed perfect before"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Everyone ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "seemed perfect b",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "efore",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                  F#m",
-      "lyrics": "They left me wanting so much more"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "They left me wanting so much more ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "        E/G#            A",
-      "lyrics": "I don't care what they say"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't ",
+          "overLyric": true
+        },
+        {
+          "chord": "E/G#",
+          "lyric": "care what they s",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ay",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus x2]"
     },
     {
-      "chord": "                   D        A",
-      "lyrics": "You know I want to make you mine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You know I want to ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "make you ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "mine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             D       A",
-      "lyrics": "I'm tired of wasting time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm tired of ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "wasting ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "time",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          D       A",
-      "lyrics": "I drive a million miles"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I drive a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "million ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "miles",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          E",
-      "lyrics": "To get to you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To get to ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          A",
-      "lyrics": "Because I want to"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Because I ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "want to",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A     F#m",
-      "lyrics": "Ou ou ou ou"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Ou ou ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "ou ou",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D     E",
-      "lyrics": "Ou ou ou ou"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Ou ou ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ou ou",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   A",
-      "lyrics": "Oh you know I want to"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh you know I want ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "to",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m   D",
-      "lyrics": "Ou ou ou ou"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": "Ou ou ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ou ou",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "Oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "Oh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          A",
-      "lyrics": "Because I want you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Because I ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "want you",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "I Want To"

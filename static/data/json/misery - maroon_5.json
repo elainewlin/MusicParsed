@@ -15,262 +15,1035 @@
       "label": "[Intro]"
     },
     {
-      "chord": "C     Bm",
-      "lyrics": "Oh yeah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Oh yea",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "h",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "C",
-      "lyrics": "So scared of breaking it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "So scared of breaking it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Bm              Em",
-      "lyrics": "But you won't let it bend"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But yo",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "u won't let it b",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "end",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "And I wrote two hundred letters"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "And I wrote two hundred letters",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm            Em",
-      "lyrics": "I will ever send"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "I will ever se",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "nd",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "Sometimes it cuts so much"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Sometimes it cuts so much",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm                Em",
-      "lyrics": "Deeper then they seem"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Deeper then they s",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "eem",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "You'd rather cover up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "You'd rather cover up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm                   Em",
-      "lyrics": "I'd rather let them be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "I'd rather let them b",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      C",
-      "lyrics": "So let me be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So let",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " me be",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Bm",
-      "lyrics": "And I'll set you free"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I'll se",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "t you free",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Em     Am    D    G",
-      "lyrics": "I am in misery"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "I am in",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " miser",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "y    ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "        Em          Am",
-      "lyrics": "There ain't no body"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "There ai",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "n't no body ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "         D      G",
-      "lyrics": "Who can comfort me (oh yeah)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Who can c",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "omfort ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "me (oh yeah)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em    Am        D      G",
-      "lyrics": "Why won't you answer me?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Why wo",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "n't you an",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "swer me",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Em         Am     D      G",
-      "lyrics": "Your silence is slowly killing me (oh yeah)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Your s",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ilence is s",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "lowly k",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "illing ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "me (oh yeah)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em               Am",
-      "lyrics": "Girl you really got me bad"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Girl you really g",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ot me bad",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                  G",
-      "lyrics": "You really got me bad"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "You really got me b",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ad",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                 Am",
-      "lyrics": "I'm gonna get you back"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "I'm gonna get you b",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ack",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D              G",
-      "lyrics": "Gonna get you back"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Gonna get you b",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ack",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "C",
-      "lyrics": "Your salty skin and how"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Your salty skin and how",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Bm              Em",
-      "lyrics": "It mixes in with mine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It mix",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "es in with mine ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "The way it feels to be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "The way it feels to be",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Bm              Em",
-      "lyrics": "Completely intertwined"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Com",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "pletely intertwi",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ned",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "Not that I didn't care"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Not that I didn't care",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Bm              Em",
-      "lyrics": "It's that I didn't know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It'",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "s that I didn't ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "know",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "It's not what I didn't feel,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "It's not what I didn't feel,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Bm              Em",
-      "lyrics": "It's what I didn't show"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It'",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "s what I didn't ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "show",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "So let me be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "So let me be",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Bm              Em",
-      "lyrics": "And I'll set you free"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": " I'll set you fr",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ee",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Em  Am    D    G",
-      "lyrics": "I am in misery"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "I am",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " in mi",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "sery ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "        Em          Am",
-      "lyrics": "There ain't no body"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "There ai",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "n't no body ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "         D      G",
-      "lyrics": "Who can comfort me (oh yeah)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Who can c",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "omfort ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "me (oh yeah)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em    Am        D      G",
-      "lyrics": "Why won't you answer me?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Why wo",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "n't you an",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "swer me",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Em         Am     D      G",
-      "lyrics": "The silence is slowly killing me (oh yeah)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The si",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "lence is sl",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "owly ki",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "lling m",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "e (oh yeah)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em               Am",
-      "lyrics": "Girl you really got me bad"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Girl you really g",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ot me bad",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                  G",
-      "lyrics": "You really got me bad"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "You really got me b",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ad",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                 Am",
-      "lyrics": "I'm gonna get you back"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "I'm gonna get you b",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ack",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D              G",
-      "lyrics": "Gonna get you back"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Gonna get you b",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ack",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 3]"
     },
     {
-      "chord": "C",
-      "lyrics": "Say your faith is shaken"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Say your faith is shaken",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm",
-      "lyrics": "You may be mistaken"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "You may be mistaken",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em",
-      "lyrics": "You keep me wide awake and"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "You keep me wide awake and",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Waiting for the sun"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Waiting for the sun",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "I'm desperate and confused"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I'm desperate and confused",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm",
-      "lyrics": "So far away from you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "So far away from you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "I'm getting here"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I'm getting here",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm",
-      "lyrics": "Don't care where I have to go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Don't care where I have to go",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em   Am     D           G",
-      "lyrics": "Why do you do what you do to me, yeah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Why d",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "o you d",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "o what you d",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "o to me, yeah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em   Am           D           G",
-      "lyrics": "Why won't you answer me, answer me yeah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Why w",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "on't you answ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "er me, answe",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "r me yeah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em   Am     D           G",
-      "lyrics": "Why do you do what you do to me yeah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Why d",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "o you d",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "o what you d",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "o to me yeah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em   Am           D           G",
-      "lyrics": "Why won't you answer me, answer me yeah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Why w",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "on't you answ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "er me, answe",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "r me yeah",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Em     Am    D    G",
-      "lyrics": "I am in misery"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "I am in",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " miser",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "y    ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "        Em          Am",
-      "lyrics": "There ain't no other"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "There ai",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "n't no other",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "         D      G",
-      "lyrics": "Who can comfort me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Who can c",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "omfort ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em    Am        D      G",
-      "lyrics": "Why won't you answer me?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Why wo",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "n't you an",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "swer me",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Em         Am     D      G",
-      "lyrics": "Your silence is slowly killing me (oh yeah)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Your s",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ilence is s",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "lowly k",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "illing ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "me (oh yeah)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em               Am",
-      "lyrics": "Girl you really got me bad"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Girl you really g",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ot me bad",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                  G",
-      "lyrics": "You really got me bad"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "You really got me b",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ad",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                 Am",
-      "lyrics": "I'm gonna get you back"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "I'm gonna get you b",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ack",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D              G",
-      "lyrics": "Gonna get you back"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Gonna get you b",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ack",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Misery"

@@ -17,167 +17,792 @@
       "label": "Intro:"
     },
     {
-      "chord": "E5 Asus2 E5 Asus2",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "E5",
+          "lyric": " "
+        },
+        {
+          "chord": "Asus2",
+          "lyric": " "
+        },
+        {
+          "chord": "E5",
+          "lyric": " "
+        },
+        {
+          "chord": "Asus2",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "Verse:"
     },
     {
-      "chord": "E5                 Asus2            E5    Asus2",
-      "lyrics": "I don't think I'm gonna go to LA anymore"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E5",
+          "lyric": "I don't think I'm g",
+          "overLyric": true
+        },
+        {
+          "chord": "Asus2",
+          "lyric": "onna go to LA any",
+          "overLyric": true
+        },
+        {
+          "chord": "E5",
+          "lyric": "more  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Asus2",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "E5                 Asus2            E5    Asus2",
-      "lyrics": "I don't think I'm gonna go to LA anymore"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E5",
+          "lyric": "I don't think I'm g",
+          "overLyric": true
+        },
+        {
+          "chord": "Asus2",
+          "lyric": "onna go to LA any",
+          "overLyric": true
+        },
+        {
+          "chord": "E5",
+          "lyric": "more  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Asus2",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "E5                Asus2",
-      "lyrics": "I don't know what it's like to land"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E5",
+          "lyric": "I don't know what ",
+          "overLyric": true
+        },
+        {
+          "chord": "Asus2",
+          "lyric": "it's like to land",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C#m7      Bsus4   F#m7",
-      "lyrics": "And not race to your door"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m7",
+          "lyric": "not race t",
+          "overLyric": true
+        },
+        {
+          "chord": "Bsus4",
+          "lyric": "o your d",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m7",
+          "lyric": "oor",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Asus2              Bsus4            E5   Asus2 E5 Asus2",
-      "lyrics": "I don't think I'm gonna go to LA anymore"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Asus2",
+          "lyric": "I don't think I'm g",
+          "overLyric": true
+        },
+        {
+          "chord": "Bsus4",
+          "lyric": "onna go to LA any",
+          "overLyric": true
+        },
+        {
+          "chord": "E5",
+          "lyric": "more ",
+          "overLyric": true
+        },
+        {
+          "chord": "Asus2",
+          "lyric": " "
+        },
+        {
+          "chord": "E5",
+          "lyric": " "
+        },
+        {
+          "chord": "Asus2",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "Verse:"
     },
     {
-      "chord": "E5                 Asus2            E5    Asus2",
-      "lyrics": "I don't think I'm gonna go to LA anymore"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E5",
+          "lyric": "I don't think I'm g",
+          "overLyric": true
+        },
+        {
+          "chord": "Asus2",
+          "lyric": "onna go to LA any",
+          "overLyric": true
+        },
+        {
+          "chord": "E5",
+          "lyric": "more  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Asus2",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "E5             Asus2            E5    Asus2",
-      "lyrics": "I'm not sure that I really ever could"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E5",
+          "lyric": "I'm not sure th",
+          "overLyric": true
+        },
+        {
+          "chord": "Asus2",
+          "lyric": "at I really ever ",
+          "overLyric": true
+        },
+        {
+          "chord": "E5",
+          "lyric": "could ",
+          "overLyric": true
+        },
+        {
+          "chord": "Asus2",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "E5                Asus2",
-      "lyrics": "  Hold on to the hotel key"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E5",
+          "lyric": "  Hold on to the h",
+          "overLyric": true
+        },
+        {
+          "chord": "Asus2",
+          "lyric": "otel key",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         C#m7    Bsus4  F#m7",
-      "lyrics": "in your bedroom neighborhood"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "in your b",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m7",
+          "lyric": "edroom n",
+          "overLyric": true
+        },
+        {
+          "chord": "Bsus4",
+          "lyric": "eighbor",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m7",
+          "lyric": "hood",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " Asus2                 Bsus4",
-      "lyrics": "We sleep walk in Hollywood"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "W",
+          "overLyric": true
+        },
+        {
+          "chord": "Asus2",
+          "lyric": "e sleep walk in Hollyw",
+          "overLyric": true
+        },
+        {
+          "chord": "Bsus4",
+          "lyric": "ood",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E5 Asus2 E5 Asus2",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "E5",
+          "lyric": " "
+        },
+        {
+          "chord": "Asus2",
+          "lyric": " "
+        },
+        {
+          "chord": "E5",
+          "lyric": " "
+        },
+        {
+          "chord": "Asus2",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "Chorus:"
     },
     {
-      "chord": "F#m7         C#m7   Bsus4",
-      "lyrics": " I'm gonna steer  clear"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m7",
+          "lyric": " I'm gonna st",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m7",
+          "lyric": "eer  cl",
+          "overLyric": true
+        },
+        {
+          "chord": "Bsus4",
+          "lyric": "ear",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m7             C#m7    Bsus4",
-      "lyrics": "  Burn up in your atmosphere"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m7",
+          "lyric": "  Burn up in your",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m7",
+          "lyric": " atmosph",
+          "overLyric": true
+        },
+        {
+          "chord": "Bsus4",
+          "lyric": "ere",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m7           C#m7  Bsus4",
-      "lyrics": "  I'm gonna steer  clear"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m7",
+          "lyric": "  I'm gonna ste",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m7",
+          "lyric": "er  cl",
+          "overLyric": true
+        },
+        {
+          "chord": "Bsus4",
+          "lyric": "ear",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Emaj7/G#",
-      "lyrics": "Cus I'd die if I saw you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cus I'",
+          "overLyric": true
+        },
+        {
+          "chord": "Emaj7/G#",
+          "lyric": "d die if I saw you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     C#m7  Bsus4  Emaj7/G# Asus2",
-      "lyrics": "I'd die if I  didn't see you   there"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'd d",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m7",
+          "lyric": "ie if ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bsus4",
+          "lyric": "I  didn",
+          "overLyric": true
+        },
+        {
+          "chord": "Emaj7/G#",
+          "lyric": "'t see yo",
+          "overLyric": true
+        },
+        {
+          "chord": "Asus2",
+          "lyric": "u   there",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                      Bsus4           E5    Asus2",
-      "lyrics": "So I don't think I'm gonna go to LA anymore"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So I don't think I'm g",
+          "overLyric": true
+        },
+        {
+          "chord": "Bsus4",
+          "lyric": "onna go to LA an",
+          "overLyric": true
+        },
+        {
+          "chord": "E5",
+          "lyric": "ymore ",
+          "overLyric": true
+        },
+        {
+          "chord": "Asus2",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "Verse:"
     },
     {
-      "chord": "E5                  Asus2                  E5    Asus2",
-      "lyrics": "I don't think I'm gonna go to L.A. anymore"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E5",
+          "lyric": "I don't think I'm go",
+          "overLyric": true
+        },
+        {
+          "chord": "Asus2",
+          "lyric": "nna go to L.A. anymore ",
+          "overLyric": true
+        },
+        {
+          "chord": "E5",
+          "lyric": "    "
+        },
+        {
+          "chord": "Asus2",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "E5                  Asus2              E5    Asus2",
-      "lyrics": "I'd get lost on the boulevard at night"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E5",
+          "lyric": "I'd get lost on the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Asus2",
+          "lyric": "boulevard at night ",
+          "overLyric": true
+        },
+        {
+          "chord": "E5",
+          "lyric": "    "
+        },
+        {
+          "chord": "Asus2",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "E5     Asus2                 C#m7          B            A",
-      "lyrics": "Without your voice to tell me \"I love you, take a right\""
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E5",
+          "lyric": "Without",
+          "overLyric": true
+        },
+        {
+          "chord": "Asus2",
+          "lyric": " your voice to tell me",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m7",
+          "lyric": " \"I love you, ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "take a right\"",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Asus2            B",
-      "lyrics": "Ten and the two is the loneliest sight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Asus2",
+          "lyric": "Ten and the two i",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "s the loneliest sight",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Chorus:"
     },
     {
-      "chord": "F#m7         C#m7   Bsus4",
-      "lyrics": " I'm gonna steer  clear"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m7",
+          "lyric": " I'm gonna st",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m7",
+          "lyric": "eer  cl",
+          "overLyric": true
+        },
+        {
+          "chord": "Bsus4",
+          "lyric": "ear",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m7             C#m7    Bsus4",
-      "lyrics": "  Burn up in your atmosphere"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m7",
+          "lyric": "  Burn up in your",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m7",
+          "lyric": " atmosph",
+          "overLyric": true
+        },
+        {
+          "chord": "Bsus4",
+          "lyric": "ere",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m7           C#m7  Bsus4",
-      "lyrics": "  I'm gonna steer  clear"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m7",
+          "lyric": "  I'm gonna ste",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m7",
+          "lyric": "er  cl",
+          "overLyric": true
+        },
+        {
+          "chord": "Bsus4",
+          "lyric": "ear",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Emaj7/G#",
-      "lyrics": "Cus I'd die if I saw you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cus I'",
+          "overLyric": true
+        },
+        {
+          "chord": "Emaj7/G#",
+          "lyric": "d die if I saw you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     C#m7  Bsus4      F#m7",
-      "lyrics": "I'd die if I  didn't see you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'd d",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m7",
+          "lyric": "ie if ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bsus4",
+          "lyric": "I  didn't s",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m7",
+          "lyric": "ee you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             C#m7   Bsus4",
-      "lyrics": " I'm gonna steer  clear"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " I'm gonna st",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m7",
+          "lyric": "eer  cl",
+          "overLyric": true
+        },
+        {
+          "chord": "Bsus4",
+          "lyric": "ear",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m7             C#m7    Bsus4",
-      "lyrics": "  Burn up in your atmosphere"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m7",
+          "lyric": "  Burn up in your",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m7",
+          "lyric": " atmosph",
+          "overLyric": true
+        },
+        {
+          "chord": "Bsus4",
+          "lyric": "ere",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m7          C#m7  Bsus4",
-      "lyrics": "  I'm gonna steer  clear"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m7",
+          "lyric": "  I'm gonna st",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m7",
+          "lyric": "eer  c",
+          "overLyric": true
+        },
+        {
+          "chord": "Bsus4",
+          "lyric": "lear",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Emaj7/G#",
-      "lyrics": "Cus I'd die if I saw you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cus I'",
+          "overLyric": true
+        },
+        {
+          "chord": "Emaj7/G#",
+          "lyric": "d die if I saw you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     C#m7     Bsus4  Emaj7/G# Asus2",
-      "lyrics": "I'd die if I didn't see you   there"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'd d",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m7",
+          "lyric": "ie if I d",
+          "overLyric": true
+        },
+        {
+          "chord": "Bsus4",
+          "lyric": "idn't s",
+          "overLyric": true
+        },
+        {
+          "chord": "Emaj7/G#",
+          "lyric": "ee you   ",
+          "overLyric": true
+        },
+        {
+          "chord": "Asus2",
+          "lyric": "there",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   E5                 Asus2            E5    Asus2",
-      "lyrics": "So I don't think I'm gonna go to LA anymore"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So ",
+          "overLyric": true
+        },
+        {
+          "chord": "E5",
+          "lyric": "I don't think I'm g",
+          "overLyric": true
+        },
+        {
+          "chord": "Asus2",
+          "lyric": "onna go to LA any",
+          "overLyric": true
+        },
+        {
+          "chord": "E5",
+          "lyric": "more  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Asus2",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "  Emaj7/G#  Asus2",
-      "lyrics": "I think I'm gonna stay"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Emaj7/G#",
+          "lyric": "think I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Asus2",
+          "lyric": "gonna stay",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "All the street lights say 'nevermind'"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "All the street lights say 'nevermind'",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "All the canyon lines say 'nevermind'"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "All the canyon lines say 'nevermind'",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Sunset says 'we see this all the time, nevermind'"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Sunset says 'we see this all the time, nevermind'",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "In Your Atmosphere"

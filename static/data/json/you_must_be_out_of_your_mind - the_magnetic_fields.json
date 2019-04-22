@@ -15,192 +15,988 @@
       "label": "Intro:"
     },
     {
-      "chord": "F       C       Bb      F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "       "
+        },
+        {
+          "chord": "C",
+          "lyric": "       "
+        },
+        {
+          "chord": "Bb",
+          "lyric": "      "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F       C       Bb      F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "       "
+        },
+        {
+          "chord": "C",
+          "lyric": "       "
+        },
+        {
+          "chord": "Bb",
+          "lyric": "      "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "Verse 1:"
     },
     {
-      "chord": "F              C        Bb     F      F  C  Bb  F",
-      "lyrics": "you think I'll run not walk to you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "you think I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "run not w",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "alk to ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "you    ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "Bb",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F           C       Bb      F",
-      "lyrics": "why would I want to talk to you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "why would I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "want to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "talk to ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm                  Bb",
-      "lyrics": "I want you crawling back to me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "I want you crawling ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "back to me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F               C",
-      "lyrics": "down on your knees yeah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "down on your kne",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "es yeah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm           Bb",
-      "lyrics": "like an appendectomy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "like an appen",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "dectomy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bbsus2    C",
-      "lyrics": "sans anaesthesia"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bbsus2",
+          "lyric": "sans anaes",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "thesia",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Chorus:"
     },
     {
-      "chord": "       F             C         Am     Bb",
-      "lyrics": "if you think you can leave the past behind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "if you ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "think you can ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "leave the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "past be",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "hind",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F           C      Bb     F",
-      "lyrics": "you must be out of your mind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "you must be ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "out of ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "your mi",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "nd",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       F             C      Am      Bb",
-      "lyrics": "if you think you can simply press rewind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "if you ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "think you can ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "simply ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "press re",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "wind",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F           C          Bb     Bb",
-      "lyrics": "you must be out of your mind, son"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "you must be ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "out of your",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": " mind, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "son",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F           C      Bb     F",
-      "lyrics": "you must be out of your mind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "you must be ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "out of ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "your mi",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "nd",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Bridge:"
     },
     {
-      "chord": "F       C       Bb      F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "       "
+        },
+        {
+          "chord": "C",
+          "lyric": "       "
+        },
+        {
+          "chord": "Bb",
+          "lyric": "      "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F       C       Bbsus2  F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "       "
+        },
+        {
+          "chord": "C",
+          "lyric": "       "
+        },
+        {
+          "chord": "Bbsus2",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "Verse 2:"
     },
     {
-      "chord": "F              C        Bb     F        F  C  Bb  F",
-      "lyrics": "you want what you turned off, turned on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "you want what y",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ou turned",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": " off, t",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "urned on ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "Bb",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F           C       Bb       F",
-      "lyrics": "you call it sunset, now it's dawn"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "you call it ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "sunset, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "now it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "dawn",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm                       Bb",
-      "lyrics": "you can't go 'round just saying stuff"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "you can't go 'round just ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "saying stuff",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F            C",
-      "lyrics": "because it's pretty"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "because it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "pretty",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm              Bb",
-      "lyrics": "and I no longer drink enough"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "and I no longer ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "drink enough",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bbsus2          C",
-      "lyrics": "to think you're witty"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bbsus2",
+          "lyric": "to think you're ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "witty",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Chorus:"
     },
     {
-      "chord": "       F             C         Am     Bb",
-      "lyrics": "if you think you can leave the past behind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "if you ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "think you can ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "leave the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "past be",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "hind",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F           C      Bb     F",
-      "lyrics": "you must be out of your mind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "you must be ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "out of ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "your mi",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "nd",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       F             C      Am      Bb",
-      "lyrics": "if you think you can simply press rewind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "if you ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "think you can ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "simply ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "press re",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "wind",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F           C          Bb     Bb",
-      "lyrics": "you must be out of your mind, son"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "you must be ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "out of your",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": " mind, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "son",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F           C      Bb     F",
-      "lyrics": "you must be out of your mind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "you must be ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "out of ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "your mi",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "nd",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Bridge:"
     },
     {
-      "chord": "F       C       Bb      F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "       "
+        },
+        {
+          "chord": "C",
+          "lyric": "       "
+        },
+        {
+          "chord": "Bb",
+          "lyric": "      "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F       C       Bb      F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "       "
+        },
+        {
+          "chord": "C",
+          "lyric": "       "
+        },
+        {
+          "chord": "Bb",
+          "lyric": "      "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "Verse 3:"
     },
     {
-      "chord": "F           C      Bb   F       F  C  Bbsus2  F",
-      "lyrics": "you want to kindle that old flame"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "you want to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "kindle ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "that ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "old flam",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "e  ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "Bbsus2",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F         C      Bb        F",
-      "lyrics": "I don't remember your real name"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I don't re",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "member ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "your real ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "name",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm                   Bb",
-      "lyrics": "it must be something scandalous"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "it must be something ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "scandalous",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F             C",
-      "lyrics": "lurks in your shadows"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "lurks in your ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "shadows",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm            Bb",
-      "lyrics": "if you need a santa claus"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "if you need a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "santa claus",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bbsus2          C",
-      "lyrics": "to buy your gallows"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bbsus2",
+          "lyric": "to buy your gall",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ows",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Chorus:"
     },
     {
-      "chord": "       F             C         Am     Bb",
-      "lyrics": "if you think you can leave the past behind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "if you ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "think you can ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "leave the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "past be",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "hind",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F           C      Bb     F",
-      "lyrics": "you must be out of your mind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "you must be ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "out of ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "your mi",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "nd",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       F             C      Am      Bb",
-      "lyrics": "if you think you can simply press rewind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "if you ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "think you can ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "simply ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "press re",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "wind",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F           C          Bb     Bb",
-      "lyrics": "you must be out of your mind, son"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "you must be ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "out of your",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": " mind, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "son",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F           C      Bb     F",
-      "lyrics": "you must be out of your mind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "you must be ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "out of ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "your mi",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "nd",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F           C          Bb     Bb",
-      "lyrics": "you must be out of your mind, son"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "you must be ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "out of your",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": " mind, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "son",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F           C      Bb     F",
-      "lyrics": "you must be out of your mind."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "you must be ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "out of ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "your mi",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "nd.",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "You Must Be Out of Your Mind"

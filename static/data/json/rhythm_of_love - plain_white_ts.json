@@ -16,188 +16,965 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "G                       D",
-      "lyrics": "My head is stuck in the clouds"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "My head is stuck in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "clouds",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                   D",
-      "lyrics": "She begs me to come down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "She begs me to come ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "down",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Em        D       C",
-      "lyrics": "Says \"Boy quit foolin' around\""
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Says ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "\"Boy quit ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "foolin' ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "around\"",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D            G                       D",
-      "lyrics": "I told her \"I love the view from up here"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "I told her \"I",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " love the view from up h",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ere",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                           D",
-      "lyrics": "The warm sun and wind in my ear"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "The warm sun and wind in my ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ear",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Em        D          C",
-      "lyrics": "We'll watch the world from above"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "watch the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "world from ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "above",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      D            D         G     G7",
-      "lyrics": "As it turns to the rhythm of love\""
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "As it ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "turns to the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "rhythm of ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "love\" ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "       C         G",
-      "lyrics": "We may only have tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We may ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "only have ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "tonight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             C                  G      B7 Em",
-      "lyrics": "But till the morning sun you're mine, all mine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But till the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "morning sun you're ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "mine, a",
+          "overLyric": true
+        },
+        {
+          "chord": "B7",
+          "lyric": "ll ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "mine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          D    C       D             D     G",
-      "lyrics": "Play the Music low and sway to the rhythm of love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Play the M",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "usic ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "low and ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "sway to the rh",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ythm o",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "f love",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Instrumental]"
     },
     {
-      "chord": "D  G  D",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "G                     D",
-      "lyrics": "My heart beats like a drum"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "My heart beats like a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "drum",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                      D",
-      "lyrics": "A guitar string to the strum"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "A guitar string to the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "strum",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  Em        D          C",
-      "lyrics": "A beautiful song to be sung"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "beautiful ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "song to be ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "sung",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D          G                      D",
-      "lyrics": "She's got, blue eyes deep like the sea"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "She's got, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "blue eyes deep like the",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " sea",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                                     D",
-      "lyrics": "That roll back when she's laughing at me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "That roll back when she's laughing at ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Em    D           C",
-      "lyrics": "She rises up like the tide"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "She ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "rises ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "up like the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "tide",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    D        D           G    G7",
-      "lyrics": "The moment her lips meet mine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "moment he",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "r lips meet ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "mine ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "       C            G",
-      "lyrics": "We may only have tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We may ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "only have ton",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             C                 G       B7 Em",
-      "lyrics": "But till the morning sun you're mine, all mine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But till the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "morning sun you're",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " mine, a",
+          "overLyric": true
+        },
+        {
+          "chord": "B7",
+          "lyric": "ll ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "mine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          D     C       D           D        G",
-      "lyrics": "Play the Music low and sway to the rhythm of love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Play the M",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "usic l",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ow and s",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "way to the r",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "hythm of ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "love",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Instrumental]"
     },
     {
-      "chord": "D  G  D",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "B7       C       G   D",
-      "lyrics": "When the moon is low"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B7",
+          "lyric": "When the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "moon is ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "low ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "B7      C       G    D    C",
-      "lyrics": "We can dance in slow motion"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B7",
+          "lyric": "We can d",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ance in ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "slow ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "motio",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "n",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C             D             C",
-      "lyrics": "And all your tears will subside"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "And all your t",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ears will subs",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ide",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C        D           G",
-      "lyrics": "All your tears.......will dry"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "All your ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "tears.......",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "will dry",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " G          D      G             D",
-      "lyrics": "Bah-bah-(ba-ba) bah bah – Bah-bah-(ba-ba)- Bah bah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "B",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ah-bah-(ba-",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ba) bah",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " bah – Bah-bah",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "-(ba-ba)- Bah bah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em            D               C    D",
-      "lyrics": "Daaah – dada,  dum - da da, Dum"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Daaah – dada, ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " dum - da da, Du",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "m    ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": " G          D      G             D",
-      "lyrics": "Bah-bah-(ba-ba) bah bah – Bah-bah-(ba-ba)- Bah bah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "B",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ah-bah-(ba-",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ba) bah",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " bah – Bah-bah",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "-(ba-ba)- Bah bah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em            D               C    D",
-      "lyrics": "Daaah – dada,  dum - da da, Dum"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Daaah – dada, ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " dum - da da, Du",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "m    ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G                   D",
-      "lyrics": "And long after I've gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "And long after I've ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                       D",
-      "lyrics": "You'll still be humming along"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "You'll still be humming ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "along",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Em       D         C",
-      "lyrics": "And I will keep you in my mind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "I will ke",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ep you in ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "my mind",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     D     D              G     G7",
-      "lyrics": "The way you make love so fine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The w",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ay you",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " make love so f",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ine   ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "       C            G",
-      "lyrics": "We may only have tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We may ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "only have ton",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             C                  G     B7  Em",
-      "lyrics": "But till the morning sun you're mine, all mine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But till the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "morning sun you're ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "mine, ",
+          "overLyric": true
+        },
+        {
+          "chord": "B7",
+          "lyric": "all ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "mine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          D     C       D     D             G",
-      "lyrics": "Play the music low and sway to the rhythm of love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Play the m",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "usic l",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ow and s",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "way to",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " the rhythm of",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " love",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D",
-      "lyrics": "Ohh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Ohh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em       D      C       D           D        G",
-      "lyrics": "Play the music low and sway to the rhythm of love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Play the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "music l",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ow and s",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "way to the r",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "hythm of ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "love",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Outro]"
     },
     {
-      "chord": "                  D         G D G",
-      "lyrics": "Yeah, sway to the rhythm of love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Yeah, sway to the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "rhythm of ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "lo",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ve",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "Rhythm of Love"

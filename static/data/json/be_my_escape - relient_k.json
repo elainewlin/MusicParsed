@@ -13,208 +13,1068 @@
       "label": "[Verse]"
     },
     {
-      "chord": "A              E",
-      "lyrics": "I’ve given up on giving up slowly,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "I’ve given up o",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "n giving up slowly,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D",
-      "lyrics": "I’m blending in so you won’t even know me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "I’m blending in so you won’t even know me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A           E                     F#m    E   D",
-      "lyrics": "apart from this whole world that shares my fate"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "apart from t",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "his whole world that s",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "hares m",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "y fa",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "te",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A               E               D",
-      "lyrics": "This one last bullet you mention is my one last shot at redemption"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "This one last bu",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "llet you mention",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " is my one last shot at redemption",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A                  E                       F#m  E  D",
-      "lyrics": "because I know to live you must give your life away"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "because I know to l",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ive you must give your l",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "ife a",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "way",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "                F#m               D        A       E",
-      "lyrics": "And I’ve been housing all this doubt and insecurity"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I’ve been ho",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "using all this dou",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "bt and in",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "security",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "           F#m                  D             A                 E",
-      "lyrics": "I’ve been locked inside that house all the while You hold the key"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I’ve been l",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "ocked inside that hou",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "se all the whi",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "le You hold the ke",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "y",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               F#m           D                 A               E",
-      "lyrics": "And I’ve been dying to get out and that might be the death of me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I’ve been d",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "ying to get ou",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "t and that might b",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "e the death of m",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            D",
-      "lyrics": "And even though, there’s no way in knowing where to go,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And even tho",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ugh, there’s no way in knowing where to go,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              E",
-      "lyrics": "promise I’m going because"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "promise I’m go",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ing because",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "A    E             D       E",
-      "lyrics": "I---I gotta get outta here"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "I---I",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": " gotta get out",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ta here ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "      A                E               D          E",
-      "lyrics": "I’m stuck inside this rut that I fell into by mistake"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I’m st",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "uck inside this r",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ut that I fell i",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "nto by mist",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ake",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A    E             D       E",
-      "lyrics": "I---I gotta get outta here"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "I---I",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": " gotta get out",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ta here ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "         F#m                E",
-      "lyrics": "And I’m begging You, I’m begging You,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I’m b",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "egging You, I’m beg",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ging You,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       D           E        A",
-      "lyrics": "I’m begging You to be my escape."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I’m beg",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ging You to ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "be my esc",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ape.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "A                  E",
-      "lyrics": "I’m giving up on doing this alone now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "I’m giving up on do",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ing this alone now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D",
-      "lyrics": "Cause I’ve failed and I’m ready to be shown how"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Cause I’ve failed and I’m ready to be shown how",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A                 E                 F#m  E    D",
-      "lyrics": "He’s told me the way and I’m trying to get there"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "He’s told me the w",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ay and I’m trying ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "to ge",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "t the",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "re",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A                E",
-      "lyrics": "And this life sentence that I’m serving"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "And this life sen",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "tence that I’m serving",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D",
-      "lyrics": "I admit that I’m every bit deserving"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "I admit that I’m every bit deserving",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A                   E                     F#m   E   D",
-      "lyrics": "But the beauty of grace is that it makes life not fair"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "But the beauty of gr",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ace is that it makes l",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "ife no",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "t fa",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ir",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "                F#m               D        A       E",
-      "lyrics": "And I’ve been housing all this doubt and insecurity"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I’ve been ho",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "using all this dou",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "bt and in",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "security",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "           F#m                  D             A                 E",
-      "lyrics": "I’ve been locked inside that house all the while You hold the key"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I’ve been l",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "ocked inside that hou",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "se all the whi",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "le You hold the ke",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "y",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               F#m           D                 A               E",
-      "lyrics": "And I’ve been dying to get out and that might be the death of me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I’ve been d",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "ying to get ou",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "t and that might b",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "e the death of m",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            D",
-      "lyrics": "And even though, there’s no way in knowing where to go,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And even tho",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ugh, there’s no way in knowing where to go,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              E",
-      "lyrics": "promise I’m going because"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "promise I’m go",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ing because",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": " A    E             D       E",
-      "lyrics": "I---I gotta get outta here"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "---I ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "gotta get outt",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "a here  ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "       A                  E          D                 E",
-      "lyrics": "I'm afraid that this complacency is something I can't shake"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm afr",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "aid that this compl",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "acency is s",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "omething I can't s",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "hake",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A    E             D       E",
-      "lyrics": "I---I gotta get outta here"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "I---I",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": " gotta get out",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ta here ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "         F#m                 E",
-      "lyrics": "And I’m begging You, I’m begging You,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I’m b",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "egging You, I’m begg",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ing You,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       D           E        A",
-      "lyrics": "I’m begging You to be my escape."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I’m beg",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ging You to ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "be my esc",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ape.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "F#m        E   D       E",
-      "lyrics": "I am a hostage to my own humanity"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": "I am a host",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "age ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "to my ow",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "n humanity",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m       E                   D            E",
-      "lyrics": "Self detained and forced to live in this mess I’ve made"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": "Self detai",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ned and forced to li",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ve in this me",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ss I’ve made",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m            E           D          E",
-      "lyrics": "And all I’m asking is for You to do what You can with me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": "And all I’m ask",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ing is for Y",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ou to do wh",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "at You can with me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m                       D                     E",
-      "lyrics": "But I can’t ask You to give what You already gave"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": "But I can’t ask You to giv",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "e what You already gav",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "                F#m               D        A       E",
-      "lyrics": "And I’ve been housing all this doubt and insecurity"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I’ve been ho",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "using all this dou",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "bt and in",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "security",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "           F#m                  D             A                 E",
-      "lyrics": "I’ve been locked inside that house all the while You hold the key"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I’ve been l",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "ocked inside that hou",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "se all the whi",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "le You hold the ke",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "y",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               F#m           D                 A               E",
-      "lyrics": "And I’ve been dying to get out and that might be the death of me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I’ve been d",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "ying to get ou",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "t and that might b",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "e the death of m",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            D",
-      "lyrics": "And even though, there’s no way in knowing where to go,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And even tho",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ugh, there’s no way in knowing where to go,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              E",
-      "lyrics": "promise I’m going because"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "promise I’m go",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ing because",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "A    E             D       E",
-      "lyrics": "I---I gotta get outta here"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "I---I",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": " gotta get out",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ta here ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "      A                E               D          E",
-      "lyrics": "I’m stuck inside this rut that I fell into by mistake"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I’m st",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "uck inside this r",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ut that I fell i",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "nto by mist",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ake",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A    E             D       E",
-      "lyrics": "I---I gotta get outta here"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "I---I",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": " gotta get out",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ta here ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "         F#m                E",
-      "lyrics": "And I’m begging You, I’m begging You,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I’m b",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "egging You, I’m beg",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ging You,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       D           E        A",
-      "lyrics": "I’m begging You to be my escape."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I’m beg",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ging You to ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "be my esc",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ape.",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Be My Escape"

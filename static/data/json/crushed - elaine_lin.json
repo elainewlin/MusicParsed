@@ -16,88 +16,278 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "D A F♯m E",
-      "lyrics": "My mind’s a room"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "My",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " m",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "ind’",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "s a room",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I used to be"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I used to be",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Crushed in a corner"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Crushed in a corner",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "By boxes big and small"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "By boxes big and small",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "D A F♯m E",
-      "lyrics": "Then, one by one"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Th",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "en",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": ", on",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "e by one",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I looked inside"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I looked inside",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Found fear and worry"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Found fear and worry",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "So I moved them out"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So I moved them out",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Instrumental]"
     },
     {
-      "chord": "D A F♯m E",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "A",
+          "lyric": " "
+        },
+        {
+          "chord": "F♯m",
+          "lyric": " "
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "E B G♯m F♯",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": " "
+        },
+        {
+          "chord": "B",
+          "lyric": " "
+        },
+        {
+          "chord": "G♯m",
+          "lyric": " "
+        },
+        {
+          "chord": "F♯",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "E B G♯m F♯",
-      "lyrics": "It’s an empty room."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "It",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "’s",
+          "overLyric": true
+        },
+        {
+          "chord": "G♯m",
+          "lyric": " an ",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯",
+          "lyric": "empty room.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "A lonely room."
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A lonely room.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Now I’m in an empty room."
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Now I’m in an empty room.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "A lonely room."
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A lonely room.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 3]"
     },
     {
-      "chord": "E B G♯m F♯",
-      "lyrics": "But it’s my home"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "Bu",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "t ",
+          "overLyric": true
+        },
+        {
+          "chord": "G♯m",
+          "lyric": "it’s",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯",
+          "lyric": " my home",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Yes, it's my home"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Yes, it's my home",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Not crushed in a corner"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Not crushed in a corner",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "So I can freely roam."
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So I can freely roam.",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Crushed"

@@ -15,206 +15,1002 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "Em        G              D              A             Em",
-      "lyrics": "I walk a lonely road, the only one that I have ever known"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "I walk a l",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "onely road, the",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " only one that ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "I have ever kn",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "own",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            G             D                A               Em",
-      "lyrics": "Don't know where it goes, But it's home to me and I walk alone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Don't know w",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "here it goes, ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "But it's home to ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "me and I walk al",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "one",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Interlude]"
     },
     {
-      "chord": "Em  G  D  A",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "D",
+          "lyric": "  "
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "Em          G             D           A               Em",
-      "lyrics": "I walk this empty street, On the Boulevard of broken dreams"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "I walk this ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "empty street, ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "On the Boule",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "vard of broken d",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "reams",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           G               D              A              Em",
-      "lyrics": "Where the city sleeps, And I'm the only one and I walk alone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Where the c",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ity sleeps, And ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "I'm the only on",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "e and I walk al",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "one",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Interlude]"
     },
     {
-      "chord": " Em  G  D            A           Em",
-      "lyrics": "             I walk alone, I walk alone."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "D",
+          "lyric": "    I walk a"
+        },
+        {
+          "chord": "A",
+          "lyric": "lone, I walk",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " alone.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " Em  G  D            A",
-      "lyrics": "             I walk alone, I walk a...."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "D",
+          "lyric": "    I walk a"
+        },
+        {
+          "chord": "A",
+          "lyric": "lone, I walk a....",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "C       G            D              Em",
-      "lyrics": "    My shadow's the only one that walks beside me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "   My s"
+        },
+        {
+          "chord": "G",
+          "lyric": "hadow's the o",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "nly one that wa",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "lks beside me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C        G       D              Em",
-      "lyrics": "    My shallow hearts the only thing that's beating"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "   My sh"
+        },
+        {
+          "chord": "G",
+          "lyric": "allow he",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "arts the only t",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "hing that's beating",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C        G       D                 Em",
-      "lyrics": "    Sometimes I wish someone out there will find me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "   Somet"
+        },
+        {
+          "chord": "G",
+          "lyric": "imes I w",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ish someone out th",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ere will find me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C         G      B",
-      "lyrics": "    Till then I walk alone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "   Till t"
+        },
+        {
+          "chord": "G",
+          "lyric": "hen I w",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "alk alone",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Interlude]"
     },
     {
-      "chord": " Em    G     D       A",
-      "lyrics": "Ah-Ah Ah-Ah Ah-Ah   Ahhh-Ah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "h-Ah A",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "h-Ah A",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "h-Ah   A",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "hhh-Ah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Em   G     D       A",
-      "lyrics": "haaa-ah  Ah-Ah Ah-Ah   Ah-Ah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "haaa-",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ah  A",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "h-Ah A",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "h-Ah   A",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "h-Ah",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 3]"
     },
     {
-      "chord": "Em           G",
-      "lyrics": "I'm walking down the line"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "I'm walking d",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "own the line",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                A               Em",
-      "lyrics": "That divides me somewhere in my mind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "That divides me s",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "omewhere in my m",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ind",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G          D",
-      "lyrics": "On the border line of the edge"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "On the b",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "order line ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "of the edge",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      A",
-      "lyrics": "And where I walk alone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And wh",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ere I walk alone",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Interlude]"
     },
     {
-      "chord": "Em  G  D  A",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "D",
+          "lyric": "  "
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 4]"
     },
     {
-      "chord": "Em       G",
-      "lyrics": "Read between the lines"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Read betw",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "een the lines",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  D                  A                 Em",
-      "lyrics": "What's fucked up and everything's all right"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Wh",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "at's fucked up and ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "everything's all r",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          G                D             A",
-      "lyrics": "Check my vital signs, to know I'm still alive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Check my v",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ital signs, to kn",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ow I'm still a",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "live",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "And I walk alone"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I walk alone",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Interlude]"
     },
     {
-      "chord": " Em  G  D            A               Em",
-      "lyrics": "             I walk alone, I walk alone."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "D",
+          "lyric": "    I walk a"
+        },
+        {
+          "chord": "A",
+          "lyric": "lone, I walk alo",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ne.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " Em  G  D            A",
-      "lyrics": "             I walk alone, I walk a...."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "D",
+          "lyric": "    I walk a"
+        },
+        {
+          "chord": "A",
+          "lyric": "lone, I walk a....",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "C       G            D              Em",
-      "lyrics": "    My shadow's the only one that walks beside me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "   My s"
+        },
+        {
+          "chord": "G",
+          "lyric": "hadow's the o",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "nly one that wa",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "lks beside me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C        G       D              Em",
-      "lyrics": "    My shallow hearts the only thing that's beating"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "   My sh"
+        },
+        {
+          "chord": "G",
+          "lyric": "allow he",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "arts the only t",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "hing that's beating",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C        G       D                 Em",
-      "lyrics": "    Sometimes I wish someone out there will find me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "   Somet"
+        },
+        {
+          "chord": "G",
+          "lyric": "imes I w",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ish someone out th",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ere will find me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C         G      B",
-      "lyrics": "    Till then I walk alone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "   Till t"
+        },
+        {
+          "chord": "G",
+          "lyric": "hen I w",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "alk alone",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Interlude]"
     },
     {
-      "chord": " Em    G     D    A",
-      "lyrics": "Ah-Ah Ah-Ah Ah-Ah   Ahhh-Ah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "h-Ah A",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "h-Ah A",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "h-Ah ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " Ahhh-Ah"
+        }
+      ]
     },
     {
-      "chord": "     Em   G     D       A",
-      "lyrics": "haaa-ah  Ah-Ah Ah-Ah  I walk alone, I walk a..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "haaa-",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ah  A",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "h-Ah A",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "h-Ah  I ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "walk alone, I walk a...",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Solo]"
     },
     {
-      "chord": "C  G  D  Em",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "D",
+          "lyric": "  "
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C  G  D  Em",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "D",
+          "lyric": "  "
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C  G  D  Em",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "D",
+          "lyric": "  "
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C  G  B  B",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "B",
+          "lyric": "  "
+        },
+        {
+          "chord": "B",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 5]"
     },
     {
-      "chord": "Em          G             D           A               Em",
-      "lyrics": "I walk this empty street, On the Boulevard of broken dreams"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "I walk this ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "empty street, ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "On the Boule",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "vard of broken d",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "reams",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           G               D              A",
-      "lyrics": "Where the city sleeps, And I'm the only one and I walk a..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Where the c",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ity sleeps, And ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "I'm the only on",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "e and I walk a...",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "C       G            D              Em",
-      "lyrics": "    My shadow's the only one that walks beside me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "   My s"
+        },
+        {
+          "chord": "G",
+          "lyric": "hadow's the o",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "nly one that wa",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "lks beside me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C        G       D              Em",
-      "lyrics": "    My shallow hearts the only thing that's beating"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "   My sh"
+        },
+        {
+          "chord": "G",
+          "lyric": "allow he",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "arts the only t",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "hing that's beating",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C        G       D                 Em",
-      "lyrics": "    Sometimes I wish someone out there will find me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "   Somet"
+        },
+        {
+          "chord": "G",
+          "lyric": "imes I w",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ish someone out th",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ere will find me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C         G      B",
-      "lyrics": "    Till then I walk alone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "   Till t"
+        },
+        {
+          "chord": "G",
+          "lyric": "hen I w",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "alk alone",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Boulevard Of Broken Dreams"

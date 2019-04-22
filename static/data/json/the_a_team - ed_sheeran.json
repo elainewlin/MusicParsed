@@ -14,323 +14,1232 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "A",
-      "lyrics": "White lips, pale face"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "White lips, pale face",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               E/G♯ F♯m",
-      "lyrics": "Breathing in snowflakes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Breathing in sn",
+          "overLyric": true
+        },
+        {
+          "chord": "E/G♯",
+          "lyric": "owfla",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "kes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              D    A",
-      "lyrics": "Burnt lungs, sour taste"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Burnt lungs, s",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "our t",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "aste",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A",
-      "lyrics": "Light's gone, day's end"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Light's gone, day's end",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              E/G♯ F♯m",
-      "lyrics": "Struggling to pay rent"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Struggling to ",
+          "overLyric": true
+        },
+        {
+          "chord": "E/G♯",
+          "lyric": "pay r",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "ent",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                D    A",
-      "lyrics": "Long nights, strange men"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Long nights, str",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ange ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "men",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "      Bm",
-      "lyrics": "And they say"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And th",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "ey say",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   D",
-      "lyrics": "She's in the Class A Team"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "She's in the Class ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "A Team",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               A",
-      "lyrics": "Stuck in her daydream"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Stuck in her da",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ydream",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    E/G♯",
-      "lyrics": "Been this way since 18"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Been this way since ",
+          "overLyric": true
+        },
+        {
+          "chord": "E/G♯",
+          "lyric": "18",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Bm",
-      "lyrics": "But lately her face seems"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But lately her f",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "ace seems",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 D",
-      "lyrics": "Slowly sinking, wasting"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Slowly sinking, w",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "asting",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                A",
-      "lyrics": "Crumbling like pastries"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Crumbling like p",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "astries",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "And they scream"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And they scream",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     E/G♯",
-      "lyrics": "The worst things in life come free to us"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The w",
+          "overLyric": true
+        },
+        {
+          "chord": "E/G♯",
+          "lyric": "orst things in life come free to us",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus 1]"
     },
     {
-      "chord": "            F♯m            D",
-      "lyrics": "Cos we're just under the upperhand"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cos we're ju",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "st under the up",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "perhand",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A",
-      "lyrics": "And go mad for a couple of grams"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "And go mad for a couple of grams",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F♯m                    D      A",
-      "lyrics": "And she don't want to go outside tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F♯m",
+          "lyric": "And she don't want to g",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "o outsi",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "de tonight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          F♯m                    D",
-      "lyrics": "And in a pipe she flies to the Motherland"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And in a p",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "ipe she flies to the Mo",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "therland",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A",
-      "lyrics": "Or sells love to another man"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Or sells love to another man",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F♯m        D       A",
-      "lyrics": "It's too cold outside"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F♯m",
+          "lyric": "It's too co",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ld outsi",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "de",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    E         F♯m  D  A",
-      "lyrics": "For angels to fly"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "For ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "angels to ",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "fly  ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "  "
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "           F♯m  D  A",
-      "lyrics": "Angels to fly"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Angels to f",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "ly   ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "  "
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "A",
-      "lyrics": "Ripped gloves, raincoat"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Ripped gloves, raincoat",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    E/G♯  F♯m",
-      "lyrics": "Tried to swim and stay afloat"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Tried to swim and st",
+          "overLyric": true
+        },
+        {
+          "chord": "E/G♯",
+          "lyric": "ay afl",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "oat",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            D   A",
-      "lyrics": "Dry house, wet clothes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Dry house, w",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "et c",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "lothes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A",
-      "lyrics": "Loose change, bank notes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Loose change, bank notes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             E/G♯ F♯m",
-      "lyrics": "Weary-eyed, dry throat"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Weary-eyed, d",
+          "overLyric": true
+        },
+        {
+          "chord": "E/G♯",
+          "lyric": "ry th",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "roat",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           D    A",
-      "lyrics": "Call girl, no phone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Call girl, ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "no ph",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "one",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "      Bm",
-      "lyrics": "And they say"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And th",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "ey say",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   D",
-      "lyrics": "She's in the Class A Team"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "She's in the Class ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "A Team",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              A",
-      "lyrics": "Stuck in her daydream"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Stuck in her d",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "aydream",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    E/G♯",
-      "lyrics": "Been this way since 18"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Been this way since ",
+          "overLyric": true
+        },
+        {
+          "chord": "E/G♯",
+          "lyric": "18",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               Bm",
-      "lyrics": "But lately her face seems"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But lately her ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "face seems",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 D",
-      "lyrics": "Slowly sinking, wasting"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Slowly sinking, w",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "asting",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                A",
-      "lyrics": "Crumbling like pastries"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Crumbling like p",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "astries",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "And they scream"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And they scream",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     E/G♯",
-      "lyrics": "The worst things in life come free to us"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The w",
+          "overLyric": true
+        },
+        {
+          "chord": "E/G♯",
+          "lyric": "orst things in life come free to us",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus 1]"
     },
     {
-      "chord": "           F♯m                  D",
-      "lyrics": "Cos we're just under the upperhand"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cos we're j",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "ust under the upperha",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "nd",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A",
-      "lyrics": "And go mad for a couple of grams"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "And go mad for a couple of grams",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F♯m                    D      A",
-      "lyrics": "And she don't want to go outside tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F♯m",
+          "lyric": "And she don't want to g",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "o outsi",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "de tonight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         F♯m                     D",
-      "lyrics": "And in a pipe she flies to the Motherland"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And in a ",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "pipe she flies to the Mo",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "therland",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A",
-      "lyrics": "Or sells love to another man"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Or sells love to another man",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F♯m        D       A",
-      "lyrics": "It's too cold outside"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F♯m",
+          "lyric": "It's too co",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ld outsi",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "de",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    E         Bm",
-      "lyrics": "For angels to fly"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "For ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "angels to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "fly",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "              D",
-      "lyrics": "An angel will die"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "An angel will ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "die",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             F♯m",
-      "lyrics": "Covered in white"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Covered in wh",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "ite",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Closed eye"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Closed eye",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     A",
-      "lyrics": "And hoping for a better life"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And h",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "oping for a better life",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm                         D",
-      "lyrics": "This time, we'll fade out tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "This time, we'll fade out t",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "onight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Straight down the line"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Straight down the line",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Solo]"
     },
     {
-      "chord": "F♯m D A",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "F♯m",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": " F♯m D A",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " ",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "      Bm",
-      "lyrics": "And they say"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And th",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "ey say",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   D",
-      "lyrics": "She's in the Class A Team"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "She's in the Class ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "A Team",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              A",
-      "lyrics": "Stuck in her daydream"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Stuck in her d",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "aydream",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    E/G♯",
-      "lyrics": "Been this way since 18"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Been this way since ",
+          "overLyric": true
+        },
+        {
+          "chord": "E/G♯",
+          "lyric": "18",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               Bm",
-      "lyrics": "But lately her face seems"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But lately her ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "face seems",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 D",
-      "lyrics": "Slowly sinking, wasting"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Slowly sinking, w",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "asting",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                A",
-      "lyrics": "Crumbling like pastries"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Crumbling like p",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "astries",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "And they scream"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And they scream",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     E/G♯",
-      "lyrics": "The worst things in life come free to us"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The w",
+          "overLyric": true
+        },
+        {
+          "chord": "E/G♯",
+          "lyric": "orst things in life come free to us",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus 2]"
     },
     {
-      "chord": "          F♯m             D",
-      "lyrics": "Cos we're all under the upperhand"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cos we're ",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "all under the up",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "perhand",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A",
-      "lyrics": "And go mad for a couple of grams"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "And go mad for a couple of grams",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F♯m                   D     A",
-      "lyrics": "And we don't want to go outside tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F♯m",
+          "lyric": "And we don't want to g",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "o outs",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ide tonight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          F♯m                 D",
-      "lyrics": "And in a pipe we fly to the Motherland"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And in a p",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "ipe we fly to the Mo",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "therland",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A",
-      "lyrics": "Or sell love to another man"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Or sell love to another man",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F♯m        D       A",
-      "lyrics": "It's too cold outside"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F♯m",
+          "lyric": "It's too co",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ld outsi",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "de",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    E          F♯m D A",
-      "lyrics": "For angels to fly"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "For ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "angels to f",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "ly  ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "            F♯m D A",
-      "lyrics": "Angels to fly"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Angels to fl",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "y   ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "   F♯m D  A",
-      "lyrics": "To fly, fly"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To ",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "fly,",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " fl",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "y",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           F♯m      D       A",
-      "lyrics": "Angels to fly, to fly, to fly"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Angels to f",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "ly, to fl",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "y, to fl",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "y",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   E       A",
-      "lyrics": "Angels to die"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Ang",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "els to d",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ie",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "The A Team"

@@ -16,193 +16,746 @@
       "label": "[Intro]"
     },
     {
-      "chord": "Dm  G  C  F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Dm  G  C  C",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 1]"
     },
     {
-      "chord": "Dm                  G",
-      "lyrics": "I'm the girl in your other phone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "I'm the girl in your",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " other phone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                       F",
-      "lyrics": "Lighting up inside your drawer at home"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Lighting up inside your ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "drawer at home",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Dm                   G",
-      "lyrics": "all alone. Pushing 20 in the friend zone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "all alone. ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "Pushing 20 in the fri",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "end zone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                    F",
-      "lyrics": "We talk and then you walk away"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "We talk and then you ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "walk away",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Dm                  G",
-      "lyrics": "every day. Oh, you don't think twice 'bout me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "every day. ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "Oh, you don't think ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "twice 'bout me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                E7",
-      "lyrics": "And maybe you're right to doubt me, but"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "And maybe you're ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "right to doubt me, but",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Dm     G                      C",
-      "lyrics": "If you give me just one night"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "If you ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "give me just one night ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "             F                     Dm",
-      "lyrics": "You're gonna see me in a new light"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're gonna ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "see me in a new light ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "             G                     C",
-      "lyrics": "Yeah, if you give me just one night"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Yeah, if you ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "give me just one night",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "            F",
-      "lyrics": "To meet you underneath the moonlight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To meet you ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "underneath the moonlight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm                G                   C",
-      "lyrics": "Oh, I want a take two, I want to breakthrough"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Oh, I want a take ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "two, I want to break",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "through",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 F                    Dm",
-      "lyrics": "I wanna know the real thing about you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I wanna know the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "real thing about you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "         G                     C  C",
-      "lyrics": "So I can see you in a new light"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So I can ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "see you in a new light",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "Dm                G",
-      "lyrics": "Take a ride up to Malibu"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Take a ride up to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "Malibu",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                    F",
-      "lyrics": "I just wanna stay to look at you,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I just wanna stay to ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "look at you,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Dm                           G",
-      "lyrics": "look at you. What would it matter if your friends knew?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "look at you. ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "What would it matter if your ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "friends knew?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                    F",
-      "lyrics": "Who cares what other people say anyway"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Who cares what other ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "people say anyway",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm            G",
-      "lyrics": "Oh, we can go far from the end"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Oh, we can go ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "far from the end",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C              E7                  Dm",
-      "lyrics": "And make a new world together baby"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "And make a new ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "world together baby ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "              G                      C",
-      "lyrics": "'Cause if you give me just one night"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Cause if you ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "give me just one night ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "             F                     Dm",
-      "lyrics": "You're gonna see me in a new light"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're gonna ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "see me in a new light ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "             G                     C",
-      "lyrics": "Yeah, if you give me just one night"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Yeah, if you ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "give me just one night",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "            F",
-      "lyrics": "To meet you underneath the moonlight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To meet you ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "underneath the moonlight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm                G                   C",
-      "lyrics": "Oh, I want a take two, I want to breakthrough"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Oh, I want a take ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "two, I want to break",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "through",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 F                    Dm",
-      "lyrics": "I wanna know the real thing about you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I wanna know the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "real thing about you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "         G                     C  C",
-      "lyrics": "So I can see you in a new light"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So I can ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "see you in a new light",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "Dm  G  C  F",
-      "lyrics": "mmm"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "mmm ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Dm  G  C  C",
-      "lyrics": "mmm       ah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "mmm ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": "ah",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Dm     G                      C",
-      "lyrics": "If you give me just one night"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "If you ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "give me just one night ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "             F                     Dm",
-      "lyrics": "You're gonna see me in a new light"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're gonna ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "see me in a new light ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "             G                     C",
-      "lyrics": "Yeah, if you give me just one night"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Yeah, if you ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "give me just one night",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "            F",
-      "lyrics": "To meet you underneath the moonlight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To meet you ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "underneath the moonlight",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Outro]"
     },
     {
-      "chord": "Dm7",
-      "lyrics": "What do I do with all this?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm7",
+          "lyric": "What do I do with all this?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gsus4",
-      "lyrics": "What do I do with all this"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gsus4",
+          "lyric": "What do I do with all this",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                                     F",
-      "lyrics": "love that's running through my veins for you?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "love that's running through my veins f",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "or you?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm7",
-      "lyrics": "What do I do with all this?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm7",
+          "lyric": "What do I do with all this?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gsus4",
-      "lyrics": "What do I do with all this"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gsus4",
+          "lyric": "What do I do with all this",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                                     F",
-      "lyrics": "love that's running through my veins for you?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "love that's running through my veins f",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "or you?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm7",
-      "lyrics": "What do I do with all this?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm7",
+          "lyric": "What do I do with all this?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gsus4                      C",
-      "lyrics": "What do I do with all this love?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gsus4",
+          "lyric": "What do I do with all this ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "love?",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "New Light"

@@ -20,72 +20,324 @@
   "id": "dont_cost_nothing - steven_universe",
   "lines": [
     {
-      "chord": "      Cmaj7            Dm         E7",
-      "lyrics": "[Greg] Bright sunny day don't cost nothing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Greg]",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": " Bright sunny day",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": " don't cost",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": " nothing",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                  Bb         C7",
-      "lyrics": "Light summer breeze don't cost nothing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Light summer breeze ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "don't cost ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "nothing",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                 Em       A7",
-      "lyrics": "What do I do with all this money?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "What do I do with ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "all this ",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "money?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Dm                   G7",
-      "lyrics": "When the only thing I want is you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "only thing I want is ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Cmaj7          Dm         E7",
-      "lyrics": "Palling around don't cost nothing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cmaj7",
+          "lyric": "Palling around ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "don't cost ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "nothing",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am             Bb         C7",
-      "lyrics": "Singing a song don't cost nothing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Singing a song ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "don't cost ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "nothing",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F              Em       A7",
-      "lyrics": "How do I spend all this money?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "How do I spend ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "all this ",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "money?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Dm                G7        Cmaj7",
-      "lyrics": "I'd rather just spend time with you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'd ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "rather just spend ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "time with ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                         Bbmaj7      C7",
-      "lyrics": "[Steven] You could buy a house and a car"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Steven] You could buy a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bbmaj7",
+          "lyric": "house and a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "car",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                      Fmaj7                      Dm",
-      "lyrics": "[Greg] I guess that I can but I've already got a van"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Greg] I guess that I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7",
+          "lyric": "can but I've already got a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "van",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                        Gm7",
-      "lyrics": "I could put you through college"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I could put you through ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm7",
+          "lyric": "college",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                       C7",
-      "lyrics": "[Steven] But I'm with the Gems all the time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Steven] But I'm with the Gems all the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "time",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                          Fmaj7                    F7",
-      "lyrics": "[Greg] Or I could buy you all the finest courses online"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Greg] Or I could buy you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7",
+          "lyric": "all the finest courses on",
+          "overLyric": true
+        },
+        {
+          "chord": "F7",
+          "lyric": "line",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                           Bbmaj7",
-      "lyrics": "[Steven] What if we took a trip?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Steven] What if we took a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bbmaj7",
+          "lyric": "trip?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "[Greg] Do you think?"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Greg] Do you think?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                C7                    Fmaj7",
-      "lyrics": "[Steven] Yeah I do! We could take a vacation"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Steven] Yeah I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "do! We could take a va",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7",
+          "lyric": "cation",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                      Bbmaj7",
-      "lyrics": "We could go somewhere new"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We could go somewhere ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bbmaj7",
+          "lyric": "new",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Don't Cost Nothing"

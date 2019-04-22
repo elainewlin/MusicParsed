@@ -16,122 +16,700 @@
       "label": "Verse:"
     },
     {
-      "chord": "          Dm     G          C",
-      "lyrics": "Do I look lonely? I see the shadows on my face,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Do I look ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "lonely?",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " I see the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "shadows on my face,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Dm       G                C",
-      "lyrics": "People have told me, I don't look the same,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "People have ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "told me, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "I don't look the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "same,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Dm          G           C",
-      "lyrics": "Maybe I lost weight, I'm playing hooky,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Maybe I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "lost weight,",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " I'm playing",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " hooky,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     Dm                         G                         C",
-      "lyrics": "With the best of the best, put your heart on my chest so that you can see it too,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "With the best of the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "best, put your heart on my ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "chest so that you can see ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "it too,",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Pre-Chorus:"
     },
     {
-      "chord": "                F        Fm             C         Am",
-      "lyrics": "I'm walking the long road, watching the sky fall"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm walking the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "long road",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": ", watching the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "sky fall  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                 Dm               D            G",
-      "lyrics": "The lace in your dress tangles my neck, how do I live?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The lace in your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "dress tangles my ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "neck, how do ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "I live?",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Chorus:"
     },
     {
-      "chord": "               Am        D        F                  C",
-      "lyrics": "The death of a bachelor, oh oh oh, letting the water fall,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The death of a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "bachelor, ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "oh oh oh,",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " letting the water ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "fall,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               Am        D        F                 C",
-      "lyrics": "The death of a bachelor, oh oh oh, seems so fitting for,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The death of a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "bachelor, ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "oh oh oh,",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " seems so fitting ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "for,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Am     D   F                    C",
-      "lyrics": "Happily ever after, ooh, how could I ask for more?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Happily ever ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "after, ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ooh,",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " how could I ask for ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "more?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              Am       D                     F          C",
-      "lyrics": "a lifetime of laughter at the expense of the death of a bachelor"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "a lifetime of ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "laughter ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "at the expense of the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "death of a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "bachelor",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Verse:"
     },
     {
-      "chord": "               Dm      G                 C",
-      "lyrics": "I'm cutting my mind off, It feel like my heart is going to burst,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm cutting my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "mind off",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ", It feel like my ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "heart is going to burst,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Dm                G               C",
-      "lyrics": "Alone at a table for two and I just wanna be served,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Alone at a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "table for two and ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "I just wanna be ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "served,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Dm         G          C",
-      "lyrics": "And when you think of me, am I the best you've ever had?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And when you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "think of me",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ", am I the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "best you've ever had?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               Dm             G                        C",
-      "lyrics": "Share one more drink with me, smile even though you're sad."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Share one more ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "drink with me, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "smile even though you're ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "sad.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Pre-Chorus:"
     },
     {
-      "chord": "                F        Fm             C         Am",
-      "lyrics": "I'm walking the long road, watching the sky fall,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm walking the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "long road",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": ", watching the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "sky fall, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                 Dm               D            G",
-      "lyrics": "The lace in your dress tangles my neck, how do I live?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The lace in your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "dress tangles my ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "neck, how do ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "I live?",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Chorus:"
     },
     {
-      "chord": "               Am        D        F                  C",
-      "lyrics": "The death of a bachelor, oh oh oh, letting the water fall,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The death of a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "bachelor, ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "oh oh oh,",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " letting the water ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "fall,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               Am        D        F                 C",
-      "lyrics": "The death of a bachelor, oh oh oh, seems so fitting for,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The death of a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "bachelor, ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "oh oh oh,",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " seems so fitting ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "for,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Am     D   F                    C",
-      "lyrics": "Happily ever after, ooh, how could I ask for more?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Happily ever ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "after, ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ooh,",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " how could I ask for ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "more?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              Am       D                     F          C",
-      "lyrics": "a lifetime of laughter at the expense of the death of a bachelor"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "a lifetime of ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "laughter ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "at the expense of the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "death of a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "bachelor",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Interlude: Am C Dm G"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Interlude: Am C Dm G",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Chorus:"
     },
     {
-      "chord": "               Am        D        F                  C",
-      "lyrics": "The death of a bachelor, oh oh oh, letting the water fall,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The death of a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "bachelor, ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "oh oh oh,",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " letting the water ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "fall,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               Am        D        F                 C",
-      "lyrics": "The death of a bachelor, oh oh oh, seems so fitting for,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The death of a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "bachelor, ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "oh oh oh,",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " seems so fitting ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "for,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Am     D   F                    C",
-      "lyrics": "Happily ever after, ooh, how could I ask for more?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Happily ever ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "after, ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ooh,",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " how could I ask for ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "more?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              Am       D                     F          C",
-      "lyrics": "a lifetime of laughter at the expense of the death of a bachelor"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "a lifetime of ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "laughter ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "at the expense of the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "death of a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "bachelor",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Death Of A Bachelor"

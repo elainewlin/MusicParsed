@@ -12,218 +12,1200 @@
       "label": "[Verse]"
     },
     {
-      "chord": "Dm       C              Dm      C     Dm   C",
-      "lyrics": "Now and then I think of when we were together"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Now and t",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hen I think of ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "when we ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "were t",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ogeth",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "er",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm            C                Dm     C        Dm  C",
-      "lyrics": "Like when you said you felt so happy you could die"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Like when you ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "said you felt so ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "happy y",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ou could ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "die ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Dm     C                  Dm         C",
-      "lyrics": "Told myself that you were right for me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Told my",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "self that you were ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "right for m",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm           C             Dm      C",
-      "lyrics": "But felt so lonely in your company"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "But felt so l",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "onely in your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "company ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Dm            C                Dm       C     Dm    C",
-      "lyrics": "But that was love and it's an ache I still remember"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "But that was l",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ove and it's an a",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "che I sti",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ll rem",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ember ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "Dm             C           Dm      C       Dm    C",
-      "lyrics": "You can get addicted to a certain kind of sadness"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "You can get add",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "icted to a c",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ertain k",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ind of s",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "adness",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Dm         C            Dm",
-      "lyrics": "Like resignation to the end"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Like resign",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ation to the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "end",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C          Dm       C    Dm    C",
-      "lyrics": "Always the end"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Always the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "end      ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "    "
+        },
+        {
+          "chord": "Dm",
+          "lyric": "    "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Dm          C                  Dm         C",
-      "lyrics": "So when we found that we could not make sense"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "So when we f",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ound that we could ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "not make se",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "nse",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm         C                 Dm        C",
-      "lyrics": "Well you said that we would still be friends"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Well you sa",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "id that we would s",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "till be fr",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "iends",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm          C              Dm       C       Dm    C",
-      "lyrics": "But I'll admit that I was glad that it was over"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "But I'll adm",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "it that I was g",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "lad that ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "it was o",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ver   ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Dm      C              Bb     C",
-      "lyrics": "But you didn't have to cut me off"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "But you ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "didn't have to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "cut me ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "off",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm        C            Bb",
-      "lyrics": "Make out like it never happened"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Make out l",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ike it never ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "happened",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         C          Dm",
-      "lyrics": "And that we were nothing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And that ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "we were not",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "hing",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C             Bb       C",
-      "lyrics": "And I don't even need your love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I don't even n",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "eed your ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "love",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Dm              C",
-      "lyrics": "But you treat me like a stranger"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But you t",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "reat me like a s",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "tranger",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Bb       C",
-      "lyrics": "And that feels so rough"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And that f",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "eels so r",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ough",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm    C              Bb      C",
-      "lyrics": "You didn't have to stoop so low"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "You di",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "dn't have to st",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "oop so l",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ow",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm         C                   Bb",
-      "lyrics": "Have your friends collect your records"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Have your f",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "riends collect your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "records",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          C           Dm",
-      "lyrics": "And then change your number"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And then c",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hange your n",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "umber",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  C                  Bb          C",
-      "lyrics": "I guess that I don't need that though"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "guess that I don't ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "need that th",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ough",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm               C              Bb      C",
-      "lyrics": "Now you're just somebody that I used to know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Now you're just s",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "omebody that I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "used to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "know",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Interlude]"
     },
     {
-      "chord": "Dm               C              Bb      C",
-      "lyrics": "Now you're just somebody that I used to know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Now you're just s",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "omebody that I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "used to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "know",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm               C              Bb      C",
-      "lyrics": "Now you're just somebody that I used to know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Now you're just s",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "omebody that I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "used to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "know",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "Dm       C             Dm                  C          Dm  C",
-      "lyrics": "Now and then I think of all the times you screwed me over"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Now and t",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hen I think of",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": " all the times you s",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "crewed me o",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ver ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Dm          C                Dm              C        Dm   C",
-      "lyrics": "But had me believing it was always something that I'd done"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "But had me b",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "elieving it was a",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "lways something ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "that I'd ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "done ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "And I don't wanna live that way"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "And I don't wanna live that way",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "Reading into every word you say"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Reading into every word you say",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "You said that you could let it go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "You said that you could let it go",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "And I wouldn't catch you hung up on somebody that you used to know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "And I wouldn't catch you hung up on somebody that you used to know",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Dm      C              Bb     C",
-      "lyrics": "But you didn't have to cut me off"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "But you ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "didn't have to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "cut me ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "off",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm        C            Bb",
-      "lyrics": "Make out like it never happened"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Make out l",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ike it never ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "happened",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         C          Dm",
-      "lyrics": "And that we were nothing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And that ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "we were not",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "hing",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C             Bb       C",
-      "lyrics": "And I don't even need your love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I don't even n",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "eed your ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "love",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Dm              C",
-      "lyrics": "But you treat me like a stranger"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But you t",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "reat me like a s",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "tranger",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Bb       C",
-      "lyrics": "And that feels so rough"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And that f",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "eels so r",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ough",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm    C              Bb      C",
-      "lyrics": "You didn't have to stoop so low"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "You di",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "dn't have to st",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "oop so l",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ow",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm         C                   Bb",
-      "lyrics": "Have your friends collect your records"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Have your f",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "riends collect your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "records",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          C           Dm",
-      "lyrics": "And then change your number"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And then c",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hange your n",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "umber",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  C                  Bb          C",
-      "lyrics": "I guess that I don't need that though"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "guess that I don't ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "need that th",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ough",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm               C              Bb      C",
-      "lyrics": "Now you're just somebody that I used to know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Now you're just s",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "omebody that I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "used to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "know",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Outro]"
     },
     {
-      "chord": "    Dm      C    Bb          C",
-      "lyrics": "Somebody...       I used to know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Some",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "body... ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "    "
+        },
+        {
+          "chord": "Bb",
+          "lyric": " I used to k",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Dm      C       Bb        C",
-      "lyrics": "Somebody...  That I used to know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Some",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "body... ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " That I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "used to kn",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ow",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Dm      C    Bb          C",
-      "lyrics": "Somebody...       I used to know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Some",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "body... ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "    "
+        },
+        {
+          "chord": "Bb",
+          "lyric": " I used to k",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Dm                         C            Bb        C",
-      "lyrics": "Somebody... (Now you're just somebody that I used to know)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Some",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "body... (Now you're just so",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "mebody that I",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": " used to k",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "now)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm    C   Bb       C",
-      "lyrics": "I used to know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "I used",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "know     ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Dm   C        Bb       C",
-      "lyrics": "That I used to know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "That ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I used to",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": " know    ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Dm    C   Bb       C",
-      "lyrics": "I used to know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "I used",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "know     ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Dm        C   Bb   C",
-      "lyrics": "Somebody..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Somebody..",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ".   ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "   "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "Somebody That I Used to Know"

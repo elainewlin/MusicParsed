@@ -13,218 +13,1087 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "                    Gm",
-      "lyrics": "I've been here all night, (Ariana!)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've been here all n",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ight, (Ariana!)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm        F        Gm           Dm        F",
-      "lyrics": "I've been here all day, (Nicki Minaj!)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "I've been ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "here all ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "day, (Nicki M",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "inaj!)    ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "      E♭        F                     Gm",
-      "lyrics": "And boy, you got me walkin' side to side (Let them know)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And bo",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "y, you got",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " me walkin' side to si",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "de (Let them know)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I'm talkin' to ya"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm talkin' to ya",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm       Dm             F            Gm",
-      "lyrics": "See you standing over there with your body"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "See you s",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "tanding over th",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ere with your",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": " body",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Dm           F              E♭",
-      "lyrics": "Feeling like I wanna rock with your body"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Feeling l",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ike I wanna r",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ock with your b",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "ody",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        F                       Gm",
-      "lyrics": "And we don't gotta think 'bout nothin' ('bout nothin')"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And we d",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "on't gotta think 'bout n",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "othin' ('bout nothin')",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I'm comin' at ya"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm comin' at ya",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm       Dm            F       Gm",
-      "lyrics": "Cause I know you got a bad reputation"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Cause I k",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "now you got a ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "bad repu",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "tation",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Dm               F           E♭",
-      "lyrics": "Doesn't matter cause you give me temptation"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Doesn't m",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "atter cause you g",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ive me tempt",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "ation",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        F                       Gm",
-      "lyrics": "And we don't gotta think 'bout nothin' ('bout nothin')"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And we d",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "on't gotta think 'bout n",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "othin' ('bout nothin')",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "       Gm           Dm     F      Gm",
-      "lyrics": "These friends keep talkin' way too much"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "These f",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "riends keep t",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "alkin' ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "way too",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": " much",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Dm      F        E♭",
-      "lyrics": "Saying I should give you up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Saying I",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": " should ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "give you ",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       F                   Gm",
-      "lyrics": "Can't hear them no, cause I..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Can't h",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ear them no, cause I",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "...",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "                    Gm",
-      "lyrics": "I've been here all night"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've been here all n",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm         F       Gm     Dm     F",
-      "lyrics": "I've been here all day,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "I've been h",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ere all ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "day,   ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "     "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "     E♭        F                      Gm",
-      "lyrics": "And boy, you got me walkin' side to side"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And b",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "oy, you go",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "t me walkin' side to si",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "de",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    Gm",
-      "lyrics": "I've been here all night"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've been here all n",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm         F       Gm     Dm     F",
-      "lyrics": "I've been here all day,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "I've been h",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ere all ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "day,   ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "     "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "     E♭        F                      Gm",
-      "lyrics": "And boy, you got me walkin' side to side"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And b",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "oy, you go",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "t me walkin' side to si",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "de",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "",
-      "lyrics": "Been tryna hide it"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Been tryna hide it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm    Dm            F            Gm",
-      "lyrics": "Baby what's it gonna hurt if they don't know?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Baby w",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "hat's it gonna",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " hurt if they",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": " don't know?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Dm       F              E♭",
-      "lyrics": "Makin' everybody think that we solo"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Makin' e",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "verybody ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "think that we s",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "olo",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         F                         Gm",
-      "lyrics": "Just as long as you know that you got me (you got me)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Just as l",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ong as you know that you g",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ot me (you got me)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "And boy, I got ya"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And boy, I got ya",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm       Dm              F              Gm",
-      "lyrics": "Cause tonight I'm making deals with the devil"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Cause ton",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ight I'm making ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "deals with the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "devil",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Dm             F         E♭",
-      "lyrics": "And I know it's gonna get me in trouble"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I k",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "now it's gonna ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "get me in ",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "trouble",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         F                         Gm",
-      "lyrics": "Just as long as you know that you got me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Just as l",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ong as you know that you g",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ot me",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "       Gm           Dm     F      Gm",
-      "lyrics": "These friends keep talkin' way too much"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "These f",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "riends keep t",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "alkin' ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "way too",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": " much",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Dm      F        E♭",
-      "lyrics": "Saying I should give you up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Saying I",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": " should ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "give you ",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       F                   Gm",
-      "lyrics": "Can't hear them no, cause I..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Can't h",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ear them no, cause I",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "...",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "                    Gm",
-      "lyrics": "I've been here all night"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've been here all n",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm         F       Gm     Dm     F",
-      "lyrics": "I've been here all day,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "I've been h",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ere all ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "day,   ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "     "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "     E♭        F                      Gm",
-      "lyrics": "And boy, you got me walkin' side to side"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And b",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "oy, you go",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "t me walkin' side to si",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "de",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    Gm",
-      "lyrics": "I've been here all night"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've been here all n",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm         F       Gm     Dm     F",
-      "lyrics": "I've been here all day,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "I've been h",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ere all ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "day,   ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "     "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "     E♭        F                      Gm",
-      "lyrics": "And boy, you got me walkin' side to side"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And b",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "oy, you go",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "t me walkin' side to si",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "de",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Nicki Minaj]"
     },
     {
-      "chord": "          Gm                Dm             F",
-      "lyrics": "This the new style with the fresh type of flow"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "This the n",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ew style with the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "fresh type of f",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "low",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " Gm                Dm       F",
-      "lyrics": "Wrist icicle, ride dick bicycle"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "W",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "rist icicle, ride ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "dick bicy",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "cle",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      E♭                F",
-      "lyrics": "Come true yo, get you this type of blow"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Come t",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "rue yo, get you th",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "is type of blow",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Gm",
-      "lyrics": "If you wanna menage I got a tricycle"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "If y",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ou wanna menage I got a tricycle",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " Gm                           Dm",
-      "lyrics": "All these bitches, hoes is my mini-me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ll these bitches, hoes is my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "mini-me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " F       Gm                          Dm",
-      "lyrics": "I be smoking so they call me young Nicki chimney"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " be smok",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ing so they call me young Ni",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "cki chimney",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " F               E♭                              F",
-      "lyrics": "Rappers in they feelings cause they feelin' me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "R",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "appers in they f",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "eelings cause they feelin' me   ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "         Gm",
-      "lyrics": "Uh, I-I give zero fucks and I got zero chill in me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Uh, I-I g",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ive zero fucks and I got zero chill in me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " Gm                         Dm            F",
-      "lyrics": "Kissing me, copped the blue box that say Tiffany"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "K",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "issing me, copped the blue ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "box that say T",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "iffany",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " Gm                          Dm                 F",
-      "lyrics": "Curry with the shot, just tell 'em to call me Stephanie"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "C",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "urry with the shot, just tel",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "l 'em to call me St",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ephanie",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " E♭                     F",
-      "lyrics": "Gun pop and I make my gum pop"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "G",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "un pop and I make my gu",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "m pop",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  Gm",
-      "lyrics": "I'm the queen of rap, young Ariana run pop"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm the queen of r",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ap, young Ariana run pop",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Ariana Grande]"
@@ -233,62 +1102,306 @@
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "       Gm           Dm     F      Gm",
-      "lyrics": "These friends keep talkin' way too much"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "These f",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "riends keep t",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "alkin' ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "way too",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": " much",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Dm      F        E♭",
-      "lyrics": "Saying I should give you up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Saying I",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": " should ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "give you ",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       F                   Gm",
-      "lyrics": "Can't hear them no, cause I..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Can't h",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ear them no, cause I",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "...",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "                    Gm",
-      "lyrics": "I've been here all night"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've been here all n",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm         F       Gm     Dm     F",
-      "lyrics": "I've been here all day,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "I've been h",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ere all ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "day,   ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "     "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "     E♭        F                      Gm",
-      "lyrics": "And boy, you got me walkin' side to side"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And b",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "oy, you go",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "t me walkin' side to si",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "de",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    Gm",
-      "lyrics": "I've been here all night"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've been here all n",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm         F       Gm     Dm     F",
-      "lyrics": "I've been here all day,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "I've been h",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ere all ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "day,   ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "     "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "     E♭        F                      Gm",
-      "lyrics": "And boy, you got me walkin' side to side"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And b",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "oy, you go",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "t me walkin' side to si",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "de",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Nicki Minaj]"
     },
     {
-      "chord": "          Gm                 Dm            F",
-      "lyrics": "This the new style with the fresh type of flow"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "This the n",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ew style with the f",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "resh type of f",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "low",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " Gm                Dm       F",
-      "lyrics": "Wrist icicle, ride dick bicycle"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "W",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "rist icicle, ride ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "dick bicy",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "cle",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      E♭                F",
-      "lyrics": "Come true yo, get you this type of blow"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Come t",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "rue yo, get you th",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "is type of blow",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Gm",
-      "lyrics": "If you wanna menage I got a tricycle"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "If y",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ou wanna menage I got a tricycle",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Side To Side"

@@ -2,7 +2,21 @@
  * @file Types for song representation.
  */
 
-export type SongLine = { label: string } | { chord: string; lyrics: string };
+export interface ChordLyricPair {
+  chord: string | null;
+  lyric: string;
+  overLyric?: true;
+}
+
+export interface ChordLyricLine {
+  className: string;
+  chordLyricPairs: ChordLyricPair[];
+}
+export type RenderedLine =
+  | {
+      label: string;
+    }
+  | ChordLyricLine;
 
 export interface SongData {
   id?: string;
@@ -12,5 +26,5 @@ export interface SongData {
   capo?: string;
   allChords: string[];
   overrideAllChords?: string[];
-  lines: SongLine[];
+  lines: RenderedLine[];
 }

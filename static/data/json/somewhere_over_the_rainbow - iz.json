@@ -11,68 +11,263 @@
   "id": "somewhere_over_the_rainbow - iz",
   "lines": [
     {
-      "chord": "C         Em",
-      "lyrics": "Somewhere over the rainbow,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Somewhere ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "over the rainbow,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F         C",
-      "lyrics": "way up high"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "way up hig",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "h",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F         C",
-      "lyrics": "There’s a place that I heard of"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "There’s a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "place that I heard of",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G              Am  F",
-      "lyrics": "once in a lullaby"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "once in a lulla",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "by  ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C         Em",
-      "lyrics": "Somewhere over the rainbow,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Somewhere ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "over the rainbow,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F             C",
-      "lyrics": "blue birds fly"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "blue birds fly",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F       C",
-      "lyrics": "And the dreams that you dream of,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "And the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "dreams that you dream of,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                     Am   F",
-      "lyrics": "dreams really do come true"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "dreams really do come ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "true ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "Someday I'll wish upon a star,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Someday I'll wish upon a star,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                                  Am   F",
-      "lyrics": "Wake up where the clouds are far behind me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Wake up where the clouds are far be",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "hind ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      C",
-      "lyrics": "Where trouble melts like lemon drops"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Where ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "trouble melts like lemon drops",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                                  Am           F",
-      "lyrics": "High above the chimney tops that's where you'll find me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "High above the chimney tops that's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "where you'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "find me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C         Em",
-      "lyrics": "Somewhere over the rainbow,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Somewhere ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "over the rainbow,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F             C",
-      "lyrics": "blue birds fly"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "blue birds fly",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F       C",
-      "lyrics": "And the dreams that you dare to,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "And the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "dreams that you dare to,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                 Am F C",
-      "lyrics": "why, oh why can't I?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "why, oh why can't ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "I? ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "Somewhere Over the Rainbow"

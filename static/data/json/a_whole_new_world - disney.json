@@ -31,173 +31,827 @@
       "label": "Aladdin:"
     },
     {
-      "chord": "D     D/G           D",
-      "lyrics": "I can show you the world"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "I can ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/G",
+          "lyric": "show you the w",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "orld",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D         D/G        G/B   A/C#",
-      "lyrics": "Shining, shimmering, splendid"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Shining, s",
+          "overLyric": true
+        },
+        {
+          "chord": "D/G",
+          "lyric": "himmering, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G/B",
+          "lyric": "splend",
+          "overLyric": true
+        },
+        {
+          "chord": "A/C#",
+          "lyric": "id",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em       F#7           Bm",
-      "lyrics": "Tell me, princess, now when did"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Tell me, ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#7",
+          "lyric": "princess, now ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "when did",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm/A     G                 D",
-      "lyrics": "You last let your heart decide?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm/A",
+          "lyric": "You last ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "let your heart dec",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ide?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D     D/G         D",
-      "lyrics": "I can open your eyes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "I can ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/G",
+          "lyric": "open your ey",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "es",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D        D/G       G/B  A/C#",
-      "lyrics": "Take you wonder by wonder"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Take you ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/G",
+          "lyric": "wonder by ",
+          "overLyric": true
+        },
+        {
+          "chord": "G/B",
+          "lyric": "wonde",
+          "overLyric": true
+        },
+        {
+          "chord": "A/C#",
+          "lyric": "r",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em     F#7          Bm",
-      "lyrics": "Over, sideways and under"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Over, s",
+          "overLyric": true
+        },
+        {
+          "chord": "F#7",
+          "lyric": "ideways and u",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "nder",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm/A   G           D",
-      "lyrics": "On a magic carpet ride"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm/A",
+          "lyric": "On a ma",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "gic carpet r",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ide",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             A    D",
-      "lyrics": "A whole new world"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A whole new w",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "orld ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "      A                  D",
-      "lyrics": "A new fantastic point of view"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A new ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "fantastic point of ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "view",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           G      D/F#",
-      "lyrics": "No one to tell us no"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "No one to t",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ell us ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "no",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     G      D/F#",
-      "lyrics": "Or where to go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Or wh",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ere to ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "go",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Bm7       E7    A7",
-      "lyrics": "Or say we're only dreaming"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Or ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm7",
+          "lyric": "say we're ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "only d",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "reaming",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Jasmine:"
     },
     {
-      "chord": "            A     D",
-      "lyrics": "A whole new world"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A whole new ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "world ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "              A   Bbdim7 Bm",
-      "lyrics": "A dazzling place I never knew"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A dazzling pla",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ce I",
+          "overLyric": true
+        },
+        {
+          "chord": "Bbdim7",
+          "lyric": " never ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "knew",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " D7           G      D/F#",
-      "lyrics": "But when I'm way up here"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "B",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "ut when I'm w",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ay up h",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "ere",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      G       D/F#",
-      "lyrics": "It's crystal clear"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's c",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "rystal c",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "lear",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Bm7     E7   C          A7         D",
-      "lyrics": "That now I'm in a whole new world with you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm7",
+          "lyric": "now I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "in a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "whole new w",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "orld with y",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ou",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         D",
-      "lyrics": "Aladdin: Now I'm in a whole new world with you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Aladdin: ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "Now I'm in a whole new world with you",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Jasmine:"
     },
     {
-      "chord": "F    F/Bb     F",
-      "lyrics": "Unbelievable sights"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Unbel",
+          "overLyric": true
+        },
+        {
+          "chord": "F/Bb",
+          "lyric": "ievable s",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ights",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F     F/Bb   Bb/D  C/E",
-      "lyrics": "Indescribable feeling"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Indesc",
+          "overLyric": true
+        },
+        {
+          "chord": "F/Bb",
+          "lyric": "ribable",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb/D",
+          "lyric": " feeli",
+          "overLyric": true
+        },
+        {
+          "chord": "C/E",
+          "lyric": "ng",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm        A7              Dm",
-      "lyrics": "Soaring, tumbling, freewheeling"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Soaring, t",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "umbling, freewhe",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "eling",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm/C        Bb              F",
-      "lyrics": "Through an endless diamond sky"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm/C",
+          "lyric": "Through an e",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ndless diamond s",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ky",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Jasmine (Aladdin):"
     },
     {
-      "chord": "            C                                 F",
-      "lyrics": "A whole new world (Don't you dare close your eyes)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A whole new ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "world (Don't you dare close your e",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "yes)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          C                  F",
-      "lyrics": "A hundred thousand things to see (Hold your breath - it gets better)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A hundred ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "thousand things to ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "see (Hold your breath - it gets better)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Bb       F/A",
-      "lyrics": "I'm like a shooting star"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm like a s",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "hooting s",
+          "overLyric": true
+        },
+        {
+          "chord": "F/A",
+          "lyric": "tar",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Bb     F/A",
-      "lyrics": "I've come so far"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've c",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ome so ",
+          "overLyric": true
+        },
+        {
+          "chord": "F/A",
+          "lyric": "far",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  Dm7      G7      C7",
-      "lyrics": "I can't go back to where I used to be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "can't go ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "back to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "where I used to be",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Aladdin (Jasmine):"
     },
     {
-      "chord": "            C                       F",
-      "lyrics": "A whole new world (Every turn a surprise)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A whole new ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "world (Every turn a surp",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "rise)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         C   Dbdim7 Dm",
-      "lyrics": "With new horizons to pursue (Every moment red-letter)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "With new ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hori",
+          "overLyric": true
+        },
+        {
+          "chord": "Dbdim7",
+          "lyric": "zons to",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": " pursue (Every moment red-letter)",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Both:"
     },
     {
-      "chord": "F7              Bb   F/A",
-      "lyrics": "I'll chase them anywhere"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F7",
+          "lyric": "I'll chase them ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "anywh",
+          "overLyric": true
+        },
+        {
+          "chord": "F/A",
+          "lyric": "ere",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Bb       F/A",
-      "lyrics": "There's time to spare"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "There's t",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ime to sp",
+          "overLyric": true
+        },
+        {
+          "chord": "F/A",
+          "lyric": "are",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm7      G7        Eb         C7         Dm F/C",
-      "lyrics": "Let me share this whole new world with you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm7",
+          "lyric": "Let me sh",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "are this w",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "hole new wo",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "rld with yo",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "u  ",
+          "overLyric": true
+        },
+        {
+          "chord": "F/C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "Aladdin (Jasmine):"
     },
     {
-      "chord": "            Bb                 F/A",
-      "lyrics": "A whole new world (A whole new world)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A whole new ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "world (A whole new ",
+          "overLyric": true
+        },
+        {
+          "chord": "F/A",
+          "lyric": "world)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Gm                     F/A",
-      "lyrics": "That's where we'll be (That's where we'll be)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That's where we'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "be (That's where we'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "F/A",
+          "lyric": "be)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Bb                 C",
-      "lyrics": "A thrilling chase (A wonderous place)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A thrilling ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "chase (A wonderous ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "place)",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Both:"
     },
     {
-      "chord": "     C7      F",
-      "lyrics": "For you and me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "For y",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "ou and m",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "A Whole New World"

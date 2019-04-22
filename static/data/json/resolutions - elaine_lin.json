@@ -16,195 +16,603 @@
       "label": "[Strumming pattern]"
     },
     {
-      "chord": "",
-      "lyrics": "Verse + chorus: DUxU UxU"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Verse + chorus: DUxU UxU",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Pre-chorus: DUxUDUxU"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Pre-chorus: DUxUDUxU",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Intro]"
     },
     {
-      "chord": "",
-      "lyrics": "4 knocks"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "4 knocks",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 1]"
     },
     {
-      "chord": "       Bm",
-      "lyrics": "It’s a new year so"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It’s a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "new year so",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G",
-      "lyrics": "She wanna be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "She ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "wanna be",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       D",
-      "lyrics": "Just a little bit smaller"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Just a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "little bit smaller",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A",
-      "lyrics": "Just a bit smaller"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Just a bit smaller",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm",
-      "lyrics": "She wanna fit in"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "She wanna fit in",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      G",
-      "lyrics": "Those high school jeans"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Those ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "high school jeans",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      D",
-      "lyrics": "Those high school jeans"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Those ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "high school jeans",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A",
-      "lyrics": "Those high school jeans"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Those high school jeans",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "So she vows"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So she vows",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "Bm",
-      "lyrics": "Eat less! Run more!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Eat less! Run more!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Eat less! Run more!"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Eat less! Run more!",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "        Bm7                G",
-      "lyrics": "Because she don’t like her skin and bones"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Because ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm7",
+          "lyric": "she don’t like her ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "skin and bones",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                 A",
-      "lyrics": "She wanna be just skin and bones"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "She wanna be just ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "skin and bones",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm7 G D A",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm7",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "       Bm",
-      "lyrics": "It’s a new year so"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It’s a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "new year so",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   G",
-      "lyrics": "He wanna be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "He ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "wanna be",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       D",
-      "lyrics": "Just a little bit bigger"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Just a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "little bit bigger",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A",
-      "lyrics": "Just a bit bigger"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Just a bit bigger",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm",
-      "lyrics": "He wanna fit in"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "He wanna fit in",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      G",
-      "lyrics": "Those baggy jeans"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Those ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "baggy jeans",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      D",
-      "lyrics": "Those baggy jeans"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Those ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "baggy jeans",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A",
-      "lyrics": "Those baggy jeans"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Those baggy jeans",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "So he vows"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So he vows",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "Bm",
-      "lyrics": "Eat more! Lift more!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Eat more! Lift more!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Eat more! Lift more!"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Eat more! Lift more!",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "        Bm7               G",
-      "lyrics": "Because he don’t like his skin and bones"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Because ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm7",
+          "lyric": "he don’t like his ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "skin and bones",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                    A",
-      "lyrics": "They all say he just skin and bones"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "They all say he just ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "skin and bones",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm7 G D A",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm7",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Em D Dsus2 A",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "Dsus2",
+          "lyric": " "
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Bridge x2]"
     },
     {
-      "chord": "        Em",
-      "lyrics": "There’s too much judging bodies"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "There’s ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "too much judging bodies",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     D",
-      "lyrics": "They say"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "They ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "say",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "She’s cute, he’s scrawny"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "She’s cute, he’s scrawny",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Dsus2",
-      "lyrics": "She’s chubby, he’s a hottie"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "She’s ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dsus2",
+          "lyric": "chubby, he’s a hottie",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        A",
-      "lyrics": "There’s too much judging bodies"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "There’s ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "too much judging bodies",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "    D                   G",
-      "lyrics": "But we are more than our skin and bones"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "we are more than our",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " skin and bones",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm                   A",
-      "lyrics": "We are more than our skin and bones"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "We are more than our ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "skin and bones",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                   G",
-      "lyrics": "We are more than our skin and bones so"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "We are more than our",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " skin and bones so",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm                     A             D",
-      "lyrics": "Don’t gotta change our skin and bones"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Don’t gotta change our ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "skin and bones",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "Resolutions"

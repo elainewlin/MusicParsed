@@ -14,193 +14,700 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "E♭         B♭         Gm    F",
-      "lyrics": "I want to shrink so small"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E♭",
+          "lyric": "I want to s",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "hrink so sm",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "all   ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "     E♭",
-      "lyrics": "Will that make me pretty?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Will ",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "that make me pretty?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     B♭                   Gm F",
-      "lyrics": "Will that make me happy?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Will ",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "that make me happy?  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "E♭        B♭        Gm    F",
-      "lyrics": "I always think so much"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E♭",
+          "lyric": "I always t",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "hink so mu",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ch    ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "E♭",
-      "lyrics": "How the world sees me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E♭",
+          "lyric": "How the world sees me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B♭                 Gm F",
-      "lyrics": "Just fat and ugly"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B♭",
+          "lyric": "Just fat and ugly  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus x2]"
     },
     {
-      "chord": "      E♭sus2                B♭",
-      "lyrics": "Don't got a flat stomach or slim slim thighs"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Don't ",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭sus2",
+          "lyric": "got a flat stomach or ",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "slim slim thighs",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Gm           F",
-      "lyrics": "Why do they only love one size?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Why ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "do they only ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "love one size?",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "        Gm",
-      "lyrics": "And say thin is pretty and"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And say ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "thin is pretty and",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Pretty is good"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Pretty is good",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E♭",
-      "lyrics": "They'll make me pretty"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E♭",
+          "lyric": "They'll make me pretty",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B♭",
-      "lyrics": "They'll make me happy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B♭",
+          "lyric": "They'll make me happy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Gm",
-      "lyrics": "They say thin is pretty and"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "They say ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "thin is pretty and",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Pretty is good"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Pretty is good",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E♭",
-      "lyrics": "They'll make me pretty"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E♭",
+          "lyric": "They'll make me pretty",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B♭",
-      "lyrics": "They'll make me happy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B♭",
+          "lyric": "They'll make me happy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm F E♭ B♭",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "E♭",
+          "lyric": " "
+        },
+        {
+          "chord": "B♭",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "E♭         B♭         Gm    F",
-      "lyrics": "I want to shrink so small"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E♭",
+          "lyric": "I want to s",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "hrink so sm",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "all   ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    E♭",
-      "lyrics": "Why don't I stop eating?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Why ",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "don't I stop eating?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     B♭                Gm F",
-      "lyrics": "They say it's so easy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "They ",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "say it's so easy  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "E♭        B♭        Gm    F",
-      "lyrics": "I always think so much"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E♭",
+          "lyric": "I always t",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "hink so mu",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ch    ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    E♭",
-      "lyrics": "Why don't I start running?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Why ",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "don't I start running?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     B♭                Gm F",
-      "lyrics": "They say it's so easy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "They ",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "say it's so easy  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus x2]"
     },
     {
-      "chord": "            E♭sus2                B♭",
-      "lyrics": "Still don't got a flat stomach or slim slim thighs"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Still don't ",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭sus2",
+          "lyric": "got a flat stomach or ",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "slim slim thighs",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Gm           F",
-      "lyrics": "Why do they only love one size?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Why ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "do they only ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "love one size?",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "        Gm",
-      "lyrics": "Because thin is pretty and"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Because ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "thin is pretty and",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Pretty is good"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Pretty is good",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E♭",
-      "lyrics": "They'll make me pretty"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E♭",
+          "lyric": "They'll make me pretty",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B♭",
-      "lyrics": "They'll make me happy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B♭",
+          "lyric": "They'll make me happy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Gm",
-      "lyrics": "They say thin is pretty and"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "They say ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "thin is pretty and",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Pretty is good"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Pretty is good",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E♭",
-      "lyrics": "They'll make me pretty"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E♭",
+          "lyric": "They'll make me pretty",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B♭",
-      "lyrics": "They'll make me happy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B♭",
+          "lyric": "They'll make me happy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm F E♭ B♭",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "E♭",
+          "lyric": " "
+        },
+        {
+          "chord": "B♭",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "F         E♭                      B♭",
-      "lyrics": "I have to tell myself that I'm enough"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I have to ",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "tell myself that I'm eno",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "ugh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F            E♭              B♭",
-      "lyrics": "Every day, I say that I'm enough"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Every day, I ",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "say that I'm eno",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "ugh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F            E♭              B♭",
-      "lyrics": "Every day, I say that I'm enough"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Every day, I ",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "say that I'm eno",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "ugh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F            E♭              B♭",
-      "lyrics": "It's okay, I know that I'm enough"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "It's okay, I ",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "know that I'm en",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "ough",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "                     Gm",
-      "lyrics": "Even though they say thin is pretty and"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Even though they say ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "thin is pretty and",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Pretty is good"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Pretty is good",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        E♭",
-      "lyrics": "I don't need to be pretty"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't ",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "need to be pretty",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   B♭",
-      "lyrics": "So I can be happy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So ",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "I can be happy",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Shrink"

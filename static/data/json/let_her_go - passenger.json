@@ -14,243 +14,1080 @@
       "label": "[Chorus]"
     },
     {
-      "chord": "                       F                       C",
-      "lyrics": "Well you only need the light when it's burning low"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Well you only need the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "light when it's burning ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "low",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              G                       Am",
-      "lyrics": "Only miss the sun when it starts to snow"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Only miss the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "sun when it starts to sn",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ow",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               F                           C       G",
-      "lyrics": "Only know you love her when you let her go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Only know you l",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ove her when you let her go ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "       "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                      F                        C",
-      "lyrics": "Only know you've been high when you're feeling low"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Only know you've been ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "high when you're feeling ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "low",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              G                        Am",
-      "lyrics": "Only hate the road when you're missin  home"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Only hate the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "road when you're missin  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "home",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               F                         C",
-      "lyrics": "Only know you love her when you've let her go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Only know you l",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ove her when you've let he",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "r go",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "  And you let her go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " And you let her go"
+        }
+      ]
     },
     {
       "label": "[Instrumental]"
     },
     {
-      "chord": "Am   F   G   Em",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "   "
+        },
+        {
+          "chord": "F",
+          "lyric": "   "
+        },
+        {
+          "chord": "G",
+          "lyric": "   "
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am   F   G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "   "
+        },
+        {
+          "chord": "F",
+          "lyric": "   "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 1]"
     },
     {
-      "chord": "Am                            F",
-      "lyrics": "Staring at the bottom of your glass"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Staring at the bottom of your ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "glass",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G                            Em",
-      "lyrics": "Hoping one day you will make a dream last"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Hoping o",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ne day you will make a dream ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "last",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               Am               F          G",
-      "lyrics": "The dreams come slow and they go so fast"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The dreams come",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " slow and they go",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " so fast   ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    Am                          F",
-      "lyrics": "You see her when you close your eyes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "see her when you close your ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "eyes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      G                           Em",
-      "lyrics": "Maybe one day you will understand why"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Maybe ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "one day you will understand ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "why",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               Am           F         G",
-      "lyrics": "Everything you touch surely dies"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Everything you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "touch surely ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "dies      ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "                      F                       C",
-      "lyrics": "But you only need the light when it's burning low"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But you only need the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "light when it's burning ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "low",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              G                       Am",
-      "lyrics": "Only miss the sun when it starts to snow"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Only miss the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "sun when it starts to sn",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ow",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               F                           C       G",
-      "lyrics": "Only know you love her when you let her go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Only know you l",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ove her when you let her go ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "       "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                      F                        C",
-      "lyrics": "Only know you've been high when you're feeling low"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Only know you've been ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "high when you're feeling ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "low",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              G                        Am",
-      "lyrics": "Only hate the road when you're missin  home"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Only hate the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "road when you're missin  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "home",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               F                         C       G",
-      "lyrics": "Only know you love her when you've let her go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Only know you l",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ove her when you've let he",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "r go    ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "Am                            F",
-      "lyrics": "Staring at the ceiling in the dark"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Staring at the ceiling in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "dark",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         G                     Em",
-      "lyrics": "Same old empty feeling in your heart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Same old ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "empty feeling in your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "heart",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Am                 F       G",
-      "lyrics": "Love comes slow and it goes so fast"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Love comes ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "slow and it goes so",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " fast   ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "         Am                      F",
-      "lyrics": "Well you see her when you fall asleep"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Well you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "see her when you fall as",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "leep",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                G                  Em",
-      "lyrics": "But to never to touch and never to keep"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But to never to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "touch and never to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "keep",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                          Am",
-      "lyrics": "Because you loved her too much"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Because you loved her too ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "much",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 F          G",
-      "lyrics": "And you dive too deep"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And you dive too ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "deep       ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "                       F                       C",
-      "lyrics": "Well you only need the light when it's burning low"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Well you only need the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "light when it's burning ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "low",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              G                       Am",
-      "lyrics": "Only miss the sun when it starts to snow"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Only miss the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "sun when it starts to sn",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ow",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               F                           C       G",
-      "lyrics": "Only know you love her when you let her go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Only know you l",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ove her when you let her go ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "       "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                      F                        C",
-      "lyrics": "Only know you've been high when you're feeling low"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Only know you've been ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "high when you're feeling ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "low",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              G                         Am",
-      "lyrics": "Only hate the road when you're missin'  home"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Only hate the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "road when you're missin'  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "home",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               F                         C",
-      "lyrics": "Only know you love her when you've let her go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Only know you l",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ove her when you've let he",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "r go",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "                Am",
-      "lyrics": "And you let her go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And you let her ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "go",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      F     G",
-      "lyrics": "Ooooo ooooo oooooo"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Ooooo ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ooooo ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "oooooo",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Am",
-      "lyrics": "And you let her go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And you let her ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "go",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        F     G",
-      "lyrics": "Ooooooo ooooo ooooo"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Ooooooo ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ooooo ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ooooo",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Am         F    G   Em",
-      "lyrics": "And you let her go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And you let her ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "go         ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "    "
+        },
+        {
+          "chord": "G",
+          "lyric": "   "
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Interlude]"
     },
     {
-      "chord": "Am    F    G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "    "
+        },
+        {
+          "chord": "F",
+          "lyric": "    "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "                          F                       C",
-      "lyrics": "Because you only need the light when it's burning low"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Because you only need the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "light when it's burning ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "low",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              G                       Am",
-      "lyrics": "Only miss the sun when it starts to snow"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Only miss the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "sun when it starts to sn",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ow",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               F                           C       G",
-      "lyrics": "Only know you love her when you let her go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Only know you l",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ove her when you let her go ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "       "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                      F                        C",
-      "lyrics": "Only know you've been high when you're feeling low"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Only know you've been ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "high when you're feeling ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "low",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              G                         Am",
-      "lyrics": "Only hate the road when you're missin'  home"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Only hate the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "road when you're missin'  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "home",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               F                         C",
-      "lyrics": "Only know you love her when you've let her go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Only know you l",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ove her when you've let he",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "r go",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "                          F                     C",
-      "lyrics": "Because you only need the light when it burning low"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Because you only need the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "light when it burning ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "low",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              G                       Am",
-      "lyrics": "Only miss the sun when it starts to snow"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Only miss the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "sun when it starts to sn",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ow",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               F                           C       G",
-      "lyrics": "Only know you love her when you let her go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Only know you l",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ove her when you let her go ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "       "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                      F                        C",
-      "lyrics": "Only know you've been high when you're feeling low"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Only know you've been ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "high when you're feeling ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "low",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              G                        Am",
-      "lyrics": "Only hate the road when you're missin  home"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Only hate the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "road when you're missin  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "home",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               F                         C",
-      "lyrics": "Only know you love her when you've let her go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Only know you l",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ove her when you've let he",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "r go",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                             Am",
-      "lyrics": "  And you let her go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " And you let her go          "
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "Let Her Go"

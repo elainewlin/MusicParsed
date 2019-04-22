@@ -18,138 +18,633 @@
       "label": "[Riff]"
     },
     {
-      "chord": "        Dm             C      Dm",
-      "lyrics": "        D       U D U  D U D  U"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "        ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "D       U D U  ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "D U D  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "U",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "A--0-3--5-5-----5-5-5--3-3-3--5--"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A--0-3--5-5-----5-5-5--3-3-3--5--",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "E-------5---8-6-5-5-5--3-3-3--5--"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "E-------5---8-6-5-5-5--3-3-3--5--",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "C-------5-------5-5-5--4-4-4--5--"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "C-------5-------5-5-5--4-4-4--5--",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "G-------7-------7-7-7--5-5-5--7--"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "G-------7-------7-7-7--5-5-5--7--",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 1]"
     },
     {
-      "chord": "C#m                            G#",
-      "lyrics": " What will you do when you get lonely?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": " What will you do when you get ",
+          "overLyric": true
+        },
+        {
+          "chord": "G#",
+          "lyric": "lonely?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m    C       D       E",
-      "lyrics": "No one waiting by your side"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "No one ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "waiting ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "by your ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "side",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m         B           E               A",
-      "lyrics": "You've been runnin' and hiding much too long"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": "You've been ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "runnin' and ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "hiding much too ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "long",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m           B                 E",
-      "lyrics": "You know it's just your foolish pride"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": "You know it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "just your foolish ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "pride",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Dm            C         Dm",
-      "lyrics": "Layla, you've got me on my knees"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Layla, you've ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "got me on ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "my knees",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm         C          Dm",
-      "lyrics": "Layla, I'm beggin' darling please"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Layla, I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "beggin' dar",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ling please",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Dm  C              Dm                 Dm    C",
-      "lyrics": "Layla, darling won't you ease my worried mind?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Lay",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "la, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "darling won't y",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ou ease my worried ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "mind? ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "C#m                       G#",
-      "lyrics": "I tried to give you consolation"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "I tried to give you consol",
+          "overLyric": true
+        },
+        {
+          "chord": "G#",
+          "lyric": "ation",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m      C      D       E",
-      "lyrics": "Your old man he let you down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "Your old ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "man he ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "let you ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "down",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m    B       E                 A",
-      "lyrics": "Like a fool, I fell in love with you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": "Like a ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "fool, I ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "fell in love with ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m           B                  E",
-      "lyrics": "You turned my whole world upside down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": "You turned my ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "whole world upside ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "down",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Dm            C         Dm",
-      "lyrics": "Layla, you've got me on my knees"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Layla, you've ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "got me on ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "my knees",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm         C          Dm",
-      "lyrics": "Layla, I'm beggin' darling please"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Layla, I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "beggin' dar",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ling please",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Dm  C              Dm                 Dm    C",
-      "lyrics": "Layla, darling won't you ease my worried mind?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Lay",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "la, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "darling won't y",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ou ease my worried ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "mind? ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 3]"
     },
     {
-      "chord": "C#m                    G#",
-      "lyrics": "  Make the best of the situation"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "  Make the best of the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G#",
+          "lyric": "situation",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m      C       D    E",
-      "lyrics": "Before I finally go insane"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "Before I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "finally ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "go in",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "sane",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m          B         E            A",
-      "lyrics": "Please don't say we'll never find a way"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": "Please don't ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "say we'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "never find a ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "way",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m     B                E",
-      "lyrics": "Tell me all my love's in vain"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": "Tell me ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "all my love's in ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "vain",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Dm            C         Dm",
-      "lyrics": "Layla, you've got me on my knees"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Layla, you've ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "got me on ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "my knees",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm         C          Dm",
-      "lyrics": "Layla, I'm beggin' darling please"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Layla, I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "beggin' dar",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ling please",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Dm  C              Dm                 Dm    C",
-      "lyrics": "Layla, darling won't you ease my worried mind?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Lay",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "la, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "darling won't y",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ou ease my worried ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "mind? ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Dm            C         Dm",
-      "lyrics": "Layla, you've got me on my knees"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Layla, you've ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "got me on ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "my knees",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm         C          Dm",
-      "lyrics": "Layla, I'm beggin' darling please"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Layla, I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "beggin' dar",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ling please",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Dm  C                                 Dm    C",
-      "lyrics": "Layla, darling won't you ease my worried mind?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Lay",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "la, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "darling won't you ease my worried ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "mind? ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "Layla"

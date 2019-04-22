@@ -14,165 +14,823 @@
       "label": "[Verse]"
     },
     {
-      "chord": "Em                G              D             C",
-      "lyrics": "I still hear your voice when you sleep next to me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "I still hear your ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "voice when you ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "sleep next to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                G          D",
-      "lyrics": "I still feel your touch in my dreams"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "I still feel your ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "touch in my",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " dreams",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C            G             D             Em",
-      "lyrics": "Forgive me my weakness, but I don't know why"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Forgive me my",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " weakness, but",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " I don't know ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "why",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C           G           D",
-      "lyrics": "Without you It's hard to survive."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Without you ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "It's hard to",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " survive.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "                    C      D          Em",
-      "lyrics": "Cause everytime we touch I get this feeling"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause everytime we t",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ouch I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "get this fe",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "eling",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 C      D             Em",
-      "lyrics": "and everytime we kiss I swear I could fly"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and everytime we ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "kiss I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "swear I could ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "fly",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  C          G",
-      "lyrics": "Can't you feel my heart beat fast"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Can't you feel my ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "heart beat ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "fast",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  D          Em",
-      "lyrics": "I want this to last"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "want this t",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "o last",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G              D",
-      "lyrics": "Need you by my side"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Need you by my ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "side",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   C       D       Em",
-      "lyrics": "Cause everytime we touch I feel the static"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause everytime we ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "touch I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "feel the",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " static",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 C      D             Em",
-      "lyrics": "and everytime we kiss I reach for the sky"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and everytime we ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "kiss I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "reach for the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "sky",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 C           G",
-      "lyrics": "Can't you hear my heart beat so"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Can't you hear my",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " heart beat ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "so",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  D            Em",
-      "lyrics": "I can't let you go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "can't let you",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " go",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G              D",
-      "lyrics": "Want you in my life"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Want you in my ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "life",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "Em               G            D           C",
-      "lyrics": "Your arms are my castle, your heart is my sky"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Your arms are my ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "castle, your ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "heart is my ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "sky",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em             G            D",
-      "lyrics": "They wipe away tears that I cry"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "They wipe away ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "tears that I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "cry",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                G               D                 Em",
-      "lyrics": "The good and the bad times we've been through them all"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "The good and the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "bad times we've ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "been through them ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "all",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C           G           D",
-      "lyrics": "You make me rise when I fall"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "You make me ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "rise when I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "fall",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "                    C      D          Em",
-      "lyrics": "Cause everytime we touch I get this feeling"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause everytime we t",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ouch I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "get this fe",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "eling",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 C      D             Em",
-      "lyrics": "and everytime we kiss I swear I could fly"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and everytime we ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "kiss I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "swear I could ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "fly",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  C          G",
-      "lyrics": "Can't you feel my heart beat fast"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Can't you feel my ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "heart beat ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "fast",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  D          Em",
-      "lyrics": "I want this to last"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "want this t",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "o last",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G              D",
-      "lyrics": "Need you by my side"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Need you by my ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "side",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   C       D       Em",
-      "lyrics": "Cause everytime we touch I feel the static"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause everytime we ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "touch I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "feel the",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " static",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 C      D             Em",
-      "lyrics": "and everytime we kiss I reach for the sky"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and everytime we ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "kiss I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "reach for the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "sky",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 C           G",
-      "lyrics": "Can't you hear my heart beat so"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Can't you hear my",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " heart beat ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "so",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  D            Em",
-      "lyrics": "I can't let you go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "can't let you",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " go",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G              D",
-      "lyrics": "Want you in my life"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Want you in my ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "life",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    C      D          Em",
-      "lyrics": "Cause everytime we touch I get this feeling"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause everytime we t",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ouch I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "get this fe",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "eling",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 C      D             Em",
-      "lyrics": "and everytime we kiss I swear I could fly"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and everytime we ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "kiss I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "swear I could ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "fly",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  C          G",
-      "lyrics": "Can't you feel my heart beat fast"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Can't you feel my ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "heart beat ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "fast",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  D          Em",
-      "lyrics": "I want this to last"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "want this t",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "o last",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G              D",
-      "lyrics": "Need you by my side"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Need you by my ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "side",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   C       D       Em",
-      "lyrics": "Cause everytime we touch I feel the static"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause everytime we ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "touch I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "feel the",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " static",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 C      D             Em",
-      "lyrics": "and everytime we kiss I reach for the sky"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and everytime we ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "kiss I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "reach for the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "sky",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 C           G",
-      "lyrics": "Can't you hear my heart beat so"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Can't you hear my",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " heart beat ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "so",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  D            Em",
-      "lyrics": "I can't let you go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "can't let you",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " go",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G              D",
-      "lyrics": "Want you in my life"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Want you in my ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "life",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Every Time We Touch"

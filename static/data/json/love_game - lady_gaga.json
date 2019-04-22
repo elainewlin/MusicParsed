@@ -9,138 +9,574 @@
   "id": "love_game - lady_gaga",
   "lines": [
     {
-      "chord": "        Bm",
-      "lyrics": "I wanna kiss you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I wanna ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "kiss you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                D       Bm                 Em D",
-      "lyrics": " But if I do then I might miss you, babe"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": " But if I do then ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "I might ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "miss you, babe     ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "           Bm",
-      "lyrics": "It's complicated and stupid"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's compli",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "cated and stupid",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Em                   D",
-      "lyrics": "Got my ass squeezed by sexy cupid"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Got my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ass squeezed by sexy ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "cupid",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Bm",
-      "lyrics": "Guess he wants to play, wants to play"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Guess he ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "wants to play, wants to play",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em             D",
-      "lyrics": "a love game, a love game"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "a love game, a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "love game",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Pre-Chorus:"
     },
     {
-      "chord": "Bm",
-      "lyrics": "Hold me and love me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Hold me and love me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                     D    Bm",
-      "lyrics": "Just want touch you for a minute"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Just want touch you for",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " a mi",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "nute",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     Em",
-      "lyrics": "Maybe three seconds is enough"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Maybe three seconds i",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "s enough",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       D        Bm",
-      "lyrics": "For my heart to quit it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "For my ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "heart to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "quit it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Let's have some fun, this beat is sick"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Let's have some fun, this beat is sick",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  Em                           D",
-      "lyrics": "I wanna take a ride on your disco stick"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "wanna take a ride on your dis",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "co stick",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Bm",
-      "lyrics": "Don't think too much just bust that kick"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Don't ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "think too much just bust that kick",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  Em                           D",
-      "lyrics": "I wanna take a ride on your disco stick"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "wanna take a ride on your dis",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "co stick",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Chorus:"
     },
     {
-      "chord": "Bm",
-      "lyrics": "Let's play a love game, play a love game"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Let's play a love game, play a love game",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Em                           D              Bm",
-      "lyrics": "Do you want love, Or you want fame, are you in the game?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Do you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "want love, Or you want fame, ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "are you in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "game?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Em         D",
-      "lyrics": "      Dans the love game"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "      Dans t",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "he love gam",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm",
-      "lyrics": "Let's play a love game, play a love game"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Let's play a love game, play a love game",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Em                           D              Bm",
-      "lyrics": "Do you want love, Or you want fame, are you in the game?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Do you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "want love, Or you want fame, ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "are you in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "game?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Em         D",
-      "lyrics": "      Cans the love game"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "      Cans t",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "he love gam",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Bm",
-      "lyrics": "I'm on a mission"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm on a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "mission",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                D          Bm                  Em D",
-      "lyrics": "  And it involves some heavy touching, yeah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "  And it involves ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "some heavy ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "touching, yeah      ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "       Bm",
-      "lyrics": "You've indicated you're interest"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You've ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "indicated you're interest",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Em                D",
-      "lyrics": "I'm educated in sex, yes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm edu",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "cated in sex, yes ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "      Bm",
-      "lyrics": "Now I want it bad, want it bad"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Now I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "want it bad, want it bad",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em             D",
-      "lyrics": "a love game, a love game"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "a love game, a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "love game",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm            Em                  Bm",
-      "lyrics": "I can see you staring there from across the block"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "I can see you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "staring there from a",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "cross the block",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Em                                         D",
-      "lyrics": "With a smile on your mouth and your hand on your - huh! -"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "With a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "smile on your mouth and your hand on your -",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " huh! -",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm           Em            Bm",
-      "lyrics": "The story of us, it always starts the same"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "The story of ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "us, it always ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "starts the same",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Em                          D",
-      "lyrics": "With a boy and a girl and a - huh! - and a game"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "With a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "boy and a girl and a - huh! ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "- and a game",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm         Em D",
-      "lyrics": "  And a game,    and a game"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "  And a gam",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "e, ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "  and a game"
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "  And a game,   a love game"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  And a game,   a love game",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Love Game"

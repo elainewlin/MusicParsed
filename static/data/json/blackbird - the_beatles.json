@@ -19,158 +19,820 @@
   "id": "blackbird - the_beatles",
   "lines": [
     {
-      "chord": "",
-      "lyrics": "Arrangement by Cynthia Lin"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Arrangement by Cynthia Lin",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Picking pattern]"
     },
     {
-      "chord": "",
-      "lyrics": "1. (134) - 2"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "1. (134) - 2",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "2. (1234) - 3 2 - 4 3 2"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "2. (1234) - 3 2 - 4 3 2",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Intro]"
     },
     {
-      "chord": "C  Dm7  C/E  C",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "  "
+        },
+        {
+          "chord": "C/E",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "C         Dm7            C/E     C",
-      "lyrics": "Blackbird singing in the dead of night"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Blackbird ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "singing in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C/E",
+          "lyric": "dead of ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "night",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F          D7     G         E7       Am   Am/G#",
-      "lyrics": "Take these broken wings and learn to fly"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Take these ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "broken ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "wings and ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "learn to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "fly  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am/G#",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G   D7   F    Fm",
-      "lyrics": "All your life"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "All ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "your ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "life ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C             D7                 G7        C",
-      "lyrics": "You were only waiting for this moment to arise"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "You were only ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "waiting for this mo",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "ment to ar",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ise",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Instrumental]"
     },
     {
-      "chord": "F C D7   G7  C",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "D7",
+          "lyric": "   "
+        },
+        {
+          "chord": "G7",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "C         Dm7            C/E     C",
-      "lyrics": "Blackbird singing in the dead of night"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Blackbird ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "singing in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C/E",
+          "lyric": "dead of ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "night",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F          D7     G        E7       Am   Am/G#",
-      "lyrics": "Take these sunken eyes and learn to see"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Take these ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "sunken ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "eyes and ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "learn to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "see  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am/G#",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G   D7   F    Fm",
-      "lyrics": "All your life"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "All ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "your ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "life ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C             D7               G7            C",
-      "lyrics": "You were only waiting for this moment to be free"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "You were only ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "waiting for this ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "moment to be f",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ree",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Bb  F  Gm  F  Eb  F",
-      "lyrics": "Black-bird,   Fly"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "Blac",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "k-b",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ird,",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "  "
+        },
+        {
+          "chord": "Eb",
+          "lyric": "Fly ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Bb  F  Gm  F  Eb  D",
-      "lyrics": "Black-bird,   Fly"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "Blac",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "k-b",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ird,",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "  "
+        },
+        {
+          "chord": "Eb",
+          "lyric": "Fly ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "           G7                      C",
-      "lyrics": "Into the light of the dark black night"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Into the li",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "ght of the dark black ni",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ght",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Instrumental]"
     },
     {
-      "chord": "C  Dm7  C/E  C",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "  "
+        },
+        {
+          "chord": "C/E",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F  D7  G  E7  Am  Am/G#",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "  "
+        },
+        {
+          "chord": "D7",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "E7",
+          "lyric": "  "
+        },
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "Am/G#",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G  D7  F  Fm",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "D7",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": "  "
+        },
+        {
+          "chord": "Fm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C  D7  G7  C",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "D7",
+          "lyric": "  "
+        },
+        {
+          "chord": "G7",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Bb  F  Gm  F  Eb  F",
-      "lyrics": "Black-bird,   Fly"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "Blac",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "k-b",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ird,",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "  "
+        },
+        {
+          "chord": "Eb",
+          "lyric": "Fly ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Bb  F  Gm  F  Eb  D",
-      "lyrics": "Black-bird,   Fly"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "Blac",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "k-b",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ird,",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "  "
+        },
+        {
+          "chord": "Eb",
+          "lyric": "Fly ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "           G7                      C",
-      "lyrics": "Into the light of the dark black night"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Into the li",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "ght of the dark black ni",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ght",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Instrumental]"
     },
     {
-      "chord": "C  Dm7  C/E  C  C  C",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "  "
+        },
+        {
+          "chord": "C/E",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C  Dm7  C/E  F  C  D7  G7",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "  "
+        },
+        {
+          "chord": "C/E",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "D7",
+          "lyric": "  "
+        },
+        {
+          "chord": "G7",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "C         Dm7            C/E     C",
-      "lyrics": "Blackbird singing in the dead of night"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Blackbird ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "singing in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C/E",
+          "lyric": "dead of ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "night",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F          D7     G         E7       Am   Am/G#",
-      "lyrics": "Take these broken wings and learn to fly"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Take these ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "broken ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "wings and ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "learn to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "fly  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am/G#",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G   D7   F    Fm",
-      "lyrics": "All your life"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "All ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "your ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "life ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C             D7                 G7        C",
-      "lyrics": "You were only waiting for this moment to arise"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "You were only ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "waiting for this mo",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "ment to ar",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ise",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F        C    D7                 G7        C",
-      "lyrics": "You were only waiting for this moment to arise"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "You were ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "only ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "waiting for this mo",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "ment to ar",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ise",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F        C    D7                 G7        C",
-      "lyrics": "You were only waiting for this moment to arise"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "You were ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "only ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "waiting for this mo",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "ment to ar",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ise",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Blackbird"

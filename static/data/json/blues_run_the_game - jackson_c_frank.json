@@ -12,138 +12,672 @@
       "label": "Verse 1:"
     },
     {
-      "chord": "G               C              G        C",
-      "lyrics": "Catch a boat to England baby maybe to Spain"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Catch a boat to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "England baby ma",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ybe to Sp",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ain",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G        C             G             C",
-      "lyrics": "Wherever I have gone wherever I've been and gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Wherever ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I have gone wh",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "erever I've be",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "en and gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G        C",
-      "lyrics": "Wherever I have gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Wherever ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I have gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    D       C          G",
-      "lyrics": "The blues have run the game"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "blues ha",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ve run the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "game",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Verse 2:"
     },
     {
-      "chord": "G            C             G            C",
-      "lyrics": "Send out for whisky baby send out for gin"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Send out for ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "whisky baby se",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "nd out for gi",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "n",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G           C               G           C",
-      "lyrics": "Me and room service honey me and room service babe"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Me and room ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "service honey me",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " and room se",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "rvice babe",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G           C",
-      "lyrics": "Me and room service"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Me and room ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "service",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      D       C               G",
-      "lyrics": "Whoa we're living a life of sin"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Whoa w",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "e're liv",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ing a life of si",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "n",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Verse 3:"
     },
     {
-      "chord": "G            C               G             C",
-      "lyrics": "When I ain’t drinking baby you are on my mind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "When I ain’t ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "drinking baby yo",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "u are on my mi",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "nd",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G            C                G            C",
-      "lyrics": "When I ain’t sleeping honey when I ain't sleeping mama"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "When I ain’t ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "sleeping honey wh",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "en I ain't sl",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "eeping mama",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G            C",
-      "lyrics": "When I ain’t sleeping"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "When I ain’t ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "sleeping",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          D           C        G",
-      "lyrics": "Well you know you'll find me crying"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Well you k",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "now you'll f",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ind me cr",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ying",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Verse 4:"
     },
     {
-      "chord": "G               C              G        C",
-      "lyrics": "Catch a boat to England baby maybe to Spain"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Catch a boat to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "England baby ma",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ybe to Sp",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ain",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G        C             G             C",
-      "lyrics": "Wherever I have gone wherever I've been and gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Wherever ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I have gone wh",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "erever I've be",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "en and gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G        C",
-      "lyrics": "Wherever I have gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Wherever ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I have gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    D      C          G",
-      "lyrics": "The blues have run the game"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "blues h",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ave run the",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " game",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Verse 5:"
     },
     {
-      "chord": "G           C             G                 C",
-      "lyrics": "Living is a gamble baby loving's much the same"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Living is a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "gamble baby lo",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ving's much the sa",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G        C               G          C",
-      "lyrics": "Wherever I have played wherever I throw those dice"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Wherever ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I have played wh",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "erever I th",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "row those dice",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G        C",
-      "lyrics": "Wherever I have played"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Wherever ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I have played",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    D      C               G",
-      "lyrics": "The blues have run the game"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "blues h",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ave run the game",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "Verse 6:"
     },
     {
-      "chord": "G     C               G                        C",
-      "lyrics": "Maybe when I’m older baby someplace down the line"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Maybe ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "when I’m older b",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "aby someplace down the li",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ne",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G            C          G       C",
-      "lyrics": "I'll wake up older---- so much older mama"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I'll wake up ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "older---- s",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "o much o",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "lder mama",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G       C",
-      "lyrics": "Wake up older"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Wake up ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "older",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          D        C        G",
-      "lyrics": "And I'll just stop all my trying"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I'll j",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ust stop ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "all my tr",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ying",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G   C      G   C",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "   "
+        },
+        {
+          "chord": "C",
+          "lyric": "      "
+        },
+        {
+          "chord": "G",
+          "lyric": "   "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "Verse 1:"
     },
     {
-      "chord": "G               C               G        C",
-      "lyrics": "Catch a boat to England baby maybe to Spain"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Catch a boat to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "England baby may",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "be to Spa",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "in",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G        C             G             C",
-      "lyrics": "Wherever I have gone wherever I've been and gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Wherever ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I have gone wh",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "erever I've be",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "en and gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G        C",
-      "lyrics": "Wherever I have gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Wherever ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I have gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    D      C           G",
-      "lyrics": "The blues are all the same"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "blues a",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "re all the s",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ame",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Blues Run the Game"

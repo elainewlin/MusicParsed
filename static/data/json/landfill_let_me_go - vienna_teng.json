@@ -13,132 +13,564 @@
   "id": "landfill_let_me_go - vienna_teng",
   "lines": [
     {
-      "chord": "F#m                 D",
-      "lyrics": "Call out what we’ve become"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": "Call out what we’ve ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "become",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    F#m                Bm",
-      "lyrics": "The news has turned to numb"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "news has turned to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "numb",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Em",
-      "lyrics": "Locked in nearsight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Locked in ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "nearsight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Em7",
-      "lyrics": "On the latest device"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "On the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": "latest device",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G              A",
-      "lyrics": "Let the yet-to-be pick up the tab"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Let the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "yet-to-be pick ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "up the tab",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Em",
-      "lyrics": "Say we can’t escape"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Say we ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "can’t escape",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               Em7",
-      "lyrics": "Though there’s plenty of space"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Though there’s ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": "plenty of space",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G                     A",
-      "lyrics": "Barring holding on to what we used to have"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Barring ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "holding on to what we ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "used to have",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "In your head, where we’re headed"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "In your head, where we’re headed",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          D             A",
-      "lyrics": "You gotta let it on by, let me go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You gotta ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "let it on by, ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "let me go",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           G",
-      "lyrics": "And get it in your head, where we’re headed"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And get it ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "in your head, where we’re headed",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          D               A",
-      "lyrics": "You gotta let it all die, let me go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You gotta ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "let it all die, ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "let me go",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Bm   G  F#m   A   Bm       D",
-      "lyrics": "'Cause this is torturous electricity"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Cause ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "this ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "is ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "tortur",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ous ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "electrici",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ty",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G       A      Bm   G",
-      "lyrics": "Between both of us and this is"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Between ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "both of ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "us and ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "this ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "is",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D     A                 Bm     D",
-      "lyrics": "Dangerous 'cause I want you so much"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Danger",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ous 'cause I want ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "you so ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "much",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      G         A",
-      "lyrics": "But I hate your guts, I hate you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "hate your ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "guts, I hate you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm                 D",
-      "lyrics": "So leave me in the cold"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "So leave me in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "cold",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G              A",
-      "lyrics": "Wait until the snow covers me up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Wait until the ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "snow covers me up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm          D",
-      "lyrics": "So I cannot move"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "So I cannot ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "move",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G             A",
-      "lyrics": "So I'm just embedded in the frost"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "So I'm just em",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "bedded in the frost",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm                   D",
-      "lyrics": "Then leave me in the rain"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Then leave me in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "rain",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G             A",
-      "lyrics": "Wait until my clothes cling to my frame"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Wait until my ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "clothes cling to my frame",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm             D",
-      "lyrics": "Wipe away your tear stains"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Wipe away your ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "tear stains",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                                A",
-      "lyrics": "Thought you said you didn't feel pain"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Thought you said you didn't feel ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "pain",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "In your head, where we’re headed"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "In your head, where we’re headed",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          D             A",
-      "lyrics": "You gotta let it on by, let me go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You gotta ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "let it on by, ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "let me go",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           G",
-      "lyrics": "And get it in your head, where we’re headed"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And get it ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "in your head, where we’re headed",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          D               A",
-      "lyrics": "You gotta let it all die, let me go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You gotta ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "let it all die, ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "let me go",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm",
-      "lyrics": "Gone, it’s gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Gone, it’s gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     G             A",
-      "lyrics": "Gave in again, now let me go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Gave ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "in again, now ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "let me go",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm",
-      "lyrics": "Gone, it’s gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Gone, it’s gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     G             A",
-      "lyrics": "Gave in again, now let me go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Gave ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "in again, now ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "let me go",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Landfill Let Me Go"

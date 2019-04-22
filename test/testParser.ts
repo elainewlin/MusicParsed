@@ -117,11 +117,99 @@ describe("renderChordLyricLine", () => {
     };
     assert.deepEqual(result, expected);
   });
-});
 
-describe("renderLines", () => {
-  it("should handle empty array", () => {
-    const result = parser.renderLines([]);
-    assert.deepEqual(result, []);
+  it("should handle lyrics before chords", () => {
+    const result = parser.renderChordLyricLine("                 C", "Lyrics!");
+    const expected = {
+      className: "chordLyricLine",
+      chordLyricPairs: [
+        {
+          chord: null,
+          lyric: "Lyrics!          ",
+          overLyric: true as true,
+        },
+        { chord: "C", lyric: "" },
+      ],
+    };
+    assert.deepEqual(result, expected);
+  });
+
+  it("should handle chords before lyrics", () => {
+    const result = parser.renderChordLyricLine("C", "    The song starts now!");
+    const expected = {
+      className: "chordLyricLine",
+      chordLyricPairs: [
+        {
+          chord: "C",
+          lyric: "   The song starts now!",
+        },
+      ],
+    };
+    assert.deepEqual(result, expected);
+  });
+
+  it("should handle multiple chords and lyrics", () => {
+    const result = parser.renderChordLyricLine(
+      "C                  Am",
+      "Some say I have no direction,"
+    );
+    const expected = {
+      className: "chordLyricLine",
+      chordLyricPairs: [
+        {
+          chord: "C",
+          lyric: "Some say I have no ",
+          overLyric: true as true,
+        },
+        {
+          chord: "Am",
+          lyric: "direction,",
+          overLyric: true as true,
+        },
+      ],
+    };
+    assert.deepEqual(result, expected);
+  });
+
+  it("should handle only chord line", () => {
+    const result = parser.renderChordLyricLine("Em C G D", "");
+    const expected = {
+      className: "line",
+      chordLyricPairs: [
+        {
+          chord: "Em",
+          lyric: " ",
+        },
+        {
+          chord: "C",
+          lyric: " ",
+        },
+        {
+          chord: "G",
+          lyric: " ",
+        },
+        {
+          chord: "D",
+          lyric: "",
+        },
+      ],
+    };
+    assert.deepEqual(result, expected);
+  });
+
+  it("should handle only lyric line", () => {
+    const result = parser.renderChordLyricLine("", "I love the way you lie");
+
+    const expected = {
+      className: "line",
+      chordLyricPairs: [
+        {
+          chord: null,
+          lyric: "I love the way you lie",
+          overLyric: true as true,
+        },
+      ],
+    };
+    assert.deepEqual(result, expected);
   });
 });

@@ -15,229 +15,764 @@
       "label": "[Intro]"
     },
     {
-      "chord": "Am  Em  G  C",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "Em",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "   Am                             Em",
-      "lyrics": "We said goodbye, that's what you told me once"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "said goodbye, that's what you t",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "old me once",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         G                   C",
-      "lyrics": "So many times we've made our peace"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So many t",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "imes we've made our ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "peace",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am                       Em",
-      "lyrics": "But this is love, I'll never give you up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "this is love, I'll never ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "give you up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             G                    C",
-      "lyrics": "I know your love has come home to me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I know your l",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ove has come home to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "Am             Em",
-      "lyrics": "Like a river, always running"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Like a river, a",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "lways running",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G               C",
-      "lyrics": "I keep losing you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I keep losing yo",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "u",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am            Em",
-      "lyrics": "Like a fire, always burning"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Like a fire, a",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "lways burning",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                  C",
-      "lyrics": "I'll be here for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I'll be here for yo",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "u",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "D               Em",
-      "lyrics": "If you're ready, heart is open"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "If you're ready,",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " heart is open",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "I'll be waiting, come find me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I'll be waiting, come find me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                Em",
-      "lyrics": "If you're searching for forever"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "If you're searchi",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ng for forever",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "I'll be waiting, come find me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I'll be waiting, come find me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D         Em",
-      "lyrics": "I see you, here in the darkness"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "I see you,",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " here in the darkness",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "Blinding light right where your heart is"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Blinding light right where your heart is",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D               Em",
-      "lyrics": "If you're ready, heart is open"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "If you're ready,",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " heart is open",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "I'll be waiting, come find me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I'll be waiting, come find me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D  Em  C",
-      "lyrics": "Come find me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Com",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "e fi",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "nd me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D  Em  C",
-      "lyrics": "Come find me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Com",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "e fi",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "nd me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D         Em",
-      "lyrics": "I see you, here in the darkness"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "I see you,",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " here in the darkness",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "Blinding light right where your heart is"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Blinding light right where your heart is",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D               Em",
-      "lyrics": "If you're ready, heart is open"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "If you're ready,",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " heart is open",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "I'll be waiting, come find me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I'll be waiting, come find me",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "      Am                            Em",
-      "lyrics": "We've lost our way, that's what you told me once"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We've ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "lost our way, that's what you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "told me once",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      G                  C",
-      "lyrics": "But tears they come and go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But te",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ars they come and g",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "o",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                     Em",
-      "lyrics": "This is us, I'll never get enough"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "This is us, I'll never ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "get enough",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                G         C",
-      "lyrics": "It's taking losing you to know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's taking losi",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ng you to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "know",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "D               Em",
-      "lyrics": "If you're ready, heart is open"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "If you're ready,",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " heart is open",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "I'll be waiting, come find me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I'll be waiting, come find me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                Em",
-      "lyrics": "If you're searching for forever"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "If you're searchi",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ng for forever",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "I'll be waiting, come find me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I'll be waiting, come find me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D         Em",
-      "lyrics": "I see you, here in the darkness"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "I see you,",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " here in the darkness",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "Blinding light right where your heart is"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Blinding light right where your heart is",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D               Em",
-      "lyrics": "If you're ready, heart is open"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "If you're ready,",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " heart is open",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "I'll be waiting, come find me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I'll be waiting, come find me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D  Em  C",
-      "lyrics": "Come find me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Com",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "e fi",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "nd me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D  Em  C",
-      "lyrics": "Come find me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Com",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "e fi",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "nd me",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "D       Em",
-      "lyrics": "Run"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Run     ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "Run to me and never leave me now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Run to me and never leave me now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D       Em",
-      "lyrics": "Run"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Run     ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "Run to me and never leave me now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Run to me and never leave me now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D         Em",
-      "lyrics": "I see you, here in the darkness"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "I see you,",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " here in the darkness",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "Blinding light right where your heart is"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Blinding light right where your heart is",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D               Em",
-      "lyrics": "If you're ready, heart is open"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "If you're ready,",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " heart is open",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "I'll be waiting, come find me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I'll be waiting, come find me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D  Em  C",
-      "lyrics": "Come find me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Com",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "e fi",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "nd me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D",
-      "lyrics": "If you're ready (if you're ready)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "If you're ready (if you're ready)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em",
-      "lyrics": "Heart is open (heart is open)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Heart is open (heart is open)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "I'll be waiting, come find me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I'll be waiting, come find me",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Outro]"
     },
     {
-      "chord": "D               Em",
-      "lyrics": "If you're ready, heart is open"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "If you're ready,",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " heart is open",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "I'll be waiting, come find me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I'll be waiting, come find me",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Find Me"

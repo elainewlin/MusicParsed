@@ -12,188 +12,743 @@
       "label": "[Verse]"
     },
     {
-      "chord": "             Ab",
-      "lyrics": "When we were young, we used to live so close to it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When we were ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "young, we used to live so close to it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               Bb                 Cm       Bb",
-      "lyrics": "And you were scared and you were beautiful"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And you were sc",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ared and you were b",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "eautiful ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "           Ab",
-      "lyrics": "I want to peer over the edge and see in death"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I want to p",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "eer over the edge and see in death",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Bb           Cm Bb",
-      "lyrics": "If we are always the same"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "If we are a",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "lways the sam",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "e  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "      Ab              Bb          Cm                 Bb",
-      "lyrics": "Oh, I fear that no love will ever be like this again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh, I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "fear that no lov",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "e will ever ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "be like this again ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "          Ab                       Bb         Cm  Bb",
-      "lyrics": "Cuz your love kept me alive and it made me insane"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cuz your l",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "ove kept me alive and it ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "made me ins",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "ane ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "            Ab",
-      "lyrics": "There were moments when it seemed okay"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "There were m",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "oments when it seemed okay",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Bb",
-      "lyrics": "(But I go back alone)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(But I go ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "back alone)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Cm",
-      "lyrics": "Where do you go? Where do you stay?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Where do you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "go? Where do you stay?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Bb",
-      "lyrics": "(I go back alone)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(I go ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "back alone)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Ab",
-      "lyrics": "There was a time when the music would play"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "There was a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "time when the music would play",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Bb   Cm",
-      "lyrics": "Oh-oh-oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh-",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "oh-oh",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "    Bb          Ab                          Bb",
-      "lyrics": "Oh, baby, every morning there are mountains to climb"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "baby, every ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "morning there are mountains ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "to climb",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Cm",
-      "lyrics": "Taking all my time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cm",
+          "lyric": "Taking all my time",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Bb    Ab",
-      "lyrics": "Oh, when I get up, this is what I see"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh, w",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "hen I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "get up, this is what I see",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Bb     Cm",
-      "lyrics": "Welcome to reality"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Welcome to r",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "eality ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "             Ab",
-      "lyrics": "When we were young, we used to live so close to it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When we were ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "young, we used to live so close to it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               Bb                 Cm       Bb",
-      "lyrics": "And you were scared and you were beautiful"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And you were sc",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ared and you were b",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "eautiful ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "           Ab",
-      "lyrics": "I want to peer over the edge and see in death"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I want to p",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "eer over the edge and see in death",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Bb           Cm Bb",
-      "lyrics": "If we are always the same"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "If we are a",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "lways the sam",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "e  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "            Ab",
-      "lyrics": "There were moments when it seemed okay"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "There were m",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "oments when it seemed okay",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Bb",
-      "lyrics": "(But I go back alone)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(But I go ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "back alone)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Cm",
-      "lyrics": "Where do you go? Where do you stay?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Where do you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "go? Where do you stay?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Bb",
-      "lyrics": "(I go back alone)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(I go ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "back alone)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Ab",
-      "lyrics": "There was a time when the music would play"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "There was a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "time when the music would play",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Bb   Cm",
-      "lyrics": "Oh-oh-oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh-",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "oh-oh",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "                Ab                          Bb",
-      "lyrics": "Oh, baby, every morning there are mountains to climb"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh, baby, every ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "morning there are mountains ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "to climb",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Cm",
-      "lyrics": "Taking all my time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cm",
+          "lyric": "Taking all my time",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Bb    Ab",
-      "lyrics": "Oh, when I get up, this is what I see"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh, w",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "hen I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "get up, this is what I see",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Bb",
-      "lyrics": "Welcome to reality"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Welcome to r",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "eality",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Cm",
-      "lyrics": "Oh-oh-oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cm",
+          "lyric": "Oh-oh-oh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Ab                          Bb",
-      "lyrics": "Oh, baby, every morning there are mountains to climb"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh, baby, every ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "morning there are mountains ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "to climb",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Cm",
-      "lyrics": "Taking all my time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cm",
+          "lyric": "Taking all my time",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Bb    Ab",
-      "lyrics": "Oh, when I get up, this is what I see"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh, w",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "hen I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "get up, this is what I see",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Bb",
-      "lyrics": "Welcome to reality"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Welcome to r",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "eality",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Cm",
-      "lyrics": "Oh-oh-oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cm",
+          "lyric": "Oh-oh-oh",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Outro]"
     },
     {
-      "chord": "                Ab",
-      "lyrics": "Oh, baby, every"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh, baby, every ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "(Give me a sign)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(Give me a sign)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Bb          Cm",
-      "lyrics": "Oh, baby, every"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "baby, every ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    Bb          Ab",
-      "lyrics": "Oh, baby, every"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "baby, every ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "(Give me a sign)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(Give me a sign)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Bb",
-      "lyrics": "Oh, baby, every"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "baby, every",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Cm      Bb",
-      "lyrics": "Oh-oh-oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cm",
+          "lyric": "Oh-oh-oh",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "Realiti"

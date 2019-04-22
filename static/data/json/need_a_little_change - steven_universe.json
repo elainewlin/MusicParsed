@@ -15,104 +15,504 @@
   "id": "need_a_little_change - steven_universe",
   "lines": [
     {
-      "chord": "C                           Am",
-      "lyrics": "You, Look at everything you are"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "You, Look at everything you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "are",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                       Em",
-      "lyrics": "Look at everything you do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Look at everything you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "do",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                      F",
-      "lyrics": "It's incredible, as incredible as you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's incredible, as in",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "credible as you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C                          Am",
-      "lyrics": "And me, I guess I'm content to be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "me, I guess I'm content to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "be",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                      Em           F",
-      "lyrics": "On the arm of someone who, is as incredible as you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "On the arm of someone ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "who, is as in",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "credible as you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Dm              G",
-      "lyrics": "And it's a full-time job admiring"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And it's a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "full-time job ad",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "miring",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        C         Em       Am",
-      "lyrics": "All the ways that you're inspiring"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "All the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ways that ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "you're in",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "spiring",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Dm",
-      "lyrics": "If I had my way, I'd do it all day"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "If I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "had my way, I'd do it all day",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                G",
-      "lyrics": "That's why it's really really hard to say"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That's why it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "really really hard to say",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                        C     Cmaj7  Am",
-      "lyrics": "I think I need a little chaaa-aaaaaa-ange"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I think I need a little ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "chaaa-",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "aaaaaa-",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ange",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                        C     Cmaj7  Am",
-      "lyrics": "I think I need a little chaaa-aaaaaa-ange"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I think I need a little ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "chaaa-",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "aaaaaa-",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ange",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                        C     Cmaj7  Am  Em  F   G   C",
-      "lyrics": "I think I need a little Chaaa-aaaaaa-aaa-aaa-aaa-aaa-ange"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I think I need a little ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "Chaaa-",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "aaaaaa-",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "aaa-",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "aaa-",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "aaa-",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "aaa-",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ange",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E7",
-      "lyrics": "Oh, I always did believe"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E7",
+          "lyric": "Oh, I always did believe",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     Am",
-      "lyrics": "That love is all you need"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That love is all you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "need",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "To be a happy man"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To be a happy man",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E7",
-      "lyrics": "Oh, That may have been naive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E7",
+          "lyric": "Oh, That may have been naive",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  Am",
-      "lyrics": "I guess I need to eat"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I guess I need to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "eat",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   F",
-      "lyrics": "That wasn't in the plan"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That wasn't in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "plan",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Dm7             G",
-      "lyrics": "And it's a full-time job admiring"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And it's a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "full-time job ad",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "miring",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        C         Em       Am",
-      "lyrics": "All the ways that you're inspiring"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "All the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ways that ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "you're in",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "spiring",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Dm",
-      "lyrics": "If I had my way, I'd do it all day"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "If I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "had my way, I'd do it all day",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         G",
-      "lyrics": "The only problem is it doesn't pay"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The only ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "problem is it doesn't pay",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                        C     Cmaj7  Am",
-      "lyrics": "I think I need a little chaaa-aaaaaa-ange"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I think I need a little ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "chaaa-",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "aaaaaa-",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ange",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                        C     Cmaj7  Am",
-      "lyrics": "I think I need a little chaaa-aaaaaa-ange"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I think I need a little ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "chaaa-",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "aaaaaa-",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ange",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                        C     Cmaj7  Am  Em  F   G   C",
-      "lyrics": "I think I need a little Chaaa-aaaaaa-aaa-aaa-aaa-aaa-ange"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I think I need a little ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "Chaaa-",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "aaaaaa-",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "aaa-",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "aaa-",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "aaa-",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "aaa-",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ange",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Need a Little Change"

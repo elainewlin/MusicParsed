@@ -12,98 +12,340 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "      Gm           Eb                     Bb",
-      "lyrics": "This town, used to be a pretty place to stay,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "This t",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "own, used to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "be a pretty place to st",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ay,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               Eb                    Gm",
-      "lyrics": "A place you'd stop off from the highway,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A place you'd s",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "top off from the highw",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ay,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    Eb",
-      "lyrics": "But all of those things,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But all of those thi",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "ngs,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Bb                       Eb",
-      "lyrics": "Changed on the day, you packed up your bags and you ran away,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Changed on the d",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ay, you packed up your ba",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "gs and you ran away,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm                Eb",
-      "lyrics": "ALl they say, is how you've changed,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "ALl they say, is h",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "ow you've changed,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb             Eb                Gm                               Eb",
-      "lyrics": "everyday, I stay the same, so you can keep the necklace That I gave to you,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "everyday, I sta",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "y the same, so you",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": " can keep the necklace That I gav",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "e to you,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb                      Eb",
-      "lyrics": "I'll keep the shitty tattoos,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "I'll keep the shitty tat",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "toos,",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Gm                                    Eb",
-      "lyrics": "I can see it from the other side the grass is in a way as green,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "I can see it from the other side the g",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "rass is in a way as green,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Bb",
-      "lyrics": "and the house is burned to ashes,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and th",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "e house is burned to ashes,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " Eb",
-      "lyrics": "I'm no longer in between,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "'m no longer in between,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm      Bb     Eb        Bb",
-      "lyrics": "R.I.P, R.I.P,you, and, me."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "R.I.P, R",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": ".I.P,yo",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "u, and, me",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": ".",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm      Bb     Eb        Bb",
-      "lyrics": "R.I.P, R.I.P,you, and, me."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "R.I.P, R",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": ".I.P,yo",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "u, and, me",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": ".",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Same pattern the whole song"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Same pattern the whole song",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "",
-      "lyrics": " I count, the empty bottles upon the bar,"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " I count, the empty bottles upon the bar,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "but I give up I can't count that far,"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "but I give up I can't count that far,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "and the lights in this place,"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and the lights in this place,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "are to dim to see,"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "are to dim to see,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "they're kicking me out, it's quarter past 3,"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "they're kicking me out, it's quarter past 3,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "they tell me, you're all I got,"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "they tell me, you're all I got,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I just need these dreams to stop,"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I just need these dreams to stop,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "You can keep the necklace I gave to you,"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You can keep the necklace I gave to you,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I'll keep the shitty tattoos."
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll keep the shitty tattoos.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
@@ -112,36 +354,84 @@
       "label": "[Verse 3]"
     },
     {
-      "chord": "",
-      "lyrics": " In the back of the car,"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " In the back of the car,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "On the way to your home,"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "On the way to your home,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "In the pouring rain,"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "In the pouring rain,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "On the side of the road,"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "On the side of the road,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "In the light of the street,"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "In the light of the street,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "On the recline of the seat,"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "On the recline of the seat,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "You told me I should move on"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You told me I should move on",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "You told me I should move on"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You told me I should move on",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "R.I.P."
