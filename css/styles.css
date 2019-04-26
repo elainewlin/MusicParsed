@@ -1,5 +1,23 @@
 :root {
   --main-blue: #337ab7;
+  --theme-text: black;
+  --theme-background: white;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --theme-text: white;
+    --theme-background: black;
+  }
+  img,
+  svg {
+    filter: invert(100%);
+  }
+}
+
+html body {
+  background: var(--theme-background);
+  color: var(--theme-text);
 }
 
 @media print {
@@ -100,7 +118,7 @@ html#songPage body {
 #chordPicBox {
   position: relative;
   padding: 20px;
-  background-color: white;
+  background-color: var(--theme-background);
   border: none;
 }
 
@@ -108,7 +126,7 @@ html#songPage body {
   position: fixed;
   top: 0;
   right: 0;
-  background-color: white;
+  background-color: var(--theme-background);
   border: 1px solid var(--main-blue);
   border-top: 0;
   border-right: 0;
