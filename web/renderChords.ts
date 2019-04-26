@@ -3,6 +3,7 @@ import { loadInstrumentButtons, loadOrientationButtons } from "./controller";
 import { renderChords, songView } from "./songView";
 import "bootstrap/dist/css/bootstrap.css";
 import "../css/styles.css";
+import "../css/global.css";
 
 $(document).ready(() => {
   songView.setInstrument("ukulele");

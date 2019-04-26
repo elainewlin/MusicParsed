@@ -3,6 +3,40 @@ Note: always import bootstrap first, or else it'll overwrite styles
 */
 @import "~bootstrap/dist/css/bootstrap.css";
 
+:root {
+  --main-blue: #337ab7;
+  --theme-text: black;
+  --theme-background: white;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --main-blue: #a2c6e5;
+    --theme-text: white;
+    --theme-background: black;
+  }
+
+  img,
+  svg {
+    filter: invert(100%);
+  }
+}
+
+a {
+  color: var(--main-blue);
+}
+
+a:hover {
+  font-weight: 500;
+  text-decoration: none;
+  color: var(--main-blue);
+}
+
+html body {
+  background: var(--theme-background);
+  color: var(--theme-text);
+}
+
 .highlight {
   background-color: #c1d7e9;
 }
@@ -34,11 +68,6 @@ pre {
   text-align: center;
   min-width: 90px;
   padding-left: 4px;
-}
-
-.navbar-link:hover {
-  text-decoration: none;
-  font-weight: 500;
 }
 
 .random {

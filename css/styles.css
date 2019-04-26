@@ -1,25 +1,3 @@
-:root {
-  --main-blue: #337ab7;
-  --theme-text: black;
-  --theme-background: white;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --theme-text: white;
-    --theme-background: black;
-  }
-  img,
-  svg {
-    filter: invert(100%);
-  }
-}
-
-html body {
-  background: var(--theme-background);
-  color: var(--theme-text);
-}
-
 @media print {
   .ui-widget {
     display: none;
