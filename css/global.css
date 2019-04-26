@@ -79,6 +79,10 @@ pre {
   cursor: pointer;
 }
 
+.input-group-text {
+  background-color: #999;
+}
+
 /* Navbar social icons */
 
 .social-section {
