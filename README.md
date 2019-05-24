@@ -10,8 +10,6 @@ Useful commands:
     yarn watch
 
     pre-commit run -a
-    pre-commit run flake8 -a
-    pre-commit run black -a
     pre-commit run eslint -a
     pre-commit run eslint:ts -a
     pre-commit run typescript -a
@@ -19,7 +17,7 @@ Useful commands:
 
     tsc
     eslint . --ext ts,js --fix
-    node -r babel-register-ts ts/parser-cli.ts
+    node -r babel-register-ts scripts/parser-cli.ts
 
 Template documentation
 
