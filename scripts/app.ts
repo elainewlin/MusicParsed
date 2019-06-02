@@ -1,12 +1,12 @@
-/* eslint @typescript-eslint/no-var-requires: "off", no-console: "off" */
+/* eslint no-console: "off" */
 
-const express = require("express");
-const fs = require("fs");
-const nunjucks = require("nunjucks");
-const path = require("path");
+import express from "express";
+import fs from "fs";
+import nunjucks from "nunjucks";
+import path from "path";
 
 const host = process.env.PORT ? undefined : "127.0.0.1";
-const port = process.env.PORT || 5000;
+const port = +(process.env.PORT || 5000);
 
 const app = express();
 
@@ -29,8 +29,10 @@ app.use((req, res, next) => {
       reloadManifest = true;
     });
   }
-  if (env.getGlobal("manifest") === null) {
-    const manifest = JSON.parse(fs.readFileSync(manifestPath));
+  if ((env as any).getGlobal("manifest") === null) {
+    const manifest = JSON.parse(
+      fs.readFileSync(manifestPath, { encoding: "utf-8" })
+    );
     env.addGlobal("manifest", manifest);
   }
   next();
@@ -63,7 +65,13 @@ app.get("/song/:artist/:title", (req, res) =>
   })
 );
 
-// Start server
-app.listen(port, host, () => {
+const callback = () => {
   console.log(`Listening on port ${port}`);
-});
+};
+
+// Start server
+if (host === undefined) {
+  app.listen(port, callback);
+} else {
+  app.listen(port, host, callback);
+}
