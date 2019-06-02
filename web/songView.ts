@@ -283,14 +283,15 @@ export const songSearch = function(
     url: "/static/data/ALL_SONGS.json",
     dataType: "json",
     success: function(data) {
-      $(".random").click(() => {
+      $("#random").click(event => {
+        event.preventDefault();
         const randomSong = data[getRandomIndex(data.length)];
         songLoadFunction(randomSong);
       });
     },
   });
 
-  $(".random").tooltip();
+  $("#random").tooltip();
 };
 
 export const initRender = function(): void {

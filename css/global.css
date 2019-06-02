@@ -71,15 +71,6 @@ pre {
   padding-left: 4px;
 }
 
-.random {
-  color: var(--theme-text);
-}
-
-.random:hover {
-  opacity: 0.5;
-  cursor: pointer;
-}
-
 .input-group-text {
   background-color: #999;
 }
