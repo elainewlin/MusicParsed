@@ -2,6 +2,7 @@
 Note: always import bootstrap first, or else it'll overwrite styles
 */
 @import "~bootstrap/dist/css/bootstrap.css";
+@import "~@fortawesome/fontawesome-free/css/all.css";
 
 :root {
   --main-blue: #337ab7;
@@ -90,7 +91,10 @@ pre {
 }
 
 .social-image {
-  padding: 0 2px;
+  padding: 0 4px;
+  vertical-align: middle;
+  color: var(--theme-text);
+  font-size: 28px;
 }
 
 .social-image:hover {
