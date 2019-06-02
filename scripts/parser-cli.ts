@@ -84,11 +84,9 @@ const allSongs = fs
     return {
       artist: songData.artist,
       id,
-      label: songData.fullName,
       tags,
       title: songData.title,
       url: `/song/${slugify(songData.artist!)}/${slugify(songData.title!)}`,
-      value: songData.fullName,
     };
   });
 

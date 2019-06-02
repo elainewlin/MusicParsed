@@ -258,17 +258,15 @@ export const songSearch = function(
       $.ajax({
         url: "/static/data/ALL_SONGS.json",
         dataType: "json",
-        data: {
-          term: request.term,
-        },
         success: function(data: Song[]) {
-          const re = $.ui.autocomplete.escapeRegex(request.term);
-          const matcher = new RegExp(re, "i");
-          const matches = $.grep(
-            data,
-            (item: Song) => matcher.test(item["value"]) // searching by song ID
-          );
-          response(matches);
+          for (const song of data) {
+            const songId = song.artist + " - " + song.title;
+            song.label = songId;
+            song.value = songId;
+          }
+
+          data = $.ui.autocomplete.filter(data, request.term);
+          response(data);
         },
       });
     },
