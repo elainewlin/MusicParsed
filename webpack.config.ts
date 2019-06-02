@@ -12,7 +12,7 @@ const config: webpack.Configuration = {
     index: "./web/index.ts",
     renderChords: "./web/renderChords.ts",
     showAllSongs: "./web/showAllSongs.ts",
-    global: "./css/global.css",
+    global: "./web/global.ts",
   },
   output: {
     filename: "[name].[contenthash].bundle.js",
