@@ -37,6 +37,32 @@ for (const [tag, ids] of tags) {
   }
 }
 
+let songId = 0;
+
+const songsData = fs
+  .readdirSync(textDir)
+  .sort()
+  .map(filename => /^(.*) - (.*)\.txt$/.exec(filename))
+  .filter(m => m)
+  .map(m => {
+    const [filename, title, artist] = m!;
+
+    const songText = fs.readFileSync(path.resolve(textDir, filename), {
+      encoding: "utf-8",
+    });
+    const songData = parseLines({ title, artist, songText });
+
+    const id = songData.id!;
+    const tags = songTags.has(id) ? songTags.get(id) : [];
+
+    return {
+      ...songData,
+      _id: ++songId,
+      tags,
+      url: `/song/${slugify(songData.artist!)}/${slugify(songData.title!)}`,
+    };
+  });
+
 (async () => {
   console.log("Connecting to MongoDB");
   const mongoClient = await MongoClient.connect(mongoUri, {
@@ -48,37 +74,9 @@ for (const [tag, ids] of tags) {
     console.log("Dropping database");
     await db.dropDatabase();
 
-    let songId = 0;
-
     console.log("Populating songs");
     await db.createCollection("songs");
-    await db.collection("songs").insertMany(
-      fs
-        .readdirSync(textDir)
-        .sort()
-        .map(filename => /^(.*) - (.*)\.txt$/.exec(filename))
-        .filter(m => m)
-        .map(m => {
-          const [filename, title, artist] = m!;
-
-          const songText = fs.readFileSync(path.resolve(textDir, filename), {
-            encoding: "utf-8",
-          });
-          const songData = parseLines({ title, artist, songText });
-
-          const id = songData.id!;
-          const tags = songTags.has(id) ? songTags.get(id) : [];
-
-          return {
-            ...songData,
-            _id: ++songId,
-            tags,
-            url: `/song/${slugify(songData.artist!)}/${slugify(
-              songData.title!
-            )}`,
-          };
-        })
-    );
+    await db.collection("songs").insertMany(songsData);
 
     console.log("Populating counters");
     await db.createCollection("counters");
