@@ -16,8 +16,6 @@ const mongoDbName = process.env.MONGO_DB_NAME;
 if (!mongoUri) throw new Error("Missing MONGO_URI");
 if (!mongoDbName) throw new Error("Missing MONGO_DB_NAME");
 
-const mongoClient = new MongoClient(mongoUri, { useNewUrlParser: true });
-
 const tags = fs
   .readdirSync(tagsDir)
   .map(filename => /^(.*)\.txt$/.exec(filename))
@@ -40,10 +38,14 @@ for (const [tag, ids] of tags) {
 }
 
 (async () => {
+  console.log("Connecting to MongoDB");
+  const mongoClient = await MongoClient.connect(mongoUri, {
+    useNewUrlParser: true,
+  });
   try {
-    console.log("Connecting to MongoDB");
-    await mongoClient.connect();
     const db = mongoClient.db(mongoDbName);
+
+    console.log("Dropping database");
     await db.dropDatabase();
 
     let songId = 0;
@@ -83,6 +85,6 @@ for (const [tag, ids] of tags) {
     await db.collection("counters").insertOne({ _id: "songId", seq: songId });
   } finally {
     console.log("Closing connection");
-    mongoClient.close();
+    await mongoClient.close();
   }
 })();
