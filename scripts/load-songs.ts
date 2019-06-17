@@ -16,8 +16,6 @@ const mongoDbName = process.env.MONGO_DB_NAME;
 if (!mongoUri) throw new Error("Missing MONGO_URI");
 if (!mongoDbName) throw new Error("Missing MONGO_DB_NAME");
 
-const mongoClient = new MongoClient(mongoUri, { useNewUrlParser: true });
-
 const tags = fs
   .readdirSync(tagsDir)
   .map(filename => /^(.*)\.txt$/.exec(filename))
@@ -39,50 +37,52 @@ for (const [tag, ids] of tags) {
   }
 }
 
-(async () => {
-  try {
-    console.log("Connecting to MongoDB");
-    await mongoClient.connect();
-    const db = mongoClient.db(mongoDbName);
-    await db.dropDatabase();
+let songId = 0;
 
-    let songId = 0;
+const songsData = fs
+  .readdirSync(textDir)
+  .sort()
+  .map(filename => /^(.*) - (.*)\.txt$/.exec(filename))
+  .filter(m => m)
+  .map(m => {
+    const [filename, title, artist] = m!;
+
+    const songText = fs.readFileSync(path.resolve(textDir, filename), {
+      encoding: "utf-8",
+    });
+    const songData = parseLines({ title, artist, songText });
+
+    const id = songData.id!;
+    const tags = songTags.has(id) ? songTags.get(id) : [];
+
+    return {
+      ...songData,
+      _id: ++songId,
+      tags,
+      url: `/song/${slugify(songData.artist!)}/${slugify(songData.title!)}`,
+    };
+  });
+
+(async () => {
+  console.log("Connecting to MongoDB");
+  const mongoClient = await MongoClient.connect(mongoUri, {
+    useNewUrlParser: true,
+  });
+  try {
+    const db = mongoClient.db(mongoDbName);
+
+    console.log("Dropping database");
+    await db.dropDatabase();
 
     console.log("Populating songs");
     await db.createCollection("songs");
-    await db.collection("songs").insertMany(
-      fs
-        .readdirSync(textDir)
-        .sort()
-        .map(filename => /^(.*) - (.*)\.txt$/.exec(filename))
-        .filter(m => m)
-        .map(m => {
-          const [filename, title, artist] = m!;
-
-          const songText = fs.readFileSync(path.resolve(textDir, filename), {
-            encoding: "utf-8",
-          });
-          const songData = parseLines({ title, artist, songText });
-
-          const id = songData.id!;
-          const tags = songTags.has(id) ? songTags.get(id) : [];
-
-          return {
-            ...songData,
-            _id: ++songId,
-            tags,
-            url: `/song/${slugify(songData.artist!)}/${slugify(
-              songData.title!
-            )}`,
-          };
-        })
-    );
+    await db.collection("songs").insertMany(songsData);
 
     console.log("Populating counters");
     await db.createCollection("counters");
     await db.collection("counters").insertOne({ _id: "songId", seq: songId });
   } finally {
     console.log("Closing connection");
-    mongoClient.close();
+    await mongoClient.close();
   }
 })();
