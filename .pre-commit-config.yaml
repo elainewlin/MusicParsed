@@ -1,15 +1,15 @@
 repos:
   - repo: https://github.com/pre-commit/mirrors-eslint.git
-    rev: v5.13.0
+    rev: v5.16.0
     hooks:
       - &eslint
         id: eslint
         types: [javascript]
         additional_dependencies:
-          - eslint@5.13.0
-          - typescript@3.2.4
-          - "@typescript-eslint/eslint-plugin@1.2.0"
-          - "@typescript-eslint/parser@1.2.0"
+          - eslint@5.16.0
+          - typescript@3.5.2
+          - "@typescript-eslint/eslint-plugin@1.10.2"
+          - "@typescript-eslint/parser@1.10.2"
       - <<: *eslint
         alias: eslint:ts
         name: eslint:ts
@@ -23,7 +23,7 @@ repos:
         "types": [ts]
         args: [--noEmit, --project, tsconfig.json]
         pass_filenames: false
-        additional_dependencies: ["typescript@3.2.4"]
+        additional_dependencies: ["typescript@3.5.2"]
   - repo: https://github.com/prettier/prettier.git
     rev: 1.16.4
     hooks:
