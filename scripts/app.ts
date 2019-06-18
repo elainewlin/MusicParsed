@@ -47,7 +47,11 @@ app.use((req, res, next) => {
       reloadManifest = true;
     });
   }
-  if ((env as any).getGlobal("manifest") === null) {
+  if (
+    ((env as unknown) as { getGlobal(name: string): unknown }).getGlobal(
+      "manifest"
+    ) === null
+  ) {
     const manifest = JSON.parse(
       fs.readFileSync(manifestPath, { encoding: "utf-8" })
     );
@@ -93,7 +97,7 @@ app.get("/song/:artist/:title", (req, res) =>
   })
 );
 
-const callback = () => {
+const callback = (): void => {
   console.log(`Listening on port ${port}`);
 };
 
