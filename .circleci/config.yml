@@ -1,0 +1,24 @@
+version: 2.1
+orbs:
+  node: circleci/node@1.0.1
+jobs:
+  build:
+    docker:
+      - image: circleci/python:3-node
+    steps:
+      - node/install-yarn
+      - checkout
+      - node/with-cache:
+          steps:
+            - run: yarn install --frozen-lockfile
+      - run: yarn test
+      - run: yarn run heroku-postbuild
+      - run: sudo python -m pip install --progress-bar=off pre-commit
+      - restore_cache:
+          key: cache-pre-commit--{{ checksum ".pre-commit-config.yaml" }}
+      - run: pre-commit install-hooks
+      - save_cache:
+          key: cache-pre-commit--{{ checksum ".pre-commit-config.yaml" }}
+          paths:
+            - ~/.cache/pre-commit
+      - run: pre-commit run --all-files
