@@ -130,10 +130,6 @@ html#songPage body {
   font-size: 4em;
 }
 
-.ui-helper-hidden-accessible {
-  display: none;
-}
-
 .songTag {
   break-inside: avoid-column;
 }

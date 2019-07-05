@@ -49,29 +49,14 @@ pre {
 
 /* Navbar styles */
 
-.navigation {
-  line-height: 46px;
-  height: 46px;
-  display: flex;
+.navbar-light .navbar-nav .nav-link {
+  color: var(--main-blue);
 }
 
-.navbar-logo {
-  width: 150px;
-}
-
-.navbar-logo > .navbar-link {
-  color: var(--theme-text);
-  font-size: 16px;
-}
-
-.navbar-item {
-  text-align: center;
-  min-width: 90px;
-  padding-left: 4px;
-}
-
-.input-group-text {
-  background-color: #999;
+.navbar-light .navbar-nav .nav-link:hover {
+  font-weight: 500;
+  text-decoration: none;
+  color: var(--main-blue);
 }
 
 /* Navbar social icons */

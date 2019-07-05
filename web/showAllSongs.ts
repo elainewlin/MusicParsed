@@ -1,4 +1,6 @@
 import $ from "jquery";
+import "bootstrap";
+import "bootstrap/dist/css/bootstrap.css";
 import "../css/styles.css";
 import "../css/global.css";
 import allSongsListTemplate from "../mustache/allSongsList.mustache";
