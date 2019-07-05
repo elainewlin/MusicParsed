@@ -31,14 +31,14 @@
 
 .line {
   font-family: "DejaVu Sans Mono", monospace;
-  font-size: 16px;
+  font-size: 1em;
   line-height: 1.5em;
   white-space: pre-wrap;
 }
 
 .chordLyricLine {
   font-family: "DejaVu Sans Mono", monospace;
-  font-size: 16px;
+  font-size: 1em;
   white-space: pre-wrap;
 }
 
