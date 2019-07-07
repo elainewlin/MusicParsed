@@ -91,21 +91,16 @@
       ]
     },
     {
-      "className": "line",
+      "className": "chordLyricLine",
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "    E                        N.C.",
+          "lyric": "Oh, ",
           "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "line",
-      "chordLyricPairs": [
+        },
         {
-          "chord": null,
-          "lyric": "Oh, look at her, she got the power",
+          "chord": "E",
+          "lyric": "look at her, she got the power",
           "overLyric": true
         }
       ]
