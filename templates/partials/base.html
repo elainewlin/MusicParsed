@@ -5,15 +5,24 @@
 {% include "partials/ga.html" %}
 <link rel="stylesheet" href="{{ manifest['global.css'] }}" />
 {% block script %}
+<script src="{{ manifest['global.js'] }}"></script>
 {% endblock %}
 </head>
 
 <body>
-  <div class="navigation">
-    {% include "partials/nav.html" %}
-    {% block nav_widgets %}{% endblock %}
-    {% include "partials/social.html" %}
-  </div>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="/">
+      <img src="/static/images/logo.svg" />MusicParsed
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      {% include "partials/nav.html" %}
+      {% block nav_widgets %}{% endblock %}
+      {% include "partials/social.html" %}
+    </div>
+  </nav>
   {% block content %}{% endblock %}
 </body>
 

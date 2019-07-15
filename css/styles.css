@@ -27,18 +27,19 @@
 
 .ui-widget {
   padding: 4px 0;
+  break-inside: avoid;
 }
 
 .line {
   font-family: "DejaVu Sans Mono", monospace;
-  font-size: 16px;
+  font-size: 1em;
   line-height: 1.5em;
   white-space: pre-wrap;
 }
 
 .chordLyricLine {
   font-family: "DejaVu Sans Mono", monospace;
-  font-size: 16px;
+  font-size: 1em;
   white-space: pre-wrap;
 }
 
@@ -128,10 +129,6 @@ html#songPage body {
 
 .chordUnknown {
   font-size: 4em;
-}
-
-.ui-helper-hidden-accessible {
-  display: none;
 }
 
 .songTag {

@@ -1,4 +1,5 @@
 import $ from "jquery";
+import "bootstrap";
 import "bootstrap/js/dist/button";
 import "../../css/convert.css";
 import { Instrument, Guitar, Ukulele, Note } from "./music";
