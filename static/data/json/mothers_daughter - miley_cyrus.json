@@ -20,6 +20,10 @@
           "lyric": " "
         },
         {
+          "chord": "G#m",
+          "lyric": " "
+        },
+        {
           "chord": "E",
           "lyric": " "
         },
@@ -42,7 +46,12 @@
         },
         {
           "chord": "G#m",
-          "lyric": "ujah, I'm a freak, I'm a freak, hallelujah",
+          "lyric": "ujah, I'm a freak, I'm a freak, hallel",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": "ujah",
           "overLyric": true
         }
       ]
@@ -85,7 +94,12 @@
       "chordLyricPairs": [
         {
           "chord": "G#m",
-          "lyric": "Oh my God, she got the power",
+          "lyric": "Oh my God, she got the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": "power",
           "overLyric": true
         }
       ]
@@ -206,12 +220,17 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "So, ",
+          "lyric": "So, back ",
           "overLyric": true
         },
         {
           "chord": "G#m",
-          "lyric": "back up, back up, back up, back up, boy, ooh",
+          "lyric": "up, back up, back ",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": "up, back up, boy, ooh",
           "overLyric": true
         }
       ]
@@ -249,7 +268,12 @@
         },
         {
           "chord": "G#m",
-          "lyric": "ujah, I'm a witch, I'm a witch, hallelujah",
+          "lyric": "ujah, I'm a witch, I'm a witch, hallel",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": "ujah",
           "overLyric": true
         }
       ]
@@ -292,7 +316,12 @@
       "chordLyricPairs": [
         {
           "chord": "G#m",
-          "lyric": "Oh my God, she got the power",
+          "lyric": "Oh my God, she got the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": "power",
           "overLyric": true
         }
       ]
@@ -413,7 +442,12 @@
         },
         {
           "chord": "G#m",
-          "lyric": "up, back up, back up, back up, boy, ooh",
+          "lyric": "up, back up, back ",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": "up, back up, boy, ooh",
           "overLyric": true
         }
       ]
@@ -448,7 +482,12 @@
         },
         {
           "chord": "G#m",
-          "lyric": "up, back up, back up, back up, boy, ooh",
+          "lyric": "up, back up, back ",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": "up, back up, boy, ooh",
           "overLyric": true
         }
       ]
@@ -479,6 +518,10 @@
     {
       "className": "line",
       "chordLyricPairs": [
+        {
+          "chord": "G#m",
+          "lyric": " "
+        },
         {
           "chord": "G#m",
           "lyric": " "
@@ -751,8 +794,12 @@
       "chordLyricPairs": [
         {
           "chord": "B",
-          "lyric": "Oh my God, oh my God  ",
+          "lyric": "Oh my God, oh my God ",
           "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": " "
         },
         {
           "chord": "G#m",
