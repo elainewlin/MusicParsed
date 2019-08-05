@@ -80,8 +80,8 @@
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
-  height: calc(100% - 46px);
-  padding: 0 10px;
+  min-height: 100%;
+  padding: 0 10px 50px;
 }
 
 html#songPage,
