@@ -106,21 +106,25 @@
       ]
     },
     {
-      "className": "line",
+      "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": null,
-          "lyric": "G                 EM                  C                D",
+          "chord": "G",
+          "lyric": " So I'm going to "
+        },
+        {
+          "chord": "Em",
+          "lyric": "S.F., where all you ",
           "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "line",
-      "chordLyricPairs": [
+        },
         {
-          "chord": null,
-          "lyric": "  So I'm going to S.F., where all you nerdy boys are hiding",
+          "chord": "C",
+          "lyric": "nerdy boys are hi",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ding",
           "overLyric": true
         }
       ]
