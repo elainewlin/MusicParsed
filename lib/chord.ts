@@ -14,7 +14,10 @@ const simpleChordRegex = new RegExp(
 );
 
 const fancyChordEnd = "(_[0-9]+)?";
-const chordType = `(?:maj|m|aug|dim)?[0-9]*(?:(?:add|sus|no|bb|𝄫|b|♭|#|♯|x|𝄪)[0-9]+)*(?:/${pitchRegex.source})?`;
+const chordQuality =
+  "(?:maj|m|aug|dim)?[0-9]*(?:(?:add|sus|no|bb|𝄫|b|♭|#|♯|x|𝄪)[0-9]+)*";
+const bassNote = `(?:(/${pitchRegex.source}?|/))?`;
+const chordType = `${chordQuality}${bassNote}`;
 // We use this when we override chord fingerings for ~fancy~ chords
 const chord = `${pitchRegex.source}${chordType}${fancyChordEnd}`;
 export const chordRegex = new RegExp(chord, "g");

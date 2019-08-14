@@ -12,10 +12,7 @@ module.exports = {
   },
   plugins: ["@typescript-eslint"],
   rules: {
-    "@typescript-eslint/explicit-function-return-type": [
-      "warn",
-      { allowExpressions: true, allowTypedFunctionExpressions: true },
-    ],
+    "@typescript-eslint/explicit-function-return-type": "warn",
     "@typescript-eslint/indent": "off",
     "@typescript-eslint/no-non-null-assertion":
       "off" /* should maybe enable this later */,

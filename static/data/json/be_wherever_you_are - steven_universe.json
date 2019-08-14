@@ -1,10 +1,10 @@
 {
   "allChords": [
+    "Cmaj7",
     "C",
     "B7",
     "Em",
     "G7",
-    "Cmaj7",
     "C7",
     "Dm",
     "Fm",
@@ -14,6 +14,44 @@
   "fullName": "Be Wherever You Are - Steven Universe",
   "id": "be_wherever_you_are - steven_universe",
   "lines": [
+    {
+      "label": "[Strum pattern]"
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "1+2+3+4+",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "D xU UD",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "[Intro]"
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Cmaj7",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "label": "[Verse]"
+    },
     {
       "className": "chordLyricLine",
       "chordLyricPairs": [
@@ -87,7 +125,7 @@
           "overLyric": true
         },
         {
-          "chord": "D7",
+          "chord": "D7/",
           "lyric": "a,",
           "overLyric": true
         }
@@ -117,6 +155,9 @@
           "overLyric": true
         }
       ]
+    },
+    {
+      "label": "[Verse]"
     },
     {
       "className": "chordLyricLine",
@@ -191,7 +232,7 @@
           "overLyric": true
         },
         {
-          "chord": "D7",
+          "chord": "D7/",
           "lyric": "a,",
           "overLyric": true
         }
@@ -221,6 +262,9 @@
           "overLyric": true
         }
       ]
+    },
+    {
+      "label": "[Verse]"
     },
     {
       "className": "chordLyricLine",
@@ -295,7 +339,7 @@
           "overLyric": true
         },
         {
-          "chord": "D7",
+          "chord": "D7/",
           "lyric": "a,",
           "overLyric": true
         }
@@ -327,6 +371,9 @@
       ]
     },
     {
+      "label": "[Outro]"
+    },
+    {
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
@@ -350,7 +397,7 @@
           "overLyric": true
         },
         {
-          "chord": "D7",
+          "chord": "D7/",
           "lyric": "a,",
           "overLyric": true
         }
@@ -365,17 +412,22 @@
           "overLyric": true
         },
         {
-          "chord": "Fm",
+          "chord": "Fm/",
           "lyric": "let yourself just ",
           "overLyric": true
         },
         {
-          "chord": "G7",
-          "lyric": "be whoever you ",
+          "chord": "G7/",
+          "lyric": "be  ",
           "overLyric": true
         },
         {
-          "chord": "Cmaj7",
+          "chord": "G7/",
+          "lyric": "whoever you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7/",
           "lyric": "are.",
           "overLyric": true
         }
