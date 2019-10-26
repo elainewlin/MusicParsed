@@ -28,6 +28,10 @@
         },
         {
           "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
           "lyric": ""
         }
       ]
@@ -49,8 +53,13 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
+          "chord": null,
+          "lyric": "Dys",
+          "overLyric": true
+        },
+        {
           "chord": "Dmaj7",
-          "lyric": "Dysfunction between you and me",
+          "lyric": "function between you and me",
           "overLyric": true
         }
       ]
@@ -59,8 +68,13 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
+          "chord": null,
+          "lyric": "We ",
+          "overLyric": true
+        },
+        {
           "chord": "G",
-          "lyric": "We must free up these tired souls",
+          "lyric": "must free up these tired souls",
           "overLyric": true
         }
       ]
@@ -69,8 +83,13 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
+          "chord": null,
+          "lyric": "Be",
+          "overLyric": true
+        },
+        {
           "chord": "G",
-          "lyric": "Before the sadness gets us both",
+          "lyric": "fore the sadness gets us both",
           "overLyric": true
         }
       ]
@@ -78,9 +97,14 @@
     {
       "className": "chordLyricLine",
       "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
         {
           "chord": "D",
-          "lyric": "I tried and tried to let you know",
+          "lyric": "tried and tried to let you know",
           "overLyric": true
         }
       ]
@@ -88,9 +112,14 @@
     {
       "className": "chordLyricLine",
       "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I l",
+          "overLyric": true
+        },
         {
           "chord": "Dmaj7",
-          "lyric": "I love you but I'm letting go",
+          "lyric": "ove you but I'm letting go",
           "overLyric": true
         }
       ]
@@ -99,8 +128,13 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
+          "chord": null,
+          "lyric": "It ",
+          "overLyric": true
+        },
+        {
           "chord": "G",
-          "lyric": "It may not last but I don't know",
+          "lyric": "may not last but I don't know",
           "overLyric": true
         }
       ]
@@ -119,8 +153,13 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
+          "chord": null,
+          "lyric": "If you ",
+          "overLyric": true
+        },
+        {
           "chord": "D",
-          "lyric": "If you don't know, then you can't care",
+          "lyric": "don't know, then you can't care",
           "overLyric": true
         }
       ]
@@ -128,9 +167,14 @@
     {
       "className": "chordLyricLine",
       "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I ",
+          "overLyric": true
+        },
         {
           "chord": "Dmaj7",
-          "lyric": "And I show up, but you're not there",
+          "lyric": "show up, but you're not there",
           "overLyric": true
         }
       ]
@@ -138,9 +182,14 @@
     {
       "className": "chordLyricLine",
       "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But I'm ",
+          "overLyric": true
+        },
         {
           "chord": "G",
-          "lyric": "But I'm waiting, and you want to",
+          "lyric": "waiting, and you want to",
           "overLyric": true
         }
       ]
@@ -149,8 +198,13 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Gm",
-          "lyric": "Still afraid that I will desert you",
+          "chord": null,
+          "lyric": "Still a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "fraid that I will desert you",
           "overLyric": true
         }
       ]
@@ -172,8 +226,13 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
+          "chord": null,
+          "lyric": "With ",
+          "overLyric": true
+        },
+        {
           "chord": "Dmaj7",
-          "lyric": "With every worthless word we get more ",
+          "lyric": "every worthless word we get more ",
           "overLyric": true
         },
         {
@@ -187,8 +246,13 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
           "chord": "Dmaj7",
-          "lyric": "The distance between us makes it so ",
+          "lyric": "distance between us makes it so ",
           "overLyric": true
         },
         {
@@ -202,8 +266,18 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
           "chord": "G",
-          "lyric": "But nothing last forever, but be honest babe",
+          "lyric": "nothing last forever, but be ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "honest babe",
           "overLyric": true
         }
       ]
@@ -212,13 +286,14 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Gm",
-          "lyric": "It hurts but it may be the only way",
+          "chord": null,
+          "lyric": "It hurts but it may be the only ",
           "overLyric": true
         },
         {
           "chord": "D",
-          "lyric": ""
+          "lyric": "way",
+          "overLyric": true
         }
       ]
     },
@@ -229,8 +304,13 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
+          "chord": null,
+          "lyric": "A ",
+          "overLyric": true
+        },
+        {
           "chord": "D",
-          "lyric": "A bed that's warm with memories",
+          "lyric": "bed that's warm with memories",
           "overLyric": true
         }
       ]
@@ -238,9 +318,14 @@
     {
       "className": "chordLyricLine",
       "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Can ",
+          "overLyric": true
+        },
         {
           "chord": "Dmaj7",
-          "lyric": "Can heal us temporarily",
+          "lyric": "heal us temporarily",
           "overLyric": true
         }
       ]
@@ -249,8 +334,13 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
           "chord": "G",
-          "lyric": "The misbehaving only makes",
+          "lyric": "misbehaving only makes",
           "overLyric": true
         }
       ]
@@ -259,8 +349,13 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
           "chord": "G",
-          "lyric": "The ditch between us so damn deep",
+          "lyric": "ditch between us so damn deep",
           "overLyric": true
         }
       ]
@@ -299,8 +394,13 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
+          "chord": null,
+          "lyric": "It ",
+          "overLyric": true
+        },
+        {
           "chord": "G",
-          "lyric": "It would fall down while I'm asleep",
+          "lyric": "would fall down while I'm asleep",
           "overLyric": true
         }
       ]
@@ -308,9 +408,14 @@
     {
       "className": "chordLyricLine",
       "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "If you ",
+          "overLyric": true
+        },
         {
           "chord": "D",
-          "lyric": "If you don't know, then you can't care",
+          "lyric": "don't know, then you can't care",
           "overLyric": true
         }
       ]
@@ -318,9 +423,14 @@
     {
       "className": "chordLyricLine",
       "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I ",
+          "overLyric": true
+        },
         {
           "chord": "Dmaj7",
-          "lyric": "And I show up, but you're not there",
+          "lyric": "show up, but you're not there",
           "overLyric": true
         }
       ]
@@ -328,9 +438,14 @@
     {
       "className": "chordLyricLine",
       "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But I'm ",
+          "overLyric": true
+        },
         {
           "chord": "G",
-          "lyric": "But I'm waiting, and you want to",
+          "lyric": "waiting, and you want to",
           "overLyric": true
         }
       ]
@@ -339,8 +454,13 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Gm",
-          "lyric": "Still afraid that I will desert you, babe",
+          "chord": null,
+          "lyric": "Still a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "fraid that I will desert you",
           "overLyric": true
         }
       ]
@@ -362,8 +482,13 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
+          "chord": null,
+          "lyric": "With ",
+          "overLyric": true
+        },
+        {
           "chord": "Dmaj7",
-          "lyric": "With every worthless word we get more ",
+          "lyric": "every worthless word we get more ",
           "overLyric": true
         },
         {
@@ -377,8 +502,13 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
           "chord": "Dmaj7",
-          "lyric": "The distance between us makes it so ",
+          "lyric": "distance between us makes it so ",
           "overLyric": true
         },
         {
@@ -392,23 +522,29 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
           "chord": "G",
-          "lyric": "But nothing last forever, but be honest babe",
+          "lyric": "nothing last forever, but be ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "honest babe",
           "overLyric": true
         }
       ]
     },
     {
-      "className": "chordLyricLine",
+      "className": "line",
       "chordLyricPairs": [
         {
-          "chord": "Gm",
+          "chord": null,
           "lyric": "It hurts but it may be the only way",
           "overLyric": true
-        },
-        {
-          "chord": "D",
-          "lyric": ""
         }
       ]
     },
@@ -420,7 +556,7 @@
       "chordLyricPairs": [
         {
           "chord": "Em",
-          "lyric": "Though we have not hit the ground",
+          "lyric": " Though we have not hit the ground",
           "overLyric": true
         }
       ]
@@ -430,42 +566,17 @@
       "chordLyricPairs": [
         {
           "chord": "G",
-          "lyric": "Doesn't mean we're not still f",
+          "lyric": " Doesn't mean we're not still ",
           "overLyric": true
         },
         {
           "chord": "D",
-          "lyric": "alling, o",
+          "lyric": "falling, ",
           "overLyric": true
         },
         {
           "chord": "Bm",
-          "lyric": "h",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": "Em",
-          "lyric": "I want so bad to pick you up",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": "G",
-          "lyric": "But you're still too reluctant to ",
-          "overLyric": true
-        },
-        {
-          "chord": "D",
-          "lyric": "accept my help",
+          "lyric": "oh",
           "overLyric": true
         }
       ]
@@ -475,17 +586,52 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "What a s",
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "want so bad to pick you up",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "you're still too reluctant to ac",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "cept my help",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "What a ",
           "overLyric": true
         },
         {
           "chord": "Bm",
-          "lyric": "hame I hope you find somewhere to place",
+          "lyric": "shame I hope you find somewhere to ",
           "overLyric": true
         },
         {
           "chord": "A",
-          "lyric": " the blame",
+          "lyric": "place the blame",
           "overLyric": true
         }
       ]
@@ -517,8 +663,13 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
+          "chord": null,
+          "lyric": "With ",
+          "overLyric": true
+        },
+        {
           "chord": "Dmaj7",
-          "lyric": "With every worthless word we get more ",
+          "lyric": "every worthless word we get more ",
           "overLyric": true
         },
         {
@@ -532,8 +683,13 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
           "chord": "Dmaj7",
-          "lyric": "The distance between us makes it so ",
+          "lyric": "distance between us makes it so ",
           "overLyric": true
         },
         {
@@ -547,8 +703,18 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
           "chord": "G",
-          "lyric": "But nothing last forever, but be honest babe",
+          "lyric": "nothing last forever, but be ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "honest babe",
           "overLyric": true
         }
       ]
@@ -557,13 +723,14 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Gm",
-          "lyric": "It hurts but it may be the only way",
+          "chord": null,
+          "lyric": "It hurts but it may be the only ",
           "overLyric": true
         },
         {
           "chord": "D",
-          "lyric": ""
+          "lyric": "way",
+          "overLyric": true
         }
       ]
     },
@@ -581,8 +748,13 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
+          "chord": null,
+          "lyric": "With ",
+          "overLyric": true
+        },
+        {
           "chord": "Dmaj7",
-          "lyric": "With every worthless word we get more ",
+          "lyric": "every worthless word we get more ",
           "overLyric": true
         },
         {
@@ -596,8 +768,13 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
           "chord": "Dmaj7",
-          "lyric": "The distance between us makes it so ",
+          "lyric": "distance between us makes it so ",
           "overLyric": true
         },
         {
@@ -611,8 +788,18 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
           "chord": "G",
-          "lyric": "But nothing last forever, but be honest babe",
+          "lyric": "nothing last forever, but be ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "honest babe",
           "overLyric": true
         }
       ]
@@ -621,13 +808,14 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Gm",
-          "lyric": "It hurts but it may be the only way",
+          "chord": null,
+          "lyric": "It hurts but it may be the only ",
           "overLyric": true
         },
         {
           "chord": "D",
-          "lyric": ""
+          "lyric": "way",
+          "overLyric": true
         }
       ]
     }
