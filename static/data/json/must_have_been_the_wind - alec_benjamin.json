@@ -1,41 +1,14 @@
 {
   "allChords": [
-    "D",
-    "Dmaj7",
-    "G",
-    "Gm",
     "Em",
+    "D",
     "Bm",
-    "A"
+    "C"
   ],
-  "artist": "Maroon 5",
-  "fullName": "Nothing Lasts Forever - Maroon 5",
-  "id": "nothing_lasts_forever - maroon_5",
+  "artist": "Alec Benjamin",
+  "fullName": "Must Have Been The Wind - Alec Benjamin",
+  "id": "must_have_been_the_wind - alec_benjamin",
   "lines": [
-    {
-      "label": "[Intro]"
-    },
-    {
-      "className": "line",
-      "chordLyricPairs": [
-        {
-          "chord": "D",
-          "lyric": " "
-        },
-        {
-          "chord": "Dmaj7",
-          "lyric": " "
-        },
-        {
-          "chord": "G",
-          "lyric": " "
-        },
-        {
-          "chord": "G",
-          "lyric": ""
-        }
-      ]
-    },
     {
       "label": "[Verse 1]"
     },
@@ -43,98 +16,23 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "D",
-          "lyric": "It is so easy to see",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": null,
-          "lyric": "Dys",
-          "overLyric": true
-        },
-        {
-          "chord": "Dmaj7",
-          "lyric": "function between you and me",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": null,
-          "lyric": "We ",
-          "overLyric": true
-        },
-        {
-          "chord": "G",
-          "lyric": "must free up these tired souls",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": null,
-          "lyric": "Be",
-          "overLyric": true
-        },
-        {
-          "chord": "G",
-          "lyric": "fore the sadness gets us both",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": null,
-          "lyric": "I ",
+          "chord": "Em",
+          "lyric": " I heard a glass shatter ",
           "overLyric": true
         },
         {
           "chord": "D",
-          "lyric": "tried and tried to let you know",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": null,
-          "lyric": "I l",
+          "lyric": "on the wall in the a",
           "overLyric": true
         },
         {
-          "chord": "Dmaj7",
-          "lyric": "ove you but I'm letting go",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": null,
-          "lyric": "It ",
+          "chord": "Bm",
+          "lyric": "partment above ",
           "overLyric": true
         },
         {
-          "chord": "G",
-          "lyric": "may not last but I don't know",
+          "chord": "C",
+          "lyric": "mine",
           "overLyric": true
         }
       ]
@@ -143,23 +41,37 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "G",
-          "lyric": "Just don't know",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": null,
-          "lyric": "If you ",
+          "chord": "Em",
+          "lyric": " At first I ",
           "overLyric": true
         },
         {
           "chord": "D",
-          "lyric": "don't know, then you can't care",
+          "lyric": "thought that I was ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "dreamin' ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": " But then I heard the voice ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "of a girl",
           "overLyric": true
         }
       ]
@@ -169,12 +81,17 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "And I ",
+          "lyric": "And it ",
           "overLyric": true
         },
         {
-          "chord": "Dmaj7",
-          "lyric": "show up, but you're not there",
+          "chord": "Bm",
+          "lyric": "sounded like she'd been ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "cryin'",
           "overLyric": true
         }
       ]
@@ -183,13 +100,40 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": null,
-          "lyric": "But I'm ",
+          "chord": "Em",
+          "lyric": " Now I'm too ",
           "overLyric": true
         },
         {
-          "chord": "G",
-          "lyric": "waiting, and you want to",
+          "chord": "D",
+          "lyric": "worried to be ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "sleepin' ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "label": "[Pre-Chorus]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "So I took the elevator ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "to the second floor",
           "overLyric": true
         }
       ]
@@ -198,14 +142,38 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": null,
-          "lyric": "Still a",
+          "chord": "Bm",
+          "lyric": "Walked down the hall and then I ",
           "overLyric": true
         },
         {
-          "chord": "G",
-          "lyric": "fraid that I will desert you",
+          "chord": "C",
+          "lyric": "knocked upon her door",
           "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": " She opened up and I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "asked about the things I've been ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "hearing ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
         }
       ]
     },
@@ -216,28 +184,18 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "D",
-          "lyric": "Everyday",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
           "chord": null,
-          "lyric": "With ",
+          "lyric": "She said,",
           "overLyric": true
         },
         {
-          "chord": "Dmaj7",
-          "lyric": "every worthless word we get more ",
+          "chord": "Em",
+          "lyric": " \"I think your ears are playing ",
           "overLyric": true
         },
         {
           "chord": "D",
-          "lyric": "far away",
+          "lyric": "tricks on you\"",
           "overLyric": true
         }
       ]
@@ -246,18 +204,13 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": null,
-          "lyric": "The ",
+          "chord": "Bm",
+          "lyric": " Sweater zipped up to her ",
           "overLyric": true
         },
         {
-          "chord": "Dmaj7",
-          "lyric": "distance between us makes it so ",
-          "overLyric": true
-        },
-        {
-          "chord": "G",
-          "lyric": "hard to stay",
+          "chord": "C",
+          "lyric": "chin",
           "overLyric": true
         }
       ]
@@ -266,51 +219,48 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": null,
-          "lyric": "But ",
-          "overLyric": true
-        },
-        {
-          "chord": "G",
-          "lyric": "nothing last forever, but be ",
-          "overLyric": true
-        },
-        {
-          "chord": "Gm",
-          "lyric": "honest babe",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": null,
-          "lyric": "It hurts but it may be the only ",
+          "chord": "Em",
+          "lyric": " \"Thanks for caring, sir, that's ",
           "overLyric": true
         },
         {
           "chord": "D",
-          "lyric": "way",
+          "lyric": "nice of you",
           "overLyric": true
         }
       ]
-    },
-    {
-      "label": "[Verse]"
     },
     {
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "A ",
+          "lyric": "But I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "have to go back ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "in",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": " Wish I could tell you about the ",
           "overLyric": true
         },
         {
           "chord": "D",
-          "lyric": "bed that's warm with memories",
+          "lyric": "noise",
           "overLyric": true
         }
       ]
@@ -320,27 +270,17 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "Can ",
+          "lyric": "But I ",
           "overLyric": true
         },
         {
-          "chord": "Dmaj7",
-          "lyric": "heal us temporarily",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": null,
-          "lyric": "But ",
+          "chord": "Bm",
+          "lyric": "didn't hear a ",
           "overLyric": true
         },
         {
-          "chord": "G",
-          "lyric": "misbehaving only makes",
+          "chord": "C",
+          "lyric": "thing\"",
           "overLyric": true
         }
       ]
@@ -350,72 +290,17 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "The ",
+          "lyric": "She said, \"It ",
           "overLyric": true
         },
         {
-          "chord": "G",
-          "lyric": "ditch between us so damn deep",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": "D",
-          "lyric": "Built a wall around my heart",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": "Dmaj7",
-          "lyric": "Never let it fall apart",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": "G",
-          "lyric": "Strangely I wish secretly",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": null,
-          "lyric": "It ",
-          "overLyric": true
-        },
-        {
-          "chord": "G",
-          "lyric": "would fall down while I'm asleep",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": null,
-          "lyric": "If you ",
+          "chord": "Em",
+          "lyric": "must have been the wind, must have ",
           "overLyric": true
         },
         {
           "chord": "D",
-          "lyric": "don't know, then you can't care",
+          "lyric": "been the wind",
           "overLyric": true
         }
       ]
@@ -425,12 +310,17 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "And I ",
+          "lyric": "Must have been the ",
           "overLyric": true
         },
         {
-          "chord": "Dmaj7",
-          "lyric": "show up, but you're not there",
+          "chord": "Bm",
+          "lyric": "wind, it must have been the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "wind\"",
           "overLyric": true
         }
       ]
@@ -440,12 +330,17 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "But I'm ",
+          "lyric": "She said, \"It ",
           "overLyric": true
         },
         {
-          "chord": "G",
-          "lyric": "waiting, and you want to",
+          "chord": "Em",
+          "lyric": "must have been the wind, must have ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "been the wind",
           "overLyric": true
         }
       ]
@@ -455,98 +350,137 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "Still a",
+          "lyric": "Must have been the ",
           "overLyric": true
         },
         {
-          "chord": "G",
-          "lyric": "fraid that I will desert you",
+          "chord": "Bm",
+          "lyric": "wind, it must have been the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "wind\"",
           "overLyric": true
         }
       ]
+    },
+    {
+      "label": "[Verse 2]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": " So I was layin' on the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "floor of my room",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cold ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "concrete on my ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "back",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": " No, I just ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "couldn't shake the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "feeling ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": " I didn't want to in",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "trude because I knew that I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "didn't have all the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "facts",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": " But I couldn't ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "bear the thought of ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "leavin' her ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "label": "[Pre-Chorus]"
     },
     {
       "label": "[Chorus]"
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": "D",
-          "lyric": "Everyday",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": null,
-          "lyric": "With ",
-          "overLyric": true
-        },
-        {
-          "chord": "Dmaj7",
-          "lyric": "every worthless word we get more ",
-          "overLyric": true
-        },
-        {
-          "chord": "D",
-          "lyric": "far away",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": null,
-          "lyric": "The ",
-          "overLyric": true
-        },
-        {
-          "chord": "Dmaj7",
-          "lyric": "distance between us makes it so ",
-          "overLyric": true
-        },
-        {
-          "chord": "G",
-          "lyric": "hard to stay",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": null,
-          "lyric": "But ",
-          "overLyric": true
-        },
-        {
-          "chord": "G",
-          "lyric": "nothing last forever, but be ",
-          "overLyric": true
-        },
-        {
-          "chord": "Gm",
-          "lyric": "honest babe",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "line",
-      "chordLyricPairs": [
-        {
-          "chord": null,
-          "lyric": "It hurts but it may be the only way",
-          "overLyric": true
-        }
-      ]
     },
     {
       "label": "[Bridge]"
@@ -555,63 +489,18 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Em",
-          "lyric": " Though we have not hit the ground",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": "G",
-          "lyric": " Doesn't mean we're not still ",
-          "overLyric": true
-        },
-        {
-          "chord": "D",
-          "lyric": "falling, ",
-          "overLyric": true
-        },
-        {
-          "chord": "Bm",
-          "lyric": "oh",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
           "chord": null,
-          "lyric": "I ",
+          "lyric": "Aim my ",
           "overLyric": true
         },
         {
           "chord": "Em",
-          "lyric": "want so bad to pick you up",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": null,
-          "lyric": "But ",
-          "overLyric": true
-        },
-        {
-          "chord": "G",
-          "lyric": "you're still too reluctant to ac",
+          "lyric": "boom box at the roof, I'm playing \"",
           "overLyric": true
         },
         {
           "chord": "D",
-          "lyric": "cept my help",
+          "lyric": "Lean on Me\"",
           "overLyric": true
         }
       ]
@@ -621,27 +510,117 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "What a ",
+          "lyric": "Jus",
           "overLyric": true
         },
         {
           "chord": "Bm",
-          "lyric": "shame I hope you find somewhere to ",
+          "lyric": "t so that she knows that she can ",
           "overLyric": true
         },
         {
-          "chord": "A",
-          "lyric": "place the blame",
+          "chord": "C",
+          "lyric": "lean on me",
           "overLyric": true
         }
       ]
     },
     {
-      "className": "line",
+      "className": "chordLyricLine",
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "But until then the fact remains",
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "when she hears the words, I hope she ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "knows she'll be ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "oka",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "y",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Aim my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "boom box at the roof, I'm playing \"",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "Lean on Me\"",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Jus",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "t so that she knows that she can ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "lean on me",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "when she hears the words, I know e",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "xactly what ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "I'll s",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ay",
           "overLyric": true
         }
       ]
@@ -653,28 +632,13 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "D",
-          "lyric": "Everyday",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": null,
-          "lyric": "With ",
-          "overLyric": true
-        },
-        {
-          "chord": "Dmaj7",
-          "lyric": "every worthless word we get more ",
+          "chord": "Em",
+          "lyric": " Promise I'm not playing ",
           "overLyric": true
         },
         {
           "chord": "D",
-          "lyric": "far away",
+          "lyric": "tricks on you",
           "overLyric": true
         }
       ]
@@ -683,18 +647,13 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": null,
-          "lyric": "The ",
+          "chord": "Bm",
+          "lyric": " You're always welcome to come ",
           "overLyric": true
         },
         {
-          "chord": "Dmaj7",
-          "lyric": "distance between us makes it so ",
-          "overLyric": true
-        },
-        {
-          "chord": "G",
-          "lyric": "hard to stay",
+          "chord": "C",
+          "lyric": "in",
           "overLyric": true
         }
       ]
@@ -703,43 +662,13 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": null,
-          "lyric": "But ",
-          "overLyric": true
-        },
-        {
-          "chord": "G",
-          "lyric": "nothing last forever, but be ",
-          "overLyric": true
-        },
-        {
-          "chord": "Gm",
-          "lyric": "honest babe",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": null,
-          "lyric": "It hurts but it may be the only ",
+          "chord": "Em",
+          "lyric": " You could stay here for an ",
           "overLyric": true
         },
         {
           "chord": "D",
-          "lyric": "way",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": "D",
-          "lyric": "Everyday",
+          "lyric": "hour or two",
           "overLyric": true
         }
       ]
@@ -749,17 +678,17 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "With ",
+          "lyric": "If you ",
           "overLyric": true
         },
         {
-          "chord": "Dmaj7",
-          "lyric": "every worthless word we get more ",
+          "chord": "Bm",
+          "lyric": "ever need a ",
           "overLyric": true
         },
         {
-          "chord": "D",
-          "lyric": "far away",
+          "chord": "C",
+          "lyric": "friend",
           "overLyric": true
         }
       ]
@@ -768,57 +697,107 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": null,
-          "lyric": "The ",
-          "overLyric": true
-        },
-        {
-          "chord": "Dmaj7",
-          "lyric": "distance between us makes it so ",
-          "overLyric": true
-        },
-        {
-          "chord": "G",
-          "lyric": "hard to stay",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": null,
-          "lyric": "But ",
-          "overLyric": true
-        },
-        {
-          "chord": "G",
-          "lyric": "nothing last forever, but be ",
-          "overLyric": true
-        },
-        {
-          "chord": "Gm",
-          "lyric": "honest babe",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": null,
-          "lyric": "It hurts but it may be the only ",
+          "chord": "Em",
+          "lyric": " We can talk about the ",
           "overLyric": true
         },
         {
           "chord": "D",
-          "lyric": "way",
+          "lyric": "noise, when you're ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "ready, but till ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "then",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I say, \"It ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "must have been the wind, must have ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "been the wind",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Must have been the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "wind, it must have been the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "wind\"",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I say, \"It ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "must have been the wind, must have ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "been the wind",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Must have been the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "wind, it must have been the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "wind\"",
           "overLyric": true
         }
       ]
     }
   ],
-  "title": "Nothing Lasts Forever"
+  "title": "Must Have Been The Wind"
 }
