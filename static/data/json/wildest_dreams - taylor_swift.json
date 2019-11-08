@@ -90,6 +90,9 @@
       ]
     },
     {
+      "label": "[Pre-Chorus]"
+    },
+    {
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
@@ -306,12 +309,7 @@
         },
         {
           "chord": "Em",
-          "lyric": "sound, nothing lasts for",
-          "overLyric": true
-        },
-        {
-          "chord": "D",
-          "lyric": "ever",
+          "lyric": "sound,",
           "overLyric": true
         }
       ]
@@ -321,7 +319,12 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "But this is getting good ",
+          "lyric": "Nothing lasts for",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ever, but this is getting good ",
           "overLyric": true
         },
         {
@@ -330,6 +333,9 @@
           "overLyric": true
         }
       ]
+    },
+    {
+      "label": "[Pre-Chorus]"
     },
     {
       "className": "chordLyricLine",
@@ -366,17 +372,7 @@
         },
         {
           "chord": "Em",
-          "lyric": "very last kiss",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": null,
-          "lyric": "My ",
+          "lyric": "very last kiss, my ",
           "overLyric": true
         },
         {
