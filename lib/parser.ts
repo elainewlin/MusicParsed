@@ -89,6 +89,11 @@ export const renderChordLyricLine = function(
   };
 };
 
+// Remove left and right brackets from a string
+const removeBrackets = function(rawStr: string): string {
+  return rawStr.replace(/\[/g, "").replace(/\]/g, "");
+};
+
 export const parseLines = function({
   title,
   artist,
@@ -109,6 +114,7 @@ export const parseLines = function({
 
   const updateAllChords = function(line: string): void {
     line.split(" ").map((chord: string) => {
+      chord = removeBrackets(chord);
       if (chord.includes("/")) {
         chord = chord.split("/")[0];
       }

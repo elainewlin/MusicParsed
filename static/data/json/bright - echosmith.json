@@ -22,28 +22,23 @@
           "lyric": " "
         },
         {
-          "chord": "Fsus4",
+          "chord": "[F",
           "lyric": " "
         },
         {
-          "chord": "F",
-          "lyric": ""
-        }
-      ]
-    },
-    {
-      "className": "line",
-      "chordLyricPairs": [
+          "chord": "Fsus4]",
+          "lyric": " "
+        },
         {
           "chord": "F",
           "lyric": " "
         },
         {
-          "chord": "Fsus4",
+          "chord": "[F",
           "lyric": " "
         },
         {
-          "chord": "F",
+          "chord": "Fsus4]",
           "lyric": ""
         }
       ]
@@ -56,7 +51,32 @@
       "chordLyricPairs": [
         {
           "chord": "F",
-          "lyric": "I think the universe is on my side",
+          "lyric": "I think the ",
+          "overLyric": true
+        },
+        {
+          "chord": "[F",
+          "lyric": "uni",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus4]",
+          "lyric": "verse is ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "on my ",
+          "overLyric": true
+        },
+        {
+          "chord": "[F",
+          "lyric": "sid",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus4]",
+          "lyric": "e",
           "overLyric": true
         }
       ]
@@ -66,7 +86,32 @@
       "chordLyricPairs": [
         {
           "chord": "F",
-          "lyric": "Heaven and Earth have finally aligned",
+          "lyric": "Heaven and Earth",
+          "overLyric": true
+        },
+        {
+          "chord": "[F",
+          "lyric": " ha",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus4]",
+          "lyric": "ve fina",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "lly a",
+          "overLyric": true
+        },
+        {
+          "chord": "[F",
+          "lyric": "lig",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus4]",
+          "lyric": "ned",
           "overLyric": true
         }
       ]
@@ -76,24 +121,42 @@
       "chordLyricPairs": [
         {
           "chord": "B♭",
-          "lyric": "Days are good and t",
+          "lyric": "Days are good",
           "overLyric": true
         },
         {
           "chord": "C",
-          "lyric": "hat's the way it should be",
+          "lyric": " and that's the way it should ",
           "overLyric": true
         },
         {
           "chord": "F",
+          "lyric": "be",
+          "overLyric": true
+        },
+        {
+          "chord": "[F",
           "lyric": " "
         },
         {
-          "chord": "Fsus4",
-          "lyric": " "
-        },
+          "chord": "Fsus4]",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
         {
           "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "[F",
+          "lyric": " "
+        },
+        {
+          "chord": "Fsus4]",
           "lyric": ""
         }
       ]
@@ -103,7 +166,32 @@
       "chordLyricPairs": [
         {
           "chord": "F",
-          "lyric": "You sprinkled star dust on my pillow case",
+          "lyric": "You sprinkled ",
+          "overLyric": true
+        },
+        {
+          "chord": "[F",
+          "lyric": "star dus",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus4]",
+          "lyric": "t on my ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "pillow ",
+          "overLyric": true
+        },
+        {
+          "chord": "[F",
+          "lyric": "cas",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus4]",
+          "lyric": "e",
           "overLyric": true
         }
       ]
@@ -113,7 +201,32 @@
       "chordLyricPairs": [
         {
           "chord": "F",
-          "lyric": "It's like a moonbeam brushed across my face",
+          "lyric": "It's like a ",
+          "overLyric": true
+        },
+        {
+          "chord": "[F",
+          "lyric": "moonbeam ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus4]",
+          "lyric": "brushed a",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "cross my",
+          "overLyric": true
+        },
+        {
+          "chord": "[F",
+          "lyric": " fa",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus4]",
+          "lyric": "ce",
           "overLyric": true
         }
       ]
@@ -123,24 +236,25 @@
       "chordLyricPairs": [
         {
           "chord": "B♭",
-          "lyric": "Nights are good and t",
+          "lyric": "Nights are good",
           "overLyric": true
         },
         {
           "chord": "C",
-          "lyric": "hat's the way it should be",
+          "lyric": " and that's the way it should ",
           "overLyric": true
         },
         {
           "chord": "F",
+          "lyric": "be",
+          "overLyric": true
+        },
+        {
+          "chord": "[F",
           "lyric": " "
         },
         {
-          "chord": "Fsus4",
-          "lyric": " "
-        },
-        {
-          "chord": "F",
+          "chord": "Fsus4]",
           "lyric": ""
         }
       ]
@@ -152,18 +266,32 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": null,
-          "lyric": "You make me sing ",
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "[F",
+          "lyric": "  You ",
           "overLyric": true
         },
         {
+          "chord": "Fsus4]",
+          "lyric": "make me sing",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
           "chord": "Dm",
-          "lyric": "oo-oo-oo, la la",
+          "lyric": "oo-oo-oo, la la ",
           "overLyric": true
         },
         {
           "chord": "B♭",
-          "lyric": " laaa",
+          "lyric": "laaa",
           "overLyric": true
         }
       ]
@@ -193,12 +321,12 @@
         },
         {
           "chord": "B♭",
-          "lyric": "love, l",
+          "lyric": "love, ",
           "overLyric": true
         },
         {
           "chord": "C",
-          "lyric": "ove",
+          "lyric": "love",
           "overLyric": true
         }
       ]
@@ -211,12 +339,12 @@
       "chordLyricPairs": [
         {
           "chord": "F",
-          "lyric": "Did you see that shootin",
+          "lyric": "Did you see that shooting ",
           "overLyric": true
         },
         {
           "chord": "Dm",
-          "lyric": "g star ton",
+          "lyric": "star ton",
           "overLyric": true
         },
         {
@@ -276,17 +404,17 @@
         },
         {
           "chord": "B♭",
-          "lyric": "you and the Moon and N",
+          "lyric": "you and the Moon and ",
           "overLyric": true
         },
         {
           "chord": "F",
-          "lyric": "eptune got it r",
+          "lyric": "Neptune got it ",
           "overLyric": true
         },
         {
           "chord": "C",
-          "lyric": "ight",
+          "lyric": "right",
           "overLyric": true
         }
       ]
@@ -296,16 +424,26 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "'Cause now I'm shining ",
+          "lyric": "'Cause ",
+          "overLyric": true
+        },
+        {
+          "chord": "C/",
+          "lyric": "now I'm shining ",
           "overLyric": true
         },
         {
           "chord": "F",
-          "lyric": "bright, ",
+          "lyric": "brigh",
           "overLyric": true
         },
         {
-          "chord": "C",
+          "chord": "[F",
+          "lyric": "t, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C]",
           "lyric": "so ",
           "overLyric": true
         },
@@ -321,11 +459,16 @@
       "chordLyricPairs": [
         {
           "chord": "F",
-          "lyric": "Bright, ",
+          "lyric": "Brigh",
           "overLyric": true
         },
         {
-          "chord": "C",
+          "chord": "[F",
+          "lyric": "t, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C]",
           "lyric": "so ",
           "overLyric": true
         },
@@ -344,7 +487,32 @@
       "chordLyricPairs": [
         {
           "chord": "F",
-          "lyric": "And I see colors in a different way",
+          "lyric": "And I see ",
+          "overLyric": true
+        },
+        {
+          "chord": "[F",
+          "lyric": "color",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus4]",
+          "lyric": "s in a ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "different",
+          "overLyric": true
+        },
+        {
+          "chord": "[F",
+          "lyric": " wa",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus4]",
+          "lyric": "y",
           "overLyric": true
         }
       ]
@@ -354,7 +522,32 @@
       "chordLyricPairs": [
         {
           "chord": "F",
-          "lyric": "You make what doesn't matter fade to grey",
+          "lyric": "You make what",
+          "overLyric": true
+        },
+        {
+          "chord": "[F",
+          "lyric": " doesn't ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus4]",
+          "lyric": "matter ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "fade to",
+          "overLyric": true
+        },
+        {
+          "chord": "[F",
+          "lyric": " gr",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus4]",
+          "lyric": "ey",
           "overLyric": true
         }
       ]
@@ -364,16 +557,25 @@
       "chordLyricPairs": [
         {
           "chord": "B♭",
-          "lyric": "Life is good and t",
+          "lyric": "Life is good",
           "overLyric": true
         },
         {
           "chord": "C",
-          "lyric": "hat's the way it should be",
+          "lyric": " and that's the way it should ",
           "overLyric": true
         },
         {
           "chord": "F",
+          "lyric": "be",
+          "overLyric": true
+        },
+        {
+          "chord": "[F",
+          "lyric": " "
+        },
+        {
+          "chord": "Fsus4]",
           "lyric": ""
         }
       ]
@@ -385,18 +587,32 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": null,
-          "lyric": "You make sing ",
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "[F",
+          "lyric": "  You ",
           "overLyric": true
         },
         {
+          "chord": "Fsus4]",
+          "lyric": "make me sing",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
           "chord": "Dm",
-          "lyric": "oo-oo-oo,la la l",
+          "lyric": "oo-oo-oo, la la ",
           "overLyric": true
         },
         {
           "chord": "B♭",
-          "lyric": "aaa",
+          "lyric": "laaa",
           "overLyric": true
         }
       ]
@@ -421,17 +637,17 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "I'm in l",
+          "lyric": "I'm in ",
           "overLyric": true
         },
         {
           "chord": "B♭",
-          "lyric": "ove, lo",
+          "lyric": "love, ",
           "overLyric": true
         },
         {
           "chord": "C",
-          "lyric": "ve",
+          "lyric": "love",
           "overLyric": true
         }
       ]
@@ -444,12 +660,12 @@
       "chordLyricPairs": [
         {
           "chord": "F",
-          "lyric": "Did you see that shootin",
+          "lyric": "Did you see that shooting ",
           "overLyric": true
         },
         {
           "chord": "Dm",
-          "lyric": "g star ton",
+          "lyric": "star ton",
           "overLyric": true
         },
         {
@@ -489,12 +705,12 @@
         },
         {
           "chord": "Dm",
-          "lyric": "spire to g",
+          "lyric": "spire to ",
           "overLyric": true
         },
         {
           "chord": "C",
-          "lyric": "et me?",
+          "lyric": "get me?",
           "overLyric": true
         }
       ]
@@ -509,17 +725,17 @@
         },
         {
           "chord": "B♭",
-          "lyric": "you and the Moon and N",
+          "lyric": "you and the Moon and ",
           "overLyric": true
         },
         {
           "chord": "F",
-          "lyric": "eptune got it r",
+          "lyric": "Neptune got it ",
           "overLyric": true
         },
         {
           "chord": "C",
-          "lyric": "ight",
+          "lyric": "right",
           "overLyric": true
         }
       ]
@@ -529,16 +745,26 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "'Cause now I'm shining ",
+          "lyric": "'Cause ",
+          "overLyric": true
+        },
+        {
+          "chord": "C/",
+          "lyric": "now I'm shining ",
           "overLyric": true
         },
         {
           "chord": "F",
-          "lyric": "bright (oooohhh) ",
+          "lyric": "bright (oooohh",
           "overLyric": true
         },
         {
-          "chord": "C",
+          "chord": "[F",
+          "lyric": "h) ",
+          "overLyric": true
+        },
+        {
+          "chord": "C]",
           "lyric": "so ",
           "overLyric": true
         },
@@ -559,12 +785,17 @@
         },
         {
           "chord": "F",
-          "lyric": "lost (ooohh) ",
+          "lyric": "lost (ooohh)",
           "overLyric": true
         },
         {
-          "chord": "C",
-          "lyric": "in your ",
+          "chord": "[F",
+          "lyric": " in ",
+          "overLyric": true
+        },
+        {
+          "chord": "C]",
+          "lyric": "your ",
           "overLyric": true
         },
         {
@@ -582,12 +813,12 @@
       "chordLyricPairs": [
         {
           "chord": "F",
-          "lyric": "Did you see that shootin",
+          "lyric": "Did you see that shooting ",
           "overLyric": true
         },
         {
           "chord": "Dm",
-          "lyric": "g star ton",
+          "lyric": "star ton",
           "overLyric": true
         },
         {
@@ -627,12 +858,12 @@
         },
         {
           "chord": "Dm",
-          "lyric": "spire to g",
+          "lyric": "spire to ",
           "overLyric": true
         },
         {
           "chord": "C",
-          "lyric": "et me?",
+          "lyric": "get me?",
           "overLyric": true
         }
       ]
@@ -647,17 +878,17 @@
         },
         {
           "chord": "B♭",
-          "lyric": "you and the Moon and N",
+          "lyric": "you and the Moon and ",
           "overLyric": true
         },
         {
           "chord": "F",
-          "lyric": "eptune got it r",
+          "lyric": "Neptune got it ",
           "overLyric": true
         },
         {
           "chord": "C",
-          "lyric": "ight",
+          "lyric": "right",
           "overLyric": true
         }
       ]
@@ -672,17 +903,17 @@
         },
         {
           "chord": "B♭",
-          "lyric": "you and the Moon and N",
+          "lyric": "you and the Moon and ",
           "overLyric": true
         },
         {
           "chord": "F",
-          "lyric": "eptune got it r",
+          "lyric": "Neptune got it ",
           "overLyric": true
         },
         {
           "chord": "C",
-          "lyric": "ight",
+          "lyric": "right",
           "overLyric": true
         }
       ]
@@ -692,16 +923,26 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "'Cause now I'm shining ",
+          "lyric": "'Cause ",
+          "overLyric": true
+        },
+        {
+          "chord": "C/",
+          "lyric": "now I'm shining ",
           "overLyric": true
         },
         {
           "chord": "F",
-          "lyric": "bright, ",
+          "lyric": "brigh",
           "overLyric": true
         },
         {
-          "chord": "C",
+          "chord": "[F",
+          "lyric": "t, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C]",
           "lyric": "so ",
           "overLyric": true
         },
@@ -717,11 +958,16 @@
       "chordLyricPairs": [
         {
           "chord": "F",
-          "lyric": "Bright, ",
+          "lyric": "Brigh",
           "overLyric": true
         },
         {
-          "chord": "C",
+          "chord": "[F",
+          "lyric": "t, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C]",
           "lyric": "so ",
           "overLyric": true
         },
@@ -737,11 +983,16 @@
       "chordLyricPairs": [
         {
           "chord": "F",
-          "lyric": "Bright, ",
+          "lyric": "Brigh",
           "overLyric": true
         },
         {
-          "chord": "C",
+          "chord": "[F",
+          "lyric": "t, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C]",
           "lyric": "so ",
           "overLyric": true
         },
@@ -762,11 +1013,16 @@
         },
         {
           "chord": "F",
-          "lyric": "lost in ",
+          "lyric": "lost ",
           "overLyric": true
         },
         {
-          "chord": "C",
+          "chord": "[F",
+          "lyric": "in ",
+          "overLyric": true
+        },
+        {
+          "chord": "C]",
           "lyric": "your ",
           "overLyric": true
         },
@@ -783,6 +1039,16 @@
         {
           "chord": "F",
           "lyric": "Tonight",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(End on high F 5558)",
           "overLyric": true
         }
       ]

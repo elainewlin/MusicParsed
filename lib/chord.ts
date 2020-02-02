@@ -4,6 +4,10 @@
 
 import { pitchToFifths, pitchRegex, transposePitch } from "./pitch";
 
+// allow brackets in chord lines
+const leftBracket = /(?:\[)?/g;
+const rightBracket = /(?:\])?/g;
+
 // matches minor chords like Amadd9, but not Cmaj7
 const minorChord = "m?(?!aj)";
 
@@ -20,9 +24,10 @@ const bassNote = `(?:(/${pitchRegex.source}?|/))?`;
 const chordType = `${chordQuality}${bassNote}`;
 // We use this when we override chord fingerings for ~fancy~ chords
 const chord = `${pitchRegex.source}${chordType}${fancyChordEnd}`;
-export const chordRegex = new RegExp(chord, "g");
-const anchoredChordRegex = new RegExp(`^${chordRegex.source}$`);
-
+const chordRegex = new RegExp(chord, "g");
+const anchoredChordRegex = new RegExp(
+  `^${leftBracket.source}${chordRegex.source}${rightBracket.source}$`
+);
 export const isChord = (word: string): boolean => anchoredChordRegex.test(word);
 
 export const transposeChord = function(chord: string, amount: number): string {

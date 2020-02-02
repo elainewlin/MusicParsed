@@ -89,6 +89,14 @@ describe("isChordLine", () => {
     complexChords.forEach(chord => assert.isTrue(parser.isChordLine(chord)));
     assert.isTrue(parser.isChordLine(complexChords.join(" ")));
   });
+
+  it("is true for chords with brackets", () => {
+    const chordWithBrackets = ["[F", "Cadd9]"];
+    chordWithBrackets.forEach(chord =>
+      assert.isTrue(parser.isChordLine(chord))
+    );
+    assert.isTrue(parser.isChordLine(chordWithBrackets.join(" ")));
+  });
 });
 
 describe("isLyricLine", () => {
