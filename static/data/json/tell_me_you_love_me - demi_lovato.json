@@ -1,12 +1,13 @@
 {
   "allChords": [
-    "D#m",
-    "C#",
-    "G#m",
-    "F#",
-    "B"
+    "Dm",
+    "C",
+    "Gm",
+    "F",
+    "B♭"
   ],
   "artist": "Demi Lovato",
+  "capo": "1",
   "fullName": "Tell Me You Love Me - Demi Lovato",
   "id": "tell_me_you_love_me - demi_lovato",
   "lines": [
@@ -17,19 +18,19 @@
       "className": "line",
       "chordLyricPairs": [
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": " "
         },
         {
-          "chord": "C#",
+          "chord": "C",
           "lyric": " "
         },
         {
-          "chord": "G#m",
+          "chord": "Gm",
           "lyric": " "
         },
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": ""
         }
       ]
@@ -38,19 +39,19 @@
       "className": "line",
       "chordLyricPairs": [
         {
-          "chord": "F#",
+          "chord": "F",
           "lyric": " "
         },
         {
-          "chord": "C#",
+          "chord": "C",
           "lyric": " "
         },
         {
-          "chord": "B",
+          "chord": "B♭",
           "lyric": " "
         },
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": ""
         }
       ]
@@ -62,7 +63,7 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": "Oh no, here we go again",
           "overLyric": true
         }
@@ -72,7 +73,7 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "C#",
+          "chord": "C",
           "lyric": "Fighting over what I said",
           "overLyric": true
         }
@@ -87,12 +88,12 @@
           "overLyric": true
         },
         {
-          "chord": "B",
+          "chord": "B♭",
           "lyric": "sorry, yeah I'm",
           "overLyric": true
         },
         {
-          "chord": "B",
+          "chord": "B♭",
           "lyric": " sorry",
           "overLyric": true
         }
@@ -107,7 +108,7 @@
           "overLyric": true
         },
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": "love, no, I'm not good at this",
           "overLyric": true
         }
@@ -122,7 +123,7 @@
           "overLyric": true
         },
         {
-          "chord": "C#",
+          "chord": "C",
           "lyric": "I can't say I'm innocent",
           "overLyric": true
         }
@@ -137,12 +138,12 @@
           "overLyric": true
         },
         {
-          "chord": "B",
+          "chord": "B♭",
           "lyric": "hardly, but I'm",
           "overLyric": true
         },
         {
-          "chord": "B",
+          "chord": "B♭",
           "lyric": " sorry",
           "overLyric": true
         }
@@ -160,7 +161,7 @@
           "overLyric": true
         },
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": "friends, they know and it's true",
           "overLyric": true
         }
@@ -175,7 +176,7 @@
           "overLyric": true
         },
         {
-          "chord": "C#",
+          "chord": "C",
           "lyric": "who I am without you",
           "overLyric": true
         }
@@ -190,7 +191,7 @@
           "overLyric": true
         },
         {
-          "chord": "B",
+          "chord": "B♭",
           "lyric": "bad, baby",
           "overLyric": true
         }
@@ -205,7 +206,7 @@
           "overLyric": true
         },
         {
-          "chord": "B",
+          "chord": "B♭",
           "lyric": "bad",
           "overLyric": true
         }
@@ -223,12 +224,12 @@
           "overLyric": true
         },
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": "love ",
           "overLyric": true
         },
         {
-          "chord": "C#",
+          "chord": "C",
           "lyric": "me",
           "overLyric": true
         }
@@ -243,22 +244,22 @@
           "overLyric": true
         },
         {
-          "chord": "G#m",
+          "chord": "Gm",
           "lyric": "need some",
           "overLyric": true
         },
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": "one on days like ",
           "overLyric": true
         },
         {
-          "chord": "F#",
+          "chord": "F",
           "lyric": "this, I do   ",
           "overLyric": true
         },
         {
-          "chord": "C#",
+          "chord": "C",
           "lyric": ""
         }
       ]
@@ -272,7 +273,7 @@
           "overLyric": true
         },
         {
-          "chord": "B",
+          "chord": "B♭",
           "lyric": "this",
           "overLyric": true
         }
@@ -282,17 +283,17 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": "Oh, tell me you ",
           "overLyric": true
         },
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": "love ",
           "overLyric": true
         },
         {
-          "chord": "C#",
+          "chord": "C",
           "lyric": "me",
           "overLyric": true
         }
@@ -307,22 +308,22 @@
           "overLyric": true
         },
         {
-          "chord": "G#m",
+          "chord": "Gm",
           "lyric": "need some",
           "overLyric": true
         },
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": "one on days like ",
           "overLyric": true
         },
         {
-          "chord": "F#",
+          "chord": "F",
           "lyric": "this, I do   ",
           "overLyric": true
         },
         {
-          "chord": "C#",
+          "chord": "C",
           "lyric": ""
         }
       ]
@@ -336,7 +337,7 @@
           "overLyric": true
         },
         {
-          "chord": "B",
+          "chord": "B♭",
           "lyric": "this",
           "overLyric": true
         }
@@ -356,22 +357,22 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": "Ooohh",
           "overLyric": true
         },
         {
-          "chord": "C#",
+          "chord": "C",
           "lyric": "hh, ",
           "overLyric": true
         },
         {
-          "chord": "G#m",
+          "chord": "Gm",
           "lyric": "ooohh",
           "overLyric": true
         },
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": "hh",
           "overLyric": true
         }
@@ -386,12 +387,12 @@
           "overLyric": true
         },
         {
-          "chord": "F#",
+          "chord": "F",
           "lyric": "ody 'til you got ",
           "overLyric": true
         },
         {
-          "chord": "C#",
+          "chord": "C",
           "lyric": "somebody",
           "overLyric": true
         }
@@ -406,12 +407,12 @@
           "overLyric": true
         },
         {
-          "chord": "B",
+          "chord": "B♭",
           "lyric": "ody 'til you got ",
           "overLyric": true
         },
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": "somebody",
           "overLyric": true
         }
@@ -429,7 +430,7 @@
           "overLyric": true
         },
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": "hope I never see the day",
           "overLyric": true
         }
@@ -444,12 +445,12 @@
           "overLyric": true
         },
         {
-          "chord": "C#",
+          "chord": "C",
           "lyric": "you move on and be happy with",
           "overLyric": true
         },
         {
-          "chord": "B",
+          "chord": "B♭",
           "lyric": "out me",
           "overLyric": true
         }
@@ -464,7 +465,7 @@
           "overLyric": true
         },
         {
-          "chord": "B",
+          "chord": "B♭",
           "lyric": "out me",
           "overLyric": true
         }
@@ -479,7 +480,7 @@
           "overLyric": true
         },
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": "hand without your heart to hold?",
           "overLyric": true
         }
@@ -494,7 +495,7 @@
           "overLyric": true
         },
         {
-          "chord": "C#",
+          "chord": "C",
           "lyric": "don't know what I'm living for",
           "overLyric": true
         }
@@ -509,12 +510,12 @@
           "overLyric": true
         },
         {
-          "chord": "B",
+          "chord": "B♭",
           "lyric": "living with",
           "overLyric": true
         },
         {
-          "chord": "B",
+          "chord": "B♭",
           "lyric": "out you",
           "overLyric": true
         }
@@ -532,7 +533,7 @@
           "overLyric": true
         },
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": "friends, they know and it's true",
           "overLyric": true
         }
@@ -547,7 +548,7 @@
           "overLyric": true
         },
         {
-          "chord": "C#",
+          "chord": "C",
           "lyric": "who I am without you",
           "overLyric": true
         }
@@ -562,7 +563,7 @@
           "overLyric": true
         },
         {
-          "chord": "B",
+          "chord": "B♭",
           "lyric": "bad, baby",
           "overLyric": true
         }
@@ -577,7 +578,7 @@
           "overLyric": true
         },
         {
-          "chord": "B",
+          "chord": "B♭",
           "lyric": "bad",
           "overLyric": true
         }
@@ -595,12 +596,12 @@
           "overLyric": true
         },
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": "love ",
           "overLyric": true
         },
         {
-          "chord": "C#",
+          "chord": "C",
           "lyric": "me",
           "overLyric": true
         }
@@ -615,22 +616,22 @@
           "overLyric": true
         },
         {
-          "chord": "G#m",
+          "chord": "Gm",
           "lyric": "need some",
           "overLyric": true
         },
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": "one on days like ",
           "overLyric": true
         },
         {
-          "chord": "F#",
+          "chord": "F",
           "lyric": "this, I do   ",
           "overLyric": true
         },
         {
-          "chord": "C#",
+          "chord": "C",
           "lyric": ""
         }
       ]
@@ -644,7 +645,7 @@
           "overLyric": true
         },
         {
-          "chord": "B",
+          "chord": "B♭",
           "lyric": "this",
           "overLyric": true
         }
@@ -654,17 +655,17 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": "Oh, tell me you ",
           "overLyric": true
         },
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": "love ",
           "overLyric": true
         },
         {
-          "chord": "C#",
+          "chord": "C",
           "lyric": "me",
           "overLyric": true
         }
@@ -679,22 +680,22 @@
           "overLyric": true
         },
         {
-          "chord": "G#m",
+          "chord": "Gm",
           "lyric": "need some",
           "overLyric": true
         },
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": "one on days like ",
           "overLyric": true
         },
         {
-          "chord": "F#",
+          "chord": "F",
           "lyric": "this, I do   ",
           "overLyric": true
         },
         {
-          "chord": "C#",
+          "chord": "C",
           "lyric": ""
         }
       ]
@@ -708,7 +709,7 @@
           "overLyric": true
         },
         {
-          "chord": "B",
+          "chord": "B♭",
           "lyric": "this",
           "overLyric": true
         }
@@ -718,7 +719,7 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": "Oh, can you hear my heart say",
           "overLyric": true
         }
@@ -728,22 +729,22 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": "Ooohh",
           "overLyric": true
         },
         {
-          "chord": "C#",
+          "chord": "C",
           "lyric": "hh, ",
           "overLyric": true
         },
         {
-          "chord": "G#m",
+          "chord": "Gm",
           "lyric": "ooohh",
           "overLyric": true
         },
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": "hh",
           "overLyric": true
         }
@@ -758,12 +759,12 @@
           "overLyric": true
         },
         {
-          "chord": "F#",
+          "chord": "F",
           "lyric": "ody 'til you got ",
           "overLyric": true
         },
         {
-          "chord": "C#",
+          "chord": "C",
           "lyric": "somebody",
           "overLyric": true
         }
@@ -778,12 +779,12 @@
           "overLyric": true
         },
         {
-          "chord": "B",
+          "chord": "B♭",
           "lyric": "ody 'til you got ",
           "overLyric": true
         },
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": "somebody",
           "overLyric": true
         }
@@ -803,22 +804,22 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": "Ooohh",
           "overLyric": true
         },
         {
-          "chord": "C#",
+          "chord": "C",
           "lyric": "hh, ",
           "overLyric": true
         },
         {
-          "chord": "G#m",
+          "chord": "Gm",
           "lyric": "ooohh",
           "overLyric": true
         },
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": "hh",
           "overLyric": true
         }
@@ -833,12 +834,12 @@
           "overLyric": true
         },
         {
-          "chord": "F#",
+          "chord": "F",
           "lyric": "ody 'til you got ",
           "overLyric": true
         },
         {
-          "chord": "C#",
+          "chord": "C",
           "lyric": "somebody",
           "overLyric": true
         }
@@ -853,12 +854,12 @@
           "overLyric": true
         },
         {
-          "chord": "B",
+          "chord": "B♭",
           "lyric": "ody 'til you got ",
           "overLyric": true
         },
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": "somebody",
           "overLyric": true
         }
@@ -871,12 +872,12 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": "Everything I",
           "overLyric": true
         },
         {
-          "chord": "C#",
+          "chord": "C",
           "lyric": " need",
           "overLyric": true
         }
@@ -886,12 +887,12 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "G#m",
+          "chord": "Gm",
           "lyric": "Is standing in ",
           "overLyric": true
         },
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": "front of me",
           "overLyric": true
         }
@@ -901,22 +902,22 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "F#",
+          "chord": "F",
           "lyric": "I know that we ",
           "overLyric": true
         },
         {
-          "chord": "C#",
+          "chord": "C",
           "lyric": "will be al",
           "overLyric": true
         },
         {
-          "chord": "B",
+          "chord": "B♭",
           "lyric": "right, a",
           "overLyric": true
         },
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": "lright, yeah",
           "overLyric": true
         }
@@ -926,12 +927,12 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": "Through the ups ",
           "overLyric": true
         },
         {
-          "chord": "C#",
+          "chord": "C",
           "lyric": "and downs",
           "overLyric": true
         }
@@ -941,12 +942,12 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "G#m",
+          "chord": "Gm",
           "lyric": "Baby, I'ma ",
           "overLyric": true
         },
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": "stick around",
           "overLyric": true
         }
@@ -956,17 +957,17 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "F#",
+          "chord": "F",
           "lyric": "I promise we ",
           "overLyric": true
         },
         {
-          "chord": "C#",
+          "chord": "C",
           "lyric": "will be al",
           "overLyric": true
         },
         {
-          "chord": "B",
+          "chord": "B♭",
           "lyric": "right",
           "overLyric": true
         }
@@ -984,17 +985,17 @@
           "overLyric": true
         },
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": "tell me you ",
           "overLyric": true
         },
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": "love ",
           "overLyric": true
         },
         {
-          "chord": "C#",
+          "chord": "C",
           "lyric": "me",
           "overLyric": true
         }
@@ -1009,22 +1010,22 @@
           "overLyric": true
         },
         {
-          "chord": "G#m",
+          "chord": "Gm",
           "lyric": "need some",
           "overLyric": true
         },
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": "one on days like ",
           "overLyric": true
         },
         {
-          "chord": "F#",
+          "chord": "F",
           "lyric": "this, I do   ",
           "overLyric": true
         },
         {
-          "chord": "C#",
+          "chord": "C",
           "lyric": ""
         }
       ]
@@ -1043,17 +1044,17 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": "Oh, tell me you ",
           "overLyric": true
         },
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": "love ",
           "overLyric": true
         },
         {
-          "chord": "C#",
+          "chord": "C",
           "lyric": "me",
           "overLyric": true
         }
@@ -1068,22 +1069,22 @@
           "overLyric": true
         },
         {
-          "chord": "G#m",
+          "chord": "Gm",
           "lyric": "need some",
           "overLyric": true
         },
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": "one on days like ",
           "overLyric": true
         },
         {
-          "chord": "F#",
+          "chord": "F",
           "lyric": "this, I do   ",
           "overLyric": true
         },
         {
-          "chord": "C#",
+          "chord": "C",
           "lyric": ""
         }
       ]
@@ -1097,7 +1098,7 @@
           "overLyric": true
         },
         {
-          "chord": "B",
+          "chord": "B♭",
           "lyric": "this",
           "overLyric": true
         }
@@ -1107,7 +1108,7 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": "Oh, can you hear my heart say",
           "overLyric": true
         }
@@ -1117,22 +1118,22 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": "Ooohh",
           "overLyric": true
         },
         {
-          "chord": "C#",
+          "chord": "C",
           "lyric": "hh, ",
           "overLyric": true
         },
         {
-          "chord": "G#m",
+          "chord": "Gm",
           "lyric": "ooohh",
           "overLyric": true
         },
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": "hh",
           "overLyric": true
         }
@@ -1147,12 +1148,12 @@
           "overLyric": true
         },
         {
-          "chord": "F#",
+          "chord": "F",
           "lyric": "ody 'til you got ",
           "overLyric": true
         },
         {
-          "chord": "C#",
+          "chord": "C",
           "lyric": "somebody",
           "overLyric": true
         }
@@ -1167,12 +1168,12 @@
           "overLyric": true
         },
         {
-          "chord": "B",
+          "chord": "B♭",
           "lyric": "ody 'til you got ",
           "overLyric": true
         },
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": "somebody",
           "overLyric": true
         }
@@ -1185,12 +1186,12 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "D#m",
+          "chord": "Dm",
           "lyric": "Everything I need  ",
           "overLyric": true
         },
         {
-          "chord": "G#m",
+          "chord": "Gm",
           "lyric": ""
         }
       ]
@@ -1204,7 +1205,7 @@
           "overLyric": true
         },
         {
-          "chord": "F#",
+          "chord": "F",
           "lyric": ""
         }
       ]
