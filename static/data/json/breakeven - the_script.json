@@ -1,11 +1,13 @@
 {
   "allChords": [
-    "Em7",
+    "Em",
     "D",
     "G",
-    "Cadd9"
+    "Am7",
+    "C"
   ],
   "artist": "The Script",
+  "capo": "3",
   "fullName": "Breakeven - The Script",
   "id": "breakeven - the_script",
   "lines": [
@@ -16,22 +18,21 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Em7",
-          "lyric": "I'm still alive but I'm",
+          "chord": "Em",
+          "lyric": "I'm still alive but I'm ",
           "overLyric": true
         },
         {
           "chord": "D",
-          "lyric": " barely breathin",
+          "lyric": "barely breathing ",
           "overLyric": true
         },
         {
           "chord": "G",
-          "lyric": "g    ",
-          "overLyric": true
+          "lyric": " "
         },
         {
-          "chord": "Cadd9",
+          "chord": "Am7",
           "lyric": ""
         }
       ]
@@ -45,22 +46,21 @@
           "overLyric": true
         },
         {
-          "chord": "Em7",
-          "lyric": "prayed to a god that I",
+          "chord": "Em",
+          "lyric": "prayin' to a god that I ",
           "overLyric": true
         },
         {
           "chord": "D",
-          "lyric": " don't believe i",
+          "lyric": "don't believe in ",
           "overLyric": true
         },
         {
           "chord": "G",
-          "lyric": "n    ",
-          "overLyric": true
+          "lyric": " "
         },
         {
-          "chord": "Cadd9",
+          "chord": "Am7",
           "lyric": ""
         }
       ]
@@ -74,22 +74,22 @@
           "overLyric": true
         },
         {
-          "chord": "Em7",
-          "lyric": "I got time while",
+          "chord": "Em",
+          "lyric": "I got time while ",
           "overLyric": true
         },
         {
           "chord": "D",
-          "lyric": " she got fre",
+          "lyric": "she got free",
           "overLyric": true
         },
         {
           "chord": "G",
-          "lyric": "edo",
+          "lyric": "do",
           "overLyric": true
         },
         {
-          "chord": "Cadd9",
+          "chord": "Am7",
           "lyric": "m",
           "overLyric": true
         }
@@ -104,22 +104,22 @@
           "overLyric": true
         },
         {
-          "chord": "Em7",
-          "lyric": "when a heart breaks no it",
+          "chord": "Em",
+          "lyric": "when a heart breaks no it ",
           "overLyric": true
         },
         {
           "chord": "D",
-          "lyric": " don't break eve",
+          "lyric": "don't break ev",
           "overLyric": true
         },
         {
           "chord": "G",
-          "lyric": "n    ",
+          "lyric": "en",
           "overLyric": true
         },
         {
-          "chord": "Cadd9",
+          "chord": "Am7",
           "lyric": ""
         }
       ]
@@ -128,22 +128,22 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Em7",
-          "lyric": "Her best days will be",
+          "chord": "Em",
+          "lyric": "Her best days will be ",
           "overLyric": true
         },
         {
           "chord": "D",
-          "lyric": " some of my wors",
+          "lyric": "some of my w",
           "overLyric": true
         },
         {
           "chord": "G",
-          "lyric": "t    ",
+          "lyric": "orst ",
           "overLyric": true
         },
         {
-          "chord": "Cadd9",
+          "chord": "Am7",
           "lyric": ""
         }
       ]
@@ -152,23 +152,28 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Em7",
-          "lyric": "  She finally met a",
+          "chord": null,
+          "lyric": "She ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "finally met a ",
           "overLyric": true
         },
         {
           "chord": "D",
-          "lyric": " man thats gonna",
+          "lyric": "man that's gonna ",
           "overLyric": true
         },
         {
           "chord": "G",
-          "lyric": " put her",
+          "lyric": "put her ",
           "overLyric": true
         },
         {
-          "chord": "Cadd9",
-          "lyric": " first",
+          "chord": "Am7",
+          "lyric": "first",
           "overLyric": true
         }
       ]
@@ -182,23 +187,23 @@
           "overLyric": true
         },
         {
-          "chord": "Em7",
-          "lyric": "I'm wide awake she's",
+          "chord": "Em",
+          "lyric": "I'm wide awake she's ",
           "overLyric": true
         },
         {
           "chord": "D",
-          "lyric": " no trouble",
+          "lyric": "no trouble ",
           "overLyric": true
         },
         {
           "chord": "G",
-          "lyric": " sle",
+          "lyric": "sleep",
           "overLyric": true
         },
         {
-          "chord": "Cadd9",
-          "lyric": "eping",
+          "chord": "Am7",
+          "lyric": "ing",
           "overLyric": true
         }
       ]
@@ -207,23 +212,29 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Em7",
-          "lyric": "Cos when a heart breaks no it",
+          "chord": null,
+          "lyric": "Cos ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "when a heart breaks no it ",
           "overLyric": true
         },
         {
           "chord": "D",
-          "lyric": " don't breakeve",
+          "lyric": "don't break ev",
           "overLyric": true
         },
         {
           "chord": "G",
-          "lyric": "n    ",
+          "lyric": "en, ev",
           "overLyric": true
         },
         {
-          "chord": "Cadd9",
-          "lyric": ""
+          "chord": "Am7",
+          "lyric": "en, no",
+          "overLyric": true
         }
       ]
     },
@@ -234,22 +245,23 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Cadd9",
-          "lyric": " What am I"
+          "chord": "C",
+          "lyric": "What am I ",
+          "overLyric": true
         },
         {
           "chord": "G",
-          "lyric": " sposed to do when the",
+          "lyric": "supposed to do when the ",
           "overLyric": true
         },
         {
           "chord": "D",
-          "lyric": " best part of me was",
+          "lyric": "best part of me was ",
           "overLyric": true
         },
         {
-          "chord": "Em7",
-          "lyric": " always you",
+          "chord": "Em",
+          "lyric": "always you, and",
           "overLyric": true
         }
       ]
@@ -258,22 +270,23 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Cadd9",
-          "lyric": " What am I"
+          "chord": "C",
+          "lyric": "What am I ",
+          "overLyric": true
         },
         {
           "chord": "G",
-          "lyric": " sposed to say when I'm",
+          "lyric": "supposed to say when I'm ",
           "overLyric": true
         },
         {
           "chord": "D",
-          "lyric": " all choked up and",
+          "lyric": "all choked up that ",
           "overLyric": true
         },
         {
-          "chord": "Em7",
-          "lyric": " your ok",
+          "chord": "Em",
+          "lyric": "you're OK, yeah",
           "overLyric": true
         }
       ]
@@ -282,69 +295,72 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Cadd9",
-          "lyric": "    I'm",
+          "chord": "C",
+          "lyric": " I'm ",
           "overLyric": true
         },
         {
           "chord": "G",
-          "lyric": " falling to",
+          "lyric": "falling to ",
           "overLyric": true
         },
         {
           "chord": "D",
-          "lyric": " pie",
+          "lyric": "pie",
           "overLyric": true
         },
         {
-          "chord": "Em7",
+          "chord": "Em",
+          "lyric": "ces, yeah",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "falling to ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "pie",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
           "lyric": "ces",
           "overLyric": true
         }
       ]
     },
     {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": "Cadd9",
-          "lyric": "    I'm",
-          "overLyric": true
-        },
-        {
-          "chord": "G",
-          "lyric": " falling to",
-          "overLyric": true
-        },
-        {
-          "chord": "D",
-          "lyric": " pie",
-          "overLyric": true
-        },
-        {
-          "chord": "Em7",
-          "lyric": "ces",
-          "overLyric": true
-        }
-      ]
+      "label": "[Instrumental]"
     },
     {
       "className": "line",
       "chordLyricPairs": [
         {
-          "chord": "Em7",
-          "lyric": "  "
+          "chord": "Em",
+          "lyric": " "
         },
         {
           "chord": "D",
-          "lyric": "  "
+          "lyric": " "
         },
         {
           "chord": "G",
-          "lyric": "  "
+          "lyric": " "
         },
         {
-          "chord": "Cadd9",
+          "chord": "Am7",
           "lyric": ""
         }
       ]
@@ -361,22 +377,22 @@
           "overLyric": true
         },
         {
-          "chord": "Em7",
-          "lyric": "say bad things happen",
+          "chord": "Em",
+          "lyric": "say bad things happen ",
           "overLyric": true
         },
         {
           "chord": "D",
-          "lyric": " for a reaso",
+          "lyric": "for a reas",
           "overLyric": true
         },
         {
           "chord": "G",
-          "lyric": "n    ",
+          "lyric": "on ",
           "overLyric": true
         },
         {
-          "chord": "Cadd9",
+          "chord": "Am7",
           "lyric": ""
         }
       ]
@@ -390,21 +406,22 @@
           "overLyric": true
         },
         {
-          "chord": "Em7",
-          "lyric": "nowise words gonna ",
+          "chord": "Em",
+          "lyric": "no wise words gonna ",
           "overLyric": true
         },
         {
           "chord": "D",
-          "lyric": "stop the bleeding",
+          "lyric": "stop the bleed",
           "overLyric": true
         },
         {
           "chord": "G",
-          "lyric": "    "
+          "lyric": "ing ",
+          "overLyric": true
         },
         {
-          "chord": "Cadd9",
+          "chord": "Am7",
           "lyric": ""
         }
       ]
@@ -418,23 +435,23 @@
           "overLyric": true
         },
         {
-          "chord": "Em7",
-          "lyric": "she's moved on while",
+          "chord": "Em",
+          "lyric": "she's moved on while ",
           "overLyric": true
         },
         {
           "chord": "D",
-          "lyric": " I'm still gri",
+          "lyric": "I'm still griev",
           "overLyric": true
         },
         {
           "chord": "G",
-          "lyric": "evi",
+          "lyric": "in",
           "overLyric": true
         },
         {
-          "chord": "Cadd9",
-          "lyric": "ng",
+          "chord": "Am7",
+          "lyric": "g",
           "overLyric": true
         }
       ]
@@ -444,27 +461,28 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "Cos ",
+          "lyric": "And ",
           "overLyric": true
         },
         {
-          "chord": "Em7",
-          "lyric": "when a heart breaks no it",
+          "chord": "Em",
+          "lyric": "when a heart breaks no it ",
           "overLyric": true
         },
         {
           "chord": "D",
-          "lyric": " don't breakeve",
+          "lyric": "don't break ev",
           "overLyric": true
         },
         {
           "chord": "G",
-          "lyric": "n  ",
+          "lyric": "en (ev",
           "overLyric": true
         },
         {
-          "chord": "Cadd9",
-          "lyric": ""
+          "chord": "Am7",
+          "lyric": "en, no)",
+          "overLyric": true
         }
       ]
     },
@@ -475,22 +493,23 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Cadd9",
-          "lyric": " What am I"
+          "chord": "C",
+          "lyric": "What am I ",
+          "overLyric": true
         },
         {
           "chord": "G",
-          "lyric": " sposed to do when the",
+          "lyric": "supposed to do when the ",
           "overLyric": true
         },
         {
           "chord": "D",
-          "lyric": " best part of me was",
+          "lyric": "best part of me was ",
           "overLyric": true
         },
         {
-          "chord": "Em7",
-          "lyric": " always you",
+          "chord": "Em",
+          "lyric": "always you, and",
           "overLyric": true
         }
       ]
@@ -499,22 +518,23 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Cadd9",
-          "lyric": " What am I"
+          "chord": "C",
+          "lyric": "What am I ",
+          "overLyric": true
         },
         {
           "chord": "G",
-          "lyric": " sposed to say when I'm",
+          "lyric": "supposed to say when I'm ",
           "overLyric": true
         },
         {
           "chord": "D",
-          "lyric": " all choked up and",
+          "lyric": "all choked up that ",
           "overLyric": true
         },
         {
-          "chord": "Em7",
-          "lyric": " your ok",
+          "chord": "Em",
+          "lyric": "you're OK, yeah",
           "overLyric": true
         }
       ]
@@ -523,58 +543,8 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Cadd9",
-          "lyric": "    I'm",
-          "overLyric": true
-        },
-        {
-          "chord": "G",
-          "lyric": " falling to",
-          "overLyric": true
-        },
-        {
-          "chord": "D",
-          "lyric": " pie",
-          "overLyric": true
-        },
-        {
-          "chord": "Em7",
-          "lyric": "ces",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": "Cadd9",
-          "lyric": "    I'm",
-          "overLyric": true
-        },
-        {
-          "chord": "G",
-          "lyric": " falling to",
-          "overLyric": true
-        },
-        {
-          "chord": "D",
-          "lyric": " pie",
-          "overLyric": true
-        },
-        {
-          "chord": "Em7",
-          "lyric": "ces",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": "Cadd9",
-          "lyric": "   I'm ",
+          "chord": "C",
+          "lyric": " I'm ",
           "overLyric": true
         },
         {
@@ -584,22 +554,12 @@
         },
         {
           "chord": "D",
-          "lyric": "piec",
+          "lyric": "pie",
           "overLyric": true
         },
         {
-          "chord": "Em7",
-          "lyric": "es",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "line",
-      "chordLyricPairs": [
-        {
-          "chord": null,
-          "lyric": "(One still in love while the other ones leaving)",
+          "chord": "Em",
+          "lyric": "ces, yeah",
           "overLyric": true
         }
       ]
@@ -608,81 +568,103 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Cadd9",
-          "lyric": "    I'm",
+          "chord": "C",
+          "lyric": " I'm ",
           "overLyric": true
         },
         {
           "chord": "G",
-          "lyric": " falling to",
+          "lyric": "falling to ",
           "overLyric": true
         },
         {
           "chord": "D",
-          "lyric": " pie",
+          "lyric": "pie",
           "overLyric": true
         },
         {
-          "chord": "Em7",
-          "lyric": "ces",
+          "chord": "Em",
+          "lyric": "ces, yeah",
           "overLyric": true
         }
       ]
     },
     {
-      "className": "line",
+      "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": null,
-          "lyric": "(Cos when a heart breaks no it don't breakeven)",
+          "chord": "C",
+          "lyric": " I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "falling to ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "pie",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ces  (One still in love while the other one's leaving)",
           "overLyric": true
         }
       ]
     },
     {
-      "className": "line",
+      "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Em7",
-          "lyric": "  "
-        },
-        {
-          "chord": "D",
-          "lyric": "  "
+          "chord": "C",
+          "lyric": " I'm ",
+          "overLyric": true
         },
         {
           "chord": "G",
-          "lyric": "  "
+          "lyric": "falling to ",
+          "overLyric": true
         },
         {
-          "chord": "Cadd9",
+          "chord": "D",
+          "lyric": "pie",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ces  (Cos when a heart breaks no it don't breakeven)",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "[Instrumental x2]"
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "Am7",
           "lyric": ""
         }
       ]
     },
     {
-      "className": "line",
-      "chordLyricPairs": [
-        {
-          "chord": "Em7",
-          "lyric": "  "
-        },
-        {
-          "chord": "D",
-          "lyric": "  "
-        },
-        {
-          "chord": "G",
-          "lyric": "  "
-        },
-        {
-          "chord": "Cadd9",
-          "lyric": ""
-        }
-      ]
-    },
-    {
-      "label": "[Verse]"
+      "label": "[Bridge]"
     },
     {
       "className": "chordLyricLine",
@@ -693,7 +675,7 @@
           "overLyric": true
         },
         {
-          "chord": "Em7",
+          "chord": "Em",
           "lyric": "his heart and my heart and ",
           "overLyric": true
         },
@@ -713,62 +695,74 @@
           "overLyric": true
         },
         {
-          "chord": "Cadd9",
+          "chord": "Am7",
           "lyric": "I took the blame.",
           "overLyric": true
         }
       ]
     },
     {
-      "className": "line",
-      "chordLyricPairs": [
-        {
-          "chord": null,
-          "lyric": "        E m7                       D           G Cadd9",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "line",
-      "chordLyricPairs": [
-        {
-          "chord": null,
-          "lyric": "Now I'm tryna make sense of what little remains, oh",
-          "overLyric": true
-        }
-      ]
-    },
-    {
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Cadd9",
-          "lyric": "Cos you left me with no love, no love to my name.",
+          "chord": null,
+          "lyric": "Now I'm ",
           "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
+        },
         {
-          "chord": "Em7",
-          "lyric": "I'm still alive but I'm",
+          "chord": "Em",
+          "lyric": "tryna make sense of what ",
           "overLyric": true
         },
         {
           "chord": "D",
-          "lyric": " barely breathin",
+          "lyric": "little remain",
           "overLyric": true
         },
         {
           "chord": "G",
-          "lyric": "g    ",
+          "lyric": "s, oh",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cos you ",
           "overLyric": true
         },
         {
-          "chord": "Cadd9",
+          "chord": "Am7",
+          "lyric": "left me with no love, no love to my name.",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "[Verse]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "I'm still alive but I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "barely breathing ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "Am7",
           "lyric": ""
         }
       ]
@@ -782,22 +776,21 @@
           "overLyric": true
         },
         {
-          "chord": "Em7",
-          "lyric": "prayed to a god that I",
+          "chord": "Em",
+          "lyric": "prayin' to a god that I ",
           "overLyric": true
         },
         {
           "chord": "D",
-          "lyric": " don't believe i",
+          "lyric": "don't believe in ",
           "overLyric": true
         },
         {
           "chord": "G",
-          "lyric": "n   ",
-          "overLyric": true
+          "lyric": " "
         },
         {
-          "chord": "Cadd9",
+          "chord": "Am7",
           "lyric": ""
         }
       ]
@@ -811,23 +804,23 @@
           "overLyric": true
         },
         {
-          "chord": "Em7",
-          "lyric": "I got time while",
+          "chord": "Em",
+          "lyric": "I got time while ",
           "overLyric": true
         },
         {
           "chord": "D",
-          "lyric": " she got fre",
+          "lyric": "she got free",
           "overLyric": true
         },
         {
           "chord": "G",
-          "lyric": "ed",
+          "lyric": "do",
           "overLyric": true
         },
         {
-          "chord": "Cadd9",
-          "lyric": "om",
+          "chord": "Am7",
+          "lyric": "m",
           "overLyric": true
         }
       ]
@@ -841,23 +834,8 @@
           "overLyric": true
         },
         {
-          "chord": "Em7",
-          "lyric": "when a heart breaks no it",
-          "overLyric": true
-        },
-        {
-          "chord": "D",
-          "lyric": " don't break",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": null,
-          "lyric": "No, it ",
+          "chord": "Em",
+          "lyric": "when a heart breaks no it ",
           "overLyric": true
         },
         {
@@ -871,23 +849,28 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
+          "chord": "G",
+          "lyric": "No, it don't break",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
           "chord": null,
           "lyric": "No, it ",
           "overLyric": true
         },
         {
-          "chord": "D",
-          "lyric": "don't break eve",
+          "chord": "Am7",
+          "lyric": "don't break even, ",
           "overLyric": true
         },
         {
-          "chord": "G",
-          "lyric": "n,",
-          "overLyric": true
-        },
-        {
-          "chord": "Cadd9",
-          "lyric": " no!",
+          "chord": "C",
+          "lyric": "no!",
           "overLyric": true
         }
       ]
@@ -899,106 +882,23 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Cadd9",
-          "lyric": " What am I"
-        },
-        {
-          "chord": "G",
-          "lyric": " sposed to do when the",
-          "overLyric": true
-        },
-        {
-          "chord": "D",
-          "lyric": " best part of me was",
-          "overLyric": true
-        },
-        {
-          "chord": "Em7",
-          "lyric": " always you",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": "Cadd9",
-          "lyric": " What am I"
-        },
-        {
-          "chord": "G",
-          "lyric": " sposed to say when I'm",
-          "overLyric": true
-        },
-        {
-          "chord": "D",
-          "lyric": " all choked up and",
-          "overLyric": true
-        },
-        {
-          "chord": "Em7",
-          "lyric": " your ok",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": "Cadd9",
-          "lyric": "     I'm",
-          "overLyric": true
-        },
-        {
-          "chord": "G",
-          "lyric": " falling to",
-          "overLyric": true
-        },
-        {
-          "chord": "D",
-          "lyric": " pi",
-          "overLyric": true
-        },
-        {
-          "chord": "Em7",
-          "lyric": "eces",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": "Cadd9",
-          "lyric": "     I'm",
-          "overLyric": true
-        },
-        {
-          "chord": "G",
-          "lyric": " falling to",
-          "overLyric": true
-        },
-        {
-          "chord": "D",
-          "lyric": " pi",
-          "overLyric": true
-        },
-        {
-          "chord": "Em7",
-          "lyric": "eces",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "line",
-      "chordLyricPairs": [
-        {
           "chord": null,
-          "lyric": "(Oh, I'm falling, I'm falling)",
+          "lyric": "What am I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "gonna do when the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "best part of me was ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "always you, and",
           "overLyric": true
         }
       ]
@@ -1007,33 +907,23 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Cadd9",
-          "lyric": "     I'm",
+          "chord": "C",
+          "lyric": "What am I ",
           "overLyric": true
         },
         {
           "chord": "G",
-          "lyric": " falling to",
+          "lyric": "supposed to say when I'm ",
           "overLyric": true
         },
         {
           "chord": "D",
-          "lyric": " pi",
+          "lyric": "all choked up that ",
           "overLyric": true
         },
         {
-          "chord": "Em7",
-          "lyric": "eces",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "line",
-      "chordLyricPairs": [
-        {
-          "chord": null,
-          "lyric": "(One still in love while the other one's leaving)",
+          "chord": "Em",
+          "lyric": "you're OK",
           "overLyric": true
         }
       ]
@@ -1042,33 +932,98 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Cadd9",
-          "lyric": "     I'm",
+          "chord": "C",
+          "lyric": " I'm ",
           "overLyric": true
         },
         {
           "chord": "G",
-          "lyric": " falling to",
+          "lyric": "falling to ",
           "overLyric": true
         },
         {
           "chord": "D",
-          "lyric": " pi",
+          "lyric": "pie",
           "overLyric": true
         },
         {
-          "chord": "Em7",
-          "lyric": "eces",
+          "chord": "Em",
+          "lyric": "ces, yeah",
           "overLyric": true
         }
       ]
     },
     {
-      "className": "line",
+      "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": null,
-          "lyric": "(Cos when a heart breaks no it don't breakeven)",
+          "chord": "C",
+          "lyric": " I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "falling to ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "pie",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ces, yeah  (Oh, I'm falling, I'm falling... yeah)",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "falling to ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "pie",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ces (One still in love while the other one's leaving)",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "falling to ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "pie",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ces  (Cos when a heart breaks no it don't breakeven)",
           "overLyric": true
         }
       ]
@@ -1077,88 +1032,22 @@
       "label": "[Outro]"
     },
     {
-      "className": "chordLyricLine",
+      "className": "line",
       "chordLyricPairs": [
         {
-          "chord": null,
-          "lyric": "Oh, it don't bre",
-          "overLyric": true
-        },
-        {
-          "chord": "Cadd9",
-          "lyric": "ak even",
-          "overLyric": true
+          "chord": "C",
+          "lyric": " "
         },
         {
           "chord": "G",
-          "lyric": ", no, o",
-          "overLyric": true
+          "lyric": " "
         },
         {
           "chord": "D",
-          "lyric": "h  ",
-          "overLyric": true
+          "lyric": " "
         },
         {
-          "chord": "Em7",
-          "lyric": ""
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": null,
-          "lyric": "Oh, it don't bre",
-          "overLyric": true
-        },
-        {
-          "chord": "Cadd9",
-          "lyric": "ak even",
-          "overLyric": true
-        },
-        {
-          "chord": "G",
-          "lyric": ", no, o",
-          "overLyric": true
-        },
-        {
-          "chord": "D",
-          "lyric": "h  ",
-          "overLyric": true
-        },
-        {
-          "chord": "Em7",
-          "lyric": ""
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": null,
-          "lyric": "Oh, it don't bre",
-          "overLyric": true
-        },
-        {
-          "chord": "Cadd9",
-          "lyric": "ak even",
-          "overLyric": true
-        },
-        {
-          "chord": "G",
-          "lyric": ", no, o",
-          "overLyric": true
-        },
-        {
-          "chord": "D",
-          "lyric": "h  ",
-          "overLyric": true
-        },
-        {
-          "chord": "Em7",
+          "chord": "Em",
           "lyric": ""
         }
       ]
@@ -1167,19 +1056,112 @@
       "className": "line",
       "chordLyricPairs": [
         {
-          "chord": "Cadd9",
-          "lyric": "  "
+          "chord": "C",
+          "lyric": " "
         },
         {
           "chord": "G",
-          "lyric": "  "
+          "lyric": " "
         },
         {
           "chord": "D",
-          "lyric": "  "
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Oh, it don't break ",
+          "overLyric": true
         },
         {
-          "chord": "Em7",
+          "chord": "C",
+          "lyric": "even, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "no  ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Oh, it don't break ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "even, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "no  ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Oh, it don't break ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "even, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "no  ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "Em",
           "lyric": ""
         }
       ]
