@@ -1,30 +1,67 @@
 {
   "allChords": [
-    "E♭",
-    "B♭",
-    "Gm",
-    "F",
+    "Bb",
+    "Bbsus4",
     "Eb",
-    "Bb"
+    "F",
+    "Gm"
   ],
   "artist": "Carly Rae Jepsen",
   "fullName": "Want You In My Room - Carly Rae Jepsen",
   "id": "want_you_in_my_room - carly_rae_jepsen",
   "lines": [
     {
-      "label": "[Intro]"
+      "label": "[Verse 1]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A|",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "------------",
+          "overLyric": true
+        },
+        {
+          "chord": "Bbsus4",
+          "lyric": "------------",
+          "overLyric": true
+        }
+      ]
     },
     {
       "className": "line",
       "chordLyricPairs": [
         {
-          "chord": "E♭",
-          "lyric": ""
+          "chord": null,
+          "lyric": "E|--1--1---1----1--1---1--",
+          "overLyric": true
         }
       ]
     },
     {
-      "label": "[Verse 1]"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "C|-2-2--2-2-2--3-3--3-3-3-",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "G|3-----------3-----------",
+          "overLyric": true
+        }
+      ]
     },
     {
       "className": "chordLyricLine",
@@ -35,12 +72,12 @@
           "overLyric": true
         },
         {
-          "chord": "B♭",
+          "chord": "Bb",
           "lyric": "lights out (Hey), where you going",
           "overLyric": true
         },
         {
-          "chord": "E♭",
+          "chord": "Bbsus4",
           "lyric": "?",
           "overLyric": true
         }
@@ -55,12 +92,12 @@
           "overLyric": true
         },
         {
-          "chord": "B♭",
+          "chord": "Bb",
           "lyric": "window, for you, it's always open",
           "overLyric": true
         },
         {
-          "chord": "E♭",
+          "chord": "Bbsus4",
           "lyric": ""
         }
       ]
@@ -74,13 +111,13 @@
           "overLyric": true
         },
         {
-          "chord": "Gm",
-          "lyric": "lighthouse, I'm a reminder of where you g",
+          "chord": "Bb",
+          "lyric": "lighthouse, I'm a reminder of ",
           "overLyric": true
         },
         {
-          "chord": "E♭",
-          "lyric": "oing",
+          "chord": "Bbsus4",
+          "lyric": "where you going",
           "overLyric": true
         }
       ]
@@ -94,7 +131,7 @@
           "overLyric": true
         },
         {
-          "chord": "Gm",
+          "chord": "Bb",
           "lyric": "head now, from every second now",
           "overLyric": true
         }
@@ -109,7 +146,7 @@
           "overLyric": true
         },
         {
-          "chord": "E♭",
+          "chord": "Bbsus4",
           "lyric": "love growing?",
           "overLyric": true
         }
@@ -123,16 +160,16 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "  Oh, with ",
+          "lyric": "Oh, with ",
           "overLyric": true
         },
         {
-          "chord": "B♭",
+          "chord": "Eb",
           "lyric": "you (Hey), a ",
           "overLyric": true
         },
         {
-          "chord": "E♭",
+          "chord": "Bb",
           "lyric": "girl could get bolder",
           "overLyric": true
         }
@@ -143,17 +180,17 @@
       "chordLyricPairs": [
         {
           "chord": "F",
-          "lyric": "I just wanna get a",
+          "lyric": " I just wanna get a ",
           "overLyric": true
         },
         {
           "chord": "Gm",
-          "lyric": " little bit closer ",
+          "lyric": "little bit closer (",
           "overLyric": true
         },
         {
-          "chord": "E♭",
-          "lyric": "(Ha-ah-ah)",
+          "chord": "Eb",
+          "lyric": "Ha-ah-ah)",
           "overLyric": true
         }
       ]
@@ -163,12 +200,12 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "And I'll press ",
+          "lyric": "And I'll ",
           "overLyric": true
         },
         {
-          "chord": "B♭",
-          "lyric": "you to the ",
+          "chord": "Bb",
+          "lyric": "press you to the ",
           "overLyric": true
         },
         {
@@ -192,12 +229,12 @@
           "overLyric": true
         },
         {
-          "chord": "E♭",
+          "chord": "Eb",
           "lyric": "go, no (Hey), the ",
           "overLyric": true
         },
         {
-          "chord": "B♭",
+          "chord": "Bb",
           "lyric": "night's not over",
           "overLyric": true
         }
@@ -208,17 +245,17 @@
       "chordLyricPairs": [
         {
           "chord": "F",
-          "lyric": "I just wanna get a l",
+          "lyric": " I just wanna get a ",
           "overLyric": true
         },
         {
           "chord": "Gm",
-          "lyric": "ittle bit closer (A little bit c",
+          "lyric": "little bit closer (A little bit ",
           "overLyric": true
         },
         {
-          "chord": "E♭",
-          "lyric": "loser)",
+          "chord": "Eb",
+          "lyric": "closer)",
           "overLyric": true
         }
       ]
@@ -232,7 +269,7 @@
           "overLyric": true
         },
         {
-          "chord": "B♭",
+          "chord": "Bb",
           "lyric": "press you to the ",
           "overLyric": true
         },
@@ -260,13 +297,13 @@
           "overLyric": true
         },
         {
-          "chord": "E♭",
-          "lyric": "want you in my r",
+          "chord": "Eb",
+          "lyric": "want you in my ",
           "overLyric": true
         },
         {
-          "chord": "B♭",
-          "lyric": "oom)",
+          "chord": "Bb",
+          "lyric": "room)",
           "overLyric": true
         }
       ]
@@ -300,12 +337,12 @@
           "overLyric": true
         },
         {
-          "chord": "E♭",
+          "chord": "Eb",
           "lyric": "want you in my ",
           "overLyric": true
         },
         {
-          "chord": "B♭",
+          "chord": "Bb",
           "lyric": "room)",
           "overLyric": true
         }
@@ -316,12 +353,12 @@
       "chordLyricPairs": [
         {
           "chord": "F",
-          "lyric": "I don't care an",
+          "lyric": "I don't care any",
           "overLyric": true
         },
         {
           "chord": "Gm",
-          "lyric": "ymore",
+          "lyric": "more",
           "overLyric": true
         }
       ]
@@ -335,12 +372,12 @@
           "overLyric": true
         },
         {
-          "chord": "E♭",
+          "chord": "Eb",
           "lyric": "do bad things to ",
           "overLyric": true
         },
         {
-          "chord": "B♭",
+          "chord": "Bb",
           "lyric": "you",
           "overLyric": true
         }
@@ -370,13 +407,13 @@
           "overLyric": true
         },
         {
-          "chord": "E♭",
-          "lyric": "want you in my r",
+          "chord": "Eb",
+          "lyric": "want you in my ",
           "overLyric": true
         },
         {
-          "chord": "B♭",
-          "lyric": "oom)",
+          "chord": "Bb",
+          "lyric": "room)",
           "overLyric": true
         }
       ]
@@ -403,18 +440,18 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "F",
-          "lyric": "  When no one "
-        },
-        {
-          "chord": "B♭",
-          "lyric": "loves you like they r",
+          "chord": null,
+          "lyric": "When no one ",
           "overLyric": true
         },
         {
-          "chord": "E♭",
-          "lyric": "eally mean it",
+          "chord": "Bb",
+          "lyric": "loves you like they really mean it ",
           "overLyric": true
+        },
+        {
+          "chord": "Bbsus4",
+          "lyric": ""
         }
       ]
     },
@@ -427,7 +464,7 @@
           "overLyric": true
         },
         {
-          "chord": "B♭",
+          "chord": "Bb",
           "lyric": "covered, under covers",
           "overLyric": true
         }
@@ -437,8 +474,8 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "E♭",
-          "lyric": "Can you feel it?",
+          "chord": "Bbsus4",
+          "lyric": " Can you feel it?",
           "overLyric": true
         }
       ]
@@ -451,22 +488,18 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "  Oh, with y",
+          "lyric": "Oh, with ",
           "overLyric": true
         },
         {
-          "chord": "E♭",
-          "lyric": "ou (Hey), a ",
+          "chord": "Eb",
+          "lyric": "you (Hey), a ",
           "overLyric": true
         },
         {
-          "chord": "B♭",
-          "lyric": "girl could get bolder  ",
+          "chord": "Bb",
+          "lyric": "girl could get bolder",
           "overLyric": true
-        },
-        {
-          "chord": "F",
-          "lyric": ""
         }
       ]
     },
@@ -474,8 +507,8 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": null,
-          "lyric": "I just wanna get a ",
+          "chord": "F",
+          "lyric": " I just wanna get a ",
           "overLyric": true
         },
         {
@@ -484,7 +517,7 @@
           "overLyric": true
         },
         {
-          "chord": "E♭",
+          "chord": "Eb",
           "lyric": "Ha-ah-ah)",
           "overLyric": true
         }
@@ -499,7 +532,7 @@
           "overLyric": true
         },
         {
-          "chord": "B♭",
+          "chord": "Bb",
           "lyric": "press you to the ",
           "overLyric": true
         },
@@ -524,18 +557,14 @@
           "overLyric": true
         },
         {
-          "chord": "E♭",
-          "lyric": "go, no (Hey), the n",
+          "chord": "Eb",
+          "lyric": "go, no (Hey), the ",
           "overLyric": true
         },
         {
-          "chord": "B♭",
-          "lyric": "ight's not over",
+          "chord": "Bb",
+          "lyric": "night's not over",
           "overLyric": true
-        },
-        {
-          "chord": "F",
-          "lyric": ""
         }
       ]
     },
@@ -543,8 +572,8 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": null,
-          "lyric": "I just wanna get a ",
+          "chord": "F",
+          "lyric": " I just wanna get a ",
           "overLyric": true
         },
         {
@@ -553,7 +582,7 @@
           "overLyric": true
         },
         {
-          "chord": "E♭",
+          "chord": "Eb",
           "lyric": "closer)",
           "overLyric": true
         }
@@ -568,18 +597,18 @@
           "overLyric": true
         },
         {
-          "chord": "B♭",
+          "chord": "Bb",
           "lyric": "press you to the ",
           "overLyric": true
         },
         {
           "chord": "F",
-          "lyric": "pages of my",
+          "lyric": "pages of my ",
           "overLyric": true
         },
         {
           "chord": "Gm",
-          "lyric": " heart (Hey)",
+          "lyric": "heart (Hey)",
           "overLyric": true
         }
       ]
@@ -596,13 +625,13 @@
           "overLyric": true
         },
         {
-          "chord": "E♭",
-          "lyric": "want you in my r",
+          "chord": "Eb",
+          "lyric": "want you in my ",
           "overLyric": true
         },
         {
-          "chord": "B♭",
-          "lyric": "oom)",
+          "chord": "Bb",
+          "lyric": "room)",
           "overLyric": true
         }
       ]
@@ -636,12 +665,12 @@
           "overLyric": true
         },
         {
-          "chord": "E♭",
+          "chord": "Eb",
           "lyric": "want you in my ",
           "overLyric": true
         },
         {
-          "chord": "B♭",
+          "chord": "Bb",
           "lyric": "room)",
           "overLyric": true
         }
@@ -651,13 +680,8 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": null,
-          "lyric": "I don't c",
-          "overLyric": true
-        },
-        {
           "chord": "F",
-          "lyric": "are any",
+          "lyric": "I don't care any",
           "overLyric": true
         },
         {
@@ -676,12 +700,12 @@
           "overLyric": true
         },
         {
-          "chord": "E♭",
+          "chord": "Eb",
           "lyric": "do bad things to ",
           "overLyric": true
         },
         {
-          "chord": "B♭",
+          "chord": "Bb",
           "lyric": "you",
           "overLyric": true
         }
@@ -711,12 +735,12 @@
           "overLyric": true
         },
         {
-          "chord": "E♭",
+          "chord": "Eb",
           "lyric": "want you in my ",
           "overLyric": true
         },
         {
-          "chord": "B♭",
+          "chord": "Bb",
           "lyric": "room)",
           "overLyric": true
         }
