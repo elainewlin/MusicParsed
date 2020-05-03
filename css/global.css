@@ -4,7 +4,8 @@ Note: always import bootstrap first, or else it'll overwrite styles
 @import "~bootstrap/dist/css/bootstrap.css";
 
 :root {
-  --main-blue: #337ab7;
+  --dark-blue: #337ab7;
+  --main-blue: var(--dark-blue);
   --theme-text: black;
   --theme-background: white;
 }
@@ -22,7 +23,6 @@ Note: always import bootstrap first, or else it'll overwrite styles
     --theme-background: black;
   }
 
-  img,
   svg {
     filter: invert(100%);
   }
@@ -56,13 +56,13 @@ pre {
 /* Navbar styles */
 
 .navbar-light .navbar-nav .nav-link {
-  color: var(--main-blue);
+  color: var(--dark-blue);
 }
 
 .navbar-light .navbar-nav .nav-link:hover {
   font-weight: 500;
   text-decoration: none;
-  color: var(--main-blue);
+  color: var(--dark-blue);
 }
 
 /* Navbar social icons */
@@ -74,8 +74,8 @@ pre {
 .social-image {
   padding: 0 4px;
   vertical-align: middle;
-  color: var(--theme-text);
   font-size: 28px;
+  color: black;
 }
 
 .social-image:hover {
