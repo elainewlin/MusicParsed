@@ -22,7 +22,7 @@
         },
         {
           "chord": "C",
-          "lyric": "car",
+          "lyric": "car.",
           "overLyric": true
         }
       ]
@@ -37,7 +37,7 @@
         },
         {
           "chord": "G",
-          "lyric": "anywhere",
+          "lyric": "anywhere.",
           "overLyric": true
         }
       ]
@@ -47,12 +47,12 @@
       "chordLyricPairs": [
         {
           "chord": "F",
-          "lyric": "Maybe we can make a ",
+          "lyric": "Maybe we make a ",
           "overLyric": true
         },
         {
           "chord": "C",
-          "lyric": "deal",
+          "lyric": "deal,",
           "overLyric": true
         }
       ]
@@ -67,7 +67,7 @@
         },
         {
           "chord": "G",
-          "lyric": "get somewhere",
+          "lyric": "get somewhere.",
           "overLyric": true
         }
       ]
@@ -77,12 +77,12 @@
       "chordLyricPairs": [
         {
           "chord": "F",
-          "lyric": "Anyplace is ",
+          "lyric": "Any place is ",
           "overLyric": true
         },
         {
           "chord": "C",
-          "lyric": "better",
+          "lyric": "better.",
           "overLyric": true
         }
       ]
@@ -92,12 +92,12 @@
       "chordLyricPairs": [
         {
           "chord": "Am",
-          "lyric": "Starting from zero got ",
+          "lyric": "Starting from zero, got ",
           "overLyric": true
         },
         {
           "chord": "G",
-          "lyric": "nothing to lose",
+          "lyric": "nothing to lose.",
           "overLyric": true
         }
       ]
@@ -112,7 +112,7 @@
         },
         {
           "chord": "C",
-          "lyric": "something",
+          "lyric": "something,",
           "overLyric": true
         }
       ]
@@ -122,12 +122,12 @@
       "chordLyricPairs": [
         {
           "chord": "Am",
-          "lyric": "Me myself I've got ",
+          "lyric": "Me myself, I got ",
           "overLyric": true
         },
         {
           "chord": "G",
-          "lyric": "nothing to prove",
+          "lyric": "nothing to prove.",
           "overLyric": true
         }
       ]
@@ -139,8 +139,136 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
+          "chord": "F",
+          "lyric": "You got a fast ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "car.",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I got a plan to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "get us out of here",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I been working at the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "convenience store,",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Managed to save just a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "little bit of money.",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Won't have to drive too ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "far",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Just 'cross the border and ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "into the city,",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "You and I can ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "both get jobs",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
           "chord": null,
-          "lyric": "See ",
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "finally see what it ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "means to be living.",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "[Verse 3]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You see, ",
           "overLyric": true
         },
         {
@@ -165,12 +293,12 @@
         },
         {
           "chord": "Am",
-          "lyric": "lives with a bottle that's the ",
+          "lyric": "live with the bottle, that’s the ",
           "overLyric": true
         },
         {
           "chord": "G",
-          "lyric": "way it is",
+          "lyric": "way it is.",
           "overLyric": true
         }
       ]
@@ -180,17 +308,17 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "He says his ",
+          "lyric": "He ",
           "overLyric": true
         },
         {
           "chord": "F",
-          "lyric": "body's too old for ",
+          "lyric": "says his body's too old for ",
           "overLyric": true
         },
         {
           "chord": "C",
-          "lyric": "working",
+          "lyric": "working,",
           "overLyric": true
         }
       ]
@@ -210,7 +338,7 @@
         },
         {
           "chord": "G",
-          "lyric": "look like his",
+          "lyric": "look like his.",
           "overLyric": true
         }
       ]
@@ -225,22 +353,12 @@
         },
         {
           "chord": "F",
-          "lyric": "momma went off and ",
+          "lyric": "mama went off and ",
           "overLyric": true
         },
         {
           "chord": "C",
-          "lyric": "left him",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": null,
-          "lyric": "She ",
+          "lyric": "left him, she ",
           "overLyric": true
         },
         {
@@ -250,7 +368,7 @@
         },
         {
           "chord": "G",
-          "lyric": "he could give",
+          "lyric": "he could give,",
           "overLyric": true
         }
       ]
@@ -260,80 +378,17 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "I said ",
+          "lyric": "I said, \"",
           "overLyric": true
         },
         {
           "chord": "F",
-          "lyric": "somebody's gotta ",
+          "lyric": "Somebody's got to take ",
           "overLyric": true
         },
         {
           "chord": "C",
-          "lyric": "take care of him",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": "Am",
-          "lyric": "So I quit school and that's ",
-          "overLyric": true
-        },
-        {
-          "chord": "G",
-          "lyric": "what I did",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "label": "[Chorus]"
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": null,
-          "lyric": "So I remember when we were ",
-          "overLyric": true
-        },
-        {
-          "chord": "F",
-          "lyric": "driving",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "line",
-      "chordLyricPairs": [
-        {
-          "chord": null,
-          "lyric": "Driving in your car",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": "C",
-          "lyric": "Speed so fast felt like I was drunk",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": "Am",
-          "lyric": "City lights lay out before us",
+          "lyric": "care of him.\"",
           "overLyric": true
         }
       ]
@@ -343,205 +398,17 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "And your ",
-          "overLyric": true
-        },
-        {
-          "chord": "G",
-          "lyric": "arm felt nice wrapped around my shoulder",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": null,
-          "lyric": "and ",
-          "overLyric": true
-        },
-        {
-          "chord": "F",
-          "lyric": "I-",
-          "overLyric": true
-        },
-        {
-          "chord": "C",
-          "lyric": "I had a ",
-          "overLyric": true
-        },
-        {
-          "chord": "G",
-          "lyric": "feeling that I belonged",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": null,
-          "lyric": "And ",
-          "overLyric": true
-        },
-        {
-          "chord": "F",
-          "lyric": "I-",
-          "overLyric": true
-        },
-        {
-          "chord": "C",
-          "lyric": "I had a ",
-          "overLyric": true
-        },
-        {
-          "chord": "G",
-          "lyric": "feeling I could be someone,",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": "F",
-          "lyric": "be someone, ",
-          "overLyric": true
-        },
-        {
-          "chord": "G",
-          "lyric": "be someone",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "label": "[Verse 3]"
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": "F",
-          "lyric": "You got a fast ",
-          "overLyric": true
-        },
-        {
-          "chord": "C",
-          "lyric": "car",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": "Am",
-          "lyric": "We go cruising to enter",
-          "overLyric": true
-        },
-        {
-          "chord": "G",
-          "lyric": "tain ourselves",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": "F",
-          "lyric": "You still ain't got a ",
-          "overLyric": true
-        },
-        {
-          "chord": "C",
-          "lyric": "job",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": null,
-          "lyric": "I ",
+          "lyric": "So ",
           "overLyric": true
         },
         {
           "chord": "Am",
-          "lyric": "work in a market as a ",
+          "lyric": "I quit school and that's ",
           "overLyric": true
         },
         {
           "chord": "G",
-          "lyric": "checkout girl",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": "F",
-          "lyric": "I know things will get ",
-          "overLyric": true
-        },
-        {
-          "chord": "C",
-          "lyric": "better",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": "Am",
-          "lyric": "You'll find work and ",
-          "overLyric": true
-        },
-        {
-          "chord": "G",
-          "lyric": "I'll get promoted",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": "F",
-          "lyric": "We'll move out of the ",
-          "overLyric": true
-        },
-        {
-          "chord": "C",
-          "lyric": "shelter",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": "Am",
-          "lyric": "Buy a bigger house and ",
-          "overLyric": true
-        },
-        {
-          "chord": "G",
-          "lyric": "live in the suburbs",
+          "lyric": "what I did.",
           "overLyric": true
         }
       ]
@@ -559,7 +426,7 @@
         },
         {
           "chord": "C",
-          "lyric": "car",
+          "lyric": "car.",
           "overLyric": true
         }
       ]
@@ -569,12 +436,12 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "Is it ",
+          "lyric": "But is it ",
           "overLyric": true
         },
         {
           "chord": "Am",
-          "lyric": "fast enough so you can ",
+          "lyric": "fast enough so we can ",
           "overLyric": true
         },
         {
@@ -609,7 +476,7 @@
         },
         {
           "chord": "G",
-          "lyric": "die this way",
+          "lyric": "die this way.",
           "overLyric": true
         }
       ]
@@ -738,6 +605,351 @@
         {
           "chord": "G",
           "lyric": "be someone",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "[Verse 5]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "You got a fast ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "car.",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "we go cruising to enter",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "tain ourselves;",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "you still ain't got a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "job",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "work in a market as a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "checkout girl.",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I know things will get ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "better",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "You'll find work and ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "I'll get promoted,",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "We'll move out of the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "shelter",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Buy a bigger house and ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "live in the suburbs.",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "[Chorus]"
+    },
+    {
+      "label": "[Verse 6]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "You got a fast ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "car.",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "I got a job that ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "pays all our bills.",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "You stay out drinking ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "late at the bar,",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You see ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "more your friends than you ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "do your kids.",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I'd always hoped for ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "better,",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Thought maybe together ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "you and me would find it,",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I got no plans I ain't ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "going nowhere,",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "so ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "take your fast car and ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "keep on driving.",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "[Chorus]"
+    },
+    {
+      "label": "[Verse 7]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "You got a fast ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "car.",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But is it ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "fast enough so you can ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "fly away?",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "You gotta make a de",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "cision",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Leave tonight or live and ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "die this way.",
           "overLyric": true
         }
       ]
