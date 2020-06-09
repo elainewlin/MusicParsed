@@ -31,6 +31,78 @@
       ]
     },
     {
+      "label": "[Strum Pattern]"
+    },
+    {
+      "label": "Intro:"
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "1 + 2 + 3 + 4 +",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "p U D U   U D U",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "Verse:"
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "1 + 2 + 3 + 4 +",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "B U S U   U D U",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "Chorus:"
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "1e+a2e+a",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "B U SUdU",
+          "overLyric": true
+        }
+      ]
+    },
+    {
       "label": "[Intro]"
     },
     {
@@ -309,12 +381,7 @@
       "chordLyricPairs": [
         {
           "chord": "C",
-          "lyric": "Stoned in para",
-          "overLyric": true
-        },
-        {
-          "chord": "Fm",
-          "lyric": "dise",
+          "lyric": "Stoned in paradise",
           "overLyric": true
         }
       ]
@@ -323,12 +390,27 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": null,
+          "chord": "Fm",
           "lyric": "Shouldn't ",
           "overLyric": true
         },
         {
           "chord": "Eb6",
+          "lyric": "talk about it",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm",
+          "lyric": "Shouldn't ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb6/",
           "lyric": "talk about it",
           "overLyric": true
         }
@@ -613,12 +695,7 @@
       "chordLyricPairs": [
         {
           "chord": "C",
-          "lyric": "Stoned in para",
-          "overLyric": true
-        },
-        {
-          "chord": "Fm",
-          "lyric": "dise",
+          "lyric": "Stoned in paradise",
           "overLyric": true
         }
       ]
@@ -627,7 +704,7 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": null,
+          "chord": "Fm",
           "lyric": "Shouldn't ",
           "overLyric": true
         },
@@ -718,12 +795,7 @@
       "chordLyricPairs": [
         {
           "chord": "C",
-          "lyric": "Stoned in para",
-          "overLyric": true
-        },
-        {
-          "chord": "Fm",
-          "lyric": "dise",
+          "lyric": "Stoned in paradise",
           "overLyric": true
         }
       ]
@@ -732,7 +804,7 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": null,
+          "chord": "Fm",
           "lyric": "Shouldn't ",
           "overLyric": true
         },
@@ -747,7 +819,7 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "C",
+          "chord": "Fm",
           "lyric": "Shouldn't ",
           "overLyric": true
         },
