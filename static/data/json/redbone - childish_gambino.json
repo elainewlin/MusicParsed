@@ -4,10 +4,10 @@
     "C",
     "Dm",
     "Gm",
-    "Fm",
+    "F",
     "Edim",
-    "A",
-    "Cm"
+    "C#",
+    "A"
   ],
   "artist": "Childish Gambino",
   "fullName": "Redbone - Childish Gambino",
@@ -27,31 +27,112 @@
       "label": "[Intro]"
     },
     {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A|-",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "1-0-----",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "-----",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "-0---0-0-----3-",
+          "overLyric": true
+        }
+      ]
+    },
+    {
       "className": "line",
       "chordLyricPairs": [
         {
+          "chord": null,
+          "lyric": "E|-1---3-1-0-----1---1-1-0-1---",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "C|-2-------0-0---2---2-2-------",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "G|-3-------0---2-2---2-2-------",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A|-",
+          "overLyric": true
+        },
+        {
           "chord": "Bb",
-          "lyric": " "
+          "lyric": "0-----",
+          "overLyric": true
         },
         {
           "chord": "C",
-          "lyric": " "
+          "lyric": "-----",
+          "overLyric": true
         },
         {
           "chord": "Dm",
-          "lyric": " "
-        },
+          "lyric": "-0----",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
         {
-          "chord": "Bb",
-          "lyric": " "
-        },
+          "chord": null,
+          "lyric": "E|-1-0---0-1-3-1----",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
         {
-          "chord": "C",
-          "lyric": " "
-        },
+          "chord": null,
+          "lyric": "C|-2-----0-----2----",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
         {
-          "chord": "Dm",
-          "lyric": ""
+          "chord": null,
+          "lyric": "G|-3-----0-----2----",
+          "overLyric": true
         }
       ]
     },
@@ -63,16 +144,11 @@
       "chordLyricPairs": [
         {
           "chord": "Bb",
-          "lyric": "Dayligh",
+          "lyric": "Daylight ",
           "overLyric": true
         },
         {
           "chord": "C",
-          "lyric": "t    ",
-          "overLyric": true
-        },
-        {
-          "chord": "Dm",
           "lyric": ""
         }
       ]
@@ -82,20 +158,21 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "I wake up feeling like you won't ",
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "wake up feeling like you won't ",
           "overLyric": true
         },
         {
           "chord": "Bb",
-          "lyric": "play right",
+          "lyric": "play right ",
           "overLyric": true
         },
         {
           "chord": "C",
-          "lyric": "    "
-        },
-        {
-          "chord": "Dm",
           "lyric": ""
         }
       ]
@@ -105,20 +182,21 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "I used to know, but now that shit don't ",
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "used to know, but now that shit don't ",
           "overLyric": true
         },
         {
           "chord": "Bb",
-          "lyric": "feel right",
+          "lyric": "feel right ",
           "overLyric": true
         },
         {
           "chord": "C",
-          "lyric": "   "
-        },
-        {
-          "chord": "Dm",
           "lyric": ""
         }
       ]
@@ -128,7 +206,12 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "It made me put away my ",
+          "lyric": "It ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "made me put away my ",
           "overLyric": true
         },
         {
@@ -156,10 +239,6 @@
         },
         {
           "chord": "C",
-          "lyric": "    "
-        },
-        {
-          "chord": "Dm",
           "lyric": ""
         }
       ]
@@ -169,20 +248,21 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "You made a fella wait for some, ",
+          "lyric": "You ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "made a fella wait for some, ",
           "overLyric": true
         },
         {
           "chord": "Bb",
-          "lyric": "so long",
+          "lyric": "so long ",
           "overLyric": true
         },
         {
           "chord": "C",
-          "lyric": "    "
-        },
-        {
-          "chord": "Dm",
           "lyric": ""
         }
       ]
@@ -192,7 +272,12 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "You make it hard for a boy like that to ",
+          "lyric": "You ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "make it hard for a boy like that to ",
           "overLyric": true
         },
         {
@@ -202,10 +287,6 @@
         },
         {
           "chord": "C",
-          "lyric": "    "
-        },
-        {
-          "chord": "Dm",
           "lyric": ""
         }
       ]
@@ -215,21 +296,26 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "I'm wishing I could make this m",
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "wishing I could make this ",
           "overLyric": true
         },
         {
           "chord": "Bb",
-          "lyric": "ine, oh",
+          "lyric": "mine,",
           "overLyric": true
         },
         {
           "chord": "C",
-          "lyric": "    "
+          "lyric": "  "
         },
         {
           "chord": "Dm",
-          "lyric": ""
+          "lyric": "  oh"
         }
       ]
     },
@@ -261,18 +347,12 @@
         },
         {
           "chord": "Gm",
-          "lyric": "have i",
+          "lyric": "have it,",
           "overLyric": true
         },
         {
-          "chord": "Gm",
-          "lyric": "t, ",
-          "overLyric": true
-        },
-        {
-          "chord": "Fm",
-          "lyric": "oh, oh, oh",
-          "overLyric": true
+          "chord": "F",
+          "lyric": ""
         }
       ]
     },
@@ -286,8 +366,12 @@
         },
         {
           "chord": "Edim",
-          "lyric": "need it, oooh",
+          "lyric": "need it,    ",
           "overLyric": true
+        },
+        {
+          "chord": "C#",
+          "lyric": ""
         }
       ]
     },
@@ -295,13 +379,13 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "C",
-          "lyric": "We can make it,",
+          "chord": null,
+          "lyric": "We can ",
           "overLyric": true
         },
         {
           "chord": "Dm",
-          "lyric": " oh",
+          "lyric": "make it, oh",
           "overLyric": true
         }
       ]
@@ -316,37 +400,31 @@
         },
         {
           "chord": "Gm",
-          "lyric": "want i",
+          "lyric": "want it ",
           "overLyric": true
         },
         {
-          "chord": "Gm",
-          "lyric": "t  ",
-          "overLyric": true
-        },
-        {
-          "chord": "Fm",
+          "chord": "F",
           "lyric": ""
         }
       ]
     },
     {
-      "className": "line",
+      "className": "chordLyricLine",
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "        F      (Bb)(switches to D# major)",
+          "lyric": "You can ",
           "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "line",
-      "chordLyricPairs": [
+        },
         {
-          "chord": null,
-          "lyric": "You can have it",
+          "chord": "Edim",
+          "lyric": "have it ",
           "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": ""
         }
       ]
     },
@@ -357,13 +435,13 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "A",
-          "lyric": "But stay wok",
+          "chord": null,
+          "lyric": "But stay wo",
           "overLyric": true
         },
         {
           "chord": "Bb",
-          "lyric": "e  ",
+          "lyric": "ke ",
           "overLyric": true
         },
         {
@@ -377,7 +455,7 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "Niggas ",
+          "lyric": "They be ",
           "overLyric": true
         },
         {
@@ -425,13 +503,14 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "A",
-          "lyric": "Now stay woke",
+          "chord": null,
+          "lyric": "Now stay wok",
           "overLyric": true
         },
         {
           "chord": "Bb",
-          "lyric": " "
+          "lyric": "e  ",
+          "overLyric": true
         },
         {
           "chord": "C",
@@ -444,7 +523,7 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "Niggas ",
+          "lyric": "They be ",
           "overLyric": true
         },
         {
@@ -464,12 +543,12 @@
         },
         {
           "chord": "Bb",
-          "lyric": "close you",
+          "lyric": "close your ",
           "overLyric": true
         },
         {
-          "chord": "Cm",
-          "lyric": "r eyes  ",
+          "chord": "C",
+          "lyric": "eyes ",
           "overLyric": true
         },
         {
@@ -491,10 +570,6 @@
         },
         {
           "chord": "C",
-          "lyric": "  "
-        },
-        {
-          "chord": "Dm",
           "lyric": ""
         }
       ]
@@ -504,7 +579,12 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "You wanna make it right, but now it's ",
+          "lyric": "You ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "wanna make it right, but now it's ",
           "overLyric": true
         },
         {
@@ -514,10 +594,6 @@
         },
         {
           "chord": "C",
-          "lyric": "  "
-        },
-        {
-          "chord": "Dm",
           "lyric": ""
         }
       ]
@@ -527,7 +603,12 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "My peanut butter chocolate cake with ",
+          "lyric": "My ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "peanut butter chocolate cake with ",
           "overLyric": true
         },
         {
@@ -537,10 +618,6 @@
         },
         {
           "chord": "C",
-          "lyric": "  "
-        },
-        {
-          "chord": "Dm",
           "lyric": ""
         }
       ]
@@ -550,7 +627,12 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "I'm trying not to waste my ",
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "trying not to waste my ",
           "overLyric": true
         },
         {
@@ -569,41 +651,24 @@
       ]
     },
     {
-      "className": "line",
-      "chordLyricPairs": [
-        {
-          "chord": null,
-          "lyric": "[Pre-Chorus] (This chorus I'm following the bassline, which is different from the first one)",
-          "overLyric": true
-        }
-      ]
+      "label": "[Pre-Chorus]"
     },
     {
-      "className": "line",
+      "className": "chordLyricLine",
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "       B        C#     D#m (Optional Bb before the B, or any combination of these 3 chords as per the",
+          "lyric": "If you ",
           "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "line",
-      "chordLyricPairs": [
+        },
         {
-          "chord": null,
-          "lyric": "bassline",
+          "chord": "Bb",
+          "lyric": "want it, ",
           "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "line",
-      "chordLyricPairs": [
+        },
         {
-          "chord": null,
-          "lyric": "If you want it, yeah",
+          "chord": "C",
+          "lyric": "yeah",
           "overLyric": true
         }
       ]
@@ -617,18 +682,8 @@
           "overLyric": true
         },
         {
-          "chord": "Bb",
-          "lyric": "have it, ",
-          "overLyric": true
-        },
-        {
-          "chord": "C",
-          "lyric": "oh, oh",
-          "overLyric": true
-        },
-        {
           "chord": "Dm",
-          "lyric": ", oh",
+          "lyric": "have it, oh, oh, oh",
           "overLyric": true
         }
       ]
@@ -648,12 +703,8 @@
         },
         {
           "chord": "C",
-          "lyric": "oooh  ",
+          "lyric": "oooh",
           "overLyric": true
-        },
-        {
-          "chord": "Dm",
-          "lyric": ""
         }
       ]
     },
@@ -666,18 +717,9 @@
           "overLyric": true
         },
         {
-          "chord": "Bb",
-          "lyric": "make it, ",
-          "overLyric": true
-        },
-        {
-          "chord": "C",
-          "lyric": "oh    ",
-          "overLyric": true
-        },
-        {
           "chord": "Dm",
-          "lyric": ""
+          "lyric": "make it, oh",
+          "overLyric": true
         }
       ]
     },
@@ -696,31 +738,26 @@
         },
         {
           "chord": "C",
-          "lyric": "     "
-        },
-        {
-          "chord": "Dm",
           "lyric": ""
         }
       ]
     },
     {
-      "className": "line",
+      "className": "chordLyricLine",
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "F            (Bb) (switches to D# major)",
+          "lyric": "You can ",
           "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "line",
-      "chordLyricPairs": [
+        },
         {
-          "chord": null,
-          "lyric": "You can have it, aaaaaah!",
+          "chord": "Dm",
+          "lyric": "have it, aaaaaah! ",
           "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": ""
         }
       ]
     },
@@ -731,8 +768,76 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "A",
-          "lyric": "But stay wok",
+          "chord": null,
+          "lyric": "But stay wo",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ke ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "They be ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "creepin'",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "They gon' ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "find you",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Gon' catch you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "sleepin' (Oooh)",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Now stay wok",
           "overLyric": true
         },
         {
@@ -751,7 +856,65 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "Niggas ",
+          "lyric": "They be ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "creepin'",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Now don't you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "close your ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "eyes ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But stay wo",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ke ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "They be ",
           "overLyric": true
         },
         {
@@ -771,13 +934,12 @@
         },
         {
           "chord": "Bb",
-          "lyric": "fin",
+          "lyric": "find you",
           "overLyric": true
         },
         {
           "chord": "C",
-          "lyric": "d you",
-          "overLyric": true
+          "lyric": ""
         }
       ]
     },
@@ -800,13 +962,14 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "A",
-          "lyric": "Now stay woke",
+          "chord": null,
+          "lyric": "Now stay wok",
           "overLyric": true
         },
         {
           "chord": "Bb",
-          "lyric": " "
+          "lyric": "e  ",
+          "overLyric": true
         },
         {
           "chord": "C",
@@ -819,37 +982,12 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "Niggas ",
+          "lyric": "They be ",
           "overLyric": true
         },
         {
           "chord": "Dm",
           "lyric": "creepin'",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": null,
-          "lyric": "Now don't you ",
-          "overLyric": true
-        },
-        {
-          "chord": "Bb",
-          "lyric": "close ",
-          "overLyric": true
-        },
-        {
-          "chord": "Cm",
-          "lyric": "your eye",
-          "overLyric": true
-        },
-        {
-          "chord": "Dm",
-          "lyric": "s",
           "overLyric": true
         }
       ]
@@ -858,133 +996,8 @@
       "className": "line",
       "chordLyricPairs": [
         {
-          "chord": "A",
-          "lyric": "           "
-        },
-        {
-          "chord": "Bb",
-          "lyric": " "
-        },
-        {
-          "chord": "C",
-          "lyric": ""
-        }
-      ]
-    },
-    {
-      "className": "line",
-      "chordLyricPairs": [
-        {
           "chord": null,
-          "lyric": "But stay woke",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": null,
-          "lyric": "Niggas ",
-          "overLyric": true
-        },
-        {
-          "chord": "Dm",
-          "lyric": "creepin'",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": null,
-          "lyric": "They gon' ",
-          "overLyric": true
-        },
-        {
-          "chord": "Bb",
-          "lyric": "fin",
-          "overLyric": true
-        },
-        {
-          "chord": "C",
-          "lyric": "d you",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": null,
-          "lyric": "Gon' catch you ",
-          "overLyric": true
-        },
-        {
-          "chord": "Dm",
-          "lyric": "sleepin' (Oooh)",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": "A",
-          "lyric": "Now stay woke",
-          "overLyric": true
-        },
-        {
-          "chord": "Bb",
-          "lyric": " "
-        },
-        {
-          "chord": "C",
-          "lyric": ""
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": null,
-          "lyric": "Niggas ",
-          "overLyric": true
-        },
-        {
-          "chord": "Dm",
-          "lyric": "creepin'",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": null,
-          "lyric": "Now don't you ",
-          "overLyric": true
-        },
-        {
-          "chord": "Bb",
-          "lyric": "close ",
-          "overLyric": true
-        },
-        {
-          "chord": "Cm",
-          "lyric": "your eye",
-          "overLyric": true
-        },
-        {
-          "chord": "Dm",
-          "lyric": "s",
+          "lyric": "Now don't you close your eyes",
           "overLyric": true
         }
       ]
@@ -996,9 +1009,28 @@
       "className": "line",
       "chordLyricPairs": [
         {
-          "chord": null,
-          "lyric": "Repeat: Dm Gm Fm Edim Cm",
-          "overLyric": true
+          "chord": "Dm",
+          "lyric": " "
+        },
+        {
+          "chord": "Gm",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "Edim",
+          "lyric": " "
+        },
+        {
+          "chord": "C#",
+          "lyric": " "
+        },
+        {
+          "chord": "Dm",
+          "lyric": ""
         }
       ]
     },
@@ -1006,9 +1038,16 @@
       "className": "line",
       "chordLyricPairs": [
         {
-          "chord": null,
-          "lyric": "        Dm Gm Fm Edim ---",
-          "overLyric": true
+          "chord": "Gm",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "Edim",
+          "lyric": ""
         }
       ]
     }
