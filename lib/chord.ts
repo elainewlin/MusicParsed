@@ -34,8 +34,10 @@ export const transposeChord = function(chord: string, amount: number): string {
   return chord.replace(pitchRegex, pitch => transposePitch(pitch, amount));
 };
 
-// Make complicated chords easier for beginners
-// i.e. Am7 -> Am, Dsus4 -> D
+/**
+ * Make complicated chords easier for beginners
+ * e.g. Am7 -> Am, Dsus4 -> D
+ */
 export const simplifyChord = (chord: string): string =>
   chord.match(simpleChordRegex)![0];
 

@@ -8,7 +8,7 @@ import {
   transposeChord,
   transposeAmountToFifths,
 } from "../lib/chord";
-import { renderAllChords } from "../lib/fingering";
+import { getAllChordData } from "../lib/fingering";
 import { RenderedLine, SongData, ChordLyricLine } from "../lib/song";
 import { loadWidgets, renderTranspose } from "./controller";
 import chordsTemplate from "../mustache/chords.mustache";
@@ -173,7 +173,7 @@ export const renderChords = function(): void {
   chordPics.show();
 
   document.getElementsByClassName("chordPics")[0].innerHTML = chordsTemplate(
-    renderAllChords(
+    getAllChordData(
       data.allChords,
       currentInstrument,
       songView.getOrientation()

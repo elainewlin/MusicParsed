@@ -12,6 +12,7 @@ export interface ChordLyricLine {
   className: string;
   chordLyricPairs: ChordLyricPair[];
 }
+
 export type RenderedLine =
   | {
       label: string;

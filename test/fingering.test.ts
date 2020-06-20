@@ -1,8 +1,8 @@
 import { instrumentsData } from "../lib/instrument";
 import {
   reverseString,
-  renderChord,
-  renderChordFingering,
+  getChordData,
+  getChordFingering,
 } from "../lib/fingering";
 import { assert } from "chai";
 
@@ -13,13 +13,13 @@ describe("reverseString", () => {
   });
 });
 
-describe("renderChord", () => {
+describe("getChordData", () => {
   it("should override default chord fingering when specified", () => {
     const ukulele = instrumentsData.ukulele;
     const chord = "C|5,4,3,3";
-    const result = renderChord(chord, ukulele);
+    const result = getChordData(chord, ukulele);
 
-    const expected = renderChordFingering("C", "5,4,3,3", ukulele);
+    const expected = getChordFingering("C", "5,4,3,3", ukulele);
     assert.deepEqual(result, expected);
   });
 
@@ -35,8 +35,8 @@ describe("renderChord", () => {
     Object.entries(instrumentToFingering).forEach(
       ([instrumentName, fingering]) => {
         const instrument = instrumentsData[`${instrumentName}`];
-        const result = renderChord(chord, instrument);
-        const expected = renderChordFingering("Em", fingering, instrument);
+        const result = getChordData(chord, instrument);
+        const expected = getChordFingering("Em", fingering, instrument);
         assert.deepEqual(result, expected);
       }
     );
@@ -45,16 +45,16 @@ describe("renderChord", () => {
   it("should render left-handed chord when specified", () => {
     const ukulele = instrumentsData.ukulele;
     const chord = "Am";
-    const result = renderChord(chord, ukulele, "left");
+    const result = getChordData(chord, ukulele, "left");
 
-    const expected = renderChordFingering("Am", "0,0,0,2", ukulele);
+    const expected = getChordFingering("Am", "0,0,0,2", ukulele);
     assert.deepEqual(result, expected);
   });
 
   it("should render unknown chord", () => {
     const guitar = instrumentsData.guitar;
     const nonChord = "Am7add4sus2";
-    const result = renderChord(nonChord, guitar);
+    const result = getChordData(nonChord, guitar);
 
     const expected = {
       chordName: nonChord,

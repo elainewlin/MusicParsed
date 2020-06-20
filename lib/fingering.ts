@@ -6,7 +6,11 @@ import "core-js/fn/array/flat-map";
 import { pitchToSemitones, pitchRegex } from "../lib/pitch";
 import { InstrumentData, instrumentsData } from "../lib/instrument";
 
-// Support for left-handed chord diagrams
+/**
+ * Support for left-handed chord diagrams
+ * @param  {string} e.g. 2000
+ * @return {string} e.g. 0002
+ */
 export const reverseString = function(str: string): string {
   return str
     .split("")
@@ -31,12 +35,14 @@ type ChordFingeringData =
       unknown: true;
     };
 
-// Input example:
-// chordName: Bm
-// chordFingering: 4,2,2,2 for G,C,E,A
-// instrumentData: what instrument?
-// Output: SVG rendering of the chord
-export const renderChordFingering = function(
+/**
+ * Get data on how to render a chord SVG
+ * @param  {string} chordName e.g. Bm
+ * @param  {string} chordFingeringStr e.g. 4,2,2,2
+ * @param  {InstrumentData} instrumentData
+ * @return {ChordFingeringData}
+ */
+export const getChordFingering = function(
   chordName: string,
   chordFingeringStr: string,
   instrumentData: InstrumentData
@@ -63,8 +69,14 @@ export const renderChordFingering = function(
   };
 };
 
-// Code is smart enough to auto-render chord thanks to regex magic
-export const renderChord = function(
+/**
+ * Get data on how to render any chord
+ * @param  {string} chord
+ * @param  {InstrumentData} instrumentData
+ * @param  {string} orientation
+ * @return {ChordFingeringData}
+ */
+export const getChordData = function(
   chord: string,
   instrumentData: InstrumentData,
   orientation: string = "right"
@@ -76,15 +88,14 @@ export const renderChord = function(
   const overrideDefaultChord = chord.includes("|");
   if (overrideDefaultChord) {
     const chordComponents = chord.split("|");
-    chordName = chordComponents[0];
-    chordFingering = chordComponents[1];
+    [chordName, chordFingering] = chordComponents;
   }
 
   if (chordFingering) {
     if (orientation === "left") {
       chordFingering = reverseString(chordFingering);
     }
-    return renderChordFingering(chordName, chordFingering, instrumentData);
+    return getChordFingering(chordName, chordFingering, instrumentData);
   } else {
     return {
       chordName: chordName,
@@ -105,7 +116,7 @@ interface ChordsData {
   chords: ChordFingeringData[];
 }
 
-export const renderAllChords = function(
+export const getAllChordData = function(
   allChords: string[],
   currentInstrument: string,
   orientation: string = "right"
@@ -125,7 +136,7 @@ export const renderAllChords = function(
       (_, i) => i + 0.5
     ),
     chords: allChords.map(chord =>
-      renderChord(chord, instrumentData, orientation)
+      getChordData(chord, instrumentData, orientation)
     ),
   };
 };

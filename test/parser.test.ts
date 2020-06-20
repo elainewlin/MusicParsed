@@ -116,9 +116,9 @@ describe("isLyricLine", () => {
   });
 });
 
-describe("renderChordLyricLine", () => {
+describe("getChordLyricLine", () => {
   it("should handle no chords/lyrics", () => {
-    const result = parser.renderChordLyricLine("", "");
+    const result = parser.getChordLyricLine("", "");
     const expected = {
       className: "line",
       chordLyricPairs: [{ chord: null, lyric: "", overLyric: true as true }],
@@ -127,7 +127,7 @@ describe("renderChordLyricLine", () => {
   });
 
   it("should handle lyrics before chords", () => {
-    const result = parser.renderChordLyricLine("                 C", "Lyrics!");
+    const result = parser.getChordLyricLine("                 C", "Lyrics!");
     const expected = {
       className: "chordLyricLine",
       chordLyricPairs: [
@@ -143,7 +143,7 @@ describe("renderChordLyricLine", () => {
   });
 
   it("should handle chords before lyrics", () => {
-    const result = parser.renderChordLyricLine("C", "    The song starts now!");
+    const result = parser.getChordLyricLine("C", "    The song starts now!");
     const expected = {
       className: "chordLyricLine",
       chordLyricPairs: [
@@ -157,7 +157,7 @@ describe("renderChordLyricLine", () => {
   });
 
   it("should handle multiple chords and lyrics", () => {
-    const result = parser.renderChordLyricLine(
+    const result = parser.getChordLyricLine(
       "C                  Am",
       "Some say I have no direction,"
     );
@@ -180,7 +180,7 @@ describe("renderChordLyricLine", () => {
   });
 
   it("should handle only chord line", () => {
-    const result = parser.renderChordLyricLine("Em C G D", "");
+    const result = parser.getChordLyricLine("Em C G D", "");
     const expected = {
       className: "line",
       chordLyricPairs: [
@@ -206,7 +206,7 @@ describe("renderChordLyricLine", () => {
   });
 
   it("should handle only lyric line", () => {
-    const result = parser.renderChordLyricLine("", "I love the way you lie");
+    const result = parser.getChordLyricLine("", "I love the way you lie");
 
     const expected = {
       className: "line",

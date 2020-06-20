@@ -6,16 +6,25 @@
 import { isChord } from "./chord";
 import { SongData, ChordLyricLine, ChordLyricPair } from "./song";
 
+/**
+ * Clean up text so it can be used in a URL
+ * @param  {string} text
+ * @return {string}
+ */
 export const slugify = function(text: string): string {
   text = text.replace(/[^A-Za-z0-9 ]+/g, "").toLowerCase();
   return text.replace(/ /g, "_");
 };
 
+/**
+ * Checks whether a line is a label e.g. [Verse]
+ * @param  {string} line
+ * @return {boolean}
+ */
 export const isLabel = function(line: string): boolean {
   if (!line) {
     return false;
   }
-  // Checks whether a line is a label
   return (line.startsWith("[") && line.endsWith("]")) || line.endsWith(":");
 };
 
@@ -26,20 +35,19 @@ export const isChordLine = function(line: string): boolean {
 
   const chordBoundary = /\S+/g;
 
-  let isLineChord = true;
-
-  line.replace(chordBoundary, word => {
-    isLineChord = isLineChord && isChord(word);
-    return "";
-  });
-  return isLineChord;
+  const words = line.match(chordBoundary);
+  if (!words) return false;
+  for (const word of words) {
+    if (!isChord(word)) return false;
+  }
+  return true;
 };
 
 export const isLyricLine = function(line: string): boolean {
   return !isLabel(line) && !isChordLine(line);
 };
 
-export const renderChordLyricLine = function(
+export const getChordLyricLine = function(
   chordString: string,
   lyrics: string
 ): ChordLyricLine {
@@ -148,7 +156,7 @@ export const parseLines = function({
         if (isLyricLine(nextLine)) {
           lyrics = nextLine;
         }
-        data.lines.push(renderChordLyricLine(line, lyrics));
+        data.lines.push(getChordLyricLine(line, lyrics));
         updateAllChords(line);
 
         line = nextLine;
@@ -160,7 +168,7 @@ export const parseLines = function({
         }
       }
     } else if (line) {
-      data.lines.push(renderChordLyricLine("", line));
+      data.lines.push(getChordLyricLine("", line));
     }
   }
   return data;
