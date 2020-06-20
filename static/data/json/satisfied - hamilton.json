@@ -2,10 +2,14 @@
   "allChords": [
     "Cm7",
     "Eb",
-    "Ab9",
+    "Fm11",
+    "Abmaj7",
     "G7",
-    "Ab7",
-    "Eb7"
+    "Fm",
+    "Cm",
+    "Fm9",
+    "Ab",
+    "Ab9"
   ],
   "artist": "Hamilton",
   "fullName": "Satisfied - Hamilton",
@@ -15,46 +19,32 @@
       "label": "[LAURENS]"
     },
     {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": "Cm7",
-          "lyric": "Alright, alright. That's what I'm ",
-          "overLyric": true
-        },
-        {
-          "chord": "Eb/Bb",
-          "lyric": "talkin' about!",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
+      "className": "line",
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "Now everyon",
-          "overLyric": true
-        },
-        {
-          "chord": "Cm7/F",
-          "lyric": "e give it up for the maid of honor",
+          "lyric": "Alright, alright. That's what I'm talkin' about!",
           "overLyric": true
         }
       ]
     },
     {
-      "className": "chordLyricLine",
+      "className": "line",
       "chordLyricPairs": [
         {
-          "chord": "Ab9",
+          "chord": null,
+          "lyric": "Now everyone give it up for the maid of honor",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
           "lyric": "Angelica Schuyler!",
           "overLyric": true
-        },
-        {
-          "chord": "G7",
-          "lyric": ""
         }
       ]
     },
@@ -100,7 +90,7 @@
           "overLyric": true
         },
         {
-          "chord": "Cm7/F",
+          "chord": "Fm11",
           "lyric": "sister (Angelica, Angelica, Angelica)",
           "overLyric": true
         }
@@ -115,7 +105,7 @@
           "overLyric": true
         },
         {
-          "chord": "Ab9",
+          "chord": "Abmaj7",
           "lyric": "lways by your side (By your s",
           "overLyric": true
         },
@@ -165,7 +155,7 @@
           "overLyric": true
         },
         {
-          "chord": "Cm7/F",
+          "chord": "Fm11",
           "lyric": "always (always)",
           "overLyric": true
         }
@@ -180,13 +170,13 @@
           "overLyric": true
         },
         {
-          "chord": "Ab9",
-          "lyric": "atisfied (r",
+          "chord": "Abmaj7",
+          "lyric": "atisfied (re",
           "overLyric": true
         },
         {
           "chord": "G7",
-          "lyric": "ewind)",
+          "lyric": "wind)",
           "overLyric": true
         }
       ]
@@ -208,10 +198,10 @@
       ]
     },
     {
-      "className": "chordLyricLine",
+      "className": "line",
       "chordLyricPairs": [
         {
-          "chord": "Cm7",
+          "chord": null,
           "lyric": "regret that night for the rest of my days",
           "overLyric": true
         }
@@ -228,10 +218,10 @@
       ]
     },
     {
-      "className": "chordLyricLine",
+      "className": "line",
       "chordLyricPairs": [
         {
-          "chord": "Eb/Bb",
+          "chord": null,
           "lyric": "to win our praise",
           "overLyric": true
         }
@@ -241,17 +231,17 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Cm7/F",
+          "chord": "Fm11",
           "lyric": "I remember that dreamlike candlelight",
           "overLyric": true
         }
       ]
     },
     {
-      "className": "chordLyricLine",
+      "className": "line",
       "chordLyricPairs": [
         {
-          "chord": "Cm7/F",
+          "chord": null,
           "lyric": "like a dream that you can't quite place",
           "overLyric": true
         }
@@ -261,13 +251,13 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Ab9",
-          "lyric": "But Alexander I'll ne",
+          "chord": "Abmaj7",
+          "lyric": " But Alexander I'll ",
           "overLyric": true
         },
         {
           "chord": "G7",
-          "lyric": "ver forget the first time I saw your ",
+          "lyric": "never forget the first time I saw your ",
           "overLyric": true
         },
         {
@@ -278,10 +268,10 @@
       ]
     },
     {
-      "className": "chordLyricLine",
+      "className": "line",
       "chordLyricPairs": [
         {
-          "chord": "Cm7",
+          "chord": null,
           "lyric": "I have never been the same",
           "overLyric": true
         }
@@ -291,8 +281,13 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
+          "chord": null,
+          "lyric": "In",
+          "overLyric": true
+        },
+        {
           "chord": "Eb/Bb",
-          "lyric": "Intelligent eyes in a hunger-pang frame",
+          "lyric": "telligent eyes in a hunger-pang frame",
           "overLyric": true
         }
       ]
@@ -306,7 +301,7 @@
           "overLyric": true
         },
         {
-          "chord": "Cm7/F",
+          "chord": "Fm11",
           "lyric": "when you said \"hi\" I forgot my dang name",
           "overLyric": true
         }
@@ -321,22 +316,22 @@
           "overLyric": true
         },
         {
-          "chord": "Ab9",
-          "lyric": "heart aflame, every part ",
+          "chord": "Abmaj7",
+          "lyric": "heart aflame, every part a",
           "overLyric": true
         },
         {
           "chord": "G7",
-          "lyric": "aflame",
+          "lyric": "flame",
           "overLyric": true
         }
       ]
     },
     {
-      "className": "chordLyricLine",
+      "className": "line",
       "chordLyricPairs": [
         {
-          "chord": "G7",
+          "chord": null,
           "lyric": "This is not a game",
           "overLyric": true
         }
@@ -375,7 +370,7 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Cm7/F",
+          "chord": "Fm11",
           "lyric": "You're like me. I'm never satisfied",
           "overLyric": true
         }
@@ -388,7 +383,7 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Ab9",
+          "chord": "Abmaj7",
           "lyric": "Is that right?",
           "overLyric": true
         }
@@ -437,10 +432,10 @@
       "label": "[ANGELICA]"
     },
     {
-      "className": "chordLyricLine",
+      "className": "line",
       "chordLyricPairs": [
         {
-          "chord": "Cm7",
+          "chord": null,
           "lyric": "Where's your family from?",
           "overLyric": true
         }
@@ -453,7 +448,7 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Cm7/F",
+          "chord": "Fm11",
           "lyric": "Unimportant, there's a million things I haven't done",
           "overLyric": true
         }
@@ -463,13 +458,18 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Ab7",
-          "lyric": "Just you wait, ",
+          "chord": null,
+          "lyric": "but ",
+          "overLyric": true
+        },
+        {
+          "chord": "Abmaj7",
+          "lyric": "just you wait, just you ",
           "overLyric": true
         },
         {
           "chord": "G7",
-          "lyric": "just you wait",
+          "lyric": "wait",
           "overLyric": true
         }
       ]
@@ -481,17 +481,22 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
+          "chord": null,
+          "lyric": "So so so, ",
+          "overLyric": true
+        },
+        {
           "chord": "Cm7",
-          "lyric": "So so so, so this is what it feels like to match wits",
+          "lyric": "so this is what it feels like to match wits",
           "overLyric": true
         }
       ]
     },
     {
-      "className": "chordLyricLine",
+      "className": "line",
       "chordLyricPairs": [
         {
-          "chord": "Cm7",
+          "chord": null,
           "lyric": "with someone at your level. What the hell is the catch?",
           "overLyric": true
         }
@@ -513,20 +518,20 @@
       ]
     },
     {
-      "className": "chordLyricLine",
+      "className": "line",
       "chordLyricPairs": [
         {
-          "chord": "Eb/Bb",
+          "chord": null,
           "lyric": "It's Ben Franklin with a key and a kite",
           "overLyric": true
         }
       ]
     },
     {
-      "className": "chordLyricLine",
+      "className": "line",
       "chordLyricPairs": [
         {
-          "chord": "Eb/Bb",
+          "chord": null,
           "lyric": "You see it right?",
           "overLyric": true
         }
@@ -536,17 +541,17 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Cm7/F",
+          "chord": "Fm11",
           "lyric": "The conversation lasted two minutes, maybe three minutes",
           "overLyric": true
         }
       ]
     },
     {
-      "className": "chordLyricLine",
+      "className": "line",
       "chordLyricPairs": [
         {
-          "chord": "Cm7/F",
+          "chord": null,
           "lyric": "Everything we said in total agreement",
           "overLyric": true
         }
@@ -556,7 +561,7 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Ab9",
+          "chord": "Abmaj7",
           "lyric": "It's a dream and it's a bit of a dance",
           "overLyric": true
         }
@@ -588,10 +593,10 @@
       ]
     },
     {
-      "className": "chordLyricLine",
+      "className": "line",
       "chordLyricPairs": [
         {
-          "chord": "Cm7",
+          "chord": null,
           "lyric": "I asked about his family, did you see his answer?",
           "overLyric": true
         }
@@ -613,10 +618,10 @@
       ]
     },
     {
-      "className": "chordLyricLine",
+      "className": "line",
       "chordLyricPairs": [
         {
-          "chord": "Eb/Bb",
+          "chord": null,
           "lyric": "He's penniless; he's flying by the seat of his pants",
           "overLyric": true
         }
@@ -626,17 +631,17 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Cm7/F",
+          "chord": "Fm11",
           "lyric": "Handsome, boy does he know it",
           "overLyric": true
         }
       ]
     },
     {
-      "className": "chordLyricLine",
+      "className": "line",
       "chordLyricPairs": [
         {
-          "chord": "Cm7/F",
+          "chord": null,
           "lyric": "Peach fuzz, and he can't even grow it",
           "overLyric": true
         }
@@ -646,7 +651,7 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Ab9",
+          "chord": "Abmaj7",
           "lyric": "I wanna take him far away from this place",
           "overLyric": true
         }
@@ -684,10 +689,10 @@
       "label": "[ANGELICA]"
     },
     {
-      "className": "chordLyricLine",
+      "className": "line",
       "chordLyricPairs": [
         {
-          "chord": "Cm7",
+          "chord": null,
           "lyric": "And I know she is",
           "overLyric": true
         }
@@ -700,7 +705,7 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Cm7/Bb",
+          "chord": "Eb",
           "lyric": "Helpless",
           "overLyric": true
         }
@@ -710,10 +715,10 @@
       "label": "[ANGELICA]"
     },
     {
-      "className": "chordLyricLine",
+      "className": "line",
       "chordLyricPairs": [
         {
-          "chord": "Cm7",
+          "chord": null,
           "lyric": "And her eyes are just",
           "overLyric": true
         }
@@ -723,10 +728,10 @@
       "label": "[ELIZA]"
     },
     {
-      "className": "chordLyricLine",
+      "className": "line",
       "chordLyricPairs": [
         {
-          "chord": "Cm7/F",
+          "chord": null,
           "lyric": "Helpless",
           "overLyric": true
         }
@@ -744,13 +749,8 @@
           "overLyric": true
         },
         {
-          "chord": "Ab9",
-          "lyric": "fundamental truths at the exact same ",
-          "overLyric": true
-        },
-        {
-          "chord": "G7",
-          "lyric": "time",
+          "chord": "Fm",
+          "lyric": "fundamental truths at the exact same time",
           "overLyric": true
         }
       ]
@@ -759,10 +759,10 @@
       "label": "[HAMILTON]"
     },
     {
-      "className": "chordLyricLine",
+      "className": "line",
       "chordLyricPairs": [
         {
-          "chord": "Cm7",
+          "chord": null,
           "lyric": "Where are you taking me?",
           "overLyric": true
         }
@@ -772,10 +772,10 @@
       "label": "[ANGELICA]"
     },
     {
-      "className": "chordLyricLine",
+      "className": "line",
       "chordLyricPairs": [
         {
-          "chord": "Cm7",
+          "chord": null,
           "lyric": "I'm about to change your life.",
           "overLyric": true
         }
@@ -785,10 +785,10 @@
       "label": "[HAMIlTON]"
     },
     {
-      "className": "chordLyricLine",
+      "className": "line",
       "chordLyricPairs": [
         {
-          "chord": "Cm7",
+          "chord": null,
           "lyric": "Then by all means, lead the way.",
           "overLyric": true
         }
@@ -806,7 +806,7 @@
           "overLyric": true
         },
         {
-          "chord": "Cm7",
+          "chord": "Cm",
           "lyric": "one!",
           "overLyric": true
         }
@@ -816,10 +816,10 @@
       "label": "[ANGELICA]"
     },
     {
-      "className": "chordLyricLine",
+      "className": "line",
       "chordLyricPairs": [
         {
-          "chord": "Cm7",
+          "chord": null,
           "lyric": "I'm a girl in a world in which my only job is to marry rich",
           "overLyric": true
         }
@@ -829,17 +829,17 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Eb/Bb",
+          "chord": "Eb",
           "lyric": "My father has no sons so I'm the one",
           "overLyric": true
         }
       ]
     },
     {
-      "className": "chordLyricLine",
+      "className": "line",
       "chordLyricPairs": [
         {
-          "chord": "Eb/Bb",
+          "chord": null,
           "lyric": "who has to social climb for one",
           "overLyric": true
         }
@@ -854,17 +854,17 @@
           "overLyric": true
         },
         {
-          "chord": "Cm7/F",
+          "chord": "Eb/Bb",
           "lyric": "ldest and the wittiest and the gossip in",
           "overLyric": true
         }
       ]
     },
     {
-      "className": "chordLyricLine",
+      "className": "line",
       "chordLyricPairs": [
         {
-          "chord": "Cm7/F",
+          "chord": null,
           "lyric": "New York City is insidious",
           "overLyric": true
         }
@@ -874,8 +874,8 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Ab9",
-          "lyric": "And Alexander is penniless",
+          "chord": "Fm/Ab",
+          "lyric": "And Alexander is penniless, Ha!",
           "overLyric": true
         }
       ]
@@ -894,10 +894,10 @@
       "label": "[ELIZA]"
     },
     {
-      "className": "chordLyricLine",
+      "className": "line",
       "chordLyricPairs": [
         {
-          "chord": "Cm7",
+          "chord": null,
           "lyric": "Elizabeth Schuyler. It's a pleasure to meet you.",
           "overLyric": true
         }
@@ -907,10 +907,10 @@
       "label": "[HAMILTON]"
     },
     {
-      "className": "chordLyricLine",
+      "className": "line",
       "chordLyricPairs": [
         {
-          "chord": "Cm7",
+          "chord": null,
           "lyric": "Schuyler?",
           "overLyric": true
         }
@@ -920,10 +920,10 @@
       "label": "[ANGELICA]"
     },
     {
-      "className": "chordLyricLine",
+      "className": "line",
       "chordLyricPairs": [
         {
-          "chord": "Cm7",
+          "chord": null,
           "lyric": "My sister.",
           "overLyric": true
         }
@@ -941,7 +941,7 @@
           "overLyric": true
         },
         {
-          "chord": "Cm7",
+          "chord": "Cm",
           "lyric": "two!",
           "overLyric": true
         }
@@ -951,10 +951,10 @@
       "label": "[ANGELICA]"
     },
     {
-      "className": "chordLyricLine",
+      "className": "line",
       "chordLyricPairs": [
         {
-          "chord": "Cm7",
+          "chord": null,
           "lyric": "He's after me cuz I'm a Schuyler sister",
           "overLyric": true
         }
@@ -979,7 +979,7 @@
           "overLyric": true
         },
         {
-          "chord": "Eb/Bb",
+          "chord": "Eb",
           "lyric": "have to be naive to set that aside",
           "overLyric": true
         }
@@ -996,10 +996,10 @@
       ]
     },
     {
-      "className": "chordLyricLine",
+      "className": "line",
       "chordLyricPairs": [
         {
-          "chord": "Cm7/F",
+          "chord": null,
           "lyric": "I introduce him to Eliza",
           "overLyric": true
         }
@@ -1019,7 +1019,7 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Ab9",
+          "chord": "Abmaj7",
           "lyric": "Nice going, Angelica, he was right",
           "overLyric": true
         }
@@ -1039,10 +1039,10 @@
       "label": "[ELIZA]"
     },
     {
-      "className": "chordLyricLine",
+      "className": "line",
       "chordLyricPairs": [
         {
-          "chord": "Cm7",
+          "chord": null,
           "lyric": "Thank you for all your service.",
           "overLyric": true
         }
@@ -1052,10 +1052,10 @@
       "label": "[HAMILTON]"
     },
     {
-      "className": "chordLyricLine",
+      "className": "line",
       "chordLyricPairs": [
         {
-          "chord": "Cm7",
+          "chord": null,
           "lyric": "If it takes fighting a war for us to meet, it will have been worth it.",
           "overLyric": true
         }
@@ -1086,7 +1086,7 @@
           "overLyric": true
         },
         {
-          "chord": "Cm7",
+          "chord": "Cm",
           "lyric": "three!",
           "overLyric": true
         }
@@ -1096,10 +1096,10 @@
       "label": "[ANGELICA]"
     },
     {
-      "className": "chordLyricLine",
+      "className": "line",
       "chordLyricPairs": [
         {
-          "chord": "Cm7",
+          "chord": null,
           "lyric": "I know my sister like I know my own mind",
           "overLyric": true
         }
@@ -1110,12 +1110,12 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "You will n",
+          "lyric": "You will ",
           "overLyric": true
         },
         {
-          "chord": "Eb/Bb",
-          "lyric": "ever find anyone as trusting or as kind",
+          "chord": "Eb",
+          "lyric": "never find anyone as trusting or as kind",
           "overLyric": true
         }
       ]
@@ -1129,7 +1129,7 @@
           "overLyric": true
         },
         {
-          "chord": "Cm7/F",
+          "chord": "Fm9",
           "lyric": "tell her that I love him she'd be silently resigned",
           "overLyric": true
         }
@@ -1144,7 +1144,7 @@
           "overLyric": true
         },
         {
-          "chord": "Ab9",
+          "chord": "Abmaj7",
           "lyric": "mine",
           "overLyric": true
         }
@@ -1166,10 +1166,10 @@
       ]
     },
     {
-      "className": "chordLyricLine",
+      "className": "line",
       "chordLyricPairs": [
         {
-          "chord": "G7",
+          "chord": null,
           "lyric": "She'd be lying",
           "overLyric": true
         }
@@ -1179,7 +1179,7 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Cm7",
+          "chord": "Cm",
           "lyric": "But when I fantasize at night it's Alexander's eyes",
           "overLyric": true
         }
@@ -1189,7 +1189,7 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Eb/Bb",
+          "chord": "Eb",
           "lyric": "as I romanticize what might have been if I hadn't",
           "overLyric": true
         }
@@ -1199,7 +1199,7 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Cm7/F",
+          "chord": "Fm",
           "lyric": "sized him up so quickly",
           "overLyric": true
         }
@@ -1210,12 +1210,12 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "At least my dear Eliza's his ",
+          "lyric": "At ",
           "overLyric": true
         },
         {
-          "chord": "Eb",
-          "lyric": "wife",
+          "chord": "Cm",
+          "lyric": "least my dear Eliza's his wife",
           "overLyric": true
         }
       ]
@@ -1225,12 +1225,13 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "At least I keep his eyes in my life ",
+          "lyric": "At least I keep his eyes in my ",
           "overLyric": true
         },
         {
-          "chord": "G7",
-          "lyric": ""
+          "chord": "Ab",
+          "lyric": "life",
+          "overLyric": true
         }
       ]
     },
@@ -1276,7 +1277,7 @@
           "overLyric": true
         },
         {
-          "chord": "Cm7/F",
+          "chord": "Fm11",
           "lyric": "sister (Angelica, Angelica, Angelica)",
           "overLyric": true
         }
@@ -1326,7 +1327,7 @@
           "overLyric": true
         },
         {
-          "chord": "Eb7",
+          "chord": "Eb/Bb",
           "lyric": "hope that you provide (provide, provide)",
           "overLyric": true
         }
@@ -1341,7 +1342,7 @@
           "overLyric": true
         },
         {
-          "chord": "Cm7/F",
+          "chord": "Fm11",
           "lyric": "always (always)",
           "overLyric": true
         }
@@ -1356,13 +1357,13 @@
           "overLyric": true
         },
         {
-          "chord": "Ab9",
-          "lyric": "atisfied (satisfied, sati",
+          "chord": "Abmaj7",
+          "lyric": "atisfied (satisfied, satis",
           "overLyric": true
         },
         {
           "chord": "G7",
-          "lyric": "sfied, satisfied)",
+          "lyric": "fied, satisfied)",
           "overLyric": true
         }
       ]
@@ -1406,7 +1407,7 @@
           "overLyric": true
         },
         {
-          "chord": "Cm7/F",
+          "chord": "Fm11",
           "lyric": "know",
           "overLyric": true
         }
@@ -1416,7 +1417,7 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Ab9",
+          "chord": "Abmaj7",
           "lyric": "He will never be satisfied",
           "overLyric": true
         }
@@ -1427,11 +1428,11 @@
       "chordLyricPairs": [
         {
           "chord": "G7",
-          "lyric": "I will never be satisfied        ",
+          "lyric": "I will never be satisfied  ",
           "overLyric": true
         },
         {
-          "chord": "Cm7",
+          "chord": "Cm",
           "lyric": ""
         }
       ]
