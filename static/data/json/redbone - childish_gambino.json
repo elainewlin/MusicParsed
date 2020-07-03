@@ -24,6 +24,39 @@
       ]
     },
     {
+      "label": "[Strum Pattern]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "1+2",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "+3+4",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "+1+2+3+4+",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "D xU UxU UxU UxU",
+          "overLyric": true
+        }
+      ]
+    },
+    {
       "label": "[Intro]"
     },
     {
