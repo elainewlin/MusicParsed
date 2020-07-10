@@ -476,12 +476,12 @@
           "overLyric": true
         },
         {
-          "chord": "D/G",
-          "lyric": "mine",
+          "chord": "[D/G",
+          "lyric": "mine ",
           "overLyric": true
         },
         {
-          "chord": "Gmaj7",
+          "chord": "Gmaj7]",
           "lyric": ""
         }
       ]
@@ -491,11 +491,16 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "The ",
+          "lyric": " ",
           "overLyric": true
         },
         {
-          "chord": "G",
+          "chord": "[Gmaj7",
+          "lyric": "   The ",
+          "overLyric": true
+        },
+        {
+          "chord": "G]",
           "lyric": "world seemed to",
           "overLyric": true
         }
