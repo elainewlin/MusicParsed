@@ -34,12 +34,21 @@ export const transposeChord = function(chord: string, amount: number): string {
   return chord.replace(pitchRegex, pitch => transposePitch(pitch, amount));
 };
 
+const stripBrackets = (str: string): string => {
+  return str.replace(leftBracket, "").replace(rightBracket, "");
+};
+
 /**
  * Make complicated chords easier for beginners
  * e.g. Am7 -> Am, Dsus4 -> D
  */
-export const simplifyChord = (chord: string): string =>
-  chord.match(simpleChordRegex)![0];
+export const simplifyChord = (chord: string): string => {
+  const match = stripBrackets(chord).match(simpleChordRegex);
+  if (match === null) {
+    return chord;
+  }
+  return match[0];
+};
 
 const guessKeyCenterFifths = (allChords: string[]): number => {
   const allFifths = allChords.flatMap(chord => {

@@ -22,7 +22,7 @@ describe("simplifyChord", () => {
   });
 
   it("should remove last part of the chord", () => {
-    const chords = ["Am/C", "Am7", "Amadd9"];
+    const chords = ["Am/C", "Am7", "Amadd9", "[Am", "Am]"];
     chords.forEach(chord => {
       assert.equal(simplifyChord(chord), "Am");
     });
