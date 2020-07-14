@@ -6,6 +6,7 @@
     "D"
   ],
   "artist": "Bastille",
+  "capo": "2",
   "fullName": "Pompeii - Bastille",
   "id": "pompeii - bastille",
   "lines": [
@@ -823,7 +824,7 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "But if you close your ",
+          "lyric": "If you close your ",
           "overLyric": true
         },
         {
@@ -860,6 +861,46 @@
           "chord": "D",
           "lyric": "ll?",
           "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "[Outro]"
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "Em",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "Em",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
         }
       ]
     }
