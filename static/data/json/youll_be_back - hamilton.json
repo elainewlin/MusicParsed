@@ -7,6 +7,7 @@
     "D",
     "Em",
     "Cm",
+    "Am7b5",
     "F"
   ],
   "artist": "Hamilton",
@@ -53,7 +54,7 @@
           "overLyric": true
         },
         {
-          "chord": "G",
+          "chord": "G/",
           "lyric": "say",
           "overLyric": true
         }
@@ -68,22 +69,22 @@
           "overLyric": true
         },
         {
-          "chord": "G7",
+          "chord": "G7/",
           "lyric": "price of my love’s not a ",
           "overLyric": true
         },
         {
-          "chord": "C",
+          "chord": "C/",
           "lyric": "price that you’re willing to ",
           "overLyric": true
         },
         {
-          "chord": "Am7",
-          "lyric": "pay       ",
+          "chord": "Am7/",
+          "lyric": "pay      ",
           "overLyric": true
         },
         {
-          "chord": "D",
+          "chord": "D/",
           "lyric": ""
         }
       ]
@@ -97,7 +98,7 @@
           "overLyric": true
         },
         {
-          "chord": "G",
+          "chord": "G/",
           "lyric": "cry",
           "overLyric": true
         }
@@ -112,17 +113,17 @@
           "overLyric": true
         },
         {
-          "chord": "G7",
+          "chord": "G7/",
           "lyric": "tea which you hurl in the ",
           "overLyric": true
         },
         {
-          "chord": "C",
+          "chord": "C/",
           "lyric": "sea when you see me go ",
           "overLyric": true
         },
         {
-          "chord": "Am7",
+          "chord": "Am7/",
           "lyric": "by",
           "overLyric": true
         }
@@ -132,7 +133,7 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "D",
+          "chord": "D/",
           "lyric": "Why so ",
           "overLyric": true
         },
@@ -207,7 +208,7 @@
           "overLyric": true
         },
         {
-          "chord": "D",
+          "chord": "D/",
           "lyric": "man",
           "overLyric": true
         }
@@ -365,12 +366,12 @@
           "overLyric": true
         },
         {
-          "chord": "C",
+          "chord": "C/",
           "lyric": "send a fully armed bat",
           "overLyric": true
         },
         {
-          "chord": "Am7",
+          "chord": "Am7/",
           "lyric": "talion",
           "overLyric": true
         }
@@ -428,13 +429,13 @@
           "overLyric": true
         },
         {
-          "chord": "Am7",
-          "lyric": "dat dat ",
+          "chord": "Am7b5",
+          "lyric": "dat dat da ",
           "overLyric": true
         },
         {
           "chord": "D",
-          "lyric": "da ya ",
+          "lyric": "ya ",
           "overLyric": true
         },
         {
@@ -473,14 +474,13 @@
           "overLyric": true
         },
         {
-          "chord": "Am7",
-          "lyric": "dat dat da",
+          "chord": "Am7b5",
+          "lyric": "dat dat da… ",
           "overLyric": true
         },
         {
           "chord": "D",
-          "lyric": "…",
-          "overLyric": true
+          "lyric": ""
         }
       ]
     },
@@ -517,7 +517,7 @@
         },
         {
           "chord": "C",
-          "lyric": "on!       ",
+          "lyric": "on!  ",
           "overLyric": true
         },
         {
@@ -575,7 +575,7 @@
           "overLyric": true
         },
         {
-          "chord": "Am7",
+          "chord": "Am7/",
           "lyric": "NO,",
           "overLyric": true
         }
@@ -695,7 +695,7 @@
           "overLyric": true
         },
         {
-          "chord": "Cm",
+          "chord": "Cm/",
           "lyric": "ever, and ever, and ever…",
           "overLyric": true
         }
@@ -853,7 +853,7 @@
           "overLyric": true
         },
         {
-          "chord": "C",
+          "chord": "C/",
           "lyric": "kill your friends and family…",
           "overLyric": true
         }
@@ -868,7 +868,7 @@
           "overLyric": true
         },
         {
-          "chord": "Am7",
+          "chord": "Am7/",
           "lyric": "mind you of my ",
           "overLyric": true
         },
@@ -911,13 +911,13 @@
           "overLyric": true
         },
         {
-          "chord": "Am7",
-          "lyric": "dat dat ",
+          "chord": "Am7b5",
+          "lyric": "dat dat da ",
           "overLyric": true
         },
         {
           "chord": "D",
-          "lyric": "da ya ",
+          "lyric": "ya ",
           "overLyric": true
         },
         {
@@ -956,14 +956,13 @@
           "overLyric": true
         },
         {
-          "chord": "Am7",
-          "lyric": "dat - Every",
+          "chord": "Am7b5",
+          "lyric": "dat - Everybody! ",
           "overLyric": true
         },
         {
           "chord": "D",
-          "lyric": "body!",
-          "overLyric": true
+          "lyric": ""
         }
       ]
     },
@@ -996,7 +995,7 @@
           "overLyric": true
         },
         {
-          "chord": "Am7",
+          "chord": "Am7b5",
           "lyric": "dat dat da ",
           "overLyric": true
         },
@@ -1036,17 +1035,17 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Am7",
-          "lyric": "Dat dat ",
+          "chord": "Am7b5",
+          "lyric": "Dat dat da ",
           "overLyric": true
         },
         {
           "chord": "D",
-          "lyric": "da ya ",
+          "lyric": "ya ",
           "overLyric": true
         },
         {
-          "chord": "G",
+          "chord": "G/",
           "lyric": "da!",
           "overLyric": true
         }
