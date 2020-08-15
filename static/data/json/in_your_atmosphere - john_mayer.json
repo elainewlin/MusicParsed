@@ -730,35 +730,6 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "So ",
-          "overLyric": true
-        },
-        {
-          "chord": "E5",
-          "lyric": "I don't think I'm g",
-          "overLyric": true
-        },
-        {
-          "chord": "Asus2",
-          "lyric": "onna go to LA any",
-          "overLyric": true
-        },
-        {
-          "chord": "E5",
-          "lyric": "more  ",
-          "overLyric": true
-        },
-        {
-          "chord": "Asus2",
-          "lyric": ""
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": null,
           "lyric": "I ",
           "overLyric": true
         },
@@ -769,7 +740,7 @@
         },
         {
           "chord": "Asus2",
-          "lyric": "gonna stay",
+          "lyric": "gonna stay gonna stay in the gray",
           "overLyric": true
         }
       ]
@@ -779,7 +750,7 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "All the street lights say 'nevermind'",
+          "lyric": "I think I'm gonna stay",
           "overLyric": true
         }
       ]
@@ -789,7 +760,7 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "All the canyon lines say 'nevermind'",
+          "lyric": "All the street lights say never mind never mind",
           "overLyric": true
         }
       ]
@@ -799,7 +770,27 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "Sunset says 'we see this all the time, nevermind'",
+          "lyric": "And the canyon lines say never mind",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Sunset says we see this all the time, never mind,",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "never you mind",
           "overLyric": true
         }
       ]
