@@ -1,12 +1,9 @@
 {
   "allChords": [
-    "Dm",
-    "Bbmaj7",
-    "Csus4",
-    "Fmaj7sus2",
-    "Fadd9",
-    "Fadd9_1",
-    "C7sus4_1"
+    "G",
+    "A",
+    "Bm",
+    "D"
   ],
   "artist": "Logic arr. Nix",
   "fullName": "1-800-273-8255 - Logic arr. Nix",
@@ -19,9 +16,20 @@
       "className": "line",
       "chordLyricPairs": [
         {
-          "chord": null,
-          "lyric": "Pick Bb C Dm F",
-          "overLyric": true
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "A",
+          "lyric": " "
+        },
+        {
+          "chord": "Bm",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
         }
       ]
     },
@@ -29,21 +37,26 @@
       "label": "[Pre-Chorus x2]"
     },
     {
-      "className": "line",
+      "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": null,
-          "lyric": "Pick Bb C Dm F",
+          "chord": "G",
+          "lyric": "I ",
           "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "line",
-      "chordLyricPairs": [
+        },
         {
-          "chord": null,
-          "lyric": "I been on the low",
+          "chord": "A",
+          "lyric": "be",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "en ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "on the low",
           "overLyric": true
         }
       ]
@@ -54,16 +67,6 @@
         {
           "chord": null,
           "lyric": "I been taking my time",
-          "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "line",
-      "chordLyricPairs": [
-        {
-          "chord": null,
-          "lyric": "Pick Bb C Dm F",
           "overLyric": true
         }
       ]
@@ -110,7 +113,7 @@
           "overLyric": true
         },
         {
-          "chord": "Dm",
+          "chord": "Bm",
           "lyric": "be alive",
           "overLyric": true
         }
@@ -120,12 +123,12 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Bbmaj7",
+          "chord": "G",
           "lyric": "I don't wanna be al",
           "overLyric": true
         },
         {
-          "chord": "Csus4",
+          "chord": "D",
           "lyric": "ive",
           "overLyric": true
         }
@@ -140,7 +143,7 @@
           "overLyric": true
         },
         {
-          "chord": "Fmaj7sus2",
+          "chord": "A",
           "lyric": ""
         }
       ]
@@ -154,7 +157,7 @@
           "overLyric": true
         },
         {
-          "chord": "Dm",
+          "chord": "Bm",
           "lyric": ""
         }
       ]
@@ -168,7 +171,7 @@
           "overLyric": true
         },
         {
-          "chord": "Bbmaj7",
+          "chord": "G",
           "lyric": ""
         }
       ]
@@ -182,7 +185,7 @@
           "overLyric": true
         },
         {
-          "chord": "Csus4",
+          "chord": "D",
           "lyric": "ive",
           "overLyric": true
         }
@@ -197,7 +200,7 @@
           "overLyric": true
         },
         {
-          "chord": "Fmaj7sus2",
+          "chord": "A",
           "lyric": ""
         }
       ]
@@ -229,7 +232,7 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Dm",
+          "chord": "Bm",
           "lyric": "All this other shit I'm talkin' 'bout they think they know it",
           "overLyric": true
         }
@@ -244,7 +247,7 @@
           "overLyric": true
         },
         {
-          "chord": "Bbmaj7",
+          "chord": "G",
           "lyric": "praying for somebody to save me, no one's heroic",
           "overLyric": true
         }
@@ -259,7 +262,7 @@
           "overLyric": true
         },
         {
-          "chord": "Fadd9",
+          "chord": "D",
           "lyric": "life don't even matter",
           "overLyric": true
         }
@@ -274,7 +277,7 @@
           "overLyric": true
         },
         {
-          "chord": "Csus4",
+          "chord": "A",
           "lyric": "hurting deep down but can't show it",
           "overLyric": true
         }
@@ -289,7 +292,7 @@
           "overLyric": true
         },
         {
-          "chord": "Dm",
+          "chord": "Bm",
           "lyric": "place to call my own",
           "overLyric": true
         }
@@ -304,7 +307,7 @@
           "overLyric": true
         },
         {
-          "chord": "Bbmaj7",
+          "chord": "G",
           "lyric": "home",
           "overLyric": true
         }
@@ -329,7 +332,7 @@
           "overLyric": true
         },
         {
-          "chord": "Fadd9",
+          "chord": "D",
           "lyric": "been? Where you at? What's on your mind?",
           "overLyric": true
         }
@@ -344,7 +347,7 @@
           "overLyric": true
         },
         {
-          "chord": "Csus4",
+          "chord": "A",
           "lyric": "life is precious but nobody care about mine",
           "overLyric": true
         }
@@ -367,7 +370,7 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Dm",
+          "chord": "Bm",
           "lyric": "I been on the low",
           "overLyric": true
         }
@@ -382,7 +385,7 @@
           "overLyric": true
         },
         {
-          "chord": "Bbmaj7",
+          "chord": "G",
           "lyric": "time",
           "overLyric": true
         }
@@ -397,7 +400,7 @@
           "overLyric": true
         },
         {
-          "chord": "Fadd9",
+          "chord": "D",
           "lyric": "mind",
           "overLyric": true
         }
@@ -412,7 +415,7 @@
           "overLyric": true
         },
         {
-          "chord": "Csus4",
+          "chord": "A",
           "lyric": "mine",
           "overLyric": true
         }
@@ -440,7 +443,7 @@
           "overLyric": true
         },
         {
-          "chord": "Dm",
+          "chord": "Bm",
           "lyric": "be alive",
           "overLyric": true
         }
@@ -450,12 +453,12 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Bbmaj7",
+          "chord": "G",
           "lyric": "I want you to be al",
           "overLyric": true
         },
         {
-          "chord": "Csus4",
+          "chord": "D",
           "lyric": "ive",
           "overLyric": true
         }
@@ -470,7 +473,7 @@
           "overLyric": true
         },
         {
-          "chord": "Fmaj7sus2",
+          "chord": "A",
           "lyric": ""
         }
       ]
@@ -484,7 +487,7 @@
           "overLyric": true
         },
         {
-          "chord": "Dm",
+          "chord": "Bm",
           "lyric": ""
         }
       ]
@@ -498,7 +501,7 @@
           "overLyric": true
         },
         {
-          "chord": "Bbmaj7",
+          "chord": "G",
           "lyric": ""
         }
       ]
@@ -512,7 +515,7 @@
           "overLyric": true
         },
         {
-          "chord": "Csus4",
+          "chord": "D",
           "lyric": "ive",
           "overLyric": true
         }
@@ -527,7 +530,7 @@
           "overLyric": true
         },
         {
-          "chord": "Fmaj7sus2",
+          "chord": "A",
           "lyric": ""
         }
       ]
@@ -559,7 +562,7 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Fadd9_1",
+          "chord": "A",
           "lyric": "It's the very first breath",
           "overLyric": true
         }
@@ -574,7 +577,7 @@
           "overLyric": true
         },
         {
-          "chord": "C7sus4_1",
+          "chord": "D",
           "lyric": "drowning underwater",
           "overLyric": true
         }
@@ -589,7 +592,7 @@
           "overLyric": true
         },
         {
-          "chord": "Fadd9_1",
+          "chord": "A",
           "lyric": "it's the lightness in the air",
           "overLyric": true
         }
@@ -609,8 +612,8 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "C7sus4_1",
-          "lyric": "Chest to chest with a lover",
+          "chord": "D",
+          "lyric": "Dhest to chest with a lover",
           "overLyric": true
         }
       ]
@@ -624,7 +627,7 @@
           "overLyric": true
         },
         {
-          "chord": "C7sus4_1",
+          "chord": "D",
           "lyric": "holding on, though the road's long",
           "overLyric": true
         }
@@ -639,7 +642,7 @@
           "overLyric": true
         },
         {
-          "chord": "Fadd9_1",
+          "chord": "A",
           "lyric": "light in the darkest things",
           "overLyric": true
         }
@@ -654,7 +657,7 @@
           "overLyric": true
         },
         {
-          "chord": "C7sus4_1",
+          "chord": "D",
           "lyric": "stare at your reflection",
           "overLyric": true
         }
@@ -669,7 +672,7 @@
           "overLyric": true
         },
         {
-          "chord": "Fadd9_1",
+          "chord": "A",
           "lyric": "who it is",
           "overLyric": true
         }
@@ -702,12 +705,12 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Dm",
+          "chord": "Bm",
           "lyric": "I know where you been, where you are, where you goin' ",
           "overLyric": true
         },
         {
-          "chord": "Bbmaj7",
+          "chord": "G",
           "lyric": ""
         }
       ]
@@ -721,7 +724,7 @@
           "overLyric": true
         },
         {
-          "chord": "Csus4",
+          "chord": "D",
           "lyric": "ieve in life",
           "overLyric": true
         }
@@ -736,7 +739,7 @@
           "overLyric": true
         },
         {
-          "chord": "Fmaj7sus2",
+          "chord": "A",
           "lyric": ""
         }
       ]
@@ -750,7 +753,7 @@
           "overLyric": true
         },
         {
-          "chord": "Dm",
+          "chord": "Bm",
           "lyric": ""
         }
       ]
@@ -764,7 +767,7 @@
           "overLyric": true
         },
         {
-          "chord": "Bbmaj7",
+          "chord": "G",
           "lyric": ""
         }
       ]
@@ -778,7 +781,7 @@
           "overLyric": true
         },
         {
-          "chord": "Fadd9",
+          "chord": "A",
           "lyric": ""
         }
       ]
@@ -802,7 +805,7 @@
           "overLyric": true
         },
         {
-          "chord": "Csus4",
+          "chord": "D",
           "lyric": "got everything to give right now",
           "overLyric": true
         }
@@ -825,7 +828,7 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Dm",
+          "chord": "Bm",
           "lyric": "I been on the low",
           "overLyric": true
         }
@@ -840,7 +843,7 @@
           "overLyric": true
         },
         {
-          "chord": "Bbmaj7",
+          "chord": "G",
           "lyric": "time",
           "overLyric": true
         }
@@ -855,7 +858,7 @@
           "overLyric": true
         },
         {
-          "chord": "Fadd9",
+          "chord": "D",
           "lyric": "mind",
           "overLyric": true
         }
@@ -870,7 +873,7 @@
           "overLyric": true
         },
         {
-          "chord": "Csus4",
+          "chord": "A",
           "lyric": "mine",
           "overLyric": true
         }
@@ -898,7 +901,7 @@
           "overLyric": true
         },
         {
-          "chord": "Dm",
+          "chord": "Bm",
           "lyric": "be alive",
           "overLyric": true
         }
@@ -908,12 +911,12 @@
       "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": "Bbmaj7",
+          "chord": "G",
           "lyric": "I finally wanna be al",
           "overLyric": true
         },
         {
-          "chord": "Csus4",
+          "chord": "D",
           "lyric": "ive",
           "overLyric": true
         }
@@ -928,7 +931,7 @@
           "overLyric": true
         },
         {
-          "chord": "Fmaj7sus2",
+          "chord": "A",
           "lyric": ""
         }
       ]
@@ -942,7 +945,7 @@
           "overLyric": true
         },
         {
-          "chord": "Dm",
+          "chord": "Bm",
           "lyric": ""
         }
       ]
@@ -956,7 +959,7 @@
           "overLyric": true
         },
         {
-          "chord": "Bbmaj7",
+          "chord": "G",
           "lyric": ""
         }
       ]
@@ -970,7 +973,7 @@
           "overLyric": true
         },
         {
-          "chord": "Csus4",
+          "chord": "D",
           "lyric": "ive",
           "overLyric": true
         }
@@ -985,7 +988,7 @@
           "overLyric": true
         },
         {
-          "chord": "Fmaj7sus2",
+          "chord": "A",
           "lyric": ""
         }
       ]
@@ -994,21 +997,26 @@
       "label": "[Outro]"
     },
     {
-      "className": "line",
+      "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": null,
-          "lyric": "Pick Bb C Dm F",
+          "chord": "G",
+          "lyric": "Pa",
           "overLyric": true
-        }
-      ]
-    },
-    {
-      "className": "line",
-      "chordLyricPairs": [
+        },
         {
-          "chord": null,
-          "lyric": "Pain don't hurt the same, I know",
+          "chord": "A",
+          "lyric": "in",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": " do",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "n't hurt the same, I know",
           "overLyric": true
         }
       ]
@@ -1065,7 +1073,7 @@
           "overLyric": true
         },
         {
-          "chord": "Dm",
+          "chord": "Bm",
           "lyric": "cry",
           "overLyric": true
         }
@@ -1080,7 +1088,7 @@
           "overLyric": true
         },
         {
-          "chord": "Bbmaj7",
+          "chord": "G",
           "lyric": "cry anymore",
           "overLyric": true
         }
@@ -1095,7 +1103,7 @@
           "overLyric": true
         },
         {
-          "chord": "Fadd9",
+          "chord": "D",
           "lyric": "ive",
           "overLyric": true
         }
@@ -1110,7 +1118,7 @@
           "overLyric": true
         },
         {
-          "chord": "Csus4",
+          "chord": "A",
           "lyric": "die anymore",
           "overLyric": true
         }
@@ -1125,7 +1133,7 @@
           "overLyric": true
         },
         {
-          "chord": "Dm",
+          "chord": "Bm",
           "lyric": ""
         }
       ]
@@ -1149,7 +1157,7 @@
           "overLyric": true
         },
         {
-          "chord": "Bbmaj7",
+          "chord": "G",
           "lyric": ""
         }
       ]
@@ -1163,12 +1171,12 @@
           "overLyric": true
         },
         {
-          "chord": "Fadd9",
+          "chord": "D",
           "lyric": "more  ",
           "overLyric": true
         },
         {
-          "chord": "Csus4",
+          "chord": "A",
           "lyric": ""
         }
       ]
@@ -1177,9 +1185,20 @@
       "className": "line",
       "chordLyricPairs": [
         {
-          "chord": null,
-          "lyric": "Pick Bb C Dm F",
-          "overLyric": true
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "A",
+          "lyric": " "
+        },
+        {
+          "chord": "Bm",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
         }
       ]
     }
