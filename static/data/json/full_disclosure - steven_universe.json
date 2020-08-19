@@ -13,108 +13,399 @@
   "id": "full_disclosure - steven_universe",
   "lines": [
     {
-      "chord": "G",
-      "lyrics": "Everybody told me Gem stuff's dangerous"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Everybody told me Gem stuff's dangerous",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                                C",
-      "lyrics": "I guess I didn't believe it until now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "I guess I didn't believe it until ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                       Am",
-      "lyrics": "Dad always seemed apprehensive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Dad always seemed appre",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "hensive",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                  Am",
-      "lyrics": "And now he's really freaking out"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "And now he's really",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " freaking out",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          C",
-      "lyrics": "What do I do?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "What do I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "do?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                      D",
-      "lyrics": "I don't want that for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't want that for ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "-Phone starts ringing-"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "-Phone starts ringing-",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Everybody tells me life is precious"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Everybody tells me life is precious",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                                  C",
-      "lyrics": "On the planet Earth, and that means you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "On the planet Earth, and that means ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 Am",
-      "lyrics": "And I have to protect you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I have to pro",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "tect you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C              Am",
-      "lyrics": "What if somehow you get hurt"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "What if somehow",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " you get hurt",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          C",
-      "lyrics": "What do I do?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "What do I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "do?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                      D",
-      "lyrics": "I don't want that for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't want that for ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "-Phone starts ringing again-"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "-Phone starts ringing again-",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G    B    Em    D",
-      "lyrics": "Oooh, ooh, oooh, ooh..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Oooh,",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": " ooh,",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " oooh,",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " ooh...",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                 Em",
-      "lyrics": "What am I going to tell you?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "What am I going to",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " tell you?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                    Em                      C",
-      "lyrics": "You're better off not knowing the trouble I'm in,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "You're better off not",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " knowing the trouble I'm",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " in,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                  Em",
-      "lyrics": "I don't want you to worry"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I don't want you to",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " worry",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                   Em",
-      "lyrics": "About what I've just seen,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "About what I've just",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " seen,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 D   C",
-      "lyrics": "About where I've just been"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "About where I've ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "just",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " been",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  Bm",
-      "lyrics": "You don't have to be a part of this"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You don't have to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "be a part of this",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                          C",
-      "lyrics": "I don't think I want you to be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "I don't think I want you to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "be",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               Am",
-      "lyrics": "You don't need this"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You don't need ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "this",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               D",
-      "lyrics": "You don't need me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You don't need ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "-Phone starts ringing for the third time-"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "-Phone starts ringing for the third time-",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G    B    Em    D",
-      "lyrics": "Oooh, ooh, oooh, ooh... (x2)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Oooh,",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": " ooh,",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " oooh,",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " ooh... (x2)",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Full Disclosure"

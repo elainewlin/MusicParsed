@@ -14,291 +14,1127 @@
       "label": "[Verse]"
     },
     {
-      "chord": "D                A",
-      "lyrics": "You change your mind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "You change your m",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ind",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Em             G",
-      "lyrics": "Like a girl changes clothes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Like a g",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "irl changes clo",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "thes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     D     A",
-      "lyrics": "Yeah you, PMS"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Yeah ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "you, P",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "MS",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Em",
-      "lyrics": "Like a bitch"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Like a bi",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "tch",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         G",
-      "lyrics": "I would know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I would k",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     D         A",
-      "lyrics": "And you over think"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And y",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ou over th",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ink",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Em",
-      "lyrics": "Always speak"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Always sp",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "eak",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G",
-      "lyrics": "Cryptically"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cryp",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "tically",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          D",
-      "lyrics": "I should know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I should k",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      A                 Em   G",
-      "lyrics": "That you're no good for me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That y",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ou're no good for ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "me   ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "              D",
-      "lyrics": "Cause you're hot then you're cold"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause you're h",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ot then you're cold",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        A",
-      "lyrics": "You're yes then you're no"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're y",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "es then you're no",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Em",
-      "lyrics": "You're in then you're out"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're i",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "n then you're out",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G",
-      "lyrics": "You're up then you're down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're u",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "p then you're down",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       D",
-      "lyrics": "You're wrong when it's right"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "wrong when it's right",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     A",
-      "lyrics": "It's black and it's white"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "black and it's white",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Em",
-      "lyrics": "We fight, we break up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "fight, we break up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   G",
-      "lyrics": "We kiss, we make up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "kiss, we make up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     D                          A",
-      "lyrics": "(you)You don't really want to stay, no"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(you)",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "You don't really want to st",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ay, no",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Em                           G",
-      "lyrics": "(but you)But you don't really want to go-o"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(but you)",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "But you don't really want to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "go-o",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       D",
-      "lyrics": "You're hot then you're cold"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "hot then you're cold",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       A",
-      "lyrics": "You're yes then you're no"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "yes then you're no",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Em",
-      "lyrics": "You're in and you're out"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "in and you're out",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       G",
-      "lyrics": "You're up and you're down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "up and you're down",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "D           A",
-      "lyrics": "We used to be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "We used to b",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Em",
-      "lyrics": "Just like twins"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Just like t",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "wins",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       G",
-      "lyrics": "So in sync"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So in s",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ync",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     D       A",
-      "lyrics": "The same energy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The s",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ame ener",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "gy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Em       G",
-      "lyrics": "Now's a dead battery"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Now's a d",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ead batte",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ry",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        D            A",
-      "lyrics": "Used to laugh bout nothing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Used to ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "laugh bout no",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "thing",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Em       G",
-      "lyrics": "Now your plain boring"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Now your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "plain bor",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ing",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          D",
-      "lyrics": "I should know that"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I should k",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "now that",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " A                Em   G",
-      "lyrics": "You're not gonna change"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Y",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ou're not gonna c",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "hange",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "              D",
-      "lyrics": "Cause you're hot then you're cold"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause you're h",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ot then you're cold",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        A",
-      "lyrics": "You're yes then you're no"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're y",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "es then you're no",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Em",
-      "lyrics": "You're in then you're out"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're i",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "n then you're out",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G",
-      "lyrics": "You're up then you're down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're u",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "p then you're down",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       D",
-      "lyrics": "You're wrong when it's right"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "wrong when it's right",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     A",
-      "lyrics": "It's black and it's white"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "black and it's white",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Em",
-      "lyrics": "We fight, we break up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "fight, we break up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   G",
-      "lyrics": "We kiss, we make up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "kiss, we make up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     D                          A",
-      "lyrics": "(you)You don't really want to stay, no"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(you)",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "You don't really want to st",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ay, no",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Em                           G",
-      "lyrics": "(but you)But you don't really want to go-o"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(but you)",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "But you don't really want to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "go-o",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       D",
-      "lyrics": "You're hot then you're cold"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "hot then you're cold",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       A",
-      "lyrics": "You're yes then you're no"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "yes then you're no",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Em",
-      "lyrics": "You're in and you're out"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "in and you're out",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       G",
-      "lyrics": "You're up and you're down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "up and you're down",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "Bm        G",
-      "lyrics": "Someone call the doctor"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Someone ca",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ll the doctor",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D        A",
-      "lyrics": "Got a case of a love bi-polar"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Got a cas",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "e of a love bi-polar",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm          G",
-      "lyrics": "Stuck on a roller coaster"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Stuck on a r",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "oller coaster",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D               A",
-      "lyrics": "Can't get off this ride"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Can't get off th",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "is ride",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "( STRUM SLOW OR PLUCK CHORDS )"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "( STRUM SLOW OR PLUCK CHORDS )",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                 A",
-      "lyrics": "You change your mind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "You change your mi",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "nd",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Em             G",
-      "lyrics": "Like a girl changes clothes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Like a g",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "irl changes clo",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "thes",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "              D",
-      "lyrics": "Cause you're hot then you're cold"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause you're h",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ot then you're cold",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        A",
-      "lyrics": "You're yes then you're no"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're y",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "es then you're no",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Em",
-      "lyrics": "You're in then you're out"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're i",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "n then you're out",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G",
-      "lyrics": "You're up then you're down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're u",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "p then you're down",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       D",
-      "lyrics": "You're wrong when it's right"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "wrong when it's right",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     A",
-      "lyrics": "It's black and it's white"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "black and it's white",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Em",
-      "lyrics": "We fight, we break up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "fight, we break up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   G",
-      "lyrics": "We kiss, we make up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "kiss, we make up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     D                          A",
-      "lyrics": "(you)You don't really want to stay, no"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(you)",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "You don't really want to st",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ay, no",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Em                           G",
-      "lyrics": "(but you)But you don't really want to go-o"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(but you)",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "But you don't really want to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "go-o",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       D",
-      "lyrics": "You're hot then you're cold"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "hot then you're cold",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       A",
-      "lyrics": "You're yes then you're no"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "yes then you're no",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Em",
-      "lyrics": "You're in and you're out"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "in and you're out",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       G             D",
-      "lyrics": "You're up and you're down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "up and you're ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "down",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Hot N Cold"

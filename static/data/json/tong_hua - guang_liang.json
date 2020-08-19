@@ -29,232 +29,1083 @@
       "label": "[Intro]"
     },
     {
-      "chord": "F#    D#m7   Bmaj7   C# C#sus4 C#",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "F#",
+          "lyric": "    "
+        },
+        {
+          "chord": "D#m7",
+          "lyric": "   "
+        },
+        {
+          "chord": "Bmaj7",
+          "lyric": "   "
+        },
+        {
+          "chord": "C#",
+          "lyric": " "
+        },
+        {
+          "chord": "C#sus4",
+          "lyric": " "
+        },
+        {
+          "chord": "C#",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "             F#",
-      "lyrics": "Wang le you duo jiu"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Wang le you d",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "uo jiu",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             D#m7",
-      "lyrics": "Zai mei ting dao ni"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Zai mei ting ",
+          "overLyric": true
+        },
+        {
+          "chord": "D#m7",
+          "lyric": "dao ni",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Bmaj7            C#  C#sus4 C#",
-      "lyrics": "Dui wo shuo ni zui ai de gu shi"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Dui wo shuo ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bmaj7",
+          "lyric": "ni zui ai de gu s",
+          "overLyric": true
+        },
+        {
+          "chord": "C#",
+          "lyric": "hi  ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#sus4",
+          "lyric": " "
+        },
+        {
+          "chord": "C#",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "            F#",
-      "lyrics": "Wo xiang le hen jiu"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Wo xiang le ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "hen jiu",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           D#m7",
-      "lyrics": "Wo kai shi huang le"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Wo kai shi ",
+          "overLyric": true
+        },
+        {
+          "chord": "D#m7",
+          "lyric": "huang le",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Bmaj7               C#   C#sus4 C#",
-      "lyrics": "Shi bu shi wo you zuo cuo le shen me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Shi bu shi wo",
+          "overLyric": true
+        },
+        {
+          "chord": "Bmaj7",
+          "lyric": " you zuo cuo le shen",
+          "overLyric": true
+        },
+        {
+          "chord": "C#",
+          "lyric": " me  ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#sus4",
+          "lyric": " "
+        },
+        {
+          "chord": "C#",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "          A#m7",
-      "lyrics": "Ni ku zhe dui wo shuo"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Ni ku zhe ",
+          "overLyric": true
+        },
+        {
+          "chord": "A#m7",
+          "lyric": "dui wo shuo",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            D#m7",
-      "lyrics": "Tong hua li dou shi pian ren de"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Tong hua li ",
+          "overLyric": true
+        },
+        {
+          "chord": "D#m7",
+          "lyric": "dou shi pian ren de",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          B/F#                 C#sus4  C#",
-      "lyrics": "Wo bu ke neng shi ni de wang zi"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Wo bu ke n",
+          "overLyric": true
+        },
+        {
+          "chord": "B/F#",
+          "lyric": "eng shi ni de wang zi",
+          "overLyric": true
+        },
+        {
+          "chord": "C#sus4",
+          "lyric": "  "
+        },
+        {
+          "chord": "C#",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "         A#m7",
-      "lyrics": "Ye xu ni bu hui dong"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Ye xu ni ",
+          "overLyric": true
+        },
+        {
+          "chord": "A#m7",
+          "lyric": "bu hui dong",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             D#m7",
-      "lyrics": "Cong ni shuo ai wo yi hou"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cong ni shuo ",
+          "overLyric": true
+        },
+        {
+          "chord": "D#m7",
+          "lyric": "ai wo yi hou",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           B/F#                      C#sus4  C#",
-      "lyrics": "Wo de tian kong xing xing dou liang le"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Wo de tian ",
+          "overLyric": true
+        },
+        {
+          "chord": "B/F#",
+          "lyric": "kong xing xing dou liang l",
+          "overLyric": true
+        },
+        {
+          "chord": "C#sus4",
+          "lyric": "e       ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "              F#             C#/F",
-      "lyrics": "Wo yuan bian cheng tong hua li"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Wo yuan bian c",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "heng tong hua l",
+          "overLyric": true
+        },
+        {
+          "chord": "C#/F",
+          "lyric": "i",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      D#m7            C#/F",
-      "lyrics": "Ni ai de na ge tian shi"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Ni ai ",
+          "overLyric": true
+        },
+        {
+          "chord": "D#m7",
+          "lyric": "de na ge tian sh",
+          "overLyric": true
+        },
+        {
+          "chord": "C#/F",
+          "lyric": "i",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  B",
-      "lyrics": "Zhang kai shuang shou"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Zhang kai shuang s",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "hou",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           C#                 F#   F#7",
-      "lyrics": "Bian cheng chi bang shou hu ni"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Bian cheng ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#",
+          "lyric": "chi bang shou hu ni",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "   "
+        },
+        {
+          "chord": "F#7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "              B",
-      "lyrics": "Ni yao xiang xin"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Ni yao xiang x",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "in",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          C#                F#        C#/F   D#m7    C#",
-      "lyrics": "Xiang xin wo men hui xiang tong hua gu shi li"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Xiang xin ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#",
+          "lyric": "wo men hui xiang t",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "ong hua gu",
+          "overLyric": true
+        },
+        {
+          "chord": "C#/F",
+          "lyric": " shi li",
+          "overLyric": true
+        },
+        {
+          "chord": "D#m7",
+          "lyric": "    "
+        },
+        {
+          "chord": "C#",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "      B           C#         F#",
-      "lyrics": "Xin fu he kuai le shi jie ju"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Xin fu",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": " he kuai le ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#",
+          "lyric": "shi jie ju ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Interlude]"
     },
     {
-      "chord": "F#sus4  F#/C#   B  F#   F#sus2",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "F#sus4",
+          "lyric": "  "
+        },
+        {
+          "chord": "F#/C#",
+          "lyric": "   "
+        },
+        {
+          "chord": "B",
+          "lyric": "  "
+        },
+        {
+          "chord": "F#",
+          "lyric": "   "
+        },
+        {
+          "chord": "F#sus2",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F#sus4  F#/C#   B  C#sus4  C#",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "F#sus4",
+          "lyric": "  "
+        },
+        {
+          "chord": "F#/C#",
+          "lyric": "   "
+        },
+        {
+          "chord": "B",
+          "lyric": "  "
+        },
+        {
+          "chord": "C#sus4",
+          "lyric": "  "
+        },
+        {
+          "chord": "C#",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "          A#m7",
-      "lyrics": "Ni ku zhe dui wo shuo"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Ni ku zhe ",
+          "overLyric": true
+        },
+        {
+          "chord": "A#m7",
+          "lyric": "dui wo shuo",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            D#m7",
-      "lyrics": "Tong hua li dou shi pian ren de"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Tong hua li ",
+          "overLyric": true
+        },
+        {
+          "chord": "D#m7",
+          "lyric": "dou shi pian ren de",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          B/F#                 C#sus4  C#",
-      "lyrics": "Wo bu ke neng shi ni de wang zi"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Wo bu ke n",
+          "overLyric": true
+        },
+        {
+          "chord": "B/F#",
+          "lyric": "eng shi ni de wang zi",
+          "overLyric": true
+        },
+        {
+          "chord": "C#sus4",
+          "lyric": "  "
+        },
+        {
+          "chord": "C#",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "         A#m7",
-      "lyrics": "Ye xu ni bu hui dong"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Ye xu ni ",
+          "overLyric": true
+        },
+        {
+          "chord": "A#m7",
+          "lyric": "bu hui dong",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             D#m7",
-      "lyrics": "Cong ni shuo ai wo yi hou"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cong ni shuo ",
+          "overLyric": true
+        },
+        {
+          "chord": "D#m7",
+          "lyric": "ai wo yi hou",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           B/F#                      C#sus4  C#",
-      "lyrics": "Wo de tian kong xing xing dou liang le"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Wo de tian ",
+          "overLyric": true
+        },
+        {
+          "chord": "B/F#",
+          "lyric": "kong xing xing dou liang l",
+          "overLyric": true
+        },
+        {
+          "chord": "C#sus4",
+          "lyric": "e       ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "              F#             C#/F",
-      "lyrics": "Wo yuan bian cheng tong hua li"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Wo yuan bian c",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "heng tong hua l",
+          "overLyric": true
+        },
+        {
+          "chord": "C#/F",
+          "lyric": "i",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      D#m7            C#/F",
-      "lyrics": "Ni ai de na ge tian shi"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Ni ai ",
+          "overLyric": true
+        },
+        {
+          "chord": "D#m7",
+          "lyric": "de na ge tian sh",
+          "overLyric": true
+        },
+        {
+          "chord": "C#/F",
+          "lyric": "i",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  B",
-      "lyrics": "Zhang kai shuang shou"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Zhang kai shuang s",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "hou",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           C#                 F#   F#7",
-      "lyrics": "Bian cheng chi bang shou hu ni"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Bian cheng ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#",
+          "lyric": "chi bang shou hu ni",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "   "
+        },
+        {
+          "chord": "F#7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "              B",
-      "lyrics": "Ni yao xiang xin"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Ni yao xiang x",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "in",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          C#                F#        C#/F   D#m7    C#",
-      "lyrics": "Xiang xin wo men hui xiang tong hua gu shi li"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Xiang xin ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#",
+          "lyric": "wo men hui xiang t",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "ong hua gu",
+          "overLyric": true
+        },
+        {
+          "chord": "C#/F",
+          "lyric": " shi li",
+          "overLyric": true
+        },
+        {
+          "chord": "D#m7",
+          "lyric": "    "
+        },
+        {
+          "chord": "C#",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "      B           C#         F#    D#7",
-      "lyrics": "Xin fu he kuai le shi jie ju"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Xin fu",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": " he kuai le ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#",
+          "lyric": "shi jie ju ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "    "
+        },
+        {
+          "chord": "D#7",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "              G#             D#/G",
-      "lyrics": "Wo yuan bian cheng tong hua li"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Wo yuan bian c",
+          "overLyric": true
+        },
+        {
+          "chord": "G#",
+          "lyric": "heng tong hua l",
+          "overLyric": true
+        },
+        {
+          "chord": "D#/G",
+          "lyric": "i",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Fm7           D#/G",
-      "lyrics": "Ni ai de na ge tian shi"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Ni ai ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm7",
+          "lyric": "de na ge tian ",
+          "overLyric": true
+        },
+        {
+          "chord": "D#/G",
+          "lyric": "shi",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  C#",
-      "lyrics": "Zhang kai shuang shou"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Zhang kai shuang s",
+          "overLyric": true
+        },
+        {
+          "chord": "C#",
+          "lyric": "hou",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           D#                G#   G#7",
-      "lyrics": "Bian cheng chi bang shou hu ni"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Bian cheng ",
+          "overLyric": true
+        },
+        {
+          "chord": "D#",
+          "lyric": "chi bang shou hu n",
+          "overLyric": true
+        },
+        {
+          "chord": "G#",
+          "lyric": "i    ",
+          "overLyric": true
+        },
+        {
+          "chord": "G#7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "              C#",
-      "lyrics": "Ni yao xiang xin"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Ni yao xiang x",
+          "overLyric": true
+        },
+        {
+          "chord": "C#",
+          "lyric": "in",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          D#                G#        D#/G   Fm7    D#",
-      "lyrics": "Xiang xin wo men hui xiang tong hua gu shi li"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Xiang xin ",
+          "overLyric": true
+        },
+        {
+          "chord": "D#",
+          "lyric": "wo men hui xiang t",
+          "overLyric": true
+        },
+        {
+          "chord": "G#",
+          "lyric": "ong hua gu",
+          "overLyric": true
+        },
+        {
+          "chord": "D#/G",
+          "lyric": " shi li",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm7",
+          "lyric": "    "
+        },
+        {
+          "chord": "D#",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "      C#            D#        G#     F7",
-      "lyrics": "Xin fu he kuai le shi jie ju"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Xin fu",
+          "overLyric": true
+        },
+        {
+          "chord": "C#",
+          "lyric": " he kuai le sh",
+          "overLyric": true
+        },
+        {
+          "chord": "D#",
+          "lyric": "i jie ju  ",
+          "overLyric": true
+        },
+        {
+          "chord": "G#",
+          "lyric": "     "
+        },
+        {
+          "chord": "F7",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "              A#            F/A",
-      "lyrics": "Wo yuan bian cheng tong hua li"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Wo yuan bian c",
+          "overLyric": true
+        },
+        {
+          "chord": "A#",
+          "lyric": "heng tong hua ",
+          "overLyric": true
+        },
+        {
+          "chord": "F/A",
+          "lyric": "li",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Gm7           F/A",
-      "lyrics": "Ni ai de na ge tian shi"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Ni ai ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm7",
+          "lyric": "de na ge tian ",
+          "overLyric": true
+        },
+        {
+          "chord": "F/A",
+          "lyric": "shi",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  D#",
-      "lyrics": "Zhang kai shuang shou"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Zhang kai shuang s",
+          "overLyric": true
+        },
+        {
+          "chord": "D#",
+          "lyric": "hou",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           F               A#   A#7",
-      "lyrics": "Bian cheng chi bang shou hu ni"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Bian cheng ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "chi bang shou hu",
+          "overLyric": true
+        },
+        {
+          "chord": "A#",
+          "lyric": " ni  ",
+          "overLyric": true
+        },
+        {
+          "chord": "A#7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "              D#",
-      "lyrics": "Ni yao xiang xin"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Ni yao xiang x",
+          "overLyric": true
+        },
+        {
+          "chord": "D#",
+          "lyric": "in",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          F                A#        F/A   Gm7    F",
-      "lyrics": "Xiang xin wo men hui xiang tong hua gu shi li"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Xiang xin ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "wo men hui xiang ",
+          "overLyric": true
+        },
+        {
+          "chord": "A#",
+          "lyric": "tong hua g",
+          "overLyric": true
+        },
+        {
+          "chord": "F/A",
+          "lyric": "u shi ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm7",
+          "lyric": "li     ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "      D#            F        A#",
-      "lyrics": "Xin fu he kuai le shi jie ju"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Xin fu",
+          "overLyric": true
+        },
+        {
+          "chord": "D#",
+          "lyric": " he kuai le sh",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "i jie ju ",
+          "overLyric": true
+        },
+        {
+          "chord": "A#",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Gm7",
-      "lyrics": "Woah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm7",
+          "lyric": "Woah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      D#          F7     A#",
-      "lyrics": "Yi qi xie wo men de jie ju"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Yi qi ",
+          "overLyric": true
+        },
+        {
+          "chord": "D#",
+          "lyric": "xie wo men d",
+          "overLyric": true
+        },
+        {
+          "chord": "F7",
+          "lyric": "e jie j",
+          "overLyric": true
+        },
+        {
+          "chord": "A#",
+          "lyric": "u",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Tong Hua"

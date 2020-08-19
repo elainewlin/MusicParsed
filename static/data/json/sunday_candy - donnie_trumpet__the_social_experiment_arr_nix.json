@@ -19,176 +19,936 @@
       "label": "[Intro]"
     },
     {
-      "chord": "",
-      "lyrics": "Picking"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Picking",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fadd9 Aaug7 Faug Dm G7sus2 Dm",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Fadd9",
+          "lyric": " "
+        },
+        {
+          "chord": "Aaug7",
+          "lyric": " "
+        },
+        {
+          "chord": "Faug",
+          "lyric": " "
+        },
+        {
+          "chord": "Dm",
+          "lyric": " "
+        },
+        {
+          "chord": "G7sus2",
+          "lyric": " "
+        },
+        {
+          "chord": "Dm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Bb F F Fsus4 C",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "Fsus4",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 1]"
     },
     {
-      "chord": "        Fadd9            Fadd9   Aaug7        Faug  Dm",
-      "lyrics": "She can say in her voice, in her way that she loves me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "She can ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fadd9",
+          "lyric": "say in her voice,",
+          "overLyric": true
+        },
+        {
+          "chord": "Fadd9",
+          "lyric": " in her ",
+          "overLyric": true
+        },
+        {
+          "chord": "Aaug7",
+          "lyric": "way that she ",
+          "overLyric": true
+        },
+        {
+          "chord": "Faug",
+          "lyric": "loves ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm       G7sus2    Dm    Bb",
-      "lyrics": "With her eyes, with her smile, with her belt,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "With her ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7sus2",
+          "lyric": "eyes, with",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": " her s",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "mile, with her belt,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Bb           F F Fsus4",
-      "lyrics": "with her hands, with her money"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "with her han",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ds, with her ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "mo",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ne",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus4",
+          "lyric": "y",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         C",
-      "lyrics": "I am the thesis of her prayers"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I am the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "thesis of her prayers",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Fadd9                  Fadd9    Aaug7   Faug    Dm",
-      "lyrics": "Her nieces and her nephews are just pieces of the layers"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Her ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fadd9",
+          "lyric": "nieces and her nephews ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fadd9",
+          "lyric": "are just ",
+          "overLyric": true
+        },
+        {
+          "chord": "Aaug7",
+          "lyric": "pieces o",
+          "overLyric": true
+        },
+        {
+          "chord": "Faug",
+          "lyric": "f the la",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "yers",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                Dm  G7sus2       Dm         Bb",
-      "lyrics": "Only ones she love as much as me is Jesus Christ and Taylor"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Only ones she love as much as me",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": " is ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7sus2",
+          "lyric": "Jesus Christ ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "and Taylor ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "  Bb                   F     F                Fsus4",
-      "lyrics": "I got a feature so I'm singing for my grandma"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "got a feature so I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "singin",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "g for my grandma ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus4",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                          C",
-      "lyrics": "You singing too, but your grandma ain't my grandma"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You singing too, but your ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "grandma ain't my grandma",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fadd9         Fadd9 Aaug7    Faug  Dm",
-      "lyrics": "Mine's is handmade, pan-fried, sun-dried"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fadd9",
+          "lyric": "Mine's is hand",
+          "overLyric": true
+        },
+        {
+          "chord": "Fadd9",
+          "lyric": "made, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Aaug7",
+          "lyric": "pan-fried",
+          "overLyric": true
+        },
+        {
+          "chord": "Faug",
+          "lyric": ", sun-",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "dried",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    Dm  G7sus2      Dm   Bb",
-      "lyrics": "Southside, and beat the devil by a landslide"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Southside, and beat ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7sus2",
+          "lyric": "devil by a l",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "andsl",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ide",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     Bb       F    F                    Fsus4",
-      "lyrics": "Praying with her hands tight, president of my fan club, Santa"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Praying with her hand",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "s tight, ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "presi",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "dent of my fan club, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus4",
+          "lyric": "Santa",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  C",
-      "lyrics": "Something told me I should bring my butt to church"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Something told me ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I should bring my butt to church",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "                  Fadd9",
-      "lyrics": "You gotta move it slowly"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You gotta move it ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fadd9",
+          "lyric": "slowly",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Aaug7           Faug           Dm",
-      "lyrics": "Take and eat my body like it's holy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Aaug7",
+          "lyric": "Take and eat my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Faug",
+          "lyric": "body like it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "holy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G7sus2            Dm              Bb",
-      "lyrics": "I've been waiting for you for the whole week"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G7sus2",
+          "lyric": "I've been waiting ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "for you for the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "whole week",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "I've been praying for you,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I've been praying for you,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Fsus4  C",
-      "lyrics": "you're my Sunday candy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "you're my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus4",
+          "lyric": "Sunday ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "candy",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "Fadd9           Aaug7 Faug Faug Faug",
-      "lyrics": "Come on in this house,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fadd9",
+          "lyric": "Come on in this ",
+          "overLyric": true
+        },
+        {
+          "chord": "Aaug7",
+          "lyric": "house,",
+          "overLyric": true
+        },
+        {
+          "chord": "Faug",
+          "lyric": " "
+        },
+        {
+          "chord": "Faug",
+          "lyric": " "
+        },
+        {
+          "chord": "Faug",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "      Dm        G7sus2 Dm Dm Dm",
-      "lyrics": "cause it's gonna rain"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "cause ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "it's gonna",
+          "overLyric": true
+        },
+        {
+          "chord": "G7sus2",
+          "lyric": " rain  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": " "
+        },
+        {
+          "chord": "Dm",
+          "lyric": " "
+        },
+        {
+          "chord": "Dm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Bb        F     Fsus4      C",
-      "lyrics": "Rain down Zion, it's gonna rain"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "Rain down ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "Zion, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus4",
+          "lyric": "it's gonna ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "rain",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Fadd9           Aaug7 Faug Faug Faug",
-      "lyrics": "You better come on in this house,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You better ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fadd9",
+          "lyric": "come on in this ",
+          "overLyric": true
+        },
+        {
+          "chord": "Aaug7",
+          "lyric": "house,",
+          "overLyric": true
+        },
+        {
+          "chord": "Faug",
+          "lyric": " "
+        },
+        {
+          "chord": "Faug",
+          "lyric": " "
+        },
+        {
+          "chord": "Faug",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "      Dm        G7sus2 Dm Dm Dm",
-      "lyrics": "cause it's gonna rain"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "cause ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "it's gonna",
+          "overLyric": true
+        },
+        {
+          "chord": "G7sus2",
+          "lyric": " rain  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": " "
+        },
+        {
+          "chord": "Dm",
+          "lyric": " "
+        },
+        {
+          "chord": "Dm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Bb        F     Fsus4      C",
-      "lyrics": "Rain down Zion, it's gonna rain"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "Rain down ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "Zion, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus4",
+          "lyric": "it's gonna ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "rain",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "          Fadd9",
-      "lyrics": "I come to church for the candy,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I come to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fadd9",
+          "lyric": "church for the candy,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Aaug7       Faug",
-      "lyrics": "your peppermint is the truth"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "your pepper",
+          "overLyric": true
+        },
+        {
+          "chord": "Aaug7",
+          "lyric": "mint is the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Faug",
+          "lyric": "truth",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Dm                        G7sus2             Dm",
-      "lyrics": "I'm pessimistic on Monday if I had tweaked and missed you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm pessi",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "mistic on Monday if I had ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7sus2",
+          "lyric": "tweaked and missed ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Bb                            F",
-      "lyrics": "You look so good with that hat on, had to match with the shoes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You look so ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "good with that hat on, had to ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "match with the shoes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Fsus4                            C",
-      "lyrics": "Came and dressed in the satin, I came and sat in your pew"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Came and ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus4",
+          "lyric": "dressed in the satin, I came and ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "sat in your pew",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Fadd9                       Aaug7       Faug",
-      "lyrics": "I come to Christmas for dinner, fifty rolls on my plate"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I come to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fadd9",
+          "lyric": "Christmas for dinner, fifty ",
+          "overLyric": true
+        },
+        {
+          "chord": "Aaug7",
+          "lyric": "rolls on my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Faug",
+          "lyric": "plate",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Dm                                G7sus2     Dm",
-      "lyrics": "Hella holes in my stocking holding your pockets in place"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Hella ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "holes in my stocking holding your ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7sus2",
+          "lyric": "pockets in ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "place",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Bb                            F",
-      "lyrics": "I like my love with a budget, I like my hugs with a scent"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I like my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "love with a budget, I like my ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "hugs with a scent",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               Fsus4                     C",
-      "lyrics": "You smell like light, gas, water, electricity, rent"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You smell like ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus4",
+          "lyric": "light, gas, water, electri",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "city, rent",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               Fadd9                       Aaug7",
-      "lyrics": "You sound like why the gospel choir got so tired"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You sound like ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fadd9",
+          "lyric": "why the gospel choir got so ",
+          "overLyric": true
+        },
+        {
+          "chord": "Aaug7",
+          "lyric": "tired",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    Dm                     G7sus2",
-      "lyrics": "Singin' his praises daily basis so I gotta try it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Singin' his praises ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "daily basis so I gotta ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7sus2",
+          "lyric": "try it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               Bb                        F",
-      "lyrics": "You're my dreamcatcher, dream team, team captain"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're my dream",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "catcher, dream team, team ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "captain",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     Fsus4",
-      "lyrics": "Matter fact, I ain't seen you in a minute"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Matter fact, I ain't ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fsus4",
+          "lyric": "seen you in a minute",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       C",
-      "lyrics": "let me take my butt to church"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "let me ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "take my butt to church",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"

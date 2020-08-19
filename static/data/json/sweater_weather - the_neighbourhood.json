@@ -14,249 +14,880 @@
       "label": "[Verse]"
     },
     {
-      "chord": "      F          Dm",
-      "lyrics": "All I am is a man"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "All I ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "am is a man",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "           Am               C",
-      "lyrics": "I want the world in my hands"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I want the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "world in my hands",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                F",
-      "lyrics": "I hate the beach"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I hate the beach",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "           Dm",
-      "lyrics": "But I stand"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But I stand",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "        Am                            C",
-      "lyrics": "In California with my toes in the sand"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "In Calif",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ornia with my toes in the sand",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                      F",
-      "lyrics": "Use the sleeves of my sweater"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Use the sleeves of my ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "sweater",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Dm",
-      "lyrics": "Let's have an adventure"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Let's have an ad",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "venture",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Am                              C",
-      "lyrics": "Head in the clouds but my gravity's centered"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Head in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "clouds but my gravity's centered",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "         F                        Dm",
-      "lyrics": "Touch my neck and I'll touch yours"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Touch my ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "neck and I'll touch yours",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "             Am                  C",
-      "lyrics": "You in those little high waisted shorts, oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You in those ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "little high waisted ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "shorts, oh",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "F                             Dm",
-      "lyrics": "  She knows what I think about"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " She knows what I think about"
+        },
+        {
+          "chord": "Dm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                        Am",
-      "lyrics": "  And what I think about"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  And what I think about",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "  One love, two mouths"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  One love, two mouths",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "  One love, one house"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " One love, one house"
+        }
+      ]
     },
     {
-      "chord": "F                    Dm",
-      "lyrics": "  No shirt, no blouse"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " No shirt, no blouse"
+        },
+        {
+          "chord": "Dm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "  Just us, you find out"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  Just us, you find out",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                                            C",
-      "lyrics": "  Nothing that wouldn't wanna tell you about, no"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "  Nothing that wouldn't wanna tell you about, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "no",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "                F                   Dm",
-      "lyrics": "'Cause it's too co-oh-oh-oh-oh-woah-old"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Cause it's too ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "co-oh-oh-oh-oh-woah-",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "old",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Am       C",
-      "lyrics": "For you here and now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "For you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "here and ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          F                   Dm",
-      "lyrics": "So let me ho-oh-oh-oh-oh-woah-old"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So let me ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ho-oh-oh-oh-oh-woah-",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "old",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Am           C",
-      "lyrics": "Both your hands in the holes of my sweater"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Both your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "hands in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "holes of my sweater",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "          F",
-      "lyrics": "And if I may just take your breath away"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And if I m",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ay just take your breath away",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Dm",
-      "lyrics": "I don't mind if there's not much to say"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I do",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "n't mind if there's not much to say",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "Sometimes the silence guides our minds"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Sometimes the silence guides our minds",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "So move to a place so far away"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "So move to a place so far away",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "The goosebumps start to raise"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "The goosebumps start to raise",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm",
-      "lyrics": "The minute that my left hand meets your waist"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "The minute that my left hand meets your waist",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "And then I watch your face"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "And then I watch your face",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "Put my finger on your tongue"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Put my finger on your tongue",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "'Cause you love the taste, yeah"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Cause you love the taste, yeah",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "F",
-      "lyrics": "These hearts adore"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "These hearts adore",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm",
-      "lyrics": "Everyone the other beats hardest for"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Everyone the other beats hardest for",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "Inside this place is warm"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Inside this place is warm",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "Outside it starts to pour..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Outside it starts to pour...",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "F             Dm",
-      "lyrics": "Coming down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Coming down   ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                  Am",
-      "lyrics": "One love, two mouths"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "One love, two mout",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "hs",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 C",
-      "lyrics": "One love, one house"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "One love, one hou",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "se",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "No shirt, no blouse"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "No shirt, no blouse",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                      Dm",
-      "lyrics": "Just us, you find out"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Just us, you find out  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                                          Am",
-      "lyrics": "Nothing that wouldn't wanna tell you about, no"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Nothing that wouldn't wanna tell you about",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ", no",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[repeat 2x]"
     },
     {
-      "chord": "                F                   Dm",
-      "lyrics": "'Cause it's too co-oh-oh-oh-oh-woah-old"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Cause it's too ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "co-oh-oh-oh-oh-woah-",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "old",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Am       C",
-      "lyrics": "For you here and now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "For you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "here and ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          F                   Dm",
-      "lyrics": "So let me ho-oh-oh-oh-oh-woah-old"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So let me ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ho-oh-oh-oh-oh-woah-",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "old",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Am           C",
-      "lyrics": "Both your hands in the holes of my sweater"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Both your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "hands in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "holes of my sweater",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Whoa, whoa..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Whoa, whoa...",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "                F                   Dm",
-      "lyrics": "'Cause it's too co-oh-oh-oh-oh-woah-old"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Cause it's too ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "co-oh-oh-oh-oh-woah-",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "old",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Am       C",
-      "lyrics": "For you here and now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "For you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "here and ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          F                   Dm",
-      "lyrics": "So let me ho-oh-oh-oh-oh-woah-old"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So let me ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ho-oh-oh-oh-oh-woah-",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "old",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Am           C",
-      "lyrics": "Both your hands in the holes of my sweater"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Both your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "hands in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "holes of my sweater",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         F                   Dm",
-      "lyrics": "It's too co-oh-oh-oh-oh-woah-old"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's too ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "co-oh-oh-oh-oh-woah-",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "old",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Am       C",
-      "lyrics": "For you here and now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "For you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "here and ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       F                   Dm",
-      "lyrics": "Let me ho-oh-oh-oh-oh-woah-old"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Let me ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ho-oh-oh-oh-oh-woah-",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "old",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Am           C",
-      "lyrics": "Both your hands in the holes of my sweater"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Both your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "hands in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "holes of my sweater",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         F",
-      "lyrics": "It's too cold,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's too ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "cold,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Dm",
-      "lyrics": "It's too cold"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's too ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "cold",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am",
-      "lyrics": "The holes of my sweater..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "holes of my sweater...",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Sweater Weather"

@@ -13,142 +13,489 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "Em7                                       Cmaj7          Am7",
-      "lyrics": "Sometimes, I feel the fear of uncertainty stinging clear"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em7",
+          "lyric": "Sometimes, I feel the fear of uncertainty ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "stinging clear ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Em7                                           Cmaj7",
-      "lyrics": "And I can't help but ask myself how much I'll let the fear"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em7",
+          "lyric": "And I can't help but ask myself how much I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "let the fear",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Am7",
-      "lyrics": "Take the wheel and steer"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Take the wheel and ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "steer",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "Cmaj7          A7                         Cmaj7",
-      "lyrics": "It's driven me before and seems to have a vague"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cmaj7",
+          "lyric": "It's driven me ",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "before and seems to have a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "vague",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A7              Cmaj7",
-      "lyrics": "Haunting mass appeal"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A7",
+          "lyric": "Haunting mass ap",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "peal",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           A7               Cmaj7",
-      "lyrics": "But lately I'm beginning to find that I"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But lately ",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "I'm beginning to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "find that I",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              A7",
-      "lyrics": "Should be the one behind the wheel"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Should be the ",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "one behind the wheel",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Em7",
-      "lyrics": "Whatever tomorrow brings"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em7",
+          "lyric": "Whatever tomorrow brings",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Cmaj7              Am7",
-      "lyrics": "I'll be there with open arms and open eyes yea"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "be there with open ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "arms and open eyes yea",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em7",
-      "lyrics": "Whatever tomorrow brings"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em7",
+          "lyric": "Whatever tomorrow brings",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Cmaj7         Am7",
-      "lyrics": "I'll be there I'll be there"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "be there I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "be there",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "Em7",
-      "lyrics": "So, if I decide to waiver my chance"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em7",
+          "lyric": "So, if I decide to waiver my chance",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Cmaj7             Am7",
-      "lyrics": "To be one of the hive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "be one of the hive",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Em7",
-      "lyrics": "Will I choose water over wine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em7",
+          "lyric": "Will I choose water over wine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Cmaj7",
-      "lyrics": "And hold my own and drive?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And hold my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "own and drive?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am7",
-      "lyrics": "Aah ah ooo"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am7",
+          "lyric": "Aah ah ooo",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "Cmaj7          A7                            Cmaj7",
-      "lyrics": "It's driven me before and it seems to be the way"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cmaj7",
+          "lyric": "It's driven me ",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "before and it seems to be the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "way",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          A7                   Cmaj7",
-      "lyrics": "That everyone else gets around"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That every",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "one else gets around ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "           A7                         Cmaj7",
-      "lyrics": "But lately I'm beginning to find that when"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But lately ",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "I'm beginning to find that ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "when",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           A7",
-      "lyrics": "I drive myself my light is found"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I drive mys",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "elf my light is found",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Em7",
-      "lyrics": "Whatever tomorrow brings"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em7",
+          "lyric": "Whatever tomorrow brings",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Cmaj7              Am7",
-      "lyrics": "I'll be there with open arms and open eyes yea"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "be there with open ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "arms and open eyes yea",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em7",
-      "lyrics": "Whatever tomorrow brings"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em7",
+          "lyric": "Whatever tomorrow brings",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Cmaj7         Am7",
-      "lyrics": "I'll be there I'll be there"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "be there I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "be there",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Cmaj7      A7               Cmaj7",
-      "lyrics": "Would you choose water over wine?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cmaj7",
+          "lyric": "Would you c",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "hoose water over ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "wine?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A7",
-      "lyrics": "Hold the wheel and drive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A7",
+          "lyric": "Hold the wheel and drive",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Em7",
-      "lyrics": "Whatever tomorrow brings"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em7",
+          "lyric": "Whatever tomorrow brings",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Cmaj7              Am7",
-      "lyrics": "I'll be there with open arms and open eyes yea"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "be there with open ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "arms and open eyes yea",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em7",
-      "lyrics": "Whatever tomorrow brings"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em7",
+          "lyric": "Whatever tomorrow brings",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Cmaj7         Am7",
-      "lyrics": "I'll be there I'll be there"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "be there I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "be there",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Drive"

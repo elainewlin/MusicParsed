@@ -26,165 +26,900 @@
       "label": "[Intro]"
     },
     {
-      "chord": "B E7 A B E7 A",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": " "
+        },
+        {
+          "chord": "E7",
+          "lyric": " "
+        },
+        {
+          "chord": "A",
+          "lyric": " "
+        },
+        {
+          "chord": "B",
+          "lyric": " "
+        },
+        {
+          "chord": "E7",
+          "lyric": " "
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "B E7 A D G Cmaj7 F7",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": " "
+        },
+        {
+          "chord": "E7",
+          "lyric": " "
+        },
+        {
+          "chord": "A",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": " "
+        },
+        {
+          "chord": "F7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "B E7 A B E7 A",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": " "
+        },
+        {
+          "chord": "E7",
+          "lyric": " "
+        },
+        {
+          "chord": "A",
+          "lyric": " "
+        },
+        {
+          "chord": "B",
+          "lyric": " "
+        },
+        {
+          "chord": "E7",
+          "lyric": " "
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "B E7 A D G Cmaj7 F7 Eaug7 E7",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": " "
+        },
+        {
+          "chord": "E7",
+          "lyric": " "
+        },
+        {
+          "chord": "A",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": " "
+        },
+        {
+          "chord": "F7",
+          "lyric": " "
+        },
+        {
+          "chord": "Eaug7",
+          "lyric": " "
+        },
+        {
+          "chord": "E7",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 1]"
     },
     {
-      "chord": "Am                   Dm  E7",
-      "lyrics": "Why would you want to be here?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Why would you want to",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": " be ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "here?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Am          Dm7 G7sus4 G7",
-      "lyrics": "What do you ever see here?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "What ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "do you ever ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "see ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7sus4",
+          "lyric": "here?  ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "     Cmaj7                                Ebdim7",
-      "lyrics": "That doesn't make you feel worse than you do?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "doesn't make you feel worse than you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebdim7",
+          "lyric": "do?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Eaug7 E7  Am                Ebdim7   Eaug7 E7",
-      "lyrics": "And tell  me, what\u2019s the use of feeling, Blue?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eaug7",
+          "lyric": "tell  ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "me, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "what’s the use of ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebdim7",
+          "lyric": "feeling, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eaug7",
+          "lyric": "Blue? ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "Am                       Dm7 E7",
-      "lyrics": "Why would you want to employ her"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Why would you want to emp",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "loy ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "her",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                Dm7   G7sus4 G7",
-      "lyrics": "Subjects that destroyed her?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Subjects that dest",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "royed ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7sus4",
+          "lyric": "her?   ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Cmaj7                 Ebdim7",
-      "lyrics": "Why keep up her silly zoo?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cmaj7",
+          "lyric": "Why keep up her silly ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebdim7",
+          "lyric": "zoo?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Eaug7 E7  Am                Ebdim7 E7    Am",
-      "lyrics": "Oh tell  me, what\u2019s the use of fee -  ling, Blue?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eaug7",
+          "lyric": "tell  ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "me, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "what’s the use of ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebdim7",
+          "lyric": "fee -  ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "ling, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "Blue?",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "   Dm7        G7             Cmaj7",
-      "lyrics": "An army has a use, they can go and fight a war"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "An ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "army has a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "use, they can g",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "o and fight a war",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E7                            Am",
-      "lyrics": "A Sapphire has a use, she can tell you what it\u2019s for"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E7",
+          "lyric": "A Sapphire has a use, she can ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "tell you what it’s for",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   E7                 Am          Ebdim7",
-      "lyrics": "An Agate terrifies, a Lapis terraforms"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "An ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "Agate terrifies, a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "Lapis terraf",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebdim7",
+          "lyric": "orms",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              Ebdim7",
-      "lyrics": "Where\u2019s their diamond when they need her, Blue?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Where’s their ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebdim7",
+          "lyric": "diamond when they need her, Blue?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Ebdim7  E7",
-      "lyrics": "You\u2019ve got to be a leader, Blue"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You’ve got to be a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebdim7",
+          "lyric": "leader, ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "Blue",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Cmaj7                    Dm7  G7sus4 G7",
-      "lyrics": "Yes, of course, we still love her"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cmaj7",
+          "lyric": "Yes, of course, we still ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "love ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7sus4",
+          "lyric": "her    ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "          Cmaj7  C6       Dm7 G7sus4 G7",
-      "lyrics": "And we\u2019re always thinking of  her"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And we’re ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "always ",
+          "overLyric": true
+        },
+        {
+          "chord": "C6",
+          "lyric": "thinking ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "of  ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7sus4",
+          "lyric": "her    ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    Cmaj7                      Ebdim7 Eaug7 E7",
-      "lyrics": "But now there\u2019s nothing we can do, so tell  me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "now there’s nothing we can ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebdim7",
+          "lyric": "do, so ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eaug7",
+          "lyric": "tell  ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                Ebdim7 E7    Am                Ebdim7 E7",
-      "lyrics": "What\u2019s the use of fee -  ling? What\u2019s the use of fee -  ling?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "What’s the use of ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebdim7",
+          "lyric": "fee -  ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "ling? ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "What’s the use of ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebdim7",
+          "lyric": "fee -  ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "ling?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                Ebdim7 E7    Am",
-      "lyrics": "What\u2019s the use of fee -  ling, Blue?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "What’s the use of ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebdim7",
+          "lyric": "fee -  ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "ling, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "Blue?",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Middle]"
     },
     {
-      "chord": "G7                          Cmaj7",
-      "lyrics": "Oh, how can you stand to be here with it all?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G7",
+          "lyric": "Oh, how can you stand to be ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "here with it all?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fmaj7",
-      "lyrics": "Drowning in all this regret"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fmaj7",
+          "lyric": "Drowning in all this regret",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fmaj7                   E  E7",
-      "lyrics": "Wouldn\u2019t you rather forget her?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fmaj7",
+          "lyric": "Wouldn’t you rather forg",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "et ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "her?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G7                                 Cmaj7",
-      "lyrics": "Won\u2019t it be grand to get rid of it all?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G7",
+          "lyric": "Won’t it be grand to get rid of it ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "all?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fmaj7",
-      "lyrics": "Let\u2019s make a plan of attack"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fmaj7",
+          "lyric": "Let’s make a plan of attack",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fmaj7                     G7",
-      "lyrics": "Start looking forward and stop looking back, oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fmaj7",
+          "lyric": "Start looking forward and ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "stop looking back, oh",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Cmaj7                    Dm7  G7sus4 G7",
-      "lyrics": "Yes, of course, we still love her"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cmaj7",
+          "lyric": "Yes, of course, we still ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "love ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7sus4",
+          "lyric": "her    ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "          Cmaj7  C6       Dm7 G7sus4 G7",
-      "lyrics": "And we\u2019re always thinking of  her"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And we’re ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "always ",
+          "overLyric": true
+        },
+        {
+          "chord": "C6",
+          "lyric": "thinking ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "of  ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7sus4",
+          "lyric": "her    ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Cmaj7                      Fmaj7    E7",
-      "lyrics": "Don\u2019t you know I miss her, too? But tell me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cmaj7",
+          "lyric": "Don’t you know I miss her, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7",
+          "lyric": "too? But ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "tell me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Cmaj7             Ebdim7 E7    Cmaj7             Ebdim7 E7",
-      "lyrics": "What\u2019s the use of fee -  ling? What\u2019s the use of fee -  ling?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cmaj7",
+          "lyric": "What’s the use of ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebdim7",
+          "lyric": "fee -  ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "ling? ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "What’s the use of ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebdim7",
+          "lyric": "fee -  ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "ling?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Cmaj7             Ebdim7 E7",
-      "lyrics": "What\u2019s the use of fee -  ling?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cmaj7",
+          "lyric": "What’s the use of ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebdim7",
+          "lyric": "fee -  ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "ling?",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Outro]"
     },
     {
-      "chord": "B E7 A B E7 A",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": " "
+        },
+        {
+          "chord": "E7",
+          "lyric": " "
+        },
+        {
+          "chord": "A",
+          "lyric": " "
+        },
+        {
+          "chord": "B",
+          "lyric": " "
+        },
+        {
+          "chord": "E7",
+          "lyric": " "
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "B E7 A D G Cmaj7 F7 Eaug7 E7",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": " "
+        },
+        {
+          "chord": "E7",
+          "lyric": " "
+        },
+        {
+          "chord": "A",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": " "
+        },
+        {
+          "chord": "F7",
+          "lyric": " "
+        },
+        {
+          "chord": "Eaug7",
+          "lyric": " "
+        },
+        {
+          "chord": "E7",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "What's the Use of Feeling (Blue)?"

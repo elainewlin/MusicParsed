@@ -12,119 +12,466 @@
       "label": "[Verse]"
     },
     {
-      "chord": "C               G      F            C",
-      "lyrics": "We'll do it all, everything, on our own."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "We'll do it all,",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " everyt",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "hing, on our ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "own.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C          G       F         C",
-      "lyrics": "We don't need anything, or anyone."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "We don't ne",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ed anyth",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ing, or an",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "yone.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "    C                   G",
-      "lyrics": "If I lay here, if I just lay here"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "If I",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " lay here, if I just",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " lay here",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                F                           C",
-      "lyrics": "Would you lie with me, and just forget the world."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Would you lie wi",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "th me, and just forget the w",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "orld.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "C              G          F            C",
-      "lyrics": "I don't quite know how to say how I feel"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I don't quite k",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "now how to ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "say how I fee",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "l",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C               G              F              C",
-      "lyrics": "Those three words, I said too much, but not enough."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Those three word",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "s, I said too m",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "uch, but not en",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ough.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "C                       G",
-      "lyrics": "If I lay here, if I just lay here"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "If I lay here, if I just",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " lay here",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           F                            C",
-      "lyrics": "Would you lie with me, and just forget the world."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Would you l",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ie with me, and just forget t",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "he world.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "C                                       G",
-      "lyrics": "Forget what we're told, before we get too old"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Forget what we're told, before we get to",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "o old",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           F                            C",
-      "lyrics": "Show me a garden that's bursting into life."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Show me a g",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "arden that's bursting into li",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "fe.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "C               G          F               C",
-      "lyrics": "Let's waste time, chasing cars, around our heads."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Let's waste time",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ", chasing c",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ars, around our ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "heads.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C               G          F              C",
-      "lyrics": "I need your grace to remind me, to find my own."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I need your grac",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "e to remind",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " me, to find my",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " own.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "C                       G",
-      "lyrics": "If I lay here, if I just lay here"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "If I lay here, if I just",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " lay here",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                F                          C",
-      "lyrics": "Would you lie with me, and just forget the world."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Would you lie wi",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "th me, and just forget the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "world.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "C                                       G",
-      "lyrics": "Forget what we're told, before we get too old"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Forget what we're told, before we get to",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "o old",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           F                            C",
-      "lyrics": "Show me a garden that's bursting into life."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Show me a g",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "arden that's bursting into li",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "fe.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "C                       G",
-      "lyrics": "All that I am, all that I ever was"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "All that I am, all that ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "I ever was",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                        F                       C",
-      "lyrics": "Is here in your perfect eyes, they're all I can see"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Is here in your perfect ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "eyes, they're all I can ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "see",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                                  G",
-      "lyrics": "I don't know where, confused about how as well"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I don't know where, confused about ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "how as well",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                        F                               C",
-      "lyrics": "just know that these things will never change for us at all."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "just know that these thi",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ngs will never change for us at ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "all.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "C                       G",
-      "lyrics": "If I lay here, if I just lay here"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "If I lay here, if I just",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " lay here",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                F                       C",
-      "lyrics": "Would you lie with me, and just forget the world."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Would you lie wi",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "th me, and just forget t",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "he world.",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Chasing Cars"

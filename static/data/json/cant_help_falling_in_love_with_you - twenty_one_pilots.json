@@ -19,62 +19,491 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "C    Em  Am       F     C    G",
-      "lyrics": "Wise men say only fools rush in"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Wise ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "men ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "say only ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "fools ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "rush ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "in",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    F  G     Am   F         C    G7   C",
-      "lyrics": "But I can't help falling in love with you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "I c",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "an't h",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "elp f",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "alling in ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "love ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "with ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C     Em   Am            F  C  G",
-      "lyrics": "Shall  I  stay? Would it be a sin"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Shall ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " I  s",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "tay? Would it ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "be ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "a s",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "in",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   F  G     Am   F          C    G7   C",
-      "lyrics": "If I can't help falling in love with you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "If ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "I c",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "an't h",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "elp f",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "alling in l",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ove w",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "ith y",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ou",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "Em            B7     Em           B7",
-      "lyrics": "Like a river flows, surely to the sea"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Like a river f",
+          "overLyric": true
+        },
+        {
+          "chord": "B7",
+          "lyric": "lows, s",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "urely to the ",
+          "overLyric": true
+        },
+        {
+          "chord": "B7",
+          "lyric": "sea",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em             B7     Em7         A7               Dm7  G7",
-      "lyrics": "Darling, so it goes, some things      are meant to be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Darling, so it ",
+          "overLyric": true
+        },
+        {
+          "chord": "B7",
+          "lyric": "goes, s",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": "ome things  ",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "  are meant to "
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "be   ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C    Em  Am            F     C     G",
-      "lyrics": "Take my hand, take my whole life, too"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Take ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "my h",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "and, take my w",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "hole l",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ife, t",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "oo",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      F   G    Am   F          C    G7   C",
-      "lyrics": "Cause I can't help falling in love with you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "I ca",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "n't h",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "elp f",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "alling in l",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ove w",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "ith y",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ou",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em            B7     Em           B7",
-      "lyrics": "Like a river flows, surely to the sea"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Like a river f",
+          "overLyric": true
+        },
+        {
+          "chord": "B7",
+          "lyric": "lows, s",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "urely to the ",
+          "overLyric": true
+        },
+        {
+          "chord": "B7",
+          "lyric": "sea",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em             B7     Em7         A7               Dm7  G7",
-      "lyrics": "Darling, so it goes, some things      are meant to be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Darling, so it ",
+          "overLyric": true
+        },
+        {
+          "chord": "B7",
+          "lyric": "goes, s",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": "ome things  ",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "  are meant to "
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "be   ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "C    Em  Am            F     C     G",
-      "lyrics": "Take my hand, take my whole life, too"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Take ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "my h",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "and, take my w",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "hole l",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ife, t",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "oo",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      F   G    Am   F          C    G7   C",
-      "lyrics": "Cause I can't help falling in love with you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "I ca",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "n't h",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "elp f",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "alling in l",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ove w",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "ith y",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ou",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      F   G    Am   F          C    G7   C",
-      "lyrics": "Cause I can't help falling in love with you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "I ca",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "n't h",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "elp f",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "alling in l",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ove w",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "ith y",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ou",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Can't Help Falling In Love With You"

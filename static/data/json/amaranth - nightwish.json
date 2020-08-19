@@ -15,140 +15,659 @@
   "id": "amaranth - nightwish",
   "lines": [
     {
-      "chord": "Dm",
-      "lyrics": "Baptized with a perfect name"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Baptized with a perfect name",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Bb     C",
-      "lyrics": "The doubting one by heart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The doubting ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "one by ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "heart",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 Dm",
-      "lyrics": "Alone without himself"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Alone without him",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "self",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm",
-      "lyrics": "War between him and the day"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "War between him and the day",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Bb C",
-      "lyrics": "Need someone to blame"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Need someone ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "blame",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                          Dm",
-      "lyrics": "In the end, little he can do alone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "In the end, little he can ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "do alone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm                       Dm",
-      "lyrics": "You believe but what you see"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "You believe but what you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "see",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm                        Eb",
-      "lyrics": "You receive but what you give"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "You receive but what you g",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "ive",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm         Bb             F",
-      "lyrics": "Caress the one, the Never-Fading"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Caress the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "one, the Never-",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "Fading",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C       Dm   Bb                   F          C",
-      "lyrics": "Rain in your heart - the tears of snow-white sorrow"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Rain in ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "heart - the tears of ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "snow-white ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "sorrow",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm         Bb              F",
-      "lyrics": "Caress the one, the hiding amaranth"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Caress the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "one, the hiding ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "amaranth",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C         Bb     Eb",
-      "lyrics": "In a land of the daybreak"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "In a land ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "of the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "daybreak",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm",
-      "lyrics": "Apart from the wandering pack"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Apart from the wandering pack",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Bb            C",
-      "lyrics": "In this brief flight of time we reach"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "In this ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "brief flight o",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "f time we reach",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 Dm",
-      "lyrics": "For the ones, whoever dare"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "For the ones, who",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ever dare",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm                       Dm",
-      "lyrics": "You believe but what you see"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "You believe but what you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "see",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm              Eb",
-      "lyrics": "You receive but what you give"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "You receive but ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "what you give",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm         Bb             F",
-      "lyrics": "Caress the one, the Never-Fading"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Caress the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "one, the Never-",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "Fading",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C       Dm   Bb                   F          C",
-      "lyrics": "Rain in your heart - the tears of snow-white sorrow"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Rain in ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "heart - the tears of ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "snow-white ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "sorrow",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm         Bb              F",
-      "lyrics": "Caress the one, the hiding amaranth"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Caress the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "one, the hiding ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "amaranth",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C         Bb     Eb",
-      "lyrics": "In a land of the daybreak"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "In a land ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "of the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "daybreak",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm         Bb             F",
-      "lyrics": "Caress the one, the Never-Fading"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Caress the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "one, the Never-",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "Fading",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C       Dm   Bb                   F          C",
-      "lyrics": "Rain in your heart - the tears of snow-white sorrow"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Rain in ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "heart - the tears of ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "snow-white ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "sorrow",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm         Bb              F",
-      "lyrics": "Caress the one, the hiding amaranth"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Caress the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "one, the hiding ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "amaranth",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C         Bb     Eb",
-      "lyrics": "In a land of the daybreak"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "In a land ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "of the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "daybreak",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm",
-      "lyrics": "Reaching, searching for something untouched"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Reaching, searching for something untouched",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em         C              G",
-      "lyrics": "Caress the one, the Never-Fading"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Caress the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "one, the Never-",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "Fading",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D       Em   C                    G          D",
-      "lyrics": "Rain in your heart - the tears of snow-white sorrow"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Rain in ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "your ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "heart - the tears of ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "snow-white ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "sorrow",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em         C               G",
-      "lyrics": "Caress the one, the hiding amaranth"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Caress the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "one, the hiding ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "amaranth",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D         C      F",
-      "lyrics": "In a land of the daybreak"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "In a land ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "of the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "daybreak",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em         C              G",
-      "lyrics": "Caress the one, the Never-Fading"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Caress the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "one, the Never-",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "Fading",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D       Em   C                    G          D",
-      "lyrics": "Rain in your heart - the tears of snow-white sorrow"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Rain in ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "your ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "heart - the tears of ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "snow-white ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "sorrow",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em         C               G",
-      "lyrics": "Caress the one, the hiding amaranth"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Caress the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "one, the hiding ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "amaranth",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D         C      F",
-      "lyrics": "In a land of the daybreak"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "In a land ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "of the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "daybreak",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Amaranth"

@@ -16,172 +16,703 @@
   "id": "here_comes_a_thought - steven_universe",
   "lines": [
     {
-      "chord": "Fmaj7",
-      "lyrics": "Take a moment to think of just,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fmaj7",
+          "lyric": "Take a moment to think of just,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "Flexibility, love, and trust"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "Flexibility, love, and trust",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fmaj7",
-      "lyrics": "Take a moment to think of just,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fmaj7",
+          "lyric": "Take a moment to think of just,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fm6 Fdim7",
-      "lyrics": "Flexibility, love, and trust"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm6",
+          "lyric": "Flex",
+          "overLyric": true
+        },
+        {
+          "chord": "Fdim7",
+          "lyric": "ibility, love, and trust",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am7",
-      "lyrics": "Here comes a thought, that might alarm you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am7",
+          "lyric": "Here comes a thought, that might alarm you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fmaj7              E",
-      "lyrics": "What someone said, and how it harmed you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fmaj7",
+          "lyric": "What someone said, ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "and how it harmed you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Cmaj7",
-      "lyrics": "Something you did, that failed to be charming"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cmaj7",
+          "lyric": "Something you did, that failed to be charming",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fmaj7                  E",
-      "lyrics": "Things that you said are, Suddenly swarming"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fmaj7",
+          "lyric": "Things that you said ar",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "e, Suddenly swarming",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Dm7               G7",
-      "lyrics": "And oh! You're losing sight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "oh! You're losing ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "sight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              Cmaj7",
-      "lyrics": "You're losing touch"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're losing ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "touch",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 Cdim7                    Dm7",
-      "lyrics": "All these little things seem to matter so much"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "All these little ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cdim7",
+          "lyric": "things seem to matter so ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "much",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             G7",
-      "lyrics": "That they confuse you."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That they con",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "fuse you.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm7          G7",
-      "lyrics": "That I might lose you."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm7",
+          "lyric": "That I might ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "lose you.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fmaj7                          E  E7",
-      "lyrics": "Take a moment remind yourself, to take a moment to find yourself"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fmaj7",
+          "lyric": "Take a moment remind yourself, ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "to ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "take a moment to find yourself",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fmaj7                          Fm6 Fdim7",
-      "lyrics": "Take a moment to ask yourself, if  this is how we fall apart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fmaj7",
+          "lyric": "Take a moment to ask yourself, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm6",
+          "lyric": "if  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fdim7",
+          "lyric": "this is how we fall apart",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Cmaj7                                                   Fmaj7",
-      "lyrics": "But it's not, but it's not, but it's not, but it's not, but it's not"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "not, but it's not, but it's not, but it's not, but it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7",
+          "lyric": "not",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Cmaj7                                       Fmaj7",
-      "lyrics": "It's okay, it's okay, it's okay, it's okay, it's okay"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's o",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "kay, it's okay, it's okay, it's okay, it's o",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7",
+          "lyric": "kay",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Cmaj7                                             Fmaj7",
-      "lyrics": "You've got nothing, got nothing, got nothing, got nothing to fear"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You've got ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "nothing, got nothing, got nothing, got nothing to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7",
+          "lyric": "fear",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Fm6       Fdim7     Cmaj7",
-      "lyrics": "I'm here, I'm here, I'm here."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm6",
+          "lyric": "here, I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fdim7",
+          "lyric": "here, I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "here.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am7",
-      "lyrics": "Here comes a thought, that might alarm me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am7",
+          "lyric": "Here comes a thought, that might alarm me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fmaj7              E E7",
-      "lyrics": "What someone said, and how it harmed me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fmaj7",
+          "lyric": "What someone said, ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "an",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "d how it harmed me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Cmaj7",
-      "lyrics": "Something I did, that failed to be charming"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cmaj7",
+          "lyric": "Something I did, that failed to be charming",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fmaj7                  E7",
-      "lyrics": "Things that I said, are suddenly swarming"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fmaj7",
+          "lyric": "Things that I said, are",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": " suddenly swarming",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Dm7            G7",
-      "lyrics": "And oh! I'm losing sight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "oh! I'm losing ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "sight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Cmaj7",
-      "lyrics": "I'm losing touch"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm losing ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "touch",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 Cdim7                    Dm7",
-      "lyrics": "All these little things seem to matter so much"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "All these little ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cdim7",
+          "lyric": "things seem to matter so ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "much",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             G7",
-      "lyrics": "That they confuse me."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That they con",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "fuse me.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm7          G7",
-      "lyrics": "That I might lose me."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm7",
+          "lyric": "That I might ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "lose me.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fmaj7                             E7",
-      "lyrics": "Take a moment remind yourself to, Take a moment to find yourself"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fmaj7",
+          "lyric": "Take a moment remind yourself to, ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "Take a moment to find yourself",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fmaj7                          Fm6 Fdim7",
-      "lyrics": "Take a moment and ask yourself if  this is how we fall apart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fmaj7",
+          "lyric": "Take a moment and ask yourself ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm6",
+          "lyric": "if  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fdim7",
+          "lyric": "this is how we fall apart",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Cmaj7                                                   Fmaj7",
-      "lyrics": "But it's not, but it's not, but it's not, but it's not, but it's not"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "not, but it's not, but it's not, but it's not, but it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7",
+          "lyric": "not",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Cmaj7                                       Fmaj7",
-      "lyrics": "It's okay, it's okay, it's okay, it's okay, it's okay"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's o",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "kay, it's okay, it's okay, it's okay, it's o",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7",
+          "lyric": "kay",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Cmaj7                                             Fmaj7",
-      "lyrics": "I've got nothing, got nothing, got nothing, got nothing to fear"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've got ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "nothing, got nothing, got nothing, got nothing to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7",
+          "lyric": "fear",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Fm6       Fdim7     Cmaj7",
-      "lyrics": "I'm here, I'm here, I'm here."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm6",
+          "lyric": "here, I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fdim7",
+          "lyric": "here, I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "here.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  Cmaj7                                                           Fmaj7",
-      "lyrics": "And it was just a thought, just a thought, just a thought, just a thought, just a thought"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And it was just a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "thought, just a thought, just a thought, just a thought, just a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7",
+          "lyric": "thought",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Cmaj7                                       Fmaj7",
-      "lyrics": "It's okay, it's okay, it's okay, it's okay, it's okay"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's o",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "kay, it's okay, it's okay, it's okay, it's o",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7",
+          "lyric": "kay",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Cmaj7                                                   Fmaj7",
-      "lyrics": "We can watch, we can watch, we can watch, we can watch them go by"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We can ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "watch, we can watch, we can watch, we can watch them go ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7",
+          "lyric": "by",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Fm6        Fdim7      Cmaj7",
-      "lyrics": "From here, from here, from here"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "From ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm6",
+          "lyric": "here, from ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fdim7",
+          "lyric": "here, from ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "here",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fmaj7",
-      "lyrics": "Take a moment to think of just,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fmaj7",
+          "lyric": "Take a moment to think of just,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "Flexibility, love, and trust"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "Flexibility, love, and trust",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fmaj7",
-      "lyrics": "Take a moment to think of just,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fmaj7",
+          "lyric": "Take a moment to think of just,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fm6 Fdim7                         Cmaj7",
-      "lyrics": "Flexibility, love, and trust-"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm6",
+          "lyric": "Flex",
+          "overLyric": true
+        },
+        {
+          "chord": "Fdim7",
+          "lyric": "ibility, love, and trust-     ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "Here Comes a Thought"

@@ -13,211 +13,663 @@
       "label": "Intro:"
     },
     {
-      "chord": "Am  F  C  G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "Verse:"
     },
     {
-      "chord": "Am",
-      "lyrics": "Put your makeup on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Put your makeup on",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Get your nails done, curl your hair"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Get your nails done, curl your hair",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Run the extra mile"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Run the extra mile",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                               C",
-      "lyrics": "Keep it slim so they like you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Keep it slim so they like you  ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                   G",
-      "lyrics": "Do they like you?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Do they like you?  ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "Get your sexy on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Get your sexy on",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Don't be shy, girl, take it off"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Don't be shy, girl, take it off",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "This is what you want"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "This is what you want",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                             C",
-      "lyrics": "To belong, so they like you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To belong, so they like you  ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                  G",
-      "lyrics": "Do you like you?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Do you like you?  ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "Chorus:"
     },
     {
-      "chord": "                  Am",
-      "lyrics": "You don't have to try so hard"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You don't have to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "try so hard",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  F",
-      "lyrics": "You don't have to, give it all away"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You don't have to,",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " give it all away",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  C",
-      "lyrics": "You just have to get up, get up, get up, get up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You just have to g",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "et up, get up, get up, get up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  G",
-      "lyrics": "You don't have to change a single thing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You don't have to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "change a single thing",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  Am",
-      "lyrics": "You don't have to try, try, try, try"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You don't have to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "try, try, try, try",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  F",
-      "lyrics": "You don't have to try, try, try, try"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You don't have to ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "try, try, try, try",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  C",
-      "lyrics": "You don't have to try, try, try, try"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You don't have to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "try, try, try, try",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  G",
-      "lyrics": "You don't have to try"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You don't have to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "try",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    Am      F",
-      "lyrics": "Yooou don't have to try"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Yooou don't have to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "try     ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C           G",
-      "lyrics": "Oooh, oooh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Oooh, oooh  ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "Verse:"
     },
     {
-      "chord": "Am",
-      "lyrics": "Get your shopping on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Get your shopping on",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "At the mall, max your credit cards"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "At the mall, max your credit cards",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "You don't have to choose"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "You don't have to choose",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                              C",
-      "lyrics": "Buy it all, so they like you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Buy it all, so they like you  ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                   G",
-      "lyrics": "Do they like you?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Do they like you?  ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "Wait a second,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Wait a second,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Why should you care what they think of you"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Why should you care what they think of you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "When you're all alone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "When you're all alone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                               C",
-      "lyrics": "By yourself, do you like you?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "By yourself, do you like you?  ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                  G",
-      "lyrics": "Do you like you?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Do you like you?  ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "Chorus:"
     },
     {
-      "chord": "                  Am",
-      "lyrics": "You don't have to try so hard"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You don't have to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "try so hard",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  F",
-      "lyrics": "You don't have to, give it all away"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You don't have to,",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " give it all away",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  C",
-      "lyrics": "You just have to get up, get up, get up, get up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You just have to g",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "et up, get up, get up, get up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  G",
-      "lyrics": "You don't have to change a single thing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You don't have to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "change a single thing",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  Am",
-      "lyrics": "You don't have to try so hard"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You don't have to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "try so hard",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  F",
-      "lyrics": "You don't have to, bend until you break"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You don't have to,",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " bend until you break",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  C",
-      "lyrics": "You just have to get up, get up, get up, get up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You just have to g",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "et up, get up, get up, get up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  G",
-      "lyrics": "You don't have to change a single thing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You don't have to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "change a single thing",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  Am",
-      "lyrics": "You don't have to try, try, try, try"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You don't have to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "try, try, try, try",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  F",
-      "lyrics": "You don't have to try, try, try, try"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You don't have to ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "try, try, try, try",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  C",
-      "lyrics": "You don't have to try, try, try, try"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You don't have to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "try, try, try, try",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  G",
-      "lyrics": "You don't have to try"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You don't have to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "try",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Verse:"
     },
     {
-      "chord": "Am",
-      "lyrics": "Take your makeup off"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Take your makeup off",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Let your hair down, take a breath"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Let your hair down, take a breath",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Look into the mirror, at yourself"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Look into the mirror, at yourself",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     C",
-      "lyrics": "Don't you like you?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Don't you like you?  ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                   G",
-      "lyrics": "'Cause I like you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Cause I like you  ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "Try"

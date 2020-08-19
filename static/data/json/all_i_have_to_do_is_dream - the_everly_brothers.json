@@ -14,120 +14,671 @@
   "id": "all_i_have_to_do_is_dream - the_everly_brothers",
   "lines": [
     {
-      "chord": "C             Am   F             G7",
-      "lyrics": "Drea-ea-ea-ea-eam  dream  dream  dream"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Drea-ea-ea-ea-",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "eam  ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "dream  dream  ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "dream",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C             Am   F            G7",
-      "lyrics": "Drea-ea-ea-ea-eam  dream dream  dream"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Drea-ea-ea-ea-",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "eam  ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "dream dream  ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "dream",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C           Am   Dm    G7",
-      "lyrics": "When I want you  in my arms"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "When I want ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "you  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "in my ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "arms",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C      Am        Dm           G7",
-      "lyrics": "When I want you  and all your charms"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "When I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "want you  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "and all your ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "charms",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C          Am        F             G7",
-      "lyrics": "Whenever I want you  all I have to do is"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Whenever I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "want you  ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "all I have to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "do is",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                  Am     F      G7",
-      "lyrics": "Drea-ea-ea-ea-eam  dream  dream  dream"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Drea-ea-ea-ea-eam  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "dream  ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "dream  ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "dream",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     C      Am    Dm     G7",
-      "lyrics": "When I feel blue  in the night"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I feel ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "blue  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "night",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C          Am   Dm         G7",
-      "lyrics": "And I need you  to hold me tight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "And I need ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "you  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "to hold me ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "tight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C          Am       F             G7",
-      "lyrics": "Whenever I want you all I have to do is"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Whenever I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "want you ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "all I have to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "do is",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C       F  C   C7",
-      "lyrics": "Drea-ea-ea-eam"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Drea-ea-",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ea-",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "eam ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F                   Em",
-      "lyrics": "I can make you mine taste your lips of wine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I can make you mine ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "taste your lips of wine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm      G7       C",
-      "lyrics": "Anytime night or day"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Anytime ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "night or ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "day",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                Em",
-      "lyrics": "Only trouble is  gee whiz"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Only trouble is  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "gee whiz",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    D7               G7",
-      "lyrics": "I'm dreaming my life away"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "dreaming my life ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "away",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C          Am  Dm           G7",
-      "lyrics": "I need you so  that I could die"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I need you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "so  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "that I could ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "die",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C          Am  Dm          G7",
-      "lyrics": "I love you so  and that is why"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I love you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "so  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "and that is ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "why",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C          Am        F             G7",
-      "lyrics": "Whenever I want you  all I have to do is"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Whenever I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "want you  ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "all I have to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "do is",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C             Am   F             G7",
-      "lyrics": "Drea-ea-ea-ea-eam  dream  dream  dream"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Drea-ea-ea-ea-",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "eam  ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "dream  dream  ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "dream",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C       F  C   C7",
-      "lyrics": "Drea-ea-ea-eam"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Drea-ea-",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ea-",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "eam ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F                   Em",
-      "lyrics": "I can make you mine taste your lips of wine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I can make you mine ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "taste your lips of wine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm      G7       C",
-      "lyrics": "Anytime night or day"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Anytime ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "night or ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "day",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                Em",
-      "lyrics": "Only trouble is  gee whiz"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Only trouble is  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "gee whiz",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    D7               G7",
-      "lyrics": "I'm dreaming my life away"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "dreaming my life ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "away",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C          Am  Dm           G7",
-      "lyrics": "I need you so  that I could die"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I need you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "so  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "that I could ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "die",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C          Am  Dm          G7",
-      "lyrics": "I love you so  and that is why"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I love you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "so  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "and that is ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "why",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C          Am        F             G7",
-      "lyrics": "Whenever I want you  all I have to do is"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Whenever I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "want you  ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "all I have to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "do is",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C             Am   F             G7",
-      "lyrics": "Drea-ea-ea-ea-eam  dream  dream  dream"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Drea-ea-ea-ea-",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "eam  ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "dream  dream  ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "dream",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C       F  C   C7",
-      "lyrics": "Drea-ea-ea-eam"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Drea-ea-",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ea-",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "eam ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C             Am   F             G7",
-      "lyrics": "Drea-ea-ea-ea-eam  dream  dream  dream"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Drea-ea-ea-ea-",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "eam  ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "dream  dream  ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "dream",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "All I Have to Do Is Dream"

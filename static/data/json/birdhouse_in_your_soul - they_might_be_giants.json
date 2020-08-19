@@ -26,266 +26,1337 @@
       "label": "[Bridge]"
     },
     {
-      "chord": "C             Bb                 Eb",
-      "lyrics": "I'm your only friend- I'm not your only friend"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I'm your only ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "friend- I'm not you",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "r only friend",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    F            Bb",
-      "lyrics": "But I'm a little glowing friend"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "I'm a little ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "glowing friend",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Cm             Db            G",
-      "lyrics": "But really I'm not actually your friend, but I am"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "really I'm not ",
+          "overLyric": true
+        },
+        {
+          "chord": "Db",
+          "lyric": "actually your ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "friend, but I am",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "C      C         F",
-      "lyrics": "Blue canary in the outlet by the light switch"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Blue ca",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "nary in th",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "e outlet by the light switch",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C         F  G",
-      "lyrics": "Who watches over you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Who watche",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "s o",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ver you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C      G    F              Eb",
-      "lyrics": "Make a little birdhouse in your soul"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Make a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "littl",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "e birdhouse in ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "your soul",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               Ab",
-      "lyrics": "Not to put too fine a point on it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Not to put too ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "fine a point on it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb               Ab",
-      "lyrics": "Say I'm the only bee in your bonnet"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "Say I'm the only ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "bee in your bonnet",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb     Cm     Ab        G       C",
-      "lyrics": "Make a little birdhouse in your soul"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "Make a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "little ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "birdhouse ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "in your ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "soul",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C   F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "   "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C   F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "   "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 1]"
     },
     {
-      "chord": "C        F              C        F",
-      "lyrics": "I have a secret to tell from my electrical well"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I have a ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "secret to tell ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "from my e",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "lectrical well",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C      G    C7              F               G",
-      "lyrics": "It's a simple message and I'm leaving out the whistles and bells"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "It's a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "simpl",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "e message and I'",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "m leaving out th",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "e whistles and bells",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                F             C          F",
-      "lyrics": "So the room must listen to me, filibuster vigilantly"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "So the room must ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "listen to me, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "filibuster ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "vigilantly",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C  G     C7          F                  G",
-      "lyrics": "My name is blue canary one note spelled l-i-t-e"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "My ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "name i",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "s blue canar",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "y one note spelled ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "l-i-t-e",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am        F",
-      "lyrics": "My story's infinite"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "My story's",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " infinite",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D7                F              G",
-      "lyrics": "Like the longines symphonette it doesn't rest"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D7",
+          "lyric": "Like the longines ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "symphonette it ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "doesn't rest",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "C      C         F",
-      "lyrics": "Blue canary in the outlet by the light switch"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Blue ca",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "nary in th",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "e outlet by the light switch",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C         F  G",
-      "lyrics": "Who watches over you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Who watche",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "s o",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ver you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C      G    F              Eb",
-      "lyrics": "Make a little birdhouse in your soul"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Make a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "littl",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "e birdhouse in ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "your soul",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               Ab",
-      "lyrics": "Not to put too fine a point on it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Not to put too ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "fine a point on it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb               Ab",
-      "lyrics": "Say I'm the only bee in your bonnet"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "Say I'm the only ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "bee in your bonnet",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb     Cm     Ab        G       C",
-      "lyrics": "Make a little birdhouse in your soul"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "Make a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "little ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "birdhouse ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "in your ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "soul",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C    F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "    "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C    F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "    "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "Am   F   D7   F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "   "
+        },
+        {
+          "chord": "F",
+          "lyric": "   "
+        },
+        {
+          "chord": "D7",
+          "lyric": "   "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am   F   D7   F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "   "
+        },
+        {
+          "chord": "F",
+          "lyric": "   "
+        },
+        {
+          "chord": "D7",
+          "lyric": "   "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F#m  D   B7   D",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": "  "
+        },
+        {
+          "chord": "D",
+          "lyric": "   "
+        },
+        {
+          "chord": "B7",
+          "lyric": "   "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "E    E/D C#m  E/B",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "    "
+        },
+        {
+          "chord": "E/D",
+          "lyric": " "
+        },
+        {
+          "chord": "C#m",
+          "lyric": "  "
+        },
+        {
+          "chord": "E/B",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "A             G                  C",
-      "lyrics": "I'm your only friend- I'm not your only friend"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "I'm your only ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "friend- I'm not you",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "r only friend",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    D            G",
-      "lyrics": "But I'm a little glowing friend"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "I'm a little ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "glowing friend",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am             Bb            G/B",
-      "lyrics": "But really I'm not actually your friend, but I am"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "really I'm not ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "actually your ",
+          "overLyric": true
+        },
+        {
+          "chord": "G/B",
+          "lyric": "friend, but I am",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "C                 F           C               F",
-      "lyrics": "There's a picture opposite me of my primitive ancestry"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "There's a picture ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "opposite me ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "of my primitive ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ancestry",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C     G      C7               F                G",
-      "lyrics": "Which stood on rocky shores and kept the beaches shipwreck free"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Which ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "stood o",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "n rocky shores an",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "d kept the beache",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "s shipwreck free",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C          F                 C               F",
-      "lyrics": "Though I respect that a lot, I'd be fired if that were my job"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Though I re",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "spect that a lot, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I'd be fired if ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "that were my job",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C     G     C7            F                   G",
-      "lyrics": "After killing Jason off and countless screaming argonauts"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "After ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "killin",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "g Jason off an",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "d countless screamin",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "g argonauts",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am          F",
-      "lyrics": "Bluebird of friendliness"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Bluebird of ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "friendliness",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D7            F          G",
-      "lyrics": "Like guardian angels its always near"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D7",
+          "lyric": "Like guardian ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "angels its ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "always near",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C      C         F",
-      "lyrics": "Blue canary in the outlet by the light switch"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Blue ca",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "nary in th",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "e outlet by the light switch",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C         F  G",
-      "lyrics": "Who watches over you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Who watche",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "s o",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ver you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C      G    F       F       Eb",
-      "lyrics": "Make a little birdhouse in your soul"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Make a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "littl",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "e birdho",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "use in y",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "our soul",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               Ab",
-      "lyrics": "Not to put too fine a point on it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Not to put too ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "fine a point on it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb               Ab",
-      "lyrics": "Say I'm the only bee in your bonnet"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "Say I'm the only ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "bee in your bonnet",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb     Cm     Ab        G       C   C",
-      "lyrics": "Make a little birdhouse in your soul"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "Make a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "little ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "birdhouse ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "in your ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "soul",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F                   C                 F  G",
-      "lyrics": "While you're at it, keep the nightlight on inside"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "While you're at it, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "keep the nightligh",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "t o",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "n inside",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        C     G     F    F",
-      "lyrics": "the birdhouse in your soul"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "the bird",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "house ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "in you",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "r sou",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "l",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb             Ab",
-      "lyrics": "Not to put too fine a point on it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "Not to put too ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "fine a point on it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb               Ab",
-      "lyrics": "Say I'm the only bee in your bonnet"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "Say I'm the only ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "bee in your bonnet",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb     Cm     Ab        G       C",
-      "lyrics": "Make a little birdhouse in your soul"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "Make a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "little ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "birdhouse ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "in your ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "soul",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "C      C         F",
-      "lyrics": "Blue canary in the outlet by the light switch"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Blue ca",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "nary in th",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "e outlet by the light switch",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C         F  G",
-      "lyrics": "Who watches over you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Who watche",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "s o",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ver you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C      G    F       F       Eb",
-      "lyrics": "Make a little birdhouse in your soul"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Make a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "littl",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "e birdho",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "use in y",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "our soul",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               Ab",
-      "lyrics": "Not to put too fine a point on it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Not to put too ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "fine a point on it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb               Ab",
-      "lyrics": "Say I'm the only bee in your bonnet"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "Say I'm the only ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "bee in your bonnet",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb     Cm     Ab        G       C",
-      "lyrics": "Make a little birdhouse in your soul"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "Make a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "little ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "birdhouse ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "in your ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "soul",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C      C         F",
-      "lyrics": "Blue canary in the outlet by the light switch"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Blue ca",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "nary in th",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "e outlet by the light switch",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C         F  G",
-      "lyrics": "Who watches over you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Who watche",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "s o",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ver you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C      G    F       F       Eb",
-      "lyrics": "Make a little birdhouse in your soul"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Make a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "littl",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "e birdho",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "use in y",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "our soul",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               Ab",
-      "lyrics": "Not to put too fine a point on it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Not to put too ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "fine a point on it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb               Ab",
-      "lyrics": "Say I'm the only bee in your bonnet"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "Say I'm the only ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "bee in your bonnet",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb     Cm     Ab        G       C",
-      "lyrics": "Make a little birdhouse in your soul"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "Make a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "little ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "birdhouse ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "in your ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "soul",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Birdhouse In Your Soul"

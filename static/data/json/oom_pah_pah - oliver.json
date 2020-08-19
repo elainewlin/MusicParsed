@@ -14,268 +14,915 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "Db",
-      "lyrics": "There's a little ditty"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Db",
+          "lyric": "There's a little ditty",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Eb7",
-      "lyrics": "They're singing in the city,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "They're ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb7",
+          "lyric": "singing in the city,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  Ab7",
-      "lyrics": "Especially when they've been"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Es",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab7",
+          "lyric": "pecially when they've been",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Gb         Ab",
-      "lyrics": "On the gin or the beer,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "On the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gb",
+          "lyric": "gin or the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "beer,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Db",
-      "lyrics": "If you've got the patience,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Db",
+          "lyric": "If you've got the patience,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Eb7",
-      "lyrics": "Your own imagination"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb7",
+          "lyric": "own imagination",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Ab7                        Db",
-      "lyrics": "Will tell you just exactly what you want to hear."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Will ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab7",
+          "lyric": "tell you just exactly what ",
+          "overLyric": true
+        },
+        {
+          "chord": "Db",
+          "lyric": "you want to hear.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Db",
-      "lyrics": "Oom-pah-pah, oom-pah-pah,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Db",
+          "lyric": "Oom-pah-pah, oom-pah-pah,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb7",
-      "lyrics": "That's how it goes,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb7",
+          "lyric": "That's how it goes,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ab7",
-      "lyrics": "Oom-pah-pah, oom-pah-pah,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab7",
+          "lyric": "Oom-pah-pah, oom-pah-pah,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Db       Ab7",
-      "lyrics": "Everyone knows,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Db",
+          "lyric": "Everyone ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab7",
+          "lyric": "knows,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Db                         Gb      Eb7",
-      "lyrics": "They all suppose what they want to suppose,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Db",
+          "lyric": "They all suppose what they ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gb",
+          "lyric": "want to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb7",
+          "lyric": "suppose,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ab             Ab7     Db  Ab7",
-      "lyrics": "When they hear oom-pah-pah."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "When they hear ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab7",
+          "lyric": "oom-pah-",
+          "overLyric": true
+        },
+        {
+          "chord": "Db",
+          "lyric": "pah.",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab7",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "Db",
-      "lyrics": "Mister Percy Snodgrass would"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Db",
+          "lyric": "Mister Percy Snodgrass would",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb7",
-      "lyrics": "Often have the odd glass"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb7",
+          "lyric": "Often have the odd glass",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Ab7",
-      "lyrics": "But never when he thought"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab7",
+          "lyric": "never when he thought",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Gb         Ab",
-      "lyrics": "Anybody could see,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Any",
+          "overLyric": true
+        },
+        {
+          "chord": "Gb",
+          "lyric": "body could ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "see,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Db",
-      "lyrics": "Secretly he'd buy it,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Db",
+          "lyric": "Secretly he'd buy it,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Eb7",
-      "lyrics": "And drink it on the quiet,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb7",
+          "lyric": "drink it on the quiet,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Ab7",
-      "lyrics": "And dream he was an Earl"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab7",
+          "lyric": "dream he was an Earl",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Db",
-      "lyrics": "With a girl on each knee."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "With a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Db",
+          "lyric": "girl on each knee.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Db",
-      "lyrics": "Oom-pah-pah, oom-pah-pah,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Db",
+          "lyric": "Oom-pah-pah, oom-pah-pah,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb7",
-      "lyrics": "That's how it goes,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb7",
+          "lyric": "That's how it goes,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ab7",
-      "lyrics": "Oom-pah-pah, oom-pah-pah,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab7",
+          "lyric": "Oom-pah-pah, oom-pah-pah,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Db       Ab7",
-      "lyrics": "Everyone knows,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Db",
+          "lyric": "Everyone ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab7",
+          "lyric": "knows,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Db                       Gb        Eb7",
-      "lyrics": "What is the cause of his red shiny nose,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Db",
+          "lyric": "What is the cause of his ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gb",
+          "lyric": "red shiny ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb7",
+          "lyric": "nose,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ab          Ab7     Db  Ab7",
-      "lyrics": "Could it be oom-pah-pah."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "Could it be ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab7",
+          "lyric": "oom-pah-",
+          "overLyric": true
+        },
+        {
+          "chord": "Db",
+          "lyric": "pah.",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab7",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 3]"
     },
     {
-      "chord": "Db",
-      "lyrics": "Pretty little Sally"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Db",
+          "lyric": "Pretty little Sally",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Eb7",
-      "lyrics": "Goes walking down the alley,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Goes ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb7",
+          "lyric": "walking down the alley,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Ab7                         Gb        Ab",
-      "lyrics": "Displays her pretty ankles for all of the men,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Dis",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab7",
+          "lyric": "plays her pretty ankles for ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gb",
+          "lyric": "all of the",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": " men,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Db",
-      "lyrics": "They could see her garters,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Db",
+          "lyric": "They could see her garters,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Eb7",
-      "lyrics": "But not for free and gratis"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb7",
+          "lyric": "not for free and gratis",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Ab7",
-      "lyrics": "An inch or two, and then"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "An ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab7",
+          "lyric": "inch or two, and then",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Db",
-      "lyrics": "She knows when to say when."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "She knows ",
+          "overLyric": true
+        },
+        {
+          "chord": "Db",
+          "lyric": "when to say when.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Db",
-      "lyrics": "Oom-pah-pah, oom-pah-pah,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Db",
+          "lyric": "Oom-pah-pah, oom-pah-pah,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb7",
-      "lyrics": "That's how it goes,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb7",
+          "lyric": "That's how it goes,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ab7",
-      "lyrics": "Oom-pah-pah, oom-pah-pah,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab7",
+          "lyric": "Oom-pah-pah, oom-pah-pah,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Db       Ab7",
-      "lyrics": "Everyone knows,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Db",
+          "lyric": "Everyone ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab7",
+          "lyric": "knows,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Db                      Gb         Eb7",
-      "lyrics": "Whether it's hidden, or whether it shows,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Db",
+          "lyric": "Whether it's hidden, or ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gb",
+          "lyric": "whether it ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb7",
+          "lyric": "shows,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ab            Ab7     Db  Ab7",
-      "lyrics": "It's the same oom-pah-pah."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "It's the same ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab7",
+          "lyric": "oom-pah-",
+          "overLyric": true
+        },
+        {
+          "chord": "Db",
+          "lyric": "pah.",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab7",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 4]"
     },
     {
-      "chord": "Db",
-      "lyrics": "She was from the country,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Db",
+          "lyric": "She was from the country,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Eb7",
-      "lyrics": "But now she's up a gum-tree"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb7",
+          "lyric": "now she's up a gum-tree",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Ab7",
-      "lyrics": "She let a feller feed her,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "She ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab7",
+          "lyric": "let a feller feed her,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Gb         Ab",
-      "lyrics": "Then lead her along,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Then ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gb",
+          "lyric": "lead her al",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "ong,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Db",
-      "lyrics": "What's the good of crying,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Db",
+          "lyric": "What's the good of crying,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Eb7",
-      "lyrics": "She's made a bed to lie in,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "She's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb7",
+          "lyric": "made a bed to lie in,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Ab7",
-      "lyrics": "She's glad to bring a coin in,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "She's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab7",
+          "lyric": "glad to bring a coin in,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Db",
-      "lyrics": "And join in this song."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Db",
+          "lyric": "join in this song.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Db",
-      "lyrics": "Oom-pah-pah, oom-pah-pah,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Db",
+          "lyric": "Oom-pah-pah, oom-pah-pah,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb7",
-      "lyrics": "That's how it goes,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb7",
+          "lyric": "That's how it goes,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ab7",
-      "lyrics": "Oom-pah-pah, oom-pah-pah,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab7",
+          "lyric": "Oom-pah-pah, oom-pah-pah,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Db       Ab7",
-      "lyrics": "Everyone knows,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Db",
+          "lyric": "Everyone ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab7",
+          "lyric": "knows,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Db                   Gb            Eb7",
-      "lyrics": "She is no longer the same blushin' rose"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Db",
+          "lyric": "She is no longer the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gb",
+          "lyric": "same blushin' ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb7",
+          "lyric": "rose",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ab         Ab7       Db Ab7",
-      "lyrics": "Ever since OOOOM-PAH-PAH."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "Ever since ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab7",
+          "lyric": "OOOOM-PAH-",
+          "overLyric": true
+        },
+        {
+          "chord": "Db",
+          "lyric": "PAH",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab7",
+          "lyric": ".",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Db",
-      "lyrics": "Oom-pah-pah, oom-pah-pah,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Db",
+          "lyric": "Oom-pah-pah, oom-pah-pah,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb7",
-      "lyrics": "That's how it goes,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb7",
+          "lyric": "That's how it goes,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ab7",
-      "lyrics": "Oom-pah-pah, oom-pah-pah,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab7",
+          "lyric": "Oom-pah-pah, oom-pah-pah,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Db       Ab7",
-      "lyrics": "Everyone knows,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Db",
+          "lyric": "Everyone ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab7",
+          "lyric": "knows,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Db                         Gb      Eb7",
-      "lyrics": "They all suppose what they want to suppose,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Db",
+          "lyric": "They all suppose what they ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gb",
+          "lyric": "want to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb7",
+          "lyric": "suppose,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ab             Ab7     Db   Ab7  Db",
-      "lyrics": "When they hear oom-pah-pah. Pah. Pah."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "When they hear ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab7",
+          "lyric": "oom-pah-",
+          "overLyric": true
+        },
+        {
+          "chord": "Db",
+          "lyric": "pah. ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab7",
+          "lyric": "Pah. ",
+          "overLyric": true
+        },
+        {
+          "chord": "Db",
+          "lyric": "Pah.",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Oom Pah Pah"

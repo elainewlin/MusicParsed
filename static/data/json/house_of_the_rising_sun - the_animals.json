@@ -15,242 +15,1159 @@
       "label": "[Strum pattern]"
     },
     {
-      "chord": "",
-      "lyrics": "A-0--------0----0-----"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A-0--------0----0-----",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "E-0------0--------0---"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "E-0------0--------0---",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "C-0----0------------0-"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "C-0----0------------0-",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "G-0--0--------0-------"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "G-0--0--------0-------",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Instrumental]"
     },
     {
-      "chord": "Am  C  D  F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "D",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am  E7 Am  E7",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "E7",
+          "lyric": " "
+        },
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "E7",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 1]"
     },
     {
-      "chord": "      Am   C        D           F",
-      "lyrics": "There is a house in New Orleans"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "There ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "is a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "house in ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "New Orleans ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "     Am       C      E7  E7",
-      "lyrics": "They call the Risin' Sun"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "They ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "call the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "Risin' ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "Sun ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "         Am       C       D           F",
-      "lyrics": "And it's been the ruin of many a poor boy."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "been the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ruin of ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "many a poor ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "boy.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am     E7       Am",
-      "lyrics": "And God, I know I'm one."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "God, I ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "know I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "one.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Instrumental]"
     },
     {
-      "chord": "C   D  F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "   "
+        },
+        {
+          "chord": "D",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am  E7 Am  E7",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "E7",
+          "lyric": " "
+        },
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "E7",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "   Am     C     D           F",
-      "lyrics": "My mother was a tailor."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "My ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "mother ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "was a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "tailor.     ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    Am       C        E7    E7",
-      "lyrics": "She sewed my new blue jeans."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "She ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "sewed my ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "new blue ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "jeans.",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "   Am     C     D        F",
-      "lyrics": "My father was a gamblin' man"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "My ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "father ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "was a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "gamblin' ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "man",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am      E7     Am",
-      "lyrics": "Down in New Or-leans."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Down in ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "New Or-",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "leans.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Instrumental]"
     },
     {
-      "chord": "C   D  F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "   "
+        },
+        {
+          "chord": "D",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am  E7 Am  E7",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "E7",
+          "lyric": " "
+        },
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "E7",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 3]"
     },
     {
-      "chord": "         Am   C       D       F",
-      "lyrics": "Now, the only thing a gambler needs"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Now, the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "only ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "thing a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "gambler ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "needs",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Am       C     E7    E7",
-      "lyrics": "Is a suitcase and a trunk"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Is a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "suitcase ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "and a ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "trunk ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "        Am   C         D          F",
-      "lyrics": "And the only time that he's satisfied"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "only ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "time that ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "he's satisf",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ied",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Am        E7   Am",
-      "lyrics": "Is when he's on a drunk"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Is ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "when he's ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "on a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "drunk",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Instrumental]"
     },
     {
-      "chord": "C   D  F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "   "
+        },
+        {
+          "chord": "D",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am  E7 Am  E7",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "E7",
+          "lyric": " "
+        },
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "E7",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Organ Solo]"
     },
     {
-      "chord": "Am  C  D  F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "D",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am  C  E7 E7",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "E7",
+          "lyric": " "
+        },
+        {
+          "chord": "E7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am  C  D  F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "D",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am  E7",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "E7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am  C  D   F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "D",
+          "lyric": "   "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am  E7 Am  E7",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "E7",
+          "lyric": " "
+        },
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "E7",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 4]"
     },
     {
-      "chord": "    Am     C          D        F",
-      "lyrics": "Oh, Mother, tell your children"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "Mother,",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " tell your ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "children ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "       Am      C      E7    E7",
-      "lyrics": "Not to do what I have done."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Not to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "do what ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I have ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "done. ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am         C        D          F",
-      "lyrics": "Spend your lives in sin and misery"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Spend your ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "lives in ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "sin and mis",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ery",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Am           E7     Am",
-      "lyrics": "In the house of the risin' sun."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "In the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "house of the ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "risin' ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "sun.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Instrumental]"
     },
     {
-      "chord": "C   D  F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "   "
+        },
+        {
+          "chord": "D",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am  E7 Am  E7",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "E7",
+          "lyric": " "
+        },
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "E7",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 5]"
     },
     {
-      "chord": "Am         C       D               F",
-      "lyrics": "Well, I've got one foot on the platform."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Well, I've ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "got one ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "foot on the plat",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "form.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am    C           E7    E7",
-      "lyrics": "the other foot on the train."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "other ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "foot on the ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "train.",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    Am    C       D           F",
-      "lyrics": "I'm goin' back to New Orleans"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "goin' ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "back to ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "New Orleans ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "   Am        E7       Am",
-      "lyrics": "To wear that ball and chain."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "wear that ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "ball and ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "chain.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Instrumental]"
     },
     {
-      "chord": "C   D  F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "   "
+        },
+        {
+          "chord": "D",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am  E7 Am  E7",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "E7",
+          "lyric": " "
+        },
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "E7",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 6]"
     },
     {
-      "chord": "            Am   C        D           F",
-      "lyrics": "Well, there is a house in New Orleans"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Well, there ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "is a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "house in ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "New Orleans ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "     Am       C      E7    E7",
-      "lyrics": "They call the Risin' Sun"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "They ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "call the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "Risin' ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "Sun   ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "         Am       C       D           F",
-      "lyrics": "And it's been the ruin of many a poor boy."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "been the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ruin of ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "many a poor ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "boy.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am     E7       Am",
-      "lyrics": "And God, I know I'm one."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "God, I ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "know I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "one.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Instrumental]"
     },
     {
-      "chord": "C   D  F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "   "
+        },
+        {
+          "chord": "D",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am  E7",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "E7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am  Dm  Am  Dm  Am  Dm",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "Dm",
+          "lyric": "  "
+        },
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "Dm",
+          "lyric": "  "
+        },
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "Dm",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "House of the Rising Sun"

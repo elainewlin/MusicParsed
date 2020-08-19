@@ -9,121 +9,493 @@
   "id": "yellow_submarine - the_beatles",
   "lines": [
     {
-      "chord": "      D             G",
-      "lyrics": "In the town where I was born"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "In the",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " town where I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "was born",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Am               D",
-      "lyrics": "Lived a man who sailed to sea"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Lived a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "man who sailed to",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " sea",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        D          G",
-      "lyrics": "And he told us of his life"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And he t",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "old us of h",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "is life",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Am           D",
-      "lyrics": "In the land of submarines"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "In the",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " land of subm",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "arines",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        D          G",
-      "lyrics": "So we sailed up to the sun"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So we sa",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "iled up to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "the sun",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Am          D",
-      "lyrics": "Till we found the sea of green"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Till we ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "found the se",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "a of green",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         D              G",
-      "lyrics": "And we lived beneath the waves"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And we li",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ved beneath the",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " waves",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Am         D",
-      "lyrics": "In our yellow submarine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "In our y",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ellow subma",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "rine",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "G             D",
-      "lyrics": "We all live in a yellow submarine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "We all live in",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " a yellow submarine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                G",
-      "lyrics": "Yellow submarine, yellow submarine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Yellow submarine,",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " yellow submarine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G             D",
-      "lyrics": "We all live in a yellow submarine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "We all live in",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " a yellow submarine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                G",
-      "lyrics": "Yellow submarine, yellow submarine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Yellow submarine,",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " yellow submarine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        D               G",
-      "lyrics": "And our friends are all on board"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And our ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "friends are all ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "on board",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Am                  D",
-      "lyrics": "Many more of them live next door"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Many m",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ore of them live nex",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "t door",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         D          G",
-      "lyrics": "And the band begins to play"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And the b",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "and begins ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "to play",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "G             D",
-      "lyrics": "We all live in a yellow submarine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "We all live in",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " a yellow submarine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                G",
-      "lyrics": "Yellow submarine, yellow submarine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Yellow submarine,",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " yellow submarine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G             D",
-      "lyrics": "We all live in a yellow submarine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "We all live in",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " a yellow submarine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                G",
-      "lyrics": "Yellow submarine, yellow submarine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Yellow submarine,",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " yellow submarine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        D          G",
-      "lyrics": "As we live a life of ease"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "As we li",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ve a life o",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "f ease",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Am              D",
-      "lyrics": "Everyone of us has all we need"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Everyo",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ne of us has all",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " we need",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        D            G",
-      "lyrics": "Sky of blue and sea of green"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Sky of b",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "lue and sea o",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "f green",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Am          D",
-      "lyrics": "In our yellow submarine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "In our ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "yellow subma",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "rine",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "G             D",
-      "lyrics": "We all live in a yellow submarine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "We all live in",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " a yellow submarine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                G",
-      "lyrics": "Yellow submarine, yellow submarine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Yellow submarine,",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " yellow submarine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G             D",
-      "lyrics": "We all live in a yellow submarine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "We all live in",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " a yellow submarine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                G",
-      "lyrics": "Yellow submarine, yellow submarine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Yellow submarine,",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " yellow submarine",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Yellow Submarine"

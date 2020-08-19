@@ -19,130 +19,636 @@
   "id": "we_are_the_crystal_gems - steven_universe",
   "lines": [
     {
-      "chord": "       F                           A7",
-      "lyrics": "[Steven] If you're evil and you're on the rise"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Steven",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "] If you're evil and you're ",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "on the rise",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb                   C7                    F",
-      "lyrics": "you can count on the four of us taking you down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "you can count on the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "four of us taking you ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "down",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                          A7",
-      "lyrics": "Cause we're good and evil never beats us"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause we're good and evil ",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "never beats us",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Bb                        C7",
-      "lyrics": "we'll win the fight and then go out for pizzas!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "we'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "win the fight and then go ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "out for pizzas!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                  A7                          Bb",
-      "lyrics": "We are the Crystal Gems, we'll always save the day"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "We are the Crystal ",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "Gems, we'll always save the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "day",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    Bbm                       F",
-      "lyrics": "and if you think we can't we'll always find a way."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and if you think we ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bbm",
+          "lyric": "can't we'll always find a ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "way.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                      A7              Bb",
-      "lyrics": "That's why the people of this world believe in"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That's why the people ",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "of this world be",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "lieve in",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Bbm                  F",
-      "lyrics": "Garnet, Amethyst, and Pearl and Steven!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Garnet, Ame",
+          "overLyric": true
+        },
+        {
+          "chord": "Bbm",
+          "lyric": "thyst, and Pearl and ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "Steven!",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Interlude]"
     },
     {
-      "chord": "        F            E7   Am    C7             F",
-      "lyrics": "[Pearl] If you could only know, what we really are"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Pearl] ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "If you could ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "only ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "know, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "what we really ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "are",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          E7       Am          C7              F",
-      "lyrics": "When we arrived on Earth, from out beyond your star"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When we ar",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "rived on ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "Earth, from ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "out beyond your ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "star",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        E7        Am         C7              F",
-      "lyrics": "We were amazed to find, your beauty and your worth"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We were ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "amazed to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "find, your ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "beauty and your ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "worth",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               E7        Am",
-      "lyrics": "And we will protect your kind,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And we will pro",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "tect your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "kind,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C7                   A",
-      "lyrics": "And we will protect your Earth"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "we will protect your ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "Earth",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    A                    D7",
-      "lyrics": "And we will protect your Earth,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "we will protect your ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "Earth,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    D7",
-      "lyrics": "And we will protect you!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "we will protect you!",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Interlude]"
     },
     {
-      "chord": "G  B7 C7 Cm",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "B7",
+          "lyric": " "
+        },
+        {
+          "chord": "C7",
+          "lyric": " "
+        },
+        {
+          "chord": "Cm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "         G                    B7",
-      "lyrics": "[Garnet] I will fight for the place where I'm free!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Garnet] ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "I will fight for the ",
+          "overLyric": true
+        },
+        {
+          "chord": "B7",
+          "lyric": "place where I'm free!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   C                 D7",
-      "lyrics": "To live together and exist as me!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "live together and ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "exist as me!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G                   B7",
-      "lyrics": "[Pearl] I will fight in the name of Rose Quartz!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Pearl] ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "I will fight in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "B7",
+          "lyric": "name of Rose Quartz!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C               D7",
-      "lyrics": "And everything that she believed in!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "everything that ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "she believed in!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           G                    B7",
-      "lyrics": "[Amethyst] I will fight for the world I was made in!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Amethyst] ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "I will fight for the ",
+          "overLyric": true
+        },
+        {
+          "chord": "B7",
+          "lyric": "world I was made in!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C             D7              G",
-      "lyrics": "The Earth is everything I've ever known!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "Earth is every",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "thing I've ever ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "known!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                 B7",
-      "lyrics": "[Steven] I will fight to be everything that"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Steven] I will fight to be every",
+          "overLyric": true
+        },
+        {
+          "chord": "B7",
+          "lyric": "thing that",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C         D7                      G",
-      "lyrics": "everybody wants me to be when I'm grown!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "everybody ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "wants me to be when I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "grown!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                 B7         C",
-      "lyrics": "[The Crystal Gems] The odds are against us, this won't be easy,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[The Crystal Gems] The odds are a",
+          "overLyric": true
+        },
+        {
+          "chord": "B7",
+          "lyric": "gainst us, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "this won't be easy,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          D7                  G",
-      "lyrics": "but we're not going to do it alone!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "but we're ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "not going to do it a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "lone!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                  B7                          C",
-      "lyrics": "We are the Crystal Gems, we'll always save the day"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "We are the Crystal ",
+          "overLyric": true
+        },
+        {
+          "chord": "B7",
+          "lyric": "Gems, we'll always save the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "day",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    Cm                         G",
-      "lyrics": "and if you think we can't, we'll always find a way"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and if you think we ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "can't, we'll always find a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "way",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                      B7              C7",
-      "lyrics": "That's why the people of this world believe in,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That's why the people ",
+          "overLyric": true
+        },
+        {
+          "chord": "B7",
+          "lyric": "of this world be",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "lieve in,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Cm                   G",
-      "lyrics": "Garnet, Amethyst, and Pearl and Steven!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Garnet, Ame",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "thyst, and Pearl and ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "Steven!",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "We are the Crystal Gems"

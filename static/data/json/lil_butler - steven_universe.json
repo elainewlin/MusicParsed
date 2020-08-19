@@ -11,52 +11,219 @@
   "id": "lil_butler - steven_universe",
   "lines": [
     {
-      "chord": "  Bb                F",
-      "lyrics": "An orphaned boy with sass and pep"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "An",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": " orphaned boy with",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " sass and pep",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Gm                 F",
-      "lyrics": "Got dropped off on our mansion step,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Got ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "dropped off on our ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "mansion step,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb           F",
-      "lyrics": "Li'l Butler, Li'l Butler,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "Li'l Butler, ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "Li'l Butler,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Bb                 F",
-      "lyrics": "We washed his face of dirt and leaves,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "washed his face of ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "dirt and leaves,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Gm                F",
-      "lyrics": "And now he works here as our jeeves,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "now he works here ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "as our jeeves,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb           F",
-      "lyrics": "Li'l Butler, Li'l Butler,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "Li'l Butler, ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "Li'l Butler,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D",
-      "lyrics": "Oh, littlest butler,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Oh, littlest butler,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               Gm         D           Bb  F",
-      "lyrics": "Oh, you're the butler who butlers our he--arts,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh, you're the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "butler who ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "butlers our ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "he--",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "arts,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Bb                F",
-      "lyrics": "So mop the floor and dust the shelves"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "mop the floor and ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "dust the shelves",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Gm               F",
-      "lyrics": "And teach us lessons 'bout ourselves,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "teach us lessons ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "'bout ourselves,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb",
-      "lyrics": "Li'l Butler,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "Li'l Butler,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                   Bb",
-      "lyrics": " Li'l Butler that's you!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " Li'l Butler that's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "you!",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Lil Butler"

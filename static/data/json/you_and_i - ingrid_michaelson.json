@@ -15,109 +15,478 @@
       "label": "[Verse]"
     },
     {
-      "chord": " C",
-      "lyrics": "don't you worry, there my honey"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "d",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "on't you worry, there my honey",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " F",
-      "lyrics": "we might not have any money"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "w",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "e might not have any money",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " Am                               F",
-      "lyrics": "but we've got our love to pay the bills"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "b",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ut we've got our love to pay the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "bills",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " C",
-      "lyrics": "maybe I think you're cute and funny,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "m",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "aybe I think you're cute and funny,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " F                            Am",
-      "lyrics": "maybe I wanna do what bunnies do with you,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "m",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "aybe I wanna do what bunnies ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "do with you,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   F",
-      "lyrics": "if you know what I mean"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "if you know what I ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "mean",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "     C                 E               F                     C",
-      "lyrics": "Oh, let's get rich and buy our parents homes in the South of France"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh, l",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "et's get rich and ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "buy our parents ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "homes in the South of ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "France",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                             E",
-      "lyrics": "let's get rich and give everybody nice sweaters"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "let's get rich and give every",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "body nice sweaters",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    F                 G",
-      "lyrics": "and teach them how to dance"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "teach them how to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "dance",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          C                  E",
-      "lyrics": "let's get rich and build our house on a mountain"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "let's get ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "rich and build our ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "house on a mountain",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       F                   D",
-      "lyrics": "making everybody look like ants"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "making ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "everybody look like ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ants",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            C              F  G       C",
-      "lyrics": "from way up there, you and I, you and I"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "from way up ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "there, you and ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "I, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "you and ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "C",
-      "lyrics": "well you might be a bit confused"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "well you might be a bit confused",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    F",
-      "lyrics": "and you might be a little bit bruised"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "you might be a little bit bruised",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am                            F",
-      "lyrics": "but baby how we spoon like no one else"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "but ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "baby how we spoon like no one ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "else",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   C",
-      "lyrics": "so I will help you read those books"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "so ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I will help you read those books",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   F",
-      "lyrics": "if you will soothe my worried looks"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "if ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "you will soothe my worried looks",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am                              F",
-      "lyrics": "and we will put the lonesome on the shelf"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "we will put the lonesome on the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "shelf",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "     C                 E               F                     C",
-      "lyrics": "Oh, let's get rich and buy our parents homes in the South of France"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh, l",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "et's get rich and ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "buy our parents ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "homes in the South of ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "France",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                             E",
-      "lyrics": "let's get rich and give everybody nice sweaters"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "let's get rich and give every",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "body nice sweaters",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    F                 G",
-      "lyrics": "and teach them how to dance"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "teach them how to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "dance",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          C                  E",
-      "lyrics": "let's get rich and build our house on a mountain"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "let's get ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "rich and build our ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "house on a mountain",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       F                   D",
-      "lyrics": "making everybody look like ants"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "making ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "everybody look like ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ants",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            C              F  G       C",
-      "lyrics": "from way up there, you and I, you and I"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "from way up ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "there, you and ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "I, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "you and ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "You And I"

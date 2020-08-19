@@ -1,9 +1,9 @@
 {
   "allChords": [
     "Fm",
-    "E\u266d",
-    "B\u266d",
-    "A\u266d",
+    "E♭",
+    "B♭",
+    "A♭",
     "Cm"
   ],
   "artist": "Oh Wonder",
@@ -14,288 +14,1204 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "Fm           E\u266d              B\u266d",
-      "lyrics": "Lovesick the beat inside my head"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm",
+          "lyric": "Lovesick the ",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "beat inside my h",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "ead",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fm             E\u266d            B\u266d",
-      "lyrics": "Waves struck a sea of bitterness"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm",
+          "lyric": "Waves struck a ",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "sea of bittern",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "ess",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A\u266d         E\u266d           B\u266d",
-      "lyrics": "Lights out solo in the blue"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A♭",
+          "lyric": "Lights out ",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "solo in the b",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "lue",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Fm        E\u266d   B\u266d",
-      "lyrics": "Before I found you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Before",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": " I found y",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "ou   ",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "Fm          A\u266d       E\u266d        B\u266d",
-      "lyrics": "Days passed slowly, lost and low"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm",
+          "lyric": "Days passed ",
+          "overLyric": true
+        },
+        {
+          "chord": "A♭",
+          "lyric": "slowly, l",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "ost and lo",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "w",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Fm      A\u266d        E\u266d           B\u266d",
-      "lyrics": "You gave me hope and now there's only"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "gave me ",
+          "overLyric": true
+        },
+        {
+          "chord": "A♭",
+          "lyric": "hope and n",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "ow there's on",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "ly",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Fm                  E\u266d",
-      "lyrics": "Blood running in my veins"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm",
+          "lyric": "Blood running in my ",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "veins",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                B\u266d",
-      "lyrics": "I've never been here before"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've never been ",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "here before",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Fm                   E\u266d",
-      "lyrics": "And I got love falling like the rain"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I got ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "love falling like the",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": " rain",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 B\u266d",
-      "lyrics": "I never could've asked for more"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I never could've ",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "asked for more",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      A\u266d              Cm",
-      "lyrics": "I got so much soul inside my bones"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I got ",
+          "overLyric": true
+        },
+        {
+          "chord": "A♭",
+          "lyric": "so much soul ins",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "ide my bones",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B\u266d                   E\u266d/G",
-      "lyrics": "Take a look at me now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B♭",
+          "lyric": "Take a look at me now",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭/G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    Fm                   E\u266d",
-      "lyrics": "I'm young forever in the sun"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "young forever in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "sun",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           B\u266d",
-      "lyrics": "Ever since you came"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Ever since ",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "you came",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  Fm  E\u266d  B\u266d  B\u266d",
-      "lyrics": "I'm living ultralife"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm living ultrali",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "fe  ",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "  "
+        },
+        {
+          "chord": "B♭",
+          "lyric": "  "
+        },
+        {
+          "chord": "B♭",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                  Fm  E\u266d  B\u266d B\u266d",
-      "lyrics": "I'm living ultralife"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm living ultrali",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "fe  ",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "  "
+        },
+        {
+          "chord": "B♭",
+          "lyric": " "
+        },
+        {
+          "chord": "B♭",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                  Fm  E\u266d  B\u266d B\u266d",
-      "lyrics": "I'm living ultralife"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm living ultrali",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "fe  ",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "  "
+        },
+        {
+          "chord": "B♭",
+          "lyric": " "
+        },
+        {
+          "chord": "B♭",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "Fm            E\u266d               B\u266d",
-      "lyrics": "Turn down the voice inside my head"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm",
+          "lyric": "Turn down the ",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "voice inside my h",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "ead",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  Fm",
-      "lyrics": "Cause heaven only knows"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause heaven only ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "knows",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       E\u266d              B\u266d",
-      "lyrics": "Why we feel this emptiness"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Why we ",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "feel this emptin",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "ess",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Fm         E\u266d            B\u266d",
-      "lyrics": "But I will climb out, find another view"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But I will ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "climb out, ",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "find another v",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "iew",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Fm       E\u266d  B\u266d",
-      "lyrics": "Now I've found you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Now I've ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "found you",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "  "
+        },
+        {
+          "chord": "B♭",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "Fm          A\u266d       E\u266d        B\u266d",
-      "lyrics": "Days passed slowly, lost and low"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm",
+          "lyric": "Days passed ",
+          "overLyric": true
+        },
+        {
+          "chord": "A♭",
+          "lyric": "slowly, l",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "ost and lo",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "w",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Fm      A\u266d        E\u266d           B\u266d",
-      "lyrics": "You gave me hope and now there's only"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "gave me ",
+          "overLyric": true
+        },
+        {
+          "chord": "A♭",
+          "lyric": "hope and n",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "ow there's on",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "ly",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Fm                  E\u266d",
-      "lyrics": "Blood running in my veins"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm",
+          "lyric": "Blood running in my ",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "veins",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                B\u266d",
-      "lyrics": "I've never been here before"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've never been ",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "here before",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Fm                    E\u266d",
-      "lyrics": "And I got love falling like the rain"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I got ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "love falling like the ",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "rain",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 B\u266d",
-      "lyrics": "I never could've asked for more"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I never could've ",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "asked for more",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      A\u266d              Cm",
-      "lyrics": "I got so much soul inside my bones"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I got ",
+          "overLyric": true
+        },
+        {
+          "chord": "A♭",
+          "lyric": "so much soul ins",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "ide my bones",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B\u266d                   E\u266d/G",
-      "lyrics": "Take a look at me now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B♭",
+          "lyric": "Take a look at me now",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭/G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    Fm                   E\u266d",
-      "lyrics": "I'm young forever in the sun"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "young forever in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "sun",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           B\u266d",
-      "lyrics": "Ever since you came I'm living ultralife"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Ever since ",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "you came I'm living ultralife",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A\u266d                  B\u266d",
-      "lyrics": "Ultralife with me, ultralife with me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A♭",
+          "lyric": "Ultralife with me, u",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "ltralife with me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A\u266d                  B\u266d",
-      "lyrics": "Ultralife with me, ultralife with me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A♭",
+          "lyric": "Ultralife with me, u",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "ltralife with me",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "A\u266d                        E\u266d/G",
-      "lyrics": "Found me on a basement floor"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A♭",
+          "lyric": "Found me on a basement flo",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭/G",
+          "lyric": "or",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B\u266d                         E\u266d/G",
-      "lyrics": "Back when I had lost it all"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B♭",
+          "lyric": "Back when I had lost it all",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭/G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "A\u266d                            E\u266d/G",
-      "lyrics": "Told me what the fight was for"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A♭",
+          "lyric": "Told me what the fight was for",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭/G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "B\u266d                       E\u266d/G  A\u266d",
-      "lyrics": "And I'm not giving up no more"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B♭",
+          "lyric": "And I'm not giving up no ",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭/G",
+          "lyric": "more  ",
+          "overLyric": true
+        },
+        {
+          "chord": "A♭",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                      E\u266d/G",
-      "lyrics": "You elevate the life in me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You elevate the life i",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭/G",
+          "lyric": "n me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B\u266d                     E\u266d/G",
-      "lyrics": "Illuminate the in-between"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B♭",
+          "lyric": "Illuminate the in-betwe",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭/G",
+          "lyric": "en",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A\u266d                         E\u266d/G",
-      "lyrics": "Forever gonna feel this free"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A♭",
+          "lyric": "Forever gonna feel this fre",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭/G",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B\u266d                       E\u266d/G",
-      "lyrics": "And I'm not giving up now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B♭",
+          "lyric": "And I'm not giving up now",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭/G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 1]"
     },
     {
-      "chord": "Fm           E\u266d              B\u266d",
-      "lyrics": "Lovesick the beat inside my head"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm",
+          "lyric": "Lovesick the ",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "beat inside my h",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "ead",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fm             E\u266d            B\u266d",
-      "lyrics": "Waves struck a sea of bitterness"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm",
+          "lyric": "Waves struck a ",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "sea of bittern",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "ess",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fm         E\u266d           B\u266d",
-      "lyrics": "Lights out solo in the blue"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm",
+          "lyric": "Lights out ",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "solo in the b",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "lue",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Fm        E\u266d   B\u266d",
-      "lyrics": "Before I found you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Before I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "found you ",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "   "
+        },
+        {
+          "chord": "B♭",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Fm                  E\u266d",
-      "lyrics": "Blood running in my veins"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm",
+          "lyric": "Blood running in my ",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "veins",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                B\u266d",
-      "lyrics": "I've never been here before"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've never been ",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "here before",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Fm                    E\u266d",
-      "lyrics": "And I got love falling like the rain"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I got ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "love falling like the ",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "rain",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 B\u266d",
-      "lyrics": "I never could've asked for more"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I never could've ",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "asked for more",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      A\u266d              Cm",
-      "lyrics": "I got so much soul inside my bones"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I got ",
+          "overLyric": true
+        },
+        {
+          "chord": "A♭",
+          "lyric": "so much soul ins",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "ide my bones",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B\u266d                   E\u266d/G",
-      "lyrics": "Take a look at me now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B♭",
+          "lyric": "Take a look at me now",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭/G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    Fm                   E\u266d",
-      "lyrics": "I'm young forever in the sun"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "young forever in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "sun",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           B\u266d",
-      "lyrics": "Ever since you came"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Ever since ",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "you came",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  Fm  E\u266d  B\u266d",
-      "lyrics": "I'm living ultralife"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm living ultrali",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "fe  ",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "  "
+        },
+        {
+          "chord": "B♭",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "(Ultralife with me, ultralife with me)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(Ultralife with me, ultralife with me)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  Fm  E\u266d  B\u266d",
-      "lyrics": "I'm living ultralife"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm living ultrali",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "fe  ",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "  "
+        },
+        {
+          "chord": "B♭",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "(Ultralife with me, ultralife with me)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(Ultralife with me, ultralife with me)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Fm  E\u266d  B\u266d",
-      "lyrics": "We're living ultralife"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We're living ultral",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "ife ",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "  "
+        },
+        {
+          "chord": "B♭",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "(Ultralife with me, ultralife with me)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(Ultralife with me, ultralife with me)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Fm  E\u266d  B\u266d",
-      "lyrics": "We're living ultralife"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We're living ultral",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "ife ",
+          "overLyric": true
+        },
+        {
+          "chord": "E♭",
+          "lyric": "  "
+        },
+        {
+          "chord": "B♭",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "(Ultralife with me, ultralife with me)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(Ultralife with me, ultralife with me)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "N.C."
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "N.C.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I'm living ultralife"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm living ultralife",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "(Ultralife with me)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(Ultralife with me)",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Ultralife"

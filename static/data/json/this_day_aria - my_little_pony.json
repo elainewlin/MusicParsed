@@ -26,151 +26,533 @@
       "label": "Intro:"
     },
     {
-      "chord": "C#     Bm7     C#     B/D# B/D",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C#",
+          "lyric": "     "
+        },
+        {
+          "chord": "Bm7",
+          "lyric": "     "
+        },
+        {
+          "chord": "C#",
+          "lyric": "     "
+        },
+        {
+          "chord": "B/D#",
+          "lyric": " "
+        },
+        {
+          "chord": "B/D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C#         Bm7",
-      "lyrics": "This day is going to be perfect"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#",
+          "lyric": "This day is",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm7",
+          "lyric": " going to be perfect",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#         B/D#",
-      "lyrics": "The kind of day of which I dreamed since I was small"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#",
+          "lyric": "The kind of",
+          "overLyric": true
+        },
+        {
+          "chord": "B/D#",
+          "lyric": " day of which I dreamed since I was small",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm         F#",
-      "lyrics": "Everypony will gather round"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Everypony w",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "ill gather round",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm         F#",
-      "lyrics": "Say I look lovely in my gown"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Say I look ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "lovely in my gown",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am         C#m",
-      "lyrics": "What they don't know is that I have fooled them all"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "What they d",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "on't know is that I have fooled them all",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#         Bm7",
-      "lyrics": "This day was going to be perfect"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#",
+          "lyric": "This day wa",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm7",
+          "lyric": "s going to be perfect",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#         B/D#",
-      "lyrics": "The kind of day of which I dreamed since I was small"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#",
+          "lyric": "The kind of",
+          "overLyric": true
+        },
+        {
+          "chord": "B/D#",
+          "lyric": " day of which I dreamed since I was small",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm         F#",
-      "lyrics": "But instead of having cake"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "But instead",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": " of having cake",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm         F#",
-      "lyrics": "With all my friends to celebrate"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "With all my",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": " friends to celebrate",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am         C#",
-      "lyrics": "My wedding bells, they may not ring for me at all"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "My wedding ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#",
+          "lyric": "bells, they may not ring for me at all",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G#",
-      "lyrics": "I could care less about the dress"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G#",
+          "lyric": "I could care less about the dress",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m",
-      "lyrics": "I won't partake in any cake"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "I won't partake in any cake",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m         C#m",
-      "lyrics": "Vows, well I'll be lying when I say"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": "Vows, well I",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "'ll be lying when I say",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G#",
-      "lyrics": "That through any kind of weather"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G#",
+          "lyric": "That through any kind of weather",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m",
-      "lyrics": "I'll want us to be together"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "I'll want us to be together",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m         G#",
-      "lyrics": "The truth is I don't care for him at all"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": "The truth is",
+          "overLyric": true
+        },
+        {
+          "chord": "G#",
+          "lyric": " I don't care for him at all",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m         G#",
-      "lyrics": "No I do not love the groom"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "No I do not ",
+          "overLyric": true
+        },
+        {
+          "chord": "G#",
+          "lyric": "love the groom",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m         G#",
-      "lyrics": "In my heart there is no room"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": "In my heart ",
+          "overLyric": true
+        },
+        {
+          "chord": "G#",
+          "lyric": "there is no room",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A         G#                 C#m",
-      "lyrics": "But I still want him to be all mine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "But I stil",
+          "overLyric": true
+        },
+        {
+          "chord": "G#",
+          "lyric": "l want him to be al",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "l mine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G#",
-      "lyrics": "We must escape before it's too late"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G#",
+          "lyric": "We must escape before it's too late",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m",
-      "lyrics": "Find a way to save the day"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "Find a way to save the day",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m         C#m",
-      "lyrics": "Hope, I'll be lying if I say"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": "Hope, I'll b",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "e lying if I say",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G#",
-      "lyrics": "I don't fear that I may lose him"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G#",
+          "lyric": "I don't fear that I may lose him",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m",
-      "lyrics": "To one who wants to use him"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "To one who wants to use him",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m         G#",
-      "lyrics": "Not care for, love and cherish him each day"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": "Not care for",
+          "overLyric": true
+        },
+        {
+          "chord": "G#",
+          "lyric": ", love and cherish him each day",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#         G#",
-      "lyrics": "For I oh-so love the groom"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#",
+          "lyric": "For I oh-so",
+          "overLyric": true
+        },
+        {
+          "chord": "G#",
+          "lyric": " love the groom",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A#m7         E#m",
-      "lyrics": "All my thoughts he does consume"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A#m7",
+          "lyric": "All my though",
+          "overLyric": true
+        },
+        {
+          "chord": "E#m",
+          "lyric": "ts he does consume",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D#m7         A#m         F#m         C#",
-      "lyrics": "Oh Shining Armor, I'll be there very soon"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D#m7",
+          "lyric": "Oh Shining Ar",
+          "overLyric": true
+        },
+        {
+          "chord": "A#m",
+          "lyric": "mor, I'll be",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": " there very ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#",
+          "lyric": "soon",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Interlude:"
     },
     {
-      "chord": "C#     F     D/F#     D",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C#",
+          "lyric": "     "
+        },
+        {
+          "chord": "F",
+          "lyric": "     "
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "     "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C#         Bm7",
-      "lyrics": "Finally the moment has arrived"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#",
+          "lyric": "Finally the",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm7",
+          "lyric": " moment has arrived",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#         B/D#",
-      "lyrics": "For me to be one lucky bride"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#",
+          "lyric": "For me to b",
+          "overLyric": true
+        },
+        {
+          "chord": "B/D#",
+          "lyric": "e one lucky bride",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm         F#",
-      "lyrics": "Oh, the wedding we won't make"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Oh, the wed",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "ding we won't make",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm         Em7",
-      "lyrics": "He'll end up marrying a fake"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "He'll end u",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7",
+          "lyric": "p marrying a fake",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm         F#",
-      "lyrics": "Shining Armor will be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Shining Arm",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "or will be",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm",
-      "lyrics": "Mine, all mine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Mine, all mine",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "This Day Aria"

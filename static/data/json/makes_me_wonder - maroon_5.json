@@ -17,244 +17,823 @@
       "label": "[Verse]"
     },
     {
-      "chord": "Bm",
-      "lyrics": "I wake up with blood-shot eyes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "I wake up with blood-shot eyes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm7",
-      "lyrics": "Struggled to memorize"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm7",
+          "lyric": "Struggled to memorize",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A7",
-      "lyrics": "The way it felt between your thighs"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A7",
+          "lyric": "The way it felt between your thighs",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#",
-      "lyrics": "Pleasure that made you cry"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#",
+          "lyric": "Pleasure that made you cry",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm",
-      "lyrics": "Feels so good to be bad"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Feels so good to be bad",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm7",
-      "lyrics": "Not worth the aftermath, after that"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm7",
+          "lyric": "Not worth the aftermath, after that",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A7",
-      "lyrics": "After that"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A7",
+          "lyric": "After that",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#",
-      "lyrics": "Try to get you back"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#",
+          "lyric": "Try to get you back",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Prechorus]"
     },
     {
-      "chord": "G                     A",
-      "lyrics": "I still don't have the reason"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I still don't have the",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " reason",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                     A",
-      "lyrics": "And you don't have the time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "And you don't have the",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " time",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "And it really makes me wonder"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "And it really makes me wonder",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     A            Bb         Bm",
-      "lyrics": "If I ever gave a fuck about you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "If I ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ever gave a f",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "uck about y",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "ou",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Bm                      Bm7",
-      "lyrics": "Give me something to believe in"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Give me something to bel",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm7",
+          "lyric": "ieve in",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Em                   G       F#",
-      "lyrics": "Cause I don't believe in you anymore anymore"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause I do",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "n't believe in you an",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ymore an",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "ymore",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm              A                          G",
-      "lyrics": "I wonder if it even makes a difference to try"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "I wonder if it e",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ven makes a difference to t",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ry",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#",
-      "lyrics": "So this is goodbye"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#",
+          "lyric": "So this is goodbye",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "Bm",
-      "lyrics": "God damn my spinning head"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "God damn my spinning head",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm7",
-      "lyrics": "Decisions that made my bed"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm7",
+          "lyric": "Decisions that made my bed",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A7",
-      "lyrics": "Now I must lay in it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A7",
+          "lyric": "Now I must lay in it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    F#",
-      "lyrics": "And deal with things I've left unsaid"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "deal with things I've left unsaid",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm",
-      "lyrics": "I want to dive into you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "I want to dive into you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm7",
-      "lyrics": "Forget what you're going through"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm7",
+          "lyric": "Forget what you're going through",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  A7",
-      "lyrics": "I get behind, make your move"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "get behind, make your move",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#",
-      "lyrics": "Forget about the truth"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#",
+          "lyric": "Forget about the truth",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Prechorus]"
     },
     {
-      "chord": "G                     A",
-      "lyrics": "But I still don't have the reason"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "But I still don't have",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " the reason",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                     A",
-      "lyrics": "And you don't have the time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "And you don't have the",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " time",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "And it really makes me wonder"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "And it really makes me wonder",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     A            Bb         Bm",
-      "lyrics": "If I ever gave a fuck about you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "If I ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ever gave a f",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "uck about y",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "ou",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Bm                      Bm7",
-      "lyrics": "Give me something to believe in"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Give me something to bel",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm7",
+          "lyric": "ieve in",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Em                   G       F#",
-      "lyrics": "Cause I don't believe in you anymore anymore"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause I do",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "n't believe in you an",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ymore an",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "ymore",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm              A                          G",
-      "lyrics": "I wonder if it even makes a difference to try"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "I wonder if it e",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ven makes a difference to t",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ry",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#",
-      "lyrics": "So this is goodbye"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#",
+          "lyric": "So this is goodbye",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm                         Bm7",
-      "lyrics": "And you told me how you're feeling"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "And you told me how you're ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm7",
+          "lyric": "feeling",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Em                      G        F#",
-      "lyrics": "But I don't believe it's true anymore, anymore"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But I d",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "on't believe it's true a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "nymore, a",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "nymore",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm              A                         G",
-      "lyrics": "I wonder if it even makes a difference to cry"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "I wonder if it e",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ven makes a difference to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "cry",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         F#",
-      "lyrics": "(Oh no) So this is goodbye"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(Oh no) S",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "o this is goodbye",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "G",
-      "lyrics": "I've been here before"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I've been here before",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A",
-      "lyrics": "One day I'll wake up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "One day I'll wake up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       F#             Bm",
-      "lyrics": "And it won't hurt anymore"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And it ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "won't hurt anym",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "ore",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "You caught me in a lie"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "You caught me in a lie",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A",
-      "lyrics": "I have no alibi"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "I have no alibi",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#",
-      "lyrics": "The words you say don't have a meaning 'cause"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#",
+          "lyric": "The words you say don't have a meaning 'cause",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Prechorus]"
     },
     {
-      "chord": "G                     A",
-      "lyrics": "I still don't have the reason"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I still don't have the",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " reason",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                     A",
-      "lyrics": "And you don't have the time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "And you don't have the",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " time",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "And it really makes me wonder"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "And it really makes me wonder",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     A            Bb         Bm",
-      "lyrics": "If I ever gave a fuck about you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "If I ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ever gave a f",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "uck about y",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "ou",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Bm                      Bm7",
-      "lyrics": "Give me something to believe in"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Give me something to bel",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm7",
+          "lyric": "ieve in",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Em                   G       F#",
-      "lyrics": "Cause I don't believe in you anymore anymore"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause I do",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "n't believe in you an",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ymore an",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "ymore",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm              A                          G",
-      "lyrics": "I wonder if it even makes a difference to try"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "I wonder if it e",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ven makes a difference to t",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ry",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#",
-      "lyrics": "So this is goodbye"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#",
+          "lyric": "So this is goodbye",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm                         Bm7",
-      "lyrics": "And you told me how you're feeling"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "And you told me how you're ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm7",
+          "lyric": "feeling",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Em                      G        F#",
-      "lyrics": "But I don't believe it's true anymore, anymore"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But I d",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "on't believe it's true a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "nymore, a",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "nymore",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm              A                         G",
-      "lyrics": "I wonder if it even makes a difference to cry"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "I wonder if it e",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ven makes a difference to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "cry",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         F#",
-      "lyrics": "(Oh no) So this is goodbye"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(Oh no) S",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "o this is goodbye",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Makes Me Wonder"

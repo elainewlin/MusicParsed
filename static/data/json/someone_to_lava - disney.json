@@ -12,179 +12,720 @@
       "label": "Intro:"
     },
     {
-      "chord": "C G7 F C G7 C",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "G7",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "G7",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "Verse:"
     },
     {
-      "chord": "C                    G7",
-      "lyrics": "A long long time ago, there was a volcano."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "A long long time ago,",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": " there was a volcano.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                        C             G7",
-      "lyrics": "Living all alone, in the middle of the sea."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Living all alone, in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "middle of the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "sea.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                          G7",
-      "lyrics": "He sat high above his bay, watching all the couples play,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "He sat high above his bay, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "watching all the couples play,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                 C              G7",
-      "lyrics": "and wishing that, he had someone too."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "and wishing that, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "he had someone ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "too.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                            G7                            F",
-      "lyrics": "And from his lava came, this song of hope that he sang out-loud everyday,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "And from his lava came, this ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "song of hope that he sang out-",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "loud everyday,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C             G7",
-      "lyrics": "for years and years."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "for years and ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "years.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Chorus:"
     },
     {
-      "chord": "F                 C",
-      "lyrics": "I have a dream, I hope will come true,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I have a dream, I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hope will come true,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     G7                      C",
-      "lyrics": "that you're here with me and I\u2019m here with you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "that ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "you're here with me and ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I’m here with you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                               C",
-      "lyrics": "I wish that the earth, sea, the sky up above"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I wish that the earth, sea, the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "sky up above",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     F       G7         C",
-      "lyrics": "will send me someone to la-va"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "will ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "send me ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "someone to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "la-va",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Verse:"
     },
     {
-      "chord": "C                         G7",
-      "lyrics": "He was singing all alone, turned his lava into stone,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "He was singing all alone, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "turned his lava into stone,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                   C                G7",
-      "lyrics": "until he was on the brink of extinction."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "until he was on the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "brink of extincti",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "on.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                           G7",
-      "lyrics": "But little did he know that living in the sea below"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "But little did he know that ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "living in the sea below",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                   C                G7",
-      "lyrics": "another volcano was listening to his song."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "another volcano was ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "listening to his ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "song.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Verse:"
     },
     {
-      "chord": "C                                 G7",
-      "lyrics": "Every day she heard his tune, her lava grew and grew"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Every day she heard his tune, her ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "lava grew and grew",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                        C                  G7",
-      "lyrics": "because she believed his song was meant for her."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "because she believed his ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "song was meant for ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "her.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                       G7",
-      "lyrics": "Now she was so ready to meet him above the sea"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Now she was so ready to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "meet him above the sea",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                      C                 G7",
-      "lyrics": "as he sang his song of hope for the last time."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "as he sang his song of ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hope for the last ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "time.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Chorus:"
     },
     {
-      "chord": "F                 C",
-      "lyrics": "I have a dream, I hope will come true,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I have a dream, I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hope will come true,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     G7                      C",
-      "lyrics": "that you're here with me and I\u2019m here with you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "that ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "you're here with me and ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I’m here with you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                               C",
-      "lyrics": "I wish that the earth, sea, the sky up above"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I wish that the earth, sea, the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "sky up above",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     F       G7         C",
-      "lyrics": "will send me someone to la-va"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "will ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "send me ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "someone to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "la-va",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Verse:"
     },
     {
-      "chord": "C                         G7",
-      "lyrics": "Rising from the sea below stood a lovely volcano"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Rising from the sea below ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "stood a lovely volcano",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                      C                 G7",
-      "lyrics": "looking all around but she could not see him."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "looking all around but ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "she could not see ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "him.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                                     G7",
-      "lyrics": "He tried to sing to let her know that she was not alone,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "He tried to sing to let her know that ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "she was not alone,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    F                G7           C",
-      "lyrics": "but with no lava his song was all done."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "but ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "with no lava his ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "song was all ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "done.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Verse:"
     },
     {
-      "chord": "C                                G7",
-      "lyrics": "He filled the sea with his tears watching his dreams disappear"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "He filled the sea with his tears ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "watching his dreams disappear",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                          C             G7",
-      "lyrics": "as she remembered what his song meant to her."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "as she remembered what his ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "song meant to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "her.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                            G7",
-      "lyrics": "And oh they were so happy to finally meet above the sea"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "And oh they were so happy to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "finally meet above the sea",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    F                      G7            C",
-      "lyrics": "and all together now their lava grew and grew."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "all together now their ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "lava grew and ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "grew.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Verse:"
     },
     {
-      "chord": "C                              G7",
-      "lyrics": "No longer were they alone with Hawaii as their new home"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "No longer were they alone with ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "Hawaii as their new home",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    F                    C                 G7",
-      "lyrics": "and when you visit them, this is what they sing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "when you visit them, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "this is what they ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "sing",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Chorus:"
     },
     {
-      "chord": "F                 C",
-      "lyrics": "I have a dream, I hope will come true,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I have a dream, I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hope will come true,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     G7                      C",
-      "lyrics": "that you're here with me and I\u2019m here with you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "that ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "you're here with me and ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I’m here with you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                               C",
-      "lyrics": "I wish that the earth, sea, the sky up above"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I wish that the earth, sea, the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "sky up above",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     F       G7         C",
-      "lyrics": "will send me someone to la-va"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "will ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "send me ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "someone to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "la-va",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Someone To Lava"

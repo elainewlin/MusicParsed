@@ -13,184 +13,664 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "Am                              F",
-      "lyrics": "Tell me what you want, what you like, it's okay"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Tell me what you want, what you ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "like, it's okay",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                    G",
-      "lyrics": "I'm a little curious too,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I'm a little curious ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "too,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                             F",
-      "lyrics": "Tell me if it's wrong, if it's right, I don't care"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Tell me if it's wrong, if it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "right, I don't care",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                         G",
-      "lyrics": "I can keep a secret could, you?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I can keep a secret could,",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " you?",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "       Am                          F",
-      "lyrics": "Got my mind on your body, and your body on my mind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Got my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "mind on your body, and your ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "body on my mind",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      C                                          G",
-      "lyrics": "Got a taste for the cherry I just need to take a bite"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Got a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "taste for the cherry I just need to take a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "bite",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                       F",
-      "lyrics": "Don't tell your mother, kiss one another"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Don't tell your mother, k",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "iss one another",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                      G",
-      "lyrics": "Die for each other, we're cool for the summer"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Die for each other, we'",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "re cool for the summer",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am   F   C   G",
-      "lyrics": "Oooh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Oooh ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "   "
+        },
+        {
+          "chord": "C",
+          "lyric": "   "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Am             F",
-      "lyrics": "   Take me down into your paradise"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " Take me down"
+        },
+        {
+          "chord": "F",
+          "lyric": " into your paradise",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                  G",
-      "lyrics": "   Don't be scared cause I'm your body type"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "  Don't be scared "
+        },
+        {
+          "chord": "G",
+          "lyric": "cause I'm your body type",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am         F",
-      "lyrics": "   Just something that we wanna try"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " Just som"
+        },
+        {
+          "chord": "F",
+          "lyric": "ething that we wanna try",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                G",
-      "lyrics": "Cause you and I, we're cool for the summer"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Cause you and I, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "we're cool for the summer",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "Am                     F",
-      "lyrics": "Tell me if I won, if I did, what's my prize?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Tell me if I won, if I ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "did, what's my prize?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                           G",
-      "lyrics": "I just wanna play with you, too"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I just wanna play with you, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "too",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                          F",
-      "lyrics": "Even if they judge, fuck it all, do the time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Even if they judge, fuck it ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "all, do the time",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                          G",
-      "lyrics": "I just wanna have some fun with you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I just wanna have some fun ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "with you",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "       Am                          F",
-      "lyrics": "Got my mind on your body, and your body on my mind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Got my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "mind on your body, and your ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "body on my mind",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      C                                          G",
-      "lyrics": "Got a taste for the cherry I just need to take a bite"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Got a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "taste for the cherry I just need to take a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "bite",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                       F",
-      "lyrics": "   Don't tell your mother, kiss one another"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " Don't tell your mother"
+        },
+        {
+          "chord": "F",
+          "lyric": ", kiss one another",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                      G",
-      "lyrics": "   Die for each other, we're cool for the summer"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "  Die for each other, "
+        },
+        {
+          "chord": "G",
+          "lyric": "we're cool for the summer",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Am             F",
-      "lyrics": "Take me down into your paradise"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Take me down in",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "to your paradise",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                 G",
-      "lyrics": "Don't be scared cause I'm your body type"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Don't be scared ca",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "use I'm your body type",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am     F",
-      "lyrics": "Just something that we wanna try"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Just so",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "mething that we wanna try",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                  G",
-      "lyrics": "Cause you and I, we're cool for the summer"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Cause you and I, we",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "'re cool for the summer",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am  F",
-      "lyrics": "We're cool for the summer"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "We'r",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "e cool for the summer",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C       G",
-      "lyrics": "We're cool for the summer"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "We're co",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ol for the summer",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "Am      F                      C   G",
-      "lyrics": "Shhhh...don't tell your mother"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Shhhh...",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "don't tell your mother ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "   "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "       Am                          F              C   G",
-      "lyrics": "Got my mind on your body, and your body on my mind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Got my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "mind on your body, and your ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "body on my mind",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "   "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "       Am                          F                  C   F",
-      "lyrics": "Got a taste for the cherry I just need to take a bite"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Got a t",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "aste for the cherry I just n",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "eed to take a bite ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "   "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Am            F",
-      "lyrics": "Take me down into your paradise"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Take me down i",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "nto your paradise",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                G",
-      "lyrics": "Don't be scared cause I'm your body type"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Don't be scared c",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ause I'm your body type",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am     F",
-      "lyrics": "Just something that we wanna try"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Just so",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "mething that we wanna try",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                  G",
-      "lyrics": "Cause you and I, we're cool for the summer"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Cause you and I, we",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "'re cool for the summer",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Outro]"
     },
     {
-      "chord": "Am            F",
-      "lyrics": "(Take me down) We're cool for the summer"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "(Take me down)",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " We're cool for the summer",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                 G",
-      "lyrics": "(Don't be scared) Cause I'm your body type"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "(Don't be scared) ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "Cause I'm your body type",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am     F",
-      "lyrics": "Just something that we wanna try"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Just so",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "mething that we wanna try",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                  G",
-      "lyrics": "Cause you and I, we're cool for the summer"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Cause you and I, we",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "'re cool for the summer",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "We're cool for the summer"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "We're cool for the summer",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Cool For The Summer"

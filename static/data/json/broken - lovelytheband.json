@@ -15,325 +15,1095 @@
       "label": "Instrumental riff:"
     },
     {
-      "chord": "",
-      "lyrics": "A----0-2-5-2-2-0-------0-2-5-2--"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A----0-2-5-2-2-0-------0-2-5-2--",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "E--2-------------2-0-2----------"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "E--2-------------2-0-2----------",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "C-------------------------------"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "C-------------------------------",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "G-------------------------------"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "G-------------------------------",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Strum Pattern:"
     },
     {
-      "chord": "",
-      "lyrics": "Basic"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Basic",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "1+2+3+4+5+6+7+8+"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "1+2+3+4+5+6+7+8+",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "D DUD DU UDUD DU"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "D DUD DU UDUD DU",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Percussive"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Percussive",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "1+2+3+4+5+6+7+8+"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "1+2+3+4+5+6+7+8+",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "D DUSUBU U USUDU"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "D DUSUBU U USUDU",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "   Bm",
-      "lyrics": "I like that you\u2019re broken"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I l",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "ike that you’re broken",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "broken like me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "broken like me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                        A",
-      "lyrics": "Maybe that makes me a fool"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Maybe that makes me a foo",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "l",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Bm",
-      "lyrics": "I like that you\u2019re lonely"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I l",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "ike that you’re lonely",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "lonely like me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "lonely like me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                        A",
-      "lyrics": "I could be lonely with you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "I could be lonely with yo",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "u",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 1]"
     },
     {
-      "chord": "          Em                Bm",
-      "lyrics": "I met you late night, at a party"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I met you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "late night, at a p",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "arty",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 D                A",
-      "lyrics": "Some trust fund baby\u2019s Brooklyn loft"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Some trust fund b",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "aby’s Brooklyn lo",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ft",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Em                         Bm",
-      "lyrics": "By the bathroom, you said let\u2019s talk,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "By the b",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "athroom, you said let’s tal",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "k,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          D                  A",
-      "lyrics": "But my confidence is wearing off"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But my con",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "fidence is wearing ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "off",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-chorus]"
     },
     {
-      "chord": "                Em",
-      "lyrics": "These aren\u2019t my people"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "These aren’t my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "people",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Bm",
-      "lyrics": "These aren\u2019t my friends"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "These aren’t my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "friends",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               D                        A",
-      "lyrics": "She grabbed my face and that\u2019s when she said"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "She grabbed my ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "face and that’s when she ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "said",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "   Bm",
-      "lyrics": "I like that you\u2019re broken"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I l",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "ike that you’re broken",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "broken like me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "broken like me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                        A",
-      "lyrics": "Maybe that makes me a fool"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Maybe that makes me a foo",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "l",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Bm",
-      "lyrics": "I like that you\u2019re lonely"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I l",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "ike that you’re lonely",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "lonely like me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "lonely like me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                        A",
-      "lyrics": "I could be lonely with you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "I could be lonely with yo",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "u",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Instrumental]"
     },
     {
-      "chord": "Bm G D A Bm G D A",
-      "lyrics": "With Riff x2"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Wit",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "h ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "Ri",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ff",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": " x2",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "                   Em                Bm",
-      "lyrics": "There\u2019s something tragic, but almost pure"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "There’s something t",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ragic, but almost ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "pure",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               D                    A",
-      "lyrics": "Think I could love you, but I\u2019m not sure"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Think I could l",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ove you, but I’m not ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "sure",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Em                          Bm",
-      "lyrics": "There\u2019s something wholesome, there\u2019s something sweet"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "There’s something w",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "holesome, there’s something ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "sweet",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                D                    A",
-      "lyrics": "Tucked in your eyes that I\u2019d love to meet"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Tucked in your e",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "yes that I’d love to ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "meet",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-chorus]"
     },
     {
-      "chord": "                Em",
-      "lyrics": "These aren\u2019t my people"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "These aren’t my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "people",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Bm",
-      "lyrics": "These aren\u2019t my friends"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "These aren’t my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "friends",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               D                        A",
-      "lyrics": "She grabbed my face and that\u2019s when she said"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "She grabbed my ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "face and that’s when she ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "said",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "   Bm",
-      "lyrics": "I like that you\u2019re broken"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I l",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "ike that you’re broken",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "broken like me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "broken like me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                        A",
-      "lyrics": "Maybe that makes me a fool"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Maybe that makes me a foo",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "l",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Bm",
-      "lyrics": "I like that you\u2019re lonely"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I l",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "ike that you’re lonely",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "lonely like me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "lonely like me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                        A",
-      "lyrics": "I could be lonely with you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "I could be lonely with yo",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "u",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Instrumental]"
     },
     {
-      "chord": "Bm G D A Bm G D A",
-      "lyrics": "With Riff x2"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Wit",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "h ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "Ri",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ff",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": " x2",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "              F#m       Bm",
-      "lyrics": "Life is not a love song that we like"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Life is not a ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "love song ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "that we like",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 Em              A",
-      "lyrics": "We\u2019re all broken pieces floating by"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We’re all broken ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "pieces floating ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "by",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              F#m       Bm",
-      "lyrics": "Life is not a love song we can try"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Life is not a ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "love song ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "we can try",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  Em              A",
-      "lyrics": "To fix our broken pieces one at a time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To fix our broken ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "pieces one at a ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "time",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "   Bm",
-      "lyrics": "I like that you\u2019re broken"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I l",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "ike that you’re broken",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "broken like me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "broken like me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                        A",
-      "lyrics": "Maybe that makes me a fool"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Maybe that makes me a foo",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "l",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Bm",
-      "lyrics": "I like that you\u2019re lonely"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I l",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "ike that you’re lonely",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "lonely like me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "lonely like me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                        A",
-      "lyrics": "I could be lonely with you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "I could be lonely with yo",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "u",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "   Bm",
-      "lyrics": "I like that you\u2019re broken"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I l",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "ike that you’re broken",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "broken like me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "broken like me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                        A",
-      "lyrics": "Maybe that makes me a fool"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Maybe that makes me a foo",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "l",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Bm",
-      "lyrics": "I like that you\u2019re lonely"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I l",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "ike that you’re lonely",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "lonely like me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "lonely like me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                        A",
-      "lyrics": "I could be lonely with you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "I could be lonely with yo",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "u",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Outro]"
     },
     {
-      "chord": "Bm G D A Bm G D A",
-      "lyrics": "With Riff x2"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Wit",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "h ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "Ri",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ff",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": " x2",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "*End with rhythm guitar fill"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "*End with rhythm guitar fill",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Rhythm guitar fill:"
     },
     {
-      "chord": "",
-      "lyrics": "(Start on beat 3 of last bar,"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(Start on beat 3 of last bar,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "after A chord in first half of bar)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "after A chord in first half of bar)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Low G string"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Low G string",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "A---------"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A---------",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "E-2-0-----"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "E-2-0-----",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "C-----2---"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "C-----2---",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "G-------4-"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "G-------4-",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Broken"

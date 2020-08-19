@@ -10,152 +10,662 @@
   "id": "peace_and_love - steven_universe",
   "lines": [
     {
-      "chord": "         Dm7                G7",
-      "lyrics": "[Steven] Life and death and love and birth"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Steven] ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "Life and death and ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "love and birth",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Cmaj7                Am",
-      "lyrics": "And peace and war on the planet Earth"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "peace and war on the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "planet Earth",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm7         G7",
-      "lyrics": "Is there anything that's worth"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm7",
+          "lyric": "Is there any",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "thing that's worth",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Cmaj7                 Am",
-      "lyrics": "More than peace and love on the planet Earth"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "More than ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "peace and love on the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "planet Earth",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Dm7                      G7",
-      "lyrics": "Whoahh come on and sing it with me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Whoahh ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "come on and sing it with ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "[Peridot] Sing?"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Peridot] Sing?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Cmaj7                   Am",
-      "lyrics": "[Steven] The words relate to the key"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Steven] ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "The words relate to the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "key",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "[Peridot] Key?"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Peridot] Key?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Dm7               G7",
-      "lyrics": "[Steven] If it's a pattern if it's a pattern"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Steven] ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "If it's a pattern ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "if it's a pattern",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Cmaj7                  Am",
-      "lyrics": "Then just repeat after me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cmaj7",
+          "lyric": "Then just repeat after ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm7                G7",
-      "lyrics": "Life and death and love and birth"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm7",
+          "lyric": "Life and death and ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "love and birth",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Cmaj7              Am",
-      "lyrics": "[Peridot] Life and death and love and birth"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Peridot] ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "Life and death and ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "love and birth",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Dm7            G7",
-      "lyrics": "[Steven] Now using mi-fa-mi-mi-fa-mi-ti-la"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Steven] Now using ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "mi-fa-mi-mi-fa-",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "mi-ti-la",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Cmaj7                Am",
-      "lyrics": "[Both] And peace and war on the planet Earth"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Both] And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "peace and war on the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "planet Earth",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Dm7                G7",
-      "lyrics": "[Steven] Yes yes! That's it!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Steven] ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "Yes yes! That's it!",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "[Peridot] That's so easy"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Peridot] That's so easy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Cmaj7                  Am",
-      "lyrics": "[Steven] Yeah but that's what's fun about it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Steven] ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "Yeah but that's what's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "fun about it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                       Dm7                           G7",
-      "lyrics": "You should write something, you should write a song!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You should write someth",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "ing, you should write a song! ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "[Peridot] About what?"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Peridot] About what?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Cmaj7                   Am",
-      "lyrics": "[Steven] Whatever you're thinking"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Steve",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "n] Whatever you're think",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ing",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                Dm7 G7",
-      "lyrics": "[Peridot] I guess we're already here"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Peridot] I guess we're already ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "here",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                   Cmaj7 Am",
-      "lyrics": "I guess we already know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I guess we already ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "know  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                           Dm7 G7",
-      "lyrics": "We've all got something to fear"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We've all got something to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "fear",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                      Cmaj7  Am",
-      "lyrics": "We've all got nowhere to go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We've all got nowhere ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "to go  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                     Dm7 G7",
-      "lyrics": "I think you're all insane!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I think you're all in",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "sane",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 Cmaj7  Am",
-      "lyrics": "But I guess I am too"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But I guess I am ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "too    ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "              Dm7",
-      "lyrics": "Anybody would be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Anybody would ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "be",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             G7                  Cmaj7",
-      "lyrics": "If they were stuck on Earth with you!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "If they were ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "stuck on Earth with ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "you!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  Am",
-      "lyrics": "[Steven] Hehehehe yes!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Steven] Hehehehe ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "yes!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm7                G7",
-      "lyrics": "Life and death and love and birth and"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm7",
+          "lyric": "Life and death and ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "love and birth and",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Cmaj7              Am",
-      "lyrics": "[Amethyst] Life and death and love and birth and"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Amethyst] ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "Life and death and ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "love and birth and",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Dm7                G7",
-      "lyrics": "[Pearl] Life and death and love and birth and"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Pearl] ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "Life and death and ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "love and birth and",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Cmaj7                Am",
-      "lyrics": "Peace and war on the planet Earth"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cmaj7",
+          "lyric": "Peace and war on the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "planet Earth",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Dm7         G7",
-      "lyrics": "[Garnet] Is there anything that's worth more"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Garnet] ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "Is there any",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "thing that's worth more",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Cmaj7       Am",
-      "lyrics": "[Steven] Is there anything that's worth more"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Steven] ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "Is there any",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "thing that's worth more",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Dm7         G7",
-      "lyrics": "[Peridot] Is there anything that's worth more"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Peridot] ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "Is there any",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "thing that's worth more",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Cmaj7                 Am",
-      "lyrics": "Than peace and love on the planet Earth"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Than ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "peace and love on the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "planet Earth",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Peace and Love"

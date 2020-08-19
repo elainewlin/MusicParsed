@@ -21,224 +21,908 @@
       "label": "[Intro x2]"
     },
     {
-      "chord": "Am G F E",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "               Am",
-      "lyrics": "Is your secret safe tonight?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Is your secret ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "safe tonight?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           G",
-      "lyrics": "And are we out of sight?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And are we ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "out of sight?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            F                   E",
-      "lyrics": "Or will our world come tumbling down?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Or will our ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "world come tumbling ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "down?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Am",
-      "lyrics": "Will they find our hiding place?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Will they find our ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "hiding place?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            G",
-      "lyrics": "Is this our last embrace?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Is this our ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "last embrace?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            F",
-      "lyrics": "Or will the walls start caving in?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Or will the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "walls start caving in?",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "F                                                         Am",
-      "lyrics": "(It could be wrong, could be wrong) But it should've been right"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "(It could be wrong, could be wrong) But it should've been ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "right",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                                   G",
-      "lyrics": "(It could be wrong, could be wrong) Let our hearts ignite"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(It could be wrong, could be wrong) Let our hearts ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ignite",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                                     F",
-      "lyrics": "(It could be wrong, could be wrong) Are we digging a hole?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(It could be wrong, could be wrong) Are we digging a ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "hole?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "(It could be wrong, could be wrong) This is outta control"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(It could be wrong, could be wrong) This is outta control",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                                   Am",
-      "lyrics": "(It could be wrong, could be wrong) It could never last"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(It could be wrong, could be wrong) It could never ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "last",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                                     G",
-      "lyrics": "(It could be wrong, could be wrong) Left to raise it fast"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(It could be wrong, could be wrong) Left to raise it ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "fast",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                                         F",
-      "lyrics": "(It could be wrong, could be wrong) But it could've been right"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(It could be wrong, could be wrong) But it could've been ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "right",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "(It could be wrong, could be)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(It could be wrong, could be)",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "              C",
-      "lyrics": "Love is our resistance"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Love is our re",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "sistance",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                                   G",
-      "lyrics": "They keep us apart and they won't stop breaking us down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "They keep us apart and they won't stop breaking us ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "down",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am                     Am/G      F       E",
-      "lyrics": "And hold me, our lips must always be sealed"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "hold me, our lips must ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am/G",
+          "lyric": "always be ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "sealed  ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am G F E",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "               Am",
-      "lyrics": "If we live our life in fear"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "If we live our ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "life in fear",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            G",
-      "lyrics": "I'll wait a thousand years"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll wait a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "thousand years",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        F              E",
-      "lyrics": "Just to see you smile again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Just to ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "see you smile a",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "gain",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                       Am",
-      "lyrics": "Quell your prayers for love and peace"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Quell your prayers for ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "love and peace",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                G",
-      "lyrics": "You'll wake the thought police"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You'll wake the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "thought police",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       F",
-      "lyrics": "We can hide the truth inside"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We can ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "hide the truth inside",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "F                                                         Am",
-      "lyrics": "(It could be wrong, could be wrong) But it should've been right"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "(It could be wrong, could be wrong) But it should've been ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "right",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                                   G",
-      "lyrics": "(It could be wrong, could be wrong) Let our hearts ignite"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(It could be wrong, could be wrong) Let our hearts ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ignite",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                                     F",
-      "lyrics": "(It could be wrong, could be wrong) Are we digging a hole?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(It could be wrong, could be wrong) Are we digging a ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "hole?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "(It could be wrong, could be wrong) This is outta control"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(It could be wrong, could be wrong) This is outta control",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                                   Am",
-      "lyrics": "(It could be wrong, could be wrong) It could never last"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(It could be wrong, could be wrong) It could never ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "last",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                                     G",
-      "lyrics": "(It could be wrong, could be wrong) Left to raise it fast"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(It could be wrong, could be wrong) Left to raise it ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "fast",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                                         F",
-      "lyrics": "(It could be wrong, could be wrong) But it could've been right"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(It could be wrong, could be wrong) But it could've been ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "right",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "(It could be wrong, could be)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(It could be wrong, could be)",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "              C",
-      "lyrics": "Love is our resistance"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Love is our re",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "sistance",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                                   G",
-      "lyrics": "They keep us apart and they won't stop breaking us down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "They keep us apart and they won't stop breaking us ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "down",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am                     Am/G      F       E",
-      "lyrics": "And hold me, our lips must always be sealed"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "hold me, our lips must ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am/G",
+          "lyric": "always be ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "sealed  ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am G F E",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "               Am",
-      "lyrics": "If we live our life in fear"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "If we live our ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "life in fear",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            G",
-      "lyrics": "I'll wait a thousand years"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll wait a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "thousand years",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        F              E",
-      "lyrics": "Just to see you smile again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Just to ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "see you smile a",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "gain",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                       Am",
-      "lyrics": "Quell your prayers for love and peace"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Quell your prayers for ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "love and peace",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                G",
-      "lyrics": "You'll wake the thought police"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You'll wake the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "thought police",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       F",
-      "lyrics": "We can hide the truth inside"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We can ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "hide the truth inside",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              C",
-      "lyrics": "The night has reached its end"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The night has ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "reached its end",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         G",
-      "lyrics": "We can't pretend"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We can't ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "pretend",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        F Am G",
-      "lyrics": "We must run"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We must ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ru",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "n  ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "        F Am G",
-      "lyrics": "We must run"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We must ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ru",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "n  ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "             F Am G E F",
-      "lyrics": "It's time to run"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's time to ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ru",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "n  ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "E",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "A           Dm",
-      "lyrics": "Take us away from here"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Take us away",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": " from here",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   A              Dm         C",
-      "lyrics": "Protect us from further harm"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Pro",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "tect us from fu",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "rther harm ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "  G  A5    B5 C5 D5 F5",
-      "lyrics": "Resistance!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Re",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "sis",
+          "overLyric": true
+        },
+        {
+          "chord": "A5",
+          "lyric": "tance!",
+          "overLyric": true
+        },
+        {
+          "chord": "B5",
+          "lyric": " "
+        },
+        {
+          "chord": "C5",
+          "lyric": " "
+        },
+        {
+          "chord": "D5",
+          "lyric": " "
+        },
+        {
+          "chord": "F5",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am G F E",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "Resistance"

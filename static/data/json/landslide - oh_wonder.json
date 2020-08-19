@@ -13,265 +13,1210 @@
       "label": "[Intro x2]"
     },
     {
-      "chord": "Dm C Bb F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "Bb",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 1]"
     },
     {
-      "chord": "   Dm              C",
-      "lyrics": "I know it hurts sometimes but"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I k",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "now it hurts som",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "etimes but",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  Bb             F",
-      "lyrics": "You'll get over it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Yo",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "u'll get over i",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "t",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Dm              C",
-      "lyrics": "You'll find another life to live"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You'll find a",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "nother life to l",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ive",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Bb              F",
-      "lyrics": "I know you'll get over it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I know y",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ou'll get over i",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "t",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Dm                  C",
-      "lyrics": "I know you're sad and tired"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I k",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "now you're sad and t",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ired",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Bb               F",
-      "lyrics": "You've got nothing left to give"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You've got n",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "othing left to gi",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ve",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 Dm              C",
-      "lyrics": "But you'll find another life to live"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But you'll find a",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "nother life to l",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ive",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Bb                   F",
-      "lyrics": "I know you'll get over it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I k",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "now you'll get over i",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "t",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "                Dm            C",
-      "lyrics": "So when you're caught in a landslide"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So when you're c",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "aught in a lan",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "dslide",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           F                     Bb",
-      "lyrics": "I'll be there for you, I'll be there for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll be the",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "re for you, I'll be th",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ere for you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Dm              C",
-      "lyrics": "And in the rain, give you sunshine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And in the r",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ain, give you su",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "nshine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           F                     Bb",
-      "lyrics": "I'll be there for you, I'll be there for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll be the",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "re for you, I'll be th",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ere for you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Dm                C",
-      "lyrics": "And every time that you're lonely"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And every t",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ime that you're lo",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "nely",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        F                       Bb",
-      "lyrics": "Every time that you're feeling low, you should know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Every ti",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "me that you're feeling l",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ow, you should know",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Dm                      C",
-      "lyrics": "I'll be there for you, I'll be there for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll be th",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ere for you, I'll be the",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "re for you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           F                Bb",
-      "lyrics": "I'll be there for you, you know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll be the",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "re for you, you k",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "now",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Interlude x2]"
     },
     {
-      "chord": "Dm C Bb F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "Bb",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "   Dm                 C",
-      "lyrics": "I know your hope is heavy but"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I k",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "now your hope is he",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "avy but",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  Bb              F",
-      "lyrics": "You'll get over it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Yo",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "u'll get over it",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "              Dm             C",
-      "lyrics": "You'll find another life to live"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You'll find an",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "other life to l",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ive",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Bb             F",
-      "lyrics": "I know you'll get over it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I know yo",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "u'll get over i",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "t",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Dm                  C",
-      "lyrics": "And I know you feel like everything"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I k",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "now you feel like ev",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "erything",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Bb             F",
-      "lyrics": "Is falling to the wind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Is fa",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "lling to the wi",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "nd",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              Dm              C",
-      "lyrics": "But don't you let the thunder in"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But don't you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "let the thunder ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "in",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              Bb               F",
-      "lyrics": "Cause I know you'll get over it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause I know y",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ou'll get over it",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "                Dm            C",
-      "lyrics": "So when you're caught in a landslide"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So when you're c",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "aught in a lan",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "dslide",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           F                     Bb",
-      "lyrics": "I'll be there for you, I'll be there for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll be the",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "re for you, I'll be th",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ere for you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Dm              C",
-      "lyrics": "And in the rain, give you sunshine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And in the r",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ain, give you su",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "nshine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           F                     Bb",
-      "lyrics": "I'll be there for you, I'll be there for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll be the",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "re for you, I'll be th",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ere for you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Dm                C",
-      "lyrics": "And every time that you're lonely"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And every t",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ime that you're lo",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "nely",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        F                       Bb",
-      "lyrics": "Every time that you're feeling low, you should know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Every ti",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "me that you're feeling l",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ow, you should know",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Dm                      C",
-      "lyrics": "I'll be there for you, I'll be there for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll be th",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ere for you, I'll be the",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "re for you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           F                Bb",
-      "lyrics": "I'll be there for you, you know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll be the",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "re for you, you k",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "now",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "Bb             F",
-      "lyrics": "You fell down by the wayside"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "You fell down b",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "y the wayside",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " C               Dm",
-      "lyrics": "Love locked in an overflow"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "L",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ove locked in an",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": " overflow",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb                   F",
-      "lyrics": "And you threw stones at the starlight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "And you threw stones ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "at the starlight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " C                     Dm",
-      "lyrics": "Cause I stood on the sidelines telling you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "C",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ause I stood on the si",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "delines telling you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb                      F",
-      "lyrics": "That I get that you're lonely"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "That I get that you're l",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "onely",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  C                     Dm",
-      "lyrics": "And I see that you feel alone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "An",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "d I see that you feel ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "alone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Bb               F",
-      "lyrics": "But I heard in a heartbeat"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": " I heard in a hea",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "rtbeat",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           C                     Bb",
-      "lyrics": "I'll be there here for you, you know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll be the",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "re here for you, you k",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "now",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "                Dm            C",
-      "lyrics": "So when you're caught in a landslide"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So when you're c",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "aught in a lan",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "dslide",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           F                     Bb",
-      "lyrics": "I'll be there for you, I'll be there for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll be the",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "re for you, I'll be th",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ere for you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Dm              C",
-      "lyrics": "And in the rain, give you sunshine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And in the r",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ain, give you su",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "nshine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           F                     Bb",
-      "lyrics": "I'll be there for you, I'll be there for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll be the",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "re for you, I'll be th",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ere for you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Dm                C",
-      "lyrics": "And every time that you're lonely"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And every t",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ime that you're lo",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "nely",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        F                       Bb",
-      "lyrics": "Every time that you're feeling low, you should know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Every ti",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "me that you're feeling l",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ow, you should know",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Dm                      C",
-      "lyrics": "I'll be there for you, I'll be there for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll be th",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ere for you, I'll be the",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "re for you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           F                Bb",
-      "lyrics": "I'll be there for you, you know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll be the",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "re for you, you k",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Dm                    C",
-      "lyrics": "I'll be there for you, I'll be there for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll be th",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ere for you, I'll be t",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "here for you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          F                 Bb",
-      "lyrics": "I'll be there for you, you know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll be th",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ere for you, you k",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Dm                    C",
-      "lyrics": "I'll be there for you, I'll be there for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll be th",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ere for you, I'll be t",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "here for you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          F                 Bb",
-      "lyrics": "I'll be there for you, you know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll be th",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ere for you, you k",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Dm                    C",
-      "lyrics": "I'll be there for you, I'll be there for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll be th",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ere for you, I'll be t",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "here for you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          F                 Bb",
-      "lyrics": "I'll be there for you, you know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll be th",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ere for you, you k",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Dm                C",
-      "lyrics": "And every time that you're lonely"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And every ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "time that you're l",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "onely",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        F                       Bb",
-      "lyrics": "Every time that you're feeling low, you should know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Every ti",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "me that you're feeling l",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ow, you should know",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Dm                      C",
-      "lyrics": "I'll be there for you, I'll be there for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll be th",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ere for you, I'll be the",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "re for you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           F                Bb",
-      "lyrics": "I'll be there for you, you know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll be the",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "re for you, you k",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "now",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Landslide"

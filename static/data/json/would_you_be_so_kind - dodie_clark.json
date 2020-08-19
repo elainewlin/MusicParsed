@@ -16,262 +16,857 @@
       "label": "Verse:"
     },
     {
-      "chord": "G",
-      "lyrics": "I have a question"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I have a question",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Cadd9",
-      "lyrics": "it might seem strange"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cadd9",
+          "lyric": "it might seem strange",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em",
-      "lyrics": "how are your lungs"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "how are your lungs",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D",
-      "lyrics": "are they in pain"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "are they in pain",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      G",
-      "lyrics": "cause mine are aching"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "cause ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "mine are aching",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Cadd9",
-      "lyrics": "think I know why"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cadd9",
+          "lyric": "think I know why",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em",
-      "lyrics": "I kinda like it though"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "I kinda like it though",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D",
-      "lyrics": "you wanna try?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "you wanna try?",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Chorus:"
     },
     {
-      "chord": "G",
-      "lyrics": "oh would you be so kind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "oh would you be so kind",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                        Cadd9",
-      "lyrics": "as to fall in love with me, you see, I\u2019m trying"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "as to fall in love with ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cadd9",
+          "lyric": "me, you see, I’m trying",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     Am",
-      "lyrics": "I know you know that I like you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I know you know that ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "I like you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Bm",
-      "lyrics": "but that\u2019s not enough"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "but ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "that’s not enough",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   C",
-      "lyrics": "so if you will"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "so ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "if you will",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D",
-      "lyrics": "please fall in love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "please fall in love",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  G",
-      "lyrics": "I think it\u2019s only fair"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "think it’s only fair",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                      Cadd9",
-      "lyrics": "there\u2019s gotta be some butterflies somewhere wanna share"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "there’s gotta be some ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cadd9",
+          "lyric": "butterflies somewhere wanna share",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Am",
-      "lyrics": "cause I like you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "cause ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "I like you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Bm",
-      "lyrics": "but that\u2019s not enough"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "but ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "that’s not enough",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "so if you will"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "so if you will",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       D                 G",
-      "lyrics": "please fall in love with me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "please ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "fall in love with ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Interlude:"
     },
     {
-      "chord": "G Cadd9 G Cadd9",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "Cadd9",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "Cadd9",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "Verse:"
     },
     {
-      "chord": "G",
-      "lyrics": "Let's write a story"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Let's write a story",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Cadd9",
-      "lyrics": "be in my book"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cadd9",
+          "lyric": "be in my book",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em",
-      "lyrics": "you got to join me on my page"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "you got to join me on my page",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D",
-      "lyrics": "at least take a look"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "at least take a look",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "oh, where are your manners?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "oh, where are your manners?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Cadd9",
-      "lyrics": "you need some time?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cadd9",
+          "lyric": "you need some time?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em",
-      "lyrics": "let\u2019s swap chests today"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "let’s swap chests today",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D",
-      "lyrics": "that might help you decide"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "that might help you decide",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Chorus:"
     },
     {
-      "chord": "G",
-      "lyrics": "oh would you be so kind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "oh would you be so kind",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                        Cadd9",
-      "lyrics": "as to fall in love with me,you see, I\u2019m trying"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "as to fall in love with ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cadd9",
+          "lyric": "me,you see, I’m trying",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     Am",
-      "lyrics": "I know you know that I like you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I know you know that ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "I like you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Bm",
-      "lyrics": "but that\u2019s not enough"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "but ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "that’s not enough",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   C",
-      "lyrics": "so if you will"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "so ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "if you will",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D",
-      "lyrics": "please fall in love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "please fall in love",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  G",
-      "lyrics": "I think it\u2019s only fair"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "think it’s only fair",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                      Cadd9",
-      "lyrics": "there\u2019s gotta be some butterflies somewhere wanna share"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "there’s gotta be some ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cadd9",
+          "lyric": "butterflies somewhere wanna share",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Am",
-      "lyrics": "cause I like you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "cause ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "I like you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Bm",
-      "lyrics": "but that\u2019s not enough"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "but ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "that’s not enough",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "so if you will"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "so if you will",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       D",
-      "lyrics": "please fall in love with"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "please ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "fall in love with",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Bridge:"
     },
     {
-      "chord": "C D Em D",
-      "lyrics": "Me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Me",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "Em",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    C D Em D",
-      "lyrics": "Ah ooooh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Ah o",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "oo",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "oh",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "   C       D",
-      "lyrics": "Oh do me a favour"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "do me a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "favour",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                 D",
-      "lyrics": "Can your heart rate rise a little"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Can your heart rate",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " rise a little",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C       D",
-      "lyrics": "Oh do me a favour"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh d",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "o me a f",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "avour",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                 D",
-      "lyrics": "Can your heart rate rise a little"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Can your heart rate",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " rise a little",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C D Em D",
-      "lyrics": "Ooooh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Oo",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "oo",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "h  ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "Chorus:"
     },
     {
-      "chord": "G",
-      "lyrics": "oh would you be so kind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "oh would you be so kind",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                        Cadd9",
-      "lyrics": "as to fall in love with me,you see, I\u2019m trying"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "as to fall in love with ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cadd9",
+          "lyric": "me,you see, I’m trying",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     Am",
-      "lyrics": "I know you know that I like you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I know you know that ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "I like you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Bm",
-      "lyrics": "but that\u2019s not enough"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "but ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "that’s not enough",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   C",
-      "lyrics": "so if you will"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "so ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "if you will",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D",
-      "lyrics": "please fall in love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "please fall in love",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  G",
-      "lyrics": "I think it\u2019s only fair"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "think it’s only fair",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                      Cadd9",
-      "lyrics": "there\u2019s gotta be some butterflies somewhere wanna share"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "there’s gotta be some ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cadd9",
+          "lyric": "butterflies somewhere wanna share",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Am",
-      "lyrics": "cause I like you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "cause ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "I like you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Bm",
-      "lyrics": "but that\u2019s not enough"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "but ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "that’s not enough",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "so if you will"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "so if you will",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       D                 G",
-      "lyrics": "please fall in love with me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "please ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "fall in love with ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Would You Be So Kind"

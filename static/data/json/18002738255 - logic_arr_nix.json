@@ -1,12 +1,9 @@
 {
   "allChords": [
-    "Dm",
-    "Bbmaj7",
-    "Csus4",
-    "Fmaj7sus2",
-    "Fadd9",
-    "Fadd9_1",
-    "C7sus4_1"
+    "G",
+    "A",
+    "Bm",
+    "D"
   ],
   "artist": "Logic arr. Nix",
   "fullName": "1-800-273-8255 - Logic arr. Nix",
@@ -16,389 +13,1194 @@
       "label": "[Intro x2]"
     },
     {
-      "chord": "",
-      "lyrics": "Pick Bb C Dm F"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "A",
+          "lyric": " "
+        },
+        {
+          "chord": "Bm",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus x2]"
     },
     {
-      "chord": "",
-      "lyrics": "Pick Bb C Dm F"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "be",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "en ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "on the low",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I been on the low"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I been taking my time",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I been taking my time"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I feel like I'm out of my mind",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Pick Bb C Dm F"
-    },
-    {
-      "chord": "",
-      "lyrics": "I feel like I'm out of my mind"
-    },
-    {
-      "chord": "",
-      "lyrics": "It feel like my life ain't mine"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It feel like my life ain't mine",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "",
-      "lyrics": "DUx DUx DUDU"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "DUx DUx DUDU",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              Dm",
-      "lyrics": "I don't wanna be alive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't wanna ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "be alive",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bbmaj7             Csus4",
-      "lyrics": "I don't wanna be alive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I don't wanna be al",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ive",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                       Fmaj7sus2",
-      "lyrics": "I just wanna die today"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I just wanna die today ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                 Dm",
-      "lyrics": "I just wanna die"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I just wanna die ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                       Bbmaj7",
-      "lyrics": "I don't wanna be alive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't wanna be alive ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                   Csus4",
-      "lyrics": "I don't wanna be alive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't wanna be al",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ive",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 Fmaj7sus2",
-      "lyrics": "I just wanna die"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I just wanna die ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "And let me tell you why"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And let me tell you why",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 1]"
     },
     {
-      "chord": "",
-      "lyrics": "DDD UDU DD"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "DDD UDU DD",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm",
-      "lyrics": "All this other shit I'm talkin' 'bout they think they know it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "All this other shit I'm talkin' 'bout they think they know it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Bbmaj7",
-      "lyrics": "I've been praying for somebody to save me, no one's heroic"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've been ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "praying for somebody to save me, no one's heroic",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Fadd9",
-      "lyrics": "And my life don't even matter"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And my ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "life don't even matter",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                               Csus4",
-      "lyrics": "I know it I know it I know I'm hurting deep down but can't show it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I know it I know it I know I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "hurting deep down but can't show it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              Dm",
-      "lyrics": "I never had a place to call my own"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I never had a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "place to call my own",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              Bbmaj7",
-      "lyrics": "I never had a home"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I never had a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "home",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Ain't nobody callin' my phone"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Ain't nobody callin' my phone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Fadd9",
-      "lyrics": "Where you been? Where you at? What's on your mind?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Where you ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "been? Where you at? What's on your mind?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               Csus4",
-      "lyrics": "They say every life is precious but nobody care about mine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "They say every ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "life is precious but nobody care about mine",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "",
-      "lyrics": "DUD DUD DUDU"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "DUD DUD DUDU",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm",
-      "lyrics": "I been on the low"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "I been on the low",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 Bbmaj7",
-      "lyrics": "I been taking my time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I been taking my ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "time",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                          Fadd9",
-      "lyrics": "I feel like I'm out of my mind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I feel like I'm out of my ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "mind",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                           Csus4",
-      "lyrics": "It feel like my life ain't mine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It feel like my life ain't ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "mine",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "",
-      "lyrics": "DUx DUx DUDU"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "DUx DUx DUDU",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              Dm",
-      "lyrics": "I want you to be alive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I want you to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "be alive",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bbmaj7             Csus4",
-      "lyrics": "I want you to be alive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I want you to be al",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ive",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                          Fmaj7sus2",
-      "lyrics": "You don't gotta die today"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You don't gotta die today ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                    Dm",
-      "lyrics": "You don't gotta die"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You don't gotta die ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                       Bbmaj7",
-      "lyrics": "I want you to be alive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I want you to be alive ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                   Csus4",
-      "lyrics": "I want you to be alive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I want you to be al",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ive",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    Fmaj7sus2",
-      "lyrics": "You don't gotta die"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You don't gotta die ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Now lemme tell you why"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Now lemme tell you why",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "",
-      "lyrics": "DUD DUD DUDU"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "DUD DUD DUDU",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fadd9_1",
-      "lyrics": "It's the very first breath"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "It's the very first breath",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                      C7sus4_1",
-      "lyrics": "When your head's been drowning underwater"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When your head's been ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "drowning underwater",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Fadd9_1",
-      "lyrics": "And it's the lightness in the air"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "it's the lightness in the air",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "When you're there"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When you're there",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C7sus4_1",
-      "lyrics": "Chest to chest with a lover"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Chest to chest with a lover",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     C7sus4_1",
-      "lyrics": "It's holding on, though the road's long"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "holding on, though the road's long",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Fadd9_1",
-      "lyrics": "And seeing light in the darkest things"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And seeing ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "light in the darkest things",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             C7sus4_1",
-      "lyrics": "And when you stare at your reflection"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And when you ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "stare at your reflection",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Fadd9_1",
-      "lyrics": "Finally knowing who it is"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Finally knowing ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "who it is",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I know that you'll thank God you did"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I know that you'll thank God you did",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 3]"
     },
     {
-      "chord": "",
-      "lyrics": "DUD DUD DUDU"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "DUD DUD DUDU",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm                                                    Bbmaj7",
-      "lyrics": "I know where you been, where you are, where you goin'"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "I know where you been, where you are, where you goin' ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                              Csus4",
-      "lyrics": "I know you're the reason I believe in life"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I know you're the reason I bel",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ieve in life",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                       Fmaj7sus2",
-      "lyrics": "What's the day without a little night?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "What's the day without a little night? ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                                   Dm",
-      "lyrics": "I'm just tryna shed a little light"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm just tryna shed a little light ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "               Bbmaj7",
-      "lyrics": "It can be hard"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It can be hard ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                  Fadd9",
-      "lyrics": "It can be so hard"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It can be so hard ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "But you gotta live right now"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But you gotta live right now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Csus4",
-      "lyrics": "You got everything to give right now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "got everything to give right now",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "",
-      "lyrics": "Single strums"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Single strums",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm",
-      "lyrics": "I been on the low"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "I been on the low",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 Bbmaj7",
-      "lyrics": "I been taking my time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I been taking my ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "time",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                          Fadd9",
-      "lyrics": "I feel like I'm out of my mind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I feel like I'm out of my ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "mind",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                           Csus4",
-      "lyrics": "It feel like my life ain't mine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It feel like my life ain't ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "mine",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "",
-      "lyrics": "DUx DUx DUDU"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "DUx DUx DUDU",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Dm",
-      "lyrics": "I finally wanna be alive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I finally wanna ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "be alive",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bbmaj7               Csus4",
-      "lyrics": "I finally wanna be alive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I finally wanna be al",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ive",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                        Fmaj7sus2",
-      "lyrics": "I don't wanna die today"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't wanna die today ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                  Dm",
-      "lyrics": "I don't wanna die"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't wanna die ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                       Bbmaj7",
-      "lyrics": "Finally wanna be alive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Finally wanna be alive ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                     Csus4",
-      "lyrics": "I finally wanna be alive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I finally wanna be al",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ive",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  Fmaj7sus2",
-      "lyrics": "I don't wanna die"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't wanna die ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Outro]"
     },
     {
-      "chord": "",
-      "lyrics": "Pick Bb C Dm F"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Pa",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "in",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": " do",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "n't hurt the same, I know",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Pain don't hurt the same, I know"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The lane I travel feels alone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "The lane I travel feels alone"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But I'm moving 'til my legs give out",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "But I'm moving 'til my legs give out"
-    },
-    {
-      "chord": "",
-      "lyrics": "And I see my tears melt in the snow"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I see my tears melt in the snow",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "",
-      "lyrics": "DUx DUx DUDU"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "DUx DUx DUDU",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  Dm",
-      "lyrics": "But I don't wanna cry"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But I don't wanna ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "cry",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              Bbmaj7",
-      "lyrics": "I don't wanna cry anymore"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't wanna ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "cry anymore",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               Fadd9",
-      "lyrics": "I wanna feel alive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I wanna feel al",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ive",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Csus4",
-      "lyrics": "I don't even wanna die anymore"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't even wanna ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "die anymore",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 Dm",
-      "lyrics": "Oh I don't wanna"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh I don't wanna ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I don't wanna"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't wanna",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              Bbmaj7",
-      "lyrics": "I don't wanna"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't wanna ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                          Fadd9 Csus4",
-      "lyrics": "I don't even wanna die anymore"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't even wanna die any",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "more  ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Pick Bb C Dm F"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "A",
+          "lyric": " "
+        },
+        {
+          "chord": "Bm",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "1-800-273-8255"

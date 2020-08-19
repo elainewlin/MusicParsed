@@ -16,281 +16,994 @@
       "label": "[Verse]"
     },
     {
-      "chord": "C",
-      "lyrics": "Give me a second I"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Give me a second I",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I need to get my story straight"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I need to get my story straight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Am",
-      "lyrics": "My friends are in the bathroom"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "My fr",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "iends are in the bathroom",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Getting higher than the empire state"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Getting higher than the empire state",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Dm",
-      "lyrics": "My lover she's waiting for me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "My lo",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ver she's waiting for me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Just across the bar"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Just across the bar",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              F",
-      "lyrics": "My seats been taken by some sunglasses"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "My seats been ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "taken by some sunglasses",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Asking 'bout a scar"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Asking 'bout a scar",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C",
-      "lyrics": "And I know I gave it to you months ago"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I know I gave it to you months ago",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": " I know you're trying to forget"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " I know you're trying to forget",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Dm",
-      "lyrics": "But between the drinks and subtle things"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But bet",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ween the drinks and subtle things",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "The holes in my apologies"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The holes in my apologies",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        F                          G",
-      "lyrics": "You know I'm trying hard to take it back"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You know",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " I'm trying hard to take it",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " back",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "              Dm      Em",
-      "lyrics": "So if by the time the bar closes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So if by the t",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ime the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "bar closes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Am        G       F",
-      "lyrics": "And you feel like falling down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And you f",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "eel like f",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "alling d",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "own",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       F       G",
-      "lyrics": "I'll carry you home"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll ca",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "rry you ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "home",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "  C",
-      "lyrics": "Tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "night",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Am",
-      "lyrics": "We are young"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We are ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "young",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                          F",
-      "lyrics": "So let's set the world on fire"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So let's set the world on ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "fire",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "We can burn brighter"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We can burn brighter",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Gsus4  G",
-      "lyrics": "Than the sun"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Than the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": "sun    ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "  C",
-      "lyrics": "Tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "night",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Am",
-      "lyrics": "We are young"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We are ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "young",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                          F",
-      "lyrics": "So let's set the world on fire"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So let's set the world on ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "fire",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "We can burn brighter"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We can burn brighter",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Gsus4  G",
-      "lyrics": "Than the sun"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Than the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": "sun    ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "       C",
-      "lyrics": "Now I know that I'm not"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Now I k",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "now that I'm not",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "All that you got"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "All that you got",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  Am",
-      "lyrics": "I guess that I"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "guess that I",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                                     Dm",
-      "lyrics": "I just thought maybe we could find a ways to fall apart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I just thought maybe we could find a ways to fall apa",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "rt",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "But are friends in back"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But are friends in back",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "So let's raise a cup"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So let's raise a cup",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                         G",
-      "lyrics": " Cause I found someone to carry me home"
-    },
-    {
-      "label": "[Chorus]"
-    },
-    {
-      "chord": "  C",
-      "lyrics": "Tonight"
-    },
-    {
-      "chord": "       Am",
-      "lyrics": "We are young"
-    },
-    {
-      "chord": "                          F",
-      "lyrics": "So let's set the world on fire"
-    },
-    {
-      "chord": "",
-      "lyrics": "We can burn brighter"
-    },
-    {
-      "chord": "         Gsus4  G",
-      "lyrics": "Than the sun"
-    },
-    {
-      "chord": "  C",
-      "lyrics": "Tonight"
-    },
-    {
-      "chord": "       Am",
-      "lyrics": "We are young"
-    },
-    {
-      "chord": "                          F",
-      "lyrics": "So let's set the world on fire"
-    },
-    {
-      "chord": "",
-      "lyrics": "We can burn brighter"
-    },
-    {
-      "chord": "         Gsus4  G",
-      "lyrics": "Than the sun"
-    },
-    {
-      "label": "[Bridge]"
-    },
-    {
-      "chord": " C                F",
-      "lyrics": "Carry me home tonight"
-    },
-    {
-      "chord": "     C/E              G",
-      "lyrics": "Just carry me home tonight"
-    },
-    {
-      "chord": "C               F",
-      "lyrics": "Carry me home tonight"
-    },
-    {
-      "chord": "      C               G",
-      "lyrics": "Just carry me home tonight"
-    },
-    {
-      "chord": "C                       F",
-      "lyrics": "The world is on my side  I have no reason to run"
-    },
-    {
-      "chord": "C/E                        G",
-      "lyrics": "So will someone come and carry me home tonight"
-    },
-    {
-      "chord": "C                        F",
-      "lyrics": "The angels never arrived  but I can hear the choir"
-    },
-    {
-      "chord": "C/E                       G",
-      "lyrics": "so will someone come and carry me home"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " Cause I found someone to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "carry me home",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "  C",
-      "lyrics": "Tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "night",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Am",
-      "lyrics": "We are young"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We are ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "young",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                          F",
-      "lyrics": "So let's set the world on fire"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So let's set the world on ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "fire",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "We can burn brighter"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We can burn brighter",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Gsus4  G",
-      "lyrics": "Than the sun"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Than the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": "sun    ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "  C",
-      "lyrics": "Tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "night",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Am",
-      "lyrics": "We are young"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We are ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "young",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                          F",
-      "lyrics": "So let's set the world on fire"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So let's set the world on ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "fire",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "We can burn brighter"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We can burn brighter",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Gsus4  G",
-      "lyrics": "Than the sun"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Than the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": "sun    ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "              Dm      Em",
-      "lyrics": "So if by the time the bar closes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "C",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "arry me home toni",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ght",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Am        G       F",
-      "lyrics": "And you feel like falling down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Just ",
+          "overLyric": true
+        },
+        {
+          "chord": "C/E",
+          "lyric": "carry me home ton",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       F       G       C",
-      "lyrics": "I'll carry you home tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Carry me home to",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "night",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Just c",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "arry me home ton",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ight",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "The world is on my side ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " I have no reason to run",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C/E",
+          "lyric": "So will someone come and ca",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "rry me home tonight",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "The angels never arrived ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " but I can hear the choir",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C/E",
+          "lyric": "so will someone come and c",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "arry me home",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "[Chorus]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "night",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We are ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "young",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So let's set the world on ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "fire",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We can burn brighter",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Than the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": "sun    ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "night",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We are ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "young",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So let's set the world on ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "fire",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We can burn brighter",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Than the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": "sun    ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "label": "[Bridge]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So if by the t",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ime the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "bar closes",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And you f",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "eel like f",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "alling d",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "own",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll ca",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "rry you ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "home ton",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ight",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "We Are Young"

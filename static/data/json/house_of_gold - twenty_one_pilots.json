@@ -16,187 +16,723 @@
       "label": "[Intro]"
     },
     {
-      "chord": "C",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus 1]"
     },
     {
-      "chord": "C",
-      "lyrics": "She asked me, Son, when I grow old,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "She asked me, Son, when I grow old,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "Will you buy me a house of gold?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Will you buy me a house of gold?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "And when your father turns to stone,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "And when your father turns to stone,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "Will you take care of me?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Will you take care of me?",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus 2]"
     },
     {
-      "chord": "    C                   F",
-      "lyrics": "She asked me, Son, when I grow old,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "She ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "asked me, Son, when ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "I grow old,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Am           G",
-      "lyrics": "Will you buy me a house of gold?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Will ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "you buy me a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "house of gold?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C                F",
-      "lyrics": "And when your father turns to stone,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "when your father ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "turns to stone,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     C        G       C",
-      "lyrics": "Will you take care of me?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Will ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "you take ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "care of ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "me?",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge 1]"
     },
     {
-      "chord": "F      A7",
-      "lyrics": "I will make you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I will ",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "make you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm      Bbm               F",
-      "lyrics": "Queen of everything you see"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Queen of",
+          "overLyric": true
+        },
+        {
+          "chord": "Bbm",
+          "lyric": " everything you se",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   C",
-      "lyrics": "I'll put you on the map"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll put you on the",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " map",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 F            C",
-      "lyrics": "I'll cure you of disease"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll cure you of ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "disease      ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 1]"
     },
     {
-      "chord": "",
-      "lyrics": "(Bass Drum comes in)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(Bass Drum comes in)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      C              F",
-      "lyrics": "Let's say we up and left this town"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Let's ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "say we up and l",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "eft this town",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Am               G",
-      "lyrics": "And turned our future upside-down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And t",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "urned our future ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "upside-down",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      C                 F",
-      "lyrics": "We'll make pretend that you and me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "make pretend that ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "you and me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      C    G     C",
-      "lyrics": "Lived ever after, happily"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Lived ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ever ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "after,",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " happily",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus 3]"
     },
     {
-      "chord": "    C                   F",
-      "lyrics": "She asked me, Son, when I grow old,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "She ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "asked me, Son, when ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "I grow old,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Am           G",
-      "lyrics": "Will you buy me a house of gold?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Will ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "you buy me a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "house of gold?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C                F",
-      "lyrics": "And when your father turns to stone,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "when your father ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "turns to stone,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     C        G       C",
-      "lyrics": "Will you take care of me?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Will ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "you take ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "care of ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "me?",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge 2]"
     },
     {
-      "chord": "F      A7",
-      "lyrics": "I will make you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I will ",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "make you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm       Bbm            F",
-      "lyrics": "Queen of everything you see"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Queen of ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bbm",
+          "lyric": "everything you ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "see",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   C",
-      "lyrics": "I'll put you on the map"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll put you on the",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " map",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 F           C",
-      "lyrics": "I'll cure you of disease ... OHHHHHH"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll cure you of ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "disease ... ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "OHHHHHH",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "",
-      "lyrics": "(Bass comes in)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(Bass comes in)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C                  F",
-      "lyrics": "And since we know that dreams are dead"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "since we know that ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "dreams are dead",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am                  G",
-      "lyrics": "And life turns plans up on their head"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "life turns plans up ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "on their head",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C              F",
-      "lyrics": "I will plan to be a bum"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I will plan to ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "be a bum",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   C      G       C",
-      "lyrics": "So I just might beCOME SOMEONE"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I just ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "might be",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "COME SOMEONE",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus 4]"
     },
     {
-      "chord": "    C                    F",
-      "lyrics": "She asked me, Son, when I grow old,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "She ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "asked me, Son, when I",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " grow old,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Am           G",
-      "lyrics": "Will you buy me a house of gold?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Will ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "you buy me a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "house of gold?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C                F",
-      "lyrics": "And when your father turns to stone,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "when your father ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "turns to stone,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     C          G         C",
-      "lyrics": "Will you take care of me?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Will ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "you take ca",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "re of me? ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Bridge 3]"
     },
     {
-      "chord": "F      A7",
-      "lyrics": "I will make you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I will ",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "make you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm       Bbm            F",
-      "lyrics": "Queen of everything you see"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Queen of ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bbm",
+          "lyric": "everything you ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "see",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     C",
-      "lyrics": "I'll put you on the map"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "put you on the map",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   F",
-      "lyrics": "I'll cure you of disease"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll cure you of di",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "sease",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "House of Gold"

@@ -3,10 +3,12 @@
     "G",
     "C",
     "Em",
-    "A",
     "D",
+    "A",
     "Dsus4",
-    "Bm"
+    "Bm",
+    "Am",
+    "Am7"
   ],
   "artist": "Pink",
   "fullName": "Just Give Me A Reason - Pink",
@@ -16,237 +18,1025 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "G",
-      "lyrics": "Right from the start"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Right from the start",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           C                  Em",
-      "lyrics": "You were a thief you stole my heart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You were a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "thief you stole my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "heart",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C                 G",
-      "lyrics": "And I your willing victim"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I your willing ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "victim",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                                  C                     Em",
-      "lyrics": "I let you see the parts of me that weren't all that pretty"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "let you see the parts of me that ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "weren't all that ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "pretty",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         C                      G",
-      "lyrics": "And with every touch you fixed them"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And with ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "every touch you ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "fixed them",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Em                  A         D    G",
-      "lyrics": "Now you've been talking in your sleep  oh oh"
+      "label": "[Pre-Chorus]"
     },
     {
-      "chord": "Em               A      D   G",
-      "lyrics": "Things you never say to me  oh oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Now ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "you've been tal",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "king ",
+          "overLyric": true
+        },
+        {
+          "chord": "A/C#",
+          "lyric": "in your ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "sleep, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dsus4",
+          "lyric": "oh oh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                  A    D",
-      "lyrics": "Tell me that you've had enough"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Things you ne",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ver ",
+          "overLyric": true
+        },
+        {
+          "chord": "A/C#",
+          "lyric": "say to ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "me, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dsus4",
+          "lyric": "oh oh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G      C     G   Dsus4",
-      "lyrics": "Of our love, our love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Tell me that ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "you've ",
+          "overLyric": true
+        },
+        {
+          "chord": "A/C#",
+          "lyric": "had e",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "nough",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Of our ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "love, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G/B",
+          "lyric": "our ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dsus4",
+          "lyric": "love   ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "G                            D/F#",
-      "lyrics": "Just give me a reason just a little bit's enough"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Just give me a reason, just a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "little bit's enough",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Em                            C",
-      "lyrics": "Just a second we're not broken just bent"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Just a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "second, we're not broken, just ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "bent",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           D",
-      "lyrics": "And we can learn to love again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And we can ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dsus4",
+          "lyric": "learn to love agai",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "n",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                            D/F#                        Em",
-      "lyrics": "It's in the stars, It's been written in the scars on our hearts"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's in the stars, it's been ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "written in the scars on our h",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "earts",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                       Bm",
-      "lyrics": "We're not broken just bent"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We're not broken, just ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "bent",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           D              G",
-      "lyrics": "And we can learn to love again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And we can ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dsus4",
+          "lyric": "learn to love agai",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "n",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "   G                              C              Em",
-      "lyrics": "Im sorry I don't understand where all of this is coming from"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "sorry, I don't understand where ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "all of this is ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "coming from",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  C                    G",
-      "lyrics": "I thought that we were fine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "thought that we were f",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "(Oh we had everything)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(Oh, we had everything)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     G                              C                 Em",
-      "lyrics": "Your head is running wild again, my dear we still have everything"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Your ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "head is running wild again, my ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "dear we still have ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "everything",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C               G",
-      "lyrics": "And its all in your mind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "it's all in your m",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ind",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "(Yeah but this is happening)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(Yeah, but this is happening)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                 A        D       G",
-      "lyrics": "You've been having real bad dreams  Oh oh"
+      "label": "[Pre-Chorus]"
     },
     {
-      "chord": "    Em             A        D   G",
-      "lyrics": "You used to lie so close to me  Oh oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "You've been ha",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ving ",
+          "overLyric": true
+        },
+        {
+          "chord": "A/C#",
+          "lyric": "real bad ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "dreams, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dsus4",
+          "lyric": "oh oh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Em                A     D",
-      "lyrics": "There's nothing more than empty sheets"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "used to lie ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "so ",
+          "overLyric": true
+        },
+        {
+          "chord": "A/C#",
+          "lyric": "close to ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "me, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dsus4",
+          "lyric": "oh oh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  G         C     G   D/F#         C     G   D",
-      "lyrics": "Between our love, our love, oh our love, our love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "There's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "nothing more ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "than ",
+          "overLyric": true
+        },
+        {
+          "chord": "A/C#",
+          "lyric": "empty ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "sheets",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Be",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "tween our ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "love, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G/B",
+          "lyric": "our ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "love, oh our ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "love, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G/B",
+          "lyric": "our ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dsus4",
+          "lyric": "love   ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "G                            D/F#",
-      "lyrics": "Just give me a reason just a little bit's enough"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Just give me a reason, just a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "little bit's enough",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Em                            C",
-      "lyrics": "Just a second we're not broken just bent"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Just a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "second, we're not broken, just ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "bent",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           D",
-      "lyrics": "And we can learn to love again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And we can ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dsus4",
+          "lyric": "learn to love agai",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "n",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                             D/F#                         Em",
-      "lyrics": "I never stopped, you're still written in the scars on my heart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's in the stars, it's been ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "written in the scars on our h",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "earts",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                       Bm",
-      "lyrics": "You're not broken just bent"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We're not broken, just ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "bent",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           D                  Em",
-      "lyrics": "And we can learn to love again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And we can ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dsus4",
+          "lyric": "learn to love ag",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ain",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "Em                 D/F#",
-      "lyrics": "Oh tears ducts and rust"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh tears ducts and ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "rust",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                C",
-      "lyrics": "I'll fix it for us"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll fix it for ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "us",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 D",
-      "lyrics": "We're collecting dust but our love's enough"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We're collecting ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "dust but our love's en",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ough",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                D/F#",
-      "lyrics": "You're holding it in, You're pouring a drink"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're holding it ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "in, you're pouring a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "drink",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                D      Dsus4",
-      "lyrics": "No nothing is as bad as it seems"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "No, nothing is as ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "bad as ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dsus4",
+          "lyric": "it    ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "seems",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "We'll come clean"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We'll come clean",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "G                            D/F#",
-      "lyrics": "Just give me a reason just a little bit's enough"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Just give me a reason, just a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "little bit's enough",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Em                            C",
-      "lyrics": "Just a second we're not broken just bent"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Just a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "second, we're not broken, just ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "bent",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           D",
-      "lyrics": "And we can learn to love again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And we can ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dsus4",
+          "lyric": "learn to love agai",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "n",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                             D/F#                         Em",
-      "lyrics": "I never stopped, you're still written in the scars on my heart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's in the stars, it's been ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "written in the scars on our h",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "earts",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                       Bm",
-      "lyrics": "You're not broken just bent"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We're not broken, just ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "bent",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           D                  Em",
-      "lyrics": "And we can learn to love again"
-    },
-    {
-      "label": "[Chorus]"
-    },
-    {
-      "chord": "G                            D/F#",
-      "lyrics": "Just give me a reason just a little bit's enough"
-    },
-    {
-      "chord": "       Em                            C",
-      "lyrics": "Just a second we're not broken just bent"
-    },
-    {
-      "chord": "           D",
-      "lyrics": "And we can learn to love again"
-    },
-    {
-      "chord": "G                            D/F#                        Em",
-      "lyrics": "It's in the stars, It's been written in the scars on our hearts"
-    },
-    {
-      "chord": "                       Bm",
-      "lyrics": "We're not broken just bent"
-    },
-    {
-      "chord": "           D              G",
-      "lyrics": "And we can learn to love again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And we can ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dsus4",
+          "lyric": "learn to love agai",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "n",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Outro]"
     },
     {
-      "chord": "G  D/F#                    Em",
-      "lyrics": "ohhh we can learn to love again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Ohh-o",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F#",
+          "lyric": "hh, we can learn to love aga",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "in",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      C       D              G",
-      "lyrics": "ohhhhh we can learn to love again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Ohh-o",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "hh, we can ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "learn to love a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "gain",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D/F#  Em",
-      "lyrics": "    ohh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D/F#",
+          "lyric": "  Oh"
+        },
+        {
+          "chord": "Em",
+          "lyric": "h",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                          C              D",
-      "lyrics": "Tha"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That we're not broken just b",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "ent",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And we can ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "learn to love a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "gain",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Just Give Me A Reason"

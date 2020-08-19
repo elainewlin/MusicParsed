@@ -32,128 +32,580 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "E5                                   F#msus4",
-      "lyrics": "I've been staring at the edge of the water"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E5",
+          "lyric": "I've been staring at the edge of the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#msus4",
+          "lyric": "water",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 C#m                      Asus2",
-      "lyrics": "'Long as I can remember, never really knowing why"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Long as I can re",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "member, never really know",
+          "overLyric": true
+        },
+        {
+          "chord": "Asus2",
+          "lyric": "ing why",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E5                            F#msus4",
-      "lyrics": "I wish I could be the perfect daughter"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E5",
+          "lyric": "I wish I could be the perfect ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#msus4",
+          "lyric": "daughter",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                       C#m                         Asus2",
-      "lyrics": "But I come back to the water, no matter how hard I try"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But I come back to the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "water, no matter how hard I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Asus2",
+          "lyric": "try",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      C#m",
-      "lyrics": "Every turn I take, every trail I track"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Every ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "turn I take, every trail I track",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Bsus2/D#",
-      "lyrics": "Every path I make, every road leads back"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Every ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bsus2/D#",
+          "lyric": "path I make, every road leads back",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       E",
-      "lyrics": "To the place I know, where I cannot go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To the ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "place I know, where I cannot go",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Am6",
-      "lyrics": "Where I long to be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Where I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am6",
+          "lyric": "long to be",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "        E                                      Bsus4",
-      "lyrics": "See the line where the sky meets the sea? It calls me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "See the ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "line where the sky meets the sea? It ca",
+          "overLyric": true
+        },
+        {
+          "chord": "Bsus4",
+          "lyric": "lls me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    B      C#m7               Asus2",
-      "lyrics": "And no one knows, how far it goes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "no one ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m7",
+          "lyric": "knows, how far it g",
+          "overLyric": true
+        },
+        {
+          "chord": "Asus2",
+          "lyric": "oes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       E                                    Bsus4",
-      "lyrics": "If the wind in my sail on the sea stays behind me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "If the ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "wind in my sail on the sea stays behi",
+          "overLyric": true
+        },
+        {
+          "chord": "Bsus4",
+          "lyric": "nd me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             C#m9       Am",
-      "lyrics": "One day I'll know, if I go there's just no telling how far I'll go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "One day I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m9",
+          "lyric": "know, if I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "go there's just no telling how far I'll go",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "E5                        F#m7sus4                      C#m7",
-      "lyrics": "I know, everybody on this island seems so happy on this island"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E5",
+          "lyric": "I know, everybody on this ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m7sus4",
+          "lyric": "island seems so happy on this ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m7",
+          "lyric": "island",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    Asus2",
-      "lyrics": "Everything is by design"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Everything is by des",
+          "overLyric": true
+        },
+        {
+          "chord": "Asus2",
+          "lyric": "ign",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E                         F#m7sus4                  C#m",
-      "lyrics": "I know, everybody on this island has a role on this island"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "I know, everybody on this ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m7sus4",
+          "lyric": "island has a role on this ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "island",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               E/B        A    E",
-      "lyrics": "So maybe I can roll with mine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So maybe I can ",
+          "overLyric": true
+        },
+        {
+          "chord": "E/B",
+          "lyric": "roll with m",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ine  ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "      C#m",
-      "lyrics": "I can lead with pride, I can make us strong"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I can ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "lead with pride, I can make us strong",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Bsus2/D#",
-      "lyrics": "I'll be satisfied if I play along"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll be ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bsus2/D#",
+          "lyric": "satisfied if I play along",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        E",
-      "lyrics": "But the voice inside sings a different song"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But the ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "voice inside sings a different song",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Am              Am6",
-      "lyrics": "What is wrong with me?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "What is ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "wrong with me?  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am6",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "        E                                      Bsus4",
-      "lyrics": "See the light as it shines on the sea? It's blinding"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "See the ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "light as it shines on the sea? It's bli",
+          "overLyric": true
+        },
+        {
+          "chord": "Bsus4",
+          "lyric": "nding",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    B      C#m7               Asus2",
-      "lyrics": "But no one knows, how deep it goes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "no one ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m7",
+          "lyric": "knows, how deep it ",
+          "overLyric": true
+        },
+        {
+          "chord": "Asus2",
+          "lyric": "goes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       E                                           Bsus4",
-      "lyrics": "And it seems like it's calling out to me, so come find me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And it ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "seems like it's calling out to me, so come f",
+          "overLyric": true
+        },
+        {
+          "chord": "Bsus4",
+          "lyric": "ind me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    B      C#m7            A                     A6",
-      "lyrics": "And let me know, what's beyond that line, will I cross that line?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "let me ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m7",
+          "lyric": "know, what's bey",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ond that line, will I ",
+          "overLyric": true
+        },
+        {
+          "chord": "A6",
+          "lyric": "cross that line?",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "        F                                     Csus4",
-      "lyrics": "See the line where the sky meets the sea? It calls me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "See the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "line where the sky meets the sea? It c",
+          "overLyric": true
+        },
+        {
+          "chord": "Csus4",
+          "lyric": "alls me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C      Dm                Bb    Bb/C",
-      "lyrics": "And no one knows, how far it goes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "no one ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "knows, how far it ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "goes  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb/C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "       F                                   Csus4",
-      "lyrics": "If the wind in my sail on the sea stays behind me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "If the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "wind in my sail on the sea stays beh",
+          "overLyric": true
+        },
+        {
+          "chord": "Csus4",
+          "lyric": "ind me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C        Dm   Dm/C          Ab    Fm Dbdim C",
-      "lyrics": "One day I'll know, how far I'll go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "One ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "day I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "know,",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm/C",
+          "lyric": " how far I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "go    ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": " "
+        },
+        {
+          "chord": "Dbdim",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "How Far I'll Go"

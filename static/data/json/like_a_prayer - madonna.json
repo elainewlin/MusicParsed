@@ -15,90 +15,370 @@
       "label": "[Intro]"
     },
     {
-      "chord": "Dm        C Gm Dm",
-      "lyrics": "Life is a mystery"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Life is a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "my",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ste",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ry",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              C     Gm  F",
-      "lyrics": "Everyone must stand a - lone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Everyone must ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "stand ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "a - ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "lone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           C    Bb F",
-      "lyrics": "I hear you call my name"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I hear you ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "call ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "my ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "name",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb     F     C    Dm",
-      "lyrics": "And it feels like home"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "And it ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "feels ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "like ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "home",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "F                C",
-      "lyrics": "When you call my name"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "When you call my ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "name",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Bb",
-      "lyrics": "It's like a little prayer"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's like a little ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "prayer",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               F",
-      "lyrics": "I'm down on my knees"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm down on my ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "knees",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        C    C7  F",
-      "lyrics": "I wanna take you there"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I wanna ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "take ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "you ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "there",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                C",
-      "lyrics": "In the midnight hour"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "In the midnight ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hour",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Bb",
-      "lyrics": "I can feel your power"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I can feel your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "power",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            F",
-      "lyrics": "Just like a prayer"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Just like a ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "prayer",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              C    C7  F",
-      "lyrics": "You know I'll take you there"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You know I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "take ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "you ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "there",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "Bb          F",
-      "lyrics": "I hear your voice"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "I hear your ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "voice",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C            Dm",
-      "lyrics": "It's like an angel sighing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "It's like an ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "angel sighing",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb        F                  C",
-      "lyrics": "I have no choice I hear your voice"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "I have no ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "choice I hear your ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "voice",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "Feels like flying"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Feels like flying",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb         F",
-      "lyrics": "I close my eyes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "I close my ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "eyes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C        Dm",
-      "lyrics": "Oh God I think I'm falling"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Oh God I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "think I'm falling",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb         F              C",
-      "lyrics": "Out of the sky I close my eyes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "Out of the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "sky I close my ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "eyes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "Heaven help me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Heaven help me",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
@@ -107,36 +387,124 @@
       "label": "[Verse]"
     },
     {
-      "chord": "       F",
-      "lyrics": "Like a child"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Like a ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "child",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C           Dm",
-      "lyrics": "You whisper softly to me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "You whisper ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "softly to me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb        F                   C",
-      "lyrics": "You're in control just like a child"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "You're in ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "control just like a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "child",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "Now I'm dancing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Now I'm dancing",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb          F",
-      "lyrics": "It's like a dream"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "It's like a ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "dream",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C          Dm",
-      "lyrics": "No end and no beginning"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "No end and ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "no beginning",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb               F              C",
-      "lyrics": "You're here with me it's like a dream"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "You're here with ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "me it's like a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "dream",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Let the choir sing"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Let the choir sing",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
@@ -145,86 +513,360 @@
       "label": "[Chorus]"
     },
     {
-      "chord": "F                C",
-      "lyrics": "When you call my name"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "When you call my ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "name",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Bb",
-      "lyrics": "It's like a little prayer"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's like a little ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "prayer",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               F",
-      "lyrics": "I'm down on my knees"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm down on my ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "knees",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        C    C7  F",
-      "lyrics": "I wanna take you there"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I wanna ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "take ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "you ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "there",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                C",
-      "lyrics": "In the midnight hour"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "In the midnight ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hour",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Bb",
-      "lyrics": "I can feel your power"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I can feel your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "power",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            F",
-      "lyrics": "Just like a prayer"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Just like a ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "prayer",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              C    C7  Dm",
-      "lyrics": "You know I'll take you there"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You know I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "take ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "there",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C  Dm C  Dm",
-      "lyrics": "oh oh oh oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "oh ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "oh ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "oh ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "oh",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "          C",
-      "lyrics": "Life is a mystery"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Life is a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "mystery",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm            C         Dm",
-      "lyrics": "Everyone must stand a - lone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Everyone must ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "stand a - ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "lone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           C       F",
-      "lyrics": "I hear you call my name"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I hear you ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "call my ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "name",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       C          Dm",
-      "lyrics": "And it feels like home"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And it ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "feels like ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "home",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   C",
-      "lyrics": "Just like a prayer, your voice can take me there"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Just like a prayer,",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " your voice can take me there",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm                    C",
-      "lyrics": "Just like a muse to me, you are a mistery"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Just like a muse to me",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ", you are a mistery",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm                C            Bb",
-      "lyrics": "Just like a dream, you are not what you seem"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Just like a dream,",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " you are not ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "what you seem",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F           Bb         C                             F",
-      "lyrics": "Just like a prayer, no choice your voice can take me there"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Just like a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "prayer, no ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "choice your voice can take me ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "there",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Outro x4]"
     },
     {
-      "chord": "F                        C",
-      "lyrics": "Just like a prayer, I\u2019ll take you there"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Just like a prayer, I’ll ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "take you there",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb                Dm  C",
-      "lyrics": "it\u2019s like a dream to me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "it’s like a dream ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "to m",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Like a Prayer"

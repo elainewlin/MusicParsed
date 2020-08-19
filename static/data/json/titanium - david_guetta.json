@@ -15,209 +15,983 @@
       "label": "Intro x2:"
     },
     {
-      "chord": "Eb  Bb  Cm  Ab",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "  "
+        },
+        {
+          "chord": "Bb",
+          "lyric": "  "
+        },
+        {
+          "chord": "Cm",
+          "lyric": "  "
+        },
+        {
+          "chord": "Ab",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "Verse:"
     },
     {
-      "chord": "Eb               Bb",
-      "lyrics": "  You shout it out"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "  You shout it ou",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "t",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Cm             Ab",
-      "lyrics": "but I can't hear a word you say"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "but ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "I can't hear a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "word you say",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb               Bb              Cm   Ab",
-      "lyrics": "  I'm talking loud not saying much"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "  I'm talking lou",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "d not saying muc",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "h    ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Eb            Bb       Cm                Ab",
-      "lyrics": "  I'm criticized but all your bullets ricochet"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "  I'm criticiz",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ed but al",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "l your bullets ric",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "ochet",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb               Bb              Cm   Ab",
-      "lyrics": "  You shoot me down, but I get up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "  You shoot me do",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "wn, but I get up",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "   "
+        },
+        {
+          "chord": "Ab",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "Chorus:"
     },
     {
-      "chord": "Ab              Bb               Gm",
-      "lyrics": "  I'm bulletproof, nothing to lose"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "  I'm bulletproo",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "f, nothing to los",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Cm           Ab",
-      "lyrics": "fire away, fire away"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "fire ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "away, fire aw",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "ay",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Bb                 Gm",
-      "lyrics": "ricochet, you take your aim"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "ricoch",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "et, you take your a",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "im",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Cm         Ab",
-      "lyrics": "fire away, fire away"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "fire a",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "way, fire a",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "way",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              Bb                Gm",
-      "lyrics": "you shoot me down but I won't fall"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "you shoot me d",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "own but I won't fa",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ll",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Cm Csus2 Ab",
-      "lyrics": "I am titanium"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I am ti",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "tan",
+          "overLyric": true
+        },
+        {
+          "chord": "Csus2",
+          "lyric": "ium   ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "              Bb                Gm",
-      "lyrics": "you shoot me down but I won't fall"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "you shoot me d",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "own but I won't fa",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ll",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Cm Csus2 Ab",
-      "lyrics": "I am titanium"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I am ti",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "tan",
+          "overLyric": true
+        },
+        {
+          "chord": "Csus2",
+          "lyric": "ium   ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "Interlude x2:"
     },
     {
-      "chord": "Eb  Bb  Cm  Ab",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "  "
+        },
+        {
+          "chord": "Bb",
+          "lyric": "  "
+        },
+        {
+          "chord": "Cm",
+          "lyric": "  "
+        },
+        {
+          "chord": "Ab",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "Verse:"
     },
     {
-      "chord": "Eb         Bb",
-      "lyrics": "  Cut me down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "  Cut me do",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "wn",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Cm                 Ab",
-      "lyrics": "but it's you who'll have further to fall"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "but it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "you who'll have fur",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "ther to fall",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb         Bb             Cm    Ab",
-      "lyrics": "  Ghost town, haunted love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "  Ghost tow",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "n, haunted love",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "    "
+        },
+        {
+          "chord": "Ab",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Eb             Bb     Cm                    Ab",
-      "lyrics": "  Raise your voice, sticks and stones may break my bones"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "  Raise your vo",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ice, st",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "icks and stones may br",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "eak my bones",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb              Bb              Cm    Ab",
-      "lyrics": "  I'm talking loud not saying much"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "  I'm talking lo",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ud not saying mu",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "ch    ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "Chorus:"
     },
     {
-      "chord": "Ab              Bb               Gm",
-      "lyrics": "  I'm bulletproof, nothing to lose"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "  I'm bulletproo",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "f, nothing to los",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Cm           Ab",
-      "lyrics": "fire away, fire away"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "fire ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "away, fire aw",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "ay",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Bb                 Gm",
-      "lyrics": "ricochet, you take your aim"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "ricoch",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "et, you take your a",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "im",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Cm         Ab",
-      "lyrics": "fire away, fire away"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "fire a",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "way, fire a",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "way",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              Bb                Gm",
-      "lyrics": "you shoot me down but I won't fall"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "you shoot me d",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "own but I won't fa",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ll",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Cm Csus2 Ab",
-      "lyrics": "I am titanium"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I am ti",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "tan",
+          "overLyric": true
+        },
+        {
+          "chord": "Csus2",
+          "lyric": "ium   ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "              Bb                Gm",
-      "lyrics": "you shoot me down but I won't fall"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "you shoot me d",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "own but I won't fa",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ll",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Cm Csus2 Ab",
-      "lyrics": "I am titanium"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I am ti",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "tan",
+          "overLyric": true
+        },
+        {
+          "chord": "Csus2",
+          "lyric": "ium   ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Bb  Gm",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "  "
+        },
+        {
+          "chord": "Gm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "       Cm Csus2 Ab",
-      "lyrics": "I am titanium"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I am ti",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "tan",
+          "overLyric": true
+        },
+        {
+          "chord": "Csus2",
+          "lyric": "ium   ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Bb  Gm",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "  "
+        },
+        {
+          "chord": "Gm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "       Cm Csus2 Ab",
-      "lyrics": "I am titanium"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I am ti",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "tan",
+          "overLyric": true
+        },
+        {
+          "chord": "Csus2",
+          "lyric": "ium   ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "Bridge:"
     },
     {
-      "chord": "Ab          Bb            Gm",
-      "lyrics": "  Stone-hard, machine gun"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "  Stone-hard",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": ", machine gun ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "              Cm",
-      "lyrics": "Firing at the ones who run"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Firing at the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "ones who run",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ab          Bb                 Cm",
-      "lyrics": "  stone hard, as bulletproof glass"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "  stone hard",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": ", as bulletproof gl",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "ass",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Chorus:"
     },
     {
-      "chord": "Ab               Bb                Gm",
-      "lyrics": "  You shoot me down but I won't fall"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "  You shoot me do",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "wn but I won't fal",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "l",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Cm Csus2 Ab",
-      "lyrics": "I am titanium"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I am ti",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "tan",
+          "overLyric": true
+        },
+        {
+          "chord": "Csus2",
+          "lyric": "ium   ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                Bb                Gm",
-      "lyrics": "  You shoot me down but I won't fall"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  You shoot me d",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "own but I won't fa",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ll",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Cm Csus2 Ab",
-      "lyrics": "I am titanium"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I am ti",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "tan",
+          "overLyric": true
+        },
+        {
+          "chord": "Csus2",
+          "lyric": "ium   ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                Bb                Gm",
-      "lyrics": "  You shoot me down but I won't fall"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  You shoot me d",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "own but I won't fa",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ll",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Cm Csus2 Ab",
-      "lyrics": "I am titanium"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I am ti",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "tan",
+          "overLyric": true
+        },
+        {
+          "chord": "Csus2",
+          "lyric": "ium   ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                Bb                Gm",
-      "lyrics": "  You shoot me down but I won't fall"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  You shoot me d",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "own but I won't fa",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ll",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Cm Csus2 Ab",
-      "lyrics": "I am titanium"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I am ti",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "tan",
+          "overLyric": true
+        },
+        {
+          "chord": "Csus2",
+          "lyric": "ium   ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Ab  Bb  Gm  Cm",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "  "
+        },
+        {
+          "chord": "Bb",
+          "lyric": "  "
+        },
+        {
+          "chord": "Gm",
+          "lyric": "  "
+        },
+        {
+          "chord": "Cm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Ab  Bb  Gm",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "  "
+        },
+        {
+          "chord": "Bb",
+          "lyric": "  "
+        },
+        {
+          "chord": "Gm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "       Cm Csus2 Ab",
-      "lyrics": "I am titanium"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I am ti",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "tan",
+          "overLyric": true
+        },
+        {
+          "chord": "Csus2",
+          "lyric": "ium   ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "Titanium"

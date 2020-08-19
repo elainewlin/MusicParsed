@@ -16,203 +16,860 @@
       "label": "Verse:"
     },
     {
-      "chord": "",
-      "lyrics": "Set fire to your hair"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Set fire to your hair",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Poke a stick at a grizzly bear"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Poke a stick at a grizzly bear",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Eat medicine that's out of date"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Eat medicine that's out of date",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Use your private parts as piranha bait"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Use your private parts as piranha bait",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Chorus:"
     },
     {
-      "chord": "C    Em      Am    C",
-      "lyrics": "Dumb ways to die"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Dumb ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ways to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "die   ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "   F         D       G     F",
-      "lyrics": "So many dumb ways to die"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "many dumb ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ways to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "die   ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C    Em      Am    Em",
-      "lyrics": "Dumb ways to die"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Dumb ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ways to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "die   ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "   F         G        C",
-      "lyrics": "So many dumb ways to die"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "many dumb ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ways to d",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ie",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Verse:"
     },
     {
-      "chord": "",
-      "lyrics": "Get your toast out with a fork"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Get your toast out with a fork",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Do your own electrical work"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Do your own electrical work",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Teach yourself how to fly"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Teach yourself how to fly",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Eat a two week old unrefrigerated pie"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Eat a two week old unrefrigerated pie",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Chorus:"
     },
     {
-      "chord": "C    Em      Am    C",
-      "lyrics": "Dumb ways to die"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Dumb ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ways to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "die   ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "   F         D       G     F",
-      "lyrics": "So many dumb ways to die"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "many dumb ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ways to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "die   ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C    Em      Am    Em",
-      "lyrics": "Dumb ways to die"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Dumb ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ways to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "die   ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "   F         G        C",
-      "lyrics": "So many dumb ways to die"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "many dumb ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ways to d",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ie",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Verse:"
     },
     {
-      "chord": "",
-      "lyrics": "Invite a psycho killer inside"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Invite a psycho killer inside",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Scratch a drug dealer's brand new ride"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Scratch a drug dealer's brand new ride",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Take your helmet off in outer space"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Take your helmet off in outer space",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Use a clothes dryer as a hiding place"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Use a clothes dryer as a hiding place",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Chorus:"
     },
     {
-      "chord": "C    Em      Am    C",
-      "lyrics": "Dumb ways to die"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Dumb ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ways to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "die   ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "   F         D       G     F",
-      "lyrics": "So many dumb ways to die"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "many dumb ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ways to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "die   ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C    Em      Am    Em",
-      "lyrics": "Dumb ways to die"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Dumb ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ways to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "die   ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "   F         G        C",
-      "lyrics": "So many dumb ways to die"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "many dumb ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ways to d",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ie",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Verse:"
     },
     {
-      "chord": "",
-      "lyrics": "Keep a rattle snake as a pet"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Keep a rattle snake as a pet",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Sell both your kidneys on the internet"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Sell both your kidneys on the internet",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Eat a tube of superglue"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Eat a tube of superglue",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "'I wonder what's this red button do'"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'I wonder what's this red button do'",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Chorus:"
     },
     {
-      "chord": "C    Em      Am    C",
-      "lyrics": "Dumb ways to die"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Dumb ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ways to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "die   ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "   F         D       G     F",
-      "lyrics": "So many dumb ways to die"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "many dumb ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ways to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "die   ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C    Em      Am    Em",
-      "lyrics": "Dumb ways to die"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Dumb ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ways to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "die   ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "   F         G        C",
-      "lyrics": "So many dumb ways to die"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "many dumb ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ways to d",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ie",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Bridge:"
     },
     {
-      "chord": "F        G      C           Fmaj7      F      G",
-      "lyrics": "Dress up like a moose during hunting season"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Dress up ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "like a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "moose during",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7",
+          "lyric": " hunting se",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ason   ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "   F        G        C      Fmaj7      F",
-      "lyrics": "Disturb a nest of wasps for no good reason"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Dis",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "turb a ne",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "st of was",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ps for ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7",
+          "lyric": "no good rea",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "son",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                      Am",
-      "lyrics": "Stand on the edge of a train station platform"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Stand on the edge of a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "train station platform",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                                Am",
-      "lyrics": "Drive around the boom gates at a level crossing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Drive around the boom gates at a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "level crossing",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                                 Am        G",
-      "lyrics": "Run across the tracks between the platforms"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Run across the tracks between the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "platforms ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F                           G",
-      "lyrics": "They may not rhyme but they quite possibly"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "They may not rhyme but they ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "quite possibly",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Outro:"
     },
     {
-      "chord": "    C      Em      Am   Em",
-      "lyrics": "The dumbest ways to die"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "dumbest",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " ways to",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " die ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    C      Em      Am   Em",
-      "lyrics": "The dumbest ways to die"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "dumbest",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " ways to",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " die ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    C      Em      Am   Em",
-      "lyrics": "The dumbest ways to die..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "dumbest",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " ways to",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " die.",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "..",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   F",
-      "lyrics": "So many dumb"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "many dumb",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   F         G        C",
-      "lyrics": "So many dumb ways to die"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "many dumb ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ways to d",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ie",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Dumb Ways to Die"

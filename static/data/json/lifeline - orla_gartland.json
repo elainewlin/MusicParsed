@@ -19,281 +19,1541 @@
       "label": "[Strum Pattern]"
     },
     {
-      "chord": "",
-      "lyrics": "  1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 +"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "  1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 +",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  C         Em  D           G   C           Em  D      Bm",
-      "lyrics": "A---------------------------2-----------------------------"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A-",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "----------",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "----",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "------------",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "2---",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "------------",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "----",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "-------",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "---",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "E-0---------3---2-----------3---0-----------3---2---------"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "E-0---------3---2-----------3---0-----------3---2---------",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "C-0---------4---2---------------0-----------4---2-------2-"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "C-0---------4---2---------------0-----------4---2-------2-",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "G-------------------------------------------------------4-"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "G-------------------------------------------------------4-",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C  Em D  G C  Em D Bm",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "Em",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "Em",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "Bm",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 1]"
     },
     {
-      "chord": "C",
-      "lyrics": "Nightmare,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Nightmare,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em D            G        C                Em D Bm",
-      "lyrics": "I  saw you standing, you were right there"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "I  ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "saw you stand",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ing, you ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "were right there ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "Bm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "         C",
-      "lyrics": "And I surrender,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I sur",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "render,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em   D            G     C        Em D Bm",
-      "lyrics": "Your face is just how I remember"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Your ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "face is just ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "how I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "remember ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "Bm",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "   C                Em       D",
-      "lyrics": "To think about it now, think about it now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "think about it no",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "w, think ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "about it now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G         C                  Em D     Bm",
-      "lyrics": "You threw me overboard, no hesitation"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "You threw ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "me overboard, no he",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "sit",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ation ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "               C                  Em        D",
-      "lyrics": "And now you're tryin' to figure out, tryin' to figure out"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And now you're ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "tryin' to figure ou",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "t, tryin' ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "to figure out",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G     C                         Em  D     Bm",
-      "lyrics": "  How to come back looking like a  savior"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " How "
+        },
+        {
+          "chord": "C",
+          "lyric": "to come back looking like ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "a  s",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "avior ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "    C Em D",
-      "lyrics": "And I,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I,",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    G     C",
-      "lyrics": "I'm gonna be just fine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "gonna ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "be just fine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em   D            Bm",
-      "lyrics": "  Oh I don't need your lifeline"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "  Oh ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "I don't need ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "your lifeline",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C Em D",
-      "lyrics": "I,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I,",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    G     C",
-      "lyrics": "I'm gonna be just fine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "gonna ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "be just fine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em   D            Bm",
-      "lyrics": "  Oh I don't need your lifeline"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "  Oh ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "I don't need ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "your lifeline",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                    Em    D                     G    C   Em D Bm",
-      "lyrics": "Tell me one more time  how you're the one to save  it all"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Tell me one more time",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "  how ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "you're the one to save",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " it "
+        },
+        {
+          "chord": "C",
+          "lyric": "all ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "Bm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "     C                     Em    D                       G    C",
-      "lyrics": "I'll tell you one more time  how you're the one that made  me fall"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "tell you one more time",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "  how ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "you're the one that made",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " me "
+        },
+        {
+          "chord": "C",
+          "lyric": "fall",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em   D            Bm            C Em D G",
-      "lyrics": "  Oh I don't need your lifeline"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "  Oh ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "I don't need ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "your lifeline ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "Em",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "C",
-      "lyrics": "Flashback,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Flashback,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em D                  G        C               Em D Bm",
-      "lyrics": "Oh how I used to wish that you would come back"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Oh ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "how I used to wish ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "that you ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "would come back ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "Bm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "            C",
-      "lyrics": "But now I'm past hurt,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But now I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "past hurt,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em      D                        G      C            Em D Bm",
-      "lyrics": "So it's strange to see you crawl out of the woodwork"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "So it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "strange to see you crawl ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "out of ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "the woodwork ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "Bm",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "   C                Em       D",
-      "lyrics": "To think about it now, think about it now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "think about it no",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "w, think ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "about it now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G         C                  Em D     Bm",
-      "lyrics": "You threw me overboard, no hesitation"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "You threw ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "me overboard, no he",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "sit",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ation ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "               C                  Em        D",
-      "lyrics": "And now you're tryin' to figure out, tryin' to figure out"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And now you're ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "tryin' to figure ou",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "t, tryin' ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "to figure out",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G     C                         Em  D     Bm",
-      "lyrics": "  How to come back looking like a  savior"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " How "
+        },
+        {
+          "chord": "C",
+          "lyric": "to come back looking like ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "a  s",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "avior ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "    C Em D",
-      "lyrics": "And I,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I,",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    G     C",
-      "lyrics": "I'm gonna be just fine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "gonna ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "be just fine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em   D            Bm",
-      "lyrics": "  Oh I don't need your lifeline"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "  Oh ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "I don't need ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "your lifeline",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C Em D",
-      "lyrics": "I,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I,",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    G     C",
-      "lyrics": "I'm gonna be just fine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "gonna ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "be just fine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em   D            Bm",
-      "lyrics": "  Oh I don't need your lifeline"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "  Oh ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "I don't need ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "your lifeline",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                    Em    D                     G    C   Em D Bm",
-      "lyrics": "Tell me one more time  how you're the one to save  it all"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Tell me one more time",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "  how ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "you're the one to save",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " it "
+        },
+        {
+          "chord": "C",
+          "lyric": "all ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "Bm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "     C                     Em    D                       G    C",
-      "lyrics": "I'll tell you one more time  how you're the one that made  me fall"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "tell you one more time",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "  how ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "you're the one that made",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " me "
+        },
+        {
+          "chord": "C",
+          "lyric": "fall",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em   D            Bm",
-      "lyrics": "  Oh I don't need your lifeline"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "  Oh ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "I don't need ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "your lifeline",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Interlude]"
     },
     {
-      "chord": "Am7  Am9     Am7  Am9     G    G5   Dsus4  D",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am7",
+          "lyric": "  "
+        },
+        {
+          "chord": "Am9",
+          "lyric": "     "
+        },
+        {
+          "chord": "Am7",
+          "lyric": "  "
+        },
+        {
+          "chord": "Am9",
+          "lyric": "     "
+        },
+        {
+          "chord": "G",
+          "lyric": "    "
+        },
+        {
+          "chord": "G5",
+          "lyric": "   "
+        },
+        {
+          "chord": "Dsus4",
+          "lyric": "  "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "            Am7    Am9",
-      "lyrics": "And now you cast your  rope"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And now you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "cast yo",
+          "overLyric": true
+        },
+        {
+          "chord": "Am9",
+          "lyric": "ur  rope",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Am7          Am9",
-      "lyrics": "Like it's some kind of joke"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Like it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "some kind of ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am9",
+          "lyric": "joke",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            G      G5          Dsus4 D",
-      "lyrics": "Like you forgot what  happened here"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Like you for",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "got wha",
+          "overLyric": true
+        },
+        {
+          "chord": "G5",
+          "lyric": "t  happened ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dsus4",
+          "lyric": "here  ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "           Am7    Am9",
-      "lyrics": "Why do you just show  up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Why do you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "just sh",
+          "overLyric": true
+        },
+        {
+          "chord": "Am9",
+          "lyric": "ow  up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Am7          Am9",
-      "lyrics": "When you're down on your luck"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When you're ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "down on your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am9",
+          "lyric": "luck",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                G     G5        Dsus4 D",
-      "lyrics": "And when you've got no  ship to steer"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And when you've ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "got no",
+          "overLyric": true
+        },
+        {
+          "chord": "G5",
+          "lyric": "  ship to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dsus4",
+          "lyric": "steer ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "",
-      "lyrics": "And I,"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             C",
-      "lyrics": "I'm gonna be just fine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm gonna be ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "just fine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em   D            Bm",
-      "lyrics": "  Oh I don't need your lifeline"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "  Oh ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "I don't need ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "your lifeline",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C Em D",
-      "lyrics": "I,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I,",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    G     C",
-      "lyrics": "I'm gonna be just fine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "gonna ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "be just fine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em   D            Bm",
-      "lyrics": "  Oh I don't need your lifeline"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "  Oh ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "I don't need ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "your lifeline",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                      Em    D                     G    C   Em D Bm",
-      "lyrics": "  Tell me one more time  how you're the one to save  it all"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " Tell me one more time"
+        },
+        {
+          "chord": "Em",
+          "lyric": "  how ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "you're the one to save",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " it "
+        },
+        {
+          "chord": "C",
+          "lyric": "all ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "Bm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "        C                     Em     D                       G    C",
-      "lyrics": "Oh I'll tell you one more time  that you're the one that made  me fall"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "tell you one more time",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "  that ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "you're the one that made",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " me "
+        },
+        {
+          "chord": "C",
+          "lyric": "fall",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em   D            Bm",
-      "lyrics": "  Oh I don't need your lifeline"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "  Oh ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "I don't need ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "your lifeline",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Post-Chorus]"
     },
     {
-      "chord": "C         Em  D                    G   C",
-      "lyrics": "  No, no, no, I don't need your lifeline"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " No, no, "
+        },
+        {
+          "chord": "Em",
+          "lyric": "no, ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "I don't need your lif",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "elin",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Em  D            Bm",
-      "lyrics": "No, no, no, I don't need your lifeline"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "No, no, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "no, ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "I don't need ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "your lifeline",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C         Em  D                    G   C",
-      "lyrics": "  No, no, no, I don't need your lifeline"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " No, no, "
+        },
+        {
+          "chord": "Em",
+          "lyric": "no, ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "I don't need your lif",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "elin",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Em  D            Bm",
-      "lyrics": "No, no, no, I don't need your lifeline"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "No, no, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "no, ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "I don't need ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "your lifeline",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Outro]"
     },
     {
-      "chord": "C  Em D  G C  Em D Bm",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "Em",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "Em",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "Bm",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "Lifeline"

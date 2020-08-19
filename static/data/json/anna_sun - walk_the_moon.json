@@ -10,168 +10,528 @@
   "id": "anna_sun - walk_the_moon",
   "lines": [
     {
-      "chord": "Bb                                                   F",
-      "lyrics": "Screen falling off the door / Door hanging off the hinges"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "Screen falling off the door / Door hanging off the hi",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "nges",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                            Gm",
-      "lyrics": "My feet are still sore / My back is on the fringes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "My feet are still sore / My back is on the f",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ringes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                    F",
-      "lyrics": "We tore up the walls / We slept on couches"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We tore up the walls / We slept on c",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ouches",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                       Bb",
-      "lyrics": "We lifted this house / We lifted this house"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We lifted this house / We lifted this h",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ouse",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                           F",
-      "lyrics": "Fire-crackers in the east / My car parked south"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Fire-crackers in the east / My car parked s",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "outh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                              Gm",
-      "lyrics": "Your hands on my cheeks / Your shoulder in my mouth"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Your hands on my cheeks / Your shoulder in my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "mouth",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                            F",
-      "lyrics": "I was up against the wall on the west, mezzanine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I was up against the wall on the west, mezza",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "nine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                       Eb",
-      "lyrics": "We rattle this town / We rattle this scene"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We rattle this town / We rattle this sc",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "ene",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Bb",
-      "lyrics": "O, Anna Sun!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "O, Anna Sun",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb           Bb",
-      "lyrics": "O, Anna Sun!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "O, Anna Sun! ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Gm                     Eb",
-      "lyrics": "What do you know? This house is falling apart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "What do you know? This ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "house is falling apart",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb                      F",
-      "lyrics": "What can I say? This house is falling apart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "What can I say? This hou",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "se is falling apart",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm                     Eb",
-      "lyrics": "We got no money, but we got heart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "We got no money, but we",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": " got heart",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "We're gonna rattle this ghost town"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "We're gonna rattle this ghost town",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb                                                  F",
-      "lyrics": "Screen falling off the door / Door hanging off the hinges"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "Screen falling off the door / Door hanging off the h",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "inges",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                            Gm",
-      "lyrics": "My feet are still sore / My back is on the fringes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "My feet are still sore / My back is on the f",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ringes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                              F",
-      "lyrics": "We were up against the wall on the west, mezzanine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We were up against the wall on the west, mezza",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "nine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                      Eb",
-      "lyrics": "We rattle this town / We rattle this scene"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We rattle this town / We rattle this s",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "cene",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Bb",
-      "lyrics": "O, Anna Sun!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "O, Anna S",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "un!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb        Bb",
-      "lyrics": "O, Anna Sun!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "O, Anna Su",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "n!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm                     Eb",
-      "lyrics": "What do you know? This house is falling apart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "What do you know? This ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "house is falling apart",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb                    F",
-      "lyrics": "What can I say? This house is falling apart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "What can I say? This h",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ouse is falling apart",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm                      Eb",
-      "lyrics": "We got no money, but we got heart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "We got no money, but we ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "got heart",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "We're gonna rattle this ghost town"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "We're gonna rattle this ghost town",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb",
-      "lyrics": "Live my life without"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "Live my life without",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Station wagon rides"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Station wagon rides",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm",
-      "lyrics": "Fumbling around the back"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Fumbling around the back",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Not one seatbelt on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Not one seatbelt on",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb",
-      "lyrics": "Wait for summertime"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "Wait for summertime",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Coming up for air"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Coming up for air",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm",
-      "lyrics": "Now it's all awash"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Now it's all awash",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Now it's all awash"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Now it's all awash",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb",
-      "lyrics": "Live my life without"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "Live my life without",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Coming up for air"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Coming up for air",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm",
-      "lyrics": "Now it's all a wash"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Now it's all a wash",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "I want everyone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I want everyone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb",
-      "lyrics": "Racing down the hill"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "Racing down the hill",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "I am faster than you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I am faster than you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm",
-      "lyrics": "Wait for summertime"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Wait for summertime",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Wait for summertime"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Wait for summertime",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb         Bb",
-      "lyrics": "O, Anna Sun!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "O, Anna Sun",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "!",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Anna Sun"

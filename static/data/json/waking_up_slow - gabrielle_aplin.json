@@ -1,9 +1,21 @@
 {
   "allChords": [
+    "C5",
+    "Bbadd2",
+    "Dm",
     "C",
-    "Bb",
     "F",
-    "Gm"
+    "Bbsus2",
+    "Cadd4",
+    "Gmadd4",
+    "Dm7",
+    "Gm",
+    "Am",
+    "Bb",
+    "Dm7add4",
+    "F6",
+    "Fadd2",
+    "Fmaj9"
   ],
   "artist": "Gabrielle Aplin",
   "capo": "1",
@@ -14,379 +26,1440 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "C",
-      "lyrics": "Heaven help me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C5",
+          "lyric": "Heaven help me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Bb                F",
-      "lyrics": "My mind changes like the wind"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "My mind changes like the wind",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "Please excuse me"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Please excuse me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Bb             F",
-      "lyrics": "I don't know where to begin"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't know where to begin",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    F",
-      "lyrics": "But I"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bbadd2",
+          "lyric": "I",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Didn't think I cared"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Didn't think I cared ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "I could be your friend"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I could be your friend ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Bb",
-      "lyrics": "But I'm unprepared"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But I'm unprepared",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C                    F",
-      "lyrics": "Oh, I've never felt like this"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I've never felt ",
+          "overLyric": true
+        },
+        {
+          "chord": "F/A",
+          "lyric": "like ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bbsus2",
+          "lyric": "this",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "I was unaware"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I was unaware ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "You were lighting flares"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You were lighting flares ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cadd4",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Bb",
-      "lyrics": "Now I'm running scared"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Now I'm running scared ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    C                  Gm",
-      "lyrics": "Oh, how did it come to this?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "how did it come ",
+          "overLyric": true
+        },
+        {
+          "chord": "F/A",
+          "lyric": "to   ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gmadd4",
+          "lyric": "this?",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "Gm            Bb",
-      "lyrics": "You know I've never"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You know I've ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "never",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        F            C",
-      "lyrics": "Been so lonely on my own"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Been so ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "lonely on ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "my ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "own",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Gm",
-      "lyrics": "And it shows"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And it ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "shows",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               Bb",
-      "lyrics": "'Cause I don't see you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Cause I don't",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " see you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       F",
-      "lyrics": "Like I used to"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Like I u",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "sed to",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C",
-      "lyrics": "Now I'm going back on the things that I know"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "N.C",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Now I'm going back on the things that I know",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "F",
-      "lyrics": "Oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Oh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       C",
-      "lyrics": "All my nights"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "All ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "my n",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ights",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Bb",
-      "lyrics": "Taste like gold"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Taste ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "like ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "gold",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               C",
-      "lyrics": "Yeah, when I'm with you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Yeah, when I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "with you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     F",
-      "lyrics": "It's like everything glows"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's like everything ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "glows",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           C",
-      "lyrics": "And all my days"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And all ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "my d",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ays",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Bb",
-      "lyrics": "We can lay low"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We can ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "lay ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "low",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 C",
-      "lyrics": "Yeah, when we're waking up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Yeah, when we're ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7add4",
+          "lyric": "waking up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                F",
-      "lyrics": "We're waking up slow"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We're ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "waking up ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bbadd2",
+          "lyric": "slow",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "F",
-      "lyrics": "I can rearrange"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "I can rearrange  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "Would you do the same?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Would you do the same? ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cadd4",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Bb",
-      "lyrics": "I don't wanna change"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't wanna change",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                           F",
-      "lyrics": "But you're just too good to miss"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But you're just too good ",
+          "overLyric": true
+        },
+        {
+          "chord": "F6/A",
+          "lyric": "to miss ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bbadd2",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "'Cause I'm intertwined"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Cause I'm intertwined ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "And I'm running blind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I'm running blind ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cadd4",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Bb",
-      "lyrics": "But I don't mind"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But I don't mind",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                      Gm",
-      "lyrics": "I'm so glad it came to this"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm so glad it came ",
+          "overLyric": true
+        },
+        {
+          "chord": "F/A",
+          "lyric": "to   ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "this",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "Gm            Bb",
-      "lyrics": "You know I've never"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You know I've ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fadd2",
+          "lyric": "never",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        F            C",
-      "lyrics": "Been so lonely on my own"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Been so ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "lonely on ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "my ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "own",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Gm",
-      "lyrics": "And it shows"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And it ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "shows",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               Bb",
-      "lyrics": "'Cause I don't see ya"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Cause I don't ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "see you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       F",
-      "lyrics": "Like I used to"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Like I u",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "sed to",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C",
-      "lyrics": "Now I'm going back on the things that I know"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "N.C",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Now I'm going back on the things that I know",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "F",
-      "lyrics": "Oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Oh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       C",
-      "lyrics": "All my nights"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "All ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "my n",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ights",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Bb",
-      "lyrics": "Taste like gold"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Taste ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "like ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "gold",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               C",
-      "lyrics": "Yeah, when I'm with you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Yeah, when I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "with you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     F",
-      "lyrics": "It's like everything glows"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's like everything ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "glows",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           C",
-      "lyrics": "And all my days"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And all ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "my d",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ays",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Bb",
-      "lyrics": "We can lay low"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We can ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "lay ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "low",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 C",
-      "lyrics": "Yeah, when we're waking up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Yeah, when we're ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7add4",
+          "lyric": "waking up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                F",
-      "lyrics": "We're waking up slow"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We're w",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "aking up ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "slow",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Post-Chorus]"
     },
     {
-      "chord": "F                         C",
-      "lyrics": "It's a little bit clearer now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's a little bit ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "clearer now  ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                             Bb",
-      "lyrics": "I love you like the sun came out"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I love you like the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F/A",
+          "lyric": "sun came ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "out",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Oh"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      C",
-      "lyrics": "We're waking up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We're ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "waking up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                F",
-      "lyrics": "We're waking up slow"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We're waking up ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "slow",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                        C",
-      "lyrics": "It's like I never had a doubt"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's like I never ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "had a doubt  ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                             Bb",
-      "lyrics": "I love you like the sun came out"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I love you like the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F/A",
+          "lyric": "sun came ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "out",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Oh"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      C",
-      "lyrics": "We're waking up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We're ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7add4",
+          "lyric": "waking up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "We're waking up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We're ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cadd4",
+          "lyric": "waking up",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "F",
-      "lyrics": "Like I told ya"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "Like I told ",
+          "overLyric": true
+        },
+        {
+          "chord": "F/A",
+          "lyric": "ya",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "Don't look backwards"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "Don't look back",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "wards ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Gm",
-      "lyrics": "'Cause now I see you here"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Cause now I see you here",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb",
-      "lyrics": "Nothing else matters"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fmaj9",
+          "lyric": " Nothing else matters",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Like I told ya"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "Like I told ",
+          "overLyric": true
+        },
+        {
+          "chord": "F/A",
+          "lyric": "ya",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "Don't look backwards"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "Don't look back",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "wards ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Gm",
-      "lyrics": "'Cause now I see you here"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Cause now I see you here",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I'm going back on the things that I know"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "N.C",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm going back on the things that I know",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "F",
-      "lyrics": "Oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Oh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       C",
-      "lyrics": "All my nights"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "All ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "my n",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ights",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Bb",
-      "lyrics": "Taste like gold"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Taste ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "like ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "gold",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               C",
-      "lyrics": "Yeah, when I'm with you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Yeah, when I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "with you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     F",
-      "lyrics": "It's like everything glows"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's like everything ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "glows",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           C               Bb",
-      "lyrics": "And all my days we can lay low"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And all ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "my d",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ays",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 C",
-      "lyrics": "Yeah, when we're waking up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We can ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "lay ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "low",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                F",
-      "lyrics": "We're waking up slow"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Yeah, when we're ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7add4",
+          "lyric": "waking up",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We're w",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "aking up ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "slow",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Post-Chorus]"
     },
     {
-      "chord": "                          C",
-      "lyrics": "It's a little bit clearer now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's a little bit ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "clearer now  ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                             Bb",
-      "lyrics": "I love you like the sun came out"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I love you like the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F/A",
+          "lyric": "sun came ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "out",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Oh"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      C",
-      "lyrics": "We're waking up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We're ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "waking up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                F",
-      "lyrics": "We're waking up slow"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We're waking up ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "slow",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                        C",
-      "lyrics": "It's like I never had a doubt"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's like I never ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "had a doubt  ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                             Bb",
-      "lyrics": "I love you like the sun came out"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I love you like the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F/A",
+          "lyric": "sun came ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "out",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Oh"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      C",
-      "lyrics": "We're waking up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We're ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "waking up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "We're waking up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We're ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cadd4",
+          "lyric": "waking up",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Waking Up Slow"

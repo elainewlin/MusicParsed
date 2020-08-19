@@ -16,258 +16,936 @@
       "label": "[Intro x2]"
     },
     {
-      "chord": "Am",
-      "lyrics": "Oh-oh-oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Oh-oh-oh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G",
-      "lyrics": "Ohoh-oh-ohoh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Ohoh",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "-oh-ohoh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Oh"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Oh-oh-oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Oh-oh-oh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  D",
-      "lyrics": "Oh-oh-ohoh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "-oh-ohoh",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 1]"
     },
     {
-      "chord": "       Am",
-      "lyrics": "You'll probably get a cold"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "probably get a cold",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       G",
-      "lyrics": "You'll definitely get old"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "definitely get old",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     F",
-      "lyrics": "Your bathroom has mold"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Your ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "bathroom has mold",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D",
-      "lyrics": "Years years bears"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Years years bears",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am",
-      "lyrics": "You might meet a lover"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "might meet a lover",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   G",
-      "lyrics": "Or something other"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Or ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "something other",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    F",
-      "lyrics": "You need to call your mother"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "need to call your mother",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D",
-      "lyrics": "Years years bears"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Years years bears",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "    F#m               D        A",
-      "lyrics": "I'm gonna be a better human if I can"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "gonna be a better ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "human if ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "I can",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    F#m               D        A",
-      "lyrics": "I'm gonna be a better human if I can"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "gonna be a better ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "human if ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "I can",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    F#m               D        A",
-      "lyrics": "I'm gonna be a better human if I can"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "gonna be a better ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "human if ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "I can",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         C#m                    D",
-      "lyrics": "And I've written things down so now I got a plan"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I've ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "written things down so ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "now I got a plan",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Interlude x2]"
     },
     {
-      "chord": "Am",
-      "lyrics": "Oh-oh-oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Oh-oh-oh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G",
-      "lyrics": "Ohoh-oh-ohoh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Ohoh",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "-oh-ohoh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Oh"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Oh-oh-oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Oh-oh-oh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  D",
-      "lyrics": "Oh-oh-ohoh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "-oh-ohoh",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "       Am",
-      "lyrics": "You're gonna need a friend"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "gonna need a friend",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G",
-      "lyrics": "Some things are gonna end"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Some thi",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ngs are gonna end",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       F",
-      "lyrics": "It's all just pretend"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's al",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "l just pretend",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D",
-      "lyrics": "Years years bears"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Years years bears",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Am",
-      "lyrics": "You're gonna to lose your keys"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "gonna to lose your keys",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G",
-      "lyrics": "You have to call the locksmith"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "have to call the locksmith",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        F",
-      "lyrics": "But you dont have her number"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But you ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "dont have her number",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D",
-      "lyrics": "Years years bears"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Years years bears",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "    F#m               D        A",
-      "lyrics": "I'm gonna be a better human if I can"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "gonna be a better ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "human if ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "I can",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    F#m               D        A",
-      "lyrics": "I'm gonna be a better human if I can"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "gonna be a better ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "human if ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "I can",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    F#m               D        A",
-      "lyrics": "I'm gonna be a better human if I can"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "gonna be a better ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "human if ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "I can",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         C#m                    D",
-      "lyrics": "And I've written things down so now I got a plan"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I've ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "written things down so ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "now I got a plan",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Interlude x2]"
     },
     {
-      "chord": "Am",
-      "lyrics": "Oh-oh-oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Oh-oh-oh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G",
-      "lyrics": "Ohoh-oh-ohoh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Ohoh",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "-oh-ohoh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Oh"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Oh-oh-oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Oh-oh-oh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  D",
-      "lyrics": "Oh-oh-ohoh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "-oh-ohoh",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 3]"
     },
     {
-      "chord": "       Am",
-      "lyrics": "You're gonna ask why"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "gonna ask why",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      G",
-      "lyrics": "You may as well try"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You ma",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "y as well try",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       F",
-      "lyrics": "The lights are in the sky"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The lig",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "hts are in the sky",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D",
-      "lyrics": "Years years bears"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Years years bears",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Am",
-      "lyrics": "Some things are gonna change"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Some ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "things are gonna change",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     G",
-      "lyrics": "Some things will stay the same"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Some ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "things will stay the same",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     F",
-      "lyrics": "It's all funny games"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "all funny games",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D",
-      "lyrics": "Years years bears"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Years years bears",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus x2]"
     },
     {
-      "chord": "    F#m               D        A",
-      "lyrics": "I'm gonna be a better human if I can"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "gonna be a better ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "human if ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "I can",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    F#m               D        A",
-      "lyrics": "I'm gonna be a better human if I can"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "gonna be a better ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "human if ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "I can",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    F#m               D        A",
-      "lyrics": "I'm gonna be a better human if I can"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "gonna be a better ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "human if ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "I can",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         C#m                    D",
-      "lyrics": "And I've written things down so now I got a plan"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I've ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "written things down so ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "now I got a plan",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "Am G D",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Outro]"
     },
     {
-      "chord": "Am                  G         D",
-      "lyrics": "All the world's a mess and it always has been"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "All the world's a me",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ss and it ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "always has been",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Am       G      D",
-      "lyrics": "But I hope for better for you and me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "hope for ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "better ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "for you and me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                  G         D",
-      "lyrics": "All the world's a mess and it always has been"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "All the world's a me",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ss and it ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "always has been",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Am       G      D",
-      "lyrics": "But I hope for better for you and me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "hope for ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "better ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "for you and me",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Years Years Bears"

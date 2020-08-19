@@ -13,325 +13,1207 @@
       "label": "Verse:"
     },
     {
-      "chord": "Gm                      Bb",
-      "lyrics": "Once I was seven years old,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Once I was seven years o",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ld,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              Eb",
-      "lyrics": "my momma told me,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "my momma told ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "me,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                      F",
-      "lyrics": "go make yourself some friends or you'll be lonely"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "go make yourself some ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "friends or you'll be lonely",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm                      Bb           Eb",
-      "lyrics": "once I was Seven years old"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "once I was Seven years o",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ld           ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Gm       F        Bb",
-      "lyrics": "It was a big big world,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "It was a ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "big big w",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "orld,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               Eb",
-      "lyrics": "but we thought we were bigger."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "but we thought ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "we were bigger.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                           F",
-      "lyrics": "Pushing each other to the limits,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Pushing each other to the l",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "imits,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "we were learning quicker."
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "we were learning quicker.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm          F",
-      "lyrics": "By eleven smoking herb"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "By eleven sm",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "oking herb",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Bb",
-      "lyrics": "and drinking burning liquor"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and drinking ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "burning liquor",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb                            F",
-      "lyrics": "Never rich so we were out to make that steady figure"
-    },
-    {
-      "label": "Verse:"
-    },
-    {
-      "chord": "Gm                F       Bb",
-      "lyrics": "Once I was eleven years old,"
-    },
-    {
-      "chord": "              Eb",
-      "lyrics": "my daddy told me,"
-    },
-    {
-      "chord": "                  F",
-      "lyrics": "go get yourself a wife or you'll be lonely."
-    },
-    {
-      "chord": "Gm                F      Bb          Eb",
-      "lyrics": "Once I was eleven years old"
-    },
-    {
-      "chord": "Gm            F       Bb",
-      "lyrics": "I always have that dream"
-    },
-    {
-      "chord": "                     Eb",
-      "lyrics": "like my Daddy before me"
-    },
-    {
-      "chord": "                       F",
-      "lyrics": "So I\u00b4m started writing songs"
-    },
-    {
-      "chord": "",
-      "lyrics": "I\u00b4ll starting writing stories"
-    },
-    {
-      "chord": "Gm          F        Bb",
-      "lyrics": "Something about the glory,"
-    },
-    {
-      "chord": "                      Eb",
-      "lyrics": "just always seemed to bore me,"
-    },
-    {
-      "chord": "                          F",
-      "lyrics": "Cause only those I really love"
-    },
-    {
-      "chord": "",
-      "lyrics": "will ever really know me"
-    },
-    {
-      "label": "Verse:"
-    },
-    {
-      "chord": "Gm                F       Bb",
-      "lyrics": "Once I was twenty years old,"
-    },
-    {
-      "chord": "              Eb",
-      "lyrics": "my story got told,"
-    },
-    {
-      "chord": "                   F",
-      "lyrics": "before the morning sun, when life was lonely."
-    },
-    {
-      "chord": "Gm                F       Bb          Eb",
-      "lyrics": "Once I was twenty years old"
-    },
-    {
-      "chord": "Gm             F",
-      "lyrics": "I only seek my goals,"
-    },
-    {
-      "chord": "          Bb",
-      "lyrics": "I don't believe in failure."
-    },
-    {
-      "chord": "Eb                         F",
-      "lyrics": "Cause I know the smallest voices,"
-    },
-    {
-      "chord": "",
-      "lyrics": "they can making major,"
-    },
-    {
-      "chord": "Gm                 F            Bb",
-      "lyrics": "I got my boys with me at least those in favour"
-    },
-    {
-      "chord": "Eb                            F",
-      "lyrics": "and if we don\u00b4t see before I leave,"
-    },
-    {
-      "chord": "",
-      "lyrics": "I hope to see you later."
-    },
-    {
-      "label": "Verse:"
-    },
-    {
-      "chord": "Gm            F       Bb",
-      "lyrics": "Once I was 20 years old"
-    },
-    {
-      "chord": "              Eb",
-      "lyrics": "my story got told"
-    },
-    {
-      "chord": "                        F",
-      "lyrics": "I was writing about everything,"
-    },
-    {
-      "chord": "",
-      "lyrics": "I saw before me"
-    },
-    {
-      "chord": "Gm             F      Bb          Eb",
-      "lyrics": "Once I was 20 years old"
-    },
-    {
-      "chord": "Gm               F       Bb",
-      "lyrics": "Soon we\u00b4ll be 30 years old"
-    },
-    {
-      "chord": "                      Eb",
-      "lyrics": "our songs have been sold"
-    },
-    {
-      "chord": "                        F",
-      "lyrics": "we\u00b4re travel around the world"
-    },
-    {
-      "chord": "",
-      "lyrics": "and we\u00b4re still rolling"
-    },
-    {
-      "chord": "Gm               F       Bb         Eb",
-      "lyrics": "Soon we\u00b4ll be 30 years old"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "Never rich so we were out to m",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ake that steady figure",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Verse:"
     },
     {
-      "chord": "Gm          F              Bb",
-      "lyrics": "I\u00b4m still learning about life"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Once I was eleven ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "years ol",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "d,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "my woman brought children for me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "my daddy told ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "me,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb",
-      "lyrics": "so I can sing them all my songs"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "go get yourself a ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "wife or you'll be lonely.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           F",
-      "lyrics": "and I can tell them storys"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Once I was eleven ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "years o",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ld          ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Gm           F           Bb",
-      "lyrics": "Most of my boys are with me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "I always have ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "that dre",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "am",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                              Eb",
-      "lyrics": "some are still out seeking glory"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "like my Daddy before ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "And some I had to leave behind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So I´m started writing ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "songs",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             F",
-      "lyrics": "my brother I\u00b4m still sorry"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I´ll starting writing stories",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Something ab",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "out the g",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "lory,",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "just always seemed to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "bore me,",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause only those I really ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "love",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "will ever really know me",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Verse:"
     },
     {
-      "chord": "Gm                 F    Bb",
-      "lyrics": "Soon I\u00b4ll be 60 years old"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Once I was twenty ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "years ol",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "d,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Eb",
-      "lyrics": "my daddy got sixty-one"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "my story got t",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "old,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                            F",
-      "lyrics": "remember life and then your life"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "before the morning ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "sun, when life was lonely.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "becomes a better one"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Once I was twenty ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "years ol",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "d           ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Gm         F         Bb",
-      "lyrics": "I make the man so happy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "I only seek my ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "goals,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "when I wrote the letter once"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't be",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "lieve in failure.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb                           F",
-      "lyrics": "I hope my children come and visit"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "Cause I know the smallest v",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "oices,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "once ore twice a month"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "they can making major,",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "I got my boys with ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "me at least t",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "hose in favour",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "and if we don´t see before I l",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "eave,",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I hope to see you later.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Verse:"
     },
     {
-      "chord": "Gm                F     Bb",
-      "lyrics": "Soon I\u00b4ll be 60 years old"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Once I was 20 ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "years ol",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "d",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "when I think the world is cold"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "my story got t",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "old",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb",
-      "lyrics": "when I have a lot of children"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I was writing about ever",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ything,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        F",
-      "lyrics": "who can bore me"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I saw before me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm               F      Bb       Eb",
-      "lyrics": "Soon I\u00b4ll be 60 years old"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Once I was 20 y",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ears ol",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "d           ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Gm              F      Bb",
-      "lyrics": "Soon I\u00b4ll be 60 years old"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Soon we´ll be 30 ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "years ol",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "d",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "will I think the world is cold"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "our songs have been so",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "ld",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb",
-      "lyrics": "when I have a lot of children"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "we´re travel around the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "world",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        F",
-      "lyrics": "who can warm"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and we´re still rolling",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm                 F    Bb       Eb",
-      "lyrics": "Soon I\u00b4ll be 60 years old"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Soon we´ll be 30 ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "years ol",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "d          ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "Verse:"
     },
     {
-      "chord": "Gm                 F     Bb",
-      "lyrics": "Once I was seven years old,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "I´m still le",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "arning about li",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "fe",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              Eb",
-      "lyrics": "my momma told me,"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "my woman brought children for me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                      F",
-      "lyrics": "go make yourself some friends or you'll be lonely"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "so I can sing them all my songs",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm                      Bb           Eb",
-      "lyrics": "once I was seven years old"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and I can t",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ell them storys",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm           F           Bb",
-      "lyrics": "once I was seven years old"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Most of my bo",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ys are with ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "some are still out seeking glo",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "ry",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And some I had to leave behind",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "my brother I´",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "m still sorry",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "Verse:"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Soon I´ll be 60 yea",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "rs ol",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "d",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "my daddy got sixty-",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "one",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "remember life and then your ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "life",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "becomes a better one",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "I make the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "man so hap",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "py",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "when I wrote the letter once",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "I hope my children come and v",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "isit",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "once ore twice a month",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "Verse:"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Soon I´ll be 60 ye",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ars ol",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "d",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "when I think the world is cold",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "when I have a lot of children",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "who can ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "bore me",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Soon I´ll be 60 y",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ears ol",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "d        ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Soon I´ll be 60 ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "years o",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ld",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "will I think the world is cold",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "when I have a lot of children",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "who can ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "warm",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Soon I´ll be 60 yea",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "rs ol",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "d        ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "label": "Verse:"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Once I was seven ye",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ars ol",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "d,",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "my momma told ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "me,",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "go make yourself some ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "friends or you'll be lonely",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "once I was seven years o",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ld           ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "once I was se",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ven years ol",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "d",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "7 Years"

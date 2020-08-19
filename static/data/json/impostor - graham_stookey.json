@@ -22,260 +22,1132 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "F#m9        E5     Dmaj7     Bm",
-      "lyrics": "I failed to hold onto my idealistic view of you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m9",
+          "lyric": "I failed to ",
+          "overLyric": true
+        },
+        {
+          "chord": "E5",
+          "lyric": "hold on",
+          "overLyric": true
+        },
+        {
+          "chord": "Dmaj7",
+          "lyric": "to my idea",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "listic view of you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m9             E5        Dmaj7             Bm",
-      "lyrics": "Cause the girl I thought I knew could not be further from the truth"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m9",
+          "lyric": "Cause the girl I ",
+          "overLyric": true
+        },
+        {
+          "chord": "E5",
+          "lyric": "thought I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dmaj7",
+          "lyric": "knew could not be ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "further from the truth",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m9           E5        Dmaj7             Bm",
-      "lyrics": "She knew right where she was and where she wanted be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m9",
+          "lyric": "She knew right ",
+          "overLyric": true
+        },
+        {
+          "chord": "E5",
+          "lyric": "where she ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dmaj7",
+          "lyric": "was and where she ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "wanted be",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m9        E5              Dmaj7           Bm",
-      "lyrics": "But who you are and who you seem are two completely different things"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m9",
+          "lyric": "But who you ",
+          "overLyric": true
+        },
+        {
+          "chord": "E5",
+          "lyric": "are and who you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dmaj7",
+          "lyric": "seem are two com",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "pletely different things",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "F#m9          E5     Dmaj7           Bm",
-      "lyrics": "She looked me in the eye and told me you were fine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m9",
+          "lyric": "She looked me ",
+          "overLyric": true
+        },
+        {
+          "chord": "E5",
+          "lyric": "in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dmaj7",
+          "lyric": "eye and told me ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "you were fine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m9         E5         Dmaj7      Bm",
-      "lyrics": "And though I questioned her she convinced me you were mine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m9",
+          "lyric": "And though I ",
+          "overLyric": true
+        },
+        {
+          "chord": "E5",
+          "lyric": "questioned ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dmaj7",
+          "lyric": "her she con",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "vinced me you were mine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m9       E5      Dmaj7         Bm",
-      "lyrics": "She had me in your hands helplessly oblivious"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m9",
+          "lyric": "She had me ",
+          "overLyric": true
+        },
+        {
+          "chord": "E5",
+          "lyric": "in your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dmaj7",
+          "lyric": "hands helpless",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "ly oblivious",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m9             E5          Dmaj7                Bm",
-      "lyrics": "To the fact that you weren't her; that there were really three of us"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m9",
+          "lyric": "To the fact that ",
+          "overLyric": true
+        },
+        {
+          "chord": "E5",
+          "lyric": "you weren't ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dmaj7",
+          "lyric": "her; that there were ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "really three of us",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "D              A/C#",
-      "lyrics": "She was just a dream"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "She was just a ",
+          "overLyric": true
+        },
+        {
+          "chord": "A/C#",
+          "lyric": "dream",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             A",
-      "lyrics": "A dream that felt so right"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A dream that ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "felt so right",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          E/G#",
-      "lyrics": "A dream I held so tight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A dream I ",
+          "overLyric": true
+        },
+        {
+          "chord": "E/G#",
+          "lyric": "held so tight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             D              A/C#",
-      "lyrics": "But then you woke me with a fright"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But then you ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "woke me with a ",
+          "overLyric": true
+        },
+        {
+          "chord": "A/C#",
+          "lyric": "fright",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             A                      E/G#                  B",
-      "lyrics": "And then the girl of my dreams disappeared into the night"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And then the ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "girl of my dreams disap",
+          "overLyric": true
+        },
+        {
+          "chord": "E/G#",
+          "lyric": "peared into the night ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "D       Bm9",
-      "lyrics": "You and me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "You and ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm9",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      F#m11",
-      "lyrics": "Never were because of her"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Never ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m11",
+          "lyric": "were because of her",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               Esus2",
-      "lyrics": "And because of her"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And because of ",
+          "overLyric": true
+        },
+        {
+          "chord": "Esus2",
+          "lyric": "her",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      E             D",
-      "lyrics": "I can never hope to be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I can ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "never hope to ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "be",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Bm9",
-      "lyrics": "Completely sure"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Completely ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm9",
+          "lyric": "sure",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            E",
-      "lyrics": "That when I fell in love with you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That when I ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "fell in love with you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       C#7                      F#m9  E5  Dmaj7",
-      "lyrics": "It was you and not an impostor"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It was ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#7",
+          "lyric": "you and not an impostor  ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m9",
+          "lyric": "  "
+        },
+        {
+          "chord": "E5",
+          "lyric": "  "
+        },
+        {
+          "chord": "Dmaj7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "             Bm",
-      "lyrics": "Was she your impostor?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Was she your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "impostor?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m9  E5  Dmaj7  Bm",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m9",
+          "lyric": "  "
+        },
+        {
+          "chord": "E5",
+          "lyric": "  "
+        },
+        {
+          "chord": "Dmaj7",
+          "lyric": "  "
+        },
+        {
+          "chord": "Bm",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 3]"
     },
     {
-      "chord": "",
-      "lyrics": "Syncopated strum!"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Syncopated strum!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m             E  D                  C#7       F#m",
-      "lyrics": "By the time I recognized that she was you in disguise"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": "By the time I re",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "cog",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "nized that she was ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#7",
+          "lyric": "you in dis",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "guise",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  E   D               C#7         F#m",
-      "lyrics": "My guard had been let down leaving my heart compromised"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "My guard had been ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "let ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "down leaving my ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#7",
+          "lyric": "heart compro",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "mised",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             E    D               C#7       F#m",
-      "lyrics": "I have played the fool and I have played it well"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I have played",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": " the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "fool and I have ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#7",
+          "lyric": "played it ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "well",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               E          D           C#7             F#m",
-      "lyrics": "I knew not who you really were as she cast her little spell"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I knew not who ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "you really ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "were as she ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#7",
+          "lyric": "cast her little ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "spell",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "D              A/C#",
-      "lyrics": "She was just a dream"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "She was just a ",
+          "overLyric": true
+        },
+        {
+          "chord": "A/C#",
+          "lyric": "dream",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             A",
-      "lyrics": "A dream that felt so right"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A dream that ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "felt so right",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          E/G#",
-      "lyrics": "A dream I held so tight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A dream I ",
+          "overLyric": true
+        },
+        {
+          "chord": "E/G#",
+          "lyric": "held so tight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             D              A/C#",
-      "lyrics": "But then you woke me with a fright"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But then you ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "woke me with a ",
+          "overLyric": true
+        },
+        {
+          "chord": "A/C#",
+          "lyric": "fright",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             A                      E/G#                  B",
-      "lyrics": "And then the girl of my dreams disappeared into the night"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And then the ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "girl of my dreams disap",
+          "overLyric": true
+        },
+        {
+          "chord": "E/G#",
+          "lyric": "peared into the night ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "D       Bm9",
-      "lyrics": "You and me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "You and ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm9",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      F#m11",
-      "lyrics": "Never were because of her"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Never ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m11",
+          "lyric": "were because of her",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               Esus2",
-      "lyrics": "And because of her"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And because of ",
+          "overLyric": true
+        },
+        {
+          "chord": "Esus2",
+          "lyric": "her",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      E             D",
-      "lyrics": "I can never hope to be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I can ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "never hope to ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "be",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Bm9",
-      "lyrics": "Completely sure"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Completely ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm9",
+          "lyric": "sure",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            E",
-      "lyrics": "That when I fell in love with you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That when I ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "fell in love with you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       C#7                      F#m9  E5  Dmaj7",
-      "lyrics": "It was you and not an impostor"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It was ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#7",
+          "lyric": "you and not an impostor  ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m9",
+          "lyric": "  "
+        },
+        {
+          "chord": "E5",
+          "lyric": "  "
+        },
+        {
+          "chord": "Dmaj7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "             Bm",
-      "lyrics": "Was she your impostor?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Was she your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "impostor?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m9  E5  Dmaj7  Bm",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m9",
+          "lyric": "  "
+        },
+        {
+          "chord": "E5",
+          "lyric": "  "
+        },
+        {
+          "chord": "Dmaj7",
+          "lyric": "  "
+        },
+        {
+          "chord": "Bm",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "D              A/C#",
-      "lyrics": "She was just a dream"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "She was just a ",
+          "overLyric": true
+        },
+        {
+          "chord": "A/C#",
+          "lyric": "dream",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             A",
-      "lyrics": "A dream that felt so right"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A dream that ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "felt so right",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          E/G#",
-      "lyrics": "A dream I held so tight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A dream I ",
+          "overLyric": true
+        },
+        {
+          "chord": "E/G#",
+          "lyric": "held so tight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             D              A/C#",
-      "lyrics": "But then you woke me with a fright"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But then you ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "woke me with a ",
+          "overLyric": true
+        },
+        {
+          "chord": "A/C#",
+          "lyric": "fright",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             A                      E/G#                  B",
-      "lyrics": "And then the girl of my dreams disappeared into the night"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And then the ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "girl of my dreams disap",
+          "overLyric": true
+        },
+        {
+          "chord": "E/G#",
+          "lyric": "peared into the night ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "D       Bm9",
-      "lyrics": "You and me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "You and ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm9",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      F#m11",
-      "lyrics": "Never were because of her"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Never ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m11",
+          "lyric": "were because of her",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               Esus2",
-      "lyrics": "And because of her"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And because of ",
+          "overLyric": true
+        },
+        {
+          "chord": "Esus2",
+          "lyric": "her",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      E             D",
-      "lyrics": "I can never hope to be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I can ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "never hope to ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "be",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Bm9",
-      "lyrics": "Completely sure"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Completely ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm9",
+          "lyric": "sure",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            E",
-      "lyrics": "That when I fell in love with you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That when I ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "fell in love with you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       C#7                      F#m9  E5  Dmaj7",
-      "lyrics": "It was you and not an impostor"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It was ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#7",
+          "lyric": "you and not an impostor  ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m9",
+          "lyric": "  "
+        },
+        {
+          "chord": "E5",
+          "lyric": "  "
+        },
+        {
+          "chord": "Dmaj7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "             Bm      F#m9  E5  Dmaj7",
-      "lyrics": "Was she an impostor?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Was she an im",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "postor? ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m9",
+          "lyric": "  "
+        },
+        {
+          "chord": "E5",
+          "lyric": "  "
+        },
+        {
+          "chord": "Dmaj7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "             Bm",
-      "lyrics": "Was she your impostor?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Was she your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "impostor?",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Impostor"

@@ -14,143 +14,594 @@
       "label": "Verse:"
     },
     {
-      "chord": "Am                         Em",
-      "lyrics": "I remember tears streaming down your face"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I remember tears streaming ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "down your face",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Cmaj7                  G",
-      "lyrics": "When I said, I'll never let you go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When I sa",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "id, I'll never let you ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "go",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                     Em                  Cmaj7    G",
-      "lyrics": "When all those shadows almost killed your light"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "When all those shadows ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "almost killed your l",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "ight     ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am          Em             Cmaj7          G",
-      "lyrics": "I remember you said, Don't leave me here alone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I remember y",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ou said, Don't ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "leave me here a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "lone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                      Em              Cmaj7",
-      "lyrics": "But all that's dead and gone and passed tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "But all that's dead and ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "gone and passed ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "tonight",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Chorus:"
     },
     {
-      "chord": "Cmaj7              G",
-      "lyrics": "Just close your eyes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cmaj7",
+          "lyric": "Just close your eye",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "s",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     D             Cmaj7",
-      "lyrics": "The sun is going down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The s",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "un is going do",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "wn",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             G",
-      "lyrics": "You'll be alright"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You'll be alr",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    D              Cmaj7",
-      "lyrics": "No one can hurt you now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "No o",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ne can hurt you",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": " now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              G",
-      "lyrics": "Come morning light"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Come morning l",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D           Cmaj7     D   Cmaj7",
-      "lyrics": "You and I'll be safe and sound"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "You and I'll",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": " be safe a",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "nd s",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "ound",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Verse:"
     },
     {
-      "chord": "Am                   Em              Cmaj7",
-      "lyrics": "Don't you dare look out your window darling"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Don't you dare look o",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ut your window d",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "arling",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                G",
-      "lyrics": "everything's on fire"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "everything's on ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "fire",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                   Em               Cmaj7     G",
-      "lyrics": "The war outside our door keeps raging on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "The war outside our d",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "oor keeps raging ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "on        ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am     Em      Cmaj7   G",
-      "lyrics": "Hold onto this lullaby"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Hold on",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "to this ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "lullaby ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am     Em            Cmaj7",
-      "lyrics": "Even when the music's gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Even wh",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "en the music's",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": " gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Cmaj7",
-      "lyrics": "Gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cmaj7",
+          "lyric": "Gone",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Chorus:"
     },
     {
-      "chord": "Cmaj7              G",
-      "lyrics": "Just close your eyes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cmaj7",
+          "lyric": "Just close your eye",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "s",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     D             Cmaj7",
-      "lyrics": "The sun is going down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The s",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "un is going do",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "wn",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             G",
-      "lyrics": "You'll be alright"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You'll be alr",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    D              Cmaj7",
-      "lyrics": "No one can hurt you now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "No o",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ne can hurt you",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": " now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              G",
-      "lyrics": "Come morning light"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Come morning l",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D           Cmaj7     D   Cmaj7",
-      "lyrics": "You and I'll be safe and sound"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "You and I'll",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": " be safe a",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "nd s",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "ound",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Bridge:"
     },
     {
-      "chord": "Cmaj7   Em",
-      "lyrics": "Ooh Ooh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cmaj7",
+          "lyric": "Ooh Ooh ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Cmaj7   Em",
-      "lyrics": "Oh Oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cmaj7",
+          "lyric": "Oh Oh   ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Cmaj7   Em",
-      "lyrics": "Ooh Ooh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cmaj7",
+          "lyric": "Ooh Ooh ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Cmaj7   Em",
-      "lyrics": "Oh Oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cmaj7",
+          "lyric": "Oh Oh   ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "Chorus:"
     },
     {
-      "chord": "Cmaj7             G   D",
-      "lyrics": "Just close your eyes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cmaj7",
+          "lyric": "Just close your ey",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "es  ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Cmaj7         G   D",
-      "lyrics": "You'll be alright"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cmaj7",
+          "lyric": "You'll be alri",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ght ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Cmaj7          G    D",
-      "lyrics": "Come morning light,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cmaj7",
+          "lyric": "Come morning li",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ght, ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "D               Cmaj7  D     Cmaj7",
-      "lyrics": "You and I'll be safe and sound"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "You and I'll be ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "safe an",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "d soun",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "d",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Safe And Sound"

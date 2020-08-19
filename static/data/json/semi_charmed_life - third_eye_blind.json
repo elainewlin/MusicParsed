@@ -13,444 +13,1706 @@
       "label": "[Intro]"
     },
     {
-      "chord": "G  D  C       G  D  C",
-      "lyrics": "doo.. doo.. doo.."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "doo",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ".. ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "doo.. do",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "o..",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 1]"
     },
     {
-      "chord": "                   G",
-      "lyrics": "I'm packed and I'm holding I'm smiling"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm packed and I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "holding I'm smiling",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      D                           C",
-      "lyrics": "She's living she's golden and she lives for me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "She's ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "living she's golden and she ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "lives for me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                           G",
-      "lyrics": "She says she lives for me Ovation"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "She says she lives for me O",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "vation",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    D",
-      "lyrics": "her own motivation"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "her ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "own motivation",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                                     G",
-      "lyrics": "She comes around and she goes down on me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "She comes around and she goes down on ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                D                    C",
-      "lyrics": "And I make her smile like a drug for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I make her s",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "mile like a drug for ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Do ever what you want to do"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Do ever what you want to do",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            G",
-      "lyrics": "Coming over you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Coming over ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         D",
-      "lyrics": "Keep on smiling what we go through"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Keep on s",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "miling what we go through",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "One stop to the rhythm that divides you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "One stop to the rhythm that divides you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                D                          C",
-      "lyrics": "And I speak to you like the chorus to the verse"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "And I speak to yo",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "u like the chorus to the ve",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "rse",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                     G",
-      "lyrics": "Chop another link like a coda with a curse"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Chop another link like a coda with a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "curse",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     D                     C",
-      "lyrics": "And I come on like a freak show takes the stage"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I come on like a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "freak show takes the s",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "tage",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "We give them the games we play she said"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We give them the games we play she said",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus 1]"
     },
     {
-      "chord": "G      D         C",
-      "lyrics": "I want something else"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I want ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "something ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "else",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  G",
-      "lyrics": "To get me through this"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To get me through ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "this",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                    C",
-      "lyrics": "Semi-charmed kind of life baby baby"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Semi-charmed kind of ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "life baby baby",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G      D         C",
-      "lyrics": "I want something else"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I want ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "something ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "else",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I'm not listening"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm not listening",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         G  D    C",
-      "lyrics": "when you say Goodbye"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "when you ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "say",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " Good",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "bye",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Post-chorus]"
     },
     {
-      "chord": "G  D  C       G  D  C",
-      "lyrics": "doo.. doo.. doo.."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "doo",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ".. ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "doo.. do",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "o..",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "               G",
-      "lyrics": "The sky it was gold it was rose"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The sky it was ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "gold it was rose",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      D                            C",
-      "lyrics": "I was taking sips of it through my nose"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I was ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "taking sips of it through my ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "nose",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "And I wish I could get back there"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I wish I could get back there",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           G",
-      "lyrics": "Some place back there"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Some place ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "back there",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               D",
-      "lyrics": "Smiling in the pictures you would take"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Smiling in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "pictures you would take",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "Doing crystal myth will lift"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Doing crystal myth will lift",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "you up until you break"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "you up until you break",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          G                D",
-      "lyrics": "It won't stop I won't come down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It won't s",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "top I won't come ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "down",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    C",
-      "lyrics": "I keep stock with a tick-tock"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I keep stock with a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "tick-tock",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "rhythm and a bump for the drop"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "rhythm and a bump for the drop",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           G",
-      "lyrics": "And then I bumped up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And then I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "bumped up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           D",
-      "lyrics": "I took the hit that I was given"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I took the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "hit that I was given",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       C",
-      "lyrics": "Then I bumped again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Then I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "bumped again",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "And then I bumped again and said"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And then I bumped again and said",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Refrain]"
     },
     {
-      "chord": "D              C",
-      "lyrics": "How do I get back there to"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "How do I get ba",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ck there to",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    D",
-      "lyrics": "The place where I"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "place where I",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       C",
-      "lyrics": "dell asleep inside you?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "dell as",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "leep inside you?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D              C",
-      "lyrics": "How do I get myself back to"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "How do I get my",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "self back to",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    D",
-      "lyrics": "The place where you said"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "place where you said",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus 1]"
     },
     {
-      "chord": "G      D         C",
-      "lyrics": "I want something else"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I want ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "something ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "else",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  G",
-      "lyrics": "To get me through this"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To get me through ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "this",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                    C",
-      "lyrics": "Semi-charmed kind of life baby baby"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Semi-charmed kind of ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "life baby baby",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G      D         C",
-      "lyrics": "I want something else"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I want ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "something ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "else",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I'm not listening"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm not listening",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         G  D    C",
-      "lyrics": "when you say Goodbye"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "when you ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "say",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " Good",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "bye",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 3]"
     },
     {
-      "chord": "G                  D",
-      "lyrics": "I believe in the sand"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I believe in the sa",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "nd",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           C",
-      "lyrics": "beneath my toes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "beneath my ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "toes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "The beach gives a feeling"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The beach gives a feeling",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          G",
-      "lyrics": "An earthy feeling"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "An earthy ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "feeling",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    D",
-      "lyrics": "I believe in the"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I be",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "lieve in the",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           C",
-      "lyrics": "faith that grows"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "faith that ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "grows",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "And the four right"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And the four right",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           G          D",
-      "lyrics": "chords can make me cry"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "chords can ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "make me cry",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "When I'm with you I"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "When I'm with you I",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  G",
-      "lyrics": "feel like I could die"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "feel like I could ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "die",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "And that would be"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And that would be",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D        C",
-      "lyrics": "all right All right"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "all right",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " All right",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "             D",
-      "lyrics": "and when the plane came in"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and when the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "plane came in",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C                    D",
-      "lyrics": "She said she was crashing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "She ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "said she was crashing",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "              C",
-      "lyrics": "The velvet it rips in"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The velvet it ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "rips in",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            D",
-      "lyrics": "the city we tripped"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "the city we ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "tripped",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               C",
-      "lyrics": "On the urge to feel alive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "On the urge to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "feel alive",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G",
-      "lyrics": "But now I'm struggling to survive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "now I'm struggling to survive",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      D",
-      "lyrics": "Those days you were wearing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Those ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "days you were wearing",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     C",
-      "lyrics": "That velvet dress"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "velvet dress",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D",
-      "lyrics": "You're the priestess"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "You're the priestess",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  C",
-      "lyrics": "I must confess"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "must confess",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      D",
-      "lyrics": "Those little red panties"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Those ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "little red panties",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     C",
-      "lyrics": "They pass the test"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "They ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "pass the test",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      G",
-      "lyrics": "Slide up around the belly"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Slide ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "up around the belly",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Face down on the matress"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Face down on the matress",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D  C        D      C",
-      "lyrics": "One And you hold me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "One",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " And you ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "hold me",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "          D     C",
-      "lyrics": "and we're broken"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and we're ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "broken",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "           G",
-      "lyrics": "Still it's all that I"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Still it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "all that I",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "wanna do just a little now"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "wanna do just a little now",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 4]"
     },
     {
-      "chord": "G           D",
-      "lyrics": "Feel myself head"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Feel myself ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "head",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            C",
-      "lyrics": "made of the ground"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "made of the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ground",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I'm scared I'm not coming"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm scared I'm not coming",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G   D   C",
-      "lyrics": "down No no And I won't"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "down",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " No ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "no And I won't",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G      D",
-      "lyrics": "run for my life"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "run for ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "my life",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "She's got her jaws now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "She's got her jaws now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  G",
-      "lyrics": "locked down in a smile"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "locked down in a s",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "mile",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               D",
-      "lyrics": "But nothing is all"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But nothing is ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "all",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     C",
-      "lyrics": "right all right"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "right",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " all right",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus 2]"
     },
     {
-      "chord": "G     D          C",
-      "lyrics": "I want something else"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I want",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " something ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "else",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          G       D     C",
-      "lyrics": "To get me through this life baby"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To get me ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "through ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "this l",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ife baby",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G     D          C",
-      "lyrics": "I want something else"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I want",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " something ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "else",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I'm not listening"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm not listening",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G        D       C  G/B Am",
-      "lyrics": "when you say Goodbye"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "when you ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "say Good",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "bye",
+          "overLyric": true
+        },
+        {
+          "chord": "G/B",
+          "lyric": " "
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    C  G/B Am",
-      "lyrics": "goodbye..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "good",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "bye",
+          "overLyric": true
+        },
+        {
+          "chord": "G/B",
+          "lyric": "... ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    C  G/B Am",
-      "lyrics": "goodbye..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "good",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "bye",
+          "overLyric": true
+        },
+        {
+          "chord": "G/B",
+          "lyric": "... ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    G  D C G D C",
-      "lyrics": "goodbye..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "good",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "bye",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "..",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ". ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Post-chorus]"
     },
     {
-      "chord": "G  D  C       G  D  C",
-      "lyrics": "doo.. doo.. doo.."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "doo",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ".. ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "doo.. do",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "o..",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Outro]"
     },
     {
-      "chord": "               G",
-      "lyrics": "The sky it was gold it was rose"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The sky it was ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "gold it was rose",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      D                            C",
-      "lyrics": "I was taking sips of it through my nose"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I was ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "taking sips of it through my ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "nose",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "And I wish I could get back there"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I wish I could get back there",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           G",
-      "lyrics": "Some place back there"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Some place ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "back there",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       D                  C",
-      "lyrics": "in the place you used to start"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "place you used to s",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "tart",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G  D  C    G  D  C",
-      "lyrics": "doo.. doo.. doo"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "doo",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ".. ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "doo..",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " do",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "o  ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "Semi Charmed Life"

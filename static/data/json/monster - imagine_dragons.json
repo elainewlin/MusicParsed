@@ -14,212 +14,936 @@
       "label": "[Verse]"
     },
     {
-      "chord": "Em            G",
-      "lyrics": " Ever since I could remember,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": " Ever since I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "could remember,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D            A",
-      "lyrics": " Everything inside of me,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": " Everything i",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "nside of me,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em      G            D         A",
-      "lyrics": " Just wanted to fit in (oh oh oh oh)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": " Just wa",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "nted to fit i",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "n (oh oh o",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "h oh)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em             G",
-      "lyrics": " I was never one for pretenders,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": " I was never on",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "e for pretenders,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                 A",
-      "lyrics": " Everything I tried to be,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": " Everything I trie",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "d to be,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em       G              D       A",
-      "lyrics": " Just wouldn't settle in (oh oh oh oh)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": " Just wou",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ldn't settle in",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " (oh oh ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "oh oh)",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "Em                G",
-      "lyrics": " If I told you what I was,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": " If I told you wha",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "t I was,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                          A",
-      "lyrics": " Would you turn your back on me?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": " Would you turn your back o",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "n me?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                 G",
-      "lyrics": " And if I seem dangerous,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": " And if I seem dang",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "erous,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                  A",
-      "lyrics": " Would you be scared?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": " Would you be scare",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "d?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                   G",
-      "lyrics": " I get the feeling just because,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": " I get the feeling ju",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "st because,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   D                             A",
-      "lyrics": " Everything I touch isn't dark enough"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " Ev",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "erything I touch isn't dark en",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ough",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em          G               D",
-      "lyrics": " If this problem lies in me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": " If this pro",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "blem lies in me ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "     Em         G            D            A",
-      "lyrics": " I'm only a man with a chamber who's got me,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "only a man ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "with a chambe",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "r who's got m",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "e,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Em             G         D             A",
-      "lyrics": " I'm taking a stand to escape what's inside me."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "taking a stand ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "to escape ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "what's inside ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "me.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Em         G",
-      "lyrics": " A monster, A monster,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " A m",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "onster, A m",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "onster,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       D                A",
-      "lyrics": " I've turned into a monster,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " I've t",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "urned into a mons",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ter,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Em         G",
-      "lyrics": " A monster, A monster,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " A m",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "onster, A m",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "onster,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       D                   A",
-      "lyrics": " And it keeps getting stronger."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " And it",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " keeps getting stron",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ger.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "Em         G",
-      "lyrics": " Can I clear my conscience,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": " Can I clea",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "r my conscience,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   D         A",
-      "lyrics": " If I'm different from the rest,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " If",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " I'm diffe",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "rent from the rest,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em      G                 D         A",
-      "lyrics": " Do I have to run and hide? (oh oh oh oh)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": " Do I ha",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ve to run and hide",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "? (oh oh o",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "h oh)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em          G",
-      "lyrics": " I never said that I want this,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": " I never sai",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "d that I want this,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  D          A",
-      "lyrics": " This burden came to me,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " T",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "his burden ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "came to me,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em         G                   D        A",
-      "lyrics": " And it's made it's home inside (oh oh oh oh)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": " And it's m",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ade it's home inside",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " (oh oh o",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "h oh)",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "Em               G",
-      "lyrics": " If I told you what I was,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": " If I told you wh",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "at I was,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " D                     A",
-      "lyrics": " Would you turn your back on me?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "Would you turn your ba",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ck on me?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                G",
-      "lyrics": " And if I seem dangerous,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": " And if I seem dan",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "gerous,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " D                A",
-      "lyrics": " Would you be scared?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "Would you be scar",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ed?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                    G",
-      "lyrics": " I get the feeling just because,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": " I get the feeling jus",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "t because,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    D                            A",
-      "lyrics": " Everything I touch isn't dark enough"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " Eve",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "rything I touch isn't dark en",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ough",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em           G             D",
-      "lyrics": " If this problem lies in me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": " If this prob",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "lem lies in me",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "      Em        G           D             A",
-      "lyrics": " I'm only a man with a chamber who's got me,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " I'm o",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "nly a man ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "with a chamb",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "er who's got m",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "e,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Em             G        D             A",
-      "lyrics": " I'm taking a stand to escape what's inside me."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " I'm t",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "aking a stand t",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "o escape ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "what's inside ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "me.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Em          G",
-      "lyrics": " A monster, A monster,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " A m",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "onster, A mo",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "nster,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       D                A",
-      "lyrics": " I've turned into a monster,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " I've t",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "urned into a mons",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ter,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Em          G",
-      "lyrics": " A monster, A monster,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " A m",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "onster, A mo",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "nster,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       D                A",
-      "lyrics": " And it keeps getting stronger."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " And it",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " keeps getting st",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ronger.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Instrumental]"
     },
     {
-      "chord": "",
-      "lyrics": "Em G D A (8 times)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Em G D A (8 times)",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "     Em        G            D            A",
-      "lyrics": " I'm only a man with a chamber who's got me,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "only a man",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " with a chamb",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "er who's got ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "me,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Em           G           D             A",
-      "lyrics": " I'm taking a stand to escape what's inside me."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "taking a stan",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "d to escape ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "what's inside ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "me.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Em          G",
-      "lyrics": " A monster, A monster,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " A m",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "onster, A mo",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "nster,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        D               A",
-      "lyrics": " I've turned into a monster,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " I've tu",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "rned into a mons",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ter,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Em          G",
-      "lyrics": " A monster, A monster,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " A m",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "onster, A mo",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "nster,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       D                    A",
-      "lyrics": " And it keeps getting stronger."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " And it",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " keeps getting strong",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "er.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Outro]"
     },
     {
-      "chord": "",
-      "lyrics": "Em G D A (fade out)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Em G D A (fade out)",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Monster"

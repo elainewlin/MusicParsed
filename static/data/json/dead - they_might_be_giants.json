@@ -16,144 +16,1002 @@
       "label": "[Verse]"
     },
     {
-      "chord": "A            D      E         A          D     E       A",
-      "lyrics": "I returned a bag of groceries accidently taken off the shelf"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "I returned a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "bag of ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "groceries ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "accidently ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "taken ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "off the ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "shelf",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           D   E      A",
-      "lyrics": "Before the expiration date"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Before the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "expi",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ration ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "date",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A                D      E         A          D     E       A",
-      "lyrics": "I came back as a bag of groceries accidently taken off the shelf"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "I came back as a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "bag of ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "groceries ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "accidently ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "taken ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "off the ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "shelf",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           D            E    A      A7",
-      "lyrics": "Before the date stamped on myself"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Before the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "date stamped ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "on my",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "self   ",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "D                       D/C\u266f       Bm                      A/C\u266f   D",
-      "lyrics": " Did a large procession wave their torches as my head fell in the basket"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": " Did a large procession ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/C♯",
+          "lyric": "wave their ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "torches as my head fell ",
+          "overLyric": true
+        },
+        {
+          "chord": "A/C♯",
+          "lyric": "in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "basket",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  E",
-      "lyrics": "And was everybody dancing on the casket"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And was everybody ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "dancing on the casket",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "A                  D                  Bm      D            E",
-      "lyrics": " Now it's over I'm dead and I haven't done anything that I want"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": " Now it's over I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "dead and I haven't ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "done any",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "thing that I ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "want",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       A      D                Bm        G       A   D   E",
-      "lyrics": "Or I'm still alive and there's nothing I want to do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Or I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "still a",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "live and there's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "nothing I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "want to ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "do  ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "   "
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "A            D       E       A          D",
-      "lyrics": "I will never say the word procrastinate again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "I will never ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "say the ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "word pro",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "crastinate ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "again",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     E     A                 D      E       A",
-      "lyrics": "I'll never see myself in the mirror with my eyes closed"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "never ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "see myself in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "mirror ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "with my ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "eyes closed",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A          D   E         A                     D       E       A",
-      "lyrics": " I didn't apologize for when I was eight and I made my younger brother"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": " I didn't a",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "polo",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "gize for w",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "hen I was eight and I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "made my ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "younger ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "brother",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        D     E        A       A7",
-      "lyrics": "Have to be my personal slave"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Have to ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "be my ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "personal ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "slave   ",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "D                       D/C\u266f       Bm                      A/C\u266f   D",
-      "lyrics": " Did a large procession wave their torches as my head fell in the basket"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": " Did a large procession ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/C♯",
+          "lyric": "wave their ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "torches as my head fell ",
+          "overLyric": true
+        },
+        {
+          "chord": "A/C♯",
+          "lyric": "in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "basket",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  E",
-      "lyrics": "And was everybody dancing on the casket"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And was everybody ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "dancing on the casket",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A                  D                  Bm      D            E",
-      "lyrics": " Now it's over I'm dead and I haven't done anything that I want"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": " Now it's over I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "dead and I haven't ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "done any",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "thing that I ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "want",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       A      D                Bm        G       A   D   E",
-      "lyrics": "Or I'm still alive and there's nothing I want to do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Or I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "still a",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "live and there's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "nothing I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "want to ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "do  ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "   "
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "D    D     D/C\u266f   D/C\u266f E  E    E7/D    E7/D",
-      "lyrics": "So I won't sit at home anymore and you won't"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "So I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "won't ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/C♯",
+          "lyric": "sit at ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/C♯",
+          "lyric": "home ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "any",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "more ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7/D",
+          "lyric": "and you ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7/D",
+          "lyric": "won't",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A/C\u266f   A/C\u266f    A/B    A/B D     D     D/C\u266f D/C\u266f",
-      "lyrics": "See my head in the window and I won't be  around"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A/C♯",
+          "lyric": "See my ",
+          "overLyric": true
+        },
+        {
+          "chord": "A/C♯",
+          "lyric": "head in ",
+          "overLyric": true
+        },
+        {
+          "chord": "A/B",
+          "lyric": "the win",
+          "overLyric": true
+        },
+        {
+          "chord": "A/B",
+          "lyric": "dow ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "and I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "won't ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/C♯",
+          "lyric": "be  a",
+          "overLyric": true
+        },
+        {
+          "chord": "D/C♯",
+          "lyric": "round",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E    E  E7/D     E7/D    A/C\u266f            D           E",
-      "lyrics": "Ever anymore and I'll be up there on the wall at the store"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "Ever ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "any",
+          "overLyric": true
+        },
+        {
+          "chord": "E7/D",
+          "lyric": "more and ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7/D",
+          "lyric": "I'll be ",
+          "overLyric": true
+        },
+        {
+          "chord": "A/C♯",
+          "lyric": "up there on the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "wall at the ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "store",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "A            D      E         A          D     E       A",
-      "lyrics": "I returned a bag of groceries accidently taken off the shelf"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "I returned a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "bag of ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "groceries ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "accidently ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "taken ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "off the ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "shelf",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           D   E      A    D   E",
-      "lyrics": "Before the expiration date"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Before the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "expi",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ration ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "date ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "   "
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "A      A/G       D/F\u266f    E         A   A/G    D/F\u266f   E       A",
-      "lyrics": "I came back as a bag of groceries accidently taken off the shelf"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "I came ",
+          "overLyric": true
+        },
+        {
+          "chord": "A/G",
+          "lyric": "back as a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F♯",
+          "lyric": "bag of g",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "roceries a",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ccid",
+          "overLyric": true
+        },
+        {
+          "chord": "A/G",
+          "lyric": "ently t",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F♯",
+          "lyric": "aken of",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "f the sh",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "elf",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  A/G      D/F\u266f          E    A      A7",
-      "lyrics": "Before the date stamped on myself"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Be",
+          "overLyric": true
+        },
+        {
+          "chord": "A/G",
+          "lyric": "fore the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/F♯",
+          "lyric": "date stamped o",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "n mys",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "elf    ",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "D                       D/C\u266f       Bm                      A/C\u266f   D",
-      "lyrics": " Did a large procession wave their torches as my head fell in the basket"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": " Did a large procession ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/C♯",
+          "lyric": "wave their ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "torches as my head fell ",
+          "overLyric": true
+        },
+        {
+          "chord": "A/C♯",
+          "lyric": "in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "basket",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  E",
-      "lyrics": "And was everybody dancing on the casket"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And was everybody ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "dancing on the casket",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A                  D                  Bm      D            E",
-      "lyrics": " Now it's over I'm dead and I haven't done anything that I want"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": " Now it's over I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "dead and I haven't ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "done any",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "thing that I ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "want",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       A      D                Bm        G       A   D   E",
-      "lyrics": "Or I'm still alive and there's nothing I want to do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Or I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "still a",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "live and there's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "nothing I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "want to ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "do  ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "   "
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "A                  D                  Bm      D            E",
-      "lyrics": " Now it's over I'm dead and I haven't done anything that I want"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": " Now it's over I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "dead and I haven't ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "done any",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "thing that I ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "want",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       A      D                Bm        G       A",
-      "lyrics": "Or I'm still alive and there's nothing I want to do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Or I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "still a",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "live and there's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "nothing I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "want to ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "do",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Dead"

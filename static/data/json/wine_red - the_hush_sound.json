@@ -11,76 +11,334 @@
   "id": "wine_red - the_hush_sound",
   "lines": [
     {
-      "chord": "Am",
-      "lyrics": "Who shot that arrow in your throat?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Who shot that arrow in your throat?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                 E",
-      "lyrics": "Who missed the crimson apple?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Who missed the cri",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "mson apple?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                    F               E",
-      "lyrics": "It hung heavy on the tree above your head."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "It hung heavy on the t",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ree above your h",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ead.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                      F               E",
-      "lyrics": "This chaos, this calamity, this garden once was perfect."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "This chaos, this calamit",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "y, this garden o",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "nce was perfect.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                            F           E",
-      "lyrics": "Give your immortality to me, I\u2019ll set you up against the stars."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Give your immortality to me, I",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "’ll set you ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "up against the stars.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                     F        E",
-      "lyrics": "Glor-or-or-ri-uh, we lied, we can\u2019t go on."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Glor-or-or-ri-uh, we li",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ed, we ca",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "n’t go on.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                                        F     E",
-      "lyrics": "This is the time and this is the place to be alive."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "This is the time and this is the place to ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "be ali",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ve.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "Who shot that arrow in your throat?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Who shot that arrow in your throat?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                 E",
-      "lyrics": "Who missed the crimson apple?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Who missed the cri",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "mson apple?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                             F       E",
-      "lyrics": "And there\u2019s a discord in the garden tonight."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "And there’s a discord in the ga",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "rden ton",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ight.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F               C                 G",
-      "lyrics": "The sea\u2019s wine red, this is the death of beauty."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "The sea’s wine r",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ed, this is the de",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ath of beauty.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                C                  G",
-      "lyrics": "The doves have died, the lovers have lied."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "The doves have di",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ed, the lovers have",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " lied.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                          F                    E",
-      "lyrics": "I cut the arrow from your neck, stretched you beneath the trees"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I cut the arrow from your ne",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ck, stretched you ben",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "eath the trees",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                         F              E",
-      "lyrics": "Among the roots and baby breath I covered us with silver leaves."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Among the roots and baby br",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "eath I covered ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "us with silver leaves.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                     F        E",
-      "lyrics": "Glor-or-or-ri-uh, we lied, we can\u2019t go on."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Glor-or-or-ri-uh, we li",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ed, we ca",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "n’t go on.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                                        F     E",
-      "lyrics": "This is the time and this is the place to be alive."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "This is the time and this is the place to ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "be ali",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ve.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F               C                 G",
-      "lyrics": "The sea\u2019s wine red, this is the death of beauty."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "The sea’s wine r",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ed, this is the de",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ath of beauty.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                C                  G",
-      "lyrics": "The doves have died, the lovers have lied."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "The doves have di",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ed, the lovers have",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " lied.",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Wine Red"

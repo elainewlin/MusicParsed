@@ -21,104 +21,641 @@
   "id": "its_over_isnt_it - steven_universe",
   "lines": [
     {
-      "chord": "      Cmaj7         Dm",
-      "lyrics": "I was fine with the men"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I was ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "fine with the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "men",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Cmaj7         G7           Cmaj7",
-      "lyrics": "Who would come into her life now and again."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Who would ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "come into her ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "life now and ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "again.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Dm            D",
-      "lyrics": "I was fine 'cause I knew"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I was ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "fine 'cause I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "knew",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 Dm7    G7           Cmaj7",
-      "lyrics": "That they didn't really matter until you."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That they didn't ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "really ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "matter until ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "you.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Cmaj7         Dm",
-      "lyrics": "I was fine when you came"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I was ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "fine when you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "came",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Cmaj7              G7             Cmaj7",
-      "lyrics": "And we fought like it was all some silly game"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And we ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "fought like it was ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "all some silly ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "game",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Dm             D",
-      "lyrics": "Over her, who she'd choose."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Over ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "her, who she'd ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "choose.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Dm7                G7                Cmaj7",
-      "lyrics": "After all those years, I never thought I'd lose."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "After ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "all those years, I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "never thought I'd ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "lose.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Cmaj7           C7        Dm       G7",
-      "lyrics": "It's over, isn't it? Isn't it? Isn't it over?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "over, isn't it? ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "Isn't it? ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "Isn't it ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "over?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     C               C7        A7       Dm",
-      "lyrics": "It's over, isn't it? Isn't it? Isn't it over?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "over, isn't it? ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "Isn't it? ",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "Isn't it ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "over?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Dm7          G                  Cmaj7                A7",
-      "lyrics": "You won, and she chose you, and she loved you, and she's gone."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "won, and she ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "chose you, and she ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "loved you, and she's ",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "gone.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Dm7             G7               Cmaj7  C    E7",
-      "lyrics": "It's over, isn't it? Why can't I move on?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "over, isn't it? ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "Why can't I move ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "on?    ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "    "
+        },
+        {
+          "chord": "E7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am      E      C   D",
-      "lyrics": "War and glory, reinvention"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "War and ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "glory, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "rein",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "vention",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm      Am       F#dim  E",
-      "lyrics": "Fusion, freedom, her   attention,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Fusion, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "freedom, ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#dim",
+          "lyric": "her   a",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ttention,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am     E         C    D",
-      "lyrics": "Out in daylight, my potential,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Out in ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "daylight, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "my po",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "tential,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm       Am    F#dim  E",
-      "lyrics": "Bold, precise, ex-----perimental,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Bold, pre",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "cise, ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#dim",
+          "lyric": "ex-----",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "perimental,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am       E           C         D",
-      "lyrics": "Who am I now in this world without her?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Who am I ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "now in this ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "world with",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "out her?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm        Am            F#dim    E",
-      "lyrics": "Petty and dull with the nerve to doubt her?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Petty and ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "dull with the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#dim",
+          "lyric": "nerve to ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "doubt her?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am           E            C       D",
-      "lyrics": "What does it matter, it's already done."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "What does it ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "matter, it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "already ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "done.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Dm                      G7",
-      "lyrics": "Now I've got to be there for her son."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Now I've ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "got to be there for her ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "son.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Cmaj7           C7        Dm       G7",
-      "lyrics": "It's over, isn't it? Isn't it? Isn't it over?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "over, isn't it? ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "Isn't it? ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "Isn't it ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "over?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     C               C7        A7       Dm",
-      "lyrics": "It's over, isn't it? Isn't it? Isn't it over?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "over, isn't it? ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "Isn't it? ",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "Isn't it ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "over?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Dm7          G                  Cmaj7                A9",
-      "lyrics": "You won, and she chose you, and she loved you, and she's gone."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "won, and she ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "chose you, and she ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "loved you, and she's ",
+          "overLyric": true
+        },
+        {
+          "chord": "A9",
+          "lyric": "gone.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Dm7             G7               Cmaj7   A7",
-      "lyrics": "It's over, isn't it? Why can't I move on?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "over, isn't it? ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "Why can't I move ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "on?     ",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "     Dm              Dbmaj7",
-      "lyrics": "It's over, isn't it? Why can't I move on?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "over, isn't it? ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dbmaj7",
+          "lyric": "Why can't I move on?",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "It's Over Isn't It"

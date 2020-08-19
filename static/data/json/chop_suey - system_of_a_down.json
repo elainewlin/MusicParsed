@@ -21,118 +21,439 @@
       "label": "[Intro]"
     },
     {
-      "chord": "Gm Fadd9 F Eb",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": " "
+        },
+        {
+          "chord": "Fadd9",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "Eb",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Gm Fadd9 F Eb",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": " "
+        },
+        {
+          "chord": "Fadd9",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "Eb",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G5 Ebmaj7 Fadd9 G5",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G5",
+          "lyric": " "
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": " "
+        },
+        {
+          "chord": "Fadd9",
+          "lyric": " "
+        },
+        {
+          "chord": "G5",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G5 Ebmaj7 Fadd9 Ebmaj7",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G5",
+          "lyric": " "
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": " "
+        },
+        {
+          "chord": "Fadd9",
+          "lyric": " "
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Gm Gsus2 Bb C",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": " "
+        },
+        {
+          "chord": "Gsus2",
+          "lyric": " "
+        },
+        {
+          "chord": "Bb",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Gm Gsus2 Bb C",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": " "
+        },
+        {
+          "chord": "Gsus2",
+          "lyric": " "
+        },
+        {
+          "chord": "Bb",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Gm Gsus2 Bb C",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": " "
+        },
+        {
+          "chord": "Gsus2",
+          "lyric": " "
+        },
+        {
+          "chord": "Bb",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Gm Gsus2 Bb C",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": " "
+        },
+        {
+          "chord": "Gsus2",
+          "lyric": " "
+        },
+        {
+          "chord": "Bb",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "Gm",
-      "lyrics": "Wake up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Wake up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm                            Gsus2",
-      "lyrics": "Grab a brush and put a little makeup"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Grab a brush and put a little ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus2",
+          "lyric": "makeup",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gsus2                            Gm",
-      "lyrics": "Hide your scars to fade away the shakeup"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gsus2",
+          "lyric": "Hide your scars to fade away the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "shakeup",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm                                Gsus2",
-      "lyrics": "Why'd you leave the keys upon the table?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Why'd you leave the keys upon the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus2",
+          "lyric": "table?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gsus2                       Gm",
-      "lyrics": "Here you go, create another fable"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gsus2",
+          "lyric": "Here you go, create another ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "fable",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "You wanted to!"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You wanted to!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm                            Gsus2",
-      "lyrics": "Grab a brush and put a little makeup"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Grab a brush and put a little ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus2",
+          "lyric": "makeup",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "You wanted to!"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You wanted to!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gsus2                            Gm",
-      "lyrics": "Hide your scars to fade away the shakeup"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gsus2",
+          "lyric": "Hide your scars to fade away the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "shakeup",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "You wanted to!"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You wanted to!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm                                Gsus2",
-      "lyrics": "Why'd you leave the keys upon the table?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Why'd you leave the keys upon the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus2",
+          "lyric": "table?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "You wanted to!"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You wanted to!",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "                  Gm",
-      "lyrics": "I don't think you trust"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't think you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "trust",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fadd9   F",
-      "lyrics": "In      my"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fadd9",
+          "lyric": "In      ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "my",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb                Gm",
-      "lyrics": "Self-righteous suicide"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "Self-righteous sui",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "cide",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fadd9   F",
-      "lyrics": "I       cry"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fadd9",
+          "lyric": "I       ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "cry",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Eb",
-      "lyrics": "When angels deserve to"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "angels deserve to",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm",
-      "lyrics": "DIE!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "DIE!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm Gsus2 Bb C",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": " "
+        },
+        {
+          "chord": "Gsus2",
+          "lyric": " "
+        },
+        {
+          "chord": "Bb",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
@@ -141,118 +462,492 @@
       "label": "[Chorus]"
     },
     {
-      "chord": "                  Gm",
-      "lyrics": "I don't think you trust"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't think you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "trust",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fadd9   F",
-      "lyrics": "In      my"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fadd9",
+          "lyric": "In      ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "my",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb                Gm",
-      "lyrics": "Self-righteous suicide"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "Self-righteous sui",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "cide",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fadd9   F",
-      "lyrics": "I       cry"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fadd9",
+          "lyric": "I       ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "cry",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Eb                Gm",
-      "lyrics": "When angels deserve to die."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "angels deserve to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "die.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fadd9   F",
-      "lyrics": "In      my"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fadd9",
+          "lyric": "In      ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "my",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb                Gm",
-      "lyrics": "Self-righteous suicide"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "Self-righteous sui",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "cide",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fadd9   F",
-      "lyrics": "I       cry"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fadd9",
+          "lyric": "I       ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "cry",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Eb                Gm",
-      "lyrics": "When angels deserve to die..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "angels deserve to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "die...",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm Gsus2 Bb C",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": " "
+        },
+        {
+          "chord": "Gsus2",
+          "lyric": " "
+        },
+        {
+          "chord": "Bb",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Gm Gsus2 Bb C",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": " "
+        },
+        {
+          "chord": "Gsus2",
+          "lyric": " "
+        },
+        {
+          "chord": "Bb",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "Gm Gsus2 Bb C",
-      "lyrics": "Father!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Fat",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus2",
+          "lyric": "her!  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Gm Gsus2 Bb C",
-      "lyrics": "Father!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Fat",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus2",
+          "lyric": "her!  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Gm        F#5         Bb5    C5",
-      "lyrics": "Father, into your hands I commend my spirit"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Father, in",
+          "overLyric": true
+        },
+        {
+          "chord": "F#5",
+          "lyric": "to your hand",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb5",
+          "lyric": "s I com",
+          "overLyric": true
+        },
+        {
+          "chord": "C5",
+          "lyric": "mend my spirit",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm        F#5",
-      "lyrics": "Father, into your hands"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Father, in",
+          "overLyric": true
+        },
+        {
+          "chord": "F#5",
+          "lyric": "to your hands",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb5      C5     Gm",
-      "lyrics": "Why have you forsaken me?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb5",
+          "lyric": "Why have ",
+          "overLyric": true
+        },
+        {
+          "chord": "C5",
+          "lyric": "you for",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "saken me?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fadd9            F",
-      "lyrics": "In your eyes, forsaken me?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fadd9",
+          "lyric": "In your eyes, for",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "saken me?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb                   Gm",
-      "lyrics": "In your thoughts, forsaken me?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "In your thoughts, for",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "saken me?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fadd9             F     F",
-      "lyrics": "In your heart, forsaken me?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fadd9",
+          "lyric": "In your heart, for",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "saken ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "me?",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Outro]"
     },
     {
-      "chord": "    Gm    Fadd9 F",
-      "lyrics": "Oh, trust in my"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "trust ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fadd9",
+          "lyric": "in my ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Eb                Gm",
-      "lyrics": "Self-righteous suicide"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "Self-righteous sui",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "cide",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fadd9   F",
-      "lyrics": "I       cry"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fadd9",
+          "lyric": "I       ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "cry",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Eb                Gm",
-      "lyrics": "When angels deserve to die."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "angels deserve to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "die.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fadd9   F",
-      "lyrics": "In      my"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fadd9",
+          "lyric": "In      ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "my",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb                Gm",
-      "lyrics": "Self-righteous suicide"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "Self-righteous sui",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "cide",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fadd9   F",
-      "lyrics": "I       cry"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fadd9",
+          "lyric": "I       ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "cry",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Eb                Gm",
-      "lyrics": "When angels deserve to die..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "angels deserve to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "die...",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Chop Suey"

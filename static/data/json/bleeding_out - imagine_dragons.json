@@ -13,275 +13,1224 @@
       "label": "[Chorus]"
     },
     {
-      "chord": "Em           C",
-      "lyrics": "I'm bleeding out"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "I'm bleeding ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "out",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          G                 D",
-      "lyrics": "So if the last thing that I do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So if the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "last thing that I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "do",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Em          C",
-      "lyrics": "Is bring you down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Is ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "bring you do",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "wn",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     G             D",
-      "lyrics": "I'll bleed out for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "bleed out for ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Em",
-      "lyrics": "So I bare my skin"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "bare my skin",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      C",
-      "lyrics": "And I count my sins"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "count my sins",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      G                   D",
-      "lyrics": "And I close my eyes and I take it in"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "close my eyes and I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "take it in",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Em        C",
-      "lyrics": "I'm bleeding out"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "bleeding o",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ut",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G                 D",
-      "lyrics": "I'm bleeding out for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "bleeding out for y",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ou",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Em",
-      "lyrics": "For you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "For ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "         Em      C",
-      "lyrics": "When the day has come"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "day has ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "come",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          G           D",
-      "lyrics": "That I've lost my way around"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That I've ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "lost my way ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "around",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Em      C",
-      "lyrics": "And the seasons stop"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "seasons ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "stop",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G                D",
-      "lyrics": "And hide beneath the ground"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "hide beneath the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ground",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Em        C",
-      "lyrics": "When the sky turns grey"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "sky turns ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "grey",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G             D",
-      "lyrics": "And everything is screaming"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "everything is ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "screaming",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Em    C",
-      "lyrics": "I will reach inside"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I will ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "reach ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "inside",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G                D",
-      "lyrics": "Just to find my heart is beating"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Just to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "find my heart is ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "beating",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Em         C",
-      "lyrics": "Oh you tell me to hold on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "tell me to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hold on",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       G          D",
-      "lyrics": "Oh you tell me to hold on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh you ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "tell me to ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "hold on",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Em           C",
-      "lyrics": "But innocence is gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "innocence is ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G                 D",
-      "lyrics": "And what was right is wrong"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "what was right is ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "wrong",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "          Em         C",
-      "lyrics": "Cause I'm bleeding out"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "bleeding ou",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "t",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          G                 D",
-      "lyrics": "So if the last thing that I do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So if the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "last thing that I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "do",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Em         C",
-      "lyrics": "Is bring you down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Is ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "bring you d",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "own",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     G             D",
-      "lyrics": "I'll bleed out for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "bleed out for ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Em",
-      "lyrics": "So I bare my skin"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "bare my skin",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      C",
-      "lyrics": "And I count my sins"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "count my sins",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      G                   D",
-      "lyrics": "And I close my eyes and I take it in"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "close my eyes and I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "take it in",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Em       C",
-      "lyrics": "I'm bleeding out"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "bleeding ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "out",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G                D",
-      "lyrics": "I'm bleeding out for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "bleeding out for ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Em",
-      "lyrics": "For you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "For ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "         Em      C",
-      "lyrics": "When the hour is nigh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "hour is ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "nigh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G               D",
-      "lyrics": "And hopelessness is sinking in"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "hopelessness is ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "sinking in",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Em         C",
-      "lyrics": "And the wolves all cry"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "wolves all ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "cry",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   G                   D",
-      "lyrics": "To fill the night with hollering"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "fill the night with ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "hollering",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Em       C",
-      "lyrics": "When your eyes are red"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "eyes are ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "red",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G            D",
-      "lyrics": "And emptiness is all you know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "emptiness is ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "all you know",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Em       C",
-      "lyrics": "With the darkness fed"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "With the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "darkness ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "fed",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G              D",
-      "lyrics": "I will be your scarecrow"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I will be your ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "scarecrow",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em             C",
-      "lyrics": "You tell me to hold on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "You tell me to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hold on",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       G          D",
-      "lyrics": "Oh you tell me to hold on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh you ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "tell me to ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "hold on",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Em           C",
-      "lyrics": "But innocence is gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "innocence is ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G                 D",
-      "lyrics": "And what was right is wrong"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "what was right is ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "wrong",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "          Em       C",
-      "lyrics": "Cause I'm bleeding out"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "bleeding ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "out",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          G                 D",
-      "lyrics": "So if the last thing that I do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So if the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "last thing that I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "do",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Em        C",
-      "lyrics": "Is bring you down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Is ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "bring you ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "down",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     G             D",
-      "lyrics": "I'll bleed out for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "bleed out for ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Em",
-      "lyrics": "So I bare my skin"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "bare my skin",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      C",
-      "lyrics": "And I count my sins"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "count my sins",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      G                   D",
-      "lyrics": "And I close my eyes and I take it in"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "close my eyes and I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "take it in",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Em       C",
-      "lyrics": "I'm bleeding out"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "bleeding ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "out",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G                D",
-      "lyrics": "I'm bleeding out for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "bleeding out for ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Em",
-      "lyrics": "For you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "For ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "      Em           C",
-      "lyrics": "Cause I'm bleeding out"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "I'm bleeding ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "out",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          G                 D",
-      "lyrics": "So if the last thing that I do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So if the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "last thing that I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "do",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Em        C",
-      "lyrics": "Is bring you down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Is ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "bring you ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "down",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     G             D",
-      "lyrics": "I'll bleed out for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "bleed out for ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Em",
-      "lyrics": "So I bare my skin"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "bare my skin",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      C",
-      "lyrics": "And I count my sins"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "count my sins",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      G                   D",
-      "lyrics": "And I close my eyes and I take it in"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "close my eyes and I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "take it in",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Em       C",
-      "lyrics": "I'm bleeding out"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "bleeding ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "out",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G                D",
-      "lyrics": "I'm bleeding out for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "bleeding out for ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Em",
-      "lyrics": "For you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "For ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Bleeding Out"

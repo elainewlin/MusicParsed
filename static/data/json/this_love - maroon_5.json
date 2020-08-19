@@ -3,8 +3,8 @@
     "G",
     "Cm",
     "Fm",
-    "A#7",
-    "D#",
+    "Bb7",
+    "Eb",
     "G7"
   ],
   "artist": "Maroon 5",
@@ -15,135 +15,615 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "G                      Cm",
-      "lyrics": "I was so high I didn't recognize"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I was so high I didn't ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "recognize",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Fm                                  G",
-      "lyrics": "the fire burning in her eyes, the chaos that controlled my mind...."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "the fire b",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "urning in her eyes, the chaos that c",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ontrolled my mind....",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                            Cm",
-      "lyrics": "Whispered goodbye and she got on a plane"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Whispered goodbye and she got",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": " on a plane",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Fm                           G",
-      "lyrics": "Never to return again but always in my heart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Never to r",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "eturn again but always in my ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "heart",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Cm   Fm      A#7         D#",
-      "lyrics": "This love has taken its toll on me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cm",
+          "lyric": "This ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "love has",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb7",
+          "lyric": " taken its t",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "oll on me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Cm       Fm         A#7            D#",
-      "lyrics": "She said goodbye too many times before"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cm",
+          "lyric": "She said ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "goodbye too",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb7",
+          "lyric": " many times bef",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "ore",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Cm  Fm        A#7           D#",
-      "lyrics": "Her heart is breaking in front of me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cm",
+          "lyric": "Her ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "heart is b",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb7",
+          "lyric": "reaking in fro",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "nt of me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Cm         Fm    A#7                D#      G    Cm    Fm     G",
-      "lyrics": "I have no choice, I won't say goodbye anymore"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cm",
+          "lyric": "I have no c",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "hoice,",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb7",
+          "lyric": " I won't say goodby",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "e anymor",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "e    ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "    "
+        },
+        {
+          "chord": "Fm",
+          "lyric": "     "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "G                           Cm",
-      "lyrics": "I tried my best to feed her appetite"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I tried my best to feed her ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "appetite",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Fm",
-      "lyrics": "Keep her coming every night"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Keep her coming ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "every night",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    G",
-      "lyrics": "So hard to keep her satisfied"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So hard to keep her ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "satisfied",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                              Cm",
-      "lyrics": "Kept playing love like it was just a game"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Kept playing love like it was ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "just a game",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              Fm",
-      "lyrics": "Pretending to feel the same"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Pretending to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "feel the same",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     G",
-      "lyrics": "Then turn around and leave again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Then turn around and ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "leave again",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Cm   Fm      A#7         D#",
-      "lyrics": "This love has taken its toll on me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cm",
+          "lyric": "This ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "love has",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb7",
+          "lyric": " taken its t",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "oll on me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Cm       Fm         A#7            D#",
-      "lyrics": "She said goodbye too many times before"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cm",
+          "lyric": "She said ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "goodbye too",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb7",
+          "lyric": " many times bef",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "ore",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Cm  Fm        A#7           D#",
-      "lyrics": "Her heart is breaking in front of me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cm",
+          "lyric": "Her ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "heart is b",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb7",
+          "lyric": "reaking in fro",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "nt of me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Cm         Fm    A#7                D#      G    Cm    Fm     G",
-      "lyrics": "I have no choice, I won't say goodbye anymore"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cm",
+          "lyric": "I have no c",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "hoice,",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb7",
+          "lyric": " I won't say goodby",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "e anymor",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "e    ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "    "
+        },
+        {
+          "chord": "Fm",
+          "lyric": "     "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": " Fm",
-      "lyrics": "I'll fix these broken things"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "'ll fix these broken things",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  D#",
-      "lyrics": "Repair your broken wings"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Re",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "pair your broken wings",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G7                          Cm",
-      "lyrics": "And make sure everything's alright"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G7",
+          "lyric": "And make sure everything's a",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "lright",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fm",
-      "lyrics": "My pressure on your hips"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm",
+          "lyric": "My pressure on your hips",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D#",
-      "lyrics": "Sinking my fingertips"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "Sinking my fingertips",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Into every inch of you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Into every inch of you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Cause I know that's what you want me to do"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause I know that's what you want me to do",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Cm   Fm      A#7         D#",
-      "lyrics": "This love has taken its toll on me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cm",
+          "lyric": "This ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "love has",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb7",
+          "lyric": " taken its t",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "oll on me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Cm       Fm         A#7            D#",
-      "lyrics": "She said goodbye too many times before"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cm",
+          "lyric": "She said ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "goodbye too",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb7",
+          "lyric": " many times bef",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "ore",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Cm  Fm        A#7           D#",
-      "lyrics": "Her heart is breaking in front of me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cm",
+          "lyric": "Her ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "heart is b",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb7",
+          "lyric": "reaking in fro",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "nt of me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Cm         Fm    A#7                D#      G    Cm    Fm     G",
-      "lyrics": "I have no choice, I won't say goodbye anymore"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Cm",
+          "lyric": "I have no c",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "hoice,",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb7",
+          "lyric": " I won't say goodby",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "e anymor",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "e    ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "    "
+        },
+        {
+          "chord": "Fm",
+          "lyric": "     "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "This Love"

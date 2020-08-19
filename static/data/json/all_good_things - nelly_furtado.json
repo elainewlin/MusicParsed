@@ -13,170 +13,660 @@
       "label": "[Verse]"
     },
     {
-      "chord": "Am                   C",
-      "lyrics": "Honestly what will become of me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Honestly what will be",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "come of me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             G",
-      "lyrics": "I don't like reality"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't like ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "reality",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              F",
-      "lyrics": "It's way too clear to me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's way too c",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "lear to me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Am               C",
-      "lyrics": "But really life is daily"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " really life is d",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "aily",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           G",
-      "lyrics": "We are what we don't see"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We are what",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " we don't see",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           F                     Am",
-      "lyrics": "We missed everything daydreaming"
-    },
-    {
-      "label": "[Chorus]"
-    },
-    {
-      "chord": " Am          C",
-      "lyrics": " Flames to dust"
-    },
-    {
-      "chord": "             G",
-      "lyrics": " Lovers to friends"
-    },
-    {
-      "chord": "          F                        Am",
-      "lyrics": " Why do all good things come to an end"
-    },
-    {
-      "chord": " Am          C",
-      "lyrics": " Flames to dust"
-    },
-    {
-      "chord": "             G",
-      "lyrics": " Lovers to friends"
-    },
-    {
-      "chord": "          F                        Am",
-      "lyrics": " Why do all good things come to an end"
-    },
-    {
-      "chord": " Am          C             G",
-      "lyrics": " come to an end come to an"
-    },
-    {
-      "chord": "        F                         Am",
-      "lyrics": " Why do all good things come to an end"
-    },
-    {
-      "label": "[Verse]"
-    },
-    {
-      "chord": "Am                           C",
-      "lyrics": "Travelling I always stop at exits"
-    },
-    {
-      "chord": "                   G",
-      "lyrics": "Wondering if I'll stay"
-    },
-    {
-      "chord": "              F",
-      "lyrics": "Young and restless"
-    },
-    {
-      "chord": "",
-      "lyrics": "Living this way I stress less"
-    },
-    {
-      "chord": "Am                              C",
-      "lyrics": "I want to pull away when the dream dies"
-    },
-    {
-      "chord": "                    G",
-      "lyrics": "The pain sets it and I don't cry"
-    },
-    {
-      "chord": "              F",
-      "lyrics": "I only feel gravity and I wonder why"
-    },
-    {
-      "label": "[Chorus]"
-    },
-    {
-      "label": "[Verse]"
-    },
-    {
-      "chord": "Am                             C",
-      "lyrics": "Well the dogs were whistling a new tune"
-    },
-    {
-      "chord": "               G",
-      "lyrics": "Barking at the new moon"
-    },
-    {
-      "chord": "                   F",
-      "lyrics": "Hoping it would come soon so that they could"
-    },
-    {
-      "chord": "Am                    C",
-      "lyrics": "Dogs were whistling a new tune"
-    },
-    {
-      "chord": "               G",
-      "lyrics": "Barking at the new moon"
-    },
-    {
-      "chord": "                   F",
-      "lyrics": "Hoping it would come soon so that they could"
-    },
-    {
-      "chord": "Am   C  Am   G",
-      "lyrics": "Die die die die"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We missed e",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "verything daydreaming ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "Flames to du",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "st",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " Lovers to fr",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "iends",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " Why do al",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "l good things come to an ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "end",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "Flames to du",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "st",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " Lovers to fr",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "iends",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " Why do al",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "l good things come to an ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "end",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "come to an e",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "nd come to an ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " Why do ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "all good things come to an",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " end",
+          "overLyric": true
+        }
+      ]
+    },
+    {
       "label": "[Verse]"
     },
     {
-      "chord": "Am                              C",
-      "lyrics": "Well the dogs were barking at a new moon"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Travelling I always stop at e",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "xits",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            G",
-      "lyrics": "Whistling a new tune"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Wondering if I'll s",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "tay",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 F",
-      "lyrics": "Hoping it would come soon"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Young and rest",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "less",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Am                 C                        G                      F",
-      "lyrics": "And the sun was wondering if it should stay away for a day 'til the feeling went away"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Living this way I stress less",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Am                     C",
-      "lyrics": "And the sky was falling on the clouds were dropping and"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I want to pull away when the dre",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "am dies",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     G                F",
-      "lyrics": "the rain forgot how to bring salvation"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The pain sets it and",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " I don't cry",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Am                         C",
-      "lyrics": "the dogs were barking at the new moon"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I only feel gr",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "avity and I wonder why",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            G",
-      "lyrics": "Whistling a new tune"
+      "label": "[Chorus]"
     },
     {
-      "chord": "                 F                           Am",
-      "lyrics": "Hoping it would come soon so that they could die"
+      "label": "[Verse]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Well the dogs were whistling a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "new tune",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Barking at the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "new moon",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Hoping it would com",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "e soon so that they could",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Dogs were whistling a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "new tune",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Barking at the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "new moon",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Hoping it would com",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "e soon so that they could",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Die d",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ie ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "die d",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ie",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "[Chorus]"
+    },
+    {
+      "label": "[Verse]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Well the dogs were barking at a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "new moon",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Whistling a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "new tune",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Hoping it would c",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ome soon",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And the s",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "un was wondering if",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " it should stay away for ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "a day 'til the feeling ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "went away",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "sky was falling on the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "clouds were dropping and",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "the r",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ain forgot how to",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " bring salvation",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "the",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " dogs were barking at the n",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ew moon",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Whistling a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "new tune",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Hoping it would c",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ome soon so that they could ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "die",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "All Good Things"

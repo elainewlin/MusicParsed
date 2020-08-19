@@ -13,106 +13,370 @@
       "label": "[Chorus]"
     },
     {
-      "chord": " C                          Em",
-      "lyrics": "Ah, look at all the lonely people."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "h, look at all the lonely p",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "eople.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " C                          Em",
-      "lyrics": "Ah, look at all the lonely people."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "h, look at all the lonely p",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "eople.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "Em",
-      "lyrics": "Eleanor Rigby, picks up the rice in the church"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Eleanor Rigby, picks up the rice in the church",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     C                Em",
-      "lyrics": "where a weeding has been, lives in a dream."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "where a weeding has b",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "een, lives in a d",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ream.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em",
-      "lyrics": "Waits at the window, wearing the face"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Waits at the window, wearing the face",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                C              Em",
-      "lyrics": "that she keeps in a jar by the door, who is it for?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "that she keeps in a jar by the d",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "oor, who is it ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "for?",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "Em7            Em6",
-      "lyrics": "All the lonely people,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em7",
+          "lyric": "All the lonely ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em6",
+          "lyric": "people,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     C/E                Em",
-      "lyrics": "where do they all come from?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "where",
+          "overLyric": true
+        },
+        {
+          "chord": "C/E",
+          "lyric": " do they all come f",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "rom?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em7            Em6",
-      "lyrics": "All the lonely people,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em7",
+          "lyric": "All the lonely ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em6",
+          "lyric": "people,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      C/E            Em",
-      "lyrics": "where do they all belong?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "where ",
+          "overLyric": true
+        },
+        {
+          "chord": "C/E",
+          "lyric": "do they all bel",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ong?",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "Em",
-      "lyrics": "Father McKenzie, writing the words"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Father McKenzie, writing the words",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     C                Em",
-      "lyrics": "of a sermon that no one will hear, no-one comes near."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "of a sermon that no o",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ne will hear, no-",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "one comes near.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em",
-      "lyrics": "Look at him working, darning his socks"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Look at him working, darning his socks",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                C              Em",
-      "lyrics": "in the night when there\u2019s nobody there,what does he care?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "in the night when there’s nobody",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " there,what doe",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "s he care?",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": " C                          Em",
-      "lyrics": "All the lonely people,..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ll the lonely people,...   ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": " C                          Em",
-      "lyrics": "Ah, look at all the lonely people...."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "h, look at all the lonely p",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "eople....",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "Em",
-      "lyrics": "Eleanor Rigby died in the church"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Eleanor Rigby died in the church",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     C                Em",
-      "lyrics": "and was buried along with her name, nobody came."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and was buried along ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "with her name, no",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "body came.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em",
-      "lyrics": "Father McKenzie, wiping the dirt"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Father McKenzie, wiping the dirt",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                C              Em",
-      "lyrics": "from his hands as he walks from the grave, no-one was seved."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "from his hands as he walks from ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "the grave, no-o",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ne was seved.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Outro]"
     },
     {
-      "chord": " C                          Em",
-      "lyrics": "All the lonely people,..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ll the lonely people,...   ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "Eleanor Rigby"

@@ -13,176 +13,641 @@
       "label": "Verse 1:"
     },
     {
-      "chord": "G                   Em",
-      "lyrics": "Where have all the flowers gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Where have all the f",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "lowers gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C         D",
-      "lyrics": "Long time passing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Long time ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "passing",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                   Em",
-      "lyrics": "Where have all the flowers gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Where have all the f",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "lowers gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C         D",
-      "lyrics": "Long time ago"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Long time ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ago",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                   Em",
-      "lyrics": "Where have all the flowers gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Where have all the f",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "lowers gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                      D",
-      "lyrics": "Girls have picked them every one"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Girls have picked them ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "every one",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C               G",
-      "lyrics": "When will they ever learn"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "When will they e",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ver learn",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C              D    G",
-      "lyrics": "When will they ever learn"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "When will they ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ever ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "learn",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Verse 2:"
     },
     {
-      "chord": "G                   Em",
-      "lyrics": "Where have all the young girls gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Where have all the y",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "oung girls gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C         D",
-      "lyrics": "Long time passing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Long time ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "passing",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                   Em",
-      "lyrics": "Where have all the young girls gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Where have all the y",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "oung girls gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C         D",
-      "lyrics": "Long time ago"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Long time ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ago",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                   Em",
-      "lyrics": "Where have all the young girls gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Where have all the y",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "oung girls gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C              D",
-      "lyrics": "Taken husbands every one"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Taken husbands ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "every one",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C              G",
-      "lyrics": "When will they ever learn"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "When will they ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ever learn",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C              D     G",
-      "lyrics": "When will they ever learn"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "When will they ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ever l",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "earn",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Verse 3:"
     },
     {
-      "chord": "G                   Em",
-      "lyrics": "Where have all the young men gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Where have all the y",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "oung men gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C         D",
-      "lyrics": "Long time passing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Long time ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "passing",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                   Em",
-      "lyrics": "Where have all the young men gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Where have all the y",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "oung men gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C         D",
-      "lyrics": "Long time ago"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Long time ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ago",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                   Em",
-      "lyrics": "Where have all the young men gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Where have all the y",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "oung men gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                 D",
-      "lyrics": "Gone for soldiers every one"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Gone for soldiers ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "every one",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C              G",
-      "lyrics": "When will they ever learn"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "When will they ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ever learn",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C              D    G",
-      "lyrics": "When will they ever learn"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "When will they ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ever ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "learn",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Verse 4:"
     },
     {
-      "chord": "G                  Em",
-      "lyrics": "Where have all the soldiers gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Where have all the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "soldiers gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C         D",
-      "lyrics": "Long time passing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Long time ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "passing",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                  Em",
-      "lyrics": "Where have all the soldiers gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Where have all the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "soldiers gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C         D",
-      "lyrics": "Long time ago"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Long time ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ago",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                  Em",
-      "lyrics": "Where have all the soldiers gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Where have all the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "soldiers gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                  D",
-      "lyrics": "Gone to graveyards every one"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Gone to graveyards ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "every one",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C              G",
-      "lyrics": "When will they ever learn"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "When will they ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ever learn",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C              D    G",
-      "lyrics": "When will they ever learn"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "When will they ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ever ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "learn",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Verse 5:"
     },
     {
-      "chord": "G                  Em",
-      "lyrics": "Where have all the graveyards gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Where have all the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "graveyards gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C         D",
-      "lyrics": "Long time passing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Long time ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "passing",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                  Em",
-      "lyrics": "Where have all the graveyards gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Where have all the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "graveyards gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C         D",
-      "lyrics": "Long time ago"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Long time ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ago",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                  Em",
-      "lyrics": "Where have all the graveyards gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Where have all the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "graveyards gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                    D",
-      "lyrics": "Covered with flowers every one"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Covered with flowers ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "every one",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C            G",
-      "lyrics": "When will we ever learn"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "When will we ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ever learn",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C            D     G",
-      "lyrics": "When will we ever learn"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "When will we ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ever l",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "earn",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Where Have All The Flowers Gone"

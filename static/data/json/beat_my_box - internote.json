@@ -14,104 +14,533 @@
   "id": "beat_my_box - internote",
   "lines": [
     {
-      "chord": "C\t\t                         Am",
-      "lyrics": "Hey there old friend, we\u2019ve been through quite a bit"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Hey there old friend, we’ve been through ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "quite a bit",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G\t\t\t\t                               F\t\t     G7",
-      "lyrics": "Just throwing this out there, so don\u2019t overthink it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Just throwing this out there, so don’t overthink it            ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "                     "
+        },
+        {
+          "chord": "G7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C\t\t\t                    Am",
-      "lyrics": "But I\u2019ve been thinking I like what you do with your mouth"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "But I’ve been thinking I like what you do wi",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "th your mouth",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G\t                                 \t\t  F\t        C",
-      "lyrics": "Maybe we could shut the door and see if things go south"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Maybe we could shut the door and see if things go south   ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "             "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    Am          G\t      G7",
-      "lyrics": "And hey, I just want to say"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "hey, I just ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "want to say   ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "\t      F\t          Am\t             C7",
-      "lyrics": "You can beat my box any day"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You can beat m",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "y box any da",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "y                  ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    F            Dm                        G",
-      "lyrics": "And I know we go back for days, and if you hadn\u2019t looked at me that way"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "I know we go ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "back for days, and if you ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "hadn’t looked at me that way",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F         Am     G",
-      "lyrics": "In years ago"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "In years a",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "go     ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "     Am            Dm      \t\t        G              E7",
-      "lyrics": "Then maybe I could let it lie, but I see you looking hella fly"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Then ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "maybe I could ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "let it lie, but I see you loo",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "king hella fly ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "      Am      F\t    G7",
-      "lyrics": "And I want to know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "want to ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "know  ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C               Am",
-      "lyrics": "So I stay over late one drunken night"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "So I stay over l",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ate one drunken night",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                  F            G7",
-      "lyrics": "Things got hot and heavy by the glow of the Netflix light"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Things got hot and ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "heavy by the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "glow of the Netflix light",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                              Am",
-      "lyrics": "Tiptoe up the staircase, don\u2019t worry \u2018bout Lauren and Pat"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Tiptoe up the staircase, don’t ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "worry ‘bout Lauren and Pat",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                        G7                    F          C",
-      "lyrics": "I said if you take your boots off then I will show you my cat"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I said if you take your b",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "oots off then I will s",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "how you my ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "cat",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     F                  Dm                    G",
-      "lyrics": "And I\u2019m not looking for complication, but you make me feel like first in the nation"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "’m not looking for ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "complication, but you ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "make me feel like first in the nation",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     F      Am     G",
-      "lyrics": "When you go down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "you go ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "down   ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "       Am                     Dm                  G                 E7",
-      "lyrics": "\u2018Cause you\u2019ve got the rhythm, I\u2019ve got the blues, come together and everything moves"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "‘Cause ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "you’ve got the rhythm, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "I’ve got the blues, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "come together and ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "everything moves",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Am       F        G7",
-      "lyrics": "When we make our sound"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When we ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "make our ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "sound    ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "(SPOKEN) Sorry, Lauren and Pat"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(SPOKEN) Sorry, Lauren and Pat",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      C\t\t          \t       Am",
-      "lyrics": "Well, hey there buddy, we\u2019ve been through quite a lot"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Well, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hey there buddy, we’ve been throu",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "gh quite a lot",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G\t\t\t\t                       F\t\t            G7",
-      "lyrics": "Lord knows we\u2019re talented, and yeah, we\u2019re both hot"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Lord knows we’re talented, and yeah, we’re both hot    ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "                            "
+        },
+        {
+          "chord": "G7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "     C\t\t\t            Am",
-      "lyrics": "And you may think we\u2019re playing a risky game"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And y",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ou may think we’re playing a ri",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "sky game",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G\t\t                                    F\t           C",
-      "lyrics": "But I don\u2019t know, I love the sound when I'm singing your name"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "I don’t know, I love the sound when I'm singing ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "your name      ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "   Am   G\t             G7",
-      "lyrics": "So hey, I just want to say"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "hey, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "I just want to say   ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "\t      F\t      Am   C",
-      "lyrics": "You can beat my box any day"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You can beat m",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "y box an",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "y day",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "Beat My Box"

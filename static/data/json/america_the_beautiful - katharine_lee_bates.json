@@ -15,141 +15,693 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "    G             D",
-      "lyrics": "O beautiful for spacious skies,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "O be",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "autiful for sp",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "acious skies,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    D7             G",
-      "lyrics": "for amber waves of grain"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "for ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "amber waves of ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "grain",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    D",
-      "lyrics": "For purple mountain majesties,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "For purple mountain ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "majesties,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " A        A7      D    D7",
-      "lyrics": "above the fruited plain!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "a",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "bove the ",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "fruited ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "plain",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " G        D",
-      "lyrics": "America! America!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "merica! A",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "merica!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    D7                G",
-      "lyrics": "God shed his grace on thee"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "God ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "shed his grace on ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "thee",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C                   G",
-      "lyrics": "And crown thy good with brotherhood,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "crown thy good with ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "brotherhood,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     C      D7      G",
-      "lyrics": "from sea to shining sea!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "from ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "sea to ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "shining ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "sea!",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "  G             D",
-      "lyrics": "O beautiful for pilgrim feet,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "O ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "beautiful for ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "pilgrim feet,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      D7                G",
-      "lyrics": "whose stern impassioned stress"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "whose ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "stern impassioned ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "stress",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  D",
-      "lyrics": "A thoroughfare of freedom beat,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A thoroughfare of ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "freedom beat,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " A         A7    D   D7",
-      "lyrics": "across the wilderness!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "a",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "cross the ",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "wilder",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ness",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " G        D",
-      "lyrics": "America! America!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "merica! A",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "merica!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    D7               G",
-      "lyrics": "God mend thine every flaw"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "God ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "mend thine every ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "flaw",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   C                G",
-      "lyrics": "Confirm thy soul in self-control,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Con",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "firm thy soul in ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "self-control,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C    D7    G",
-      "lyrics": "Thy liberty in law!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Thy ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "liber",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "ty in ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "law!",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 3]"
     },
     {
-      "chord": "  G             D",
-      "lyrics": "O beautiful for heroes proved,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "O ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "beautiful for ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "heroes proved,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   D7         G",
-      "lyrics": "in liberating strife."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "in ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "liberating ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "strife.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                         D",
-      "lyrics": "Who more than self their country loved,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Who more than self their ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "country loved,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    A     A7        D   D7",
-      "lyrics": "and mercy more than life!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "mercy ",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "more than ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "life",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " G        D",
-      "lyrics": "America! America!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "merica! A",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "merica!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    D7             G",
-      "lyrics": "May God thy gold refine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "May ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "God thy gold re",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "fine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     C              G",
-      "lyrics": "Till all success be nobleness,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Till ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "all success be ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "nobleness,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C     D7     G",
-      "lyrics": "and every gain divine!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "every ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "gain di",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "vine!",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 4]"
     },
     {
-      "chord": "  G             D",
-      "lyrics": "O beautiful for patriot dream,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "O ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "beautiful for ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "patriot dream,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     D7              G",
-      "lyrics": "that sees beyond the years"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "that ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "sees beyond the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "years",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                D",
-      "lyrics": "Thine alabaster cities gleam,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Thine alabaster ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "cities gleam,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  A         A7    D    D7",
-      "lyrics": "undimmed by human tears!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "un",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "dimmed by ",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "human ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "tears",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " G        D",
-      "lyrics": "America! America!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "merica! A",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "merica!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    D7                G",
-      "lyrics": "God shed his grace on thee"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "God ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "shed his grace on ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "thee",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C                   G",
-      "lyrics": "And crown thy good with brotherhood,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "crown thy good with ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "brotherhood,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     C      D7      G",
-      "lyrics": "from sea to shining sea!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "from ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "sea to ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "shining ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "sea!",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "America the Beautiful"

@@ -17,233 +17,708 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "Am",
-      "lyrics": "Crushing loneliness"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Crushing loneliness",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   F",
-      "lyrics": "It paralyzes you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "paralyzes you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "But there\u2019s more to life than"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "But there’s more to life than",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Crying in your room"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Crying in your room",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am F C G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "Am",
-      "lyrics": "So-called friends - why does"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "So-called friends - why does",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   F",
-      "lyrics": "It hurt so much to trust?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "hurt so much to trust?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "But there\u2019s more to life than"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "But there’s more to life than",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Jerks who betray you"
-    },
-    {
-      "label": "[Pre-Chorus]"
-    },
-    {
-      "chord": "Dm",
-      "lyrics": "I know you\u2019re not broken"
-    },
-    {
-      "chord": "  F",
-      "lyrics": "I know that you are loved"
-    },
-    {
-      "chord": "C",
-      "lyrics": "I know you\u2019re not broken"
-    },
-    {
-      "chord": "  G",
-      "lyrics": "I know that you are loved"
-    },
-    {
-      "label": "[Chorus]"
-    },
-    {
-      "chord": "               C",
-      "lyrics": "Because I\u2019m so happy that I met you"
-    },
-    {
-      "chord": "     G",
-      "lyrics": "Remember that I love you"
-    },
-    {
-      "chord": "Dm",
-      "lyrics": "You don\u2019t see a path but"
-    },
-    {
-      "chord": "F",
-      "lyrics": "I see the light for you"
-    },
-    {
-      "chord": "C",
-      "lyrics": "So happy that I met you"
-    },
-    {
-      "chord": "     G",
-      "lyrics": "Remember that I love you"
-    },
-    {
-      "chord": "Dm",
-      "lyrics": "You don\u2019t see a path but"
-    },
-    {
-      "chord": "F",
-      "lyrics": "I see the light for you"
-    },
-    {
-      "chord": "C G Dm F",
-      "lyrics": ""
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Jerks who betray you",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "Dm",
-      "lyrics": "No, you\u2019re not broken"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "I know you’re not broken",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  F",
-      "lyrics": "Know that you are loved"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "know that you are loved",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "No, you\u2019re not broken"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I know you’re not broken",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  G",
-      "lyrics": "Know that you are loved"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "know that you are loved",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "               C",
-      "lyrics": "Because I\u2019m so happy that I met you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Because I’m so ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "happy that I met you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     G",
-      "lyrics": "Remember that I love you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Remem",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ber that I love you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm",
-      "lyrics": "You don\u2019t see a path but"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "You don’t see a path but",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "I see the light for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I see the light for you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "So happy that I met you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "So happy that I met you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     G",
-      "lyrics": "Remember that I love you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Remem",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ber that I love you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm",
-      "lyrics": "You don\u2019t see a path but"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "You don’t see a path but",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "I see the light for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I see the light for you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D A Em G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "Dm",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "D A Em G",
-      "lyrics": ""
+      "label": "[Pre-Chorus]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "No, you’re not broken",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Kn",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ow that you are loved",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "No, you’re not broken",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Kn",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ow that you are loved",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "[Chorus]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Because I’m so ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "happy that I met you",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Remem",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ber that I love you",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "You don’t see a path but",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I see the light for you",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "So happy that I met you",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Remem",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ber that I love you",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "You don’t see a path but",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I see the light for you",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "A",
+          "lyric": " "
+        },
+        {
+          "chord": "Em",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "A",
+          "lyric": " "
+        },
+        {
+          "chord": "Em",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "D                          A",
-      "lyrics": "You hear the sobbing from another room"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "You hear the sobbing from a",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "nother room",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Em",
-      "lyrics": "How can we find connection"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "How can we ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "find connection",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G",
-      "lyrics": "when we fear rejection?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "when we ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "fear rejection?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                          A",
-      "lyrics": "You hear the sobbing from another room"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "You hear the sobbing from a",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "nother room",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Em",
-      "lyrics": "How can we find connection"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "How can we ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "find connection",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G",
-      "lyrics": "when we fear rejection? Oh - oh - oh."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "when we ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "fear rejection? Oh - oh - oh.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                           A",
-      "lyrics": "You heard the sobbing from another room"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "You heard the sobbing from a",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "nother room",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Em                G",
-      "lyrics": "And then we found connection"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And then we ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "found connection  ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "                  D",
-      "lyrics": "That's why I\u2019m so happy that I met you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That's why I’m so ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "happy that I met you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   A",
-      "lyrics": "Remember why I love you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Rem",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ember why I love you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em",
-      "lyrics": "We can find a path cuz"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "We can find a path cuz",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "I see the light for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I see the light for you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D",
-      "lyrics": "So happy that I met you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "So happy that I met you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     A",
-      "lyrics": "Remember why I love you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Remem",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ber why I love you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em",
-      "lyrics": "We can find a path cuz"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "We can find a path cuz",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "I see the light for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I see the light for you",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "I See the Light"

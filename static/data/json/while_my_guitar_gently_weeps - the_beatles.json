@@ -1,7 +1,7 @@
 {
   "allChords": [
     "Bm",
-    "Gm7\u266d5",
+    "Gm7♭5",
     "Gmaj7",
     "A",
     "E",
@@ -20,92 +20,493 @@
       "label": "[Verse]"
     },
     {
-      "chord": "  Bm           Bm/A       Gm7\u266d5            Gmaj7",
-      "lyrics": "I look at you all see the love there that's sleeping"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "look at you a",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm/A",
+          "lyric": "ll see the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm7♭5",
+          "lyric": "love there that's",
+          "overLyric": true
+        },
+        {
+          "chord": "Gmaj7",
+          "lyric": " sleeping",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm          A          E        F#",
-      "lyrics": "While my guitar gently weeps"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "While my gui",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "tar gently ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "weeps    ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "  Bm           Bm/A       Gm7\u266d5          Gmaj7",
-      "lyrics": "I look at the floor and I see it needs sweeping"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "look at the f",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm/A",
+          "lyric": "loor and I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm7♭5",
+          "lyric": "see it needs sw",
+          "overLyric": true
+        },
+        {
+          "chord": "Gmaj7",
+          "lyric": "eeping",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm          A          D        F#",
-      "lyrics": "Still my guitar gently weeps"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Still my gui",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "tar gently ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "weeps    ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "B            D#m  G#m   D#m      C#m                  F#",
-      "lyrics": "I don't know why nobody told you how to unfold your love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "I don't know ",
+          "overLyric": true
+        },
+        {
+          "chord": "D#m",
+          "lyric": "why n",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": "obody ",
+          "overLyric": true
+        },
+        {
+          "chord": "D#m",
+          "lyric": "told you ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "how to unfold your lo",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "ve",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B            D#m G#m           D#m",
-      "lyrics": "I don't know how   someone controlled you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "I don't know ",
+          "overLyric": true
+        },
+        {
+          "chord": "D#m",
+          "lyric": "how ",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": "  someone cont",
+          "overLyric": true
+        },
+        {
+          "chord": "D#m",
+          "lyric": "rolled you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m                   F#",
-      "lyrics": "They bought and sold you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "They bought and sold y",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "ou",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "  Bm           Bm/A       Gm7\u266d5      Gmaj7",
-      "lyrics": "I look at the world and I notice it's turning"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "look at the w",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm/A",
+          "lyric": "orld and I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm7♭5",
+          "lyric": "notice it's",
+          "overLyric": true
+        },
+        {
+          "chord": "Gmaj7",
+          "lyric": " turning",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm          A          E        F#",
-      "lyrics": "While my guitar gently weeps"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "While my gui",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "tar gently ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "weeps    ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "  Bm             Bm/A      Gm7\u266d5    Gmaj7",
-      "lyrics": "With every mistake we must surely be learning"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Wi",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "th every mistak",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm/A",
+          "lyric": "e we must ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm7♭5",
+          "lyric": "surely be",
+          "overLyric": true
+        },
+        {
+          "chord": "Gmaj7",
+          "lyric": " learning",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm          A          D        F#",
-      "lyrics": "Still my guitar gently weeps"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Still my gui",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "tar gently ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "weeps    ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "B            D#m  G#m       D#m",
-      "lyrics": "I don't know how you were diverted"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "I don't know ",
+          "overLyric": true
+        },
+        {
+          "chord": "D#m",
+          "lyric": "how y",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": "ou were di",
+          "overLyric": true
+        },
+        {
+          "chord": "D#m",
+          "lyric": "verted",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m                 F#",
-      "lyrics": "You were perverted too"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "You were perverted t",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "oo",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B            D#m   G#m      D#m",
-      "lyrics": "I don't know how you were inverted"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "I don't know ",
+          "overLyric": true
+        },
+        {
+          "chord": "D#m",
+          "lyric": "how yo",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": "u were in",
+          "overLyric": true
+        },
+        {
+          "chord": "D#m",
+          "lyric": "verted",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#m             F#",
-      "lyrics": "No one alerted you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C#m",
+          "lyric": "No one alerted y",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "ou",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "  Bm           Bm/A       Gm7\u266d5            Gmaj7",
-      "lyrics": "I look at you all see the love there that's sleeping"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "look at you a",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm/A",
+          "lyric": "ll see the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm7♭5",
+          "lyric": "love there that's",
+          "overLyric": true
+        },
+        {
+          "chord": "Gmaj7",
+          "lyric": " sleeping",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm          A          E        F#",
-      "lyrics": "While my guitar gently weeps"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "While my gui",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "tar gently ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "weeps    ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "  Bm           Bm/A       Gm7\u266d5            Gmaj7",
-      "lyrics": "Look at you all..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Lo",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "ok at you all",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm/A",
+          "lyric": "...        ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm7♭5",
+          "lyric": "            "
+        },
+        {
+          "chord": "Gmaj7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Bm          A          D        F#",
-      "lyrics": "Still my guitar gently weeps"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Still my gui",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "tar gently ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "weeps    ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "While My Guitar Gently Weeps"

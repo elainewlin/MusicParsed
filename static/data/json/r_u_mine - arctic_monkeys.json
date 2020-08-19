@@ -15,154 +15,832 @@
       "label": "[Verse]"
     },
     {
-      "chord": "   F#m                            D               Bm",
-      "lyrics": "I'm like a puppet on a string, Tracy Island, time-traveling diamond"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": " like a puppet on a string, Tra",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "cy Island, time-",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "traveling diamond",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   F#m                            D               Bm",
-      "lyrics": "Coulda shaped heartaches, come to find ya four in some velvet morning"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cou",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "lda shaped heartaches, come to ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "find ya four in ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "some velvet morning",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   F#m                            D               Bm",
-      "lyrics": "Years too late, she's a silver lining lone ranger riding"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Yea",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "rs too late, she's a silver lin",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ing lone ranger ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "riding",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   F#m                            D               Bm",
-      "lyrics": "Through an open space, in my mind when she's not right there beside me"
-    },
-    {
-      "label": "[Chorus]"
-    },
-    {
-      "chord": "     F#m          D                Bm",
-      "lyrics": "I go crazy 'cause here isn't where I wanna be"
-    },
-    {
-      "chord": "     F#m          D                Bm",
-      "lyrics": "And satisfaction feels like a distant memory"
-    },
-    {
-      "chord": "     F#m          D                Bm                 F#m D   Bm",
-      "lyrics": "And I can't help myself, all I wanna hear her say is \"Are you mine?\""
-    },
-    {
-      "chord": "F#m D   Bm",
-      "lyrics": "Are you mine?"
-    },
-    {
-      "chord": "F#m D   Bm",
-      "lyrics": "Are you mine?"
-    },
-    {
-      "chord": " F#m D   Bm",
-      "lyrics": "Are you mine? (Oh are...)"
-    },
-    {
-      "label": "[Verse]"
-    },
-    {
-      "chord": "   F#m                            D               Bm",
-      "lyrics": "I guess what I'm trying to say is I need the deep end, keep imagining meeting,"
-    },
-    {
-      "chord": "   F#m                            D               Bm",
-      "lyrics": "Wished away entire lifetimes, unfair we're not somewhere"
-    },
-    {
-      "chord": "   F#m          D            Bm",
-      "lyrics": "Misbehaving for days, great escape"
-    },
-    {
-      "chord": "   F#m                            D               Bm",
-      "lyrics": "Lost track of time and space, she's a silver lining climbing on my desire"
-    },
-    {
-      "label": "[Chorus]"
-    },
-    {
-      "chord": "  F#m          D                Bm",
-      "lyrics": "I go crazy 'cause here isn't where I wanna be"
-    },
-    {
-      "chord": "     F#m          D                Bm",
-      "lyrics": "And satisfaction feels like a distant memory"
-    },
-    {
-      "chord": "     F#m          D                Bm                 F#m D   Bm",
-      "lyrics": "And I can't help myself, all I wanna hear her say is \"Are you mine?\""
-    },
-    {
-      "chord": "F#m D   Bm",
-      "lyrics": "Are you mine?"
-    },
-    {
-      "chord": "F#m D   Bm",
-      "lyrics": "Are you mine?"
-    },
-    {
-      "chord": " F#m D   Bm",
-      "lyrics": "Are you mine? (Oh are...)"
-    },
-    {
-      "label": "[Verse]"
-    },
-    {
-      "chord": "       Bm                   D                   F#m",
-      "lyrics": "And the thrill of the chase moves in mysterious ways"
-    },
-    {
-      "chord": "        A",
-      "lyrics": "So in case I'm mistaken,"
-    },
-    {
-      "chord": "    Bm       D                 C#    Bm",
-      "lyrics": "I just wanna hear you say you got me baby"
-    },
-    {
-      "chord": "    Am  F#m",
-      "lyrics": "Are you mine?"
-    },
-    {
-      "label": "[Verse]"
-    },
-    {
-      "chord": "D",
-      "lyrics": "She's a silver lining lone ranger riding through an open space"
-    },
-    {
-      "chord": "Bm",
-      "lyrics": "In my mind when she's not right there beside me"
-    },
-    {
-      "chord": "   F#m                D                      Bm",
-      "lyrics": "And I go crazy cause here isn't where I wanna be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Thr",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "ough an open space, in my mind ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "when she's not r",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "ight there beside me",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "  F#m          D                Bm",
-      "lyrics": "I go crazy 'cause here isn't where I wanna be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I go ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "crazy 'cause ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "here isn't where ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "I wanna be",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     F#m          D                Bm",
-      "lyrics": "And satisfaction feels like a distant memory"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And s",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "atisfaction f",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "eels like a dista",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "nt memory",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     F#m          D                Bm                 F#m D   Bm",
-      "lyrics": "And I can't help myself, all I wanna hear her say is \"Are you mine?\""
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": " can't help m",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "yself, all I wann",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "a hear her say is \"",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "Are ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "mine?\"",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " F#m                D             Bm",
-      "lyrics": "Well, are you mine? (Are you mine tomorrow?)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": "Are ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "mine?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " F#m                D             Bm",
-      "lyrics": "Are you mine? (Or just mine tonight?)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": "Are ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "mine?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " F#m                D             Bm",
-      "lyrics": "Are you mine? (Are you mine tomorrow, or just mine tonight?)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "re y",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ou m",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "ine? (Oh are...)",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "[Verse]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I g",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "uess what I'm trying to say is ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "I need the deep ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "end, keep imagining meeting,",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Wis",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "hed away entire lifetimes, unfa",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ir we're not som",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "ewhere",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Mis",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "behaving for ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "days, great e",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "scape",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Los",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "t track of time and space, she'",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "s a silver linin",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "g climbing on my desire",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "[Chorus]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "go crazy 'cau",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "se here isn't whe",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "re I wanna be",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And s",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "atisfaction f",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "eels like a dista",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "nt memory",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": " can't help m",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "yself, all I wann",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "a hear her say is \"",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "Are ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "mine?\"",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": "Are ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "mine?",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": "Are ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "mine?",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "re y",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ou m",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "ine? (Oh are...)",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "[Verse]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And the",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": " thrill of the chase ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "moves in mysterious ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "ways",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So in ca",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "se I'm mistaken,",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ju",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "st wanna ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "hear you say you g",
+          "overLyric": true
+        },
+        {
+          "chord": "C#",
+          "lyric": "ot me ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "baby",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Are ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "you ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "mine?",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "[Verse]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "She's a silver lining lone ranger riding through an open space",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "In my mind when she's not right there beside me",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": " I go crazy cause h",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ere isn't where I wanna",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": " be",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "[Chorus]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "go crazy 'cau",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "se here isn't whe",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "re I wanna be",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And s",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "atisfaction f",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "eels like a dista",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "nt memory",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": " can't help m",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "yself, all I wann",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "a hear her say is \"",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "Are ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "mine?\"",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "W",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "ell, are you mine? ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "(Are you mine ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "tomorrow?)",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "re you mine? (Or ju",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "st mine tonigh",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "t?)",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "re you mine? (Are y",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ou mine tomorr",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "ow, or just mine tonight?)",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "R U Mine"

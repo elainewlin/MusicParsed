@@ -3,11 +3,9 @@
     "C",
     "Am",
     "Em",
-    "Gsus4",
-    "F6",
     "F",
-    "Fmaj7",
-    "C6"
+    "G",
+    "Gsus4"
   ],
   "artist": "Hamilton",
   "capo": "1",
@@ -15,387 +13,1233 @@
   "id": "wait_for_it - hamilton",
   "lines": [
     {
-      "chord": "C Am Em",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "Am",
+          "lyric": " "
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C Am Em",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "Am",
+          "lyric": " "
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 1]"
     },
     {
-      "chord": "C         Am                       Em",
-      "lyrics": "Theodosia writes me a letter every day"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Theodosia ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "writes me a letter every ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "day",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                   Am                         Em/B",
-      "lyrics": "I'm keeping the bed warm while her husband is away"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I'm keeping the bed ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "warm while her husband is a",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "way",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                           Am",
-      "lyrics": "He's on the British side in Georgia"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "He's on the British side in ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "Georgia",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Em",
-      "lyrics": "He's trying to keep the colonies in line"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "He's trying to keep the colonies in line",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                       Am",
-      "lyrics": "Well he can keep all of Georgia"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Well he can keep all of ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "Georgia",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "           N.C."
-    },
-    {
-      "chord": "",
-      "lyrics": "'Cause Theodosia, she's mine"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Cause Theodosia, she's mine",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Am                        C",
-      "lyrics": "Love doesn't discriminate"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Love doesn't discriminate ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                            Gsus4",
-      "lyrics": "Between the sinners and the saints"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Between the sinners and the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "saints",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "It takes and it takes and it takes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It takes and it ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "takes and it takes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am                    C",
-      "lyrics": "And we keep lovin' anyway"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "we keep lovin' anyway ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                F6",
-      "lyrics": "We laugh and we cry and we break"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We laugh and we ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "fall and we break",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "And we make our mistakes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And we ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "make our mistakes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am                  C",
-      "lyrics": "And if there's a reason I'm by her side"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "if there's a reason ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "I'm by her side",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Gsus4",
-      "lyrics": "When so many have tried"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "so many have tried",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               Am          C",
-      "lyrics": "I'm willing to wait for it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm willing to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "wait for it ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                     F6",
-      "lyrics": "Then, I'm willing to wait for it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Then, I'm willing to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gsus4",
+          "lyric": "wait for it",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "C                    Am                 Em",
-      "lyrics": "My grandfather was a fire and brimstone preacher,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "My grandfather was a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "fire and brimstone ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "preacher,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "(preacher, preacher, preacher)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "preacher, preacher, preacher",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                             Am                       Em/B",
-      "lyrics": "But there are things that the homilies and hymns won't teach ya,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "But there are things that the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "homilies and hymns won't ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "teach ya,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "(teach ya, teach ya, teach ya)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "teach ya, teach ya, teach ya",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C               Am",
-      "lyrics": "My mother was a genius (genius)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "My mother was a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "genius",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Em",
-      "lyrics": "My father commanded respect, (respect, respect)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "My fa",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ther commanded respect, respect",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                   Am",
-      "lyrics": "When they died they left no instructions,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "When they died they ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "left no instructions,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "N.C."
-    },
-    {
-      "chord": "",
-      "lyrics": "just a legacy to protect"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "just a legacy to protect",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Am                         C",
-      "lyrics": "Death doesn\u2019t discriminate"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Death doesn’t discriminate ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                            Gsus4",
-      "lyrics": "Between the sinners and the saints"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Between the sinners and the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "saints",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "It takes and it takes and it takes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It takes and it ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "takes and it takes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Am                   C",
-      "lyrics": "And we keep living anyway"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Yeah, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "we keep living anyway ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "               F6",
-      "lyrics": "We rise and we fall and we break"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We rise and we ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "fall and we break",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "And we make our mistakes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And we ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "make our mistakes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am                  C",
-      "lyrics": "And if there\u2019s a reason I\u2019m still alive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "if there’s a reason ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "I’m still alive",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Gsus4",
-      "lyrics": "When everyone who loves me has died"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "everyone who loves me has died",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     Am                        C",
-      "lyrics": "Then, I\u2019m willing to wait for it (wait for it)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Then, I’m willing to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "wait for it ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "                    N.C."
-    },
-    {
-      "chord": "",
-      "lyrics": "Then I\u2019m willing to wait for it"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Then I’m willing to wait for it",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "Am",
-      "lyrics": "Wait for it, (wait for it,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Wait for it, wait for it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Wait for it, wait for it)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Wait for it, wait for it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                                   Am",
-      "lyrics": "I am the one thing in life I can control"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I am the one thing in ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "life I can con",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "trol",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "(Wait for it, wait for it"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(Wait for it, wait for it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Wait for it, wait for it)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Wait for it, wait for it)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "I am inimitable, I am an original"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I am inimitable, I am an original",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "(Wait for it, wait for it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "(Wait for it, wait for it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Wait for it, wait for it)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Wait for it, wait for it)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                                  Am",
-      "lyrics": "I am not falling behind or running late"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I am not falling be",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "hind or running late",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "(Wait for it, wait for it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "(Wait for it, wait for it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Wait for it, wait for it)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Wait for it, wait for it)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "I am not standing still,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I am not standing still,",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge 2]"
     },
     {
-      "chord": "              Am",
-      "lyrics": "I am lying in wait"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I am lying in ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "wait",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "(Wait, wait, wait)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(Wait, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "wait, wait)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                                Am",
-      "lyrics": "Hamilton faces an endless uphill climb"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Hamilton faces an ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "endless uphill ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "climb",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "(Climb, climb, climb)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(Climb, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "climb, climb)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "He got something to prove,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "He got something to prove,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                       Am",
-      "lyrics": "he got nothing to lose"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "he got nothing to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "lose",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "(Lose, lose, lose, lose)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(Lose, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "lose, lose, lose)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "Hamilton's pace is relentless,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Hamilton's pace is re",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "lentless,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Am",
-      "lyrics": "he wastes no time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "he wastes no ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "time",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "(Time, time, time)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(Time, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "time, time)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F6                     Fmaj7",
-      "lyrics": "What is it like in his shoes?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "What is it like in his shoes?",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "   C                      Am",
-      "lyrics": "Hamilton doesn\u2019t hesitate"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Hamilton doesn’t hesitate ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                 Em",
-      "lyrics": "He exhibits no restraint"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "He exhibits no re",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "straint",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "He takes and he takes and he takes"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "He takes and he takes and he takes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C                       Am",
-      "lyrics": "And he keeps winning anyway"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "he keeps winning anyway ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "               Em",
-      "lyrics": "He changes the game"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "He changes the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "game",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "He plays and he raises the stakes"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "He plays and he raises the stakes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am",
-      "lyrics": "And if there\u2019s a reason"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "if there’s a reason ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C6                      Am/B",
-      "lyrics": "He seems to thrive when so few survive,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "He seems to thrive when so ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "few survive,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                               Am                        C",
-      "lyrics": "Then Goddamnit\u2014 I'm willing to wait for it (wait for it)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Then Goddamnit— I'm willing to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "wait for it ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "               F",
-      "lyrics": "I'm willing to wait for it..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm willing to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "wait for it...",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Am",
-      "lyrics": "Life doesn't discriminate"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Life doesn't discriminate",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                           Gsus4",
-      "lyrics": "Between the sinners and the saints"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Between the sinners and the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "saints",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "It takes and it takes and it takes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It takes and it ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "takes and it takes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am                    C",
-      "lyrics": "And we keep living anyway"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "we keep living anyway ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "               F6",
-      "lyrics": "We rise and we fall and we break"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We rise and we ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "fall and we break",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "And we make our mistakes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And we ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "make our mistakes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am                  C",
-      "lyrics": "And if there's a reason I'm still alive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "if there's a reason ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "I'm still alive",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Gsus4             Em/G",
-      "lyrics": "When so many have died"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "so many have died",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Then I'm willin' to\u2014"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Then I'm willin' to—",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Picking]"
     },
     {
-      "chord": "  C     Am    Em",
-      "lyrics": "A---------0---------"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A---------0---------",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "E---3-0-----3---3-0-"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "E---3-0-----3---3-0-",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "C-0-----0-----------"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "C-0-----0-----------",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "G-------------4-----"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "G-------------4-----",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                C",
-      "lyrics": "Wait for it, (wait for it, wait for it)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Wait for it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Am                         Em",
-      "lyrics": "Wait for it, (wait for it, wait for it,"
-    },
-    {
-      "chord": "",
-      "lyrics": "wait for it, wait for it, wait for it,"
-    },
-    {
-      "chord": "                               C",
-      "lyrics": "wait for it, wait for it, wait for it)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Wait for it ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "Wait for It"

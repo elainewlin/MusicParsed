@@ -13,243 +13,1233 @@
       "label": "[Intro]"
     },
     {
-      "chord": "A E F#m D",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": " "
+        },
+        {
+          "chord": "E",
+          "lyric": " "
+        },
+        {
+          "chord": "F#m",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "A E F#m D",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": " "
+        },
+        {
+          "chord": "E",
+          "lyric": " "
+        },
+        {
+          "chord": "F#m",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "                       A      E",
-      "lyrics": "I don't want another pretty face"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't want another pr",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "etty fa",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ce",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   F#m       D",
-      "lyrics": "I don't want just anyone to hold"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't want just a",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "nyone to h",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "old",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  A             E",
-      "lyrics": "I don't want my love to go to waste"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't want my lo",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ve to go to wa",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ste",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       F#m          D",
-      "lyrics": "I want you and your beautiful soul"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I want ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "you and your ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "beautiful soul",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Instrumental]"
     },
     {
-      "chord": "A E F#m D",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": " "
+        },
+        {
+          "chord": "E",
+          "lyric": " "
+        },
+        {
+          "chord": "F#m",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 1]"
     },
     {
-      "chord": "A   E       F#m     D",
-      "lyrics": "I know that you are something special"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "I kn",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ow that ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "you are ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "something special",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A   E      F#m   D",
-      "lyrics": "To you I'd be always faithful"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "To y",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ou I'd ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "be alw",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ays faithful",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A   E     F#m  D",
-      "lyrics": "I want to be what you always needed"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "I wa",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "nt to ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "be wh",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "at you always needed",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A       E                  F#m      D",
-      "lyrics": "Then I hope you'll see the heart in me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Then I h",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ope you'll see the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "heart in ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "                       A      E",
-      "lyrics": "I don't want another pretty face"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't want another pr",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "etty fa",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ce",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   F#m        D",
-      "lyrics": "I don't want just anyone to hold"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't want just a",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "nyone to ho",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ld",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 A              E",
-      "lyrics": "I don't want my love to go to waste"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't want my l",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ove to go to wa",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ste",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       F#m           D",
-      "lyrics": "I want you and your beautiful soul"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I want ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "you and your b",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "eautiful soul",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            A            E",
-      "lyrics": "You're the one I wanna chase"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're the o",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ne I wanna ch",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ase",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           F#m           D",
-      "lyrics": "You're the one I wanna hold"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "one I wanna ho",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ld",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                      A            E",
-      "lyrics": "I won't let another minute go to waste"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I won't let another mi",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "nute go to wa",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ste",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       F#m           D             A E F#m D",
-      "lyrics": "I want you and your beautiful soul"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I want ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "you and your b",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "eautiful soul ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " "
+        },
+        {
+          "chord": "E",
+          "lyric": " "
+        },
+        {
+          "chord": "F#m",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "            A    E  F#m  D",
-      "lyrics": "Your beautiful soul, yeah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Your beautif",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ul so",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ul,",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": " yeah",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "A     E        F#m    D",
-      "lyrics": "You might need time to think it over"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "You mi",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ght need ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "time to",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " think it over",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A    E       F#m  D",
-      "lyrics": "But I'm just fine moving forward"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "But I",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "'m just ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "fine ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "moving forward",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A     E        F#m          D",
-      "lyrics": "I'll ease your mind if you give me the chance"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "I'll e",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ase your ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "mind if you g",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ive me the chance",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A             E            F#m         D",
-      "lyrics": "I will never make you cry c`mon let's try"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "I will never m",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ake you cry c",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "`mon let's t",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ry",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "                       A      E",
-      "lyrics": "I don't want another pretty face"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't want another pr",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "etty fa",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ce",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   F#m        D",
-      "lyrics": "I don't want just anyone to hold"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't want just a",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "nyone to ho",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ld",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 A              E",
-      "lyrics": "I don't want my love to go to waste"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't want my l",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ove to go to wa",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ste",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       F#m           D",
-      "lyrics": "I want you and your beautiful soul"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I want ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "you and your b",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "eautiful soul",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            A            E",
-      "lyrics": "You're the one I wanna chase"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're the o",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ne I wanna ch",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ase",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           F#m           D",
-      "lyrics": "You're the one I wanna hold"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "one I wanna ho",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ld",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                      A            E",
-      "lyrics": "I won't let another minute go to waste"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I won't let another mi",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "nute go to wa",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ste",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       F#m           D             A E F#m D",
-      "lyrics": "I want you and your beautiful soul"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I want ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "you and your b",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "eautiful soul ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " "
+        },
+        {
+          "chord": "E",
+          "lyric": " "
+        },
+        {
+          "chord": "F#m",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "            A    E  F#m  D",
-      "lyrics": "Your beautiful soul, yeah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Your beautif",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ul so",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ul,",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": " yeah",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "      F#m        D",
-      "lyrics": "Am I crazy for wanting you?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Am I c",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "razy for wa",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "nting you?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A                             E",
-      "lyrics": "Maybe do you think you could want me too?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Maybe do you think you could w",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ant me too?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m             D          A   E",
-      "lyrics": "I don't wanna waste your time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": "I don't wanna wa",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ste your ti",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "me  ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "       F#m             D",
-      "lyrics": "Do you see things the way I do?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Do you ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "see things the w",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ay I do?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A                           E",
-      "lyrics": "I just wanna know that you feel it too"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "I just wanna know that you f",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "eel it too",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#m               D        A   E",
-      "lyrics": "There is nothing left to hide"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#m",
+          "lyric": "There is nothing l",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "eft to hi",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "de  ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "                       A      E",
-      "lyrics": "I don't want another pretty face"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't want another pr",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "etty fa",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ce",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   F#m        D",
-      "lyrics": "I don't want just anyone to hold"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't want just a",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "nyone to ho",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ld",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 A              E",
-      "lyrics": "I don't want my love to go to waste"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't want my l",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ove to go to wa",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ste",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       F#m           D",
-      "lyrics": "I want you and your beautiful soul"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I want ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "you and your b",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "eautiful soul",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            A            E",
-      "lyrics": "You're the one I wanna chase"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're the o",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ne I wanna ch",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ase",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           F#m           D",
-      "lyrics": "You're the one I wanna hold"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "one I wanna ho",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ld",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                      A            E",
-      "lyrics": "I won't let another minute go to waste"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I won't let another mi",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "nute go to wa",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ste",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       F#m           D             A E F#m D",
-      "lyrics": "I want you and your beautiful soul"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I want ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "you and your b",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "eautiful soul ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " "
+        },
+        {
+          "chord": "E",
+          "lyric": " "
+        },
+        {
+          "chord": "F#m",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "            A    E  F#m  D",
-      "lyrics": "Your beautiful soul, yeah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Your beautif",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ul so",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ul,",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": " yeah",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Ending]"
     },
     {
-      "chord": "                       A      E",
-      "lyrics": "I don't want another pretty face"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't want another pr",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "etty fa",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ce",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   F#m       D",
-      "lyrics": "I don't want just anyone to hold"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't want just a",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "nyone to h",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "old",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 A              E",
-      "lyrics": "I don't want my love to go to waste"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't want my l",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ove to go to wa",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ste",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       F#m           D             A E F#m D",
-      "lyrics": "I want you and your beautiful soul     oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I want ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "you and your b",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "eautiful soul ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " "
+        },
+        {
+          "chord": "E",
+          "lyric": " "
+        },
+        {
+          "chord": "F#m",
+          "lyric": "oh  ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "            A    E   F#m  D",
-      "lyrics": "Your beautiful soul, yeah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Your beautif",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ul so",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ul, ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "yeah ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "Beautiful Soul"

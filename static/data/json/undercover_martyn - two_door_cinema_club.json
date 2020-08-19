@@ -1,143 +1,555 @@
 {
   "allChords": [
-    "Cadd9",
-    "G",
-    "Em7",
-    "Dsus4"
+    "Dadd9",
+    "F#m7",
+    "Esus4",
+    "A"
   ],
   "artist": "Two Door Cinema Club",
   "fullName": "Undercover Martyn - Two Door Cinema Club",
   "id": "undercover_martyn - two_door_cinema_club",
   "lines": [
     {
+      "label": "[Intro]"
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Dadd9",
+          "lyric": " "
+        },
+        {
+          "chord": "F#m7",
+          "lyric": " "
+        },
+        {
+          "chord": "Esus4",
+          "lyric": ""
+        }
+      ]
+    },
+    {
       "label": "[Verse 1]"
     },
     {
-      "chord": "Cadd9         G                G/F                 Cadd9",
-      "lyrics": "And she spoke words that would melt in your hands"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dadd9",
+          "lyric": "And she spoke ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "words that would ",
+          "overLyric": true
+        },
+        {
+          "chord": "Esus4/G#",
+          "lyric": "melt in your hands  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dadd9",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "             G        G/F      Cadd9",
-      "lyrics": "And she spoke words of wisdom"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And she spoke",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " words of",
+          "overLyric": true
+        },
+        {
+          "chord": "Esus4/G#",
+          "lyric": " wisdom   ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dadd9",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "label": "[Bridge]"
+      "label": "[Pre-chorus]"
     },
     {
-      "chord": "                                        G",
-      "lyrics": "To the basement people, to the basement"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To the basement people, to the basement ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "        G/F              Cadd9",
-      "lyrics": "Many surprises await you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Many sur",
+          "overLyric": true
+        },
+        {
+          "chord": "Esus4/G#",
+          "lyric": "prises await you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dadd9",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                                        G  Em7",
-      "lyrics": "In the basement people, in the basement"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "In the basement people, in the basement ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "  "
+        },
+        {
+          "chord": "F#m7",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Cadd9                                                   G",
-      "lyrics": "You hid there last time, you know we're gonna find you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dadd9",
+          "lyric": "You hid there last time, you know we're gonna find you  ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                     Dsus4                          Cadd9",
-      "lyrics": "Sick in the carseat, cause you're not up to going"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Sick in the carseat, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Esus4",
+          "lyric": "cause you're not up to going  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dadd9",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                                                 G    Dsus4",
-      "lyrics": "Out on the main streets, completing your mission"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Out on the main streets, completing your mission ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "    "
+        },
+        {
+          "chord": "Esus4",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Cadd9                                                  Em7",
-      "lyrics": "You hid there last time, you know we're gonna find you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dadd9",
+          "lyric": "You hid there last time, you know we're gonna find you ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                     Dsus4                          Cadd9",
-      "lyrics": "Sick in the carseat, cause you're not up to going"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Sick in the carseat, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Esus4",
+          "lyric": "cause you're not up to going  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dadd9",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                                                 Em7    Dsus4",
-      "lyrics": "Out on the main streets, completing your mission"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Out on the main streets, completing your mission ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m7",
+          "lyric": "   "
+        },
+        {
+          "chord": "Esus4",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "Cadd9         G                G/F                 Cadd9",
-      "lyrics": "And she spoke words that would melt in your hands"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dadd9",
+          "lyric": "And she spoke ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "words that would ",
+          "overLyric": true
+        },
+        {
+          "chord": "Esus4/G#",
+          "lyric": "melt in your hands  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dadd9",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "             G        G/F      Cadd9",
-      "lyrics": "And she spoke words of wisdom"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And she spoke",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": " words of",
+          "overLyric": true
+        },
+        {
+          "chord": "Esus4/G#",
+          "lyric": " wisdom   ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dadd9",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "label": "[Bridge]"
+      "label": "[Pre-chorus]"
     },
     {
-      "chord": "                                        G",
-      "lyrics": "To the basement people, to the basement"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To the basement people, to the basement ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "        G/F              Cadd9",
-      "lyrics": "Many surprises await you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Many sur",
+          "overLyric": true
+        },
+        {
+          "chord": "Esus4/G#",
+          "lyric": "prises await you      ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dadd9",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                                        G  Em7",
-      "lyrics": "In the basement people, in the basement"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "In the basement people, in the basement ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "  "
+        },
+        {
+          "chord": "F#m7",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Cadd9                                                   G",
-      "lyrics": "You hid there last time, you know we're gonna find you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dadd9",
+          "lyric": "You hid there last time, you know we're gonna find you  ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                     Dsus4                          Cadd9",
-      "lyrics": "Sick in the carseat, cause you're not up to going"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Sick in the carseat, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Esus4",
+          "lyric": "cause you're not up to going  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dadd9",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                                                 G    Dsus4",
-      "lyrics": "Out on the main streets, completing your mission"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Out on the main streets, completing your mission ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "    "
+        },
+        {
+          "chord": "Esus4",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Cadd9                                                  Em7",
-      "lyrics": "You hid there last time, you know we're gonna find you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dadd9",
+          "lyric": "You hid there last time, you know we're gonna find you ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                     Dsus4                          Cadd9",
-      "lyrics": "Sick in the carseat, cause you're not up to going"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Sick in the carseat, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Esus4",
+          "lyric": "cause you're not up to going  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dadd9",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                                                 Em7    Dsus4",
-      "lyrics": "Out on the main streets, completing your mission"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Out on the main streets, completing your mission ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m7",
+          "lyric": "   "
+        },
+        {
+          "chord": "Esus4",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Cadd9                                                   G",
-      "lyrics": "You hid there last time, you know we're gonna find you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dadd9",
+          "lyric": "You hid there last time, you know we're gonna find you  ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                     Dsus4                          Cadd9",
-      "lyrics": "Sick in the carseat, cause you're not up to going"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Sick in the carseat, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Esus4",
+          "lyric": "cause you're not up to going  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dadd9",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                                                 G    Dsus4",
-      "lyrics": "Out on the main streets, completing your mission"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Out on the main streets, completing your mission ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "    "
+        },
+        {
+          "chord": "Esus4",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Cadd9                                                  Em7",
-      "lyrics": "You hid there last time, you know we're gonna find you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dadd9",
+          "lyric": "You hid there last time, you know we're gonna find you ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                     Dsus4                          Cadd9",
-      "lyrics": "Sick in the carseat, cause you're not up to going"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Sick in the carseat, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Esus4",
+          "lyric": "cause you're not up to going  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dadd9",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                                                 Em7    Dsus4",
-      "lyrics": "Out on the main streets, completing your mission"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Out on the main streets, completing your mission ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m7",
+          "lyric": "   "
+        },
+        {
+          "chord": "Esus4",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "Undercover Martyn"

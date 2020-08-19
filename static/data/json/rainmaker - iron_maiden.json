@@ -15,70 +15,335 @@
       "label": "[Verse]"
     },
     {
-      "chord": "Dm         Bb               F",
-      "lyrics": "When I was wandering in the desert"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "When I was ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "wandering in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "desert",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        C",
-      "lyrics": "And was searching for the truth"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And was ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "searching for the truth",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm        Bb              F              C",
-      "lyrics": "I heard a choir of angels calling out my name"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "I heard a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "choir of angels ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "calling out my ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "name",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm        Bb              F                C",
-      "lyrics": "I had the feeling that my life would never be the same again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "I had the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "feeling that my ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "life would never ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "be the same again",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb                           C",
-      "lyrics": "I turned my face towards the barren sun"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "I turned my face towards the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "barren sun",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "      Dm          F             Bb       C",
-      "lyrics": "And I know of the pain that you feel the same as me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "know of the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "pain that you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "feel the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "same as me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      G5           Bb         F              C",
-      "lyrics": "And I dream of the rain as it falls upon the leaves"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G5",
+          "lyric": "dream of the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "rain as it ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "falls upon the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "leaves",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Dm            F              Bb              C",
-      "lyrics": "And the cracks in our lives like the cracks upon the ground"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "cracks in our ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "lives like the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "cracks upon the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ground",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         G5             Bb          C",
-      "lyrics": "They are sealed and are now washed away"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "They are ",
+          "overLyric": true
+        },
+        {
+          "chord": "G5",
+          "lyric": "sealed and are ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "now washed a",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "way",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Dm          Dsus4",
-      "lyrics": "You tell me we can start the rain"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "You tell me ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dsus4",
+          "lyric": "we can start the rain",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm          Dsus4",
-      "lyrics": "You tell me that we all can change"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "You tell me ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dsus4",
+          "lyric": "that we all can change",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb          Dsus4       F            C",
-      "lyrics": "You tell me we can find something to wash the tears away"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "You tell me ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dsus4",
+          "lyric": "we can find ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "something to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "wash the tears away",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm          Dsus4",
-      "lyrics": "You tell me we can start the rain"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "You tell me ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dsus4",
+          "lyric": "we can start the rain",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm          Dsus4",
-      "lyrics": "You tell me that we all can change"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "You tell me ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dsus4",
+          "lyric": "that we all can change",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb          Dsus4       F            C",
-      "lyrics": "You tell me we can find something to wash the tears"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "You tell me ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dsus4",
+          "lyric": "we can find ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "something to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "wash the tears",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Rainmaker"

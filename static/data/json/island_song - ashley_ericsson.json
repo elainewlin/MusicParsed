@@ -4,7 +4,7 @@
     "D",
     "G",
     "Bm",
-    "F\u266f"
+    "F♯"
   ],
   "artist": "Ashley Ericsson",
   "fullName": "Island Song - Ashley Ericsson",
@@ -14,139 +14,633 @@
       "label": "[Intro]"
     },
     {
-      "chord": "A",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "        D  G    Bm",
-      "lyrics": "Come along with me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Come alo",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ng ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "with ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     D    A          G",
-      "lyrics": "To a town beside the sea"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "town ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "beside the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "sea",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Bm                 G",
-      "lyrics": "We can wander through the forest"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We can ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "wander through the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "forest",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   D            A",
-      "lyrics": "And do so as we please"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " do so as we ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "please",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        D  G    Bm",
-      "lyrics": "Come along with me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Come alo",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ng ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "with ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     D       A      G",
-      "lyrics": "To a cliff under a tree"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "cliff un",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "der a t",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ree",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Bm            G",
-      "lyrics": "Where we'll gaze upon the water"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Where we'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "gaze upon the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "water",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          A       D",
-      "lyrics": "As an everlasting dream"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "As an ever",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "lasting ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "dream",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "F\u266f         G",
-      "lyrics": "All of my affections"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F♯",
+          "lyric": "All of my a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ffections",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm          A      D",
-      "lyrics": "I give them all to you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "I give them ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "all to ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F\u266f            G",
-      "lyrics": "Maybe by next summer"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F♯",
+          "lyric": "Maybe by next ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "summer",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                         A",
-      "lyrics": "We won't have changed our tunes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "We won't have changed our ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "tunes",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "             D    G  Bm",
-      "lyrics": "'Cause we'll want to be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Cause we'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "want ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "be",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        D      A        G",
-      "lyrics": "In this town beside the sea"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "In this ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "town be",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "side the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "sea",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm            G",
-      "lyrics": "Making up new numbers"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Making up new ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "numbers",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           A    D",
-      "lyrics": "And living so merrily"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And living ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "so me",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "rrily",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        D  G    Bm",
-      "lyrics": "Come along with me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Come alo",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ng ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "with ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     D    A          G",
-      "lyrics": "And the butterflies and bees"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And t",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "he bu",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "tterflies a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "nd bees",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Bm                 G",
-      "lyrics": "We can wander through the forest"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We can ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "wander through the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "forest",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   D            A",
-      "lyrics": "And do so as we please"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " do so as we ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "please",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "F\u266f         G",
-      "lyrics": "All of my affections"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F♯",
+          "lyric": "All of my a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ffections",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm          A      D",
-      "lyrics": "I give them all to you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "I give them ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "all to ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F\u266f                   G",
-      "lyrics": "I'll be here for you always"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F♯",
+          "lyric": "I'll be here for you ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "always",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    D              A",
-      "lyrics": "And always be for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "always be for y",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ou",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "        D  G    Bm",
-      "lyrics": "Come along with me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Come alo",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ng ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "with ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     D    A          G",
-      "lyrics": "To a town beside the sea"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "town ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "beside the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "sea",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Bm                 G",
-      "lyrics": "We can wander through the forest"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We can ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "wander through the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "forest",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    D     A     Bm",
-      "lyrics": "And do so as we please"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "do so ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "as we ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "please",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G         A    D",
-      "lyrics": "Living so merrily"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Living so ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "merri",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ly",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Island Song"

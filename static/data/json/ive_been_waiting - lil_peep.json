@@ -14,277 +14,1126 @@
       "label": "[Intro]"
     },
     {
-      "chord": "C   D   Bm   Em",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "   "
+        },
+        {
+          "chord": "D",
+          "lyric": "   "
+        },
+        {
+          "chord": "Bm",
+          "lyric": "   "
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "C                       D",
-      "lyrics": "I've been waiting (I've been waiting)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I've been waiting (I've ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "been waiting)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  Bm                      Em",
-      "lyrics": "I've been waiting up 'cause I can't get enough, oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've been waiting ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "up 'cause I can't get en",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ough, oh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  C                      D",
-      "lyrics": "I feel I'm fading (Yeah)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "feel I'm fading (Yeah) ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "             Bm                        Em",
-      "lyrics": "When I fall apart, your needle sews my heart, oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When I fall a",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "part, your needle sews my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "heart, oh",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Refrain]"
     },
     {
-      "chord": "C                              D",
-      "lyrics": "Fuck me up and make me just go crazy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Fuck me up and make me just go ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "crazy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " Bm                                Em",
-      "lyrics": "Addicted to the pain that you just made me love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "ddicted to the pain that you just ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "made me love",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C                                 D",
-      "lyrics": "I'm fiendin' for your touchin' on the daily"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "fiendin' for your touchin' on the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "daily",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm                         Em",
-      "lyrics": "You're the only one that I want"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "You're the only one that I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "want",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "C                        D               Bm",
-      "lyrics": "Break my heart but don't tell me I'm not doin' fine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Break my heart but don't ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "tell me I'm not ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "doin' fine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Em",
-      "lyrics": "'Cause I'm doin' fine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Cause I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "doin' fine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C              D",
-      "lyrics": "Let me go, I'm spendin' time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Let me go, I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "spendin' time",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Bm                 Em",
-      "lyrics": "Not doin' fine but I'm doin' fine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Not ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "doin' fine but I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "doin' fine",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "               C                  D",
-      "lyrics": "Why you actin' vain for my love, vain for my love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Why you actin' ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "vain for my love, v",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ain for my love",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Bm                           Em",
-      "lyrics": "When you got everything that I want?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "you got everything that I wan",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "t?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               C                    D",
-      "lyrics": "Why you actin' vain for my blood, vain for my blood"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Why you actin' ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "vain for my blood, va",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "in for my blood",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Bm                           Em",
-      "lyrics": "When you got everything that I want? Why you actin'"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "you got everything that I wan",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "t? Why you actin'",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "C                D",
-      "lyrics": "I been dreamin'"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I been dreamin'  ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "           Bm                    Em",
-      "lyrics": "Of your uniform, your uniform of non-conformity"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Of your uni",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "form, your uniform of ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "non-conformity",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C                D",
-      "lyrics": "The tears, the tears"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "tears, the tears ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                     Bm                            Em",
-      "lyrics": "Tears aren't strong enough, the years aren't long enough, no"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Tears aren't strong e",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "nough, the years aren't long e",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "nough, no",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Refrain]"
     },
     {
-      "chord": "C                              D",
-      "lyrics": "Fuck me up and make me just go crazy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Fuck me up and make me just go ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "crazy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " Bm                                Em",
-      "lyrics": "Addicted to the pain that you just made me love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "ddicted to the pain that you just ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "made me love",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C                                 D",
-      "lyrics": "I'm fiendin' for your touchin' on the daily"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "fiendin' for your touchin' on the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "daily",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm                         Em",
-      "lyrics": "You're the only one that I want"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "You're the only one that I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "want",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "C                        D               Bm",
-      "lyrics": "Break my heart but don't tell me I'm not doin' fine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Break my heart but don't ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "tell me I'm not ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "doin' fine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Em",
-      "lyrics": "'Cause I'm doin' fine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Cause I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "doin' fine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C              D",
-      "lyrics": "Let me go, I'm spendin' time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Let me go, I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "spendin' time",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Bm                 Em",
-      "lyrics": "Not doin' fine but I'm doin' fine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Not ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "doin' fine but I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "doin' fine",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "               C                  D",
-      "lyrics": "Why you actin' vain for my love, vain for my love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Why you actin' ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "vain for my love, v",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ain for my love",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Bm                           Em",
-      "lyrics": "When you got everything that I want?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "you got everything that I wan",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "t?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               C                    D",
-      "lyrics": "Why you actin' vain for my blood, vain for my blood"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Why you actin' ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "vain for my blood, va",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "in for my blood",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Bm                           Em                C",
-      "lyrics": "When you got everything that I want? Why you actin' vain"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "you got everything that I wan",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "t? Why you actin' ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "vain",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Post-Chorus]"
     },
     {
-      "chord": "             D                     Bm                      Em",
-      "lyrics": "It's hard to miss you when you are always on the tip of my tongue"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's hard to ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "miss you when you are ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "always on the tip of my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "tongue",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C               D                      Bm                      Em",
-      "lyrics": "I feel like I'm looking for somethin', somethin' that'll never come"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I feel like I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "looking for somethin', ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "somethin' that'll never ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "come",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "C                          D",
-      "lyrics": "Call me when you're in the city again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Call me when you're in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "city again",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Bm               Em",
-      "lyrics": "My head just went oblivion"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "My ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "head just went ob",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "livion",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                 D                Bm                      Em",
-      "lyrics": "It's hard to miss you when you are always on the tip of my tongue"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "It's hard to miss ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "you when you are ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "always on the tip of my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "tongue",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em",
-      "lyrics": "(Always on the tip of my tongue)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "(Always on the tip of my tongue)",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "    C                                D",
-      "lyrics": "And now the time is right, you wanna do me so wrong"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "now the time is right, you wanna ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "do me so wrong",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm                               Em",
-      "lyrics": "Now the time is right, you wanna do me so wrong"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Now the time is right, you wanna ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "do me so wrong",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     C                  D",
-      "lyrics": "When I've been waitin' (I've been waitin')"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I've been waitin' (",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "I've been waitin')",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Bm                Em",
-      "lyrics": "Long for you (Long for you)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Long for ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "you (Long for you)",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "        C                      D",
-      "lyrics": "I wanna drink my wine, I wanna pass that by"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I wanna ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "drink my wine, I wanna ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "pass that by",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Bm                      Em",
-      "lyrics": "I wanna make her cry, she wanna make me die"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I wanna ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "make her cry, she wanna ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "make me die",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C              D",
-      "lyrics": "Apple pie, six cigarettes"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Apple pie, six ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "cigarettes",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Bm                     Em",
-      "lyrics": "And I'll catch the vibe that we can't forget"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "catch the vibe that we ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "can't forget",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "               C                  D",
-      "lyrics": "Why you actin' vain for my love, vain for my love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Why you actin' ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "vain for my love, v",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ain for my love",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Bm                           Em",
-      "lyrics": "When you got everything that I want?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "you got everything that I wan",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "t?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               C                    D",
-      "lyrics": "Why you actin' vain for my blood, vain for my blood"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Why you actin' ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "vain for my blood, va",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "in for my blood",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Bm                           Em                C",
-      "lyrics": "When you got everything that I want? Why you actin' vain"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "you got everything that I wan",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "t? Why you actin' ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "vain",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Post-Chorus]"
     },
     {
-      "chord": "             D                     D/A",
-      "lyrics": "It's hard to miss you when you are always on the tip of my tongue"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's hard to ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "miss you when you are ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/A",
+          "lyric": "always on the tip of my tongue",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                 D                    D/A",
-      "lyrics": "I feel like I'm looking for somethin', somethin' that'll never come"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I feel like I'm lo",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "oking for somethin', ",
+          "overLyric": true
+        },
+        {
+          "chord": "D/A",
+          "lyric": "somethin' that'll never come",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Outro]"
     },
     {
-      "chord": "C                D",
-      "lyrics": "I'll be waiting (I'll be waiting)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I'll be waiting (",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "I'll be waiting)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm                   Em",
-      "lyrics": "I'll be waiting (For you)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "I'll be waiting (For ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "you)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C                                D",
-      "lyrics": "And now the time is right, you wanna do me so wrong"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "now the time is right, you wanna ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "do me so wrong",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Bm                               Em",
-      "lyrics": "And now the time is right, you wanna do me so wrong"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "now the time is right, you wanna ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "do me so wrong",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "I've Been Waiting"

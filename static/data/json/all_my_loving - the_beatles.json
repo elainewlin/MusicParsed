@@ -14,68 +14,445 @@
   "id": "all_my_loving - the_beatles",
   "lines": [
     {
-      "chord": "      Am                   D7              G              Em",
-      "lyrics": "Close your eyes and I\u00b4ll kiss you, tomorrow i\u00b4ll miss you,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Close ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "your eyes and I´ll ki",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "ss you, tomorrow",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " i´ll miss you,",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "  C           Am        F     D7",
-      "lyrics": "remember I\u00b4ll always be true."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "re",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "member I´ll ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "always be ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "true. ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "         Am         D7             G         Em",
-      "lyrics": "And then while I\u00b4m away I\u00b4ll write home everyday"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And then ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "while I´m a",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "way I´ll write ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "home every",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "day",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         C           D         G",
-      "lyrics": "and I\u00b4ll send all my loving to you."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and I´ll ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "send all my ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "loving to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "you.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Am            D7           G         Em",
-      "lyrics": "I\u00b4ll pretend that I\u00b4m kissing, the lips I am missing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I´ll pre",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "tend that I´m ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "kissing, the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "lips I am ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "missing",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C            Am               F     D7",
-      "lyrics": "and hope that my dreams will come true."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hope that my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "dreams will come ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "true. ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "         Am         D7             G         Em",
-      "lyrics": "And then while I\u00b4m away I\u00b4ll write home everyday"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And then ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "while I´m a",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "way I´ll write ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "home every",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "day",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         C           D         G",
-      "lyrics": "and I\u00b4ll send all my loving to you."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and I´ll ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "send all my ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "loving to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "you.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Em     B7            G",
-      "lyrics": "All my loving I will send to you."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "All my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "loving ",
+          "overLyric": true
+        },
+        {
+          "chord": "B7",
+          "lyric": "I will send to",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " you.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Em      B7             G",
-      "lyrics": "All my loving, darling I\u00b4ll be true."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "All my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "loving, ",
+          "overLyric": true
+        },
+        {
+          "chord": "B7",
+          "lyric": "darling I´ll be",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " true.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Am            D7          G           Em",
-      "lyrics": "Close your eyes and I\u00b4ll kiss you, tomorrow I\u00b4ll miss you,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Close your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "eyes and I´ll ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "kiss you, to",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "morrow I´ll ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "miss you,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  C           Am        F     D7",
-      "lyrics": "remember I\u00b4ll always be true."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "re",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "member I´ll ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "always be ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "true. ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "         Am         D7             G         Em",
-      "lyrics": "And then while I\u00b4m away I\u00b4ll write home everyday"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And then ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "while I´m a",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "way I´ll write ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "home every",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "day",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         C           D         G",
-      "lyrics": "and I\u00b4ll send all my loving to you."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and I´ll ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "send all my ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "loving to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "you.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Em     B7               G",
-      "lyrics": "All my loving I\u00b4ll will send to you."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "All my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "loving ",
+          "overLyric": true
+        },
+        {
+          "chord": "B7",
+          "lyric": "I´ll will send to",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " you.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Em      B7             G",
-      "lyrics": "All my loving, darling I\u00b4ll be true."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "All my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "loving, ",
+          "overLyric": true
+        },
+        {
+          "chord": "B7",
+          "lyric": "darling I´ll be",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " true.",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "All My Loving"

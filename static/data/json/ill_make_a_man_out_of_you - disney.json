@@ -20,165 +20,745 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "Em        D       G",
-      "lyrics": "Let's get down to business"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Let's get ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "down to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "business",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Am          D",
-      "lyrics": "To de-feat the Huns"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "de-feat the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "Huns",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em       D       G",
-      "lyrics": "Did they send me daughters"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Did they ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "send me ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "daughters",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Am        D",
-      "lyrics": "When I asked for sons?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "asked for ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "sons?",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "           C               D",
-      "lyrics": "You're the saddest bunch I ever met"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "saddest bunch I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ever met",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            G                C",
-      "lyrics": "But you can bet before we're through"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But you can ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "bet before we're ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "through",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        C           D           Em",
-      "lyrics": "Mister, I'll make a man out of you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Mister, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I'll make a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "man out of y",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ou",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "Em       D    G",
-      "lyrics": "Tranquil as a forest"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Tranquil ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "as a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "forest",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Am       D",
-      "lyrics": "But on fire within"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But on ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "fire with",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "in",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em       D         G",
-      "lyrics": "Once you find your center"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Once you ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "find your ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "center",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Am      D",
-      "lyrics": "you are sure to win"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "you are ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "sure to ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "win",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "         C               D",
-      "lyrics": "You're a spineless, pale pathetic lot"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "spineless, pale ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "pathetic lot",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        G             C",
-      "lyrics": "And you haven't got a clue"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And you ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "haven't got a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "clue",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        C           D          Em",
-      "lyrics": "Somehow I'll make a man out of you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Somehow ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I'll make a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "man out of ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C               D",
-      "lyrics": "I'm never gonna catch my breath"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I'm never gonna ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "catch my breath",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B                         Em",
-      "lyrics": "Say good-bye to those who knew me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "Say good-bye to those who ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "knew me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                    G                  C",
-      "lyrics": "Boy, was I a fool in school for cutting gym"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Boy, was I a fool in ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "school for cutting ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "gym",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                  D",
-      "lyrics": "This guy's got 'em scared to death"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "This guy's got 'em ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "scared to death",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B                         Em",
-      "lyrics": "Hope he doesn't see right through me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "Hope he doesn't see right ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "through me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                      G             C",
-      "lyrics": "Now I really wish that I knew how to swim"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Now I really wish that ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "I knew how to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "swim",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus 2]"
     },
     {
-      "chord": "C                     D            B        Em",
-      "lyrics": "(Be a man) We must be swift as the coursing ri-ver"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "(Be a man) We must be ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "swift as the ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "coursing ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ri-ver",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                       D          B        Em",
-      "lyrics": "(Be a man) With all the force of a great typhoon"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "(Be a man) With all the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "force of a ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "great typ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "hoon",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                       D             B     Em",
-      "lyrics": "(Be a man) With all the strength of a raging fire"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "(Be a man) With all the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "strength of a ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "raging",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " fire",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                 D                Em",
-      "lyrics": "Mysterious as the dark side of the moon"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Mysterious as the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "dark side of the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "moon",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 3]"
     },
     {
-      "chord": "Fm       Eb      Ab",
-      "lyrics": "Time is racing toward us"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm",
+          "lyric": "Time is r",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "acing to",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "ward us",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Bbm  Eb",
-      "lyrics": "till the Huns arrive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "till the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bbm",
+          "lyric": "Huns ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "arrive",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fm      Eb   Ab",
-      "lyrics": "Heed my every order"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm",
+          "lyric": "Heed my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "every",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": " order",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Bbm       Eb",
-      "lyrics": "and you might survive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bbm",
+          "lyric": "might surv",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "ive",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus 3]"
     },
     {
-      "chord": "       Db                Eb",
-      "lyrics": "You're unsuited for the rage of war"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're ",
+          "overLyric": true
+        },
+        {
+          "chord": "Db",
+          "lyric": "unsuited for the r",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "age of war",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Ab                 Db",
-      "lyrics": "So pack up, go home you're through"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So pack ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "up, go home you're ",
+          "overLyric": true
+        },
+        {
+          "chord": "Db",
+          "lyric": "through",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Eb         Fm",
-      "lyrics": "How could I make a man out of you?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "How could I make a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "man out of ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "you?",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus 2]"
     },
     {
-      "chord": "Db                     Eb          C        Fm",
-      "lyrics": "(Be a man) We must be swift as the coursing ri-ver"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Db",
+          "lyric": "(Be a man) We must be s",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "wift as the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "coursing ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "ri-ver",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Db                      Eb         C        Fm",
-      "lyrics": "(Be a man) With all the force of a great typhoon"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Db",
+          "lyric": "(Be a man) With all the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "force of a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "great typ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "hoon",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Db                      Eb            C     Fm",
-      "lyrics": "(Be a man) With all the strength of a raging fire"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Db",
+          "lyric": "(Be a man) With all the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "strength of a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "raging",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": " fire",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Db                 Eb              Fm",
-      "lyrics": "Mysterious as the dark side of the moon"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Db",
+          "lyric": "Mysterious as the d",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "ark side of the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "moon",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "I'll Make A Man Out Of You"

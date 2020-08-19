@@ -14,224 +14,805 @@
       "label": "[Verse]"
     },
     {
-      "chord": "Am             Em",
-      "lyrics": "There's a fire starting in my heart,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "There's a fire ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "starting in my heart,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                               Em                     G",
-      "lyrics": "Reaching a fever pitch, and it's bringing me out the dark"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Reaching a fever pitch, and it's",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " bringing me out the da",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "rk",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am             Em",
-      "lyrics": "Finally, I can see you crystal clear."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Finally, I can ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "see you crystal clear.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                                 Em                G",
-      "lyrics": "Go ahead and sell me out, and I'll lay your ship bare."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Go ahead and sell me out, and I'll",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " lay your ship bar",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "e.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am               Em",
-      "lyrics": "See how I'll leave with every piece of you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "See how I'll leav",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "e with every piece of you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                       Em                   G",
-      "lyrics": "Don't underestimate the things that I will do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Don't underestimate the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "things that I will do",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am             Em",
-      "lyrics": "There's a fire starting in my heart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "There's a fire ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "starting in my heart",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                               Em                      G",
-      "lyrics": "Reaching a fever pitch, and it's bringing me out the dark"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Reaching a fever pitch, and it's",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " bringing me out the dar",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "k",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "F                       G",
-      "lyrics": "The scars of your love, remind me of us"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "The scars of your love, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "remind me of us",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                      F",
-      "lyrics": "They keep me thinking that we almost had it all"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "They keep me thinking th",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "at we almost had it all",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                       G",
-      "lyrics": "The scars of your love, they leave me breathless"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "The scars of your love, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "they leave me breathless",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em              E7",
-      "lyrics": "I can't help feeling..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "I can't help fee",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "ling...",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Am                       G",
-      "lyrics": "We could have had it all... (You're gonna wish you, never had met me)..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "We could have had it all.",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ".. (You're gonna wish you, never had met me)...",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                                                   G",
-      "lyrics": "Rolling in the Deep (Tears are gonna fall, rolling in the deep)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Rolling in the Deep (Tears are gonna fall, rolling i",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "n the deep)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                                                             G",
-      "lyrics": "You had my heart... (you're gonna wish you)... Inside of your hand (Never had met me)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "You had my heart... (you're gonna wish you)... Inside of your h",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "and (Never had met me)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                                                       G",
-      "lyrics": "And you played it... (Tears are gonna fall)... To the beat (Rolling in the deep)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "And you played it... (Tears are gonna fall)... To the be",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "at (Rolling in the deep)",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "Am             Em",
-      "lyrics": "Baby I have no story to be told,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Baby I have no ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "story to be told,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                                 Em                   G",
-      "lyrics": "But I've heard one on you. Now I'm gonna make your head burn"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "But I've heard one on you. Now I'm",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " gonna make your head",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " burn",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                 Em",
-      "lyrics": "Think of me in the depths of your despair"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Think of me in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "depths of your despair",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                         Em                    G",
-      "lyrics": "Make a home down there, as mine sure won't be shared"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Make a home down there, as",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " mine sure won't be sh",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ared",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "F                       G",
-      "lyrics": "The scars of your love, remind me of us.(You're gonna wish you never had met me)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "The scars of your love, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "remind me of us.(You're gonna wish you never had met me)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                      F",
-      "lyrics": "They keep me thinking that we almost had it all(Tears are gonna fall, rolling in the deep)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "They keep me thinking th",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "at we almost had it all(Tears are gonna fall, rolling in the deep)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                       G",
-      "lyrics": "The scars of your love, they leave me breathless(You're gonna wish you never had met me)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "The scars of your love, ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "they leave me breathless(You're gonna wish you never had met me)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em              E7",
-      "lyrics": "I can't help feeling...(Tears are gonna fall, rolling in the deep)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "I can't help fee",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "ling...(Tears are gonna fall, rolling in the deep)",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Am                       G",
-      "lyrics": "We could have had it all... (You're gonna wish you, never had met me)..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "We could have had it all.",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ".. (You're gonna wish you, never had met me)...",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                                                   G",
-      "lyrics": "Rolling in the Deep (Tears are gonna fall, rolling in the deep)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Rolling in the Deep (Tears are gonna fall, rolling i",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "n the deep)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                                                             G",
-      "lyrics": "You had my heart... (you're gonna wish you)... Inside of your hand (Never had met me)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "You had my heart... (you're gonna wish you)... Inside of your h",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "and (Never had met me)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                                                       G",
-      "lyrics": "And you played it... (Tears are gonna fall)... To the beat (Rolling in the deep)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "And you played it... (Tears are gonna fall)... To the be",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "at (Rolling in the deep)",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Interlude]"
     },
     {
-      "chord": "Am                           G",
-      "lyrics": "Could have had it all"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Could have had it all        ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F                            G",
-      "lyrics": "Rolling in the Deep"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Rolling in the Deep          ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am                               G",
-      "lyrics": "Your had my heart inside of your hand"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Your had my heart inside of your ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "hand",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                         G",
-      "lyrics": "And you played it with a beating"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "And you played it with a b",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "eating",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "Am                               Em",
-      "lyrics": "Throw yourself through ever open door (Whoa)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Throw yourself through ever open ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "door (Whoa)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                            Em              G",
-      "lyrics": "Count your blessings to find what you look for (Whoa-uh)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Count your blessings to find ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "what you look fo",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "r (Whoa-uh)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                            Em",
-      "lyrics": "Turn my sorrow into treasured gold (Whoa)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Turn my sorrow into treasured ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "gold (Whoa)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                             Em                 G",
-      "lyrics": "You'll pay me back in kind And reap just what you sow."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "You'll pay me back in kind And",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " reap just what you",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " sow.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": " Am                             G",
-      "lyrics": "(You're gonna wish you never had met me)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "You're gonna wish you never had",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " met me)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                              G",
-      "lyrics": "We could have had it all (Tears are gonna fall, Rolling in the deep)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "We could have had it all (Tears",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " are gonna fall, Rolling in the deep)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                                                G",
-      "lyrics": "We could have had it all yeah (You're gonna wish you never had met me)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "We could have had it all yeah (You're gonna wish y",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ou never had met me)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                                                          G",
-      "lyrics": "It all, It all, It all (Tears are gonna fall Rolling in the deep)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "It all, It all, It all (Tears are gonna fall Rolling in the",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " deep)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                      G",
-      "lyrics": "We could have had it all (You're gonna wish you, never had met me)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "We could have had it all",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " (You're gonna wish you, never had met me)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                                                   G",
-      "lyrics": "Rolling in the Deep (Tears are gonna fall, rolling in the deep)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Rolling in the Deep (Tears are gonna fall, rolling i",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "n the deep)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                                                                 G",
-      "lyrics": "You had my heart (you're gonna wish you) Inside of your hand (Never had met me)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "You had my heart (you're gonna wish you) Inside of your hand (Never",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " had met me)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                                                G",
-      "lyrics": "And you played it (Tears are gonna fall) To the beat (Rolling in the deep)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "And you played it (Tears are gonna fall) To the b",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "eat (Rolling in the deep)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                      G",
-      "lyrics": "We could have had it all (You're gonna wish you, never had met me)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "We could have had it all",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " (You're gonna wish you, never had met me)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                                                   G",
-      "lyrics": "Rolling in the Deep (Tears are gonna fall, rolling in the deep)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Rolling in the Deep (Tears are gonna fall, rolling i",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "n the deep)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                                                                 G",
-      "lyrics": "You had my heart (you're gonna wish you) Inside of your hand (Never had met me)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "You had my heart (you're gonna wish you) Inside of your hand (Never",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " had met me)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "But you played it. You played it. You played it."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "But you played it. You played it. You played it.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           G          Am",
-      "lyrics": "You played it to the beat."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You played ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "it to the b",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "eat.",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Rolling In The Deep"

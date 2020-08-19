@@ -14,167 +14,852 @@
       "label": "[Intro]"
     },
     {
-      "chord": "G C G D",
-      "lyrics": "(repeat x6)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "(r",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ep",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ea",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "t x6)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G",
-      "lyrics": "The mama pajama rolled out of bed,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "mama pajama rolled out of bed,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                          C",
-      "lyrics": "and she ran to the police station"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and she ran to the police ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "station",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         D",
-      "lyrics": "When the papa found out, he began to shout,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "papa found out, he began to shout,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                          G",
-      "lyrics": "and he started the investigation"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and he started the investi",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "gation",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 D",
-      "lyrics": "It's against the law;"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's against the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "law;",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   G",
-      "lyrics": "it was against the law"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "it was against the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "law",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              D",
-      "lyrics": "What the mama saw;"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "What the mama ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "saw;",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   G",
-      "lyrics": "it was against the law"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "it was against the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "law",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G",
-      "lyrics": "The mama looked down and spit on the ground,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "mama looked down and spit on the ground,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                        C",
-      "lyrics": "every time my name gets mentioned"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "every time my name gets ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "mentioned",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    D",
-      "lyrics": "The papa said oy, if I get that boy,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "papa said oy, if I get that boy,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                      G",
-      "lyrics": "I'm gonna stick him in the house of detention"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm gonna stick him in the house of de",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "tention",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               C",
-      "lyrics": "Well I'm on my way;"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Well I'm on my ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "way;",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             G",
-      "lyrics": "I don't know where I'm going"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't know ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "where I'm going",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          C                  G",
-      "lyrics": "I'm on my way, I'm taking my time;"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm on my ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "way, I'm taking my ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "time;",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      A7         D",
-      "lyrics": "but I don't know where"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "but I ",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "don't know ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "where",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           C          F          G",
-      "lyrics": "Goodbye to Rosie, the queen of Corona"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Goodbye to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "Rosie, the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "queen of Co",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "rona",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       G      F",
-      "lyrics": "Seeing me and Julio,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Seeing ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "me and ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "Julio,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C           D     G C G D",
-      "lyrics": "down by the schoolyard"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "down by the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "school",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ya",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "rd",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "       G      F",
-      "lyrics": "Seeing me and Julio,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Seeing ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "me and ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "Julio,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C           D     G C G D",
-      "lyrics": "down by the schoolyard"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "down by the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "school",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ya",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "rd",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Instrumental]"
     },
     {
-      "chord": "C G C G A7 D C F G  G F C D G  G F C D G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "A7",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "           G",
-      "lyrics": "Whoa, in a couple of days, they come and take me away,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Whoa, in a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "couple of days, they come and take me away,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                            C",
-      "lyrics": "but the press let the story leak"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "but the press let the story ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "leak",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             D",
-      "lyrics": "Now when the radical priest, come to get me released,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Now when the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "radical priest, come to get me released,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                           G",
-      "lyrics": "we was all on the cover of Newsweek"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "we was all on the cover of ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "Newsweek",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               C",
-      "lyrics": "Well I'm on my way;"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Well I'm on my ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "way;",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             G",
-      "lyrics": "I don't know where I'm going"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't know ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "where I'm going",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          C                  G",
-      "lyrics": "I'm on my way, I'm taking my time;"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm on my ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "way, I'm taking my ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "time;",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      A7         D",
-      "lyrics": "but I don't know where"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "but I ",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "don't know ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "where",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           C          F          G",
-      "lyrics": "Goodbye to Rosie, the queen of Corona"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Goodbye to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "Rosie, the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "queen of Co",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "rona",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       G      F",
-      "lyrics": "Seeing me and Julio,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Seeing ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "me and ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "Julio,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C           D     G C G D",
-      "lyrics": "down by the schoolyard"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "down by the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "school",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ya",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "rd",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "       G      F",
-      "lyrics": "Seeing me and Julio,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Seeing ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "me and ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "Julio,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C           D     G C G D",
-      "lyrics": "down by the schoolyard"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "down by the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "school",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ya",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "rd",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "       G      F",
-      "lyrics": "Seeing me and Julio,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Seeing ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "me and ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "Julio,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C           D     G C G D",
-      "lyrics": "down by the schoolyard"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "down by the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "school",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ya",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "rd",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G C G D",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G C G D",
-      "lyrics": "..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "..",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ". ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "Me and Julio Down by the Schoolyard"

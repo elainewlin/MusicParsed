@@ -20,248 +20,1129 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "Em           Cmaj7                  G",
-      "lyrics": "What would I do without your smart mouth"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "What would I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "do without your smart m",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "outh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           D                      Em",
-      "lyrics": "Drawing me in, and you kicking me out"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Drawing me ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "in, and you kicking me ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "out",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          C            G               D          Em",
-      "lyrics": "Got my head spinning, no kidding, I can't pin you down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Got my hea",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "d spinning, n",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "o kidding, I can",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "'t pin you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "down",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Cmaj7                 G",
-      "lyrics": "What's going on in that beautiful mind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "What's going ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "on in that beautiful m",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ind",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                D             Em",
-      "lyrics": "I'm on your magical mystery ride"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm on your magi",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "cal mystery ri",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "de",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Cadd9             G",
-      "lyrics": "And I'm so   dizzy, don't know what hit me,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cadd9",
+          "lyric": "so   dizzy, don't ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "know what hit me,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    D         Amadd9",
-      "lyrics": "but I'll be alright"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "but ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "I'll be al",
+          "overLyric": true
+        },
+        {
+          "chord": "Amadd9",
+          "lyric": "right",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "   Am             G",
-      "lyrics": "My head's under water"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "My ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "head's under wa",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ter",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    D              Amadd9",
-      "lyrics": "But I'm breathing fine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "I'm breathing f",
+          "overLyric": true
+        },
+        {
+          "chord": "Amadd9",
+          "lyric": "ine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 G              D",
-      "lyrics": "You're crazy and I'm out of my mind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're crazy and ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "I'm out of my m",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ind",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "       G",
-      "lyrics": "Cause all of me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ll of me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Emadd9",
-      "lyrics": "Loves all of you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Loves a",
+          "overLyric": true
+        },
+        {
+          "chord": "Emadd9",
+          "lyric": "ll of you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Am/C",
-      "lyrics": "Love your curves and all your edges"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Love your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am/C",
+          "lyric": "curves and all your edges",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           C/D        D",
-      "lyrics": "All your perfect imperfections"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "All your pe",
+          "overLyric": true
+        },
+        {
+          "chord": "C/D",
+          "lyric": "rfect imper",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "fections",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           G",
-      "lyrics": "Give your all to me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Give your a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ll to me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Emadd9",
-      "lyrics": "I'll give my all to you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll give my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Emadd9",
+          "lyric": "all to you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Am/C",
-      "lyrics": "You're my end and my beginning"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am/C",
+          "lyric": "end and my beginning",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     C/D             D",
-      "lyrics": "Even when I lose I'm winning"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Even ",
+          "overLyric": true
+        },
+        {
+          "chord": "C/D",
+          "lyric": "when I lose I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "winning",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  Em   C      G   Dadd9",
-      "lyrics": "Cause I give you all, all of me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause I give you a",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ll, a",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ll of m",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "e   ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dadd9",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                 Em   C      G    Dadd9",
-      "lyrics": "And you give me all, all of you, oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And you give me a",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ll, a",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ll of y",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ou, o",
+          "overLyric": true
+        },
+        {
+          "chord": "Dadd9",
+          "lyric": "h",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "Em       C                       G",
-      "lyrics": "How many times do I have to tell you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "How many ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "times do I have to tell ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 D                       Em",
-      "lyrics": "Even when you're crying you\u2019re beautiful too"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Even when you're ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "crying you’re beautiful ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "too",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              C           G",
-      "lyrics": "The world is beating you down,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The world is b",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "eating you d",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "own,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    D                  Em",
-      "lyrics": "I'm around through every mood"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "around through ever",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "y mood",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             C                 G",
-      "lyrics": "You're my downfall, you're my muse"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're my dow",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "nfall, you're my m",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "use",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             D                        Em",
-      "lyrics": "My worst distraction, my rhythm and blues"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "My worst dist",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "raction, my rhythm and bl",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ues",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                C             G        D            Am",
-      "lyrics": "I can't stop singing, it's ringing, in my head for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I can't stop sin",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ging, it's rin",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ging, in ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "my head for y",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ou",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "   Am             G",
-      "lyrics": "My head's under water"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "My ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "head's under wa",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ter",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    D              Amadd9",
-      "lyrics": "But I'm breathing fine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "I'm breathing f",
+          "overLyric": true
+        },
+        {
+          "chord": "Amadd9",
+          "lyric": "ine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 G              D",
-      "lyrics": "You're crazy and I'm out of my mind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're crazy and ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "I'm out of my m",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ind",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "       G",
-      "lyrics": "Cause all of me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ll of me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Emadd9",
-      "lyrics": "Loves all of you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Loves a",
+          "overLyric": true
+        },
+        {
+          "chord": "Emadd9",
+          "lyric": "ll of you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Am/C",
-      "lyrics": "Love your curves and all your edges"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Love your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am/C",
+          "lyric": "curves and all your edges",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           C/D        D",
-      "lyrics": "All your perfect imperfections"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "All your pe",
+          "overLyric": true
+        },
+        {
+          "chord": "C/D",
+          "lyric": "rfect imper",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "fections",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           G",
-      "lyrics": "Give your all to me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Give your a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ll to me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Emadd9",
-      "lyrics": "I'll give my all to you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll give my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Emadd9",
+          "lyric": "all to you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Am/C",
-      "lyrics": "You're my end and my beginning"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am/C",
+          "lyric": "end and my beginning",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     C/D             D",
-      "lyrics": "Even when I lose I'm winning"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Even ",
+          "overLyric": true
+        },
+        {
+          "chord": "C/D",
+          "lyric": "when I lose I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "winning",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  Em   C      G   Dadd9",
-      "lyrics": "Cause I give you all, all of me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause I give you a",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ll, a",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ll of m",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "e   ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dadd9",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                 Em   C      G    Dadd9",
-      "lyrics": "And you give me all, all of you, oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And you give me a",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ll, a",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ll of y",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ou, o",
+          "overLyric": true
+        },
+        {
+          "chord": "Dadd9",
+          "lyric": "h",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus Change]"
     },
     {
-      "chord": "Am         G",
-      "lyrics": "Cards on the table"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Cards on th",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "e table",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       D             Amadd9",
-      "lyrics": "We're both showing hearts"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We're b",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "oth showing he",
+          "overLyric": true
+        },
+        {
+          "chord": "Amadd9",
+          "lyric": "arts",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am       G                D",
-      "lyrics": "Risking it all, though it's hard"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Risking i",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "t all, though it'",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "s hard",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "       G",
-      "lyrics": "Cause all of me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ll of me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Emadd9",
-      "lyrics": "Loves all of you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Loves a",
+          "overLyric": true
+        },
+        {
+          "chord": "Emadd9",
+          "lyric": "ll of you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Am/C",
-      "lyrics": "Love your curves and all your edges"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Love your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am/C",
+          "lyric": "curves and all your edges",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           C/D        D",
-      "lyrics": "All your perfect imperfections"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "All your pe",
+          "overLyric": true
+        },
+        {
+          "chord": "C/D",
+          "lyric": "rfect imper",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "fections",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           G",
-      "lyrics": "Give your all to me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Give your a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ll to me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Emadd9",
-      "lyrics": "I'll give my all to you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll give my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Emadd9",
+          "lyric": "all to you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Am/C",
-      "lyrics": "You're my end and my beginning"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am/C",
+          "lyric": "end and my beginning",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     C/D             D",
-      "lyrics": "Even when I lose I'm winning"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Even ",
+          "overLyric": true
+        },
+        {
+          "chord": "C/D",
+          "lyric": "when I lose I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "winning",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  Em   C      G   Dadd9",
-      "lyrics": "Cause I give you all, all of me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause I give you a",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ll, a",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ll of m",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "e   ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dadd9",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                 Em   C      G    Dadd9",
-      "lyrics": "And you give me all, all of you, oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And you give me a",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ll, a",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ll of y",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ou, o",
+          "overLyric": true
+        },
+        {
+          "chord": "Dadd9",
+          "lyric": "h",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Outro]"
     },
     {
-      "chord": "                  Em   C      G   D",
-      "lyrics": "Cause I give you all, all of me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause I give you a",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ll, a",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ll of m",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "e   ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                 Em   C      G    D",
-      "lyrics": "And you give me all, all of you, oh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And you give me a",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ll, a",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ll of y",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ou, o",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "h",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "All Of Me"

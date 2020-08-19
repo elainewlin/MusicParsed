@@ -16,187 +16,907 @@
       "label": "[Intro]"
     },
     {
-      "chord": "G F C G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G F C G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 1]"
     },
     {
-      "chord": "     F         G          C",
-      "lyrics": "So I heard you found somebody else"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So I ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "heard you ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "found someb",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ody else",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       F         G              Amadd9",
-      "lyrics": "and at first I thought it was a lie"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and at ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "first I th",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ought it was a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Amadd9",
+          "lyric": "lie",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  F               G",
-      "lyrics": "I took all of my things that make sounds"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I took all of my t",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "hings that make ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "sounds",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    E7             Amadd9  Am/C Am",
-      "lyrics": "the rest I can do without"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "the ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "rest I can do w",
+          "overLyric": true
+        },
+        {
+          "chord": "Amadd9",
+          "lyric": "ithout  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am/C",
+          "lyric": " "
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "F                                          Am                 G         Am",
-      "lyrics": "I don't want your body but I hate to think about you with somebody else"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I don't want your body but I hate to think ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "about you with some",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "body else ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F                                                Am            G         Am",
-      "lyrics": "Our love has gone cold, you're intertwining your soul with somebody else"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Our love has gone cold, you're intertwining your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "soul with some",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "body else ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "I'm looking through you while you're looking through your phone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I'm looking through you while you're looking through your phone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Am               G         Am",
-      "lyrics": "and then leaving with somebody else"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and then ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "leaving with some",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "body else ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    F                                             Am            G         G",
-      "lyrics": "oh, I don't want your body but I'm picturing your body with somebody else"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "oh, ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "I don't want your body but I'm picturing your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "body with some",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "body else ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Post-Chorus]"
     },
     {
-      "chord": "F Am G Am",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "Am",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F Am G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "Am",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "        F                              Am        G",
-      "lyrics": "Come on baby, this ain't the last time that I'll see your face"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Come on ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "baby, this ain't the last time ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "that I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "see your face",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        F                             Am     G",
-      "lyrics": "Come on baby, you said you'd find someone to take my place"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Come on ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "baby, you said you'd find some",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "one to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "take my place",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    F                                         Am",
-      "lyrics": "Oh, I just don't believe that you have got it in you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh, ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "I just don't believe that you have got it ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "in you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      G",
-      "lyrics": "Cause we are just gonna keep 'doing it'"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "we are just gonna keep 'doing it'",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am         F                                     Am",
-      "lyrics": "Every time I start to believe in anything you're saying"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Every time ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "I start to believe in anything you're ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "saying",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G",
-      "lyrics": "I'm reminded that I should be getting over it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "reminded that I should be getting over it",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "F                                          Am                 G         Am",
-      "lyrics": "I don't want your body but I hate to think about you with somebody else"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I don't want your body but I hate to think ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "about you with some",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "body else ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F                                                Am            G         Am",
-      "lyrics": "Our love has gone cold, you're intertwining your soul with somebody else"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Our love has gone cold, you're intertwining your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "soul with some",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "body else ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "I'm looking through you while you're looking through your phone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I'm looking through you while you're looking through your phone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Am               G         Am",
-      "lyrics": "and then leaving with somebody else"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and then ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "leaving with some",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "body else ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    F                                             Am            G         Am",
-      "lyrics": "oh, I don't want your body but I'm picturing your body with somebody else"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "oh, ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "I don't want your body but I'm picturing your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "body with some",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "body else ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Post-Chorus]"
     },
     {
-      "chord": "F Am G Am",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "Am",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F Am G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "Am",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "F/C             Am/C G                 Am/C F/C                  Am/C",
-      "lyrics": "Get someone you love? Get someone you need? Forget that, get money"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F/C",
+          "lyric": "Get someone you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am/C",
+          "lyric": "love?",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " Get someone you n",
+          "overLyric": true
+        },
+        {
+          "chord": "Am/C",
+          "lyric": "eed? ",
+          "overLyric": true
+        },
+        {
+          "chord": "F/C",
+          "lyric": "Forget that, get mone",
+          "overLyric": true
+        },
+        {
+          "chord": "Am/C",
+          "lyric": "y",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                                      Am/C F/C",
-      "lyrics": "I can't give you my soul cause we're never alone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I can't give you my soul cause we're ne",
+          "overLyric": true
+        },
+        {
+          "chord": "Am/C",
+          "lyric": "ver a",
+          "overLyric": true
+        },
+        {
+          "chord": "F/C",
+          "lyric": "lone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Am/C G                 Am/C F/C                  Am/C",
-      "lyrics": "Get someone you love? Get someone you need? Forget that, get money"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Get someone you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am/C",
+          "lyric": "love?",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " Get someone you n",
+          "overLyric": true
+        },
+        {
+          "chord": "Am/C",
+          "lyric": "eed? ",
+          "overLyric": true
+        },
+        {
+          "chord": "F/C",
+          "lyric": "Forget that, get mone",
+          "overLyric": true
+        },
+        {
+          "chord": "Am/C",
+          "lyric": "y",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                                      Am/C F/C",
-      "lyrics": "I can't give you my soul cause we're never alone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I can't give you my soul cause we're ne",
+          "overLyric": true
+        },
+        {
+          "chord": "Am/C",
+          "lyric": "ver a",
+          "overLyric": true
+        },
+        {
+          "chord": "F/C",
+          "lyric": "lone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Am/C G                 Am/C F/C                  Am/C",
-      "lyrics": "Get someone you love? Get someone you need? Forget that, get money"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Get someone you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am/C",
+          "lyric": "love?",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " Get someone you n",
+          "overLyric": true
+        },
+        {
+          "chord": "Am/C",
+          "lyric": "eed? ",
+          "overLyric": true
+        },
+        {
+          "chord": "F/C",
+          "lyric": "Forget that, get mone",
+          "overLyric": true
+        },
+        {
+          "chord": "Am/C",
+          "lyric": "y",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                                      Am/C F/C",
-      "lyrics": "I can't give you my soul cause we're never alone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I can't give you my soul cause we're ne",
+          "overLyric": true
+        },
+        {
+          "chord": "Am/C",
+          "lyric": "ver a",
+          "overLyric": true
+        },
+        {
+          "chord": "F/C",
+          "lyric": "lone",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Post-Chorus]"
     },
     {
-      "chord": "F Am G Am",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "Am",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F Am G G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "Am",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "F                                          Am                 G         Am",
-      "lyrics": "I don't want your body but I hate to think about you with somebody else"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I don't want your body but I hate to think ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "about you with some",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "body else ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F                                                Am            G         Am",
-      "lyrics": "Our love has gone cold, you're intertwining your soul with somebody else"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Our love has gone cold, you're intertwining your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "soul with some",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "body else ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "I'm looking through you while you're looking through your phone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I'm looking through you while you're looking through your phone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Am               G         Am",
-      "lyrics": "and then leaving with somebody else"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and then ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "leaving with some",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "body else ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    F                                             Am            G         G",
-      "lyrics": "oh, I don't want your body but I'm picturing your body with somebody else"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "oh, ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "I don't want your body but I'm picturing your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "body with some",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "body else ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "Somebody Else"

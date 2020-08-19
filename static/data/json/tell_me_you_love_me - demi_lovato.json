@@ -1,12 +1,13 @@
 {
   "allChords": [
-    "D#m",
-    "C#",
-    "G#m",
-    "F#",
-    "B"
+    "Dm",
+    "C",
+    "Gm",
+    "F",
+    "B♭"
   ],
   "artist": "Demi Lovato",
+  "capo": "1",
   "fullName": "Tell Me You Love Me - Demi Lovato",
   "id": "tell_me_you_love_me - demi_lovato",
   "lines": [
@@ -14,291 +15,1210 @@
       "label": "[Intro]"
     },
     {
-      "chord": "D#m C# G#m D#m",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "Gm",
+          "lyric": " "
+        },
+        {
+          "chord": "Dm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F# C# B D#m",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "B♭",
+          "lyric": " "
+        },
+        {
+          "chord": "Dm",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 1]"
     },
     {
-      "chord": "D#m",
-      "lyrics": "Oh no, here we go again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Oh no, here we go again",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C#",
-      "lyrics": "Fighting over what I said"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Fighting over what I said",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    B              B",
-      "lyrics": "I'm sorry, yeah I'm sorry"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "sorry, yeah I'm",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": " sorry",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       D#m",
-      "lyrics": "Bad at love, no, I'm not good at this"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Bad at ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "love, no, I'm not good at this",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C#",
-      "lyrics": "But I can't say I'm innocent"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I can't say I'm innocent",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    B              B",
-      "lyrics": "Not hardly, but I'm sorry"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Not ",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "hardly, but I'm",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": " sorry",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "           D#m",
-      "lyrics": "And all my friends, they know and it's true"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And all my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "friends, they know and it's true",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             C#",
-      "lyrics": "I don't know who I am without you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't know ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "who I am without you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         B",
-      "lyrics": "I got it bad, baby"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I got it ",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "bad, baby",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       B",
-      "lyrics": "Got it bad"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Got it ",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "bad",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "                D#m  C#",
-      "lyrics": "Oh, tell me you love me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh, tell me you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "love ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  G#m      D#m              F#           C#",
-      "lyrics": "I need someone on days like this, I do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "need some",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "one on days like ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "this, I do   ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "             B",
-      "lyrics": "On days like this"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "On days like ",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "this",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D#m             D#m  C#",
-      "lyrics": "Oh, tell me you love me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Oh, tell me you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "love ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  G#m      D#m              F#           C#",
-      "lyrics": "I need someone on days like this, I do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "need some",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "one on days like ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "this, I do   ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "             B",
-      "lyrics": "On days like this"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "On days like ",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "this",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Oh, can you hear my heart say"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh, can you hear my heart say",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D#m  C#  G#m  D#m",
-      "lyrics": "Ooohhhh, ooohhhh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Ooohh",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hh, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ooohh",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "hh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 F#               C#",
-      "lyrics": "No, you ain't nobody 'til you got somebody"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "No, you ain't nob",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ody 'til you got ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "somebody",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             B                D#m",
-      "lyrics": "You ain't nobody 'til you got somebody"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You ain't nob",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "ody 'til you got ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "somebody",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "      D#m",
-      "lyrics": "And I hope I never see the day"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "hope I never see the day",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     C#                           B",
-      "lyrics": "That you move on and be happy without me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "you move on and be happy with",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "out me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    B",
-      "lyrics": "Without me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "With",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "out me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          D#m",
-      "lyrics": "What's my hand without your heart to hold?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "What's my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "hand without your heart to hold?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  C#",
-      "lyrics": "I don't know what I'm living for"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "don't know what I'm living for",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       B          B",
-      "lyrics": "If I'm living without you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "If I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "living with",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "out you",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "           D#m",
-      "lyrics": "And all my friends, they know and it's true"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And all my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "friends, they know and it's true",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             C#",
-      "lyrics": "I don't know who I am without you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't know ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "who I am without you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         B",
-      "lyrics": "I got it bad, baby"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I got it ",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "bad, baby",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       B",
-      "lyrics": "Got it bad"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Got it ",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "bad",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "                D#m  C#",
-      "lyrics": "Oh, tell me you love me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh, tell me you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "love ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  G#m      D#m              F#           C#",
-      "lyrics": "I need someone on days like this, I do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "need some",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "one on days like ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "this, I do   ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "             B",
-      "lyrics": "On days like this"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "On days like ",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "this",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D#m             D#m  C#",
-      "lyrics": "Oh, tell me you love me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Oh, tell me you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "love ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  G#m      D#m              F#           C#",
-      "lyrics": "I need someone on days like this, I do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "need some",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "one on days like ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "this, I do   ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "             B",
-      "lyrics": "On days like this"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "On days like ",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "this",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D#m",
-      "lyrics": "Oh, can you hear my heart say"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Oh, can you hear my heart say",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D#m  C#  G#m  D#m",
-      "lyrics": "Ooohhhh, ooohhhh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Ooohh",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hh, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ooohh",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "hh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 F#               C#",
-      "lyrics": "No, you ain't nobody 'til you got somebody"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "No, you ain't nob",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ody 'til you got ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "somebody",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             B                D#m",
-      "lyrics": "You ain't nobody 'til you got somebody"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You ain't nob",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "ody 'til you got ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "somebody",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "My heart's like"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "My heart's like",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D#m  C#  G#m  D#m",
-      "lyrics": "Ooohhhh, ooohhhh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Ooohh",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hh, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ooohh",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "hh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 F#               C#",
-      "lyrics": "No, you ain't nobody 'til you got somebody"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "No, you ain't nob",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ody 'til you got ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "somebody",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             B                D#m",
-      "lyrics": "You ain't nobody 'til you got somebody"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You ain't nob",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "ody 'til you got ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "somebody",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "D#m         C#",
-      "lyrics": "Everything I need"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Everything I",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " need",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G#m            D#m",
-      "lyrics": "Is standing in front of me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Is standing in ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "front of me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#             C#        B       D#m",
-      "lyrics": "I know that we will be alright, alright, yeah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I know that we ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "will be al",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "right, a",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "lright, yeah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D#m             C#",
-      "lyrics": "Through the ups and downs"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Through the ups ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "and downs",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G#m        D#m",
-      "lyrics": "Baby, I'ma stick around"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Baby, I'ma ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "stick around",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#           C#        B",
-      "lyrics": "I promise we will be alright"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I promise we ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "will be al",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "right",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "    D#m         D#m  C#",
-      "lyrics": "Oh, tell me you love me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "tell me you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "love ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  G#m      D#m              F#           C#",
-      "lyrics": "I need someone on days like this, I do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "need some",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "one on days like ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "this, I do   ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "On days like this"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "On days like this",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D#m             D#m  C#",
-      "lyrics": "Oh, tell me you love me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Oh, tell me you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "love ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  G#m      D#m              F#           C#",
-      "lyrics": "I need someone on days like this, I do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "need some",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "one on days like ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "this, I do   ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "             B",
-      "lyrics": "On days like this"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "On days like ",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "this",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D#m",
-      "lyrics": "Oh, can you hear my heart say"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Oh, can you hear my heart say",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D#m  C#  G#m  D#m",
-      "lyrics": "Ooohhhh, ooohhhh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Ooohh",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hh, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ooohh",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "hh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 F#               C#",
-      "lyrics": "No, you ain't nobody 'til you got somebody"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "No, you ain't nob",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ody 'til you got ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "somebody",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             B                D#m",
-      "lyrics": "You ain't nobody 'til you got somebody"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You ain't nob",
+          "overLyric": true
+        },
+        {
+          "chord": "B♭",
+          "lyric": "ody 'til you got ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "somebody",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Outro]"
     },
     {
-      "chord": "D#m                G#m",
-      "lyrics": "Everything I need"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Everything I need  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                            F#",
-      "lyrics": "Is standing in front of me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Is standing in front of me  ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "I know that we will be alright, alright, yeah"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I know that we will be alright, alright, yeah",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Tell Me You Love Me"

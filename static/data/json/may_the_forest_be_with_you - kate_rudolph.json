@@ -15,293 +15,1203 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "G                    D",
-      "lyrics": "   Trees rocks birds ferns sea sky and"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "  Trees rocks birds "
+        },
+        {
+          "chord": "D",
+          "lyric": "ferns sea sky and",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em             C",
-      "lyrics": "Rivers running free"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Rivers running ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "free",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                 D",
-      "lyrics": "   All somehow in balance"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "  All somehow in "
+        },
+        {
+          "chord": "D",
+          "lyric": "balance",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                Em",
-      "lyrics": "   Nature's harmony"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "  Nature's harmo"
+        },
+        {
+          "chord": "Em",
+          "lyric": "ny",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G               D",
-      "lyrics": "   As in the beginning"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "  As in the beg"
+        },
+        {
+          "chord": "D",
+          "lyric": "inning",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                  C",
-      "lyrics": "   So it ever shall be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": " So it ever shall "
+        },
+        {
+          "chord": "C",
+          "lyric": "be",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G        D                 G",
-      "lyrics": "May this Balance stay with me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "May this ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "Balance stay with ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "     Em       D",
-      "lyrics": "Hail Cedar"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Hail ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "Cedar    ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "        G",
-      "lyrics": "Full of Grace"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Full of ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "Grace",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C              D",
-      "lyrics": "Blessed be the root"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Blessed be the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "root",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       G",
-      "lyrics": "Of thy wilderness"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Of thy ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "wilderness",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em       D",
-      "lyrics": "   Holy Hemlock rising"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": " Holy H"
+        },
+        {
+          "chord": "D",
+          "lyric": "emlock rising",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G   D   Em",
-      "lyrics": "Evergreen"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Ever",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "gree",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "n",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C       D              G",
-      "lyrics": "May the forest be with you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "May the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "forest be with ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  Em       D",
-      "lyrics": "May the forest be with you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "May the forest be ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "with you ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "               G",
-      "lyrics": "May it be with me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "May it be with ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     C",
-      "lyrics": "From the smallest of pinecones"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "From the smallest of ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "pinecones",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       G           D",
-      "lyrics": "To the tallest of trees"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "tallest of t",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "rees",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   G  D  Em  D  C",
-      "lyrics": "Ah oooh oooh oooh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Ah ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ooo",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "h o",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ooh ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ooo",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "h",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                      G",
-      "lyrics": "May the forest be with you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "May the forest be with ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "      G           D",
-      "lyrics": "That moody misty morning makes my"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That m",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "oody misty m",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "orning makes my",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em           C",
-      "lyrics": "Heart skip a beat"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Heart skip a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "beat",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     G               D",
-      "lyrics": "That tree so old and silent I don't"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "tree so old and ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "silent I don't",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C               Em",
-      "lyrics": "Want to move my feet"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Want to move my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "feet",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                       D",
-      "lyrics": "   They're the very definition of"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "  They're the very defi"
+        },
+        {
+          "chord": "D",
+          "lyric": "nition of",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G   D   Em",
-      "lyrics": "Glory"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Glor",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "y   ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G         D               G",
-      "lyrics": "May this Wonder stay with me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "May this W",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "onder stay with ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "     Em       D",
-      "lyrics": "Hail Cedar"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Hail ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "Cedar    ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "        G",
-      "lyrics": "Full of Grace"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Full of ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "Grace",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C              D",
-      "lyrics": "Blessed be the root"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Blessed be the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "root",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       G",
-      "lyrics": "Of thy wilderness"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Of thy ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "wilderness",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em       D",
-      "lyrics": "   Holy Hemlock rising"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": " Holy H"
+        },
+        {
+          "chord": "D",
+          "lyric": "emlock rising",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G   D   Em",
-      "lyrics": "Evergreen"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Ever",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "gree",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "n",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C       D              G",
-      "lyrics": "May the forest be with you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "May the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "forest be with ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  Em       D",
-      "lyrics": "May the forest be with you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "May the forest be ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "with you ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "               G",
-      "lyrics": "May it be with me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "May it be with ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     C",
-      "lyrics": "From the smallest of pinecones"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "From the smallest of ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "pinecones",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       G           D",
-      "lyrics": "To the tallest of trees"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "tallest of t",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "rees",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   G  D  Em  D  C",
-      "lyrics": "Ah oooh oooh oooh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Ah ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ooo",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "h o",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ooh ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ooo",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "h",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                      G",
-      "lyrics": "May the forest be with you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "May the forest be with ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 3]"
     },
     {
-      "chord": "   G                 D",
-      "lyrics": "No matter where you look there grows"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "No ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "matter where you l",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ook there grows",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  Em             C",
-      "lyrics": "Another shade of green"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "An",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "other shade of ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "green",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G                D",
-      "lyrics": "The nurse log is the mother to a"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "nurse log is the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "mother to a",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C            Em",
-      "lyrics": "Wide diversity"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Wide diversit",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "y",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                     D",
-      "lyrics": "   They thrive in the rainfall,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "  They thrive in the "
+        },
+        {
+          "chord": "D",
+          "lyric": "rainfall,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G   D   Em",
-      "lyrics": "Abundantly"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Abun",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "dant",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ly",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C         Am              D",
-      "lyrics": "May their fourish nourish me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "May their ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "fourish nourish ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "D                       C    G   G5",
-      "lyrics": "When we return to daily life so clean"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "When we return to daily ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "life ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "so c",
+          "overLyric": true
+        },
+        {
+          "chord": "G5",
+          "lyric": "lean",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Am                Am                D",
-      "lyrics": "May we live the peaceful presence of these trees"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "May we l",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ive the peaceful p",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "resence of these t",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "rees",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "     Em       D",
-      "lyrics": "Hail Cedar"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Hail ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "Cedar    ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "        G",
-      "lyrics": "Full of Grace"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Full of ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "Grace",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C              D",
-      "lyrics": "Blessed be the root"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Blessed be the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "root",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       G",
-      "lyrics": "Of thy wilderness"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Of thy ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "wilderness",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em       D",
-      "lyrics": "   Holy Hemlock rising"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": " Holy H"
+        },
+        {
+          "chord": "D",
+          "lyric": "emlock rising",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G   D   Em",
-      "lyrics": "Evergreen"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Ever",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "gree",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "n",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C       D              G",
-      "lyrics": "May the forest be with you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "May the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "forest be with ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  Em       D",
-      "lyrics": "May the forest be with you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "May the forest be ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "with you ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "               G",
-      "lyrics": "May it be with me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "May it be with ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     C",
-      "lyrics": "From the smallest of pinecones"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "From the smallest of ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "pinecones",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       G           D",
-      "lyrics": "To the tallest of trees"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "tallest of t",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "rees",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   G  D  Em  D  C",
-      "lyrics": "Ah oooh oooh oooh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Ah ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ooo",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "h o",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ooh ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ooo",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "h",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D                      G",
-      "lyrics": "May the forest be with you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "May the forest be with ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Outro]"
     },
     {
-      "chord": "G",
-      "lyrics": "As it was in the beginning,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "As it was in the beginning,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D",
-      "lyrics": "is now,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "is now,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em             D",
-      "lyrics": "and ever shall be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "and ever shall ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "be",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C              D",
-      "lyrics": "Wild without end"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Wild without en",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "d",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Amen"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Amen",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "May the Forest Be With You"

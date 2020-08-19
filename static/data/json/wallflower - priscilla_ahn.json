@@ -14,127 +14,608 @@
       "label": "[Verse]"
     },
     {
-      "chord": "G       D      Am             C",
-      "lyrics": "Did you see me standing there in the corner?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Did you ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "see me ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "standing there ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "in the corner?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  G    D       Am           C",
-      "lyrics": "I was alone, I always am at these big parties."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "was a",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "lone, I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "always am at ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "these big parties.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G        D    Am       C",
-      "lyrics": "Watching you; watching everybody."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Watching ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "you; ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "watching ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "everybody.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G             D",
-      "lyrics": "Wishing I was more outgoing;"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Wishing I was ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "more outgoing;",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am            C",
-      "lyrics": "Wishing I was dressed up pretty."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Wishing I was ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "dressed up pretty.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G     D",
-      "lyrics": "Wallflower"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Wallfl",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ower",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am7           C",
-      "lyrics": "I'm not here; no one sees me."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am7",
+          "lyric": "I'm not here; ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "no one sees me.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G     D",
-      "lyrics": "Wallflower"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Wallfl",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ower",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Am7         C        Am   G",
-      "lyrics": "I'm by myself, please excuse me."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": " by myself, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "please ex",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "cuse ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "me.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "[Instrumental] (x2)"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Instrumental] (x2)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G D Am C",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "Am",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "G             D     Am           C",
-      "lyrics": "But there you were, standing in your own corner."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "But there you ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "were, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "standing in y",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "our own corner.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     G         D     Am             C",
-      "lyrics": "Your eyes were wide, tired, fading, just like mine."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Your ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "eyes were ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "wide, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "tired, fading, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "just like mine.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G        D      Am                  C",
-      "lyrics": "We could be the best of friends I'm sure of it."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "We could ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "be the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "best of friends I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "sure of it.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G           D      Am                 C",
-      "lyrics": "But I'm too shy to cross this crowded room besides."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "But I'm too ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "shy to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "cross this crowded ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "room besides.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G     D",
-      "lyrics": "Wallflower"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Wallfl",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ower",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am7           C",
-      "lyrics": "I'm not here; no one sees me."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am7",
+          "lyric": "I'm not here; ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "no one sees me.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Wallflower"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Wallflower",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am7            C         Am  G",
-      "lyrics": "I'm by myself, please excuse me."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am7",
+          "lyric": "I'm by myself, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "please exc",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "use ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "me.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G       Am         C",
-      "lyrics": "Help me leave this corner of the room."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Help me ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "leave this ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "corner of the room.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am",
-      "lyrics": "I'm reaching out to you."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "reaching out to you.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     G        Am             C",
-      "lyrics": "'Cuz I've got things I could talk to you about."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Cuz ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "I've got ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "things I could ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "talk to you about.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am7         G   D      Am7",
-      "lyrics": "And we could be wallflower friends"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "we could be ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "wall",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "flower ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "friends",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " C",
-      "lyrics": "'Till the end."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "Till the end.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G   D      Am7",
-      "lyrics": "Wallflower friends"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Wall",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "flower ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "friends",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " C                 Am",
-      "lyrics": "'Till the end, I'm sure of it."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "Till the end, I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "sure of it.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G     D",
-      "lyrics": "Wallflowers"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Wallfl",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "owers",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am7             C",
-      "lyrics": "We're not here; no one sees us."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am7",
+          "lyric": "We're not here; ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "no one sees us.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G     D",
-      "lyrics": "Wallflowers"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Wallfl",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "owers",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am7            C        Am   G",
-      "lyrics": "We're together, please excuse us."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am7",
+          "lyric": "We're together,",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " please e",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "xcuse",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " us.",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Wallflower"

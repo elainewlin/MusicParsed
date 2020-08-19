@@ -13,245 +13,935 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "D",
-      "lyrics": "Here is my new song"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Here is my new song",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    A",
-      "lyrics": "And it didn't take long"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "it didn't take long",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm",
-      "lyrics": "It's not a cover"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "It's not a cover",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  G",
-      "lyrics": "I hope you won't bother"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "hope you won't bother",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     D",
-      "lyrics": "It's not karaoke"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "not karaoke",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    A",
-      "lyrics": "I'm keeping it low key"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "keeping it low key",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Bm",
-      "lyrics": "Well, I'm not a psychic,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Well, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "I'm not a psychic,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      G",
-      "lyrics": "But I hope that you like it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "hope that you like it",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "D",
-      "lyrics": "Here it goes now,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Here it goes now,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A",
-      "lyrics": "Don't make me nervous"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Don't make me nervous",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Bm             G",
-      "lyrics": "'Cause all I got is a few random verses"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Cause ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "all I got is a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "few random verses",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  D                A",
-      "lyrics": "I hope it gets you under the surface"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "hope it gets you ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "under the surface",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  Bm                       G",
-      "lyrics": "I tried my best 'cause you really deserve it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "tried my best 'cause you ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "really deserve it",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "D          A                           Bm",
-      "lyrics": "oooh, ooh, ooh, I want to live for the moments"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "oooh, ooh, ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ooh, I want to live for the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "moments",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         G                           D",
-      "lyrics": "That are gone before we're thinking about them"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That are ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "gone before we're thinking a",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "bout them",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            A                               Bm",
-      "lyrics": "I'm singing this 'cause we'd be nothing without them"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm singing ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "this 'cause we'd be nothing with",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "out them",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               G",
-      "lyrics": "And this is my anthem yeah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And this is my ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "anthem yeah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D          A                           Bm",
-      "lyrics": "oooh, ooh, ooh, I want to live for the feelings"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "oooh, ooh, ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ooh, I want to live for the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "feelings",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          G                  D",
-      "lyrics": "That keep giving this life a meaning"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That keep ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "giving this life a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "meaning",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            A                                Bm",
-      "lyrics": "I'm singing this because we'd be nothing without them"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm singing ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "this because we'd be nothing with",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "out them",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               G",
-      "lyrics": "And this is my anthem, yeah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And this is my ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "anthem, yeah",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "D",
-      "lyrics": "Maybe it's tacky"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Maybe it's tacky",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     A",
-      "lyrics": "This song makes me happy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "This ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "song makes me happy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Bm",
-      "lyrics": "Will you sing it with me?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Will ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "you sing it with me?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Possibly maybe"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Possibly maybe",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   D",
-      "lyrics": "If you think it's cheesy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "If ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "you think it's cheesy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   A",
-      "lyrics": "If you're singing off-key"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "If ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "you're singing off-key",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Bm",
-      "lyrics": "It won't matter to me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "won't matter to me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       G",
-      "lyrics": "'Cause I'm feeling sunny"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Cause ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "I'm feeling sunny",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "D",
-      "lyrics": "Here it goes now,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Here it goes now,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A",
-      "lyrics": "Don't you get nervous"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Don't you get nervous",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Bm                 G",
-      "lyrics": "'Cause all we've got is a few random verses"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Cause ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "all we've got is a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "few random verses",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  D                  A",
-      "lyrics": "I know it'll get you under the surface"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "know it'll get you ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "under the surface",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Bm                    G",
-      "lyrics": "It can't go wrong 'cause nobody's perfect!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "can't go wrong 'cause ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "nobody's perfect!",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "D          A                           Bm",
-      "lyrics": "oooh, ooh, ooh, I want to live for the moments"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "oooh, ooh, ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ooh, I want to live for the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "moments",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         G                           D",
-      "lyrics": "That are gone before we're thinking about them"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That are ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "gone before we're thinking a",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "bout them",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            A                               Bm",
-      "lyrics": "I'm singing this 'cause we'd be nothing without them"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm singing ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "this 'cause we'd be nothing with",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "out them",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               G",
-      "lyrics": "And this is my anthem yeah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And this is my ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "anthem yeah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D          A                           Bm",
-      "lyrics": "oooh, ooh, ooh, I want to live for the feelings"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "oooh, ooh, ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ooh, I want to live for the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "feelings",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          G                  D",
-      "lyrics": "That keep giving this life a meaning"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That keep ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "giving this life a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "meaning",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            A                                Bm",
-      "lyrics": "I'm singing this because we'd be nothing without them"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm singing ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "this because we'd be nothing with",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "out them",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               G",
-      "lyrics": "And this is my anthem, yeah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And this is my ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "anthem, yeah",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "D",
-      "lyrics": "Here it goes now,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Here it goes now,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "A",
-      "lyrics": "Don't you get nervous"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Don't you get nervous",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Bm                 G",
-      "lyrics": "'Cause all we've got is a few random verses"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Cause ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "all we've got is a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "few random verses",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  D                  A",
-      "lyrics": "I know it'll get you under the surface"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "know it'll get you ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "under the surface",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Bm                    G",
-      "lyrics": "It can't go wrong 'cause nobody's perfect!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "can't go wrong 'cause ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "nobody's perfect!",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus x2]"
     },
     {
-      "chord": "D          A                           Bm",
-      "lyrics": "oooh, ooh, ooh, I want to live for the moments"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "oooh, ooh, ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ooh, I want to live for the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "moments",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         G                           D",
-      "lyrics": "That are gone before we're thinking about them"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That are ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "gone before we're thinking a",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "bout them",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            A                               Bm",
-      "lyrics": "I'm singing this 'cause we'd be nothing without them"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm singing ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "this 'cause we'd be nothing with",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "out them",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               G",
-      "lyrics": "And this is my anthem yeah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And this is my ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "anthem yeah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D          A                           Bm",
-      "lyrics": "oooh, ooh, ooh, I want to live for the feelings"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "oooh, ooh, ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ooh, I want to live for the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "feelings",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          G                  D",
-      "lyrics": "That keep giving this life a meaning"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That keep ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "giving this life a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "meaning",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            A                                Bm",
-      "lyrics": "I'm singing this because we'd be nothing without them"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm singing ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "this because we'd be nothing with",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "out them",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               G",
-      "lyrics": "And this is my anthem, yeah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And this is my ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "anthem, yeah",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Anthem"

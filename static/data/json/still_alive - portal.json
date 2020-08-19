@@ -1,13 +1,12 @@
 {
   "allChords": [
-    "Bm",
     "D",
+    "Bm",
     "Em",
-    "A",
-    "Bb7",
+    "A7",
+    "Bb",
     "F",
     "C",
-    "Bb",
     "Gm",
     "Dm"
   ],
@@ -16,160 +15,1091 @@
   "id": "still_alive - portal",
   "lines": [
     {
-      "chord": "            Bm  D  Bm",
-      "lyrics": "This was a triumph"
+      "label": "[Verse 1]"
     },
     {
-      "chord": "D            Bm         D        Bm  D",
-      "lyrics": "I\u2019m making a note here: huge success"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "This was a tr",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "iumph ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Em               A             D    Bm    D",
-      "lyrics": "It\u2019s hard to overstate my satisfaction"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "making a note",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " here",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm       D       Bm       D",
-      "lyrics": "Aperture Science"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "HUGE SUCCESS ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "Bm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Bm            D      Bm       D",
-      "lyrics": "We do what we must because we can"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "hard to overstat",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "e my satis",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "faction",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Em              A",
-      "lyrics": "For the good of all of us"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Aperture Sc",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ience ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Bb7",
-      "lyrics": "Except the ones who are dead"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "we ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "do what we must",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " because",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": " we can ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "Bm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F                    C           Bb       F",
-      "lyrics": "But there\u2019s no sense crying over every mistake"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "for the good of ",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "all of us except the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ones who are dead",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                C               Bb         F",
-      "lyrics": "You just keep on trying till you run out of cake"
+      "label": "[Chorus]"
     },
     {
-      "chord": "Gm                   C            F           Dm",
-      "lyrics": "And the science gets done and you make a neat gun"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But there's ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "no sense ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "crying over ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "every mis",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "take",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb                      A      D    Bm   D",
-      "lyrics": "For the people who are still alive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "you just ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "keep on ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "trying until you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "run out of ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "cake",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm           D         Bm         D",
-      "lyrics": "I\u2019m not even angry"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "science gets ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "done and you ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "make a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C/E",
+          "lyric": "neat ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "gun",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm        D     Bm         D",
-      "lyrics": "I\u2019m being so sincere right now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "for the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "people who ar",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "e still alive",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em              A                  D        Bm    D",
-      "lyrics": "Even though you broke my heart and killed me"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "Bm",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "Bm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Bm             D       Bm       D",
-      "lyrics": "And tore me to pieces"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "Bm",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "Bm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Bm              D      Bm    D",
-      "lyrics": "And threw every piece into a fire"
+      "label": "[Verse 2]"
     },
     {
-      "chord": "Em                A",
-      "lyrics": "As they burned it hurt because"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm not even ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "angry",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "  "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Bb7",
-      "lyrics": "I was so happy for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "I'm being so",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " sincer",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "e right ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "now ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F                   C           Bb        F",
-      "lyrics": "Now these points of data make a beautiful line"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Even though you ",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "broke my heart and killed",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " me ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F                C             Bb         F",
-      "lyrics": "And we\u2019re out of beta, we\u2019re releasing on time"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "tore me to pi",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "eces",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Gm                C                F                 Dm",
-      "lyrics": "So I\u2019m glad I got burned, think of all the things we learned"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "threw every piece",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " int",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "o a fire",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "  "
+        },
+        {
+          "chord": "Bm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Bb                      A      D    Bm   D",
-      "lyrics": "For the people who are still alive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "As they burned, it ",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "hurt because I was so ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "happy for you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm           D         Bm         D",
-      "lyrics": "Go ahead and leave me"
+      "label": "[Chorus]"
     },
     {
-      "chord": "Bm             D      Bm     D        Bm",
-      "lyrics": "I think I\u2019d prefer to stay inside"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Now these ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "points of ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "data make a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "beautiful ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "line",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                A               D        Bm    D",
-      "lyrics": "Maybe you\u2019ll find someone else to help you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And we're ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "out of ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "beta; we're re",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "leasing on ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "time",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm          D       Bm       D",
-      "lyrics": "Maybe Black Mesa"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "GLaD I got ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "burned; think of ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "all the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C/E",
+          "lyric": "things we ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "learned",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bm         D        Bm      D",
-      "lyrics": "That was a joke, ha ha, fat chance"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "for the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "people who ar",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "e still alive",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em          A",
-      "lyrics": "Anyway this cake is great"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "Bm",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "Bm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Bb7",
-      "lyrics": "It\u2019s so delicious and moist"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "Bm",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "Bm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F                C                    Bb         F",
-      "lyrics": "Look at me still talking when there\u2019s science to do"
+      "label": "[Verse 3]"
     },
     {
-      "chord": "F               C                 Bb           F",
-      "lyrics": "When I look out there it makes me glad I\u2019m not you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Go on and leave",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " me",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "  "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Gm                  C             F              Dm",
-      "lyrics": "I\u2019ve experiments to run, there is research to be done"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "think I prefer",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " to sta",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "y inside",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "   "
+        },
+        {
+          "chord": "Bm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Bb                     A      D",
-      "lyrics": "On the people who are still alive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Maybe you'll find ",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "someone else to help",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " you",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "       D         Bm        D",
-      "lyrics": "And believe me I am still alive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Maybe Black M",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "esa?",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": " "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "          D          Bm          D     Bm",
-      "lyrics": "I\u2019m doing science and I\u2019m still alive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "That was a joke ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "- haha",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": " - FAT CHANCE!",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "  "
+        },
+        {
+          "chord": "Bm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "       D            Bm          D     Bm",
-      "lyrics": "I feel fantastic and I\u2019m still alive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Anyway, this ",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "cake* is great - it's so de",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "licious and moist",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 D         Bm         D     Bm",
-      "lyrics": "And while you\u2019re dying I\u2019ll be still alive"
+      "label": "[Chorus]"
     },
     {
-      "chord": "                D          Bm         D     Bm",
-      "lyrics": "And when you\u2019re dead I will be still alive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Look at ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "me, still ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "talking when there's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "science to ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "do",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Bm           D",
-      "lyrics": "Still alive, still alive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "look out ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "there; it makes me ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "GLaD I'm not ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I've ex",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "periments t",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "o run; there is r",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "esearch ",
+          "overLyric": true
+        },
+        {
+          "chord": "C/E",
+          "lyric": "to be done",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "on the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "people who a",
+          "overLyric": true
+        },
+        {
+          "chord": "A7",
+          "lyric": "re still alive",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "label": "[Outro]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "And beli",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "eve me, I am",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": " still alive!",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "I'm doing ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "science and I'",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "m still alive!",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "I feel FAN",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "TASTIC and I'm",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": " still alive!",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "And when you're ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "dying I'll b",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "e still alive!",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "And when you're ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "dead I will b",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "e still alive",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Still alive",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bm",
+          "lyric": "Still alive",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "Still Alive"

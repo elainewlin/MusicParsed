@@ -2,7 +2,7 @@
   "allChords": [
     "A",
     "E",
-    "F\u266fm",
+    "F♯m",
     "D",
     "Dsus2",
     "Esus4"
@@ -15,180 +15,688 @@
       "label": "[Note]"
     },
     {
-      "chord": "",
-      "lyrics": "1 song, 2 interpretations. Topic: loneliness and connection."
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "1 song, 2 interpretations. Topic: loneliness and connection.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "1. Let \"you\" be a Facebook friend. My thoughts on social media image crafting and how sharing is scary."
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "1. Let \"you\" be a Facebook friend. My thoughts on social media image crafting and how sharing is scary.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "2. Let \u201cyou\u201d be a crush. My thoughts on awkward first dates and consent/communication in relationships."
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "2. Let “you” be a crush. My thoughts on awkward first dates and consent/communication in relationships.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 1]"
     },
     {
-      "chord": "A                 E",
-      "lyrics": "I\u2019m done with the mind games"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "I’m done with the ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "mind games",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         F\u266fm",
-      "lyrics": "Am I too interested?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Am I too ",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "interested?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         D          A",
-      "lyrics": "Am I too desperate?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Am I too ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "desperate? ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "            E        F\u266fm   D",
-      "lyrics": "Don\u2019t wanna care any less"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Don’t wanna ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "care any ",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "less  ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "Dsus2             Esus4",
-      "lyrics": "Pretending I have things to do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dsus2",
+          "lyric": "Pretending I have ",
+          "overLyric": true
+        },
+        {
+          "chord": "Esus4",
+          "lyric": "things to do",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     F\u266fm                A",
-      "lyrics": "When all I have is solitude?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When ",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "all I have is solit",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ude?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dsus2               Esus4",
-      "lyrics": "Pretending you have things to do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dsus2",
+          "lyric": "Pretending you have ",
+          "overLyric": true
+        },
+        {
+          "chord": "Esus4",
+          "lyric": "things to do",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     F\u266fm                    A",
-      "lyrics": "When you\u2019re just as lonely too"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When ",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "you’re just as lonely t",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "oo",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "   E               Dsus2     A",
-      "lyrics": "So can we make new rules for love?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "can we make new ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dsus2",
+          "lyric": "rules for ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "love?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               E         Dsus2",
-      "lyrics": "Let\u2019s make new rules for love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Let’s make new ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "rules for ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dsus2",
+          "lyric": "love",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E               Dsus2     A",
-      "lyrics": "Can we make new rules for love?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "Can we make new ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dsus2",
+          "lyric": "rules for ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "love?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               E         Dsus2",
-      "lyrics": "Let\u2019s make new rules for love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Let’s make new ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "rules for ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dsus2",
+          "lyric": "love",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "A                  E",
-      "lyrics": "Can\u2019t place what\u2019s wrong, dear"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "A",
+          "lyric": "Can’t place what’s ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "wrong, dear",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            F\u266fm",
-      "lyrics": "Are you too nervous?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Are you too ",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "nervous?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              D        A",
-      "lyrics": "We\u2019re both so nervous."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We’re both so ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "nervous. ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "            E        F\u266fm   D",
-      "lyrics": "Don\u2019t wanna care any less"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Don’t wanna ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "care any ",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "less  ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "Dsus2               Esus4",
-      "lyrics": "Pretending you have things to do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dsus2",
+          "lyric": "Pretending you have ",
+          "overLyric": true
+        },
+        {
+          "chord": "Esus4",
+          "lyric": "things to do",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     F\u266fm                  A",
-      "lyrics": "When all you have is solitude?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When ",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "all you have is solit",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ude?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dsus2             Esus4",
-      "lyrics": "Pretending I have things to do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dsus2",
+          "lyric": "Pretending I have ",
+          "overLyric": true
+        },
+        {
+          "chord": "Esus4",
+          "lyric": "things to do",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     F\u266fm                 A",
-      "lyrics": "When I'm just as lonely too"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When ",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "I'm just as lonely t",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "oo",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "   E               Dsus2     A",
-      "lyrics": "So can we make new rules for love?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "can we make new ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dsus2",
+          "lyric": "rules for ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "love?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               E         Dsus2",
-      "lyrics": "Let\u2019s make new rules for love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Let’s make new ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "rules for ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dsus2",
+          "lyric": "love",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E               Dsus2     A",
-      "lyrics": "Can we make new rules for love?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "Can we make new ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dsus2",
+          "lyric": "rules for ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "love?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               E         Dsus2",
-      "lyrics": "Let\u2019s make new rules for love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Let’s make new ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "rules for ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dsus2",
+          "lyric": "love",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "     D",
-      "lyrics": "I\u2019ll say what\u2019s on my mind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I’ll ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "say what’s on my mind",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     E",
-      "lyrics": "I'll ask for what I want"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ask for what I want",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  A",
-      "lyrics": "I won\u2019t be afraid"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "won’t be afraid",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "So won\u2019t you"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So won’t you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "D",
-      "lyrics": "say what\u2019s on your mind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "say what’s on your mind",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "Ask for what you want?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "Ask for what you want?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      A",
-      "lyrics": "Dear, don\u2019t be afraid"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Dear, ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "don’t be afraid",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "E                    Dsus2     A",
-      "lyrics": "Can those be the new rules for love?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "Can those be the new ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dsus2",
+          "lyric": "rules for ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "love?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               E         Dsus2",
-      "lyrics": "Let\u2019s have new rules for love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Let’s have new ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "rules for ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dsus2",
+          "lyric": "love",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E                    Dsus2     A",
-      "lyrics": "Can those be the new rules for love?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "Can those be the new ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dsus2",
+          "lyric": "rules for ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "love?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               E         Dsus2  A",
-      "lyrics": "Let\u2019s have new rules for love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Let’s have new ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "rules for ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dsus2",
+          "lyric": "love   ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "New Rules"

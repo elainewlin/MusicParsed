@@ -14,150 +14,537 @@
       "label": "[Intro]"
     },
     {
-      "chord": "F A",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 1]"
     },
     {
-      "chord": "    F",
-      "lyrics": "The times we had"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "times we had",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             A",
-      "lyrics": "Oh, when the wind would blow with rain and snow"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh, when the ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "wind would blow with rain and snow",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     F",
-      "lyrics": "Were not all bad"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Were ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "not all bad",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           A",
-      "lyrics": "We put our feet just where they had"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We put our ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "feet just where they had",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       F",
-      "lyrics": "Had to go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Had to ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "go",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         A",
-      "lyrics": "Never to go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Never to ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "go",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "    F",
-      "lyrics": "The shattered soul"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "shattered soul",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          A",
-      "lyrics": "Following close but nearly twice as slow"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Following ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "close but nearly twice as slow",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   F",
-      "lyrics": "In my good times"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "In ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "my good times",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             A",
-      "lyrics": "There were always golden rocks to throw"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "There were al",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ways golden rocks to throw",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "At those who"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "At those who",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            A",
-      "lyrics": "Those who admit defeat too late"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Those who ad",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "mit defeat too late",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               F",
-      "lyrics": "Those were our times"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Those were our ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "times",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               A",
-      "lyrics": "Those were our times"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Those were our ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "times",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Interlude]"
     },
     {
-      "chord": "F A",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F A",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F A",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F A",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F A",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Break]"
     },
     {
-      "chord": "F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Bb F Dm C",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "Dm",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Bb F Dm C",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "Dm",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "    Bb     F                Dm",
-      "lyrics": "And I will love to see that day"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "I will ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "love to see that ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "day",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     C",
-      "lyrics": "That day is mine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "day is mine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Bb       F",
-      "lyrics": "When she will marry me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "she will ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "marry me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Dm            C",
-      "lyrics": "Outside with the willow trees"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Out",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "side with the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "willow trees",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Bb F              Dm",
-      "lyrics": "And play the songs in May"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "pla",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "y the songs in ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "May",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     C",
-      "lyrics": "They made me so"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "They ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "made me so",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Bb      F                Dm",
-      "lyrics": "And I would love to see that day"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "I would ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "love to see that ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "day",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C",
-      "lyrics": "The day was mine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "day was mine",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Outro]"
     },
     {
-      "chord": "Bb F Dm C",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "Dm",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "Postcards from Italy"

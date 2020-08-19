@@ -11,177 +11,845 @@
   "id": "rude - magic",
   "lines": [
     {
-      "chord": "F          G                    Am              Am",
-      "lyrics": "Saturday morning jumped out of bed and put on my best suit"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Saturday mo",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "rning jumped out of b",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ed and put on my",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " best suit",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F          G                    Am              Am",
-      "lyrics": "Got in my car and raced like a jet, all the way to you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Got in my c",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ar and raced like a j",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "et, all the way ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "to you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F          G                    C              Am",
-      "lyrics": "Knocked on your door with heart in my hand To ask you a question"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Knocked on ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "your door with heart ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "in my hand To a",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "sk you a question",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F          G                    C              Am",
-      "lyrics": "Cause I know that you're an old fashioned man yeah yeah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Cause I kno",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "w that you're an old ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "fashioned man y",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "eah yeah",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Pre-Chorus:"
     },
     {
-      "chord": " F                                G",
-      "lyrics": "Can I have your daughter for the rest of my life?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "C",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "an I have your daughter for the r",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "est of my life?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     C/E                  Am",
-      "lyrics": "say yes, say yes, Cause I need to know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "say y",
+          "overLyric": true
+        },
+        {
+          "chord": "C/E",
+          "lyric": "es, say yes, Cause I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "need to know",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                                G",
-      "lyrics": "You say I'll never get your blessings till the day I die"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "You say I'll never get your bless",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ings till the day I die",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     C                    Am",
-      "lyrics": "Tough luck my friend but the answer is no!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Tough",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " luck my friend but t",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "he answer is no!",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Chorus:"
     },
     {
-      "chord": " F             G          C              Am",
-      "lyrics": "Why you gotta be so rude? , Don't you know I'm human too"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "W",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "hy you gotta b",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "e so rude? ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ", Don't you kno",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "w I'm human too",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F             G          C              Am",
-      "lyrics": "why you gotta be so rude I'm gonna marry her anyway"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "why you gotta ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "be so rude ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I'm gonna marry",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " her anyway",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F             G",
-      "lyrics": "marry that girl -marry her anyway-"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "marry that gir",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "l -marry her anyway-",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C              Am",
-      "lyrics": "marry that girl -yeah no matter what you say-"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "marry that girl",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " -yeah no matter what you say-",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                 G",
-      "lyrics": "marry that girl -and we'll be a family-"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "marry that girl -a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "nd we'll be a family-",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C              Am     F      G    C     Am",
-      "lyrics": "Why you gotta be so rude"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Why you gotta b",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "e so ru",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "de     ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "    "
+        },
+        {
+          "chord": "C",
+          "lyric": "     "
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "Verse:"
     },
     {
-      "chord": "F          G                    C                Am",
-      "lyrics": "I hate to do this, you leave no choice I can't live without her"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I hate to d",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "o this, you leave no ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "choice I can't li",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ve without her",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F          G                    C               Am",
-      "lyrics": "Love me or hate me we will be boys Standing at that alter"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Love me or ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "hate me we will be bo",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ys Standing at t",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "hat alter",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F          G                    C              Am",
-      "lyrics": "or we will run away to another galaxy you know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "or we will ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "run away to another g",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "alaxy you know ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F          G                    C              Am",
-      "lyrics": "You know she's in love with me She will go anywhere I go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "You know sh",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "e's in love with me S",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "he will go anyw",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "here I go",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Pre-Chorus:"
     },
     {
-      "chord": " F                                G",
-      "lyrics": "Can I have your daughter for the rest of my life?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "C",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "an I have your daughter for the r",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "est of my life?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     C/E                  Am",
-      "lyrics": "say yes, say yes, Cause I need to know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "say y",
+          "overLyric": true
+        },
+        {
+          "chord": "C/E",
+          "lyric": "es, say yes, Cause I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "need to know",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                                G",
-      "lyrics": "You say I'll never get your blessings till the day I die"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "You say I'll never get your bless",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ings till the day I die",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     C                    Am",
-      "lyrics": "Tough luck my friend but the answer is no!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Tough",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " luck my friend but t",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "he answer is no!",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Chorus:"
     },
     {
-      "chord": " F             G          C              Am",
-      "lyrics": "Why you gotta be so rude? , Don't you know I'm human too"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "W",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "hy you gotta b",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "e so rude? ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ", Don't you kno",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "w I'm human too",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F             G          C              Am",
-      "lyrics": "why you gotta be so rude I'm gonna marry her anyway"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "why you gotta ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "be so rude ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I'm gonna marry",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " her anyway",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F             G",
-      "lyrics": "marry that girl -marry her anyway-"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "marry that gir",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "l -marry her anyway-",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C              Am",
-      "lyrics": "marry that girl -yeah no matter what you say-"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "marry that girl",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " -yeah no matter what you say-",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                 G",
-      "lyrics": "marry that girl -and we'll be a family-"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "marry that girl -a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "nd we'll be a family-",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C              Am     F      G    C     Am",
-      "lyrics": "Why you gotta be so rude"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Why you gotta b",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "e so ru",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "de     ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "    "
+        },
+        {
+          "chord": "C",
+          "lyric": "     "
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "Pre-Chorus:"
     },
     {
-      "chord": " F                                G",
-      "lyrics": "Can I have your daughter for the rest of my life?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "C",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "an I have your daughter for the r",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "est of my life?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     C/E                  Am",
-      "lyrics": "say yes, say yes, Cause I need to know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "say y",
+          "overLyric": true
+        },
+        {
+          "chord": "C/E",
+          "lyric": "es, say yes, Cause I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "need to know",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                                G",
-      "lyrics": "You say I'll never get your blessings till the day I die"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "You say I'll never get your bless",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ings till the day I die",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     C                    Am",
-      "lyrics": "Tough luck my friend but the answer is no!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Tough",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " luck my friend but t",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "he answer is no!",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "Chorus:"
     },
     {
-      "chord": " F             G          C              Am",
-      "lyrics": "Why you gotta be so rude? , Don't you know I'm human too"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "W",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "hy you gotta b",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "e so rude? ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ", Don't you kno",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "w I'm human too",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F             G          C              Am",
-      "lyrics": "why you gotta be so rude I'm gonna marry her anyway"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "why you gotta ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "be so rude ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I'm gonna marry",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " her anyway",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F             G",
-      "lyrics": "marry that girl -marry her anyway-"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "marry that gir",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "l -marry her anyway-",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C              Am",
-      "lyrics": "marry that girl -yeah no matter what you say-"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "marry that girl",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " -yeah no matter what you say-",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                 G",
-      "lyrics": "marry that girl -and we'll be a family-"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "marry that girl -a",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "nd we'll be a family-",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C              Am     F      G    C     Am",
-      "lyrics": "Why you gotta be so rude"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Why you gotta b",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "e so ru",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "de     ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "    "
+        },
+        {
+          "chord": "C",
+          "lyric": "     "
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "Rude"

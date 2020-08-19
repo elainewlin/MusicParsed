@@ -15,215 +15,901 @@
       "label": "[Verse]"
     },
     {
-      "chord": "          C                     Em",
-      "lyrics": "He said let's get out of this town"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "He said ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "let's get out of this ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "town",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   D",
-      "lyrics": "Drive out of the city, away from the crowds"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Drive out of the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "city, away from the crowds",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            C                    Em",
-      "lyrics": "I thought heaven can't help me now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I thought ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "heaven can't help me ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  D                                C",
-      "lyrics": "Nothing lasts forever, but this is gonna take me down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Nothing lasts fore",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ver, but this is gonna take me ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "down",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Em",
-      "lyrics": "He's so tall, and handsome as hell"
+      "label": "[Pre-Chorus]"
     },
     {
-      "chord": "D",
-      "lyrics": "He's so bad but does it so well"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "He's so tall, and ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "handsome as hell",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " C                 Em              D",
-      "lyrics": "I can see the end as it begins my one condition is"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": " He's so bad but does it so well",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " I can see the end ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "as it begins my ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "one condition is",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "  G                   D",
-      "lyrics": "Say you'll remember me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Say you'll remember ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Am                         C",
-      "lyrics": "Standing in a nice dress, staring at the sunset babe"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Standing in a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "nice dress, staring at the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "sunset babe",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  G                  D",
-      "lyrics": "Red lips and rosy cheeks"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Red lips and rosy ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "cheeks",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Am                  C",
-      "lyrics": "Say you'll see me again even if it's just in your"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Say you'll see me ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "again even if it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "just in your",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  G         D      Am      C",
-      "lyrics": "Wildest dreams"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Wildest ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "dreams oh uh",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " oh "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "  G         D      Am      C",
-      "lyrics": "Wildest dreams"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Wildest ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "dreams oh uh",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " oh "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "        C                         Em",
-      "lyrics": "I say no one has to know what we do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I say ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "no one has to know what we ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "do",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                      D",
-      "lyrics": "His hands are in my hair, his clothes are in my room"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "His hands are in my ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "hair, his clothes are in my room",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           C                  Em                     D",
-      "lyrics": "And his voice is a familiar sound, nothing lasts forever"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And his ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "voice is a familiar ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "sound,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                           C",
-      "lyrics": "But this is getting good now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Nothing lasts for",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ever, but this is getting good ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    Em",
-      "lyrics": "He's so tall, and handsome as hell"
+      "label": "[Pre-Chorus]"
     },
     {
-      "chord": "D",
-      "lyrics": "He's so bad but does it so well"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "He's so tall, and ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "handsome as hell",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                   Em",
-      "lyrics": "When we've had our very last kiss"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": " He's so bad but does it so well",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     D",
-      "lyrics": "My last request is"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "When we've had our ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "very last kiss, my ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "last request is",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "  G                   D",
-      "lyrics": "Say you'll remember me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Say you'll remember ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Am                         C",
-      "lyrics": "Standing in a nice dress, staring at the sunset babe"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Standing in a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "nice dress, staring at the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "sunset babe",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  G                  D",
-      "lyrics": "Red lips and rosy cheeks"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Red lips and rosy ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "cheeks",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Am                  C",
-      "lyrics": "Say you'll see me again even if it's just in your"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Say you'll see me ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "again even if it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "just in your",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  G         D      Am      C",
-      "lyrics": "Wildest dreams"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Wildest ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "dreams oh uh",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " oh "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "  G         D      Am      C",
-      "lyrics": "Wildest dreams"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Wildest ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "dreams oh uh",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " oh "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "         G",
-      "lyrics": "You'll see me in hindsight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "see me in hindsight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  D",
-      "lyrics": "Tangled up with you all night"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Tangled up with you all night",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  Am          C",
-      "lyrics": "Burning it down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Burning it ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "down",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  G",
-      "lyrics": "Someday when you leave me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Someday when you leave me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " D                     Am           C",
-      "lyrics": "I bet these memories follow you around"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "I bet these memories ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "follow you a",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "round",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      G",
-      "lyrics": "You see me in hindsight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "see me in hindsight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  D",
-      "lyrics": "Tangled up with you all night"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Tangled up with you all night",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  Am         C",
-      "lyrics": "Burning it down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Burning it ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "down",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  G",
-      "lyrics": "Some day when you leave me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Someday when you leave me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " D                     Am           C",
-      "lyrics": "I bet these memories follow you around"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "I bet these memories ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "follow you a",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "round (follow you around)",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "  G                   D",
-      "lyrics": "Say you'll remember me"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Octave lower",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Am                         C",
-      "lyrics": "Standing in a nice dress, staring at the sunset babe"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Say you'll remember ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  G                  D",
-      "lyrics": "Red lips and rosy cheeks"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Standing in a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "nice dress, staring at the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "sunset babe",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Am                  C",
-      "lyrics": "Say you'll see me again even if it's just pretend"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Red lips and rosy ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "cheeks",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  G                   D",
-      "lyrics": "Say you'll remember me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Say you'll see me ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "again even if it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "just pretend",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                Am                         C",
-      "lyrics": "Standing in a nice dress, staring at the sunset babe"
+      "label": "[Chorus]"
     },
     {
-      "chord": "  G                  D",
-      "lyrics": "Red lips and rosy cheeks"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Say you'll remember ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Am                  C",
-      "lyrics": "Say you'll see me again even if it's just in your"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Standing in a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "nice dress, staring at the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "sunset babe",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  G         D      Am      C",
-      "lyrics": "Wildest dreams"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Red lips and rosy ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "cheeks",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  G         D      Am      C",
-      "lyrics": "Wildest dreams"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Say you'll see me ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "again even if it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "just in your (just pretend, just pretend)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                            G         D      Am      C",
-      "lyrics": "Even if it's just in your wildest dreams"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Wildest ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "dreams oh uh",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " oh "
+        },
+        {
+          "chord": "C",
+          "lyric": "(ah-ahhh)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          G         D      Am      C",
-      "lyrics": "In your wildest dreams"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "In your ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "wildest ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "dreams oh uh ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "  oh",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "(Even if it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "just) in your ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "wildest ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "dreams oh uh ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " oh  "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "In your ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "wildest ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "dreams oh uh ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "  oh ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "Wildest Dreams"

@@ -17,112 +17,579 @@
   "id": "love_like_you - steven_universe",
   "lines": [
     {
-      "chord": "Eb           Fm",
-      "lyrics": "If I could begin to be,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "If I could be",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "gin to be,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm               Ab",
-      "lyrics": "Half of what you think of me,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Half of what you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "think of me,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Gm          C",
-      "lyrics": "I could do about anything,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I could ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "do about any",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "thing,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             F            Bb",
-      "lyrics": "I could even learn how to love."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I could even ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "learn how to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "love.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb             Fm",
-      "lyrics": "When I see the way you act,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "When I see the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "way you act,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm               Ab",
-      "lyrics": "Wondering if I'm coming back,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Wondering if I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "coming back,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Gm          C",
-      "lyrics": "I could do about anything,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I could ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "do about any",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "thing,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             F            Bb        Eb",
-      "lyrics": "I could even learn how to love like you."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I could even ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "learn how to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "love like ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "you.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm  Eb   Gm        Eb",
-      "lyrics": "... ...  Love like you."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "... ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "...  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "Love like ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "you.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm  Eb  Gm        Eb",
-      "lyrics": "... ... Love like you."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "... ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "... ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "Love like ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "you.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm  Eb  Gm  Fm  Fm  Bb  Bb",
-      "lyrics": "... ... ... ... ... ... ..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "... ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "... ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "... ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "... ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "... ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "... ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "...",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Fm                 Bb",
-      "lyrics": "I always thought I might be bad,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I always ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "thought I might be ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "bad,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Gm             Cm",
-      "lyrics": "Now I'm sure that it's true,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Now I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "sure that it's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "true,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Fm              D7",
-      "lyrics": "'Cause I think you're so good,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Cause I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "think you're so ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "good,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Gm           Cm",
-      "lyrics": "And I'm nothing like you."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "nothing like ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm",
+          "lyric": "you.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Fm          Bb",
-      "lyrics": "Look at you go! I just adore you!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Look at you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "go! I just a",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "dore you!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Gm     C7",
-      "lyrics": "I wish that I knew~"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I wish ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "that I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "knew~",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Fm        Fm           Bb Bb7",
-      "lyrics": "What makes you think I'm so special..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "What ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "makes you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "think I'm so ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "spe",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb7",
+          "lyric": "cial...",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb           Fm",
-      "lyrics": "If I could begin to do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "If I could be",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "gin to do",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm                  Ab",
-      "lyrics": "Something that does right by you,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Something that does ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "right by you,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Gm          C",
-      "lyrics": "I would do about anything,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I would ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "do about any",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "thing,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             F            Bb",
-      "lyrics": "I would even learn how to love..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I would even ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "learn how to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "love...",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb             Fm",
-      "lyrics": "When I see the way you look,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "When I see the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "way you look,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm            Ab",
-      "lyrics": "Shaken by how long it took,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Shaken by how ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "long it took,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Gm          C",
-      "lyrics": "I could do about anything,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I could ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "do about any",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "thing,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             F            Bb        Ab",
-      "lyrics": "I could even learn how to love like you!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I could even ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "learn how to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "love like ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "you!",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ab  Gm  Gm           Fm   Fm  Eb  Eb  Eb",
-      "lyrics": "... ... Love me like you~ ... ... ... ."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "... ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "... ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "Love me like ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "you~ ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "... ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "... ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "... ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": ".",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Love Like You"

@@ -13,156 +13,849 @@
       "label": "[Intro]"
     },
     {
-      "chord": "C   G                Am              F",
-      "lyrics": "Hey-ay, Hey-ay-AY-ay-ay, Hey-ay-AY-ay-ay"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Hey-",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ay, Hey-ay-AY-ay-",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ay, Hey-ay-AY-ay",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "-ay",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "     C               G                         Am              F",
-      "lyrics": "Your lipstick stains   on the front lobe of my left side brains"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Your ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "lipstick stains ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " on the front lobe of my "
+        },
+        {
+          "chord": "Am",
+          "lyric": "left side brains",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                      C                         G               Am  F  G",
-      "lyrics": "I knew I wouldn't for-get you and so I went and let you blow my mind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I knew I wouldn't for-",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "get you and so I went and ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "let you blow my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "mind",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "     C              G                           Am               F",
-      "lyrics": "Your sweet moonbeam   the smell of you in every single dream I dream"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Your ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "sweet moonbeam ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " the smell of you in every "
+        },
+        {
+          "chord": "Am",
+          "lyric": "single dream I dr",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "eam",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   C                              G                     Am   F  G",
-      "lyrics": "I knew when we col-lided you're the one I have de-cided who's one of my kind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I knew when we col-",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "lided you're the one I have de-",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "cided who's one of my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "kind ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "F               G                 C      G      F",
-      "lyrics": "Hey soul sister ain't that Mister Mister on the radio stereo"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Hey soul sister ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ain't that Mister ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "Mister ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "on the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "radio stereo",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G                 C        G",
-      "lyrics": "The way you move aint fair you know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "way you move aint ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "fair you ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "know",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                G              C      G      F            G",
-      "lyrics": "Hey soul sister I don't want to miss a single thing you do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Hey soul sister I",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " don't want to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "miss a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "single ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "thing you do ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "   C         G                Am               F",
-      "lyrics": "To-night Hey-ay, Hey-ay-AY-ay-ay, Hey-ay-AY-ay-ay"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To-",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "night Hey-",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ay, Hey-ay-AY-ay-",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ay, Hey-ay-AY-ay-",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ay",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "C                 G                       Am                 F",
-      "lyrics": "Just in ti-i-i-ime I'm so glad you have a one track mind like me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Just in ti-i-i-ime",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " I'm so glad you have a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "one track mind like",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     C                           G                  Am   F G",
-      "lyrics": "You gave my love dir-ection a game show love con-nection we can't deny-i-iii"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You gave my love dir-",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ection a game show love con-",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "nection we can't de",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ny-i-",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ii",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "i",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    C           G                                 Am                 F",
-      "lyrics": "I'm so obsessed   my heart is bound to beat right outta my untrimmed chest"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "so obsessed ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " my heart is bound to beat right "
+        },
+        {
+          "chord": "Am",
+          "lyric": "outta my untrimmed ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "chest",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             C                           G                          Am",
-      "lyrics": "I believe in you like a virgin you're Ma-donna and I'm always gonna wanna"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I believe in ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "you like a virgin you're Ma-",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "donna and I'm always gonna ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "wanna",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          F    G",
-      "lyrics": "blow your mind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "blow your ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "mind ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "F                    G            C      G      F",
-      "lyrics": "Hey soul sister ain't that Mister Mister on the radio stereo"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Hey soul sister ain't",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " that Mister ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "Mister ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "on the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "radio stereo",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G                 C        G",
-      "lyrics": "The way you move aint fair you know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "way you move aint ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "fair you ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "know",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                G              C      G      F            G",
-      "lyrics": "Hey soul sister I don't want to miss a single thing you do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Hey soul sister I",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " don't want to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "miss a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "single ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "thing you do ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "   C",
-      "lyrics": "To-night"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To-",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "night",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "   C",
-      "lyrics": "The way you can't cut a rug"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " way you can't cut a rug",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                              Am",
-      "lyrics": "Watching you's the only drug I need"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Watching you's the only drug I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "need",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "You're so gangster I'm so thug"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're so gangster I'm so thug",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           F                            C",
-      "lyrics": "You're the only one I'm dreaming of you see"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "only one I'm dreaming of you ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "see",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                          G",
-      "lyrics": "I can be myself now final-ly"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I can be myself now final-",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ly",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                Am",
-      "lyrics": "In fact there's nothing I can't be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "In fact there's nothing I can't ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "be",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                            F       G",
-      "lyrics": "I want the world to see you be with   me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I want the world to see you ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "be with ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": " me"
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "F               G                 C      G      F",
-      "lyrics": "Hey soul sister ain't that Mister Mister on the radio stereo"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Hey soul sister ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ain't that Mister ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "Mister ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "on the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "radio stereo",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G                 C        G",
-      "lyrics": "The way you move aint fair you know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "way you move aint ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "fair you ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "know",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F               G               C      G      F               G",
-      "lyrics": "Hey soul sister I don't want to miss a single thing you do to-night"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Hey soul sister ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "I don't want to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "miss a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "single ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "thing you do to-",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "night",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F               G               C      G      F              G",
-      "lyrics": "Hey soul sister I don't want to miss a single thing you do-oooo"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Hey soul sister ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "I don't want to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "miss a ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "single ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "thing you do-oo",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "oo",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Outro]"
     },
     {
-      "chord": "   C         G                Am               F  G",
-      "lyrics": "To-night Hey-ay, Hey-ay-AY-ay-ay, Hey-ay-AY-ay-ay"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To-",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "night Hey-",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ay, Hey-ay-AY-ay-",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ay, Hey-ay-AY-ay-",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ay ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "   C         G                Am               F  G",
-      "lyrics": "To-night Hey-ay, Hey-ay-AY-ay-ay, Hey-ay-AY-ay-ay"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To-",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "night Hey-",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ay, Hey-ay-AY-ay-",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ay, Hey-ay-AY-ay-",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ay ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    C",
-      "lyrics": "Ton-ight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Ton-",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ight",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Hey Soul Sister"

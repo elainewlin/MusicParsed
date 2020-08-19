@@ -13,117 +13,439 @@
   "id": "change_your_mind - steven_universe",
   "lines": [
     {
-      "chord": "",
-      "lyrics": "Best for a low G ukulele."
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Best for a low G ukulele.",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Intro]"
     },
     {
-      "chord": "Eb5",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb5",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "  Abmaj7 Eb/G   Fm7    Bb7sus4",
-      "lyrics": "A-----1------1------1------3--"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A-",
+          "overLyric": true
+        },
+        {
+          "chord": "Abmaj7",
+          "lyric": "----1--",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb/G",
+          "lyric": "----1--",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm7",
+          "lyric": "----1--",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb7sus4",
+          "lyric": "----3--",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "E------------------------1----"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "E------------------------1----",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "C---3------3------3-----------"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "C---3------3------3-----------",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "G-1------0------3------3------"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "G-1------0------3------3------",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Notes [E\u266dB\u266d] [A\u266dCE\u266dG] [GB\u266dE\u266dG] [FB\u266dE\u266dF] [B\u266dE\u266dA\u266d]"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Notes [E♭B♭] [A♭CE♭G] [GB♭E♭G] [FB♭E♭F] [B♭E♭A♭]",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "        Eb             Bb            Fm",
-      "lyrics": "I don't need you to respect me, I respect me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "need you to res",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "pect me, I res",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "pect me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Eb          Bb         Fm",
-      "lyrics": "I don't need you to love me, I love me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I don't ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "need you to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "love me, I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "love me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Eb          Bb             Fm",
-      "lyrics": "But I want you to know you could know me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "want you to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "know you could ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "know me",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "  Eb      Bb    Fm",
-      "lyrics": "A-1-------1-----3-"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A-",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "1-------",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "1-----",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "3-",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "E-3-3-----1-1---1-"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "E-3-3-----1-1---1-",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "C-3---3---2---2-0-"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "C-3---3---2---2-0-",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "G-3-------3-----1-"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "G-3-------3-----1-",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    Eb Bb Fm",
-      "lyrics": "If you changed your mind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "If you changed your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "min",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "d  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "  Eb      Bb    Fm",
-      "lyrics": "A-1-1-----1-----3-"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A-",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "1-1-----",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "1-----",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "3-",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "E-3---3---1-1---1-"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "E-3---3---1-1---1-",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "C-3-----3-2---2-0-"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "C-3-----3-2---2-0-",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "G-3-------3-----1-"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "G-3-------3-----1-",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               Eb Bb Fm",
-      "lyrics": "If you changed your mind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "If you changed ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "you",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "r m",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "ind",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                    Eb Bb Fm",
-      "lyrics": "If you changed your mind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "If you changed your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "min",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "d  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "  Eb      Bb    Fm",
-      "lyrics": "A-1-1-----1-----3-"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A-",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "1-1-----",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "1-----",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "3-",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "E-3---3---1-1---1-"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "E-3---3---1-1---1-",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "C-3-----3-2-----0-"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "C-3-----3-2-----0-",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "G-3-------3-----1-"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "G-3-------3-----1-",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Eb Bb Fm",
-      "lyrics": "Change your mind"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Change your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "min",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "d  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "Change Your Mind"

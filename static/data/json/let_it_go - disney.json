@@ -22,192 +22,829 @@
       "label": "[Verse]"
     },
     {
-      "chord": "    Fm                      Db",
-      "lyrics": "The snow glows white on the mountain tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "snow glows white on the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Db",
+          "lyric": "mountain tonight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Eb              Bbsus4  Bbm",
-      "lyrics": "Not a footprint to be seen"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Not a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "footprint to be ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bbsus4",
+          "lyric": "seen    ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bbm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "  Fm            Db",
-      "lyrics": "A kingdom of isolation"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "kingdom of iso",
+          "overLyric": true
+        },
+        {
+          "chord": "Db",
+          "lyric": "lation",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Eb                  Bbsus4  Bb  Fm",
-      "lyrics": "And it looks like I'm the queen"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And it ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "looks like I'm the q",
+          "overLyric": true
+        },
+        {
+          "chord": "Bbsus4",
+          "lyric": "ueen    ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "  "
+        },
+        {
+          "chord": "Fm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "              Db                 Eb             Bbsus4  Bbm",
-      "lyrics": "The wind is howling like this swirling storm inside"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The wind is ho",
+          "overLyric": true
+        },
+        {
+          "chord": "Db",
+          "lyric": "wling like this swi",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "rling storm ins",
+          "overLyric": true
+        },
+        {
+          "chord": "Bbsus4",
+          "lyric": "ide     ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bbm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Fm               Eb                     Bb",
-      "lyrics": "Couldn't keep it in, heaven knows I've tried"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm",
+          "lyric": "Couldn't keep it ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "in, heaven knows I've t",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ried",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "Eb                                 Db",
-      "lyrics": "Don't let them in, don't let them see"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "Don't let them in, don't let them s",
+          "overLyric": true
+        },
+        {
+          "chord": "Db",
+          "lyric": "ee",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                    Eb",
-      "lyrics": "Be the good girl you always have to be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Be the good girl you always have to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "be",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                    Db",
-      "lyrics": "Conceal, don't feel, don't let them know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Conceal, don't feel, don't let them ",
+          "overLyric": true
+        },
+        {
+          "chord": "Db",
+          "lyric": "know",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Db",
-      "lyrics": "Well, now they know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Well, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Db",
+          "lyric": "now they know",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "        Ab         Ebsus4",
-      "lyrics": "Let it go, let it go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Let it g",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "o, let it g",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebsus4",
+          "lyric": "o",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Fm7             Dbadd9",
-      "lyrics": "Can't hold it back anymore"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Can't ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm7",
+          "lyric": "hold it back any",
+          "overLyric": true
+        },
+        {
+          "chord": "Dbadd9",
+          "lyric": "more",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Ab         Ebsus4",
-      "lyrics": "Let it go, let it go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Let it g",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "o, let it g",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebsus4",
+          "lyric": "o",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Fm7               Dbadd9",
-      "lyrics": "Turn away and slam the door"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Turn aw",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm7",
+          "lyric": "ay and slam the do",
+          "overLyric": true
+        },
+        {
+          "chord": "Dbadd9",
+          "lyric": "or",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ab       Ebsus4           Fm7       Dbadd9",
-      "lyrics": "I don't care what they're going to say"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "I don't c",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebsus4",
+          "lyric": "are what they're ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm7",
+          "lyric": "going to s",
+          "overLyric": true
+        },
+        {
+          "chord": "Dbadd9",
+          "lyric": "ay",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Cm7         Cb",
-      "lyrics": "Let the storm rage on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Let the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm7",
+          "lyric": "storm rage o",
+          "overLyric": true
+        },
+        {
+          "chord": "Cb",
+          "lyric": "n",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Db",
-      "lyrics": "The cold never bothered me anyway"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "Db",
+          "lyric": "cold never bothered me anyway",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Instrumental]"
     },
     {
-      "chord": "Ab   Ebsus4",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "   "
+        },
+        {
+          "chord": "Ebsus4",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "Fm                   Db            Eb               Bbm",
-      "lyrics": "It's funny how some distance makes everything seem small"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm",
+          "lyric": "It's funny how some d",
+          "overLyric": true
+        },
+        {
+          "chord": "Db",
+          "lyric": "istance makes ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "everything seem s",
+          "overLyric": true
+        },
+        {
+          "chord": "Bbm",
+          "lyric": "mall",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Fm                  Eb              Bbsus4        Bb",
-      "lyrics": "And the fears that once controlled me can't get to me at all"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "fears that once cont",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "rolled me can't ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bbsus4",
+          "lyric": "get to me at a",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ll",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "Eb                           Dbadd9",
-      "lyrics": "It's time to see what I can do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "It's time to see what I can d",
+          "overLyric": true
+        },
+        {
+          "chord": "Dbadd9",
+          "lyric": "o",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                              Eb",
-      "lyrics": "To test the limits and break through"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To test the limits and break t",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "hrough",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                  Dbadd9",
-      "lyrics": "No right, no wrong, no rules for me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "No right, no wrong, no rules for m",
+          "overLyric": true
+        },
+        {
+          "chord": "Dbadd9",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Db",
-      "lyrics": "I'm free..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Db",
+          "lyric": "free...",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "        Ab         Ebsus4",
-      "lyrics": "Let it go, let it go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Let it g",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "o, let it g",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebsus4",
+          "lyric": "o",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Fm7                    Dbadd9",
-      "lyrics": "I am one with the wind and sky"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I am ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm7",
+          "lyric": "one with the wind and s",
+          "overLyric": true
+        },
+        {
+          "chord": "Dbadd9",
+          "lyric": "ky",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Ab         Ebsus4",
-      "lyrics": "Let it go, let it go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Let it g",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "o, let it g",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebsus4",
+          "lyric": "o",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Fm7           Dbadd9",
-      "lyrics": "You'll never see me cry"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm7",
+          "lyric": "never see me c",
+          "overLyric": true
+        },
+        {
+          "chord": "Dbadd9",
+          "lyric": "ry",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ab      Ebsus4   Fm7        Dbadd9",
-      "lyrics": "Here I stand and here I'll stay"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "Here I s",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebsus4",
+          "lyric": "tand and ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm7",
+          "lyric": "here I'll s",
+          "overLyric": true
+        },
+        {
+          "chord": "Dbadd9",
+          "lyric": "tay",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Cm7         Cb  Db",
-      "lyrics": "Let the storm rage on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Let the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm7",
+          "lyric": "storm rage o",
+          "overLyric": true
+        },
+        {
+          "chord": "Cb",
+          "lyric": "n   ",
+          "overLyric": true
+        },
+        {
+          "chord": "Db",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "Db",
-      "lyrics": "My power flurries through the air into the ground"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Db",
+          "lyric": "My power flurries through the air into the ground",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Db",
-      "lyrics": "My soul is spiraling in frozen fractals all around"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Db",
+          "lyric": "My soul is spiraling in frozen fractals all around",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Eb",
-      "lyrics": "And one thought crystallizes like an icy blast"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": "And one thought crystallizes like an icy blast",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fm         Db             Eb              Bbm  Db",
-      "lyrics": "I'm never going back, the past is in the past"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm",
+          "lyric": "I'm never g",
+          "overLyric": true
+        },
+        {
+          "chord": "Db",
+          "lyric": "oing back, the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "past is in the p",
+          "overLyric": true
+        },
+        {
+          "chord": "Bbm",
+          "lyric": "ast  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Db",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "        Ab         Ebsus4",
-      "lyrics": "Let it go, let it go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Let it g",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "o, let it g",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebsus4",
+          "lyric": "o",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Fm7                    Dbadd9",
-      "lyrics": "And I'll rise like the break of dawn"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I'll r",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm7",
+          "lyric": "ise like the break of d",
+          "overLyric": true
+        },
+        {
+          "chord": "Dbadd9",
+          "lyric": "awn",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Ab         Ebsus4",
-      "lyrics": "Let it go, let it go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Let it g",
+          "overLyric": true
+        },
+        {
+          "chord": "Ab",
+          "lyric": "o, let it g",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebsus4",
+          "lyric": "o",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Fm7             Dbadd9",
-      "lyrics": "That perfect girl is gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That p",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm7",
+          "lyric": "erfect girl is g",
+          "overLyric": true
+        },
+        {
+          "chord": "Dbadd9",
+          "lyric": "one",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ab      Ebsus4      Fm7       Dbadd9  Dbm",
-      "lyrics": "Here I stand in the light of day"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "Here I s",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebsus4",
+          "lyric": "tand in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm7",
+          "lyric": "light of d",
+          "overLyric": true
+        },
+        {
+          "chord": "Dbadd9",
+          "lyric": "ay      ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dbm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "        Cm7         Cb",
-      "lyrics": "Let the storm rage on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Let the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm7",
+          "lyric": "storm rage o",
+          "overLyric": true
+        },
+        {
+          "chord": "Cb",
+          "lyric": "n",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Db",
-      "lyrics": "The cold never bothered me anyway"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "Db",
+          "lyric": "cold never bothered me anyway",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Let It Go"

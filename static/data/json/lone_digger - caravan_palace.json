@@ -14,268 +14,1052 @@
       "label": "[Strumming pattern]"
     },
     {
-      "chord": "",
-      "lyrics": "1 + 2 + 3 + 4 +"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "1 + 2 + 3 + 4 +",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "D D D DUDUD D DU"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "D D D DUDUD D DU",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "D D S DUDUD S DU"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "D D S DUDUD S DU",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "B D S DUBUD S DU"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "B D S DUBUD S DU",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Intro x4]"
     },
     {
-      "chord": "Em   Am   C   B",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "   "
+        },
+        {
+          "chord": "Am",
+          "lyric": "   "
+        },
+        {
+          "chord": "C",
+          "lyric": "   "
+        },
+        {
+          "chord": "B",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "Em            Am",
-      "lyrics": "Hey, brother, what you thinking?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Hey, brother, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "what you thinking?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C              B",
-      "lyrics": "Leave that old record spinning"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Leave that old ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "record spinning",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em           Am",
-      "lyrics": "You feel the rhythm, going"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "You feel the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "rhythm, going",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C              B",
-      "lyrics": "(They call it lonely digging)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "(They call it l",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "onely digging)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em             Am",
-      "lyrics": "Let's end your time to lay low"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Let's end your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "time to lay low",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C              B",
-      "lyrics": "Your knees a-bending, so"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Your knees a-be",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "nding, so",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em           Am",
-      "lyrics": "It's time to get up and let go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "It's time to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "get up and let go",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C              B",
-      "lyrics": "(You're gonna come undone)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "(You're gonna c",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "ome undone)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em         Am",
-      "lyrics": "Hey, mama, how's it going?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Hey, mama, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "how's it going?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C              B",
-      "lyrics": "Can't see your body moving"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Can't see your ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "body moving",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em               Am",
-      "lyrics": "Don't leave the party dying"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Don't leave the p",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "arty dying",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C              B",
-      "lyrics": "(They call it lonely digging)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "(They call it l",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "onely digging)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em           Am",
-      "lyrics": "Your booty shaking, you know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Your booty sh",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "aking, you know",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                 B",
-      "lyrics": "Your head has no right to say no"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Your head has no r",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "ight to say no",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em             Am                 C          B",
-      "lyrics": "Tonight it's \"ready, set, go\""
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Tonight it's \"r",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "eady, set, go\"     ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "          "
+        },
+        {
+          "chord": "B",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "             Em",
-      "lyrics": "Baby can you move it round the rhythm"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Baby can you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "move it round the rhythm",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Am",
-      "lyrics": "So we can get with 'em,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So we c",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "an get with 'em,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       C                   B",
-      "lyrics": "To the ground and get us a rock and roll round"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ground and get us a ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "rock and roll round",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Em                    Am",
-      "lyrics": "Just a downtown body body coming with a super-hottie"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Just",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " a downtown body body ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "coming with a super-hottie",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                  B",
-      "lyrics": "Let's go, yes, no, hell no"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Let's go, yes, no, ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "hell no",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Em",
-      "lyrics": "Baby can you move it round the rhythm"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Baby can you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "move it round the rhythm",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Am                      C",
-      "lyrics": "Cause you know we're living in the fast lane, speed up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause you k",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "now we're living in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "fast lane, speed up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   B                   Em                           Am               C       B",
-      "lyrics": "It ain't no game, just turn up all the beams when I come up on the scene"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "ain't no game, just ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "turn up all the beams when I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "come up on the sc",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ene     ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "Em            Am",
-      "lyrics": "Hey, brother, what you thinking?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Hey, brother, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "what you thinking?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C              B",
-      "lyrics": "That good ol' sound is ringing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "That good ol' s",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "ound is ringing",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em               Am",
-      "lyrics": "They don't know what they're missing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "They don't know w",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "hat they're missing",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C              B",
-      "lyrics": "(They call it lonely digging)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "(They call it l",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "onely digging)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em             Am",
-      "lyrics": "Let's end your time to lay low"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Let's end your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "time to lay low",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C              B",
-      "lyrics": "Your knees a-bending, so"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Your knees a-be",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "nding, so",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em           Am                 C          B",
-      "lyrics": "It's time to get up and let go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "It's time to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "get up and let go  ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "          "
+        },
+        {
+          "chord": "B",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Em            Am",
-      "lyrics": "Hey, brother, nice and steady"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Hey, brother, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "nice and steady",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C               B",
-      "lyrics": "Put down your drink, you ready"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Put down your dr",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "ink, you ready",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em              Am",
-      "lyrics": "It's hard when things get messy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "It's hard when t",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "hings get messy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C              B",
-      "lyrics": "(They call it lonely digging)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "(They call it l",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "onely digging)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em           Am",
-      "lyrics": "Your booty shaking, you know"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Your booty sh",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "aking, you know",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                 B",
-      "lyrics": "Your head has no right to say no"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Your head has no r",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "ight to say no",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em             Am                 C          B",
-      "lyrics": "Tonight it's \"ready, set, go\""
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Tonight it's \"r",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "eady, set, go\"     ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "          "
+        },
+        {
+          "chord": "B",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "             Em",
-      "lyrics": "Baby can you move it round the rhythm"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Baby can you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "move it round the rhythm",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Am",
-      "lyrics": "So we can get with 'em,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So we c",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "an get with 'em,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       C                   B",
-      "lyrics": "To the ground and get us a rock and roll round"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ground and get us a ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "rock and roll round",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Em                    Am",
-      "lyrics": "Just a downtown body body coming with a super-hottie"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Just",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " a downtown body body ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "coming with a super-hottie",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                  B",
-      "lyrics": "Let's go, yes, no, hell no"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Let's go, yes, no, ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "hell no",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Em",
-      "lyrics": "Baby can you move it round the rhythm"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Baby can you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "move it round the rhythm",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Am                      C",
-      "lyrics": "Cause you know we're living in the fast lane, speed up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause you k",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "now we're living in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "fast lane, speed up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   B                   Em                           Am               C       B",
-      "lyrics": "It ain't no game, just turn up all the beams when I come up on the scene"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "ain't no game, just ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "turn up all the beams when I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "come up on the sc",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ene     ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Instrumental x8]"
     },
     {
-      "chord": "Em   Am   C   B",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "   "
+        },
+        {
+          "chord": "Am",
+          "lyric": "   "
+        },
+        {
+          "chord": "C",
+          "lyric": "   "
+        },
+        {
+          "chord": "B",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "             Em",
-      "lyrics": "Baby can you move it round the rhythm"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Baby can you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "move it round the rhythm",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Am",
-      "lyrics": "So we can get with 'em,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So we c",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "an get with 'em,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       C                   B",
-      "lyrics": "To the ground and get us a rock and roll round"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ground and get us a ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "rock and roll round",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Em                    Am",
-      "lyrics": "Just a downtown body body coming with a super-hottie"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Just",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " a downtown body body ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "coming with a super-hottie",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                  B",
-      "lyrics": "Let's go, yes, no, hell no"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Let's go, yes, no, ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "hell no",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Em",
-      "lyrics": "Baby can you move it round the rhythm"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Baby can you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "move it round the rhythm",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Am                      C",
-      "lyrics": "Cause you know we're living in the fast lane, speed up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Cause you k",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "now we're living in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "fast lane, speed up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   B                   Em                           Am               C       B",
-      "lyrics": "It ain't no game, just turn up all the beams when I come up on the scene"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "ain't no game, just ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "turn up all the beams when I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "come up on the sc",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ene     ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Outro]"
     },
     {
-      "chord": "Em   Am   C   B",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "   "
+        },
+        {
+          "chord": "Am",
+          "lyric": "   "
+        },
+        {
+          "chord": "C",
+          "lyric": "   "
+        },
+        {
+          "chord": "B",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "Lone Digger"

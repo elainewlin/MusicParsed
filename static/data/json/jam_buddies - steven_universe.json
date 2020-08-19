@@ -13,40 +13,226 @@
   "id": "jam_buddies - steven_universe",
   "lines": [
     {
-      "chord": "    D                  F#m",
-      "lyrics": "The sun is bright, our shirts are clean"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "sun is bright, our ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "shirts are clean",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Bm          A",
-      "lyrics": "we're sitting up above the sea."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "we're ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "sitting up a",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "bove the sea.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     G                 A        D    A",
-      "lyrics": "Come on and share this jam with me!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Come ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "on and share this ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "jam with ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "me!  ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "D                F#m         Bm          A",
-      "lyrics": "Peach or plum or strawberry, any kind is fine, you see."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": "Peach or plum or ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "strawberry, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "any kind is ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "fine, you see.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     G                 A        D   D7",
-      "lyrics": "Come on and share this jam with me!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Come ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "on and share this ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "jam with ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "me! ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "G                                                   Bm",
-      "lyrics": "I'll do my best to give this jam the sweetness it deserves."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I'll do my best to give this jam the sweetness it de",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "serves.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    G                                                 A       Bbm  A",
-      "lyrics": "And I'll keep it fresh, I'm jamming on these tasty preserves!  ..."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "I'll keep it fresh, I'm jamming on these tasty pre",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "serves! ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bbm",
+          "lyric": " ... ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "  D            F#m         Bm           A",
-      "lyrics": "Ingredients in harmony, we mix together perfectly"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "In",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "gredients in ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "harmony, we ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "mix together ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "perfectly",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     G                 A        D",
-      "lyrics": "Come on and share this jam with me!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Come ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "on and share this ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "jam with ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "me!",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Jam Buddies"

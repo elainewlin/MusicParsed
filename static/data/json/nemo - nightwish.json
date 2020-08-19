@@ -19,175 +19,600 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "Dm          C",
-      "lyrics": "This is me for forever"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "This is me f",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "or forever",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb",
-      "lyrics": "One of the lost ones"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "One of the lost ones",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Dm             C",
-      "lyrics": "The one without a name"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "one without a n",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ame",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Gm          Bb    C",
-      "lyrics": "Without an honest heart as compass"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Without an h",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "onest heart ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "as com",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "pass",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm          C",
-      "lyrics": "This is me for forever"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "This is me f",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "or forever",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb",
-      "lyrics": "One without a name"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "One without a name",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Gm              Dm",
-      "lyrics": "Despite the last endeavour"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Desp",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ite the last end",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "eavour",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Gm              Bb   C",
-      "lyrics": "To find the missing lifeline"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To f",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ind the missing ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "lifel",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ine",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Dm",
-      "lyrics": "Oh, how I wish for soothing rain"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Oh, how I wish for soothing rain",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F             C",
-      "lyrics": "Oh, how I wish to dream again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Oh, how I wish",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " to dream again",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm",
-      "lyrics": "My loving heart lost in the dark"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "My loving heart lost in the dark",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                C",
-      "lyrics": "For hope I'd give my everything"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "For hope I'd give",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " my everything",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "Dm        C",
-      "lyrics": "My flower withered between"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "My flower ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "withered between",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Bb",
-      "lyrics": "The pages two and three"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The p",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "ages two and three",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Dm         C",
-      "lyrics": "The once and forever Blue"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The o",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "nce and for",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ever Blue",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm          Bb   C",
-      "lyrics": "Gone with my sins"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "Gone with my",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": " sins",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Fm                   Eb",
-      "lyrics": "Walk the dark path, swim with angels"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm",
+          "lyric": "Walk the dark path, s",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "wim with angels",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Db",
-      "lyrics": "Call the past for help"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Db",
+          "lyric": "Call the past for help",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bbm                 Fm",
-      "lyrics": "Touch me with your love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bbm",
+          "lyric": "Touch me with your l",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "ove",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Bbm          Db    Eb",
-      "lyrics": "And reveal to me my true name"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And rev",
+          "overLyric": true
+        },
+        {
+          "chord": "Bbm",
+          "lyric": "eal to me my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Db",
+          "lyric": "true n",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "ame",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Dm",
-      "lyrics": "Oh, how I wish for soothing rain"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Oh, how I wish for soothing rain",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F             C",
-      "lyrics": "Oh, how I wish to dream again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Oh, how I wish",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " to dream again",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm",
-      "lyrics": "My loving heart lost in the dark"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "My loving heart lost in the dark",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                C",
-      "lyrics": "For hope I'd give my everything"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "For hope I'd give",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " my everything",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm",
-      "lyrics": "Oh, how I wish for soothing rain"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Oh, how I wish for soothing rain",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F            C",
-      "lyrics": "All I wish is to dream again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "All I wish is",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " to dream again",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm",
-      "lyrics": "Once and for all and all for once"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Once and for all and all for once",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            C",
-      "lyrics": "Nemo my name forevermore"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Nemo my name",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " forevermore",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "Fm    Eb     Fm",
-      "lyrics": "Nemo sailing home"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm",
+          "lyric": "Nemo s",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "ailing ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "home",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Db    Eb     Fm",
-      "lyrics": "Nemo letting go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Db",
+          "lyric": "Nemo l",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": "etting ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fm",
+          "lyric": "go",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fm    Db Eb",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm",
+          "lyric": "    "
+        },
+        {
+          "chord": "Db",
+          "lyric": " "
+        },
+        {
+          "chord": "Eb",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Fm",
-      "lyrics": "Oh, how I wish for soothing rain"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm",
+          "lyric": "Oh, how I wish for soothing rain",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ab            Eb",
-      "lyrics": "Oh, how I wish to dream again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "Oh, how I wish",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": " to dream again",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fm",
-      "lyrics": "My loving heart lost in the dark"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm",
+          "lyric": "My loving heart lost in the dark",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ab               Eb",
-      "lyrics": "For hope I'd give my everything"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "For hope I'd give",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": " my everything",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fm",
-      "lyrics": "Oh, how I wish for soothing rain"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm",
+          "lyric": "Oh, how I wish for soothing rain",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ab           Eb",
-      "lyrics": "All I wish is to dream again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "All I wish is",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": " to dream again",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Fm",
-      "lyrics": "Once and for all and all for once"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Fm",
+          "lyric": "Once and for all and all for once",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ab          Eb",
-      "lyrics": "Nemo my name forevermore"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ab",
+          "lyric": "Nemo my name",
+          "overLyric": true
+        },
+        {
+          "chord": "Eb",
+          "lyric": " forevermore",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Nemo"

@@ -16,236 +16,867 @@
       "label": "[Verse]"
     },
     {
-      "chord": "Am",
-      "lyrics": "I think I'm drowning"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I think I'm drowning",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B",
-      "lyrics": "asphyxiated"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "asphyxiated",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "I wanna break this spell"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "I wanna break this spell",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F            G",
-      "lyrics": "that you've created"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "that you've c",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "reated",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "you're something beautiful"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "you're something beautiful",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B",
-      "lyrics": "A contradiction"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "A contradiction",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "I wanna play the game"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "I wanna play the game",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F           G",
-      "lyrics": "I want the friction"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I want the f",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "riction",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am   B      E         F    G",
-      "lyrics": "you will be the death of me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "you w",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "ill be ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "the death ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "of me",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am   B      E         F    G",
-      "lyrics": "you will be the death of me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "you w",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "ill be ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "the death ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "of me",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "F",
-      "lyrics": "bury it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "bury it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G               Am      G",
-      "lyrics": "I won't let you bury it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I won't let you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "bury it ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                F",
-      "lyrics": "I won't let you smother it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I won't let you ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "smother it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G               Am      G",
-      "lyrics": "I won't let you murder it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I won't let you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "murder i",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "t",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "            F",
-      "lyrics": "our time is running out"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "our time is ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "running out",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G           Am          C",
-      "lyrics": "our time is running out"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "our time is ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "running out ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                  F",
-      "lyrics": "you can't push it underground"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "you can't push it ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "underground",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                 Am            F  G",
-      "lyrics": "you can't stop it screaming out"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "you can't stop it ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "screaming out ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "  "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "Am",
-      "lyrics": "I wanted freedom"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I wanted freedom",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B",
-      "lyrics": "bound and restricted"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "bound and restricted",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "I tried to give you up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "I tried to give you up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F         G",
-      "lyrics": "but I'm addicted"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "but I'm ad",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "dicted",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "now that you know I'm trapped"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "now that you know I'm trapped",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B",
-      "lyrics": "sense of elation"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "sense of elation",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "you'd never dream of"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "you'd never dream of",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F         G",
-      "lyrics": "breaking this fixation"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "breaking t",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "his fixation",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am   B      E         F    G",
-      "lyrics": "you will squeeze the life out of me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "you w",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "ill squ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "eeze the l",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ife o",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ut of me",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "F",
-      "lyrics": "bury it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "bury it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G               Am      G",
-      "lyrics": "I won't let you bury it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I won't let you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "bury it ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                F",
-      "lyrics": "I won't let you smother it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I won't let you ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "smother it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G               Am      G",
-      "lyrics": "I won't let you murder it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I won't let you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "murder i",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "t",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "            F",
-      "lyrics": "our time is running out"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "our time is ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "running out",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G           Am          C",
-      "lyrics": "our time is running out"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "our time is ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "running out ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                  F",
-      "lyrics": "you can't push it underground"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "you can't push it ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "underground",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                 Am",
-      "lyrics": "you can't stop it screaming out"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "you can't stop it ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "screaming out",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                  Dm",
-      "lyrics": "how did it come to this?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "how did it come to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "this?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Am                      Dm",
-      "lyrics": "oo-oo-ohh, yeah, yeah, yeah, yeah, yeah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "oo-oo-ohh, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "yeah, yeah, yeah, yeah, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "yeah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Am                      Dm",
-      "lyrics": "oo-oo-ohh, yeah, yeah, yeah, yeah, yeah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "oo-oo-ohh, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "yeah, yeah, yeah, yeah, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "yeah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Am                      E",
-      "lyrics": "oo-oo-ohh, yeah, yeah, yeah, yeah, yeah!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "oo-oo-ohh, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "yeah, yeah, yeah, yeah, ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "yeah!",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "Am       B        E           F  G",
-      "lyrics": "you will suck the life out of me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "you will ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "suck the ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "life out of ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "me ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "F",
-      "lyrics": "bury it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "bury it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G               Am      G",
-      "lyrics": "I won't let you bury it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I won't let you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "bury it ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                F",
-      "lyrics": "I won't let you smother it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I won't let you ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "smother it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G               Am      G",
-      "lyrics": "I won't let you murder it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I won't let you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "murder i",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "t",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "            F",
-      "lyrics": "our time is running out"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "our time is ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "running out",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G           Am          C",
-      "lyrics": "our time is running out"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "our time is ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "running out ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                  F",
-      "lyrics": "you can't push it underground"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "you can't push it ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "underground",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                 Am",
-      "lyrics": "you can't stop it screaming out"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "you can't stop it ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "screaming out",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                  Dm",
-      "lyrics": "how did it come to this?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "how did it come to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "this?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Am                      Dm",
-      "lyrics": "oo-oo-ohh, yeah, yeah, yeah, yeah, yeah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "oo-oo-ohh, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "yeah, yeah, yeah, yeah, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "yeah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Am                      Dm",
-      "lyrics": "oo-oo-ohh, yeah, yeah, yeah, yeah, yeah"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "oo-oo-ohh, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "yeah, yeah, yeah, yeah, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "yeah",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           Am                      E",
-      "lyrics": "oo-oo-ohh, yeah, yeah, yeah, yeah, yeah!"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "oo-oo-ohh, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "yeah, yeah, yeah, yeah, ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "yeah!",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Time Is Running Out"

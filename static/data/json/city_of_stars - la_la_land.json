@@ -19,50 +19,224 @@
       "label": "Strum pattern:"
     },
     {
-      "chord": "",
-      "lyrics": "1+2+3+4+"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "1+2+3+4+",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "D  U UDU"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "D  U UDU",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm            C                        Dm",
-      "lyrics": "City of stars, are you shining just for me?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "City of stars,",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " are you shining just for",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": " me?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm            C                            F",
-      "lyrics": "City of stars, there's so much that I can't see"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "City of stars,",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " there's so much that I can't",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " see",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Gm    C                            F      F/E         Dm7",
-      "lyrics": "Who knows? I felt it from the first embrace I shared with you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Who ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "knows?",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " I felt it from the first emb",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "race I ",
+          "overLyric": true
+        },
+        {
+          "chord": "F/E",
+          "lyric": "shared with ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Mia]"
     },
     {
-      "chord": "     Gm       A                            Dm   Dm7",
-      "lyrics": "That now, our dreams, they've finally come true"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "now, our ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "dreams, they've finally come ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "true ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Gm            C                        Dm",
-      "lyrics": "City of stars, just one thing everybody wants"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "City of stars,",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " just one thing everybody",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": " wants",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm                C                                   F",
-      "lyrics": "There in the bars, and through the smokescreen of the crowded restaurants"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "There in the bars,",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " and through the smokescreen of the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "crowded restaurants",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Gm   C                             F          F/E     Dm7",
-      "lyrics": "It's love, yes all we're looking for is love, from someone else"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "love,",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " yes all we're looking for is ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "love, from ",
+          "overLyric": true
+        },
+        {
+          "chord": "F/E",
+          "lyric": "someone ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "else",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Sebastian] / [Mia]    / [Sebastian] / [Mia]"
     },
     {
-      "chord": "Gm                       A",
-      "lyrics": "A rush,       a glance,  a touch,      a dance"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "A rush,       a glance,  ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "a touch,      a dance",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Duet]"
@@ -71,62 +245,238 @@
       "label": "Strum pattern:"
     },
     {
-      "chord": "",
-      "lyrics": "Left hand mute each down strum"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Left hand mute each down strum",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "1+2+3+4+"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "1+2+3+4+",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "DxDxDxDx"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "DxDxDxDx",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  Bb                  C                     A",
-      "lyrics": "A look in somebody's eyes, to light up the skies"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "look in somebody's e",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "yes, to light up the s",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "kies",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Dm               Dm7",
-      "lyrics": "To open the world and send it reeling"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To open the w",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "orld and send it ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "reeling",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  Bb                      C                     Dm",
-      "lyrics": "A voice that says I'll be here, and you'll be alright"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "voice that says I'll be ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "here, and you'll be al",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "right",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb                C                        A",
-      "lyrics": "I don't care if I know, just where I will go"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "I don't care if I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "know, just where I will g",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "o",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Dm                Dm7",
-      "lyrics": "'Cause all that I need is this crazy feeling"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Cause all that I n",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "eed is this crazy ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "feeling",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  Bb                A",
-      "lyrics": "A rat-tat-tat on my heart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "A ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "rat-tat-tat on my ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "heart",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Sebastian]"
     },
     {
-      "chord": "                       Dm  Dm7",
-      "lyrics": "I think I want it to stay"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I think I want it to st",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ay  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Gm            C                        F",
-      "lyrics": "City of stars, are you shining just for me?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "City of stars,",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " are you shining just for",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " me?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Gm              A",
-      "lyrics": "City of stars"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Gm",
+          "lyric": "City of stars   ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Mia]"
     },
     {
-      "chord": "                          Dm",
-      "lyrics": "You never shined so brightly"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You never shined so bright",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ly",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "City of Stars"

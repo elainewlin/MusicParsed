@@ -15,203 +15,752 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "F                      C",
-      "lyrics": " Step out into the Indian dust"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " Step out into the Indi",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "an dust",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm",
-      "lyrics": " I can feel the cracks in my spirit"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": " I can feel the cracks in my spirit",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb                     C",
-      "lyrics": " They're starting to bust"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": " They're starting to bu",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "st",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": " Drive by your house"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " Drive by your house",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           C",
-      "lyrics": " Nobody's home"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " Nobody's h",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ome",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm                                 Bb             C",
-      "lyrics": " I'm trying to tell myself that I'm better off alone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": " I'm trying to tell myself that I'm",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": " better off alo",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ne",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "F                   C",
-      "lyrics": " All my friends say I should move on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " All my friends say ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I should move on",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm                       Bb",
-      "lyrics": " She's just another girl"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": " She's just another girl ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "               C                         F",
-      "lyrics": " Don't let her stick it to your heart so hard"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " Don't let her ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "stick it to your heart so ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "hard",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                           C",
-      "lyrics": " And all my friends say it wasn't meant to be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " And all my friends say it ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "wasn't meant to be",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm                          Bb",
-      "lyrics": " And it's a great big world"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": " And it's a great big world ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "       C            F",
-      "lyrics": " She's just another girl"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " She's ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "just another ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "girl",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " C          Dm    Bb  C",
-      "lyrics": "   (another girl)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " (another "
+        },
+        {
+          "chord": "Dm",
+          "lyric": "girl) ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "  F",
-      "lyrics": "I went to see a fortuneteller, that was a trip"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "went to see a fortuneteller, that was a trip",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "Maybe this confusion's got me losing my grip"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Maybe this confusion's got me losing my grip",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  Dm",
-      "lyrics": "I can't believe you're out there"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "can't believe you're out there",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                          Bb  C",
-      "lyrics": "Flying with someone else uh-huh"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Flying with someone else u",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "h-hu",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "h",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    F",
-      "lyrics": "Now Jason's getting married in the blink of an eye"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Now ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "Jason's getting married in the blink of an eye",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  C",
-      "lyrics": "I got an invitation but I didn't reply"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "got an invitation but I didn't reply",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm                                                  Bb",
-      "lyrics": "Tell your little brother that we put down the gloves"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "Tell your little brother that we put down the gloves",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "             C",
-      "lyrics": "And give him all of my love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And give him ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "all of my love",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "F                   C",
-      "lyrics": " All my friends say I should move on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " All my friends say ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I should move on",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm                       Bb",
-      "lyrics": " She's just another girl"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": " She's just another girl ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "               C                         F",
-      "lyrics": " Don't let her stick it to your heart so hard"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " Don't let her ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "stick it to your heart so ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "hard",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                           C",
-      "lyrics": " And all my friends say it wasn't meant to be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " And all my friends say it ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "wasn't meant to be",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm                          Bb",
-      "lyrics": " And it's a great big world"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": " And it's a great big world ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "       C            Dm",
-      "lyrics": " She's just another girl"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " She's ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "just another ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "girl",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "Dm          C                              Bbadd9",
-      "lyrics": " I could be reeling them in left and right"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": " I could be ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "reeling them in left and right ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bbadd9",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                          C            Dm",
-      "lyrics": " Something's got a hold on me, tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " Something's got a hold on",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " me, tonight ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "            C                                 Bbadd9",
-      "lyrics": " Well maybe all of my friends should confront"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " Well maybe ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "all of my friends should confront ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bbadd9",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                 C",
-      "lyrics": " The fact that I don't want another girl"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " The fact that I ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "don't want another girl",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F C Dm",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "Dm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Dm                     Bb               C",
-      "lyrics": " All of my friends say I should move on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": " All of my friends say ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "I should move on ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": " All of my friends say"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " All of my friends say",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": " All of my friends say"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " All of my friends say",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm                     Bb",
-      "lyrics": " All of my friends say"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": " All of my friends say ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "       C            F",
-      "lyrics": " She's just another girl"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " She's ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "just another ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "girl",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": " Then why can't I sleep at night"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " Then why can't I sleep at night",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": " And why don't the moon look right"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " And why don't the moon look right",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm                            Bb",
-      "lyrics": " The sound's off but the TV's on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": " The sound's off but the TV's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "on",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                            C",
-      "lyrics": " And it's a great big world"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " And it's a great big world ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Outro]"
     },
     {
-      "chord": "                   Bb",
-      "lyrics": "She's just another girl,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "She's just another ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "girl,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                                         C",
-      "lyrics": "Don't let her stick it to your heart boys"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Don't let her stick it to your heart boys",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                   Bb",
-      "lyrics": "She's just another girl"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "She's just another ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "girl",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  C                   F     C",
-      "lyrics": "All my friends say she's just another girl"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "All my friends say",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " she's just another ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "girl  ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "        Dm   Bb C F",
-      "lyrics": "Another girl"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Another ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "girl ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "Just Another Girl"

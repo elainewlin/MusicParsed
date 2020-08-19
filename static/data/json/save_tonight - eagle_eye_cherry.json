@@ -13,193 +13,1176 @@
       "label": "[Intro x4]"
     },
     {
-      "chord": "Am Fmaj7/C C G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " "
+        },
+        {
+          "chord": "Fmaj7/C",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "          Am  Fmaj7/C     C   G",
-      "lyrics": "Go on and close       the curtains"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Go on and ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "clos",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7/C",
+          "lyric": "e       the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "curt",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ains",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              Am  Fmaj7/C  C   G",
-      "lyrics": "'Cause all we need   is    candlelight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Cause all we ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "need",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7/C",
+          "lyric": "   is    ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "cand",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "lelight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Am  Fmaj7/C  C              G",
-      "lyrics": "You and me,    and a bottle of wine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You and ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "me, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7/C",
+          "lyric": "   and a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "bottle of wine ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "            Am  Fmaj7/C  C   G",
-      "lyrics": "To hold you tonight (oh)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To hold you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "toni",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7/C",
+          "lyric": "ght (oh) ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "   "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "        Am  Fmaj7/C  C          G",
-      "lyrics": "Well we know I'm     going away"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Well we ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "know",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7/C",
+          "lyric": " I'm     ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "going away ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "          Am  Fmaj7/C      C          G",
-      "lyrics": "And how I wish - I wish it weren't so"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And how I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "wish",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7/C",
+          "lyric": " - I wish it ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "weren't so ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "             Am  Fmaj7/C  C          G",
-      "lyrics": "So take this wine and     drink with me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "So take this ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "wine",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7/C",
+          "lyric": " and     ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "drink with ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am              Fmaj7/C  C G",
-      "lyrics": "And let's delay our misery"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "let's delay our ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7/C",
+          "lyric": "misery   ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "     Am     Fmaj7/C  C                 G",
-      "lyrics": "Save tonight and    fight the break of dawn"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Save ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "tonight",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7/C",
+          "lyric": " and    f",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ight the break of ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "dawn",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Am  Fmaj7/C  C                 G",
-      "lyrics": "Come tomorrow -   tomorrow I'll be gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Come ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "tomo",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7/C",
+          "lyric": "rrow -   ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "tomorrow I'll be g",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "one",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Am     Fmaj7/C  C                 G",
-      "lyrics": "Save tonight and fight the break of dawn"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Save ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "tonight",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7/C",
+          "lyric": " and figh",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "t the break of daw",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "n",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Am  Fmaj7/C  C                 G",
-      "lyrics": "Come tomorrow - tomorrow I'll be gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Come ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "tomo",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7/C",
+          "lyric": "rrow - to",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "morrow I'll be gon",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "          Am  Fmaj7/C  C    G",
-      "lyrics": "There's a log on the   fire"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "There's a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "log ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7/C",
+          "lyric": "on the   ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "fire ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "       Am  Fmaj7/C  C         G",
-      "lyrics": "And it burns like   me for you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And it ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "burn",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7/C",
+          "lyric": "s like   ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "me for you",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "         Am  Fmaj7/C    C    G",
-      "lyrics": "Tomorrow comes with one desire"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Tomorrow ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "come",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7/C",
+          "lyric": "s with one ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "desir",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   Am  Fmaj7/C   C    G",
-      "lyrics": "To take me away (ohh it's true)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "take",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7/C",
+          "lyric": " me away (",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ohh i",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "t's true)",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "         Am  Fmaj7/C  C       G",
-      "lyrics": "It ain't easy to say good-bye"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It ain't ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "easy",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7/C",
+          "lyric": " to say g",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ood-bye ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "        Am  Fmaj7/C   C            G",
-      "lyrics": "Darlin' please, don't start to cry"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Darlin' ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "plea",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7/C",
+          "lyric": "se, don't ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "start to cry ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "       Am                 Fmaj7/C    C    G",
-      "lyrics": "'Cause girl you know I've got to go (oh)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "'Cause ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "girl you know I've ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7/C",
+          "lyric": "got to go (",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "oh)  ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    Am             Fmaj7/C   C    G",
-      "lyrics": "And Lord I wish it wasn't so"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "Lord I wish it ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7/C",
+          "lyric": "wasn't so ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "    "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "     Am     Fmaj7/C  C                 G",
-      "lyrics": "Save tonight and    fight the break of dawn"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Save ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "tonight",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7/C",
+          "lyric": " and    f",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ight the break of ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "dawn",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Am  Fmaj7/C  C                 G",
-      "lyrics": "Come tomorrow -   tomorrow I'll be gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Come ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "tomo",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7/C",
+          "lyric": "rrow -   ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "tomorrow I'll be g",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "one",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Am     Fmaj7/C  C                 G",
-      "lyrics": "Save tonight and fight the break of dawn"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Save ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "tonight",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7/C",
+          "lyric": " and figh",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "t the break of daw",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "n",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Am  Fmaj7/C  C                 G",
-      "lyrics": "Come tomorrow - tomorrow I'll be gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Come ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "tomo",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7/C",
+          "lyric": "rrow - to",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "morrow I'll be gon",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Guitar Solo x3]"
     },
     {
-      "chord": "Am Fmaj7/C C G",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " "
+        },
+        {
+          "chord": "Fmaj7/C",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": " Am      Fmaj7/C  C                 G",
-      "lyrics": "Tomorrow comes to take me away"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "T",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "omorrow ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7/C",
+          "lyric": "comes to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "take me away      ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am          Fmaj7/C C             G",
-      "lyrics": "I wish that I, that I could stay"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I wish that ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7/C",
+          "lyric": "I, that ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I could stay  ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "    Am                 Fmaj7/C   C  G",
-      "lyrics": "But girl you know I've got to go (oh)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "girl you know I've ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7/C",
+          "lyric": "got to go ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "(oh",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ")",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am             Fmaj7/C   C    G",
-      "lyrics": "And Lord I wish it wasn't so"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "Lord I wish it ",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7/C",
+          "lyric": "wasn't so ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "    "
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "     Am     Fmaj7/C  C                 G",
-      "lyrics": "Save tonight and    fight the break of dawn"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Save ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "tonight",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7/C",
+          "lyric": " and    f",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ight the break of ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "dawn",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Am  Fmaj7/C  C                 G",
-      "lyrics": "Come tomorrow -   tomorrow I'll be gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Come ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "tomo",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7/C",
+          "lyric": "rrow -   ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "tomorrow I'll be g",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "one",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Am     Fmaj7/C  C                 G",
-      "lyrics": "Save tonight and fight the break of dawn"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Save ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "tonight",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7/C",
+          "lyric": " and figh",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "t the break of daw",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "n",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Am  Fmaj7/C  C                 G",
-      "lyrics": "Come tomorrow - tomorrow I'll be gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Come ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "tomo",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7/C",
+          "lyric": "rrow - to",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "morrow I'll be gon",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Save tonight and fight the break of dawn"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Save tonight and fight the break of dawn",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Am  Fmaj7/C  C                 G",
-      "lyrics": "Come tomorrow - tomorrow I'll be gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Come ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "tomo",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7/C",
+          "lyric": "rrow - to",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "morrow I'll be gon",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Save tonight and fight the break of dawn"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Save tonight and fight the break of dawn",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     Am  Fmaj7/C  C                 G",
-      "lyrics": "Come tomorrow - tomorrow I'll be gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Come ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "tomo",
+          "overLyric": true
+        },
+        {
+          "chord": "Fmaj7/C",
+          "lyric": "rrow - to",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "morrow I'll be gon",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "e",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am Fmaj7/C C                 G",
-      "lyrics": "           Tomorrow I'll be gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " "
+        },
+        {
+          "chord": "Fmaj7/C",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": "Tomorrow I'll be g",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "one",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am Fmaj7/C C                 G",
-      "lyrics": "           Tomorrow I'll be gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " "
+        },
+        {
+          "chord": "Fmaj7/C",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": "Tomorrow I'll be g",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "one",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am Fmaj7/C C                 G",
-      "lyrics": "           Tomorrow I'll be gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " "
+        },
+        {
+          "chord": "Fmaj7/C",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": "Tomorrow I'll be g",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "one",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am Fmaj7/C C                 G",
-      "lyrics": "           Tomorrow I'll be gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " "
+        },
+        {
+          "chord": "Fmaj7/C",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": "Tomorrow I'll be g",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "one",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Save Tonight"

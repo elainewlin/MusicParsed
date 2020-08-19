@@ -2,351 +2,1003 @@
   "allChords": [
     "Am",
     "C",
-    "E",
-    "D",
-    "F",
-    "G"
+    "E7",
+    "B7",
+    "Bb7",
+    "F7"
   ],
   "artist": "Britney Spears",
+  "capo": "3",
   "fullName": "Toxic - Britney Spears",
   "id": "toxic - britney_spears",
   "lines": [
     {
+      "label": "[Intro]"
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
+    },
+    {
       "label": "[Verse]"
     },
     {
-      "chord": "Am",
-      "lyrics": "Baby, can\u2019t you see"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " Baby, can’t you see",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "I\u2019m calling"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " I’m calling",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "A guy like you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " A guy like you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "Should wear a warning"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " Should wear a warning",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "It\u2019s dangerous"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " It’s dangerous",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E      Am",
-      "lyrics": "I\u2019m fallin\u2019"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E7",
+          "lyric": " I’m fallin’  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "There\u2019s no escape"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " There’s no escape",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "I can\u2019t wait"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " I can’t wait",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "I need a hit"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " I need a hit",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "Baby, give me it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " Baby, give me it",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "You\u2019re dangerous"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " You’re dangerous",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E           Am",
-      "lyrics": "I\u2019m lovin\u2019 it"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E7",
+          "lyric": " I’m lovin’ it ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "D",
-      "lyrics": "Too high"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Too high",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "Can\u2019t come down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Can’t come down",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "Losing my head"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Los",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "ing my head",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                  C",
-      "lyrics": "Spinning \u2018round and \u2018round"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Spinning ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "‘round and ‘round",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E                  Am",
-      "lyrics": "Do you feel me now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "E7",
+          "lyric": "  Do you feel me now ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Am",
-      "lyrics": "With a taste of your lips"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "With a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "taste of your lips",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   C",
-      "lyrics": "I\u2019m on a ride"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I’m ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "on a ride",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F            E",
-      "lyrics": "You're toxic I'm slipping under"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B7",
+          "lyric": "You're toxic ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb7",
+          "lyric": "I'm slipping under",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Am                  C",
-      "lyrics": "With a taste of a poison paradise"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "With a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "taste of a poison parad",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ise",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     F",
-      "lyrics": "I\u2019m addicted to you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I’m ad",
+          "overLyric": true
+        },
+        {
+          "chord": "F7",
+          "lyric": "dicted to you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E                             Am  C",
-      "lyrics": "Don\u2019t you know that you\u2019re toxic"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Don’t you ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "know that you’re toxic ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C     F",
-      "lyrics": "And I love what you do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I ",
+          "overLyric": true
+        },
+        {
+          "chord": "F7",
+          "lyric": "love what you do",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      E",
-      "lyrics": "Don\u2019t you know that you\u2019re toxic"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Don’t you ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "know that you’re toxic",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Instrumental]"
     },
     {
-      "chord": "Am  C  F  E",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "  "
+        },
+        {
+          "chord": "C",
+          "lyric": "  "
+        },
+        {
+          "chord": "F7",
+          "lyric": "  "
+        },
+        {
+          "chord": "E7",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "Am",
-      "lyrics": "It\u2019s getting late"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " It’s getting late",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "To give you up"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " To give you up",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "I took a sip"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " I took a sip",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "From my devil's cup"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " From my devil's cup",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "Slowly"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " Slowly",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "It\u2019s taking over me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E7",
+          "lyric": "It’s taking over me ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "D",
-      "lyrics": "Too high"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Too high",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "Can\u2019t come down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Can’t come down",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "It\u2019s in the air"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "It’s in the air",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                C",
-      "lyrics": "And it\u2019s all around"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And it’s ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "all around",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E                  Am",
-      "lyrics": "Can you feel me now"
-    },
-    {
-      "label": "[Chorus]"
-    },
-    {
-      "chord": "Am",
-      "lyrics": "With a taste of your lips"
-    },
-    {
-      "chord": "   C",
-      "lyrics": "I\u2019m on a ride"
-    },
-    {
-      "chord": "F            E",
-      "lyrics": "You're toxic I'm slipping under"
-    },
-    {
-      "chord": "       Am                  C",
-      "lyrics": "With a taste of a poison paradise"
-    },
-    {
-      "chord": "     F",
-      "lyrics": "I\u2019m addicted to you"
-    },
-    {
-      "chord": "          E                      Am  C",
-      "lyrics": "Don\u2019t you know that you\u2019re toxic"
-    },
-    {
-      "chord": "C     F",
-      "lyrics": "And I love what you do"
-    },
-    {
-      "chord": "      E",
-      "lyrics": "Don\u2019t you know that you\u2019re toxic"
-    },
-    {
-      "label": "[Bridge]"
-    },
-    {
-      "chord": "F  G  E  Am",
-      "lyrics": "Ahhhhhhhhhhhhhhh"
-    },
-    {
-      "chord": "F  G  E  Am",
-      "lyrics": "Ahhhhhhhhhhhhhhh"
-    },
-    {
-      "chord": "C",
-      "lyrics": "TASTE OF YOUR LIPS I'M ON A RIDE"
-    },
-    {
-      "label": "[Bridge]"
-    },
-    {
-      "chord": "F            E",
-      "lyrics": "You're toxic I'm slipping under"
-    },
-    {
-      "chord": "       Am                 C",
-      "lyrics": "With a taste of a poison paradise"
-    },
-    {
-      "chord": "     F",
-      "lyrics": "I'm addicted to you"
-    },
-    {
-      "chord": "          E",
-      "lyrics": "Don't you know that you're toxic"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "E7",
+          "lyric": "  Can you feel me now ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Am",
-      "lyrics": "With a taste of your lips"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "With a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "taste of your lips",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   C",
-      "lyrics": "I\u2019m on a ride"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I’m ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "on a ride",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F            E",
-      "lyrics": "You're toxic I'm slipping under"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B7",
+          "lyric": "You're toxic ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb7",
+          "lyric": "I'm slipping under",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Am                  C",
-      "lyrics": "With a taste of a poison paradise"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "With a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "taste of a poison pa",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "radise",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     F",
-      "lyrics": "I\u2019m addicted to you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I’m a",
+          "overLyric": true
+        },
+        {
+          "chord": "F7",
+          "lyric": "ddicted to you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E                             Am  C",
-      "lyrics": "Don\u2019t you know that you\u2019re toxic"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Don’t you ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "know that you’re toxic ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "C     F",
-      "lyrics": "And I love what you do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I ",
+          "overLyric": true
+        },
+        {
+          "chord": "F7",
+          "lyric": "love what you do",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      E",
-      "lyrics": "Don\u2019t you know that you\u2019re toxic"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Don’t you ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "know that you’re toxic ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "F7",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "With a taste of your lips"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Don't you ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "know that you're toxic",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   C",
-      "lyrics": "I\u2019m on a ride"
+      "label": "[Bridge]"
     },
     {
-      "chord": "F            E",
-      "lyrics": "You're toxic I'm slipping under"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Ahhh",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hhh",
+          "overLyric": true
+        },
+        {
+          "chord": "B7",
+          "lyric": "hhhh",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb7",
+          "lyric": "hhhhh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       Am                  C",
-      "lyrics": "With a taste of a poison paradise"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Ahhh",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hhh",
+          "overLyric": true
+        },
+        {
+          "chord": "F7",
+          "lyric": "hhhh",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "hhhhh",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     F",
-      "lyrics": "I\u2019m addicted to you"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "N.C.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E                             Am  C",
-      "lyrics": "Don\u2019t you know that you\u2019re toxic"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "TASTE OF YOUR LIPS I'M ON A RIDE",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C     F",
-      "lyrics": "And I love what you do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B7",
+          "lyric": "You're toxic ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb7",
+          "lyric": "I'm slipping under",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      E",
-      "lyrics": "Don\u2019t you know that you\u2019re toxic"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "With a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "taste of a poison ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "paradise",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm a",
+          "overLyric": true
+        },
+        {
+          "chord": "F7",
+          "lyric": "ddicted to you",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Don't you ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "know that you're toxic",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "[Chorus]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "With a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "taste of your lips",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I’m ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "on a ride",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B7",
+          "lyric": "You're toxic ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb7",
+          "lyric": "I'm slipping under",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "With a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "taste of a poison ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "paradise",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I’m a",
+          "overLyric": true
+        },
+        {
+          "chord": "F7",
+          "lyric": "ddicted to you",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Don’t you ",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "know that you’re toxic",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Outro]"
     },
     {
-      "chord": "Am",
-      "lyrics": "Intoxicate me now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " Intoxicate me now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "With your lovin' now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " With your lovin' now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "I think I'm ready now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F7",
+          "lyric": " I think I'm ready now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "I think I'm ready now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E7",
+          "lyric": " I think I'm ready now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "Intoxicate me now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": " Intoxicate me now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "With your lovin' now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " With your lovin' now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "I think I'm ready now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F7",
+          "lyric": " I think I'm ready now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E",
-      "lyrics": "I think I'm ready now"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "E7",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "Toxic"

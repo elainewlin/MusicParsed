@@ -14,145 +14,522 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "Em               C                   G",
-      "lyrics": "Come up to meet you, tell you I'm sorry"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Come up to meet y",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ou, tell you I'm sor",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ry",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   Gadd9",
-      "lyrics": "You don't know how lovely you are"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You don't know how ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gadd9",
+          "lyric": "lovely you are",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em             C",
-      "lyrics": "I had to find you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "I had to find y",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ou",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                G",
-      "lyrics": "Tell you I need you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Tell you I need ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Gadd9",
-      "lyrics": "Tell you I set you apart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Tell y",
+          "overLyric": true
+        },
+        {
+          "chord": "Gadd9",
+          "lyric": "ou I set you apart",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em                C",
-      "lyrics": "Tell me your secrets"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Tell me your secre",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ts",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     G",
-      "lyrics": "And ask me your questions"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ask me your quest",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ions",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             Gadd9",
-      "lyrics": "Oh, let's go back to the start"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh, let's go ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gadd9",
+          "lyric": "back to the start",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em               C",
-      "lyrics": "Running in circles"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Running in circle",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "s",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             G",
-      "lyrics": "Coming up tails"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Coming up tai",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ls",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              G/F#",
-      "lyrics": "Heads on a science apart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Heads on a sci",
+          "overLyric": true
+        },
+        {
+          "chord": "G/F#",
+          "lyric": "ence apart",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "C                    G",
-      "lyrics": "Nobody said it was easy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Nobody said it was ea",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "sy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               Gadd9",
-      "lyrics": "It's such a shame for us to part"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It's such a sha",
+          "overLyric": true
+        },
+        {
+          "chord": "Gadd9",
+          "lyric": "me for us to part",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                   G",
-      "lyrics": "Nobody said it was easy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Nobody said it was e",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "asy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  Gadd9              D",
-      "lyrics": "No one ever said it would be this hard"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "No one ever said i",
+          "overLyric": true
+        },
+        {
+          "chord": "Gadd9",
+          "lyric": "t would be this har",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "d",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                            G",
-      "lyrics": "Oh, take me back to the start"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh, take me back to the star",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "t",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "Em                C",
-      "lyrics": "I was just guessing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "I was just guessin",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "g",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                   G",
-      "lyrics": "At numbers and figures"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "At numbers and figu",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "res",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Gadd9",
-      "lyrics": "Pulling the puzzles apart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Pulling the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gadd9",
+          "lyric": "puzzles apart",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em               C",
-      "lyrics": "Questions of science"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Questions of scie",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "nce",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                  G",
-      "lyrics": "Science and progress"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Science and progre",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ss",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              Gadd9",
-      "lyrics": "Do not speak as loud as my heart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Do not speak a",
+          "overLyric": true
+        },
+        {
+          "chord": "Gadd9",
+          "lyric": "s loud as my heart",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em               C",
-      "lyrics": "Tell me you love me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Tell me you love ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 G",
-      "lyrics": "Come back and haunt me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Come back and hau",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "nt me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Gadd9",
-      "lyrics": "Oh, and I rush to the start"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh, and I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gadd9",
+          "lyric": "rush to the start",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Em              C",
-      "lyrics": "Running in circles"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "Running in circl",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "es",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               G",
-      "lyrics": "Chasing our tails"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Chasing our tai",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ls",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       G/F#",
-      "lyrics": "Coming back as we are"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Coming ",
+          "overLyric": true
+        },
+        {
+          "chord": "G/F#",
+          "lyric": "back as we are",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "C                     G",
-      "lyrics": "Nobody said it was easy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Nobody said it was eas",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "y",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                 Gadd9",
-      "lyrics": "Oh, it's such a shame for us to part"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh, it's such a s",
+          "overLyric": true
+        },
+        {
+          "chord": "Gadd9",
+          "lyric": "hame for us to part",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                    G",
-      "lyrics": "Nobody said it was easy"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Nobody said it was ea",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "sy",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "               Gadd9               D",
-      "lyrics": "No one ever said it would be so hard"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "No one ever sai",
+          "overLyric": true
+        },
+        {
+          "chord": "Gadd9",
+          "lyric": "d it would be so har",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "d",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                           G",
-      "lyrics": "I'm going back to the start"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm going back to the start",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "The Scientist"

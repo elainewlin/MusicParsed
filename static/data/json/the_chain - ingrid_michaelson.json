@@ -14,132 +14,563 @@
       "label": "[Intro]"
     },
     {
-      "chord": "F      F/Eb       Dm        Db6",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "      "
+        },
+        {
+          "chord": "F/Eb",
+          "lyric": "       "
+        },
+        {
+          "chord": "Dm",
+          "lyric": "        "
+        },
+        {
+          "chord": "Db6",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "F  F/E  Dm  Dm/C  Bb  Bb/C  Dm",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "  "
+        },
+        {
+          "chord": "F/E",
+          "lyric": "  "
+        },
+        {
+          "chord": "Dm",
+          "lyric": "  "
+        },
+        {
+          "chord": "Dm/C",
+          "lyric": "  "
+        },
+        {
+          "chord": "Bb",
+          "lyric": "  "
+        },
+        {
+          "chord": "Bb/C",
+          "lyric": "  "
+        },
+        {
+          "chord": "Dm",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Dm      F/E",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "      "
+        },
+        {
+          "chord": "F/E",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "F             F/Eb",
-      "lyrics": "The sky looks pissed"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "The sky looks ",
+          "overLyric": true
+        },
+        {
+          "chord": "F/Eb",
+          "lyric": "pissed",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm             Db6",
-      "lyrics": "The wind talks back"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "The wind talks ",
+          "overLyric": true
+        },
+        {
+          "chord": "Db6",
+          "lyric": "back",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F            F/E      Dm    Dm/C",
-      "lyrics": "My bones are shifting in my skin"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "My bones are ",
+          "overLyric": true
+        },
+        {
+          "chord": "F/E",
+          "lyric": "shifting ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "in my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm/C",
+          "lyric": "skin",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb         Bb/C      F",
-      "lyrics": "And you my love are gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "And you my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb/C",
+          "lyric": "love are g",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "one",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F             F/Eb",
-      "lyrics": "My room feels wrong"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "My room feels ",
+          "overLyric": true
+        },
+        {
+          "chord": "F/Eb",
+          "lyric": "wrong",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm            Db6",
-      "lyrics": "The bed won't fit"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "The bed won't ",
+          "overLyric": true
+        },
+        {
+          "chord": "Db6",
+          "lyric": "fit",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F        F/E     Dm   Dm/C",
-      "lyrics": "I cannot seem to ope--rate"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I cannot ",
+          "overLyric": true
+        },
+        {
+          "chord": "F/E",
+          "lyric": "seem to ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "ope--",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm/C",
+          "lyric": "rate",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb         Bb/C      F",
-      "lyrics": "And you my love are gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "And you my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb/C",
+          "lyric": "love are g",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "one",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Bb                C",
-      "lyrics": "So glide away on soapy heels"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "So glide away on s",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "oapy heels",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F           F/E     Dm        Dm/C",
-      "lyrics": "And promise not to promise anymore"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "And promise ",
+          "overLyric": true
+        },
+        {
+          "chord": "F/E",
+          "lyric": "not to p",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "romise any",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm/C",
+          "lyric": "more",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb                C",
-      "lyrics": "And if you come around again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "And if you come ar",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ound again",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F           F/E       Dm      Dm/C      Bb       Bb/C     F",
-      "lyrics": "Then I will take, then I will take the chain from off the door"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Then I will ",
+          "overLyric": true
+        },
+        {
+          "chord": "F/E",
+          "lyric": "take, then",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": " I will ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm/C",
+          "lyric": "take the c",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb",
+          "lyric": "hain from",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb/C",
+          "lyric": " off the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "door",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "F          F/Eb",
-      "lyrics": "I'll never say"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I'll never ",
+          "overLyric": true
+        },
+        {
+          "chord": "F/Eb",
+          "lyric": "say",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Dm         Db6",
-      "lyrics": "I'll never love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Dm",
+          "lyric": "I'll never ",
+          "overLyric": true
+        },
+        {
+          "chord": "Db6",
+          "lyric": "love",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F           F/E   Dm     Dm/C",
-      "lyrics": "But I don't say a lot of things"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "But I don't ",
+          "overLyric": true
+        },
+        {
+          "chord": "F/E",
+          "lyric": "say a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "lot of ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm/C",
+          "lyric": "things",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb         Bb/C     F",
-      "lyrics": "And you my love are gone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "And you my ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bb/C",
+          "lyric": "love are ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "gone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "[Chorus] x4"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "[Chorus] x4",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb                C",
-      "lyrics": "So glide away on soapy heels"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "So glide away on s",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "oapy heels",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F           F/E     Dm        Dm/C",
-      "lyrics": "And promise not to promise anymore"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "And promise ",
+          "overLyric": true
+        },
+        {
+          "chord": "F/E",
+          "lyric": "not to p",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "romise any",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm/C",
+          "lyric": "more",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb                C",
-      "lyrics": "And if you come around again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "And if you come ar",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ound again",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F           F/E       Dm               Dm/C",
-      "lyrics": "Then I will take the chain from off the door"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Then I will ",
+          "overLyric": true
+        },
+        {
+          "chord": "F/E",
+          "lyric": "take the c",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "hain from off the",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm/C",
+          "lyric": " door",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Last chorus]"
     },
     {
-      "chord": "Bb                C",
-      "lyrics": "So glide away on soapy heels"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "So glide away on s",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "oapy heels",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F           F/E     Dm        Dm/C",
-      "lyrics": "And promise not to promise anymore"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "And promise ",
+          "overLyric": true
+        },
+        {
+          "chord": "F/E",
+          "lyric": "not to p",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "romise any",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm/C",
+          "lyric": "more",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Bb",
-      "lyrics": "And if you come around again"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Bb",
+          "lyric": "And if you come around again",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Then I will take, then I will take, then I will take"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Then I will take, then I will take, then I will take",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "The chain from off the door"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The chain from off the door",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "The Chain"

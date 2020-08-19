@@ -1,90 +1,773 @@
 {
   "allChords": [
-    "G",
-    "Em7",
-    "Cadd9",
     "D",
-    "Am7",
-    "Bm7",
-    "Em",
-    "G7",
-    "Gadd9"
+    "A",
+    "Bm",
+    "F#m",
+    "B",
+    "E",
+    "C#m",
+    "D#dim",
+    "Eb",
+    "F",
+    "Dm",
+    "Gm",
+    "Bb"
   ],
   "artist": "Jay Chou",
   "fullName": "Qing Hua Ci - Jay Chou",
   "id": "qing_hua_ci - jay_chou",
   "lines": [
     {
-      "chord": "          G",
-      "lyrics": "\u7d20\u80da\u52fe\u52d2 \u51fa\u9752\u82b1 \u7b14\u950b\u6d53\u8f6c\u6de1"
+      "label": "[Intro]"
     },
     {
-      "chord": "          Em7",
-      "lyrics": "\u74f6\u8eab\u63cf\u7ed8 \u7684\u7261\u4e39 \u4e00\u5982\u4f60\u521d\u5986"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "A",
+          "lyric": " "
+        },
+        {
+          "chord": "Bm",
+          "lyric": " "
+        },
+        {
+          "chord": "A",
+          "lyric": "  "
+        },
+        {
+          "chord": "F#m",
+          "lyric": " "
+        },
+        {
+          "chord": "B",
+          "lyric": " "
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "          Cadd9",
-      "lyrics": "\u5189\u5189\u6a80\u9999 \u900f\u8fc7\u7a97 \u5fc3\u4e8b\u6211\u4e86\u7136"
+      "label": "[Verse]"
     },
     {
-      "chord": "         D",
-      "lyrics": "\u5ba3\u7eb8\u4e0a \u8d70\u7b14\u81f3\u6b64\u6401\u4e00\u534a"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "su pei gou ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "le chu qing hua",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          G",
-      "lyrics": "\u91c9\u8272\u6e32\u67d3 \u4ed5\u5973\u56fe \u97f5\u5473\u88ab\u79c1\u85cf"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "bi feng nong zhuan dan",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Em7",
-      "lyrics": "\u800c\u4f60\u5ae3\u7136 \u7684\u4e00\u7b11 \u5982\u542b\u82de\u5f85\u653e"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "ping shen miao ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "hui de mu dan",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Cadd9           D    G Am7 G/B",
-      "lyrics": "\u4f60\u7684\u7f8e\u4e00\u7f15\u98d8\u6563 \u53bb\u5230\u6211\u53bb\u4e0d\u4e86\u7684\u5730\u65b9"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "yi ru ni chu zhuang",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Cadd9               D           Bm7   Em",
-      "lyrics": "\u5929\u9752\u8272\u7b49\u70df\u96e8 \u800c\u6211\u5728\u7b49\u4f60 \u708a\u70df\u8885\u8885\u5347\u8d77 \u9694\u6c5f\u5343\u4e07\u91cc"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "ran ran tan ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "xiang tou gou chuang",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Am7                   D         G   G7",
-      "lyrics": "\u5728\u74f6\u5e95\u4e66\u6c49\u96b6\u4eff\u524d\u671d\u7684\u98d8\u9038 \u5c31\u5f53\u6211\u4e3a\u9047\u89c1\u4f60\u4f0f\u7b14"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "xin shi wo liao ran",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Cadd9              D            Bm7  Em",
-      "lyrics": "\u5929\u9752\u8272\u7b49\u70df\u96e8 \u800c\u6211\u5728\u7b49\u4f60 \u6708\u8272\u88ab\u6253\u635e\u8d77 \u6655\u5f00\u4e86\u7ed3\u5c40"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "xuan zhi shang ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "zou bi zhi ci ge yi ban",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Am7                   D  Gadd9",
-      "lyrics": "\u5982\u4f20\u4e16\u7684\u9752\u82b1\u74f7\u81ea\u987e\u81ea\u7f8e\u4e3d \u4f60\u773c\u5e26\u7b11\u610f"
+      "label": "[Verse]"
     },
     {
-      "chord": "          G",
-      "lyrics": "\u8272\u767d\u82b1\u9752 \u7684\u9526\u9ca4 \u8dc3\u7136\u65bc\u7897\u5e95"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "you se xuan ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ran shi nv tu",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Em7",
-      "lyrics": "\u4e34\u6479\u5b8b\u4f53 \u843d\u6b3e\u65f6 \u5374\u60e6\u8bb0\u7740\u4f60"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "yun wei bei si cang",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Cadd9",
-      "lyrics": "\u4f60\u9690\u85cf\u5728\u7a91\u70e7 \u91cc\u5343\u5e74\u7684\u79d8\u5bc6"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "er ni yan ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "ran de yi xiao",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          D",
-      "lyrics": "\u6781\u7ec6\u817b \u72b9\u5982\u7ee3\u82b1\u9488\u843d\u5730"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "ru han ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "bao dai fang",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          G",
-      "lyrics": "\u5e18\u5916\u82ad\u8549 \u60f9\u9aa4\u96e8 \u95e8\u73af\u60f9\u94dc\u7eff"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "ni de mei ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "yi lv piao san",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Em7",
-      "lyrics": "\u800c\u6211\u8def\u8fc7 \u90a3\u6c5f\u5357 \u5c0f\u9547\u60f9\u4e86\u4f60"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "qu dao ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "wo qu bu liao de di ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "fang",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          Cadd9           D    G Am7 G/B",
-      "lyrics": "\u5728\u6cfc\u58a8\u5c71\u6c34\u753b\u91cc \u4f60\u4ece\u58a8\u8272\u6df1\u5904\u88ab\u9690\u53bb"
+      "label": "[Chorus]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "tian qing se ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "deng yan yu",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "er wo zai ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "deng ni",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "chui yan niao ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "niao sheng qi",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "ge jiang qian wan ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "li",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "zai ping di ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "shu han li fang",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "qian zhao de piao ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "yi",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "jiu dang wo ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "wei yu jian ni ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "fu bi",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "[Chorus]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "tian qing se ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "deng yan yu",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "er wo zai ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "deng ni",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "yue se bei ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "da lao qi",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "yun kai liao jie ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "ju",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "ru zhuan shi ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "de qing hua ci",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "zi gu zi mei ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "li",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "ni yan dai ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "xiao yi",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "[Instrumental]"
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "E",
+          "lyric": " "
+        },
+        {
+          "chord": "C#m",
+          "lyric": " "
+        },
+        {
+          "chord": "D#dim",
+          "lyric": "  "
+        },
+        {
+          "chord": "D",
+          "lyric": " "
+        },
+        {
+          "chord": "A",
+          "lyric": " "
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "label": "[Verse]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "se bai hua ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "qing de jin li",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "yue ran yu wan di",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "lin mo ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "song ti luo kan shi",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "que dian ji zhe ni",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "ni yin cang ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "zai yao shao li",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "qian nian de mi mi",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "ji xi ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ni you ru xiu hua zhen luo di",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "[Verse]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "lian wai ba ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "jiao re zhou yu",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "men huan re tong lv",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "er wo lu ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#m",
+          "lyric": "guo na jiang nan",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "xiao zhen ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m",
+          "lyric": "re le ni",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "zai po mo ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "shan shui hua li",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "ni cong ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "mo se shen chu bei yin ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "qu",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "[Chorus]"
+    },
+    {
+      "label": "[Chorus +1]"
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "Dm",
+          "lyric": " "
+        },
+        {
+          "chord": "Gm",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "Bb",
+          "lyric": " "
+        },
+        {
+          "chord": "Dm",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "Dm",
+          "lyric": " "
+        },
+        {
+          "chord": "Gm",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Eb",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " "
+        },
+        {
+          "chord": "Bb",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "Qing Hua Ci"

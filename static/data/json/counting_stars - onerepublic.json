@@ -11,342 +11,1004 @@
   "id": "counting_stars - onerepublic",
   "lines": [
     {
-      "chord": "Am                 C",
-      "lyrics": "Lately, I've been, I've been losing sleep"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Lately, I've been, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I've been losing sleep",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                              F",
-      "lyrics": "Dreaming about the things that we could be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Dreaming about the things that ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "we could be",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am               C",
-      "lyrics": "But baby, I've been, I've been praying hard,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "baby, I've been, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I've been praying hard,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Said, no more counting dollars"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Said, no more counting dollars",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F                              F",
-      "lyrics": "We'll be counting stars, yeah we'll be counting stars"
-    },
-    {
-      "label": "[Verse]"
-    },
-    {
-      "chord": "           Am",
-      "lyrics": "I see this life like a swinging vine"
-    },
-    {
-      "chord": "C",
-      "lyrics": "Swing my heart across the line"
-    },
-    {
-      "chord": "G",
-      "lyrics": "In my face is flashing signs"
-    },
-    {
-      "chord": "F",
-      "lyrics": "Seek it out and ye shall find"
-    },
-    {
-      "chord": "Am",
-      "lyrics": "Old, but I'm not that old"
-    },
-    {
-      "chord": "C",
-      "lyrics": "Young, but I'm not that bold"
-    },
-    {
-      "chord": "G",
-      "lyrics": "I don't think the world is sold"
-    },
-    {
-      "chord": "F",
-      "lyrics": "I'm just doing what we're told"
-    },
-    {
-      "label": "[Pre-Chorus]"
-    },
-    {
-      "chord": "Am C                G",
-      "lyrics": "I feel something so right"
-    },
-    {
-      "chord": "          F",
-      "lyrics": "Doing the wrong thing"
-    },
-    {
-      "chord": "Am C                G",
-      "lyrics": "I feel something so wrong"
-    },
-    {
-      "chord": "          F",
-      "lyrics": "Doing the right thing"
-    },
-    {
-      "chord": "F",
-      "lyrics": "I could lie, could lie, could lie"
-    },
-    {
-      "chord": "F",
-      "lyrics": "Everything that kills me makes me feel alive"
-    },
-    {
-      "label": "[Chorus]"
-    },
-    {
-      "chord": "Am                 C",
-      "lyrics": "Lately, I've been, I've been losing sleep"
-    },
-    {
-      "chord": "G                              F",
-      "lyrics": "Dreaming about the things that we could be"
-    },
-    {
-      "chord": "Am                   C",
-      "lyrics": "But baby, I've been, I've been praying hard,"
-    },
-    {
-      "chord": "G",
-      "lyrics": "Said, no more counting dollars"
-    },
-    {
-      "chord": "F",
-      "lyrics": "We'll be counting stars"
-    },
-    {
-      "chord": "Am                 C",
-      "lyrics": "Lately, I've been, I've been losing sleep"
-    },
-    {
-      "chord": "G                              F",
-      "lyrics": "Dreaming about the things that we could be"
-    },
-    {
-      "chord": "Am                   C",
-      "lyrics": "But baby, I've been, I've been praying hard,"
-    },
-    {
-      "chord": "G",
-      "lyrics": "Said, no more counting dollars"
-    },
-    {
-      "chord": "F",
-      "lyrics": "We'll be, we'll be counting stars"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "We'll be counting stars, yeah w",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "e'll be counting stars",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "           Am",
-      "lyrics": "I feel the love and I feel it burn"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I see this ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "life like a swinging vine",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "Down this river, every turn"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Swing my heart across the line",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Hope is a four-letter word"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "In my face is flashing signs",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Make that money, watch it burn"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Seek it out and ye shall find",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "Old, but I'm not that old"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Old, but I'm not that old",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "Young, but I'm not that bold"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Young, but I'm not that bold",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "I don't think the world is sold"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I don't think the world is sold",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "I'm just doing what we're told"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I'm just doing what we're told",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "Am  C                 G",
-      "lyrics": "I feel something so wrong"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I f",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "eel something so ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "right",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          F",
-      "lyrics": "Doing the right thing"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Doing the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "wrong thing",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        F",
-      "lyrics": "I could lie, could lie, could lie"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I f",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "eel something so ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "wrong",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Everything that drowns me makes me wanna fly"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Doing the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "right thing",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I could lie, could lie, could lie",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Everything that kills me makes me feel alive",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Am                 C",
-      "lyrics": "Lately, I've been, I've been losing sleep"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Lately, I've been, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I've been losing sleep",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                              F",
-      "lyrics": "Dreaming about the things that we could be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Dreaming about the things that ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "we could be",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am               C",
-      "lyrics": "But baby, I've been, I've been praying hard,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "But baby, I've been, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I've been praying hard,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Said, no more counting dollars"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Said, no more counting dollars",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "We'll be counting stars"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "We'll be counting stars",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                 C",
-      "lyrics": "Lately, I've been, I've been losing sleep"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Lately, I've been, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I've been losing sleep",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                              F",
-      "lyrics": "Dreaming about the things that we could be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Dreaming about the things that ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "we could be",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am               C",
-      "lyrics": "But baby, I've been, I've been praying hard,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "But baby, I've been, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I've been praying hard,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Said, no more counting dollars"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Said, no more counting dollars",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "We'll be, we'll be counting stars"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "We'll be, we'll be counting stars",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "[Verse]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I feel the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "love and I feel it burn",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Down this river, every turn",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Hope is a four-letter word",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Make that money, watch it burn",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Old, but I'm not that old",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Young, but I'm not that bold",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "I don't think the world is sold",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "I'm just doing what we're told",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "[Pre-Chorus]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "I fe",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "el something so wr",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ong",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Doing the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "right thing",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I could ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "lie, could lie, could lie",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Everything that drowns me makes me wanna fly",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "[Chorus]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Lately, I've been, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I've been losing sleep",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Dreaming about the things that ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "we could be",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "baby, I've been, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I've been praying hard,",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Said, no more counting dollars",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "We'll be counting stars",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Lately, I've been, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I've been losing sleep",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Dreaming about the things that ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "we could be",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "baby, I've been, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I've been praying hard,",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Said, no more counting dollars",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "We'll be, we'll be counting stars",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "",
-      "lyrics": "Take that money"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Take that money",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Watch it burn"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Watch it burn",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Sink in the river"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Sink in the river",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Sink in the river"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Sink in the river",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Sink in the river"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Sink in the river",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "Sink in the river"
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Sink in the river",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "",
-      "lyrics": "The lessons are learned.."
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The lessons are learned..",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Interlude]"
     },
     {
-      "chord": "F               Dm",
-      "lyrics": "Everything that kills me makes feel alive"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Everything that ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm",
+          "lyric": "kills me makes feel alive",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "Am                 C",
-      "lyrics": "Lately, I've been, I've been losing sleep"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Lately, I've been, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I've been losing sleep",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                              F",
-      "lyrics": "Dreaming about the things that we could be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Dreaming about the things that ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "we could be",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am               C",
-      "lyrics": "But baby, I've been, I've been praying hard,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "baby, I've been, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I've been praying hard,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Said, no more counting dollars"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Said, no more counting dollars",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "We'll be counting stars"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "We'll be counting stars",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am                 C",
-      "lyrics": "Lately, I've been, I've been losing sleep"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Lately, I've been, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I've been losing sleep",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G                              F",
-      "lyrics": "Dreaming about the things that we could be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Dreaming about the things that ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "we could be",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Am               C",
-      "lyrics": "But baby, I've been, I've been praying hard,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "baby, I've been, ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "I've been praying hard,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Said, no more counting dollars"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Said, no more counting dollars",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "We'll be, we'll be, counting stars"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "We'll be, we'll be, counting stars",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Outro]"
     },
     {
-      "chord": "Am",
-      "lyrics": "Take that money, watch it burn"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Take that money, watch it burn",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "Sink in the river, the lessons are learned"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Sink in the river, the lessons are learned",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Take that money, Watch it burn"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Take that money, Watch it burn",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Sink in the river, The lessons are learned"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Sink in the river, The lessons are learned",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Am",
-      "lyrics": "Take that money, Watch it burn"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "Take that money, Watch it burn",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C",
-      "lyrics": "Sink in the river, The lessons are learned"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Sink in the river, The lessons are learned",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G",
-      "lyrics": "Take that money, Watch it burn"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Take that money, Watch it burn",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F",
-      "lyrics": "Sink in the river, The lessons are learned"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": "Sink in the river, The lessons are learned",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Counting Stars"

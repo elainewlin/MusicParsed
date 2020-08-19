@@ -13,226 +13,1154 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "E B     G#m",
-      "lyrics": "I found god"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "found ",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": "god",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       F#        B              E",
-      "lyrics": "On the corner of first and Amistad"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "On the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "corner of ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "first and Amist",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ad",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E     B   G#m      F#  B   E",
-      "lyrics": "Where the west was all but won"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "Where ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": "west was ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "all ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "but ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "won",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E   B  G#m F#         B    E",
-      "lyrics": "All alone smoking his last cigarette"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "All ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "alo",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": "ne s",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "moking his ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "last ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "cigarette",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       E     B   G#m           F#  B  E",
-      "lyrics": "I Said where you been, he said ask anything"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I Said ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "where ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "you ",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": "been, he said ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "ask ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "any",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "thing",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Pre-Chorus]"
     },
     {
-      "chord": "G#m    F#  E",
-      "lyrics": "Where were you?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G#m",
+          "lyric": "Where w",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "ere ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "you?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     F#         B           E",
-      "lyrics": "When everything was falling apart"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "When ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "everything ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "was falling ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "apart",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G#m F#  E        F#    B      E",
-      "lyrics": "All my days were spent by the telephone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G#m",
+          "lyric": "All ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "my d",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ays were ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "spent ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "by the ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "telephone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   F#  B E",
-      "lyrics": "It never rang"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "neve",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "r ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "rang",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    F#    B      E",
-      "lyrics": "And all I needed was a call"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "all I ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "needed ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "was a call",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     F# B  E",
-      "lyrics": "That never came"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "nev",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "er ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "came",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       G#m       F#        E      F#  B",
-      "lyrics": "To the corner of first and Amistad"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": "corner of ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "first and ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "Amistad",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "  "
+        },
+        {
+          "chord": "B",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "G#m      E",
-      "lyrics": "Lost and insecure"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G#m",
+          "lyric": "Lost and ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "insecure",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B             F#",
-      "lyrics": "You found me, you found me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "You found me, ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "you found me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G#m          E",
-      "lyrics": "Lying on the floor"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G#m",
+          "lyric": "Lying on the ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "floor",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B           F#",
-      "lyrics": "Surrounded, surrounded"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "Surrounded, ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "surrounded",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G#m               E",
-      "lyrics": "Why\u2019d you have to wait?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G#m",
+          "lyric": "Why’d you have to ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "wait?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B               F#",
-      "lyrics": "Where were you? Where were you?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "Where were you? ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "Where were you?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G#m           E",
-      "lyrics": "Just a little late"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G#m",
+          "lyric": "Just a little ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "late",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B             F#  B     E",
-      "lyrics": "You found me, you found me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "You found me, ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "you ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "found ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "G#m F# E   F#     B      E",
-      "lyrics": "In the end everyone ends up alone"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G#m",
+          "lyric": "In t",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "he ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "end ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "everyon",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "e ends ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "up alone",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G#m F# E    F#    B      E",
-      "lyrics": "Losing her, the only one who\u2019s ever known"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G#m",
+          "lyric": "Losi",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "ng ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "her, ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "the on",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "ly one ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "who’s ever known",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B   E G#m         F#                 E",
-      "lyrics": "Who I am, who I\u2019m not, who I want to be"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "Who ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G#m",
+          "lyric": "am, who I’m ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "not, who I want to ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "be",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "   B   F# E        F#            B          E",
-      "lyrics": "No way to know how long she will be next to me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "No ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "way ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "to ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "know how ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "long she will ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "be next to ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "G#m      E",
-      "lyrics": "Lost and insecure"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G#m",
+          "lyric": "Lost and ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "insecure",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B             F#",
-      "lyrics": "You found me, you found me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "You found me, ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "you found me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G#m          E",
-      "lyrics": "Lying on the floor"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G#m",
+          "lyric": "Lying on the ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "floor",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B           F#",
-      "lyrics": "Surrounded, surrounded"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "Surrounded, ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "surrounded",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G#m               E",
-      "lyrics": "Why\u2019d you have to wait?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G#m",
+          "lyric": "Why’d you have to ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "wait?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B               F#",
-      "lyrics": "Where were you? Where were you?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "Where were you? ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "Where were you?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G#m           E",
-      "lyrics": "Just a little late"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G#m",
+          "lyric": "Just a little ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "late",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B             F#  B     E",
-      "lyrics": "You found me, you found me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "You found me, ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "you ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "found ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "F#  B E        F# B E",
-      "lyrics": "Early morning, City breaks"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#",
+          "lyric": "Earl",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "y ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "morning, ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "Cit",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "y ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "breaks",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F#   B    E           F#   B    E         F#   B    E",
-      "lyrics": "I\u2019ve been calling for years and years and years and years"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F#",
+          "lyric": "I’ve ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "been ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "calling for ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "years",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": " and ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "years and ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "years",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": " and ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "years",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        F#    B    E",
-      "lyrics": "And you never left me no messages"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And you ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "never ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "left ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "me no messages",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          F#   B     E",
-      "lyrics": "You never send me no letters"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You never ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "send ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "me no ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "letters",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                     F#            B     E",
-      "lyrics": "You got some kind of nerve, taking all I want"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You got some kind of ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "nerve, taking ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "all I ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "want",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "G#m      E",
-      "lyrics": "Lost and insecure"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G#m",
+          "lyric": "Lost and ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "insecure",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B             F#",
-      "lyrics": "You found me, you found me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "You found me, ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "you found me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G#m          E",
-      "lyrics": "Lying on the floor"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G#m",
+          "lyric": "Lying on the ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "floor",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B              F#",
-      "lyrics": "Where were you where were you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "Where were you ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "where were you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G#m      E",
-      "lyrics": "Lost and insecure"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G#m",
+          "lyric": "Lost and ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "insecure",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B             F#",
-      "lyrics": "You found me, you found me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "You found me, ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "you found me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G#m          E",
-      "lyrics": "Lying on the floor"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G#m",
+          "lyric": "Lying on the ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "floor",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B           F#",
-      "lyrics": "Surrounded, surrounded"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "Surrounded, ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "surrounded",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G#m       E",
-      "lyrics": "Why\u2019d you have to wait?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G#m",
+          "lyric": "Why’d you ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "have to wait?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B               F#",
-      "lyrics": "Where were you? Where were you?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "Where were you? ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "Where were you?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G#m           E",
-      "lyrics": "Just a little late"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G#m",
+          "lyric": "Just a little ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "late",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B             F#  B     E",
-      "lyrics": "You found me, you found me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "You found me, ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "you ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "found ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "me",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "G#m       E",
-      "lyrics": "Why\u2019d you have to wait?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G#m",
+          "lyric": "Why’d you ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "have to wait?",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "B           F#     B    E",
-      "lyrics": "To find me, to find me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "B",
+          "lyric": "To find me, ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "to find",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": " me  ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "You Found Me"

@@ -13,100 +13,447 @@
   "id": "comet - steven_universe",
   "lines": [
     {
-      "chord": "C                  Am",
-      "lyrics": "Some say I have no direction,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Some say I have no ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "direction,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                       G",
-      "lyrics": "That I'm a light-speed distraction,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That I'm a light-speed ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "distraction,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "                       F",
-      "lyrics": "But that's a knee-jerk reaction."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But that's a knee-jerk ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "reaction.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "C                       Am",
-      "lyrics": "Still this is the final frontier"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Still this is the final ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "frontier",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              G",
-      "lyrics": "Everything is so clear"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Everything is ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "so clear",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              F        G",
-      "lyrics": "to my destiny I steer."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "to my destiny ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "I steer. ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "Am               G                      F      G",
-      "lyrics": "This life in the stars is all I've ever known."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Am",
+          "lyric": "This life in the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "stars is all I've ever ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "known. ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "          Am                    G                F",
-      "lyrics": "Stars and stardust and infinite space is my only home."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Stars and ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "stardust and infinite ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "space is my only ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "home.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        C                     G",
-      "lyrics": "But the moment that I hit the stage"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "moment that I hit the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "stage",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             F",
-      "lyrics": "Thousands of voices are calling my name."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Thousands of ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "voices are calling my name.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Am                         G                   F",
-      "lyrics": "And I know in my heart it's been worth it all of the while."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "know in my heart it's been ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "worth it all of the ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "while.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          C                  G",
-      "lyrics": "And as my albums fly off the shelves,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And as my ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "albums fly off the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "shelves,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            F",
-      "lyrics": "Handing out autographed pics of myself,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Handing out ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "autographed pics of myself,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            Am                   G                     F",
-      "lyrics": "This life I chose isn't easy but sure is one heck of a ride."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "This life I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "chose isn't easy but ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "sure is one heck of a ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ride.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       D                     A",
-      "lyrics": "At the moment that I hit the stage"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "At the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "moment that I hit the ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "stage",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           G",
-      "lyrics": "I hear the universe calling my name."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I hear the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "universe calling my name.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Bm                         A                 G",
-      "lyrics": "And I know deep down in my heart I have nothing to fear."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "know deep down in my heart ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "I have nothing to ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "fear.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           D                           A",
-      "lyrics": "And as the solar wind blows through my hair"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And as the ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "solar wind blows through my ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "hair",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          G",
-      "lyrics": "knowing I have so much more left to share,"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "knowing I ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "have so much more left to share,",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "  Bm                                 A                         G",
-      "lyrics": "a wandering spirit whose tearing its way through the cold atmosphere."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "a ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm",
+          "lyric": "wandering spirit whose tearing its ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "way through the cold atmos",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "phere.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             D",
-      "lyrics": "I fly like a comet."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I fly like a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "comet.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "            D",
-      "lyrics": "Soar like a comet."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Soar like a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "comet.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             D",
-      "lyrics": "Crash like a comet."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Crash like a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "comet.",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           D",
-      "lyrics": "I'm just a comet."
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm just a ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "comet.",
+          "overLyric": true
+        }
+      ]
     }
   ],
   "title": "Comet"

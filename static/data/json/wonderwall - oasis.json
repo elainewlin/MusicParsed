@@ -1,6 +1,6 @@
 {
   "allChords": [
-    "F\u266fm",
+    "F♯m",
     "A",
     "E",
     "B7sus4",
@@ -14,194 +14,1051 @@
       "label": "[Verse 1]"
     },
     {
-      "chord": "F\u266fm       A",
-      "lyrics": "Today is gonna be the day"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F♯m",
+          "lyric": "Today is g",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "onna be the day",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "              E                  B7sus4",
-      "lyrics": "That they're gonna throw it back to you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That they're g",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "onna throw it back ",
+          "overLyric": true
+        },
+        {
+          "chord": "B7sus4",
+          "lyric": "to you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F\u266fm          A",
-      "lyrics": "By now you should've somehow"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F♯m",
+          "lyric": "By now you sh",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ould've somehow",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    E                B7sus4",
-      "lyrics": "Realised what you gotta do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Real",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ised what you got",
+          "overLyric": true
+        },
+        {
+          "chord": "B7sus4",
+          "lyric": "ta do",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F\u266fm                   A",
-      "lyrics": "I don't believe that anybody"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F♯m",
+          "lyric": "I don't believe that a",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "nybody",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " E           B7sus4            D  E  B7sus4",
-      "lyrics": "Feels the way I do about you now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "F",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "eels the way",
+          "overLyric": true
+        },
+        {
+          "chord": "B7sus4",
+          "lyric": " I do about you no",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "w  ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "  "
+        },
+        {
+          "chord": "B7sus4",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 2]"
     },
     {
-      "chord": "F\u266fm           A",
-      "lyrics": "Backbeat the word is on the street"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F♯m",
+          "lyric": "Backbeat the w",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ord is on the street",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          E                 B7sus4",
-      "lyrics": "That the fire in your heart is out"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "That the f",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ire in your heart ",
+          "overLyric": true
+        },
+        {
+          "chord": "B7sus4",
+          "lyric": "is out",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F\u266fm              A",
-      "lyrics": "I'm sure you've heard it all before"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F♯m",
+          "lyric": "I'm sure you've h",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "eard it all before",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "          E             B7sus4",
-      "lyrics": "But you never really had a doubt"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But you ne",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ver really had",
+          "overLyric": true
+        },
+        {
+          "chord": "B7sus4",
+          "lyric": " a doubt",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F\u266fm                   A       E",
-      "lyrics": "I don't believe that anybody feels"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F♯m",
+          "lyric": "I don't believe that a",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "nybody f",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "eels",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           B7sus4            F\u266fm  A  E  B7sus4",
-      "lyrics": "The way I do about you now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "The way I d",
+          "overLyric": true
+        },
+        {
+          "chord": "B7sus4",
+          "lyric": "o about you now   ",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "  "
+        },
+        {
+          "chord": "A",
+          "lyric": "  "
+        },
+        {
+          "chord": "E",
+          "lyric": "  "
+        },
+        {
+          "chord": "B7sus4",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "     D                E            F\u266fm",
-      "lyrics": "And all the roads we have to walk are winding"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And a",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ll the roads we h",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ave to walk a",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "re winding",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     D                E                F\u266fm",
-      "lyrics": "And all the lights that lead us there are blinding"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And a",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ll the lights tha",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "t lead us there a",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "re blinding",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " D              E               A     E/G  F\u266fm",
-      "lyrics": "There are many things that I would like to say to you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "T",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "here are many t",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "hings that I wou",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ld lik",
+          "overLyric": true
+        },
+        {
+          "chord": "E/G",
+          "lyric": "e to ",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "say to you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       A      B7sus4",
-      "lyrics": "But I don't know how"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But I d",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "on't kn",
+          "overLyric": true
+        },
+        {
+          "chord": "B7sus4",
+          "lyric": "ow how",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "         D    F\u266fm  A",
-      "lyrics": "Because maybe"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Because m",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "aybe ",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "  "
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "        F\u266fm                   D        F\u266fm  A",
-      "lyrics": "You're gonna be the one that saves me?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're g",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "onna be the one that s",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "aves me? ",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "  "
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "     F\u266fm   D  F\u266fm  A",
-      "lyrics": "And after all"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And a",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "fter a",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ll ",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "  "
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "           F\u266fm    D  F\u266fm  A  F\u266fm      A",
-      "lyrics": "You're my wonderwall"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're my w",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "onderwa",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ll ",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "  "
+        },
+        {
+          "chord": "A",
+          "lyric": "  "
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "      "
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Verse 3]"
     },
     {
-      "chord": "F\u266fm        A",
-      "lyrics": "Today was gonna be the day"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F♯m",
+          "lyric": "Today was g",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "onna be the day",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "             E                  B7sus4",
-      "lyrics": "But they'll never throw it back to you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But they'll n",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ever throw it back ",
+          "overLyric": true
+        },
+        {
+          "chord": "B7sus4",
+          "lyric": "to you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F\u266fm         A",
-      "lyrics": "By now you should've somehow"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F♯m",
+          "lyric": "By now you s",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "hould've somehow",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    E                    B7sus4",
-      "lyrics": "Realised what you're not to do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Real",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ised what you're not ",
+          "overLyric": true
+        },
+        {
+          "chord": "B7sus4",
+          "lyric": "to do",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "F\u266fm                   A",
-      "lyrics": "I don't believe that anybody"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F♯m",
+          "lyric": "I don't believe that a",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "nybody",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "E            B7sus4",
-      "lyrics": "Feels the way I do"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "E",
+          "lyric": "Feels the way",
+          "overLyric": true
+        },
+        {
+          "chord": "B7sus4",
+          "lyric": " I do",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "           F\u266fm  A  E  B7sus4",
-      "lyrics": "About you now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "About you n",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "ow   ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "  "
+        },
+        {
+          "chord": "E",
+          "lyric": "  "
+        },
+        {
+          "chord": "B7sus4",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "     D                  E              F\u266fm",
-      "lyrics": "And all the roads that lead you there are winding"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And a",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ll the roads that l",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ead you there a",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "re winding",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "     D                   E             F\u266fm",
-      "lyrics": "And all the lights that light the way are blinding"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And a",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ll the lights that l",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "ight the way a",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "re blinding",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " D              E               A     E/G  F\u266fm",
-      "lyrics": "There are many things that I would like to say to you"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "T",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "here are many t",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "hings that I wou",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "ld lik",
+          "overLyric": true
+        },
+        {
+          "chord": "E/G",
+          "lyric": "e to ",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "say to you",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "       A      B7sus4",
-      "lyrics": "But I don't know how"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "But I d",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "on't kn",
+          "overLyric": true
+        },
+        {
+          "chord": "B7sus4",
+          "lyric": "ow how",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": "        D    F\u266fm  A",
-      "lyrics": "I said maybe"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I said m",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "aybe ",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "  "
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "        F\u266fm                  D        F\u266fm  A",
-      "lyrics": "You're gonna be the one who saves me?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're g",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "onna be the one who s",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "aves me? ",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "  "
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "     F\u266fm   D  F\u266fm  A",
-      "lyrics": "And after all"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And a",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "fter a",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ll ",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "  "
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "           F\u266fm   D   F\u266fm  A  F\u266fm",
-      "lyrics": "You're my wonderwall"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're my w",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "onderw",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "all ",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "  "
+        },
+        {
+          "chord": "A",
+          "lyric": "  "
+        },
+        {
+          "chord": "F♯m",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "        D             F\u266fm   A",
-      "lyrics": "I said maybe (I said maybe)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I said m",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "aybe (I said m",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "aybe) ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "        F\u266fm                  D        F\u266fm  A",
-      "lyrics": "You're gonna be the that who saves me?"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're g",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "onna be the that who ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "saves me?",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "  "
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "     F\u266fm   D  F\u266fm  A",
-      "lyrics": "And after all"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And a",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "fter a",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ll ",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "  "
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "           F\u266fm   D   F\u266fm  A  F\u266fm",
-      "lyrics": "You're my wonderwall"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're my w",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "onderw",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "all ",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "  "
+        },
+        {
+          "chord": "A",
+          "lyric": "  "
+        },
+        {
+          "chord": "F♯m",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "        D             F\u266fm   A",
-      "lyrics": "I said maybe (I said maybe)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I said m",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "aybe (I said m",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "aybe) ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "        F\u266fm                   D               F\u266fm      A",
-      "lyrics": "You're gonna be the one that saves me? (that saves me)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're g",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "onna be the one that s",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "aves me? (that s",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "aves me) ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "        F\u266fm                   D               F\u266fm      A",
-      "lyrics": "You're gonna be the one that saves me? (that saves me)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're g",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "onna be the one that s",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "aves me? (that s",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "aves me) ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "        F\u266fm                   D               F\u266fm      A  F\u266fm",
-      "lyrics": "You're gonna be the one that saves me? (that saves me)"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "You're g",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "onna be the one that s",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "aves me? (that s",
+          "overLyric": true
+        },
+        {
+          "chord": "F♯m",
+          "lyric": "aves me) ",
+          "overLyric": true
+        },
+        {
+          "chord": "A",
+          "lyric": "  "
+        },
+        {
+          "chord": "F♯m",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "Wonderwall"

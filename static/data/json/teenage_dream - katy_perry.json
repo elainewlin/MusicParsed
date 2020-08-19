@@ -12,243 +12,1244 @@
       "label": "[Verse]"
     },
     {
-      "chord": "Ebmaj7                      F",
-      "lyrics": " You think I'm pretty, without any make-up on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ebmaj7",
+          "lyric": " You think I'm pretty, witho",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "ut any make-up on",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ebmaj7                      F",
-      "lyrics": " You think I'm funny, when I tell the punch line wrong"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ebmaj7",
+          "lyric": " You think I'm funny, when I",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " tell the punch line wrong",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ebmaj7                  F",
-      "lyrics": " I know you get me, so I'll let my walls come"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ebmaj7",
+          "lyric": " I know you get me, so I",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "'ll let my walls come",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " Ebmaj7  F",
-      "lyrics": " Down, down"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": "Down, do",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "wn",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ebmaj7          Gm  F",
-      "lyrics": " Before you met I  was a wreck, but"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ebmaj7",
+          "lyric": " Before you met ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "I  w",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "as a wreck, but",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ebmaj7                     Gm  F",
-      "lyrics": " Things were kinda heavy, you  brought me to life, now"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ebmaj7",
+          "lyric": " Things were kinda heavy, y",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ou  ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "brought me to life, now",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " Ebmaj7           Gm    F",
-      "lyrics": " Every February, you'll be my"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": "Every February, y",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ou'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "be my",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "    Ebmaj7       Gm   F",
-      "lyrics": " Valentine, valentine"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " Val",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": "entine, valen",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "tine ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "          Ebmaj7    Gm  F",
-      "lyrics": " Let's go all, the way tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " Let's go ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": "all, the w",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ay t",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "onight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Ebmaj7       Gm   F",
-      "lyrics": " No regrets, just love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " No re",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": "grets, just l",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ove  ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "        Ebmaj7    Gm    F",
-      "lyrics": " We can dance, until we die"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " We can ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": "dance, unt",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "il we ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "die",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Ebmaj7        Gm   F",
-      "lyrics": " You and I, we'll be young forever"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " You and",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": " I, we'll be y",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "oung ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "forever",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": " Ebmaj7      Gm F",
-      "lyrics": " You make me    feel like I'm living a"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": "You make me ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": "feel like I'm living a",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " Ebmaj7      Gm  F",
-      "lyrics": " Teenage Dream,  the way you turn me on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": "Teenage Drea",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "m,  ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "the way you turn me on",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " Ebmaj7       Gm F",
-      "lyrics": " I can't sleep     Let's runaway"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": "I can't sleep",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " Let's runaway"
+        }
+      ]
     },
     {
-      "chord": "Ebmaj7          Gm      F",
-      "lyrics": " And don't ever look back, don't ever look back"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ebmaj7",
+          "lyric": " And don't ever ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "look bac",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "k, don't ever look back",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " Ebmaj7       Gm  F",
-      "lyrics": " My heart stops,    when you look at me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": "My heart stop",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "s,  ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " when you look at me"
+        }
+      ]
     },
     {
-      "chord": " Ebmaj7       Gm  F",
-      "lyrics": " Just one touch,    now baby I believe"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": "Just one touc",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "h,  ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " now baby I believe"
+        }
+      ]
     },
     {
-      "chord": " Ebmaj7       Gm  F",
-      "lyrics": " This is real,      so take a chance"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": "This is real,",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": " so take a chance"
+        }
+      ]
     },
     {
-      "chord": "           Ebmaj7                 Gm  F",
-      "lyrics": " And don't ever look back, don't ever look back"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " And don't ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": "ever look back, don't e",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ver ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "look back",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "Ebmaj7              Gm     F",
-      "lyrics": " We drove to Cali, and got drunk on the beach"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ebmaj7",
+          "lyric": " We drove to Cali, a",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "nd got ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "drunk on the beach",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ebmaj7             Gm     F",
-      "lyrics": " Got a motel and, built a floor out of sheets"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ebmaj7",
+          "lyric": " Got a motel and, b",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "uilt a ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "floor out of sheets",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "Ebmaj7                Gm         F",
-      "lyrics": " I finally found you, my missing puzzle"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ebmaj7",
+          "lyric": " I finally found you, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "my missing ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "puzzle",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " Ebmaj7      Gm      F",
-      "lyrics": " Piece, I'm complete"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": "Piece, I'm c",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "omplete ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Bridge]"
     },
     {
-      "chord": "          Ebmaj7    Gm  F",
-      "lyrics": " Let's go all, the way tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " Let's go ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": "all, the w",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ay t",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "onight",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "      Ebmaj7       Gm   F",
-      "lyrics": " No regrets, just love"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " No re",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": "grets, just l",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ove  ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "        Ebmaj7    Gm    F",
-      "lyrics": " We can dance, until we die"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " We can ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": "dance, unt",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "il we ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "die",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Ebmaj7        Gm   F",
-      "lyrics": " You and I, we'll be young forever"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " You and",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": " I, we'll be y",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "oung ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "forever",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": " Ebmaj7      Gm F",
-      "lyrics": " You make me    feel like I'm living a"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": "You make me ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": "feel like I'm living a",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " Ebmaj7      Gm  F",
-      "lyrics": " Teenage Dream,  the way you turn me on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": "Teenage Drea",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "m,  ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "the way you turn me on",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " Ebmaj7       Gm F",
-      "lyrics": " I can't sleep     Let's runaway"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": "I can't sleep",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " Let's runaway"
+        }
+      ]
     },
     {
-      "chord": "Ebmaj7          Gm      F",
-      "lyrics": " And don't ever look back, don't ever look back"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ebmaj7",
+          "lyric": " And don't ever ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "look bac",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "k, don't ever look back",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " Ebmaj7       Gm  F",
-      "lyrics": " My heart stops,    when you look at me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": "My heart stop",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "s,  ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " when you look at me"
+        }
+      ]
     },
     {
-      "chord": " Ebmaj7       Gm  F",
-      "lyrics": " Just one touch,    now baby I believe"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": "Just one touc",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "h,  ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " now baby I believe"
+        }
+      ]
     },
     {
-      "chord": " Ebmaj7       Gm  F",
-      "lyrics": " This is real,      so take a chance"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": "This is real,",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": " so take a chance"
+        }
+      ]
     },
     {
-      "chord": "           Ebmaj7                 Gm  F",
-      "lyrics": " And don't ever look back, don't ever look back"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " And don't ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": "ever look back, don't e",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ver ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "look back",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "                 Ebmaj7            Gm     F",
-      "lyrics": "I might get your heart racing, in my skin-tight jeans"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I might get your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": "heart racing, in m",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "y skin-",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "tight jeans",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Ebmaj7           Gm  F",
-      "lyrics": "Be your teenage dream tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Be your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": "teenage dream ton",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ight",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                 Ebmaj7           Gm     F",
-      "lyrics": "Let you put your hands on me, in my skin-tight jeans"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Let you put your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": "hands on me, in m",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "y skin-",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "tight jeans",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Ebmaj7           Gm  F",
-      "lyrics": "Be your teenage dream tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Be your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": "teenage dream ton",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ight",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Instrumental x2]"
     },
     {
-      "chord": "Ebmaj7   Gm F",
-      "lyrics": ""
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Ebmaj7",
+          "lyric": "   "
+        },
+        {
+          "chord": "Gm",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
       "label": "[Chorus]"
     },
     {
-      "chord": " Ebmaj7      Gm F",
-      "lyrics": " You make me    feel like I'm living a"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": "You make me ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": "feel like I'm living a",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " Ebmaj7      Gm  F",
-      "lyrics": " Teenage Dream,  the way you turn me on"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": "Teenage Drea",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "m,  ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "the way you turn me on",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " Ebmaj7       Gm F",
-      "lyrics": " I can't sleep     Let's runaway"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": "I can't sleep",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": " Let's runaway"
+        }
+      ]
     },
     {
-      "chord": "Ebmaj7          Gm      F",
-      "lyrics": " And don't ever look back, don't ever look back"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Ebmaj7",
+          "lyric": " And don't ever ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "look bac",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "k, don't ever look back",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": " Ebmaj7       Gm  F",
-      "lyrics": " My heart stops,    when you look at me"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": "My heart stop",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "s,  ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " when you look at me"
+        }
+      ]
     },
     {
-      "chord": " Ebmaj7       Gm  F",
-      "lyrics": " Just one touch,    now baby I believe"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": "Just one touc",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "h,  ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": " now baby I believe"
+        }
+      ]
     },
     {
-      "chord": " Ebmaj7       Gm  F",
-      "lyrics": " This is real,      so take a chance"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": "This is real,",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "  "
+        },
+        {
+          "chord": "F",
+          "lyric": " so take a chance"
+        }
+      ]
     },
     {
-      "chord": "           Ebmaj7                 Gm  F",
-      "lyrics": " And don't ever look back, don't ever look back"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": " And don't ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": "ever look back, don't e",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ver ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "look back",
+          "overLyric": true
+        }
+      ]
     },
     {
       "label": "[Verse]"
     },
     {
-      "chord": "                 Ebmaj7            Gm     F",
-      "lyrics": "I might get your heart racing, in my skin-tight jeans"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I might get your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": "heart racing, in m",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "y skin-",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "tight jeans",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Ebmaj7           Gm  F",
-      "lyrics": "Be your teenage dream tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Be your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": "teenage dream ton",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ight",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     },
     {
-      "chord": "                 Ebmaj7           Gm     F",
-      "lyrics": "Let you put your hands on me, in my skin-tight jeans"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Let you put your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": "hands on me, in m",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "y skin-",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "tight jeans",
+          "overLyric": true
+        }
+      ]
     },
     {
-      "chord": "        Ebmaj7           Gm  F",
-      "lyrics": "Be your teenage dream tonight"
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Be your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Ebmaj7",
+          "lyric": "teenage dream ton",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm",
+          "lyric": "ight",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
     }
   ],
   "title": "Teenage Dream"
