@@ -3,8 +3,7 @@
     "B",
     "F#",
     "E",
-    "G#m",
-    "F#m"
+    "G#m"
   ],
   "artist": "Coldplay",
   "fullName": "Yellow - Coldplay",
@@ -65,7 +64,7 @@
       "chordLyricPairs": [
         {
           "chord": "B",
-          "lyric": "Look at the stars",
+          "lyric": " Look at the stars",
           "overLyric": true
         }
       ]
@@ -75,12 +74,12 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "Look how they shine for",
+          "lyric": "Look how they shine for ",
           "overLyric": true
         },
         {
           "chord": "F#",
-          "lyric": " you",
+          "lyric": "you",
           "overLyric": true
         }
       ]
@@ -90,12 +89,13 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "And everything you do, ",
+          "lyric": "And everything you ",
           "overLyric": true
         },
         {
           "chord": "E",
-          "lyric": ""
+          "lyric": "do,",
+          "overLyric": true
         }
       ]
     },
@@ -124,12 +124,12 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "I wrote a song for",
+          "lyric": "I wrote a song for ",
           "overLyric": true
         },
         {
           "chord": "F#",
-          "lyric": " you",
+          "lyric": "you",
           "overLyric": true
         }
       ]
@@ -139,12 +139,13 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "And all the things you do,",
+          "lyric": "And all the things you ",
           "overLyric": true
         },
         {
           "chord": "E",
-          "lyric": ""
+          "lyric": "do,",
+          "overLyric": true
         }
       ]
     },
@@ -163,12 +164,11 @@
       "chordLyricPairs": [
         {
           "chord": "B",
-          "lyric": "So then I took my",
-          "overLyric": true
+          "lyric": "  So then I took my "
         },
         {
           "chord": "F#",
-          "lyric": " turn,",
+          "lyric": "turn,",
           "overLyric": true
         }
       ]
@@ -178,12 +178,12 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "Oh what a thing to have done",
+          "lyric": "Oh what a thing to have ",
           "overLyric": true
         },
         {
           "chord": "E",
-          "lyric": ",",
+          "lyric": "done,",
           "overLyric": true
         }
       ]
@@ -195,6 +195,10 @@
           "chord": null,
           "lyric": "And it was all yellow. ",
           "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": " "
         },
         {
           "chord": "B",
@@ -210,7 +214,7 @@
       "chordLyricPairs": [
         {
           "chord": "E",
-          "lyric": "Your skin,",
+          "lyric": " Your skin,",
           "overLyric": true
         }
       ]
@@ -220,12 +224,12 @@
       "chordLyricPairs": [
         {
           "chord": "G#m",
-          "lyric": "Oh yeah, y",
+          "lyric": "Oh yeah, your ",
           "overLyric": true
         },
         {
           "chord": "F#",
-          "lyric": "our skin and bones",
+          "lyric": "skin and bones",
           "overLyric": true
         }
       ]
@@ -235,17 +239,17 @@
       "chordLyricPairs": [
         {
           "chord": "E",
-          "lyric": "Turn ",
+          "lyric": "Turn in",
           "overLyric": true
         },
         {
           "chord": "G#m",
-          "lyric": "into someth",
+          "lyric": "to something ",
           "overLyric": true
         },
         {
           "chord": "F#",
-          "lyric": "ing beautiful,",
+          "lyric": "beautiful,",
           "overLyric": true
         }
       ]
@@ -260,12 +264,12 @@
         },
         {
           "chord": "G#m",
-          "lyric": " you know I",
+          "lyric": " you know I ",
           "overLyric": true
         },
         {
           "chord": "F#",
-          "lyric": " love you so,",
+          "lyric": "love you so,",
           "overLyric": true
         }
       ]
@@ -275,8 +279,7 @@
       "chordLyricPairs": [
         {
           "chord": "E",
-          "lyric": "You know I love you so.",
-          "overLyric": true
+          "lyric": "  You know I love you so."
         }
       ]
     },
@@ -288,7 +291,7 @@
       "chordLyricPairs": [
         {
           "chord": "B",
-          "lyric": "I swam across,",
+          "lyric": " I swam across,",
           "overLyric": true
         }
       ]
@@ -298,12 +301,12 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "I jumped across for",
+          "lyric": "I jumped across for ",
           "overLyric": true
         },
         {
           "chord": "F#",
-          "lyric": " you,",
+          "lyric": "you,",
           "overLyric": true
         }
       ]
@@ -313,12 +316,13 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "Oh, what a thing to do",
+          "lyric": "Oh, what a thing to ",
           "overLyric": true
         },
         {
           "chord": "E",
-          "lyric": ""
+          "lyric": "do",
+          "overLyric": true
         }
       ]
     },
@@ -337,26 +341,7 @@
       "chordLyricPairs": [
         {
           "chord": "B",
-          "lyric": "I drew a line,   ",
-          "overLyric": true
-        },
-        {
-          "chord": "F#",
-          "lyric": ""
-        }
-      ]
-    },
-    {
-      "className": "chordLyricLine",
-      "chordLyricPairs": [
-        {
-          "chord": null,
-          "lyric": "I drew a line fo",
-          "overLyric": true
-        },
-        {
-          "chord": "F#",
-          "lyric": "r you,",
+          "lyric": "I drew a line,",
           "overLyric": true
         }
       ]
@@ -366,12 +351,28 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "Oh, what a thing to do",
+          "lyric": "I drew a line for ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#",
+          "lyric": "you,",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh, what a thing to ",
           "overLyric": true
         },
         {
           "chord": "E",
-          "lyric": ""
+          "lyric": "do",
+          "overLyric": true
         }
       ]
     },
@@ -380,8 +381,12 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "And it was all yellow.",
+          "lyric": "And it was all yellow. ",
           "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": " "
         },
         {
           "chord": "B",
@@ -397,7 +402,7 @@
       "chordLyricPairs": [
         {
           "chord": "E",
-          "lyric": "Your skin,",
+          "lyric": " Your skin,",
           "overLyric": true
         }
       ]
@@ -407,12 +412,12 @@
       "chordLyricPairs": [
         {
           "chord": "G#m",
-          "lyric": "Oh yeah, y",
+          "lyric": "Oh yeah, your ",
           "overLyric": true
         },
         {
           "chord": "F#",
-          "lyric": "our skin and bones",
+          "lyric": "skin and bones",
           "overLyric": true
         }
       ]
@@ -422,17 +427,17 @@
       "chordLyricPairs": [
         {
           "chord": "E",
-          "lyric": "Turn ",
+          "lyric": "Turn in",
           "overLyric": true
         },
         {
           "chord": "G#m",
-          "lyric": "into someth",
+          "lyric": "to something ",
           "overLyric": true
         },
         {
           "chord": "F#",
-          "lyric": "ing beautiful,",
+          "lyric": "beautiful,",
           "overLyric": true
         }
       ]
@@ -442,7 +447,7 @@
       "chordLyricPairs": [
         {
           "chord": "E",
-          "lyric": "And you know,",
+          "lyric": " And you know,",
           "overLyric": true
         }
       ]
@@ -452,17 +457,17 @@
       "chordLyricPairs": [
         {
           "chord": "G#m",
-          "lyric": "For you I b",
+          "lyric": "For you I ",
           "overLyric": true
         },
         {
           "chord": "F#",
-          "lyric": "leed myself dr",
+          "lyric": "bleed myself d",
           "overLyric": true
         },
         {
           "chord": "E",
-          "lyric": "y,",
+          "lyric": "ry,",
           "overLyric": true
         }
       ]
@@ -485,15 +490,15 @@
       "chordLyricPairs": [
         {
           "chord": "B",
-          "lyric": "   "
+          "lyric": " "
         },
         {
           "chord": "F#",
-          "lyric": "   "
+          "lyric": " "
         },
         {
           "chord": "E",
-          "lyric": "   "
+          "lyric": " "
         },
         {
           "chord": "B",
@@ -509,7 +514,12 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "It's true, look how they shine for ",
+          "lyric": "It's ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "true, look how they shine for ",
           "overLyric": true
         },
         {
@@ -535,11 +545,16 @@
       ]
     },
     {
-      "className": "line",
+      "className": "chordLyricLine",
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "Look how they shine for,",
+          "lyric": "Look how they shine for ",
+          "overLyric": true
+        },
+        {
+          "chord": "B",
+          "lyric": "you.",
           "overLyric": true
         }
       ]
@@ -599,12 +614,12 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "Look how they shine for",
+          "lyric": "Look how they shine for ",
           "overLyric": true
         },
         {
-          "chord": "F#m",
-          "lyric": " you",
+          "chord": "F#",
+          "lyric": "you",
           "overLyric": true
         }
       ]
@@ -614,12 +629,12 @@
       "chordLyricPairs": [
         {
           "chord": null,
-          "lyric": "And all the things you",
+          "lyric": "And all the things you ",
           "overLyric": true
         },
         {
           "chord": "E",
-          "lyric": " do.",
+          "lyric": "do.",
           "overLyric": true
         }
       ]
