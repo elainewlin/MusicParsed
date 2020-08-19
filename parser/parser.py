@@ -14,9 +14,7 @@ TEXT_FOLDER = os.path.join(DATA_DIRECTORY, "text")
 JSON_FOLDER = os.path.join(DATA_DIRECTORY, JSON)
 TAG_FOLDER = os.path.join(DATA_DIRECTORY, "tags")
 ALL_SONGS = "ALL_SONGS.json"
-ALL_SONGS_DATA = "ALL_SONGS_DATA.json"
 ALL_SONGS_PATH = os.path.join(DATA_DIRECTORY, ALL_SONGS)
-ALL_SONG_DATA_PATH = os.path.join(DATA_DIRECTORY, ALL_SONGS_DATA)
 
 
 def findBetween(s, first, last):
@@ -174,7 +172,6 @@ class TextParser:
         data["id"] = "{0} - {1}".format(title, artist)
         fileName = dataToName(title, artist, JSON)
         print(fileName)
-
         jsonFile = os.path.join(JSON_FOLDER, fileName)
         with open(jsonFile, "w") as outfile:
             json.dump(data, outfile, indent=2, sort_keys=True)
@@ -252,7 +249,6 @@ class TextParser:
         """
         Updates ALL_SONGS.json with data from all songs
         """
-        allSongData = []
         allSongs = []
         songsToTags = self.parseSongTags()
 
@@ -264,7 +260,6 @@ class TextParser:
             tags = songsToTags.get(songID, [])
             with open(os.path.join(JSON_FOLDER, fileName)) as dataFile:
                 data = json.load(dataFile)
-                allSongData.append(data)
                 # Song title, called label for jQuery autocomplete
                 newSong["label"] = data["fullName"]
                 newSong["artist"] = data["artist"]
@@ -283,9 +278,6 @@ class TextParser:
             allSongs.append(newSong)
         with open(ALL_SONGS_PATH, "w") as outfile:
             json.dump(allSongs, outfile, indent=2, sort_keys=True)
-
-        with open(ALL_SONG_DATA_PATH, "w") as outfile:
-            json.dump(allSongData, outfile, indent=2, sort_keys=True)
 
 
 class ImovieParser:
