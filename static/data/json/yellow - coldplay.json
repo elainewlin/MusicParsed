@@ -3,6 +3,7 @@
     "B",
     "F#",
     "E",
+    "Bsus4",
     "G#m",
     "F#m7"
   ],
@@ -202,7 +203,11 @@
           "lyric": " "
         },
         {
-          "chord": "B",
+          "chord": "[Bsus4",
+          "lyric": " "
+        },
+        {
+          "chord": "B]",
           "lyric": ""
         }
       ]
@@ -390,7 +395,11 @@
           "lyric": " "
         },
         {
-          "chord": "B",
+          "chord": "[Bsus4",
+          "lyric": " "
+        },
+        {
+          "chord": "B]",
           "lyric": ""
         }
       ]
@@ -458,7 +467,7 @@
       "chordLyricPairs": [
         {
           "chord": "G#m",
-          "lyric": "For you I ",
+          "lyric": " For you I ",
           "overLyric": true
         },
         {
@@ -474,11 +483,11 @@
       ]
     },
     {
-      "className": "line",
+      "className": "chordLyricLine",
       "chordLyricPairs": [
         {
-          "chord": null,
-          "lyric": "For you I bleed myself dry.",
+          "chord": "G#m/",
+          "lyric": " For you I bleed myself dry.",
           "overLyric": true
         }
       ]
@@ -494,6 +503,14 @@
           "lyric": " "
         },
         {
+          "chord": "[Bsus4",
+          "lyric": " "
+        },
+        {
+          "chord": "B]",
+          "lyric": " "
+        },
+        {
           "chord": "F#",
           "lyric": " "
         },
@@ -503,6 +520,14 @@
         },
         {
           "chord": "B",
+          "lyric": " "
+        },
+        {
+          "chord": "[Bsus4",
+          "lyric": " "
+        },
+        {
+          "chord": "B]",
           "lyric": ""
         }
       ]
