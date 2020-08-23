@@ -115,14 +115,12 @@ app.post("/api/login", loginLimiter, async (req, res) => {
     return res.sendStatus(404);
   }
   const hash = user.passwordHash;
-  bcrypt.compare(passwordInput, hash)
-    .then((isValid: Boolean) => {
-      if (isValid) {
-        return res.send("Authorized!")
-      } else {
-        return res.sendStatus(404);
-      }
-    })
+  const isValid = await bcrypt.compare(passwordInput, hash);
+  if (isValid) {
+    return res.send("Authorized!")
+  } else {
+    return res.sendStatus(404);
+  }
 });
 
 app.use("/static", express.static(path.resolve(__dirname, "../static")));
