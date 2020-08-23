@@ -7,6 +7,7 @@ import fs from "fs";
 import { MongoClient } from "mongodb";
 import nunjucks from "nunjucks";
 import path from "path";
+import bodyParser from "body-parser";
 
 dotenv.config();
 const host = process.env.PORT ? undefined : "127.0.0.1";
@@ -27,6 +28,8 @@ const dbPromise = (async () => {
 })();
 
 const app = express();
+app.use(bodyParser.json());
+app.use(bodyParser.urlencoded({ extended: true }));
 
 // Compatibility with Jinja2 templates
 const env = nunjucks.configure(path.resolve(__dirname, "../templates"), {
@@ -71,6 +74,28 @@ app.get("/api/allSongs", async (req, res) => {
   );
 });
 
+app.post("/api/song", async (req, res) => {
+  const db = await dbPromise;
+  const query = {
+    title: req.body.title,
+    artist: req.body.artist,
+    id: req.body.id,
+  };
+  await db
+    .collection("songs")
+    .updateOne(query, { $set: req.body }, { upsert: true });
+  res.json(req.body);
+});
+
+app.delete("/api/song/:id", async (req, res) => {
+  const db = await dbPromise;
+  const query = {
+    id: req.params.id,
+  };
+  await db.collection("songs").deleteOne(query);
+  res.json("Deleted!");
+});
+
 app.use("/static", express.static(path.resolve(__dirname, "../static")));
 
 app.get(["/", "/all"], (req, res) => res.render("all_songs"));
@@ -96,6 +121,8 @@ app.get("/song/:artist/:title", (req, res) =>
     transpose: req.query.transpose | 0,
   })
 );
+
+app.get("/edit", (req, res) => res.render("edit_songs"));
 
 const callback = (): void => {
   console.log(`Listening on port ${port}`);

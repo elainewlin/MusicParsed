@@ -12,6 +12,8 @@ const config: webpack.Configuration = {
     index: "./web/index.ts",
     renderChords: "./web/renderChords.ts",
     showAllSongs: "./web/showAllSongs.ts",
+    editSongs: "./web/editSongs.ts",
+    parser: "./lib/parser.ts",
     global: "./web/global.ts",
   },
   output: {

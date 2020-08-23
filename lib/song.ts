@@ -19,6 +19,14 @@ export type RenderedLine =
     }
   | ChordLyricLine;
 
+// Input to parser parseLines
+export interface SongInput {
+  title: string;
+  artist: string;
+  songText: string;
+}
+
+// Output of parser parseLines
 export interface SongData {
   id?: string;
   fullName: string;
