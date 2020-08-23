@@ -9,6 +9,7 @@ import nunjucks from "nunjucks";
 import path from "path";
 import bodyParser from "body-parser";
 import bcrypt from "bcrypt";
+import rateLimit from "express-rate-limit";
 
 dotenv.config();
 const host = process.env.PORT ? undefined : "127.0.0.1";
@@ -97,7 +98,12 @@ app.delete("/api/song/:id", async (req, res) => {
   res.json("Deleted!");
 });
 
-app.post("/api/login", async (req, res) => {
+const loginLimiter = rateLimit({
+  windowMs: 15 * 60 * 1000, // 15 minutes
+  max: 10,
+});
+
+app.post("/api/login", loginLimiter, async (req, res) => {
   const db = await dbPromise;
   const {
     username,
