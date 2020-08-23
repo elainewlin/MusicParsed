@@ -8,6 +8,7 @@ import { MongoClient } from "mongodb";
 import nunjucks from "nunjucks";
 import path from "path";
 import bodyParser from "body-parser";
+import bcrypt from "bcrypt";
 
 dotenv.config();
 const host = process.env.PORT ? undefined : "127.0.0.1";
@@ -64,7 +65,7 @@ app.use((req, res, next) => {
 });
 
 // Routes
-app.get("/api/allSongs", async (req, res) => {
+app.get("/api/song", async (req, res) => {
   const db = await dbPromise;
   res.json(
     await db
@@ -96,6 +97,28 @@ app.delete("/api/song/:id", async (req, res) => {
   res.json("Deleted!");
 });
 
+app.post("/api/login", async (req, res) => {
+  const db = await dbPromise;
+  const {
+    username,
+    password: passwordInput
+  } = req.body;
+
+  const user = await db.collection("users").findOne({ username });
+  if (!user) {
+    return res.sendStatus(404);
+  }
+  const hash = user.passwordHash;
+  bcrypt.compare(passwordInput, hash)
+    .then((isValid: Boolean) => {
+      if (isValid) {
+        return res.send("Authorized!")
+      } else {
+        return res.sendStatus(404);
+      }
+    })
+});
+
 app.use("/static", express.static(path.resolve(__dirname, "../static")));
 
 app.get(["/", "/all"], (req, res) => res.render("all_songs"));
@@ -123,6 +146,8 @@ app.get("/song/:artist/:title", (req, res) =>
 );
 
 app.get("/edit", (req, res) => res.render("edit_songs"));
+
+app.get("/login", (req, res) => res.render("login"));
 
 const callback = (): void => {
   console.log(`Listening on port ${port}`);

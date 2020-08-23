@@ -1,0 +1,20 @@
+{% extends "partials/base.html" %}
+
+{% block script %}
+<script src="{{ manifest['user.js'] }}"></script>
+{% endblock %}
+
+{% block content %}
+<div class="container">
+  <h1>Login</h1>
+  <form id="loginForm">
+    <label>Username</label>
+    <input type="text" id="name" class="form-control" placeholder="User">
+    <br/>
+    <label>Password</label>
+    <input type="password" id="password" class="form-control" placeholder="Password">
+    <br/>
+    <input class="btn btn-primary submit" type="submit" />
+  </form>
+</div>
+{% endblock %}
