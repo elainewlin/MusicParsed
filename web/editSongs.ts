@@ -2,9 +2,9 @@
  * @file Web controller logic for adding, editing, and deleting songs
  */
 
-import $ from "jQuery";
-import { slugify, parseLines } from "../lib/parser";
-import { SongInput, SongData, RenderedLine } from "../lib/song";
+import $ from "jquery";
+import { parseLines } from "../lib/parser";
+import { SongInput } from "../lib/song";
 
 /**
  * Wrapper function for jQuery .val()
@@ -27,8 +27,8 @@ const getSongInput = function(): SongInput {
   };
 };
 
-$(document).ready(function() {
-  $("#submit").click(function() {
+$(document).ready(() => {
+  $("#submit").click(() => {
     const input = getSongInput();
     const songData = parseLines(input);
 
@@ -43,12 +43,12 @@ $(document).ready(function() {
     });
   });
 
-  $("#delete").click(function() {
+  $("#delete").click(() => {
     const input = getSongInput();
     const songData = parseLines(input);
 
     $.ajax({
-      url: `/api/song/${songData.id}`,
+      url: `/api/song/${songData.songId}`,
       type: "DELETE",
       success: function(input) {
         alert(input);
