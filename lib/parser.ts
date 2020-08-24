@@ -118,6 +118,7 @@ export const parseLines = function({
     songId: `${slugify(title)} - ${slugify(artist)}`,
     lines: [],
     allChords: [],
+    url: `/song/${slugify(artist)}/${slugify(title)}`,
   };
 
   const updateAllChords = function(line: string): void {

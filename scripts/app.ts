@@ -66,7 +66,10 @@ app.get("/api/allSongs", async (req, res) => {
   res.json(
     await db
       .collection("songs")
-      .find({}, { projection: { artist: 1, songId: 1, tags: 1, title: 1, url: 1 } })
+      .find(
+        {},
+        { projection: { artist: 1, songId: 1, tags: 1, title: 1, url: 1 } }
+      )
       .toArray()
   );
 });
