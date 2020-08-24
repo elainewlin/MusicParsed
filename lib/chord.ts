@@ -34,9 +34,8 @@ export const transposeChord = function(chord: string, amount: number): string {
   return chord.replace(pitchRegex, pitch => transposePitch(pitch, amount));
 };
 
-const stripBrackets = (str: string): string => {
-  return str.replace(leftBracket, "").replace(rightBracket, "");
-};
+const stripBrackets = (str: string): string =>
+  str.replace(leftBracket, "").replace(rightBracket, "");
 
 /**
  * Make complicated chords easier for beginners

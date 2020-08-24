@@ -5,8 +5,9 @@ import "../css/styles.css";
 import "../css/global.css";
 import allSongsListTemplate from "../mustache/allSongsList.mustache";
 import buttonTemplate from "../mustache/button.mustache";
-import { Song, songSearch } from "./songView";
+import { songSearch } from "./songView";
 import { selectButton } from "./controller";
+import { SongData } from "../lib/song";
 
 // Helper function for sorting arrays of objects by property
 const comparator = function<Property extends string>(
@@ -31,9 +32,9 @@ const comparator = function<Property extends string>(
 };
 
 const sortSongsByArtist = function(
-  songs: Song[]
-): { artist: string; songs: Song[] }[] {
-  const allSongs: { [artist: string]: Song[] } = {};
+  songs: SongData[]
+): { artist: string; songs: SongData[] }[] {
+  const allSongs: { [artist: string]: SongData[] } = {};
   songs.map(song => {
     // Sorting by artist
     const artist = song["artist"];
@@ -76,14 +77,14 @@ window.onload = function() {
   $.ajax({
     url: "/static/data/ALL_SONGS.json",
     dataType: "json",
-    success: function(data: Song[]) {
+    success: function(data: SongData[]) {
       const allTags = new Set();
-      const allSongs: Song[] = [];
+      const allSongs: SongData[] = [];
 
       allTags.add(ALL_TAG);
-      data.map((song: Song) => {
+      data.map((song: SongData) => {
         allSongs.push(song);
-        const tags = song["tags"];
+        const tags = song.tags || [];
         tags.map(tag => {
           allTags.add(tag);
           if (!allSongsByTag.has(tag)) {
@@ -116,8 +117,8 @@ window.onload = function() {
     },
   });
 
-  const loadSongUrl = function(song: Song): void {
-    window.location.href = song.url;
+  const loadSongUrl = function(song: SongData): void {
+    window.location.href = song.url || "";
   };
 
   songSearch(loadSongUrl);
