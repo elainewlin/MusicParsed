@@ -38,7 +38,7 @@ $(document).ready(function() {
       data: JSON.stringify(songData),
       contentType: "application/json",
       success: function(input) {
-        alert(input.id);
+        alert(input);
       },
     });
   });

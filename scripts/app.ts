@@ -8,6 +8,48 @@ import { MongoClient } from "mongodb";
 import nunjucks from "nunjucks";
 import path from "path";
 import bodyParser from "body-parser";
+import bcrypt from "bcrypt";
+import rateLimit from "express-rate-limit";
+import passport from "passport";
+import { Strategy } from "passport-local";
+import expressSession from "express-session";
+import { User } from "../models/user";
+
+const loginMiddleware = (req: any, res: any, next: Function) => {
+  if (!req.isAuthenticated || !req.isAuthenticated()) {
+    return res.redirect("/");
+  }
+  next();
+};
+
+const loginStrategy = (username: string, password: string, cb: Function) => {
+  dbPromise.then((db: any) => {
+    db.collection("users").findOne({ username }, (err: Error, user: User) => {
+      if (err) return cb(err);
+      if (!user) return cb(null, false);
+      const hash = user.passwordHash;
+      bcrypt.compare(password, hash, (err: Error, isValid: Boolean) => {
+        if (!isValid) return cb(null, false);
+        return cb(null, user);
+      });
+    });
+  });
+};
+passport.use(new Strategy(loginStrategy));
+
+passport.serializeUser((user: User, cb: Function) => {
+  cb(null, user.username);
+});
+
+passport.deserializeUser((username: string, cb: Function) => {
+  dbPromise.then((db: any) => {
+    db.collection("users").findOne({ username }, (err: Error, user: User) => {
+      if (err) return cb(err);
+      if (!user) return cb(null, false);
+      cb(null, user);
+    });
+  });
+});
 
 dotenv.config();
 const host = process.env.PORT ? undefined : "127.0.0.1";
@@ -30,6 +72,18 @@ const dbPromise = (async () => {
 const app = express();
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
+
+const sessionKey = process.env.SESSION_KEY;
+app.use(
+  expressSession({
+    secret: sessionKey,
+    resave: false,
+    saveUninitialized: false,
+  })
+);
+
+app.use(passport.initialize());
+app.use(passport.session());
 
 // Compatibility with Jinja2 templates
 const env = nunjucks.configure(path.resolve(__dirname, "../templates"), {
@@ -64,7 +118,7 @@ app.use((req, res, next) => {
 });
 
 // Routes
-app.get("/api/allSongs", async (req, res) => {
+app.get("/api/song", async (req, res) => {
   const db = await dbPromise;
   res.json(
     await db
@@ -74,7 +128,7 @@ app.get("/api/allSongs", async (req, res) => {
   );
 });
 
-app.post("/api/song", async (req, res) => {
+app.post("/api/song", loginMiddleware, async (req, res) => {
   const db = await dbPromise;
   const query = {
     title: req.body.title,
@@ -84,17 +138,31 @@ app.post("/api/song", async (req, res) => {
   await db
     .collection("songs")
     .updateOne(query, { $set: req.body }, { upsert: true });
-  res.json(req.body);
+  res.send(`Added song ${req.body.title}`);
 });
 
-app.delete("/api/song/:id", async (req, res) => {
+app.delete("/api/song/:id", loginMiddleware, async (req, res) => {
   const db = await dbPromise;
   const query = {
     id: req.params.id,
   };
   await db.collection("songs").deleteOne(query);
-  res.json("Deleted!");
+  res.send("Deleted!");
 });
+
+const loginLimiter = rateLimit({
+  windowMs: 15 * 60 * 1000, // 15 minutes
+  max: 10,
+});
+
+app.post(
+  "/api/login",
+  passport.authenticate("local", { failureRedirect: "/login" }),
+  loginLimiter,
+  (req, res, next) => {
+    res.redirect("/edit");
+  }
+);
 
 app.use("/static", express.static(path.resolve(__dirname, "../static")));
 
@@ -122,7 +190,11 @@ app.get("/song/:artist/:title", (req, res) =>
   })
 );
 
-app.get("/edit", (req, res) => res.render("edit_songs"));
+app.get("/edit", loginMiddleware, (req, res) => {
+  res.render("edit_songs");
+});
+
+app.get("/login", (req, res) => res.render("login"));
 
 const callback = (): void => {
   console.log(`Listening on port ${port}`);
