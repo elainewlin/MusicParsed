@@ -204,7 +204,7 @@ export const rerender = function(): void {
 };
 
 export const loadSong = function(songId: string): void {
-  $.getJSON("/static/data/json/" + songId + ".json", (data: SongData) => {
+  $.getJSON(`/api/song/${songId}`, (data: SongData) => {
     songView.setId(songId);
     songView.setSong(data);
     renderCapo();
