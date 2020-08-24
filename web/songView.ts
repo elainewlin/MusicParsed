@@ -240,13 +240,14 @@ export const songSearch = function(
   songLoadFunction: (song: SongData) => void
 ): void {
   $("#tags").autocomplete({
+    minLength: 2,
     autoFocus: true,
     source: function(
       request: { term: string },
       response: (matches: SongData[]) => void
     ) {
       $.ajax({
-        url: "/static/data/ALL_SONGS.json",
+        url: "/api/song",
         dataType: "json",
         success: function(data: SongData[]) {
           for (const song of data) {
@@ -270,7 +271,8 @@ export const songSearch = function(
   };
 
   $.ajax({
-    url: "/static/data/ALL_SONGS.json",
+    // TODO: Filter by user ID
+    url: "/api/song",
     dataType: "json",
     success: function(data) {
       $("#random").click(event => {
