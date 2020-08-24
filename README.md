@@ -9,7 +9,6 @@ Seed local Mongo DB:
 
     make seed
 
-
 Useful commands:
 
     yarn watch
