@@ -229,7 +229,7 @@ export const popStateHandler = function(
     if (dataset.transpose) {
       transposeAmount = +dataset.transpose;
     }
-    songId = dataset.title + " - " + dataset.artist;
+    songId = dataset.title + "-" + dataset.artist;
   }
 
   songView.setTranspose(transposeAmount);
