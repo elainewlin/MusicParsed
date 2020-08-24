@@ -19,6 +19,10 @@ Useful commands:
     eslint . --ext ts,js --fix
     node -r babel-register-ts scripts/parser-cli.ts
 
+Run unit tests:
+
+    npm run test
+
 Template documentation
 
 - Use Mustache for rendering HTML templates from JSON files

@@ -224,7 +224,7 @@ export const popStateHandler = function(
     if (history.state.transpose) {
       transposeAmount = history.state.transpose;
     }
-    songId = history.state.id;
+    songId = history.state.songId;
   } else {
     if (dataset.transpose) {
       transposeAmount = +dataset.transpose;
@@ -236,29 +236,19 @@ export const popStateHandler = function(
   loadSong(songId);
 };
 
-export interface Song {
-  artist: string;
-  id: string;
-  label: string;
-  tags: string[];
-  title: string;
-  url: string;
-  value: string;
-}
-
 export const songSearch = function(
-  songLoadFunction: (song: Song) => void
+  songLoadFunction: (song: SongData) => void
 ): void {
   $("#tags").autocomplete({
     autoFocus: true,
     source: function(
       request: { term: string },
-      response: (matches: Song[]) => void
+      response: (matches: SongData[]) => void
     ) {
       $.ajax({
         url: "/static/data/ALL_SONGS.json",
         dataType: "json",
-        success: function(data: Song[]) {
+        success: function(data: SongData[]) {
           for (const song of data) {
             const songId = song.artist + " - " + song.title;
             song.label = songId;
@@ -297,13 +287,15 @@ export const songSearch = function(
 export const initRender = function(): void {
   loadWidgets();
 
-  const loadSongNoRefresh = function(song: { id: string; url: string }): void {
-    const id = song.id;
-    const url = song.url;
+  const loadSongNoRefresh = function(song: SongData): void {
+    const { songId, url } = song;
+    if (!songId) {
+      throw new Error("Song ID not found");
+    }
 
-    window.history.pushState({ id: id }, "", `${url}`);
+    window.history.pushState({ songId }, "", `${url}`);
     songView.setTranspose(0);
-    loadSong(id);
+    loadSong(songId);
   };
 
   songSearch(loadSongNoRefresh);

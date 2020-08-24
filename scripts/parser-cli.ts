@@ -23,7 +23,7 @@ const fields = [
   "chord",
   "chordLyricPairs",
   "fullName",
-  "id",
+  "songId",
   "label",
   "lines",
   "lyric",
@@ -69,7 +69,10 @@ const allSongs = fs
     const songData = parseLines({ title, artist, songText });
     const songJson = JSON.stringify(songData, fields, 2);
 
-    const songPath = path.resolve(jsonDir, `${songData.id}.json`);
+    const { songId } = songData!;
+
+    // Update JSON file
+    const songPath = path.resolve(jsonDir, `${songId}.json`);
     if (
       !fs.existsSync(songPath) ||
       fs.readFileSync(songPath, { encoding: "utf-8" }) !== songJson
@@ -78,19 +81,27 @@ const allSongs = fs
       fs.writeFileSync(songPath, songJson);
     }
 
-    const id = songData.id!;
-    const tags = songTags.has(id) ? songTags.get(id) : [];
+    const tags = songTags.has(songId) ? songTags.get(songId) : [];
 
     return {
       artist: songData.artist,
-      id,
+      songId,
       tags,
       title: songData.title,
       url: `/song/${slugify(songData.artist!)}/${slugify(songData.title!)}`,
     };
   });
 
-allSongs.sort((a, b) => (a.id < b.id ? -1 : a.id > b.id ? 1 : 0));
+allSongs.sort((a, b) => {
+  if (!a.songId || !b.songId) {
+    return 0;
+  }
+  if (a.songId < b.songId) {
+    return -1;
+  } else {
+    return 1;
+  }
+});
 
 const allSongsJson = JSON.stringify(allSongs, fields, 2);
 if (

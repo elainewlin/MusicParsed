@@ -115,7 +115,7 @@ export const parseLines = function({
     title,
     artist,
     fullName: `${title} - ${artist}`,
-    id: `${slugify(title)} - ${slugify(artist)}`,
+    songId: `${slugify(title)} - ${slugify(artist)}`,
     lines: [],
     allChords: [],
   };

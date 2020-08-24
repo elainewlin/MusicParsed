@@ -1,6 +1,7 @@
 import $ from "jquery";
 import "bootstrap";
 import { loadInstrumentButtons, loadOrientationButtons } from "./controller";
+import { SongData } from "../lib/song";
 import { renderChords, songView } from "./songView";
 import "bootstrap/dist/css/bootstrap.css";
 import "../css/styles.css";
@@ -10,11 +11,16 @@ $(document).ready(() => {
   songView.setInstrument("ukulele");
   loadInstrumentButtons({ showNone: false });
   loadOrientationButtons();
-  songView.setSong({
+
+  const baseSong: SongData = {
     fullName: "",
     allChords: ["Am", "F", "C", "G"],
     lines: [],
-  });
+    songId: "",
+    title: "",
+    artist: "",
+  };
+  songView.setSong(baseSong);
   songView.setChordOption("original");
   songView.setTranspose(0);
   renderChords();
@@ -25,7 +31,8 @@ $(document).ready(() => {
     // Super basic parser
     // Removes white space and splits by semi-colon
     const allChords = rawChordString.replace(/ /g, "").split(";");
-    songView.setSong({ fullName: "", allChords: allChords, lines: [] });
+    baseSong.allChords = allChords;
+    songView.setSong(baseSong);
     renderChords();
   });
 });

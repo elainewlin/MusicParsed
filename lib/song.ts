@@ -20,12 +20,17 @@ export type RenderedLine =
   | ChordLyricLine;
 
 export interface SongData {
-  id?: string;
+  songId: string;
   fullName: string;
-  artist?: string;
-  title?: string;
+  artist: string;
+  title: string;
   capo?: string;
   allChords: string[];
   overrideAllChords?: string[];
   lines: RenderedLine[];
+  url?: string;
+  // Used for song search
+  label?: string;
+  value?: string;
+  tags?: string[];
 }
