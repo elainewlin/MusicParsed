@@ -24,7 +24,7 @@ const getSongInput = function(): SongInput {
     title,
     artist,
     songText,
-  }
+  };
 };
 
 $(document).ready(function() {
@@ -37,9 +37,9 @@ $(document).ready(function() {
       type: "POST",
       data: JSON.stringify(songData),
       contentType: "application/json",
-      success:function(input) {
-        alert(input.id);
-      }
+      success: function(input) {
+        alert(input);
+      },
     });
   });
 
@@ -50,9 +50,9 @@ $(document).ready(function() {
     $.ajax({
       url: `/api/song/${songData.id}`,
       type: "DELETE",
-      success: function (input) {
+      success: function(input) {
         alert(input);
-      }
+      },
     });
   });
 });

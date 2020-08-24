@@ -15,7 +15,6 @@ const config: webpack.Configuration = {
     editSongs: "./web/editSongs.ts",
     parser: "./lib/parser.ts",
     global: "./web/global.ts",
-    user: "./web/user.ts",
   },
   output: {
     filename: "[name].[contenthash].bundle.js",
