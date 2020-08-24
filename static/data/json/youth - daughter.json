@@ -165,17 +165,22 @@
         },
         {
           "chord": "F",
-          "lyric": "settle on the place",
+          "lyric": "settle on the pl",
           "overLyric": true
         },
         {
           "chord": "Am",
-          "lyric": "  that you ",
+          "lyric": "ace  ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "that you le",
           "overLyric": true
         },
         {
           "chord": "G",
-          "lyric": "left.",
+          "lyric": "ft.",
           "overLyric": true
         }
       ]
@@ -1168,5 +1173,6 @@
     "Am|2,0,0,5",
     "G|0,2,3,4"
   ],
-  "title": "Youth"
+  "title": "Youth",
+  "url": "/song/daughter/youth"
 }

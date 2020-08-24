@@ -32,13 +32,13 @@ export interface SongData {
   fullName: string;
   artist: string;
   title: string;
-  capo?: string;
   allChords: string[];
-  overrideAllChords?: string[];
   lines: RenderedLine[];
+  capo?: string;
+  overrideAllChords?: string[];
   url?: string;
-  // Used for song search
+  tags?: string[];
+  // Added client-side for song search
   label?: string;
   value?: string;
-  tags?: string[];
 }

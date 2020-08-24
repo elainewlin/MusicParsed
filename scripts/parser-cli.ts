@@ -85,10 +85,10 @@ const allSongs = fs
 
     return {
       artist: songData.artist,
+      title: songData.title,
+      url: songData.url,
       songId,
       tags,
-      title: songData.title,
-      url: `/song/${slugify(songData.artist!)}/${slugify(songData.title!)}`,
     };
   });
 
