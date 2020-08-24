@@ -1,0 +1,914 @@
+{
+  "allChords": [
+    "C",
+    "D",
+    "Em",
+    "G"
+  ],
+  "artist": "Secondhand Serenade",
+  "fullName": "Your Call - Secondhand Serenade",
+  "songId": "your_call-secondhand_serenade",
+  "lines": [
+    {
+      "label": "[Intro]"
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "   "
+        },
+        {
+          "chord": "D",
+          "lyric": "   "
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "label": "[Verse]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " Waiting for your",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " call, I'm si",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ck, call I'm angry",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "call I'm d",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "esperate for your v",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "oice",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "listen",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ing to the song we used to s",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ing",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "In the c",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ar, do you rem",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ember",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Butterfly, Early Sum",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "mer",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "        ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "         "
+        },
+        {
+          "chord": "Em",
+          "lyric": "                           "
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "It",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "'s playing on repeat, Just like when we would meet",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Like when we would",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " meet ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "   "
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "label": "[Chorus]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I was ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "born",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " to tell you I l",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ove you ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and I am ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "torn",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " to do what I h",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ave to, to m",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ake you mine",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "St",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ay with me tonight",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "[Verse 2]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " Stripped and poll",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ished, I am ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "new, I am fresh",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I am fee",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ling so amb",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "itious, you and ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "me, flesh to flesh",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Because every br",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "eath that you will t",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ake",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "while you are si",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "tting next to me",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "will bring li",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "fe into my dee",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "pest hopes, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "What's your fantasy?",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "         ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "               "
+        },
+        {
+          "chord": "D",
+          "lyric": "           "
+        },
+        {
+          "chord": "Em",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Wh",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "at's",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": " your....(What's your, What's your..) What's your..",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "[Chorus]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I was ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "born",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " to tell you I l",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ove you ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and I am ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "torn",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " to do what I h",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ave to, to m",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ake you mine",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "S",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "tay with me tonight",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "[Breakdown]"
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "Em",
+          "lyric": "    "
+        },
+        {
+          "chord": "D",
+          "lyric": "     "
+        },
+        {
+          "chord": "C",
+          "lyric": "          "
+        },
+        {
+          "chord": "D",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I'm",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " tired of being ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "all alone, and this solitary moment makes me want to",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "come back h",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ome",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I'm",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " tired of being ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "all alone, and this solitary moment makes me want to",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "come back h",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ome",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I'm",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " tired of being ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "all alone, and this solitary moment makes me want to",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "come back h",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ome  (I know everything you wanted isn't anything you have)",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And I'm",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " tired of being ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "all alone, and this solitary moment makes me want to",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "come back h",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "ome  (I know everything you wanted isn't anything you have)",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "[Chorus]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I was ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "born",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " to tell you I l",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ove you ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and I am ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "torn",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " to do what I h",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ave to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I was ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "born",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " to tell you I l",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ove you ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and I am ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "torn",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " to do what I h",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ave to",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I was ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "born",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " to tell you I l",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ove you ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " (I know everything you wanted isn't anything you have)"
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and I am ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "torn",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " to do what I h",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ave to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " (I know everything you wanted isn't anything you have)",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I was ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "born",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " to tell you I l",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ove you ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " (I know everything you wanted isn't anything you have)"
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and I am ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "torn",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": " to do what I h",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ave to  (I know everything you wanted isn't anything you have)",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "To m",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ake you mine, S",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "tay with me tonigh",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "t...",
+          "overLyric": true
+        }
+      ]
+    }
+  ],
+  "title": "Your Call",
+  "url": "/song/secondhand_serenade/your_call"
+}

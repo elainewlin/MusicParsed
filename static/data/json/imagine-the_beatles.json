@@ -1,0 +1,676 @@
+{
+  "allChords": [
+    "C",
+    "Cmaj7",
+    "F",
+    "Am",
+    "Dm7",
+    "G",
+    "G7",
+    "E",
+    "E7"
+  ],
+  "artist": "The Beatles",
+  "fullName": "Imagine - The Beatles",
+  "songId": "imagine-the_beatles",
+  "lines": [
+    {
+      "label": "[Intro]"
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": " "
+        },
+        {
+          "chord": "F",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "label": "[Verse 1]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " Imagine there's ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "no    ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "heaven",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " It's easy if ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "you   ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "try",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " No hell ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "below ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "us",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " Above us "
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "only  ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "sky",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "[Bridge 1]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " Imagine ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am/E",
+          "lyric": "all the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "people",
+          "overLyric": true
+        },
+        {
+          "chord": "F/C",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Living for ",
+          "overLyric": true
+        },
+        {
+          "chord": "C/G",
+          "lyric": "to - ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "day a-hah",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "[Verse 2]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " Imagine there's "
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "no    ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "countries",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " It isn't hard "
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "to    ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "do",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " Nothing to kill "
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "or    ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "die for",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " And no relig"
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "ion   ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "too",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "[Bridge 2]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " Imagine ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am/E",
+          "lyric": "all the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "people",
+          "overLyric": true
+        },
+        {
+          "chord": "F/C",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Living life ",
+          "overLyric": true
+        },
+        {
+          "chord": "C/G",
+          "lyric": "in  ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "peace - you-hou-hou-ou-ou",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "[Chorus]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " You may "
+        },
+        {
+          "chord": "G",
+          "lyric": "say I'm a d",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "reame",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "r      ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "  "
+        },
+        {
+          "chord": "E7",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " But I'm "
+        },
+        {
+          "chord": "G",
+          "lyric": "not the only o",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ne ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "  "
+        },
+        {
+          "chord": "E",
+          "lyric": "  "
+        },
+        {
+          "chord": "E7",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " I hope some ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "day you'll j",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "oin u",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "s      ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "  "
+        },
+        {
+          "chord": "E7",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " And the "
+        },
+        {
+          "chord": "G",
+          "lyric": "world will ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "be as one",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "[Verse 3]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "  Imagine no "
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "pos - ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "sessions",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " I wonder if "
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "you   ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "can",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " No need for greed ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "or    ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "hunger",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": " A brotherhood ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "of    ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "man",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "[Bridge 3]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " Imagine ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am/E",
+          "lyric": "all the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Dm7",
+          "lyric": "people",
+          "overLyric": true
+        },
+        {
+          "chord": "F/C",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Sharing all ",
+          "overLyric": true
+        },
+        {
+          "chord": "C/G",
+          "lyric": "the ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "world - you-hou-hou-ou",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "[Chorus]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " You may "
+        },
+        {
+          "chord": "G",
+          "lyric": "say I'm a d",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "reame",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "r      ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "  "
+        },
+        {
+          "chord": "E7",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " But I'm "
+        },
+        {
+          "chord": "G",
+          "lyric": "not the only o",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ne ",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "  "
+        },
+        {
+          "chord": "E",
+          "lyric": "  "
+        },
+        {
+          "chord": "E7",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " I hope some ",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "day you'll j",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "oin u",
+          "overLyric": true
+        },
+        {
+          "chord": "Cmaj7",
+          "lyric": "s      ",
+          "overLyric": true
+        },
+        {
+          "chord": "E",
+          "lyric": "  "
+        },
+        {
+          "chord": "E7",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "F",
+          "lyric": " And the "
+        },
+        {
+          "chord": "G",
+          "lyric": "world will ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "live as one",
+          "overLyric": true
+        }
+      ]
+    }
+  ],
+  "title": "Imagine",
+  "url": "/song/the_beatles/imagine"
+}
