@@ -120,15 +120,23 @@ app.use((req, res, next) => {
 // Routes
 app.get("/api/song", async (req, res) => {
   const db = await dbPromise;
-  res.json(
-    await db
-      .collection("songs")
-      .find(
-        {},
-        { projection: { artist: 1, songId: 1, tags: 1, title: 1, url: 1 } }
-      )
-      .toArray()
-  );
+  const songs = await db
+    .collection("songs")
+    .find(
+      {},
+      { projection: { artist: 1, songId: 1, tagIds: 1, title: 1, url: 1 } }
+    )
+    .toArray();
+  res.json(songs);
+});
+
+app.get("/api/tag", async (req, res) => {
+  const db = await dbPromise;
+  const tags = await db
+    .collection("tags")
+    .find({}, { projection: { tagName: 1, _id: 1 } })
+    .toArray();
+  res.json(tags);
 });
 
 app.get("/api/song/:songId", async (req, res) => {
@@ -158,6 +166,45 @@ app.delete("/api/song/:songId", loginMiddleware, async (req, res) => {
   res.send("Deleted!");
 });
 
+app.post("/api/tag", loginMiddleware, async (req, res) => {
+  const db = await dbPromise;
+  const tagName = req.body.tag;
+  if (!tagName) {
+    return res.send("No tag name provided");
+  }
+  const tagQuery = { tagName };
+  const tag = await db
+    .collection("tags")
+    .findOneAndUpdate(
+      tagQuery,
+      { $set: tagQuery },
+      { upsert: true, returnOriginal: false }
+    );
+  if (!tag || !tag.value) {
+    return res.send("Failed to add tag");
+  }
+  const tagId = tag.value._id;
+
+  const songIds = req.body.song_ids;
+  if (!songIds) {
+    return res.send("No song IDs provided");
+  }
+
+  const songIdArr = songIds.split("\r\n");
+  const expectedCount = songIdArr.length;
+  if (expectedCount === 0) {
+    return res.send("Empty song ID array");
+  }
+  const songSearch = { songId: { $in: songIdArr } };
+  const songResult = await db
+    .collection("songs")
+    .updateMany(songSearch, { $addToSet: { tagIds: tagId } });
+  const { modifiedCount } = songResult;
+  res.send(
+    `Added tag ${tagName} to ${modifiedCount} of ${expectedCount} songs`
+  );
+});
+
 const loginLimiter = rateLimit({
   windowMs: 15 * 60 * 1000, // 15 minutes
   max: 10,
@@ -168,7 +215,7 @@ app.post(
   passport.authenticate("local", { failureRedirect: "/login" }),
   loginLimiter,
   (req, res) => {
-    res.redirect("/edit");
+    res.redirect("/song/edit");
   }
 );
 
@@ -198,8 +245,12 @@ app.get("/song/:artist/:title", (req, res) =>
   })
 );
 
-app.get("/edit", loginMiddleware, (req, res) => {
+app.get("/song/edit", loginMiddleware, (req, res) => {
   res.render("edit_songs");
+});
+
+app.get("/tag/edit", loginMiddleware, (req, res) => {
+  res.render("edit_tags");
 });
 
 app.get("/login", (req, res) => res.render("login"));

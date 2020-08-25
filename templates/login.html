@@ -4,19 +4,13 @@
 <div class="container">
   <h1>Login</h1>
   <form action="/api/login" method="post">
-    <div>
-      <label>Username:</label>
-      <input type="text" name="username" class="form-control" placeholder="User"/>
-      <br />
-    </div>
-    <div>
-      <label>Password:</label>
-      <input type="password" name="password" class="form-control" placeholder="Password"/>
-      <br />
-    </div>
-    <div>
-      <input type="submit" class="btn btn-primary" value="Submit"/>
-    </div>
+    <label>Username:</label>
+    <input type="text" name="username" class="form-control" placeholder="User"/>
+    <br />
+    <label>Password:</label>
+    <input type="password" name="password" class="form-control" placeholder="Password"/>
+    <br />
+    <input type="submit" class="btn btn-primary" value="Submit"/>
   </form>
 </div>
 {% endblock %}
