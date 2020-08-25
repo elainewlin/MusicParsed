@@ -37,8 +37,20 @@ export interface SongData {
   capo?: string;
   overrideAllChords?: string[];
   url?: string;
-  tags?: string[];
+  tagIds?: string[];
   // Added client-side for song search
   label?: string;
   value?: string;
+}
+
+export interface Tag {
+  _id: string;
+  tagName: string;
+}
+
+export interface SongAPI {
+  data: SongData[];
+  included: {
+    tags: Tag[];
+  };
 }

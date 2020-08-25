@@ -9,7 +9,7 @@ import {
   transposeAmountToFifths,
 } from "../lib/chord";
 import { getAllChordData } from "../lib/fingering";
-import { RenderedLine, SongData, ChordLyricLine } from "../lib/song";
+import { RenderedLine, SongData, SongAPI, ChordLyricLine } from "../lib/song";
 import { loadWidgets, renderTranspose } from "./controller";
 import chordsTemplate from "../mustache/chords.mustache";
 import songTemplate from "../mustache/song.mustache";
@@ -249,15 +249,16 @@ export const songSearch = function(
       $.ajax({
         url: "/api/song",
         dataType: "json",
-        success: function(data: SongData[]) {
+        success: function(apiResponse: SongAPI) {
+          const { data } = apiResponse;
           for (const song of data) {
             const songId = song.artist + " - " + song.title;
             song.label = songId;
             song.value = songId;
           }
 
-          data = $.ui.autocomplete.filter(data, request.term);
-          response(data);
+          const filter = $.ui.autocomplete.filter(data, request.term);
+          response(filter);
         },
       });
     },
@@ -274,7 +275,8 @@ export const songSearch = function(
     // TODO: Filter by user ID
     url: "/api/song",
     dataType: "json",
-    success: function(data) {
+    success: function(apiResponse: SongAPI) {
+      const { data } = apiResponse;
       $("#random").click(event => {
         event.preventDefault();
         const randomSong = data[getRandomIndex(data.length)];
