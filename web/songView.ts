@@ -274,20 +274,14 @@ export const songSearch = function(
     },
   });
 
-  const getRandomIndex = function(totalSongs: number): number {
-    return Math.floor(Math.random() * totalSongs) + 1;
-  };
-
   $("#random").click(event => {
     event.preventDefault();
     $.ajax({
-      // TODO: Filter by user ID
-      url: "/api/song",
+      url: "/api/song/random",
       dataType: "json",
-      success: function(apiResponse: AllSongsResponse) {
+      success: function(apiResponse: SongResponse) {
         const { data } = apiResponse;
-        const randomSong = data[getRandomIndex(data.length)];
-        songLoadFunction(randomSong);
+        songLoadFunction(data);
       },
     });
   });

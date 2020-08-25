@@ -134,6 +134,15 @@ app.get("/api/song", async (req, res) => {
   res.json({ data: songs, included: { tags } });
 });
 
+app.get("/api/song/random", async (req, res) => {
+  const db = await dbPromise;
+  const song = await db
+    .collection("songs")
+    .aggregate([{ $sample: { size: 1 } }])
+    .next();
+  res.json({ data: song });
+});
+
 app.get("/api/song/:songId", async (req, res) => {
   const { songId } = req.params;
   const db = await dbPromise;
