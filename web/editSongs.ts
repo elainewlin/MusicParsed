@@ -3,7 +3,7 @@
  */
 
 import $ from "jquery";
-import { parseLines } from "../lib/parser";
+import { getSongId, parseLines } from "../lib/parser";
 import { SongInput } from "../lib/song";
 
 /**
@@ -13,6 +13,39 @@ const getVal = function(id: string): string {
   let val = $(`#${id}`).val();
   val = val ? val : "";
   return val.toString();
+};
+
+// Client-side validation for deleting songs
+const getBaseErrorMessage = function(input: SongInput): string {
+  if (!input.title) {
+    return "Missing song title";
+  }
+  if (!input.artist) {
+    return "Missing song artist";
+  }
+  return "";
+};
+
+// Client-side validation for adding/editing songs
+const getEditErrorMessage = function(input: SongInput): string {
+  const message = getBaseErrorMessage(input);
+  if (message) return message;
+  if (!input.songText) {
+    return "Missing song text";
+  }
+  return "";
+};
+
+const isValidInput = function(
+  input: SongInput,
+  errMsgGetter = getEditErrorMessage
+): boolean {
+  const errorMessage = errMsgGetter(input);
+  if (errorMessage) {
+    alert(errorMessage);
+    return false;
+  }
+  return true;
 };
 
 const getSongInput = function(): SongInput {
@@ -30,6 +63,7 @@ const getSongInput = function(): SongInput {
 $(document).ready(() => {
   $("#add").click(() => {
     const input = getSongInput();
+    if (!isValidInput(input)) return;
     const songData = parseLines(input);
 
     $.ajax({
@@ -45,6 +79,7 @@ $(document).ready(() => {
 
   $("#edit").click(() => {
     const input = getSongInput();
+    if (!isValidInput(input)) return;
     const songData = parseLines(input);
 
     $.ajax({
@@ -60,10 +95,11 @@ $(document).ready(() => {
 
   $("#delete").click(() => {
     const input = getSongInput();
-    const songData = parseLines(input);
+    if (!isValidInput(input, getBaseErrorMessage)) return;
+    const songId = getSongId(input.title, input.artist);
 
     $.ajax({
-      url: `/api/song/${songData.songId}`,
+      url: `/api/song/${songId}`,
       type: "DELETE",
       success: function(input) {
         alert(input);

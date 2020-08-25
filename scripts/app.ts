@@ -167,7 +167,7 @@ app.post("/api/song", requireLogin, async (req, res) => {
     ...req.body,
     userId: new ObjectID(userId),
   };
-  await db.collection("songs").insertOne(req.body);
+  await db.collection("songs").insertOne(newSong);
   res.send(`Added song ${req.body.title}`);
 });
 
