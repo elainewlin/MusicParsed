@@ -138,7 +138,7 @@ app.get("/api/song/:songId", async (req, res) => {
   const { songId } = req.params;
   const db = await dbPromise;
   const song = await db.collection("songs").findOne({ songId });
-  res.json(song);
+  res.json({ data: song });
 });
 
 app.post("/api/song", loginMiddleware, async (req, res) => {

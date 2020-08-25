@@ -9,7 +9,13 @@ import {
   transposeAmountToFifths,
 } from "../lib/chord";
 import { getAllChordData } from "../lib/fingering";
-import { RenderedLine, SongData, SongAPI, ChordLyricLine } from "../lib/song";
+import {
+  RenderedLine,
+  SongData,
+  AllSongsResponse,
+  SongResponse,
+  ChordLyricLine,
+} from "../lib/song";
 import { loadWidgets, renderTranspose } from "./controller";
 import chordsTemplate from "../mustache/chords.mustache";
 import songTemplate from "../mustache/song.mustache";
@@ -204,7 +210,8 @@ export const rerender = function(): void {
 };
 
 export const loadSong = function(songId: string): void {
-  $.getJSON(`/api/song/${songId}`, (data: SongData) => {
+  $.getJSON(`/api/song/${songId}`, (response: SongResponse) => {
+    const { data } = response;
     songView.setId(songId);
     songView.setSong(data);
     renderCapo();
@@ -249,7 +256,7 @@ export const songSearch = function(
       $.ajax({
         url: "/api/song",
         dataType: "json",
-        success: function(apiResponse: SongAPI) {
+        success: function(apiResponse: AllSongsResponse) {
           const { data } = apiResponse;
           for (const song of data) {
             const songId = song.artist + " - " + song.title;
@@ -275,7 +282,7 @@ export const songSearch = function(
     // TODO: Filter by user ID
     url: "/api/song",
     dataType: "json",
-    success: function(apiResponse: SongAPI) {
+    success: function(apiResponse: AllSongsResponse) {
       const { data } = apiResponse;
       $("#random").click(event => {
         event.preventDefault();

@@ -7,7 +7,7 @@ import allSongsListTemplate from "../mustache/allSongsList.mustache";
 import buttonTemplate from "../mustache/button.mustache";
 import { songSearch } from "./songView";
 import { selectButton } from "./controller";
-import { SongData, SongAPI } from "../lib/song";
+import { SongData, AllSongsResponse } from "../lib/song";
 
 // Helper function for sorting arrays of objects by property
 const comparator = function<Property extends string>(
@@ -77,7 +77,7 @@ window.onload = function() {
   $.ajax({
     url: "/api/song",
     dataType: "json",
-    success: function(response: SongAPI) {
+    success: function(response: AllSongsResponse) {
       const { data, included } = response;
       const { tags } = included;
       const allTags = new Set();
