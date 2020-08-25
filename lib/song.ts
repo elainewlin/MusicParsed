@@ -1,6 +1,7 @@
 /**
  * @file Types for song representation.
  */
+import { Tag } from "../models/tag";
 
 export interface ChordLyricPair {
   chord: string | null;
@@ -37,8 +38,19 @@ export interface SongData {
   capo?: string;
   overrideAllChords?: string[];
   url?: string;
-  tags?: string[];
+  tagIds?: string[];
   // Added client-side for song search
   label?: string;
   value?: string;
+}
+
+export interface AllSongsResponse {
+  data: SongData[];
+  included: {
+    tags: Tag[];
+  };
+}
+
+export interface SongResponse {
+  data: SongData;
 }

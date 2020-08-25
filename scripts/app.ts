@@ -127,16 +127,18 @@ app.get("/api/song", async (req, res) => {
       { projection: { artist: 1, songId: 1, tagIds: 1, title: 1, url: 1 } }
     )
     .toArray();
-  res.json(songs);
-});
-
-app.get("/api/tag", async (req, res) => {
-  const db = await dbPromise;
   const tags = await db
     .collection("tags")
     .find({}, { projection: { tagName: 1, _id: 1 } })
     .toArray();
-  res.json(tags);
+  res.json({ data: songs, included: { tags } });
+});
+
+app.get("/api/song/:songId", async (req, res) => {
+  const { songId } = req.params;
+  const db = await dbPromise;
+  const song = await db.collection("songs").findOne({ songId });
+  res.json({ data: song });
 });
 
 app.post("/api/song", loginMiddleware, async (req, res) => {

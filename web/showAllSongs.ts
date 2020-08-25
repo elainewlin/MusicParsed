@@ -7,7 +7,7 @@ import allSongsListTemplate from "../mustache/allSongsList.mustache";
 import buttonTemplate from "../mustache/button.mustache";
 import { songSearch } from "./songView";
 import { selectButton } from "./controller";
-import { SongData } from "../lib/song";
+import { SongData, AllSongsResponse } from "../lib/song";
 
 // Helper function for sorting arrays of objects by property
 const comparator = function<Property extends string>(
@@ -75,22 +75,31 @@ const renderSelectedSongs = function(selectedTag: string): void {
 
 window.onload = function() {
   $.ajax({
-    url: "/static/data/ALL_SONGS.json",
+    url: "/api/song",
     dataType: "json",
-    success: function(data: SongData[]) {
+    success: function(response: AllSongsResponse) {
+      const { data, included } = response;
+      const { tags } = included;
       const allTags = new Set();
       const allSongs: SongData[] = [];
 
       allTags.add(ALL_TAG);
       data.map((song: SongData) => {
         allSongs.push(song);
-        const tags = song.tags || [];
-        tags.map(tag => {
-          allTags.add(tag);
-          if (!allSongsByTag.has(tag)) {
-            allSongsByTag.set(tag, []);
+        const { tagIds } = song;
+        if (!tagIds) return;
+
+        tagIds.map((tagId: string) => {
+          const tag = tags.find(t => t._id === tagId);
+          if (!tag) {
+            return;
           }
-          allSongsByTag.get(tag).push(song);
+          const { tagName } = tag;
+          allTags.add(tagName);
+          if (!allSongsByTag.has(tagName)) {
+            allSongsByTag.set(tagName, []);
+          }
+          allSongsByTag.get(tagName).push(song);
         });
       });
       allSongsByTag.set(ALL_TAG, allSongs);
