@@ -212,6 +212,9 @@ export const rerender = function(): void {
 export const loadSong = function(songId: string): void {
   $.getJSON(`/api/song/${songId}`, (response: SongResponse) => {
     const { data } = response;
+    if (!data) {
+      window.location.replace("/");
+    }
     songView.setId(songId);
     songView.setSong(data);
     renderCapo();

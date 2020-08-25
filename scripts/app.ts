@@ -1,10 +1,9 @@
-/* eslint no-console: "off" */
-
 import retry from "async-retry";
 import dotenv from "dotenv";
 import express from "express";
 import fs from "fs";
-import { MongoClient } from "mongodb";
+import { MongoClient, ObjectID } from "mongodb";
+import { get } from "lodash";
 import nunjucks from "nunjucks";
 import path from "path";
 import bodyParser from "body-parser";
@@ -33,11 +32,20 @@ const dbPromise = (async () => {
   return mongoClient.db(mongoDbName);
 })();
 
-const loginMiddleware = (req: any, res: any, next: Function) => {
+const requireLogin = (req: any, res: any, next: Function) => {
   if (!req.isAuthenticated || !req.isAuthenticated()) {
-    return res.redirect("/");
+    return res.redirect("/login");
   }
   next();
+};
+
+const requireAdmin = (req: any, res: any, next: Function) => {
+  requireLogin(req, res, () => {
+    if (!req.user.admin) {
+      return res.redirect("/login");
+    }
+    next();
+  });
 };
 
 const loginStrategy = (username: string, password: string, cb: Function) => {
@@ -56,12 +64,13 @@ const loginStrategy = (username: string, password: string, cb: Function) => {
 passport.use(new Strategy(loginStrategy));
 
 passport.serializeUser((user: User, cb: Function) => {
-  cb(null, user.username);
+  cb(null, user._id);
 });
 
-passport.deserializeUser((username: string, cb: Function) => {
+passport.deserializeUser((id: string, cb: Function) => {
+  const query = { _id: new ObjectID(id) };
   dbPromise.then((db: any) => {
-    db.collection("users").findOne({ username }, (err: Error, user: User) => {
+    db.collection("users").findOne(query, (err: Error, user: User) => {
       if (err) return cb(err);
       if (!user) return cb(null, false);
       cb(null, user);
@@ -141,27 +150,72 @@ app.get("/api/song/:songId", async (req, res) => {
   res.json({ data: song });
 });
 
-app.post("/api/song", loginMiddleware, async (req, res) => {
+app.post("/api/song", requireLogin, async (req, res) => {
+  const userId = get(req, "user._id");
+  if (!userId) {
+    return res.json("No user ID found");
+  }
   const db = await dbPromise;
-  const query = {
-    title: req.body.title,
-    artist: req.body.artist,
-    id: req.body.id,
+
+  const { songId } = req.body;
+  const song = await db.collection("songs").findOne({ songId });
+  if (song) {
+    return res.json("Cannot add song that already exists");
+  }
+
+  const newSong = {
+    ...req.body,
+    userId: new ObjectID(userId),
   };
-  await db
-    .collection("songs")
-    .updateOne(query, { $set: req.body }, { upsert: true });
+  await db.collection("songs").insertOne(req.body);
   res.send(`Added song ${req.body.title}`);
 });
 
-app.delete("/api/song/:songId", loginMiddleware, async (req, res) => {
+app.put("/api/song/:songId", requireLogin, async (req, res) => {
+  const userId = get(req, "user._id");
+  if (!userId) {
+    return res.json("No user ID found");
+  }
   const db = await dbPromise;
   const { songId } = req.params;
-  await db.collection("songs").deleteOne({ songId });
+
+  const query = {
+    songId,
+    userId: new ObjectID(userId),
+  };
+  const song = await db.collection("songs").findOne(query);
+  if (!song) {
+    return res.json("No song found");
+  }
+  const updatedSong = {
+    ...req.body,
+    userId: new ObjectID(userId),
+  };
+  await db.collection("songs").updateOne(query, { $set: updatedSong });
+  res.send(`Updated song ${req.body.title}`);
+});
+
+app.delete("/api/song/:songId", requireLogin, async (req, res) => {
+  const userId = get(req, "user._id");
+  if (!userId) {
+    return res.json("No user ID found");
+  }
+  const db = await dbPromise;
+  const { songId } = req.params;
+
+  const query = {
+    songId,
+    userId: new ObjectID(userId),
+  };
+  const song = await db.collection("songs").findOne(query);
+  if (!song) {
+    return res.json("No song found");
+  }
+  await db.collection("songs").deleteOne(query);
   res.send("Deleted!");
 });
 
-app.post("/api/tag", loginMiddleware, async (req, res) => {
+app.post("/api/tag", requireAdmin, async (req, res) => {
   const db = await dbPromise;
   const tagName = req.body.tag;
   if (!tagName) {
@@ -240,17 +294,18 @@ app.get("/song/:artist/:title", (req, res) =>
   })
 );
 
-app.get("/song/edit", loginMiddleware, (req, res) => {
+app.get("/song/edit", requireLogin, (req, res) => {
   res.render("edit_songs");
 });
 
-app.get("/tag/edit", loginMiddleware, (req, res) => {
+app.get("/tag/edit", requireAdmin, (req, res) => {
   res.render("edit_tags");
 });
 
 app.get("/login", (req, res) => res.render("login"));
 
 const callback = (): void => {
+  // eslint-disable-next-line no-console
   console.log(`Listening on port ${port}`);
 };
 

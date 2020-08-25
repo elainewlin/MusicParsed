@@ -28,13 +28,28 @@ const getSongInput = function(): SongInput {
 };
 
 $(document).ready(() => {
-  $("#submit").click(() => {
+  $("#add").click(() => {
     const input = getSongInput();
     const songData = parseLines(input);
 
     $.ajax({
       url: "/api/song",
       type: "POST",
+      data: JSON.stringify(songData),
+      contentType: "application/json",
+      success: function(input) {
+        alert(input);
+      },
+    });
+  });
+
+  $("#edit").click(() => {
+    const input = getSongInput();
+    const songData = parseLines(input);
+
+    $.ajax({
+      url: `/api/song/${songData.songId}`,
+      type: "PUT",
       data: JSON.stringify(songData),
       contentType: "application/json",
       success: function(input) {
