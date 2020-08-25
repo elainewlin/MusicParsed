@@ -278,18 +278,18 @@ export const songSearch = function(
     return Math.floor(Math.random() * totalSongs) + 1;
   };
 
-  $.ajax({
-    // TODO: Filter by user ID
-    url: "/api/song",
-    dataType: "json",
-    success: function(apiResponse: AllSongsResponse) {
-      const { data } = apiResponse;
-      $("#random").click(event => {
-        event.preventDefault();
+  $("#random").click(event => {
+    event.preventDefault();
+    $.ajax({
+      // TODO: Filter by user ID
+      url: "/api/song",
+      dataType: "json",
+      success: function(apiResponse: AllSongsResponse) {
+        const { data } = apiResponse;
         const randomSong = data[getRandomIndex(data.length)];
         songLoadFunction(randomSong);
-      });
-    },
+      },
+    });
   });
 
   $("#random").tooltip();
