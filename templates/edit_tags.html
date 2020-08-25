@@ -1,0 +1,20 @@
+{% extends "partials/base.html" %}
+
+{% block script %}
+<link rel="stylesheet" href="{{ manifest['convert.css'] }}" />
+{% endblock %}
+
+{% block content %}
+<div class="container">
+  <h1>Edit Tags</h1>
+  <form action="/api/tag" method="post">
+    <label>Tag Name</label>
+    <input type="text" name="tag" class="form-control" placeholder="easy" />
+    <br/>
+    <label>Song IDs</label>
+    <textarea name="song_ids" class="tab tall-tab" placeholder="Enter song IDs"></textarea>
+    <br/>
+    <input type="submit" class="btn btn-primary" value="Submit"/>
+  </form>
+</div>
+{% endblock %}
