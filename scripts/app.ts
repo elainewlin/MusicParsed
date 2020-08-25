@@ -120,15 +120,23 @@ app.use((req, res, next) => {
 // Routes
 app.get("/api/song", async (req, res) => {
   const db = await dbPromise;
-  res.json(
-    await db
-      .collection("songs")
-      .find(
-        {},
-        { projection: { artist: 1, songId: 1, tags: 1, title: 1, url: 1 } }
-      )
-      .toArray()
-  );
+  const songs = await db
+    .collection("songs")
+    .find(
+      {},
+      { projection: { artist: 1, songId: 1, tagIds: 1, title: 1, url: 1 } }
+    )
+    .toArray();
+  res.json(songs);
+});
+
+app.get("/api/tag", async (req, res) => {
+  const db = await dbPromise;
+  const tags = await db
+    .collection("tags")
+    .find({}, { projection: { tagName: 1, _id: 1 } })
+    .toArray();
+  res.json(tags);
 });
 
 app.post("/api/song", loginMiddleware, async (req, res) => {
@@ -149,14 +157,6 @@ app.delete("/api/song/:songId", loginMiddleware, async (req, res) => {
   const { songId } = req.params;
   await db.collection("songs").deleteOne({ songId });
   res.send("Deleted!");
-});
-
-app.get("/api/tag/:tagName", async (req, res) => {
-  const db = await dbPromise;
-  const { tagName } = req.params;
-  const tag = await db.collection("tags").findOne({ tagName });
-  const songs = await db.collection("songs").find({ tagId: tag._id });
-  res.json(songs.toArray());
 });
 
 app.post("/api/tag", loginMiddleware, async (req, res) => {
@@ -191,7 +191,7 @@ app.post("/api/tag", loginMiddleware, async (req, res) => {
   const songSearch = { songId: { $in: songIdArr } };
   const songResult = await db
     .collection("songs")
-    .updateMany(songSearch, { $addToSet: { tagId } });
+    .updateMany(songSearch, { $addToSet: { tagIds: tagId } });
   const { modifiedCount } = songResult;
   res.send(
     `Added tag ${tagName} to ${modifiedCount} of ${expectedCount} songs`
