@@ -5,6 +5,10 @@ Start local server:
     yarn
     yarn app
 
+Seed local Mongo DB:
+
+    make seed
+
 Useful commands:
 
     yarn watch

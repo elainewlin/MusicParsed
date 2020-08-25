@@ -4,7 +4,7 @@
  */
 
 import { isChord } from "./chord";
-import { SongData, ChordLyricLine, ChordLyricPair } from "./song";
+import { SongInput, SongData, ChordLyricLine, ChordLyricPair } from "./song";
 
 /**
  * Clean up text so it can be used in a URL
@@ -102,15 +102,8 @@ const removeBrackets = function(rawStr: string): string {
   return rawStr.replace(/\[/g, "").replace(/\]/g, "");
 };
 
-export const parseLines = function({
-  title,
-  artist,
-  songText,
-}: {
-  title: string;
-  artist: string;
-  songText: string;
-}): SongData {
+export const parseLines = function(input: SongInput): SongData {
+  const { title, artist, songText } = input;
   const data: SongData = {
     title,
     artist,

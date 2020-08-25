@@ -1,19 +1,17 @@
 /* eslint no-console: "off" */
 
-import { slugify, parseLines } from "../lib/parser";
+import { parseLines } from "../lib/parser";
 import fs from "fs";
 import path from "path";
 
-const textDir = path.resolve(__dirname, "..", "static", "data", "text");
-const tagsDir = path.resolve(__dirname, "..", "static", "data", "tags");
-const jsonDir = path.resolve(__dirname, "..", "static", "data", "json");
-const allSongsPath = path.resolve(
-  __dirname,
-  "..",
-  "static",
-  "data",
-  "ALL_SONGS.json"
-);
+const dataDir = path.resolve(__dirname, "..", "static", "data");
+const textDir = path.resolve(dataDir, "text");
+const tagsDir = path.resolve(dataDir, "tags");
+const jsonDir = path.resolve(dataDir, "json");
+const allSongsPath = path.resolve(dataDir, "ALL_SONGS.json");
+
+// Load data from all songs into 1 giant JSON to populate Mongo
+const allSongsDataPath = path.resolve(dataDir, "ALL_SONGS_DATA.json");
 
 const fields = [
   "allChords",
@@ -56,6 +54,7 @@ for (const [tag, ids] of tags) {
   }
 }
 
+const allSongData: string[] = [];
 const allSongs = fs
   .readdirSync(textDir)
   .map(filename => /^(.*) - (.*)\.txt$/.exec(filename))
@@ -68,8 +67,9 @@ const allSongs = fs
     });
     const songData = parseLines({ title, artist, songText });
     const songJson = JSON.stringify(songData, fields, 2);
+    allSongData.push(songJson);
 
-    const { songId } = songData!;
+    const { songId } = songData;
 
     // Update JSON file
     const songPath = path.resolve(jsonDir, `${songId}.json`);
@@ -110,4 +110,9 @@ if (
 ) {
   console.log(allSongsPath);
   fs.writeFileSync(allSongsPath, allSongsJson);
+}
+
+const args = process.argv;
+if (args[2] === "seed") {
+  fs.writeFileSync(allSongsDataPath, `[${allSongData}]`);
 }

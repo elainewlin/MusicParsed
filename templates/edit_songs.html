@@ -1,0 +1,27 @@
+{% extends "partials/base.html" %}
+
+{% block script %}
+<link rel="stylesheet" href="{{ manifest['convert.css'] }}" />
+<script src="{{ manifest['editSongs.js'] }}"></script>
+{% endblock %}
+
+{% block content %}
+<div class="container">
+
+  <label>Song</label>
+  <input type="text" id="title" class="form-control" placeholder="I'm Yours">
+  <br/>
+  <label>Artist</label>
+  <input type="artist" id="artist" class="form-control" placeholder="Jason Mraz">
+  <br/>
+
+  <textarea id="songText" class="tab tall-tab" placeholder="Enter song chords/lyrics"></textarea>
+  <br/>
+
+  <button id="submit" class="btn btn-primary">Submit</button>
+
+  <br/>
+  <br/>
+  <button id="delete" class="btn btn-danger">Delete</button>
+</div>
+{% endblock %}
