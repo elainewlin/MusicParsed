@@ -102,13 +102,17 @@ const removeBrackets = function(rawStr: string): string {
   return rawStr.replace(/\[/g, "").replace(/\]/g, "");
 };
 
+export const getSongId = function(title: string, artist: string): string {
+  return `${slugify(title)}-${slugify(artist)}`;
+};
+
 export const parseLines = function(input: SongInput): SongData {
   const { title, artist, songText } = input;
   const data: SongData = {
     title,
     artist,
     fullName: `${title} - ${artist}`,
-    songId: `${slugify(title)}-${slugify(artist)}`,
+    songId: getSongId(title, artist),
     lines: [],
     allChords: [],
     url: `/song/${slugify(artist)}/${slugify(title)}`,
