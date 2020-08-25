@@ -166,11 +166,17 @@ app.post("/api/tag", loginMiddleware, async (req, res) => {
     return res.send("No tag name provided");
   }
   const tagQuery = { tagName };
-  const tag = await db.collection("tags").insertOne(tagQuery);
-  if (!tag) {
+  const tag = await db
+    .collection("tags")
+    .findOneAndUpdate(
+      tagQuery,
+      { $set: tagQuery },
+      { upsert: true, returnOriginal: false }
+    );
+  if (!tag || !tag.value) {
     return res.send("Failed to add tag");
   }
-  const tagId = tag.insertedId;
+  const tagId = tag.value._id;
 
   const songIds = req.body.song_ids;
   if (!songIds) {
@@ -178,16 +184,18 @@ app.post("/api/tag", loginMiddleware, async (req, res) => {
   }
 
   const songIdArr = songIds.split("\r\n");
-  console.log(songIdArr);
   const expectedCount = songIdArr.length;
   if (expectedCount === 0) {
     return res.send("Empty song ID array");
   }
-  const songSearch = { songId: { $in: songIdArr }};
-  const songResult = await db.collection("songs").updateMany(songSearch, { $set: { tagId } });
+  const songSearch = { songId: { $in: songIdArr } };
+  const songResult = await db
+    .collection("songs")
+    .updateMany(songSearch, { $addToSet: { tagId } });
   const { modifiedCount } = songResult;
-  console.log(songResult);
-  res.send(`Added tag ${tagName} to ${modifiedCount} of ${expectedCount} songs`);
+  res.send(
+    `Added tag ${tagName} to ${modifiedCount} of ${expectedCount} songs`
+  );
 });
 
 const loginLimiter = rateLimit({
@@ -236,7 +244,7 @@ app.get("/song/edit", loginMiddleware, (req, res) => {
 
 app.get("/tag/edit", loginMiddleware, (req, res) => {
   res.render("edit_tags");
-})
+});
 
 app.get("/login", (req, res) => res.render("login"));
 
