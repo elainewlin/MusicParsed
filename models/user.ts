@@ -8,7 +8,7 @@ export interface User {
 }
 
 const userSchema = new mongoose.Schema({
-  username: String,
+  username: { type: String, unique: true, index: true },
   passwordHash: String,
   admin: Boolean,
 });

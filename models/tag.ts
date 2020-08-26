@@ -5,7 +5,7 @@ export interface Tag {
   tagName: string;
 }
 const tagSchema = new mongoose.Schema({
-  tagName: String,
+  tagName: { type: String, unique: true },
 });
 
 const TagModel = mongoose.model("Tag", tagSchema);

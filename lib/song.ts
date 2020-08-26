@@ -37,7 +37,7 @@ export interface SongData {
   lines: RenderedLine[];
   capo?: string;
   overrideAllChords?: string[];
-  url?: string;
+  url: string;
   tagIds?: string[];
   // Added client-side for song search
   label?: string;
