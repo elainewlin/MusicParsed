@@ -19,6 +19,7 @@ $(document).ready(() => {
     songId: "",
     title: "",
     artist: "",
+    url: "",
   };
   songView.setSong(baseSong);
   songView.setChordOption("original");
