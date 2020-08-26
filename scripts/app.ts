@@ -14,6 +14,7 @@ import passport from "passport";
 import { Strategy } from "passport-local";
 import expressSession from "express-session";
 import { User } from "../models/user";
+import Tag from "../models/tag";
 
 dotenv.config();
 const host = process.env.PORT ? undefined : "127.0.0.1";
@@ -138,10 +139,7 @@ app.get("/api/song", async (req, res) => {
       { projection: { artist: 1, songId: 1, tagIds: 1, title: 1, url: 1 } }
     )
     .toArray();
-  const tags = await db
-    .collection("tags")
-    .find({}, { projection: { tagName: 1, _id: 1 } })
-    .toArray();
+  const tags = await Tag.find();
   res.json({ data: songs, included: { tags } });
 });
 
@@ -233,17 +231,15 @@ app.post("/api/tag", requireAdmin, async (req, res) => {
     return res.send("No tag name provided");
   }
   const tagQuery = { tagName };
-  const tag = await db
-    .collection("tags")
-    .findOneAndUpdate(
-      tagQuery,
-      { $set: tagQuery },
-      { upsert: true, returnOriginal: false }
-    );
-  if (!tag || !tag.value) {
+  const tag = await Tag.findOneAndUpdate(
+    tagQuery,
+    { $set: tagQuery },
+    { upsert: true, new: true }
+  );
+  if (!tag) {
     return res.send("Failed to add tag");
   }
-  const tagId = tag.value._id;
+  const tagId = tag._id;
 
   const songIds = req.body.song_ids;
   if (!songIds) {
