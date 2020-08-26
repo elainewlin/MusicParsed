@@ -3,6 +3,7 @@ import dotenv from "dotenv";
 import express from "express";
 import fs from "fs";
 import { MongoClient, ObjectID } from "mongodb";
+import mongoose from "mongoose";
 import { get } from "lodash";
 import nunjucks from "nunjucks";
 import path from "path";
@@ -17,19 +18,20 @@ import { User } from "../models/user";
 dotenv.config();
 const host = process.env.PORT ? undefined : "127.0.0.1";
 const port = +(process.env.PORT || 5000);
-const mongoUri = process.env.MONGO_URI || "mongodb://localhost:27017";
+const baseUri = process.env.MONGO_URI || "mongodb://localhost:27017";
 const mongoDbName = process.env.MONGO_DB_NAME || "musicparsed";
+const mongoUri = `${baseUri}/${mongoDbName}`;
 
 const dbPromise = (async () => {
   const mongoClient = await retry(
     () =>
-      MongoClient.connect(mongoUri, {
+      mongoose.connect(mongoUri, {
         reconnectTries: Infinity,
         useNewUrlParser: true,
       }),
     { forever: true, maxTimeout: 30000 }
   );
-  return mongoClient.db(mongoDbName);
+  return mongoose.connection;
 })();
 
 const requireLogin = (req: any, res: any, next: Function) => {
