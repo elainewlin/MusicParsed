@@ -2,7 +2,9 @@
 <html id="songPage" data-title="{{title}}" data-artist="{{artist}}" data-transpose="{{transpose}}">
 
 <head>
-{% include "partials/ga.html" %}
+<meta charset="utf-8">
+<title>MusicParsed</title>
+<link rel="icon" href="/static/images/favicon.png">
 <link rel="stylesheet" href="{{ manifest['global.css'] }}" />
 {% block script %}
 <script src="{{ manifest['global.js'] }}"></script>
@@ -24,6 +26,9 @@
     </div>
   </nav>
   {% block content %}{% endblock %}
+  <footer>
+    {% include "partials/ga.html" %}
+  </footer>
 </body>
 
 </html>
