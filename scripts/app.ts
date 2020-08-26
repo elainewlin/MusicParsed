@@ -16,6 +16,7 @@ import expressSession from "express-session";
 import { User } from "../models/user";
 import UserModel from "../models/user";
 import TagModel from "../models/tag";
+import SongModel from "../models/song";
 
 dotenv.config();
 const host = process.env.PORT ? undefined : "127.0.0.1";
@@ -132,30 +133,21 @@ app.use((req, res, next) => {
 // Routes
 app.get("/api/song", async (req, res) => {
   const db = await dbPromise;
-  const songs = await db
-    .collection("songs")
-    .find(
-      {},
-      { projection: { artist: 1, songId: 1, tagIds: 1, title: 1, url: 1 } }
-    )
-    .toArray();
+  const songs = await SongModel.find({}).select({ artist: 1, songId: 1, tagIds: 1, title: 1, url: 1 } );
   const tags = await TagModel.find();
   res.json({ data: songs, included: { tags } });
 });
 
 app.get("/api/song/random", async (req, res) => {
   const db = await dbPromise;
-  const song = await db
-    .collection("songs")
-    .aggregate([{ $sample: { size: 1 } }])
-    .next();
-  res.json({ data: song });
+  const song = await SongModel.aggregate([{ $sample: { size: 1 } }])
+  res.json({ data: song[0] });
 });
 
 app.get("/api/song/:songId", async (req, res) => {
   const { songId } = req.params;
   const db = await dbPromise;
-  const song = await db.collection("songs").findOne({ songId });
+  const song = await SongModel.findOne({ songId });
   res.json({ data: song });
 });
 
@@ -167,16 +159,16 @@ app.post("/api/song", requireLogin, async (req, res) => {
   const db = await dbPromise;
 
   const { songId } = req.body;
-  const song = await db.collection("songs").findOne({ songId });
+  const song = await SongModel.findOne({ songId });
   if (song) {
     return res.json("Cannot add song that already exists");
   }
 
   const newSong = {
     ...req.body,
-    userId: new ObjectId(userId),
+    userId,
   };
-  await db.collection("songs").insertOne(newSong);
+  await SongModel.create(newSong);
   res.send(`Added song ${req.body.title}`);
 });
 
@@ -190,17 +182,17 @@ app.put("/api/song/:songId", requireLogin, async (req, res) => {
 
   const query = {
     songId,
-    userId: new ObjectId(userId),
+    userId,
   };
-  const song = await db.collection("songs").findOne(query);
+  const song = await SongModel.findOne(query);
   if (!song) {
     return res.json("No song found");
   }
   const updatedSong = {
     ...req.body,
-    userId: new ObjectId(userId),
+    userId,
   };
-  await db.collection("songs").updateOne(query, { $set: updatedSong });
+  await SongModel.updateOne(query, { $set: updatedSong });
   res.send(`Updated song ${req.body.title}`);
 });
 
@@ -214,13 +206,13 @@ app.delete("/api/song/:songId", requireLogin, async (req, res) => {
 
   const query = {
     songId,
-    userId: new ObjectId(userId),
+    userId,
   };
-  const song = await db.collection("songs").findOne(query);
+  const song = await SongModel.findOne(query);
   if (!song) {
     return res.json("No song found");
   }
-  await db.collection("songs").deleteOne(query);
+  await SongModel.deleteOne(query);
   res.send("Deleted!");
 });
 

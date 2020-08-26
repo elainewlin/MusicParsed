@@ -1,5 +1,4 @@
 import mongoose from "mongoose";
-const { ObjectId } = mongoose.Types;
 
 export interface User {
   _id: string;
@@ -9,7 +8,6 @@ export interface User {
 }
 
 const userSchema = new mongoose.Schema({
-  _id: ObjectId,
   username: String,
   passwordHash: String,
   admin: Boolean,
