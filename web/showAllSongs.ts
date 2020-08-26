@@ -127,7 +127,7 @@ window.onload = function() {
   });
 
   const loadSongUrl = function(song: SongData): void {
-    window.location.href = song.url || "";
+    window.location.href = song.url;
   };
 
   songSearch(loadSongUrl);
