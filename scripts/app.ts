@@ -3,7 +3,6 @@ import dotenv from "dotenv";
 import express from "express";
 import fs from "fs";
 import mongoose from "mongoose";
-const { ObjectId } = mongoose.Types;
 import { get } from "lodash";
 import nunjucks from "nunjucks";
 import path from "path";
@@ -54,15 +53,13 @@ const requireAdmin = (req: any, res: any, next: Function) => {
 };
 
 const loginStrategy = (username: string, password: string, cb: Function) => {
-  dbPromise.then(() => {
-    UserModel.findOne({ username }, (err: Error, user: User) => {
-      if (err) return cb(err);
-      if (!user) return cb(null, false);
-      const hash = user.passwordHash;
-      bcrypt.compare(password, hash, (err: Error, isValid: boolean) => {
-        if (!isValid) return cb(null, false);
-        return cb(null, user);
-      });
+  UserModel.findOne({ username }, (err: Error, user: User) => {
+    if (err) return cb(err);
+    if (!user) return cb(null, false);
+    const hash = user.passwordHash;
+    bcrypt.compare(password, hash, (err: Error, isValid: boolean) => {
+      if (!isValid) return cb(null, false);
+      return cb(null, user);
     });
   });
 };
@@ -73,12 +70,10 @@ passport.serializeUser((user: User, cb: Function) => {
 });
 
 passport.deserializeUser((id: string, cb: Function) => {
-  dbPromise.then(() => {
-    UserModel.findById(id, (err: Error, user: User) => {
-      if (err) return cb(err);
-      if (!user) return cb(null, false);
-      cb(null, user);
-    });
+  UserModel.findById(id, (err: Error, user: User) => {
+    if (err) return cb(err);
+    if (!user) return cb(null, false);
+    cb(null, user);
   });
 });
 
@@ -132,21 +127,25 @@ app.use((req, res, next) => {
 
 // Routes
 app.get("/api/song", async (req, res) => {
-  const db = await dbPromise;
-  const songs = await SongModel.find({}).select({ artist: 1, songId: 1, tagIds: 1, title: 1, url: 1 } );
+  const songs = await SongModel.find({}).select({
+    artist: 1,
+    songId: 1,
+    tagIds: 1,
+    title: 1,
+    url: 1,
+  });
   const tags = await TagModel.find();
   res.json({ data: songs, included: { tags } });
 });
 
 app.get("/api/song/random", async (req, res) => {
-  const db = await dbPromise;
-  const song = await SongModel.aggregate([{ $sample: { size: 1 } }])
+  const song = await SongModel.aggregate([{ $sample: { size: 1 } }]);
   res.json({ data: song[0] });
 });
 
 app.get("/api/song/:songId", async (req, res) => {
   const { songId } = req.params;
-  const db = await dbPromise;
+
   const song = await SongModel.findOne({ songId });
   res.json({ data: song });
 });
@@ -156,7 +155,6 @@ app.post("/api/song", requireLogin, async (req, res) => {
   if (!userId) {
     return res.json("No user ID found");
   }
-  const db = await dbPromise;
 
   const { songId } = req.body;
   const song = await SongModel.findOne({ songId });
@@ -177,7 +175,7 @@ app.put("/api/song/:songId", requireLogin, async (req, res) => {
   if (!userId) {
     return res.json("No user ID found");
   }
-  const db = await dbPromise;
+
   const { songId } = req.params;
 
   const query = {
@@ -201,7 +199,7 @@ app.delete("/api/song/:songId", requireLogin, async (req, res) => {
   if (!userId) {
     return res.json("No user ID found");
   }
-  const db = await dbPromise;
+
   const { songId } = req.params;
 
   const query = {
@@ -217,7 +215,6 @@ app.delete("/api/song/:songId", requireLogin, async (req, res) => {
 });
 
 app.post("/api/tag", requireAdmin, async (req, res) => {
-  const db = await dbPromise;
   const tagName = req.body.tag;
   if (!tagName) {
     return res.send("No tag name provided");
@@ -244,10 +241,10 @@ app.post("/api/tag", requireAdmin, async (req, res) => {
     return res.send("Empty song ID array");
   }
   const songSearch = { songId: { $in: songIdArr } };
-  const songResult = await db
-    .collection("songs")
-    .updateMany(songSearch, { $addToSet: { tagIds: tagId } });
-  const { modifiedCount } = songResult;
+  const songResult = await SongModel.updateMany(songSearch, {
+    $addToSet: { tagIds: tagId },
+  });
+  const modifiedCount = songResult.nModified;
   res.send(
     `Added tag ${tagName} to ${modifiedCount} of ${expectedCount} songs`
   );
