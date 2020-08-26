@@ -250,6 +250,7 @@ export const songSearch = function(
   songLoadFunction: (song: SongData) => void
 ): void {
   $("#tags").autocomplete({
+    delay: 0,
     minLength: 2,
     autoFocus: true,
     source: function(
