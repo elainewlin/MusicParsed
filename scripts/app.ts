@@ -2,8 +2,8 @@ import retry from "async-retry";
 import dotenv from "dotenv";
 import express from "express";
 import fs from "fs";
-import { MongoClient, ObjectID } from "mongodb";
 import mongoose from "mongoose";
+const { ObjectId } = mongoose.Types;
 import { get } from "lodash";
 import nunjucks from "nunjucks";
 import path from "path";
@@ -14,7 +14,8 @@ import passport from "passport";
 import { Strategy } from "passport-local";
 import expressSession from "express-session";
 import { User } from "../models/user";
-import Tag from "../models/tag";
+import UserModel from "../models/user";
+import TagModel from "../models/tag";
 
 dotenv.config();
 const host = process.env.PORT ? undefined : "127.0.0.1";
@@ -24,7 +25,7 @@ const mongoDbName = process.env.MONGO_DB_NAME || "musicparsed";
 const mongoUri = `${baseUri}/${mongoDbName}`;
 
 const dbPromise = (async () => {
-  const mongoClient = await retry(
+  await retry(
     () =>
       mongoose.connect(mongoUri, {
         reconnectTries: Infinity,
@@ -52,8 +53,8 @@ const requireAdmin = (req: any, res: any, next: Function) => {
 };
 
 const loginStrategy = (username: string, password: string, cb: Function) => {
-  dbPromise.then((db: any) => {
-    db.collection("users").findOne({ username }, (err: Error, user: User) => {
+  dbPromise.then(() => {
+    UserModel.findOne({ username }, (err: Error, user: User) => {
       if (err) return cb(err);
       if (!user) return cb(null, false);
       const hash = user.passwordHash;
@@ -71,9 +72,8 @@ passport.serializeUser((user: User, cb: Function) => {
 });
 
 passport.deserializeUser((id: string, cb: Function) => {
-  const query = { _id: new ObjectID(id) };
-  dbPromise.then((db: any) => {
-    db.collection("users").findOne(query, (err: Error, user: User) => {
+  dbPromise.then(() => {
+    UserModel.findById(id, (err: Error, user: User) => {
       if (err) return cb(err);
       if (!user) return cb(null, false);
       cb(null, user);
@@ -139,7 +139,7 @@ app.get("/api/song", async (req, res) => {
       { projection: { artist: 1, songId: 1, tagIds: 1, title: 1, url: 1 } }
     )
     .toArray();
-  const tags = await Tag.find();
+  const tags = await TagModel.find();
   res.json({ data: songs, included: { tags } });
 });
 
@@ -174,7 +174,7 @@ app.post("/api/song", requireLogin, async (req, res) => {
 
   const newSong = {
     ...req.body,
-    userId: new ObjectID(userId),
+    userId: new ObjectId(userId),
   };
   await db.collection("songs").insertOne(newSong);
   res.send(`Added song ${req.body.title}`);
@@ -190,7 +190,7 @@ app.put("/api/song/:songId", requireLogin, async (req, res) => {
 
   const query = {
     songId,
-    userId: new ObjectID(userId),
+    userId: new ObjectId(userId),
   };
   const song = await db.collection("songs").findOne(query);
   if (!song) {
@@ -198,7 +198,7 @@ app.put("/api/song/:songId", requireLogin, async (req, res) => {
   }
   const updatedSong = {
     ...req.body,
-    userId: new ObjectID(userId),
+    userId: new ObjectId(userId),
   };
   await db.collection("songs").updateOne(query, { $set: updatedSong });
   res.send(`Updated song ${req.body.title}`);
@@ -214,7 +214,7 @@ app.delete("/api/song/:songId", requireLogin, async (req, res) => {
 
   const query = {
     songId,
-    userId: new ObjectID(userId),
+    userId: new ObjectId(userId),
   };
   const song = await db.collection("songs").findOne(query);
   if (!song) {
@@ -231,7 +231,7 @@ app.post("/api/tag", requireAdmin, async (req, res) => {
     return res.send("No tag name provided");
   }
   const tagQuery = { tagName };
-  const tag = await Tag.findOneAndUpdate(
+  const tag = await TagModel.findOneAndUpdate(
     tagQuery,
     { $set: tagQuery },
     { upsert: true, new: true }
