@@ -102,12 +102,11 @@ export const songView: SongView = new ((function SongView(this: SongView) {
   };
 
   this.setSong = function(data) {
-    allChords = data["allChords"];
-    overrideAllChords = data["overrideAllChords"];
-    lines = data["lines"];
-    setCapo(data["capo"]);
-
-    fullSongName = data["fullName"];
+    allChords = data.allChords;
+    overrideAllChords = data.overrideAllChords;
+    lines = data.lines;
+    setCapo(data.capo);
+    fullSongName = data.fullName;
   };
 
   let songId: string;
@@ -142,7 +141,7 @@ export const songView: SongView = new ((function SongView(this: SongView) {
 
     const transposedAllChords = allChords.slice().map(processChord);
     let dataAllChords = Array.from(new Set(transposedAllChords));
-    if (overrideAllChords && transpose == 0) {
+    if (overrideAllChords && overrideAllChords.length && transpose == 0) {
       dataAllChords = overrideAllChords;
     }
 
@@ -203,7 +202,7 @@ export const rerender = function(): void {
   $("#title").text(fullName);
 
   document.getElementById("song")!.innerHTML = songTemplate({
-    lines: data["lines"],
+    lines: data.lines,
   });
   renderTranspose();
   renderChords();
