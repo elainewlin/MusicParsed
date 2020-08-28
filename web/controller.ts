@@ -88,7 +88,7 @@ const loadTransposeButtons = function(): void {
     const transposeAmount = +(e.target as HTMLInputElement).value;
     songView.setTranspose(transposeAmount);
     window.history.replaceState(
-      { id: songView.getId(), transpose: transposeAmount },
+      { songId: songView.getId(), transpose: transposeAmount },
       "",
       `?transpose=${transposeAmount}`
     );
