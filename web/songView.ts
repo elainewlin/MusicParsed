@@ -19,6 +19,7 @@ import {
 import { loadWidgets, renderTranspose } from "./controller";
 import chordsTemplate from "../mustache/chords.mustache";
 import songTemplate from "../mustache/song.mustache";
+import cache from "./cache";
 
 interface SongView {
   getInstrument(): string;
@@ -245,29 +246,43 @@ export const popStateHandler = function(
   loadSong(songId);
 };
 
+const filterSongsByTerm = (data: SongData[], term: string) => {
+  for (const song of data) {
+    const songId = song.artist + " - " + song.title;
+    song.label = songId;
+    song.value = songId;
+  }
+  const filtered = $.ui.autocomplete.filter(data, term);
+  return filtered;
+};
+
 export const songSearch = function(
   songLoadFunction: (song: SongData) => void
 ): void {
-  $("#tags").autocomplete({
+  $("#songSearch").autocomplete({
     minLength: 2,
     autoFocus: true,
     source: function(
       request: { term: string },
       response: (matches: SongData[]) => void
     ) {
+      const cachedAllSongs = cache.getAllSongs();
+      if (cachedAllSongs) {
+        const filtered = filterSongsByTerm(cachedAllSongs, request.term);
+        return response(filtered);
+      }
+
       $.ajax({
         url: "/api/song",
         dataType: "json",
         success: function(apiResponse: AllSongsResponse) {
-          const { data } = apiResponse;
-          for (const song of data) {
-            const songId = song.artist + " - " + song.title;
-            song.label = songId;
-            song.value = songId;
-          }
+          const { data: allSongs } = apiResponse;
 
-          const filter = $.ui.autocomplete.filter(data, request.term);
-          response(filter);
+          // Cache API response
+          cache.setAllSongs(allSongs);
+
+          const filtered = filterSongsByTerm(allSongs, request.term);
+          response(filtered);
         },
       });
     },

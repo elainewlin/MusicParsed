@@ -8,6 +8,7 @@ import buttonTemplate from "../mustache/button.mustache";
 import { songSearch } from "./songView";
 import { selectButton } from "./controller";
 import { SongData, AllSongsResponse } from "../lib/song";
+import cache from "./cache";
 
 // Helper function for sorting arrays of objects by property
 const comparator = function<Property extends string>(
@@ -80,6 +81,10 @@ window.onload = function() {
     success: function(response: AllSongsResponse) {
       const { data, included } = response;
       const { tags } = included;
+
+      // Cache API response
+      cache.setAllSongs(data);
+
       const allTags = new Set();
       const allSongs: SongData[] = [];
 
