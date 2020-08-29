@@ -96,6 +96,10 @@ $(document).ready(() => {
   $("#delete").click(() => {
     const input = getSongInput();
     if (!isValidInput(input, getBaseErrorMessage)) return;
+
+    const confirmMessage = `Are you sure you want to delete ${input.title}?`;
+    const confirm = window.confirm(confirmMessage);
+    if (!confirm) return;
     const songId = getSongId(input.title, input.artist);
 
     $.ajax({

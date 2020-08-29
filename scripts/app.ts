@@ -189,6 +189,7 @@ app.put("/api/song/:songId", requireLogin, async (req, res) => {
   const updatedSong = {
     ...req.body,
     userId,
+    lastUpdatedAt: new Date(),
   };
   await SongModel.updateOne(query, { $set: updatedSong });
   res.send(`Updated song ${req.body.title}`);
