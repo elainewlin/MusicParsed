@@ -16,7 +16,7 @@ import { User } from "../models/user";
 import UserModel from "../models/user";
 import TagModel from "../models/tag";
 import SongModel from "../models/song";
-import { validateUserSignup, createUser } from "../services/signup";
+import { validateUserInput, createUser } from "../services/signup";
 import {
   loginLimiter,
   signupLimiter,
@@ -271,7 +271,7 @@ app.post(
 
 app.post("/api/signup", signupLimiter, async (req, res) => {
   try {
-    validateUserSignup(req.body);
+    validateUserInput(req.body);
     await createUser(req.body);
   } catch (err) {
     req.flash("errors", err.message);
