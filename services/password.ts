@@ -11,11 +11,10 @@ export const isValidPasswordLength = (str: string) => {
 export const generatePassword = async (password: string) => {
   const SALT_ROUNDS = 10;
   return bcrypt.hash(password, SALT_ROUNDS);
-}
+};
 
-export const checkPassword = async (password: string, hash: string) => {
-  return bcrypt.compare(password, hash);
-}
+export const checkPassword = async (password: string, hash: string) =>
+  bcrypt.compare(password, hash);
 
 interface PasswordResetBody {
   username?: string;
@@ -23,7 +22,10 @@ interface PasswordResetBody {
   newPassword?: string;
 }
 
-export const changeUserPassword = async (sessionUser: any, body: PasswordResetBody) => {
+export const changeUserPassword = async (
+  sessionUser: any,
+  body: PasswordResetBody
+) => {
   const { username, password, newPassword } = body;
 
   if (!username || !password || !newPassword) {
@@ -53,4 +55,4 @@ export const changeUserPassword = async (sessionUser: any, body: PasswordResetBo
   // Reset password
   user.passwordHash = newPasswordHash;
   await user.save();
-}
+};
