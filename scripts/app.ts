@@ -23,7 +23,7 @@ import {
   createSongLimiter,
   apiLimiter,
 } from "../services/rateLimit";
-import { resetUserPassword } from "../services/password";
+import { changeUserPassword } from "../services/password";
 
 dotenv.config();
 const host = process.env.PORT ? undefined : "127.0.0.1";
@@ -291,7 +291,7 @@ app.post("/api/password", loginLimiter, async (req, res) => {
   };
 
   try {
-    await resetUserPassword(req.user, req.body);
+    await changeUserPassword(req.user, req.body);
   } catch (err) {
     return handleError(err.message);
   }

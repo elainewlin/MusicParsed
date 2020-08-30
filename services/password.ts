@@ -23,7 +23,7 @@ interface PasswordResetBody {
   newPassword?: string;
 }
 
-export const resetUserPassword = async (sessionUser: any, body: PasswordResetBody) => {
+export const changeUserPassword = async (sessionUser: any, body: PasswordResetBody) => {
   const { username, password, newPassword } = body;
 
   if (!username || !password || !newPassword) {
@@ -31,7 +31,7 @@ export const resetUserPassword = async (sessionUser: any, body: PasswordResetBod
   }
 
   if (sessionUser.username !== username) {
-    throw new Error("Cannot reset password for other users");
+    throw new Error("Cannot change password for other users");
   }
 
   if (!isValidPasswordLength(newPassword)) {
