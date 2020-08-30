@@ -1,9 +1,9 @@
-import { SignupBody, validateUserInput } from "../../services/signup";
+import { SignupBody, validateSignupInput } from "../../services/signup";
 import { assert } from "chai";
 
 const checkValidateError = (signupBody: SignupBody, expectedMsg: string) => {
   try {
-    validateUserInput(signupBody);
+    validateSignupInput(signupBody);
     throw new Error();
   } catch (err) {
     assert.equal(err.message, expectedMsg);
@@ -45,7 +45,7 @@ const createSignupBody = (
   };
 };
 
-describe("validateUserInput", () => {
+describe("validateSignupInput", () => {
   it("should check if signup body has all fields", () => {
     const signupBodyList = [
       {},
@@ -90,7 +90,7 @@ describe("validateUserInput", () => {
   it("should accept valid input", () => {
     const signupBody = createSignupBody();
     try {
-      validateUserInput(signupBody);
+      validateSignupInput(signupBody);
       throw new Error("Expected no error");
     } catch (err) {
       assert.equal(err.message, "Expected no error");

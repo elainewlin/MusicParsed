@@ -16,13 +16,14 @@ import { User } from "../models/user";
 import UserModel from "../models/user";
 import TagModel from "../models/tag";
 import SongModel from "../models/song";
-import { validateUserInput, createUser } from "../services/signup";
+import { validateSignupInput, createUser } from "../services/signup";
 import {
   loginLimiter,
   signupLimiter,
   createSongLimiter,
   apiLimiter,
 } from "../services/rateLimit";
+import { resetUserPassword } from "../services/password";
 
 dotenv.config();
 const host = process.env.PORT ? undefined : "127.0.0.1";
@@ -46,7 +47,7 @@ const mongoDbName = process.env.MONGO_DB_NAME || "musicparsed";
 
 const requireLogin = (req: any, res: any, next: Function) => {
   if (!req.isAuthenticated || !req.isAuthenticated()) {
-    return res.redirect("/login");
+    return res.redirect(`/login?fromUrl=${req.originalUrl}`);
   }
   next();
 };
@@ -60,10 +61,15 @@ const requireAdmin = (req: any, res: any, next: Function) => {
   });
 };
 
-const renderTemplate = (req: any, res: any, template: string) => {
+const renderTemplate = (
+  req: any,
+  res: any,
+  template: string,
+  args: object = {}
+) => {
   const messages = req.flash("messages");
   const errors = req.flash("errors");
-  res.render(template, { messages, errors });
+  res.render(template, { messages, errors, ...args });
 };
 
 const loginStrategy = (username: string, password: string, cb: Function) => {
@@ -71,6 +77,7 @@ const loginStrategy = (username: string, password: string, cb: Function) => {
     if (err) return cb(err);
     if (!user) return cb(null, false);
     const hash = user.passwordHash;
+    if (!hash) return cb(null, false);
     bcrypt.compare(password, hash, (err: Error, isValid: boolean) => {
       if (!isValid) return cb(null, false);
       return cb(null, user);
@@ -271,9 +278,27 @@ app.post(
   passport.authenticate("local", { failureRedirect: "/login" }),
   loginLimiter,
   (req, res) => {
-    res.redirect("/song/edit");
+    const redirect = String(req.query.fromUrl) || "/song/edit";
+    res.redirect(redirect);
   }
 );
+
+app.post("/api/password", loginLimiter, async (req, res) => {
+  const handleError = (msg: string) => {
+    req.flash("messages");
+    req.flash("errors", msg);
+    res.redirect("/password");
+  };
+
+  try {
+    await resetUserPassword(req.user, req.body);
+  } catch (err) {
+    return handleError(err.message);
+  }
+
+  req.flash("messages", "Successfully reset password");
+  res.redirect("/password");
+});
 
 app.post("/api/signup", signupLimiter, async (req, res) => {
   const handleError = (msg: string) => {
@@ -283,7 +308,7 @@ app.post("/api/signup", signupLimiter, async (req, res) => {
 
   let user;
   try {
-    validateUserInput(req.body);
+    validateSignupInput(req.body);
     user = await createUser(req.body);
   } catch (err) {
     return handleError(err.message);
@@ -337,12 +362,21 @@ app.get("/tag/edit", requireAdmin, (req, res) => {
 /***************/
 
 app.get("/login", (req, res) => {
-  renderTemplate(req, res, "login");
+  let formAction = "/api/login";
+  const { fromUrl } = req.query;
+  if (fromUrl) {
+    formAction += `?fromUrl=${fromUrl}`;
+  }
+  renderTemplate(req, res, "login", { formAction });
 });
 
 app.get("/logout", (req, res) => {
   req.logout();
   res.redirect("/");
+});
+
+app.get("/password", requireLogin, (req, res) => {
+  renderTemplate(req, res, "password");
 });
 
 app.get("/signup", (req, res) => {

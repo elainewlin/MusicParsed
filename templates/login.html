@@ -4,7 +4,7 @@
 <div class="container">
   <h1>Login</h1>
   {% include "partials/flash_message.html" %}
-  <form action="/api/login" method="post">
+  <form action="{{ formAction }}" method="post">
     <label>Username:</label>
     <input type="text" name="username" class="form-control" placeholder="User" required />
     <br />

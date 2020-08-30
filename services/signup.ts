@@ -1,7 +1,7 @@
-import bcrypt from "bcrypt";
 import UserModel from "../models/user";
 import SignupTokenModel from "../models/signupToken";
 import { SignupToken } from "../models/signupToken";
+import { isValidPasswordLength, generatePassword } from "./password";
 
 const isAlphaNumeric = (str: string) => str.match(/^[a-z0-9]+$/i);
 
@@ -11,19 +11,13 @@ const isValidNameLength = (str: string) => {
   return str.length >= MIN_NAME_LENGTH && str.length <= MAX_NAME_LENGTH;
 };
 
-const isValidPasswordLength = (str: string) => {
-  const MIN_PASSWORD_LENGTH = 4;
-  const MAX_PASSWORD_LENGTH = 30;
-  return str.length >= MIN_PASSWORD_LENGTH && str.length <= MAX_PASSWORD_LENGTH;
-};
-
 export interface SignupBody {
   username?: string;
   password?: string;
   signupToken?: string;
 }
 
-export const validateUserInput = (body: SignupBody) => {
+export const validateSignupInput = (body: SignupBody) => {
   const { username, password, signupToken } = body;
 
   if (!username || !password || !signupToken) {
@@ -62,16 +56,19 @@ const getSignupToken = async (signupToken: string) => {
 export const createUser = async (body: SignupBody) => {
   const { username, password, signupToken } = body;
 
-  if (!signupToken) throw new Error("Missing signup token");
-  const tokenFromDB = await getSignupToken(signupToken);
-
-  const SALT_ROUNDS = 10;
-  const passwordHash = await bcrypt.hash(password, SALT_ROUNDS);
+  if (!username || !password || !signupToken) {
+    throw new Error("Missing required field");
+  }
 
   const existingUser = await UserModel.findOne({ username });
   if (existingUser) {
     throw new Error(`User with username ${username} already exists`);
   }
+
+  const [tokenFromDB, passwordHash] = await Promise.all([
+    getSignupToken(signupToken),
+    generatePassword(password),
+  ]);
   const user = await UserModel.create({ username, passwordHash });
 
   // Mark signup token as used
