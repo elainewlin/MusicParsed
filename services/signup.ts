@@ -17,23 +17,16 @@ const isValidPasswordLength = (str: string) => {
   return str.length >= MIN_PASSWORD_LENGTH && str.length <= MAX_PASSWORD_LENGTH;
 };
 
-const hasAllFields = (fields: string[]) => {
-  for (const field of fields) {
-    if (!field) return false;
-  }
-  return true;
-};
-
-interface SignupBody {
-  username: string;
-  password: string;
-  signupToken: string;
+export interface SignupBody {
+  username?: string;
+  password?: string;
+  signupToken?: string;
 }
 
 export const validateUserInput = (body: SignupBody) => {
   const { username, password, signupToken } = body;
 
-  if (!hasAllFields(Object.values(body))) {
+  if (!username || !password || !signupToken) {
     throw new Error("Missing required field");
   }
 
@@ -69,6 +62,7 @@ const getSignupToken = async (signupToken: string) => {
 export const createUser = async (body: SignupBody) => {
   const { username, password, signupToken } = body;
 
+  if (!signupToken) throw new Error("Missing signup token");
   const tokenFromDB = await getSignupToken(signupToken);
 
   const SALT_ROUNDS = 10;

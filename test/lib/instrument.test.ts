@@ -1,4 +1,4 @@
-import { instrumentsData } from "../lib/instrument";
+import { instrumentsData } from "../../lib/instrument";
 import { assert } from "chai";
 
 describe("instrumentsData", () => {

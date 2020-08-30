@@ -1,4 +1,4 @@
-import { transposeChord, simplifyChord } from "../lib/chord";
+import { transposeChord, simplifyChord } from "../../lib/chord";
 import { assert } from "chai";
 
 describe("transposeChord", () => {

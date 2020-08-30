@@ -1,9 +1,9 @@
-import { instrumentsData } from "../lib/instrument";
+import { instrumentsData } from "../../lib/instrument";
 import {
   reverseString,
   getChordData,
   getChordFingering,
-} from "../lib/fingering";
+} from "../../lib/fingering";
 import { assert } from "chai";
 
 describe("reverseString", () => {
