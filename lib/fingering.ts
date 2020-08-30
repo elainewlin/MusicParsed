@@ -91,7 +91,8 @@ export const getChordData = function(
   if (!match) {
     return unknown;
   }
-  const [fullChord, root, chordType] = match;
+  const root = match[1];
+  const chordType = match[2];
 
   let chordFingering = instrumentData.chords[pitchToSemitones(root)].get(
     chordType

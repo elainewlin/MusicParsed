@@ -1,0 +1,11 @@
+{% if errors and errors.length %}
+  <div class="alert alert-danger" role="alert">
+    {{ errors[0] }}
+  </div>
+{% endif %}
+
+{% if messages and messages.length %}
+  <div class="alert alert-success" role="alert">
+    {{ messages[0] }}
+  </div>
+{% endif %}

@@ -1,0 +1,26 @@
+{% extends "partials/base.html" %}
+
+{% block content %}
+<div class="container">
+  <h1>Create Account</h1>
+  {% include "partials/flash_message.html" %}
+  <p>Create an account to add your own song chords.</p>
+  <form action="/api/signup" method="post">
+    <label>Username:</label>
+    <input type="text" name="username" class="form-control" placeholder="User" required />
+    <br />
+    <div class="form-row">
+      <div class="form-group col-md-6">
+        <label>Password:</label>
+        <input type="password" name="password" class="form-control" placeholder="Password" required />
+      </div>
+      <div class="form-group col-md-6">
+        <label>Confirm Password:</label>
+        <input type="password" name="passwordConfirm" class="form-control" placeholder="Confirm" required />
+      </div>
+    </div>
+    <br />
+    <input type="submit" class="btn btn-primary" value="Create"/>
+  </form>
+</div>
+{% endblock %}

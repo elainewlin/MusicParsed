@@ -8,14 +8,21 @@ import nunjucks from "nunjucks";
 import path from "path";
 import bodyParser from "body-parser";
 import bcrypt from "bcrypt";
-import rateLimit from "express-rate-limit";
 import passport from "passport";
 import { Strategy } from "passport-local";
 import expressSession from "express-session";
+import flash from "connect-flash";
 import { User } from "../models/user";
 import UserModel from "../models/user";
 import TagModel from "../models/tag";
 import SongModel from "../models/song";
+import { validateUserSignup, createUser } from "../services/signup";
+import {
+  loginLimiter,
+  signupLimiter,
+  createSongLimiter,
+  apiLimiter,
+} from "../services/rateLimit";
 
 dotenv.config();
 const host = process.env.PORT ? undefined : "127.0.0.1";
@@ -23,7 +30,8 @@ const port = +(process.env.PORT || 5000);
 const baseUri = process.env.MONGO_URI || "mongodb://localhost:27017";
 const mongoDbName = process.env.MONGO_DB_NAME || "musicparsed";
 
-const dbPromise = (async () => {
+// Connect to Mongo DB
+(async () => {
   await retry(
     () =>
       mongoose.connect(baseUri, {
@@ -92,6 +100,7 @@ app.use(
 
 app.use(passport.initialize());
 app.use(passport.session());
+app.use(flash());
 
 // Compatibility with Jinja2 templates
 const env = nunjucks.configure(path.resolve(__dirname, "../templates"), {
@@ -150,7 +159,7 @@ app.get("/api/song/:songId", async (req, res) => {
   res.json({ data: song });
 });
 
-app.post("/api/song", requireLogin, async (req, res) => {
+app.post("/api/song", requireLogin, createSongLimiter, async (req, res) => {
   const userId = get(req, "user._id");
   if (!userId) {
     return res.json("No user ID found");
@@ -170,7 +179,7 @@ app.post("/api/song", requireLogin, async (req, res) => {
   res.send(`Added song ${req.body.title}`);
 });
 
-app.put("/api/song/:songId", requireLogin, async (req, res) => {
+app.put("/api/song/:songId", requireLogin, apiLimiter, async (req, res) => {
   const userId = get(req, "user._id");
   if (!userId) {
     return res.json("No user ID found");
@@ -215,7 +224,7 @@ app.delete("/api/song/:songId", requireLogin, async (req, res) => {
   res.send("Deleted!");
 });
 
-app.post("/api/tag", requireAdmin, async (req, res) => {
+app.post("/api/tag", requireAdmin, apiLimiter, async (req, res) => {
   const tagName = req.body.tag;
   if (!tagName) {
     return res.send("No tag name provided");
@@ -251,11 +260,6 @@ app.post("/api/tag", requireAdmin, async (req, res) => {
   );
 });
 
-const loginLimiter = rateLimit({
-  windowMs: 15 * 60 * 1000, // 15 minutes
-  max: 10,
-});
-
 app.post(
   "/api/login",
   passport.authenticate("local", { failureRedirect: "/login" }),
@@ -264,6 +268,18 @@ app.post(
     res.redirect("/song/edit");
   }
 );
+
+app.post("/api/signup", signupLimiter, async (req, res) => {
+  try {
+    validateUserSignup(req.body);
+    await createUser(req.body);
+  } catch (err) {
+    req.flash("errors", err.message);
+    return res.redirect("/signup");
+  }
+  req.flash("messages", "User created - please login");
+  return res.redirect("/login");
+});
 
 app.use("/static", express.static(path.resolve(__dirname, "../static")));
 
@@ -274,8 +290,6 @@ app.get("/convert", (req, res) => res.render("convert"));
 app.get("/import", (req, res) => res.render("import"));
 
 app.get("/render", (req, res) => res.render("render_chords"));
-
-app.get("/aus", (req, res) => res.render("aus"));
 
 app.get("/guides", (req, res) => res.render("guides/index"));
 
@@ -299,7 +313,24 @@ app.get("/tag/edit", requireAdmin, (req, res) => {
   res.render("edit_tags");
 });
 
-app.get("/login", (req, res) => res.render("login"));
+/***************/
+/* USER ROUTES */
+/***************/
+
+app.get("/login", (req, res) => {
+  const messages = req.flash("messages");
+  res.render("login", { messages });
+});
+
+app.get("/logout", (req, res) => {
+  req.logout();
+  res.redirect("/");
+});
+
+app.get("/signup", (req, res) => {
+  const errors = req.flash("errors");
+  return res.render("signup", { errors });
+});
 
 const callback = (): void => {
   // eslint-disable-next-line no-console

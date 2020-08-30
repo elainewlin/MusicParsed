@@ -3,12 +3,13 @@
 {% block content %}
 <div class="container">
   <h1>Login</h1>
+  {% include "partials/flash_message.html" %}
   <form action="/api/login" method="post">
     <label>Username:</label>
-    <input type="text" name="username" class="form-control" placeholder="User"/>
+    <input type="text" name="username" class="form-control" placeholder="User" required />
     <br />
     <label>Password:</label>
-    <input type="password" name="password" class="form-control" placeholder="Password"/>
+    <input type="password" name="password" class="form-control" placeholder="Password" required />
     <br />
     <input type="submit" class="btn btn-primary" value="Submit"/>
   </form>
