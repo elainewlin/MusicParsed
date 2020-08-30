@@ -77,4 +77,6 @@ export const createUser = async (body: SignupBody) => {
   // Mark signup token as used
   tokenFromDB.userId = user.id;
   await tokenFromDB.save();
+
+  return user;
 };

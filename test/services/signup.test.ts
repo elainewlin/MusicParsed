@@ -8,13 +8,16 @@ const checkValidateError = (signupBody: SignupBody, expectedMsg: string) => {
   } catch (err) {
     assert.equal(err.message, expectedMsg);
   }
-}
+};
 
-const checkValidateErrors = (signupBodyList: SignupBody[], expectedMsg: string) => {
+const checkValidateErrors = (
+  signupBodyList: SignupBody[],
+  expectedMsg: string
+) => {
   signupBodyList.forEach(signupBody => {
     checkValidateError(signupBody, expectedMsg);
-  })
-}
+  });
+};
 
 /**
  * Generates an alphanumeric string of a given length
@@ -28,17 +31,19 @@ const generateString = (length: number) => {
   return str;
 };
 
-const createSignupBody = (opts: {
-  username?: string,
-  password?: string,
-} = {}): SignupBody => {
+const createSignupBody = (
+  opts: {
+    username?: string;
+    password?: string;
+  } = {}
+): SignupBody => {
   const { username, password } = opts;
   return {
     username: username || "mockUsername",
     password: password || "mockPassword",
     signupToken: "mockToken",
-  }
-}
+  };
+};
 
 describe("validateUserInput", () => {
   it("should check if signup body has all fields", () => {
@@ -47,16 +52,16 @@ describe("validateUserInput", () => {
       { username: "" },
       { username: "", password: "" },
       { password: "", signupToken: "" },
-    ]
-    const expectedMsg = "Missing required field"
-    checkValidateErrors(signupBodyList, expectedMsg)
+    ];
+    const expectedMsg = "Missing required field";
+    checkValidateErrors(signupBodyList, expectedMsg);
   });
 
   it("should check if username if alphanumeric", () => {
-    const invalidUsernames = [ "!!!!", "a_bc" ];
-    const signupBodyList = invalidUsernames.map(username => {
-      return createSignupBody({ username });
-    });
+    const invalidUsernames = ["!!!!", "a_bc"];
+    const signupBodyList = invalidUsernames.map(username =>
+      createSignupBody({ username })
+    );
     const expectedMsg = "Username must only contain letters and numbers";
     checkValidateErrors(signupBodyList, expectedMsg);
   });
@@ -64,9 +69,9 @@ describe("validateUserInput", () => {
   it("should check if username length is valid", () => {
     const tooLongName = generateString(21);
     const invalidUsernames = ["a", tooLongName];
-    const signupBodyList = invalidUsernames.map(username => {
-      return createSignupBody({ username });
-    });
+    const signupBodyList = invalidUsernames.map(username =>
+      createSignupBody({ username })
+    );
     const expectedMsg = "Username must be between 2-20 characters";
     checkValidateErrors(signupBodyList, expectedMsg);
   });
@@ -75,11 +80,11 @@ describe("validateUserInput", () => {
     const tooLongPassword = generateString(31);
     const tooShortPassword = generateString(3);
     const invalidPasswords = [tooShortPassword, tooLongPassword];
-    const signupBodyList = invalidPasswords.map(password => {
-      return createSignupBody({ password });
-    });
-    const expectedMsg = "Password must be between 4-30 characters"
-    checkValidateErrors(signupBodyList, expectedMsg)
+    const signupBodyList = invalidPasswords.map(password =>
+      createSignupBody({ password })
+    );
+    const expectedMsg = "Password must be between 4-30 characters";
+    checkValidateErrors(signupBodyList, expectedMsg);
   });
 
   it("should accept valid input", () => {
@@ -91,4 +96,4 @@ describe("validateUserInput", () => {
       assert.equal(err.message, "Expected no error");
     }
   });
-})
+});

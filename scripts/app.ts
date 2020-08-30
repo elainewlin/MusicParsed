@@ -60,6 +60,12 @@ const requireAdmin = (req: any, res: any, next: Function) => {
   });
 };
 
+const renderTemplate = (req: any, res: any, template: string) => {
+  const messages = req.flash("messages");
+  const errors = req.flash("errors");
+  res.render(template, { messages, errors });
+};
+
 const loginStrategy = (username: string, password: string, cb: Function) => {
   UserModel.findOne({ username }, (err: Error, user: User) => {
     if (err) return cb(err);
@@ -270,15 +276,28 @@ app.post(
 );
 
 app.post("/api/signup", signupLimiter, async (req, res) => {
+  const handleError = (msg: string) => {
+    req.flash("errors", msg);
+    res.redirect("/signup");
+  };
+
+  let user;
   try {
     validateUserInput(req.body);
-    await createUser(req.body);
+    user = await createUser(req.body);
   } catch (err) {
-    req.flash("errors", err.message);
-    return res.redirect("/signup");
+    return handleError(err.message);
   }
-  req.flash("messages", "User created - please login");
-  return res.redirect("/login");
+
+  if (!user) {
+    return handleError("Failed to create user");
+  }
+
+  req.login(user, err => {
+    if (err) return handleError("Failed to login with new user");
+    req.flash("messages", "User created - you can now add/edit songs");
+    return res.redirect("/song/edit");
+  });
 });
 
 app.use("/static", express.static(path.resolve(__dirname, "../static")));
@@ -306,7 +325,7 @@ app.get("/song/:artist/:title", (req, res) =>
 );
 
 app.get("/song/edit", requireLogin, (req, res) => {
-  res.render("edit_songs");
+  renderTemplate(req, res, "edit_songs");
 });
 
 app.get("/tag/edit", requireAdmin, (req, res) => {
@@ -318,8 +337,7 @@ app.get("/tag/edit", requireAdmin, (req, res) => {
 /***************/
 
 app.get("/login", (req, res) => {
-  const messages = req.flash("messages");
-  res.render("login", { messages });
+  renderTemplate(req, res, "login");
 });
 
 app.get("/logout", (req, res) => {
@@ -328,8 +346,7 @@ app.get("/logout", (req, res) => {
 });
 
 app.get("/signup", (req, res) => {
-  const errors = req.flash("errors");
-  return res.render("signup", { errors });
+  renderTemplate(req, res, "signup");
 });
 
 const callback = (): void => {
