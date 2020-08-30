@@ -1,15 +1,15 @@
 import mongoose from "mongoose";
 
-export interface User {
-  _id: string;
-  username: string;
-  passwordHash: string;
+export interface User extends mongoose.Document {
+  username?: string;
+  passwordHash?: string;
   admin?: boolean;
 }
 
 const userSchema = new mongoose.Schema({
-  username: { type: String, unique: true, index: true },
-  passwordHash: String,
+  createdAt: { type: Date, default: Date.now },
+  username: { type: String, unique: true, index: true, required: true },
+  passwordHash: { type: String, required: true },
   admin: Boolean,
 });
 

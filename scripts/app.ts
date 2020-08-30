@@ -8,14 +8,22 @@ import nunjucks from "nunjucks";
 import path from "path";
 import bodyParser from "body-parser";
 import bcrypt from "bcrypt";
-import rateLimit from "express-rate-limit";
 import passport from "passport";
 import { Strategy } from "passport-local";
 import expressSession from "express-session";
+import flash from "connect-flash";
 import { User } from "../models/user";
 import UserModel from "../models/user";
 import TagModel from "../models/tag";
 import SongModel from "../models/song";
+import { validateSignupInput, createUser } from "../services/signup";
+import {
+  loginLimiter,
+  signupLimiter,
+  createSongLimiter,
+  apiLimiter,
+} from "../services/rateLimit";
+import { changeUserPassword } from "../services/password";
 
 dotenv.config();
 const host = process.env.PORT ? undefined : "127.0.0.1";
@@ -23,7 +31,8 @@ const port = +(process.env.PORT || 5000);
 const baseUri = process.env.MONGO_URI || "mongodb://localhost:27017";
 const mongoDbName = process.env.MONGO_DB_NAME || "musicparsed";
 
-const dbPromise = (async () => {
+// Connect to Mongo DB
+(async () => {
   await retry(
     () =>
       mongoose.connect(baseUri, {
@@ -38,7 +47,7 @@ const dbPromise = (async () => {
 
 const requireLogin = (req: any, res: any, next: Function) => {
   if (!req.isAuthenticated || !req.isAuthenticated()) {
-    return res.redirect("/login");
+    return res.redirect(`/login?fromUrl=${req.originalUrl}`);
   }
   next();
 };
@@ -52,11 +61,23 @@ const requireAdmin = (req: any, res: any, next: Function) => {
   });
 };
 
+const renderTemplate = (
+  req: any,
+  res: any,
+  template: string,
+  args: object = {}
+) => {
+  const messages = req.flash("messages");
+  const errors = req.flash("errors");
+  res.render(template, { messages, errors, ...args });
+};
+
 const loginStrategy = (username: string, password: string, cb: Function) => {
   UserModel.findOne({ username }, (err: Error, user: User) => {
     if (err) return cb(err);
     if (!user) return cb(null, false);
     const hash = user.passwordHash;
+    if (!hash) return cb(null, false);
     bcrypt.compare(password, hash, (err: Error, isValid: boolean) => {
       if (!isValid) return cb(null, false);
       return cb(null, user);
@@ -92,6 +113,7 @@ app.use(
 
 app.use(passport.initialize());
 app.use(passport.session());
+app.use(flash());
 
 // Compatibility with Jinja2 templates
 const env = nunjucks.configure(path.resolve(__dirname, "../templates"), {
@@ -150,7 +172,7 @@ app.get("/api/song/:songId", async (req, res) => {
   res.json({ data: song });
 });
 
-app.post("/api/song", requireLogin, async (req, res) => {
+app.post("/api/song", requireLogin, createSongLimiter, async (req, res) => {
   const userId = get(req, "user._id");
   if (!userId) {
     return res.json("No user ID found");
@@ -170,7 +192,7 @@ app.post("/api/song", requireLogin, async (req, res) => {
   res.send(`Added song ${req.body.title}`);
 });
 
-app.put("/api/song/:songId", requireLogin, async (req, res) => {
+app.put("/api/song/:songId", requireLogin, apiLimiter, async (req, res) => {
   const userId = get(req, "user._id");
   if (!userId) {
     return res.json("No user ID found");
@@ -215,7 +237,7 @@ app.delete("/api/song/:songId", requireLogin, async (req, res) => {
   res.send("Deleted!");
 });
 
-app.post("/api/tag", requireAdmin, async (req, res) => {
+app.post("/api/tag", requireAdmin, apiLimiter, async (req, res) => {
   const tagName = req.body.tag;
   if (!tagName) {
     return res.send("No tag name provided");
@@ -251,19 +273,57 @@ app.post("/api/tag", requireAdmin, async (req, res) => {
   );
 });
 
-const loginLimiter = rateLimit({
-  windowMs: 15 * 60 * 1000, // 15 minutes
-  max: 10,
-});
-
 app.post(
   "/api/login",
   passport.authenticate("local", { failureRedirect: "/login" }),
   loginLimiter,
   (req, res) => {
-    res.redirect("/song/edit");
+    const redirect = String(req.query.fromUrl) || "/song/edit";
+    res.redirect(redirect);
   }
 );
+
+app.post("/api/password", loginLimiter, async (req, res) => {
+  const handleError = (msg: string) => {
+    req.flash("messages");
+    req.flash("errors", msg);
+    res.redirect("/password");
+  };
+
+  try {
+    await changeUserPassword(req.user, req.body);
+  } catch (err) {
+    return handleError(err.message);
+  }
+
+  req.flash("messages", "Successfully reset password");
+  res.redirect("/password");
+});
+
+app.post("/api/signup", signupLimiter, async (req, res) => {
+  const handleError = (msg: string) => {
+    req.flash("errors", msg);
+    res.redirect("/signup");
+  };
+
+  let user;
+  try {
+    validateSignupInput(req.body);
+    user = await createUser(req.body);
+  } catch (err) {
+    return handleError(err.message);
+  }
+
+  if (!user) {
+    return handleError("Failed to create user");
+  }
+
+  req.login(user, err => {
+    if (err) return handleError("Failed to login with new user");
+    req.flash("messages", "User created - you can now add/edit songs");
+    return res.redirect("/song/edit");
+  });
+});
 
 app.use("/static", express.static(path.resolve(__dirname, "../static")));
 
@@ -274,8 +334,6 @@ app.get("/convert", (req, res) => res.render("convert"));
 app.get("/import", (req, res) => res.render("import"));
 
 app.get("/render", (req, res) => res.render("render_chords"));
-
-app.get("/aus", (req, res) => res.render("aus"));
 
 app.get("/guides", (req, res) => res.render("guides/index"));
 
@@ -292,14 +350,38 @@ app.get("/song/:artist/:title", (req, res) =>
 );
 
 app.get("/song/edit", requireLogin, (req, res) => {
-  res.render("edit_songs");
+  renderTemplate(req, res, "edit_songs");
 });
 
 app.get("/tag/edit", requireAdmin, (req, res) => {
   res.render("edit_tags");
 });
 
-app.get("/login", (req, res) => res.render("login"));
+/***************/
+/* USER ROUTES */
+/***************/
+
+app.get("/login", (req, res) => {
+  let formAction = "/api/login";
+  const { fromUrl } = req.query;
+  if (fromUrl) {
+    formAction += `?fromUrl=${fromUrl}`;
+  }
+  renderTemplate(req, res, "login", { formAction });
+});
+
+app.get("/logout", (req, res) => {
+  req.logout();
+  res.redirect("/");
+});
+
+app.get("/password", requireLogin, (req, res) => {
+  renderTemplate(req, res, "password");
+});
+
+app.get("/signup", (req, res) => {
+  renderTemplate(req, res, "signup");
+});
 
 const callback = (): void => {
   // eslint-disable-next-line no-console

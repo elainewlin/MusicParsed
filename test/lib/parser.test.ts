@@ -1,4 +1,4 @@
-import * as parser from "../lib/parser";
+import * as parser from "../../lib/parser";
 import { assert } from "chai";
 
 describe("slugify", () => {
