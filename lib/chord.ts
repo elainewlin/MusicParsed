@@ -56,6 +56,9 @@ const guessKeyCenterFifths = (allChords: string[]): number => {
     const m = chord.match(chordRegex);
     return m ? [pitchToFifths.get(m[1])! - (m[2] ? 3 : 0)] : [];
   });
+  if (!allFifths.length) {
+    return 0;
+  }
   return Math.round(allFifths.reduce((a, b) => a + b) / allFifths.length);
 };
 

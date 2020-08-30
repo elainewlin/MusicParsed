@@ -28,6 +28,9 @@ $(document).ready(() => {
 
   $("#renderChords").click(() => {
     const rawChordString = $("#chords").val() as string;
+    if (!rawChordString) {
+      return alert("No chords provided");
+    }
 
     // Super basic parser
     // Removes white space and splits by semi-colon

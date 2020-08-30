@@ -82,8 +82,20 @@ export const getChordData = function(
   orientation: string = "right"
 ): ChordFingeringData {
   let chordName = chord;
-  const m = chord.match(new RegExp(`^(${pitchRegex.source})(.*)$`))!;
-  let chordFingering = instrumentData.chords[pitchToSemitones(m[1])].get(m[2]);
+  const unknown: ChordFingeringData = {
+    chordName: chordName,
+    unknown: true,
+  };
+
+  const match = chord.match(new RegExp(`^(${pitchRegex.source})(.*)$`))!;
+  if (!match) {
+    return unknown;
+  }
+  const [fullChord, root, chordType] = match;
+
+  let chordFingering = instrumentData.chords[pitchToSemitones(root)].get(
+    chordType
+  );
 
   const overrideDefaultChord = chord.includes("|");
   if (overrideDefaultChord) {
@@ -97,10 +109,7 @@ export const getChordData = function(
     }
     return getChordFingering(chordName, chordFingering, instrumentData);
   } else {
-    return {
-      chordName: chordName,
-      unknown: true,
-    };
+    return unknown;
   }
 };
 
