@@ -1,5 +1,5 @@
 import { range } from "lodash";
-import { instrumentsData } from "../../lib/instrument";
+import { instrumentsData } from "../../../lib/instrument";
 
 export const WIDGET_IDS = {
   INSTRUMENT: Object.keys(instrumentsData).map(type => `#instrument-${type}`),

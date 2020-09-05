@@ -1,25 +1,9 @@
 import puppeteer from "puppeteer";
 import { assert } from "chai";
-import { getAllHtmlForSelector, clickAllButons } from "./browser";
-import { BASE_URL } from "./config";
-import { WIDGET_IDS } from "./constants";
-
-const checkChords = async (page, knownChords, unknownChords = []) => {
-  // Assuming for tests that all unknown chords come first
-  const allChords = [...unknownChords, ...knownChords];
-
-  // Check chord names
-  const chords = await getAllHtmlForSelector(page, ".chordName");
-  assert.deepStrictEqual(chords, allChords);
-
-  // Check chord images
-  const svgs = await page.$$(".chordPics svg");
-  assert.equal(svgs.length, knownChords.length);
-
-  // Check unknown chords
-  const unknown = await page.$$(".chordPics .chordUnknown");
-  assert.equal(unknown.length, unknownChords.length);
-};
+import { getAllHtmlForSelector, clickAllButtons } from "./helpers/browser";
+import { BASE_URL } from "./helpers/config";
+import { WIDGET_IDS } from "./helpers/constants";
+import { checkChords } from "./helpers/chords";
 
 describe("Render chords page", function() {
   before(async () => {
@@ -42,11 +26,11 @@ describe("Render chords page", function() {
   });
 
   it("can click all of the instrument buttons", async () => {
-    await clickAllButons(this.page, WIDGET_IDS.INSTRUMENT);
+    await clickAllButtons(this.page, WIDGET_IDS.INSTRUMENT);
   });
 
   it("can click all of the orientation buttons", async () => {
-    await clickAllButons(this.page, WIDGET_IDS.ORIENTATION);
+    await clickAllButtons(this.page, WIDGET_IDS.ORIENTATION);
   });
 
   it("can render different chords", async () => {

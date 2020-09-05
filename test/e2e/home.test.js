@@ -1,16 +1,16 @@
 import puppeteer from "puppeteer";
 import { assert } from "chai";
 import { instrumentsData } from "../../lib/instrument";
-import { getHtmlForSelector, getAllHtmlForSelector } from "./browser";
-import { BASE_URL } from "./config";
-import { checkSongView } from "./songView";
+import { getHtmlForSelector, getAllHtmlForSelector } from "./helpers/browser";
+import { BASE_URL } from "./helpers/config";
+import { checkSongView } from "./helpers/songView";
 
 describe("Home page", function() {
   before(async () => {
     this.browser = await puppeteer.launch();
     this.page = await this.browser.newPage();
   });
-  before("Go to render page", async () => {
+  before("Go to home page", async () => {
     await this.page.goto(BASE_URL);
   });
   after(async () => {
