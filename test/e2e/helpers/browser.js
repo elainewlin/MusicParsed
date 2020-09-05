@@ -19,6 +19,5 @@ export const getAllTextForSelector = async (page, selector) => {
   );
 };
 
-export const clickAllButtons = async (page, selectors) => {
-  return Promise.all(selectors.map(async id => page.click(id)));
-};
+export const clickAllButtons = async (page, selectors) =>
+  Promise.all(selectors.map(async id => page.click(id)));

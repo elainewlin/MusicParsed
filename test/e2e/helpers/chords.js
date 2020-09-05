@@ -1,5 +1,5 @@
 import { assert } from "chai";
-import { getAllHtmlForSelector} from "./browser"
+import { getAllHtmlForSelector } from "./browser";
 export const checkChords = async (page, knownChords, unknownChords = []) => {
   // Assuming for tests that all unknown chords come first
   const allChords = [...unknownChords, ...knownChords];

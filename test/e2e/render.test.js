@@ -1,6 +1,5 @@
 import puppeteer from "puppeteer";
-import { assert } from "chai";
-import { getAllHtmlForSelector, clickAllButtons } from "./helpers/browser";
+import { clickAllButtons } from "./helpers/browser";
 import { BASE_URL } from "./helpers/config";
 import { WIDGET_IDS } from "./helpers/constants";
 import { checkChords } from "./helpers/chords";

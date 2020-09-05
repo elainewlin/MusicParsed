@@ -1,6 +1,5 @@
 import puppeteer from "puppeteer";
 import { assert } from "chai";
-import { instrumentsData } from "../../lib/instrument";
 import { getHtmlForSelector, getAllHtmlForSelector } from "./helpers/browser";
 import { BASE_URL } from "./helpers/config";
 import { checkSongView } from "./helpers/songView";
