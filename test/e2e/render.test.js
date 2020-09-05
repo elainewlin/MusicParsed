@@ -1,9 +1,8 @@
 import puppeteer from "puppeteer";
 import { assert } from "chai";
-import { instrumentsData } from "../../lib/instrument";
-import { getAllHtmlForSelector } from "./browser";
-
-const BASE_URL = "http://localhost:5000";
+import { getAllHtmlForSelector, clickAllButons } from "./browser";
+import { BASE_URL } from "./config";
+import { WIDGET_IDS } from "./constants";
 
 const checkChords = async (page, knownChords, unknownChords = []) => {
   // Assuming for tests that all unknown chords come first
@@ -43,15 +42,11 @@ describe("Render chords page", function() {
   });
 
   it("can click all of the instrument buttons", async () => {
-    const instrumentIds = Object.keys(instrumentsData).map(
-      type => `#instrument-${type}`
-    );
-    await Promise.all(instrumentIds.map(async id => this.page.click(id)));
+    await clickAllButons(this.page, WIDGET_IDS.INSTRUMENT);
   });
 
   it("can click all of the orientation buttons", async () => {
-    const orientationIds = ["#orientation-left", "#orientation-right"];
-    await Promise.all(orientationIds.map(async id => this.page.click(id)));
+    await clickAllButons(this.page, WIDGET_IDS.ORIENTATION);
   });
 
   it("can render different chords", async () => {
