@@ -341,6 +341,10 @@ app.get("/guides/:guide_type", (req, res) =>
   res.render(`guides/${req.params.guide_type}`)
 );
 
+app.get("/guides/songs/:guide_type", (req, res) =>
+  res.render(`guides/songs/${req.params.guide_type}`)
+);
+
 app.get("/song/:artist/:title", (req, res) =>
   res.render("index", {
     title: req.params.title,
