@@ -278,7 +278,8 @@ app.post(
   passport.authenticate("local", { failureRedirect: "/login" }),
   loginLimiter,
   (req, res) => {
-    const redirect = String(req.query.fromUrl) || "/song/edit";
+    const { fromUrl } = req.query;
+    const redirect = fromUrl ? String(fromUrl) : "/song/edit";
     res.redirect(redirect);
   }
 );
@@ -385,6 +386,12 @@ app.get("/password", requireLogin, (req, res) => {
 
 app.get("/signup", (req, res) => {
   renderTemplate(req, res, "signup");
+});
+
+// ERROR PAGE
+app.use((req, res) => {
+  res.status(404);
+  res.render("404", { url: req.url });
 });
 
 const callback = (): void => {
