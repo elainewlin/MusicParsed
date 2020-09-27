@@ -673,6 +673,7 @@ const ukuleleChords: Map<string, string>[] = [
     ["7sus4", "0,2,0,0"],
     ["m7no5", "0,0,3,0"],
     ["7no3", "0,4,3,0"],
+    ["sus#4", "2,3,0,0"],
   ]),
   /* Bb */
   new Map([

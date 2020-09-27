@@ -85,6 +85,7 @@ describe("isChordLine", () => {
       "Dm",
       "Emadd9",
       "A7no3",
+      "Asus#4",
     ];
     complexChords.forEach(chord => assert.isTrue(parser.isChordLine(chord)));
     assert.isTrue(parser.isChordLine(complexChords.join(" ")));
