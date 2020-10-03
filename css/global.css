@@ -78,7 +78,7 @@ pre {
 .social-image {
   padding: 0 4px;
   vertical-align: middle;
-  font-size: 28px;
+  font-size: 32px;
   color: black;
 }
 
@@ -89,5 +89,5 @@ pre {
 /* Container */
 
 .container {
-  padding-top: 8px;
+  padding: 8px 0;
 }

@@ -64,7 +64,7 @@
 }
 
 #song {
-  padding-left: 10px;
+  padding-left: 8px;
   width: 100%;
   height: 100%;
   column-fill: auto;
@@ -82,7 +82,7 @@
   display: flex;
   flex-direction: column;
   min-height: 100%;
-  padding: 0 10px 50px;
+  padding: 0 8px 32px;
 }
 
 html#songPage,
@@ -91,7 +91,7 @@ html#songPage body {
 }
 
 #allSongs {
-  column-width: 350px;
+  column-width: 360px;
   column-count: 3;
 }
 
