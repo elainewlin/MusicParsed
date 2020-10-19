@@ -387,29 +387,34 @@
   <p>
     Here's how to add quick links to/from different sections in Adobe Acrobat.
     For example, I configured each song in the big book so that tapping on the
-    title takes you back to the first page of the PDF.
+    title takes you back to the first page of the PDF. As a warning, this is tricky to maintain.
   </p>
 
-  <p>Two words of warning here:</p>
-
-  <ol>
-    <li>
-      I don't think it's worth adding links to the table of contents. It is
-      convenient if tapping on a song from the table of contents takes you to
-      the song. However, this is difficult to maintain. When you regenerate the
-      table of contents from the word editor, you lose all of the links and
-      would need to re-add all of them.
-    </li>
-    <li>
-      Avoid setting links to go to specific pages. For example, if you have a
-      link that goes to page 2 of the table of contents, if you replace the
-      table of contents, the link will break.
-    </li>
-  </ol>
-
   <p>
-    Instead, you can configure links to go to the first page of the PDF. This
-    will always work even if you change the first page. Here's how to add a link
+    The only link action that works across different devices is `Execute a menu item > Go to a page in this document`. I tried using the link actions `View > Page Navigation > First Page` or `Run Javascript > this.pageNum = page`. These actions work in Adobe Acrobat, but not when you open the PDF on your tablet.
+  </p>
+  <p>
+    If you're curious, see <a href="https://github.com/elainewlin/pdf-table-of-contents" target="_blank">Github</a> for more information on running Javascript in a PDF. I wrote code to automatically create links that run Javascript `this.pageNum = page`. The script creates links with the right spacing, but the link action does not work across devices since devices cannot execute Javascript. To set the right link actions, I ended up paying somebody $10 to manually set link actions via <a href="https://www.upwork.com/" target="_blank">Upwork</a>.
+  </p>
+  <p>
+    The action `Go to a page in this document` maintains a reference to the page. For example, suppose you set a link to go to page 10 with song title "As Long As You Love Me", and you add a page before page 10. The link will still go to the page with song title "As Long As You Love Me", not the new page 10 of the PDF document.
+  </p>
+  <p>
+    This has a few implications:
+  </p>
+  <ul>
+    <li>
+      If you replace a song page of the PDF, you need to update the link to the song in the table of contents and create a link from the song title back to the beginning.
+    </li>
+    <li>
+      Do not replace the first page of the table of contents. If you replace the page, that will break all links from songs back to the first page. Instead, edit the table of contents within Adobe Acrobat. This looks better if you use a standard font for the first page, such as Arial.
+    </li>
+    <li>
+      Be careful when replacing the table of contents. First, add in the new version. Then, select all links from the old page of the table of contents and paste them to the new page. Fix all the links in the new table of contents pages before deleting the old table of contents.
+    </li>
+  </ul>
+  <p>
+    Here's how to add a link
     in Adobe Acrobat. First, go to the Edit PDF feature, and click Link >
     Add/Edit Web or Document Link in the top bar. Click and drag to set where
     the link is.
@@ -424,8 +429,7 @@
   </p>
 
   <p>
-    Double-click on the link area to open up the Link Properties dialog. Click
-    Actions > Execute a menu item > Add… > View > Page Navigation > First Page.
+    Double-click on the link area to open up the Link Properties dialog. Select the action `Go to a page in this document`, and set the page. This is the only link action that works outside of Adobe Acrobat.
   </p>
   <img
     src="/static/images/adobe_acrobat_create_link_set_link_properties.png"
