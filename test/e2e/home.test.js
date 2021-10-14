@@ -21,7 +21,7 @@ describe("Home page", function() {
   });
 
   it("shows navigation links", async () => {
-    const expectedLinks = ["Render", "Convert", "Guides"];
+    const expectedLinks = ["Tools", "Render chords", "Convert tabs", "Guides"];
     const navLinks = await getAllHtmlForSelector(this.page, ".nav-link");
     assert.deepStrictEqual(navLinks, expectedLinks);
   });
