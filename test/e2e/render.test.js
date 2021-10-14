@@ -10,7 +10,7 @@ describe("Render chords page", function() {
     this.page = await this.browser.newPage();
   });
   before("Go to render page", async () => {
-    const renderUrl = `${BASE_URL}/render`;
+    const renderUrl = `${BASE_URL}/tools/render_chords`;
     await this.page.goto(renderUrl);
   });
   after(async () => {

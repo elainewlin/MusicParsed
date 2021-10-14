@@ -330,11 +330,8 @@ app.use("/static", express.static(path.resolve(__dirname, "../static")));
 
 app.get(["/", "/all"], (req, res) => res.render("all_songs"));
 
-app.get("/convert", (req, res) => res.render("convert"));
-
-app.get("/import", (req, res) => res.render("import"));
-
-app.get("/render", (req, res) => res.render("render_chords"));
+app.get("/tools/convert_tabs", (req, res) => res.render("tools/convert_tabs"));
+app.get("/tools/render_chords", (req, res) => res.render("tools/render_chords"));
 
 app.get("/guides", (req, res) => res.render("guides/index"));
 

@@ -1,9 +1,18 @@
 <ul class="navbar-nav">
   <li class="nav-item">
-    <a class="nav-link" href="/render">Render</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="/convert">Convert</a>
+    <div class="dropdown">
+      <a
+        class="nav-link dropdown-toggle"
+        id="toolsDropdown"
+        data-toggle="dropdown"
+        area-haspopup="true"
+        area-expanded="false"
+      >Tools</a>
+      <div class="dropdown-menu" area-labelledby="toolsDropdown">
+        <a class="dropdown-item nav-link" href="/tools/render_chords">Render chords</a>
+        <a class="dropdown-item nav-link" href="/tools/convert_tabs">Convert tabs</a>
+      </div>
+    </div>
   </li>
   <li class="nav-item">
     <a class="nav-link" href="/guides">Guides</a>

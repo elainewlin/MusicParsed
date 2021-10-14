@@ -7,10 +7,15 @@
 {% block content %}
 <div class="container">
   <h1>Convert Tabs</h1>
+  <p>Convert tabs between the ukulele and guitar. This is helpful if you need to play a guitar tab on an ukulele or vice versa.</p>
   <div class="row">
     <div class="col-8">
       <h2>Enter your <span class="fromInstrument">guitar</span> tab</h2>
-      <textarea class="tab"></textarea>
+      <textarea
+        class="tab input"
+        placeholder=
+        "E|-------2-----&#10;B|-----3---3---&#10;G|---2-------2-&#10;D|-0-----------&#10;A|-------------&#10;E|-------------"
+      ></textarea>
       <div>
         <button type="submit" class="btn btn-primary convert">Convert to <span class="toInstrument">ukulele</span></button>
       </div>

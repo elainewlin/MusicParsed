@@ -14,7 +14,7 @@ $(document).ready(() => {
 
   const baseSong: SongData = {
     fullName: "",
-    allChords: ["Am", "F", "C", "G"],
+    allChords: ["Am|2,0,0,3", "F", "C", "G"],
     lines: [],
     songId: "",
     title: "",
