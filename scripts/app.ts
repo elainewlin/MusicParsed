@@ -337,6 +337,7 @@ app.use("/static", express.static(path.resolve(__dirname, "../static")));
 app.get(["/", "/all"], (req, res) => res.render("all_songs"));
 
 app.get("/tools/convert_tabs", (req, res) => res.render("tools/convert_tabs"));
+
 app.get("/tools/render_chords", (req, res) =>
   res.render("tools/render_chords")
 );
