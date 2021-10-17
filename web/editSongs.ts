@@ -3,6 +3,7 @@
  */
 
 import $ from "jquery";
+import "bootstrap";
 import { getSongId, parseLines } from "../lib/parser";
 import { SongInput } from "../lib/song";
 
