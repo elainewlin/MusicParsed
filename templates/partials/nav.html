@@ -3,6 +3,21 @@
     <div class="dropdown">
       <a
         class="nav-link dropdown-toggle"
+        id="accountDropdown"
+        data-toggle="dropdown"
+        area-haspopup="true"
+        area-expanded="false"
+      >Account</a>
+      <div class="dropdown-menu" area-labelledby="accountDropdown">
+        <a class="dropdown-item nav-link" href="/login">Log in</a>
+        <a class="dropdown-item nav-link" href="/signup">Sign up</a>
+      </div>
+    </div>
+  </li>
+  <li class="nav-item">
+    <div class="dropdown">
+      <a
+        class="nav-link dropdown-toggle"
         id="toolsDropdown"
         data-toggle="dropdown"
         area-haspopup="true"
@@ -11,6 +26,7 @@
       <div class="dropdown-menu" area-labelledby="toolsDropdown">
         <a class="dropdown-item nav-link" href="/tools/render_chords">Render chords</a>
         <a class="dropdown-item nav-link" href="/tools/convert_tabs">Convert tabs</a>
+        <a class="dropdown-item nav-link" href="/song/edit">Add/edit songs</a>
       </div>
     </div>
   </li>

@@ -69,7 +69,13 @@ const renderTemplate = (
 ) => {
   const messages = req.flash("messages");
   const errors = req.flash("errors");
-  res.render(template, { messages, errors, ...args });
+  const warnings = req.flash("warnings");
+  res.render(template, {
+    messages,
+    errors,
+    warnings,
+    ...args,
+  });
 };
 
 const loginStrategy = (username: string, password: string, cb: Function) => {
@@ -370,6 +376,7 @@ app.get("/login", (req, res) => {
   const { fromUrl } = req.query;
   if (fromUrl) {
     formAction += `?fromUrl=${fromUrl}`;
+    req.flash("warnings", "You must log in to add/edit songs");
   }
   renderTemplate(req, res, "login", { formAction });
 });

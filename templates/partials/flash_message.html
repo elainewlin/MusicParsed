@@ -9,3 +9,9 @@
     {{ messages[0] }}
   </div>
 {% endif %}
+
+{% if warnings and warnings.length %}
+  <div class="alert alert-warning" role="alert">
+    {{ warnings[0] }}
+  </div>
+{% endif %}
