@@ -28,7 +28,7 @@
 .ui-widget {
   padding: 4px 0;
   break-inside: avoid;
-  color: black;
+  color: var(--theme-text);
 }
 
 .line {
