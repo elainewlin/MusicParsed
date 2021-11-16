@@ -47,10 +47,6 @@ html body {
   color: var(--theme-text);
 }
 
-.highlight {
-  background-color: #c1d7e9;
-}
-
 pre {
   border: 0;
   background-color: transparent;
