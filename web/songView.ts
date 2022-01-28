@@ -248,7 +248,7 @@ export const popStateHandler = function(
 
 const filterSongsByTerm = (data: SongData[], term: string) => {
   for (const song of data) {
-    const songId = song.artist + " - " + song.title;
+    const songId = song.title + " - " + song.artist;
     song.label = songId;
     song.value = songId;
   }
