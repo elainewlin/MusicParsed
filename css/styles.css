@@ -1,5 +1,5 @@
 @media print {
-  .ui-widget {
+  .widget {
     display: none;
   }
 
@@ -25,10 +25,14 @@
   font-style: normal;
 }
 
-.ui-widget {
+.widget {
   padding: 4px 0;
   break-inside: avoid;
   color: var(--theme-text);
+}
+
+.dark-text {
+  color: black;
 }
 
 .line {
