@@ -41,7 +41,6 @@ const createSignupBody = (
   return {
     username: username || "mockUsername",
     password: password || "mockPassword",
-    signupToken: "mockToken",
   };
 };
 
@@ -51,7 +50,6 @@ describe("validateSignupInput", () => {
       {},
       { username: "" },
       { username: "", password: "" },
-      { password: "", signupToken: "" },
     ];
     const expectedMsg = "Missing required field";
     checkValidateErrors(signupBodyList, expectedMsg);

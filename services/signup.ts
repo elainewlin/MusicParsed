@@ -1,6 +1,4 @@
 import UserModel from "../models/user";
-import SignupTokenModel from "../models/signupToken";
-import { SignupToken } from "../models/signupToken";
 import { isValidPasswordLength, generatePassword } from "./password";
 
 const isAlphaNumeric = (str: string) => str.match(/^[a-z0-9]+$/i);
@@ -14,13 +12,12 @@ const isValidNameLength = (str: string) => {
 export interface SignupBody {
   username?: string;
   password?: string;
-  signupToken?: string;
 }
 
 export const validateSignupInput = (body: SignupBody) => {
-  const { username, password, signupToken } = body;
+  const { username, password } = body;
 
-  if (!username || !password || !signupToken) {
+  if (!username || !password) {
     throw new Error("Missing required field");
   }
 
@@ -36,27 +33,10 @@ export const validateSignupInput = (body: SignupBody) => {
   }
 };
 
-const getSignupToken = async (signupToken: string) => {
-  let tokenFromDB: SignupToken | null;
-  try {
-    tokenFromDB = await SignupTokenModel.findById(signupToken);
-  } catch (err) {
-    throw new Error("Invalid signup token");
-  }
-
-  if (!tokenFromDB) {
-    throw new Error("Invalid signup token");
-  }
-  if (tokenFromDB.userId) {
-    throw new Error("Signup token has already been used");
-  }
-  return tokenFromDB;
-};
-
 export const createUser = async (body: SignupBody) => {
-  const { username, password, signupToken } = body;
+  const { username, password } = body;
 
-  if (!username || !password || !signupToken) {
+  if (!username || !password) {
     throw new Error("Missing required field");
   }
 
@@ -65,15 +45,8 @@ export const createUser = async (body: SignupBody) => {
     throw new Error(`User with username ${username} already exists`);
   }
 
-  const [tokenFromDB, passwordHash] = await Promise.all([
-    getSignupToken(signupToken),
-    generatePassword(password),
-  ]);
+  const [passwordHash] = await generatePassword(password);
   const user = await UserModel.create({ username, passwordHash });
-
-  // Mark signup token as used
-  tokenFromDB.userId = user.id;
-  await tokenFromDB.save();
 
   return user;
 };
