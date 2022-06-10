@@ -1,6 +1,6 @@
 {{#lines}}
   {{#label}}
-    <h5>{{label}}</h5>
+    <div class="labelLine"><span>{{label}}</span></div>
   {{/label}}
   {{^label}}
     <div class="{{className}}">{{#chordLyricPairs}}{{#chord}}<span class="chords">{{#overLyric}}<span class="overLyric">{{/overLyric}}{{chord}}{{#overLyric}}</span>{{/overLyric}}</span>{{/chord}}{{lyric}}{{/chordLyricPairs}}</div>

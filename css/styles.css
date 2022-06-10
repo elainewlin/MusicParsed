@@ -52,6 +52,11 @@
   white-space: pre-wrap;
 }
 
+.labelLine {
+  font-size: 1.2em;
+  font-weight: "bold";
+}
+
 .chords {
   color: var(--main-blue);
 }
