@@ -11,10 +11,11 @@
 
 {% block content %}
 <div class="container">
-  <h1>Songs</h1>
-  <h3>Tags:
+  <div class="headingPrimary">Songs</div>
+  <div class="tagsContainer">
+    <span class="tagsLabel">Filter by tag:</span>
     <span id="allTags"></span>
-  </h3>
+  </div>
   <div id="allSongs"></div>
 </div>
 {% endblock %}

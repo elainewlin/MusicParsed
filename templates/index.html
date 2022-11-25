@@ -8,9 +8,10 @@
 {% block nav_widgets %}
 {% include "partials/nav_search.html" %}
 <form class="form-inline">
-  <span class="widget dark-text">
+  <span class="dark-text">
     <span>Widgets:</span>
-    <button class="btn btn-outline-secondary" type="button" id="viewToggle" title="Hide/show the column and transpose widgets">hide</button>
+    <button class="btn btn-outline-secondary" type="button" id="viewToggle"
+      title="Hide/show the column and transpose widgets">hide</button>
   </span>
 </form>
 {% endblock %}
@@ -20,33 +21,33 @@
   <div id="widgets">
     <form class="form-inline">
       <span class="widget">
-        <span>Chords:</span>
-        <span id="instrument" class="mr-2"></span>
-        <span id="chord_option" class="mr-2"></span>
+        <span class="widgetLabel">Chords:</span>
+        <span id="instrument" class="widgetLabel"></span>
+        <span id="chord_option" class="widgetLabel"></span>
       </span>
       <span class="widget">
-        <span>Orientation:</span>
+        <span class="widgetLabel">Orientation:</span>
         <span id="orientation"></span>
       </span>
     </form>
     <form class="form-inline">
       <span class="widget">
-        <span>Transpose:</span>
-        <span id="transpose" class="mr-2"></span>
+        <span class="widgetLabel">Transpose:</span>
+        <span id="transpose" class="widgetLabel"></span>
       </span>
       <span class="widget">
-        <span>Columns:</span>
+        <span class="widgetLabel">Columns:</span>
         <span id="column"></span>
       </span>
     </form>
   </div>
-  <h3>
+  <div class="headingSecondary">
     <span id="title"></span>
     <button type="button" class="btn btn-primary" id="capo">
       <span>&times;</span>
       <span id="capoAmount"></span>
     </button>
-  </h3>
+  </div>
   <div id="songContainer">
     <div id="song">
     </div>
@@ -55,4 +56,3 @@
 <div class="chordPics hideable" title="Click to hide chord pictures">
 </div>
 {% endblock %}
-
