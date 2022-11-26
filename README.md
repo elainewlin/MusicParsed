@@ -27,6 +27,12 @@ Useful commands:
     eslint . --ext ts,js --fix
     node -r babel-register-ts scripts/parser-cli.ts
 
+Deploy:
+
+    heroku login
+    heroku git:remote -a musicparsed
+    git push heroku master
+
 Run unit tests:
 
     npm run test
