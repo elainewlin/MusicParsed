@@ -108,13 +108,8 @@
     "chai": "^4.2.0",
     "mocha": "^6.0.2"
   },
-  "enginers": {
-    "name": "musicparsed",
-    "description": "A better site for song chords",
-    "version": "1.0.0",
-    "engines": {
-      "node": "16.x"
-    }
+  "engines": {
+    "node": "16.x"
   },
   "prettier": {
     "trailingComma": "es5"
