@@ -10,7 +10,7 @@ export const isValidPasswordLength = (str: string) => {
 
 export const generatePassword = async (password: string) => {
   const SALT_ROUNDS = 10;
-  return bcrypt.hash(password, SALT_ROUNDS);
+  return await bcrypt.hash(password, SALT_ROUNDS); 
 };
 
 export const checkPassword = async (password: string, hash: string) =>
