@@ -12,6 +12,16 @@
   }
 }
 
+@media (max-width: 768px) {
+  .songArtist {
+    font-size: 2rem;
+  }
+
+  .songTitle {
+    font-size: 2rem;
+  }
+}
+
 #capo {
   line-height: inherit;
   display: none;
@@ -161,7 +171,6 @@ html#songPage body {
 }
 
 .songArtist {
-  font-size: 18px;
   font-weight: 500;
   padding-bottom: 4px;
 }
