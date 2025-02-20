@@ -108,6 +108,9 @@
     "chai": "^4.2.0",
     "mocha": "^6.0.2"
   },
+  "engines": {
+    "node": "16.x"
+  },
   "prettier": {
     "trailingComma": "es5"
   }

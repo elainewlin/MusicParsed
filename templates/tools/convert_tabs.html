@@ -6,24 +6,23 @@
 
 {% block content %}
 <div class="container">
-  <h1>Convert Tabs</h1>
-  <p>Convert tabs between the ukulele and guitar. This is helpful if you need to play a guitar tab on an ukulele or vice versa.</p>
+  <h1 class="headingPrimary">Convert Tabs</h1>
+  <p>Convert tabs between the ukulele and guitar. This is helpful if you need to play a guitar tab on an ukulele or
+    vice versa.</p>
   <div class="row">
     <div class="col-8">
-      <h2>Enter your <span class="fromInstrument">guitar</span> tab</h2>
-      <textarea
-        class="tab input"
-        placeholder=
-        "E|-------2-----&#10;B|-----3---3---&#10;G|---2-------2-&#10;D|-0-----------&#10;A|-------------&#10;E|-------------"
-      ></textarea>
+      <div class="headingSecondary">Enter your <span class="fromInstrument">guitar</span> tab</div>
+      <textarea class="tab input"
+        placeholder="E|-------2-----&#10;B|-----3---3---&#10;G|---2-------2-&#10;D|-0-----------&#10;A|-------------&#10;E|-------------"></textarea>
       <div>
-        <button type="submit" class="btn btn-primary convert">Convert to <span class="toInstrument">ukulele</span></button>
+        <button type="submit" class="btn btn-primary convert">Convert to <span
+            class="toInstrument">ukulele</span></button>
       </div>
     </div>
     <div class="col-4">
-      <h2>Instruments</h2>
+      <div class="headingSecondary">Instruments</div>
       <div class="btn-group" data-toggle="buttons">
-        <label class="btn btn-primary active " id="toUkulele" >
+        <label class="btn btn-primary active " id="toUkulele">
           <input type="radio" checked hidden> To ukulele
         </label>
         <label class="btn btn-primary " id="toGuitar">
@@ -34,7 +33,7 @@
   </div>
   <div class="row">
     <div class="col-8">
-      <h2>Converted <span class="toInstrument">ukulele</span> tab</h2>
+      <div class="headingSecondary">Converted <span class="toInstrument">ukulele</span> tab</div>
       <textarea class="tab converted"></textarea>
     </div>
   </div>
@@ -42,4 +41,3 @@
 
 <script src="{{ manifest['convert.js'] }}"></script>
 {% endblock %}
-
