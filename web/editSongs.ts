@@ -61,7 +61,7 @@ const getSongInput = function(): SongInput {
   };
 };
 
-$(document).on("ready", () => {
+$(() => {
   $("#add").on("click", () => {
     const input = getSongInput();
     if (!isValidInput(input)) return;

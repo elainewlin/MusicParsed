@@ -217,7 +217,7 @@ export const loadWidgets = function(): void {
   loadOrientationButtons();
 };
 
-$(document).on("ready", () => {
+$(() => {
   const hideableChordPics = $(".hideable");
   hideableChordPics.on("click", () => {
     songView.setInstrument("none");

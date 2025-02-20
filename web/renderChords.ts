@@ -7,7 +7,7 @@ import "bootstrap/dist/css/bootstrap.css";
 import "../css/styles.css";
 import "../css/global.css";
 
-$(document).on("ready", () => {
+$(() => {
   songView.setInstrument("ukulele");
   loadInstrumentButtons({ showNone: false });
   loadOrientationButtons();
