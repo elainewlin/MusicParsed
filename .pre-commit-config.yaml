@@ -14,12 +14,6 @@ repos:
         alias: eslint:ts
         name: eslint:ts
         types: [ts]
-  - repo: https://github.com/prettier/prettier.git
-    rev: 1.18.2
-    hooks:
-      - id: prettier
-        exclude: "^templates/|^static/data/"
-        args: [--loglevel=warn]
   - repo: local
     hooks:
       - id: typescript
@@ -30,3 +24,9 @@ repos:
         args: [--noEmit, --project, tsconfig.json]
         pass_filenames: false
         additional_dependencies: ["typescript@3.5.2"]
+  - repo: https://github.com/prettier/prettier.git
+    rev: 1.18.2
+    hooks:
+      - id: prettier
+        exclude: "^templates/|^static/data/"
+        args: [--loglevel=warn]

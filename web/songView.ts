@@ -291,7 +291,7 @@ export const songSearch = function(
     },
   });
 
-  $("#random").on("click", event => {
+  $("#random").click(event => {
     event.preventDefault();
     $.ajax({
       url: "/api/song/random",

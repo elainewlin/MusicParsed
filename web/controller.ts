@@ -217,9 +217,9 @@ export const loadWidgets = function(): void {
   loadOrientationButtons();
 };
 
-$(document).on("ready", () => {
+$(document).ready(() => {
   const hideableChordPics = $(".hideable");
-  hideableChordPics.on("click", () => {
+  hideableChordPics.click(() => {
     songView.setInstrument("none");
     selectButton(INSTRUMENT, songView.getInstrument());
     renderChords();
@@ -227,7 +227,7 @@ $(document).on("ready", () => {
   hideableChordPics.tooltip();
 
   // Capo
-  $("#capo").on("click", () => {
+  $("#capo").click(() => {
     const capo = songView.getCapo();
     songView.setTranspose(capo);
     rerender();
@@ -237,7 +237,7 @@ $(document).on("ready", () => {
   // View widget, column, transpose widgets
   const viewToggle = $("#viewToggle");
 
-  viewToggle.on("click", () => {
+  viewToggle.click(() => {
     const widgets = $("#widgets");
     widgets.toggle();
 

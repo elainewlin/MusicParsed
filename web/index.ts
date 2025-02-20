@@ -5,7 +5,7 @@ import "bootstrap/dist/css/bootstrap.css";
 import "../css/styles.css";
 import "../css/global.css";
 
-$(document).on("ready", () => {
+$(document).ready(() => {
   initRender();
   popStateHandler(window.history);
   window.onpopstate = popStateHandler;
