@@ -61,8 +61,8 @@ const getSongInput = function(): SongInput {
   };
 };
 
-$(document).ready(() => {
-  $("#add").click(() => {
+$(() => {
+  $("#add").on("click", () => {
     const input = getSongInput();
     if (!isValidInput(input)) return;
     const songData = parseLines(input);
@@ -78,7 +78,7 @@ $(document).ready(() => {
     });
   });
 
-  $("#edit").click(() => {
+  $("#edit").on("click", () => {
     const input = getSongInput();
     if (!isValidInput(input)) return;
     const songData = parseLines(input);
@@ -94,7 +94,7 @@ $(document).ready(() => {
     });
   });
 
-  $("#delete").click(() => {
+  $("#delete").on("click", () => {
     const input = getSongInput();
     if (!isValidInput(input, getBaseErrorMessage)) return;
 

@@ -108,7 +108,7 @@ let convertFunction = guitarToUke;
 const setPlaceholder = (placeholder: string): void => {
   $(".tab.input").attr("placeholder", placeholder);
 };
-$("#toUkulele").click(() => {
+$("#toUkulele").on("click", () => {
   $(".fromInstrument").html("guitar");
   $(".toInstrument").html("ukulele");
   const guitarTabExample =
@@ -122,7 +122,7 @@ $("#toUkulele").click(() => {
   convertFunction = guitarToUke;
 });
 
-$("#toGuitar").click(() => {
+$("#toGuitar").on("click", () => {
   $(".fromInstrument").html("ukulele");
   $(".toInstrument").html("guitar");
   const ukuleleTabExample =
@@ -134,7 +134,7 @@ $("#toGuitar").click(() => {
   convertFunction = ukeToGuitar;
 });
 
-$(".convert").click(() => {
+$(".convert").on("click", () => {
   $(".tab.converted").html("");
   convertFunction();
 });

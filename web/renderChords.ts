@@ -7,7 +7,7 @@ import "bootstrap/dist/css/bootstrap.css";
 import "../css/styles.css";
 import "../css/global.css";
 
-$(document).ready(() => {
+$(() => {
   songView.setInstrument("ukulele");
   loadInstrumentButtons({ showNone: false });
   loadOrientationButtons();
@@ -26,7 +26,7 @@ $(document).ready(() => {
   songView.setTranspose(0);
   renderChords();
 
-  $("#renderChords").click(() => {
+  $("#renderChords").on("click", () => {
     const rawChordString = $("#chords").val() as string;
     if (!rawChordString) {
       return alert("No chords provided");
