@@ -34,6 +34,7 @@ Deploy:
     git push heroku master
 
 Validate git remotes:
+
     git remote -v
 
 Run unit tests:
