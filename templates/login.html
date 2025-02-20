@@ -1,18 +1,17 @@
 {% extends "partials/base.html" %}
 
 {% block content %}
-<div class="container">
-  <h1>Log in</h1>
+<div class="container formContainer">
+  <h1 class="headingPrimary">Log in</h1>
   {% include "partials/flash_message.html" %}
-  <p>Don't have an account? <a href="/signup">Sign up.</a> If you forgot your password, please contact <a href="mailto:musicparsed@gmail.com">musicparsed@gmail.com</a>.</p>
+  <p>Don't have an account? <a href="/signup">Sign up.</a> If you forgot your password, please contact <a
+      href="mailto:musicparsed@gmail.com">musicparsed@gmail.com</a>.</p>
   <form action="{{ formAction }}" method="post">
-    <label>Username:</label>
-    <input type="text" name="username" class="form-control" placeholder="User" required />
-    <br />
-    <label>Password:</label>
-    <input type="password" name="password" class="form-control" placeholder="Password" required />
-    <br />
-    <input type="submit" class="btn btn-primary" value="Submit"/>
+    <label class="hidden">Username:</label>
+    <input type="text" name="username" class="form-control formField" placeholder="Username" required />
+    <label class="hidden">Password:</label>
+    <input type="password" name="password" class="form-control formField" placeholder="Password" required />
+    <input type="submit" class="btn btn-primary formButton" value="Submit" />
   </form>
 </div>
 {% endblock %}

@@ -1,43 +1,85 @@
 {% extends "partials/base.html" %}
 
 {% block content %}
-<div class="container">
-  <h1>Why play ukulele?</h1>
+<div class="container textContainer">
+  <h1 class="headingPrimary">Why play ukulele?</h1>
   <p>
-    I love to sing because it's direct and emotionally expressive. What instruments can accompany singing? Obviously, woodwind and brass instruments are out. I used to play piano, but pianos are big, and singing and playing piano is hard. In general, <b>lutes</b> (guitars, banjos, mandolins, etc.) you hold upright and strum work well.  Your voice itself is also an instrument. The voice usually sings the lyrics/melody, but a song with just one voice sounds empty, so a lute accompanies the voice and plays chords in songs. As a side note, you can <a href="https://www.youtube.com/watch?v=CFbkVO5b2g0" target="_blank" rel="noopener noreferrer">sing and play violin at the same time</a>, but it's rather awkward.
+    I love to sing because it's direct and emotionally expressive. What instruments can accompany singing? Obviously,
+    woodwind and brass instruments are out. I used to play piano, but pianos are big, and singing and playing piano is
+    hard. In general, <b>lutes</b> (guitars, banjos, mandolins, etc.) you hold upright and strum work well. Your voice
+    itself is also an instrument. The voice usually sings the lyrics/melody, but a song with just one voice sounds
+    empty, so a lute accompanies the voice and plays chords in songs. As a side note, you can <a
+      href="https://www.youtube.com/watch?v=CFbkVO5b2g0" target="_blank" rel="noopener noreferrer">sing and play
+      violin at the same time</a>, but it's rather awkward.
   </p>
   <p>
-    I like lutes in general because they are good for accompanying singing. MusicParsed can currently <a href="/render" target="_blank" rel="noopener noreferrer">render chord diagrams</a> (left + right handed) the following lutes: ukulele, baritone ukulele, guitars, and guitaleles. Baritone ukuleles are tuned like the bottom 4 strings of a guitar (ukulele transposed -5), and guitaleles are tuned like a guitar with CAPO 5 (guitar transposed +5). Here's a visual comparison: <img src="/static/images/lute_comparisons_ukulele_guitar_baritone_guitalele.png" class="center-block" height="200" />
+    I like lutes in general because they are good for accompanying singing. MusicParsed can currently <a href="/render"
+      target="_blank" rel="noopener noreferrer">render chord diagrams</a> (left + right handed) the
+    following lutes: ukulele, baritone ukulele, guitars, and guitaleles. Baritone ukuleles are tuned like the bottom 4
+    strings of a guitar (ukulele transposed -5), and guitaleles are tuned like a guitar with CAPO 5 (guitar transposed
+    +5). Here's a visual comparison:<br /> <img
+      src="/static/images/lute_comparisons_ukulele_guitar_baritone_guitalele.png" class="center-block" height="200" />
   </p>
   <p>
-    While I can play other lutes, my favorite lute is the ukulele. I actually started playing guitar and ukulele, but now, I mostly play ukulele because of its size, tone, and tuning.
+    While I can play other lutes, my favorite lute is the ukulele. I actually started playing guitar and ukulele, but
+    now, I mostly play ukulele because of its size, tone, and tuning.
   </p>
-  <h2>Smaller size</h2>
-  <p>If you have little to no music experience, I believe a ukulele is easier to learn than a guitar because I've taught complete beginners to play basic versions of <a href="/guides/four_chord_songs" target="_blank" rel="noopener noreferrer">basic 4 chord songs</a> on ukulele in 30 minutes. Since a ukulele has fewer strings than a guitar (4 < 6), the <a href="/guides/beginner_ukulele_chords">beginner ukulele chords (Am, F, C, G)</a> don't require many fingers on your fretting hand. It takes less effort to press ukulele strings, and I find the ukulele easier to hold than a guitar.
+  <div class="headingSecondary">Smaller size</div>
+  <p>If you have little to no music experience, I believe a ukulele is easier to learn than a guitar because I've
+    taught complete beginners to play basic versions of <a href="/guides/four_chord_songs" target="_blank"
+      rel="noopener noreferrer">basic 4 chord songs</a> on ukulele in 30 minutes. Since a ukulele has fewer strings
+    than a guitar (4 < 6), the <a href="/guides/beginner_ukulele_chords">beginner ukulele chords (Am, F, C, G)</a>
+      don't require many fingers on your fretting hand. It takes less effort to press ukulele strings, and I find the
+      ukulele easier to hold than a guitar.
   </p>
   <p>
-    The smaller size also makes ukuleles more portable. I can fit my soprano ukulele into my backpack and bring it as a plane carry-on. You can get even smaller sopranino ukuleles, but I find that sound quality tends to suffer. Though there exist very expensive ukuleles (I have a $1000 solid koa wood ukulele), you can <a href="/guides/buy_ukulele" target="_blank" rel="noopener noreferrer">buy a cheap, decent ukulele</a> for less than the price of a cheap, decent guitar ($50 < $100).
-  </p>
-  <h2>Cheery tone</h2>
-    Instrument tone, its perceived sound quality, is subjective. However, since the ukulele originated in Hawaii and is used in many Hawaiian songs, many people associate the ukulele with cheery, good vibes. I play all sorts of music on voice and ukulele, and I find that the ukulele tone balances out darker songs. The first song I learned on ukulele was <a href="https://www.youtube.com/watch?v=20dC5sKmLYA" target="_blank" rel="noopener noreferrer">I Will Follow You into the Dark</a>, and I find the song sounds more melancholy than depressing on ukulele. I covered <a href="https://www.youtube.com/watch?v=OPzhYU0PiKQ" target="_blank">1-800-273-8255</a>, a song about suicide prevention, and I like the bright, crisp ukulele accompaniment.
-  <h2>Better tuning for my voice</h2>
-  <p>
-    I primarily play ukulele to accompany singing, and I found I prefer ukulele over guitar tuning. The answer required knowledge of music theory and my own voice. First, some vocabulary terms:
-    <ul>
-      <li><b>Range</b> is what notes an instrument can produce. Instrument can be voice, guitar, or ukulele.</li>
-      <li><b>Key</b> is the group of pitches that's the basis for Western music.</li>
-    </ul>
+    The smaller size also makes ukuleles more portable. I can fit my soprano ukulele into my backpack and bring it as
+    a plane carry-on. You can get even smaller sopranino ukuleles, but I find that sound quality tends to suffer.
+    Though there exist very expensive ukuleles (I have a $1000 solid koa wood ukulele), you can <a
+      href="/guides/buy_ukulele" target="_blank" rel="noopener noreferrer">buy a cheap, decent ukulele</a> for less
+    than the price of a cheap, decent guitar ($50 < $100). </p>
+      <div class="headingSecondary">Cheery tone</div>
+      Instrument tone, its perceived sound quality, is subjective. However, since the ukulele originated in Hawaii
+      and
+      is used in many Hawaiian songs, many people associate the ukulele with cheery, good vibes. I play all sorts of
+      music on voice and ukulele, and I find that the ukulele tone balances out darker songs. The first song I
+      learned
+      on ukulele was <a href="https://www.youtube.com/watch?v=20dC5sKmLYA" target="_blank" rel="noopener noreferrer">I
+        Will Follow You into the Dark</a>, and I find the song sounds more melancholy than depressing on ukulele. I
+      covered <a href="https://www.youtube.com/watch?v=OPzhYU0PiKQ" target="_blank">1-800-273-8255</a>, a song about
+      suicide prevention, and I like the bright, crisp ukulele accompaniment.
+      <div class="headingSecondary">Better tuning for my voice</div>
+      <p>
+        I primarily play ukulele to accompany singing, and I found I prefer ukulele over guitar tuning. The answer
+        required knowledge of music theory and my own voice. First, some vocabulary terms:
+      <ul>
+        <li><b>Range</b> is what notes an instrument can produce. Instrument can be voice, guitar, or ukulele.
+        </li>
+        <li><b>Key</b> is the group of pitches that's the basis for Western music.</li>
+      </ul>
   </p>
   <p>
     Here's a visual of ranges for guitar, my voice, and ukulele.
-    <img src="/static/images/instrument_range_comparison_piano_voice_guitar_ukulele.png" class="center-block" height="350" />
+    <img src="/static/images/instrument_range_comparison_piano_voice_guitar_ukulele.png" class="center-block"
+      height="350" />
   </p>
   <p>
-    I am female, and my voice range is E3 - E5. Guitars are tuned EBGDAE, and baritone ukuleles are tuned like the bottom 4 strings of a guitar (GDAE). G major is the easiest key to play in. However, singing songs in G major usually involves the very bottom or very top of my range, so I sound awkward. On the other hand, ukuleles (soprano, concert, tenor) are tuned GCEA. C major is the easiest key to play in. Singing songs in C major involves the middle part of my range, which is strongest.
+    I am female, and my voice range is E3 - E5. Guitars are tuned EBGDAE, and baritone ukuleles are tuned like the
+    bottom 4 strings of a guitar (GDAE). G major is the easiest key to play in. However, singing songs in G major
+    usually involves the very bottom or very top of my range, so I sound awkward. On the other hand, ukuleles
+    (soprano, concert, tenor) are tuned GCEA. C major is the easiest key to play in. Singing songs in C major involves
+    the middle part of my range, which is strongest.
   </p>
-    The range shown above is for a ukulele with a high G string (C4 - A5). If you put a low G string on a ukulele, you get a slightly wider range (G3 - A5). This overlaps nicely with my vocal range, so I can use the ukulele to write melodies for songs.
+  The range shown above is for a ukulele with a high G string (C4 - A5). If you put a low G string on a ukulele, you
+  get a slightly wider range (G3 - A5). This overlaps nicely with my vocal range, so I can use the ukulele to write
+  melodies for songs.
   </p>
-  <h2>Additional reading</h2>
-  <p>If you're a beginner, and you want to learn how to sing better, I wrote a guide on <a href="/guides/singing_for_beginners" target="_blank" rel="noopener noreferrer">how to improve at singing for beginners</a>. I also wrote a guide on <a href="/guides/playing_and_singing" target="_blank">how to play and sing at the same time</a>. For more reasons on why people play ukulele, you can see this <a href="https://www.reddit.com/r/ukulele/comments/7m94xn/why_the_ukulele/" target="_blank">Reddit thread on /r/ukulele</a>.</p>
+  <div class="headingSecondary">Additional reading</div>
+  <p>If you're a beginner, and you want to learn how to sing better, I wrote a guide on <a
+      href="/guides/singing_for_beginners" target="_blank" rel="noopener noreferrer">how to improve at singing for
+      beginners</a>. I also wrote a guide on <a href="/guides/playing_and_singing" target="_blank">how to play and
+      sing at the same time</a>. For more reasons on why people play ukulele, you can see this <a
+      href="https://www.reddit.com/r/ukulele/comments/7m94xn/why_the_ukulele/" target="_blank">Reddit thread on
+      /r/ukulele</a>.</p>
 </div>
 {% endblock %}

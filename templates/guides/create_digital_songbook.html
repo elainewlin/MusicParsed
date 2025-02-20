@@ -1,6 +1,6 @@
 {% extends "partials/base.html" %} {% block content %}
-<div class="container">
-  <h1>How to create a digital songbook</h1>
+<div class="container textContainer">
+  <h1 class="headingPrimary">How to create a digital songbook</h1>
 
   <p>
     This is a detailed guide on how to create and edit a digital songbook. If
@@ -49,28 +49,20 @@
       <a href="#digital-songbook-how-to">How-To Steps for a Digital Songbook</a>
       <ul>
         <li>
-          <a href="#creating-digital-songbook"
-            >Creating a songbook from scratch</a
-          >
+          <a href="#creating-digital-songbook">Creating a songbook from scratch</a>
         </li>
         <li>
           <a href="#editing-digital-songbook">Editing an existing songbook</a>
         </li>
         <li>
-          <a href="#improving-songbook-navigation"
-            >Improving songbook navigation</a
-          >
+          <a href="#improving-songbook-navigation">Improving songbook navigation</a>
           <ul>
             <li><a href="#adding-page-numbers">Adding page numbers</a></li>
             <li>
-              <a href="#adobe-table-of-contents"
-                >Maintaining a table of contents</a
-              >
+              <a href="#adobe-table-of-contents">Maintaining a table of contents</a>
             </li>
             <li>
-              <a href="#adobe-quick-links"
-                >Adding quick links to/from different sections</a
-              >
+              <a href="#adobe-quick-links">Adding quick links to/from different sections</a>
             </li>
           </ul>
         </li>
@@ -79,21 +71,18 @@
     <li><a href="#conclusion">Conclusion</a></li>
   </ul>
 
-  <h2 id="digital-songbook-technology">Digital Songbook Technology</h2>
+  <div class="headingSecondary" id="digital-songbook-technology">Digital Songbook Technology
+  </div>
   <p>
     I'll start by explaining file format and extensions and then explain some of
     the tools you'll need.
   </p>
 
-  <h3 id="file-formats-and-extensions">File formats and extensions</h3>
+  <div class="headingSecondary" id="file-formats-and-extensions">File formats and extensions</div>
 
   <p>
     According to
-    <a
-      href="https://www.computerhope.com/jargon/f/file-format.htm"
-      target="_blank"
-      >Computer Hope</a
-    >,
+    <a href="https://www.computerhope.com/jargon/f/file-format.htm" target="_blank">Computer Hope</a>,
     a <b>file format</b> is the structure of a file that tells a program how to
     display its contents. For example, you see the PNG and JPG formats used for
     images and the PDF format used for PDF files. You can tell the file format
@@ -106,7 +95,7 @@
     files look the same no matter what device you used to view them. It's also
     easy to find tools to create and edit PDF files.
   </p>
-  <h3 id="digital-songbook-tools">Tools for a digital songbook</h3>
+  <div class="headingSecondary" id="digital-songbook-tools">Tools for a digital songbook</div>
   <p>
     In short, you will need a PDF editor and a word editor. The reason you need
     both is that it's a lot easier to make large-scale formatting changes in a
@@ -158,7 +147,7 @@
     </li>
   </ol>
 
-  <h2 id="digital-songbook-how-to">How-To Steps for a Digital Songbook</h2>
+  <div class="headingSecondary" id="digital-songbook-how-to">How-To Steps for a Digital Songbook</div>
   <p>
     Now, I'll dive into exactly how to do particular steps when making a digital
     songbook. I use Adobe Acrobat and Google Docs, so the following instructions
@@ -173,7 +162,7 @@
     <li>Improving songbook navigation</li>
   </ol>
 
-  <h3 id="creating-digital-songbook">Creating a songbook from scratch</h3>
+  <div class="headingSecondary" id="creating-digital-songbook">Creating a songbook from scratch</div>
   <p>
     Suppose that you want to create a digital songbook from scratch. How do you
     combine a bunch of different song files into one file?
@@ -251,7 +240,7 @@
     then email out the Google Drive link.
   </p>
 
-  <h3 id="editing-digital-songbook">Editing an existing songbook</h3>
+  <div class="headingSecondary" id="editing-digital-songbook">Editing an existing songbook</div>
   <p>
     If you need to add new songs, see above for how to use the Organize Pages
     feature.
@@ -271,7 +260,7 @@
     version of the songbook you have.
   </p>
 
-  <h3 id="improving-songbook-navigation">Improving songbook navigation</h3>
+  <div class="headingSecondary" id="improving-songbook-navigation">Improving songbook navigation</div>
   <p>There's 3 main ways to improve digital songbook navigation:</p>
 
   <ol>
@@ -283,7 +272,7 @@
     These steps can be cumbersome. I share my procedure for making these
     changes.
   </p>
-  <h4 id="adding-page-numbers">Adding page numbers</h4>
+  <div class="headingTertiary" id="adding-page-numbers">Adding page numbers</div>
   <p>
     Here's how to add page numbers via Adobe Acrobat. Even if you don't have a
     table of contents, this helps with navigation because once you find a song
@@ -293,27 +282,21 @@
     First, go to the Edit PDF feature. In the top bar, click Header & Footer >
     Add… or Update… depending on if there's already a Header/Footer. Click
     Insert page number, and move <<1>> to wherever you want your page number to
-    be. For example, to get page number in the right header, put <<1>> to the
-    box Right Header Text. You can also adjust the margin - I have the page
-    number set to 0.4 inches from the top right corner.
+      be. For example, to get page number in the right header, put <<1>> to the
+        box Right Header Text. You can also adjust the margin - I have the page
+        number set to 0.4 inches from the top right corner.
   </p>
-  <img
-    src="/static/images/adobe_acrobat_header_footer_page_number.png"
-    class="center-block"
-  />
+  <img src="/static/images/adobe_acrobat_header_footer_page_number.png" class="center-block" />
 
-  <h4 id="adobe-table-of-contents">Maintaining a table of contents</h4>
+  <div class="headingTertiary" id="adobe-table-of-contents">Maintaining a table of contents</div>
   <p>
     Maintaining a table of contents is useful for a digital songbook because you
     can jump to different pages to find songs. Unfortunately, as of October
     2020, Adobe Acrobat does not have a feature to add a table of contents. To
     get around this, I make a table of contents in Google Docs and then add it
     to the PDF via the Organize Pages feature. For example, here's
-    <a
-      href="https://docs.google.com/document/d/1zJto3DLmBHVzEIL-rlhai2E74LfK9oYFsVWUSD5OFfw/edit?usp=sharing"
-      target="_blank"
-      >the Aloha Uke Squad big book table of contents</a
-    >.
+    <a href="https://docs.google.com/document/d/1zJto3DLmBHVzEIL-rlhai2E74LfK9oYFsVWUSD5OFfw/edit?usp=sharing"
+      target="_blank">the Aloha Uke Squad big book table of contents</a>.
   </p>
 
   <p>There are 2 repetitive tasks when maintaining a table of contents:</p>
@@ -326,11 +309,10 @@
   <p><b>Making sure page numbers are right-aligned and easy to read</b></p>
   <p>
     Google Sheets is useful here - see
-    <a
-      href="https://docs.google.com/spreadsheets/d/1igLAUQIgMZFQ2aLFhDuPIcQ_XE2R5X7Trx0a_Rx4l1M/edit#gid=2133961286"
-      target="_blank"
-      >the Formatted Data sheet</a
-    >. You can do all the formatting in Google Sheets and then copy/paste the
+    <a href="https://docs.google.com/spreadsheets/d/1igLAUQIgMZFQ2aLFhDuPIcQ_XE2R5X7Trx0a_Rx4l1M/edit#gid=2133961286"
+      target="_blank">the Formatted Data sheet</a>. You can do all the formatting in Google Sheets and then
+    copy/paste
+    the
     table to your word editor. Here's how I formatted the table:
   </p>
 
@@ -371,18 +353,17 @@
   </p>
   <p>
     I'm a software engineer, so I set up
-    <a
-      href="https://docs.google.com/spreadsheets/d/1igLAUQIgMZFQ2aLFhDuPIcQ_XE2R5X7Trx0a_Rx4l1M/edit#gid=2133961286"
-      target="_blank"
-      >a Google sheet and wrote a script to help with this process</a
-    >. This is tech-heavy and requires familiarity in Google Sheets and running
+    <a href="https://docs.google.com/spreadsheets/d/1igLAUQIgMZFQ2aLFhDuPIcQ_XE2R5X7Trx0a_Rx4l1M/edit#gid=2133961286"
+      target="_blank">a Google sheet and wrote a script to help with this process</a>. This is tech-heavy and
+    requires
+    familiarity in Google Sheets and running
     Python code to read files. The alternative is to manually edit the formatted
     data in Google Sheets. Note that it's still easier to use Google Sheets here
     because if you add a new row, it'll automatically update the alternate row
     coloring.
   </p>
 
-  <h4 id="adobe-quick-links">Adding quick links to/from different sections</h4>
+  <div class="headingTertiary" id="adobe-quick-links">Adding quick links to/from different sections</div>
 
   <p>
     Here's how to add quick links to/from different sections in Adobe Acrobat.
@@ -391,26 +372,50 @@
   </p>
 
   <p>
-    The only link action that works across different devices is `Execute a menu item > Go to a page in this document`. I tried using the link actions `View > Page Navigation > First Page` or `Run Javascript > this.pageNum = page`. These actions work in Adobe Acrobat, but not when you open the PDF on your tablet.
+    The only link action that works across different devices is `Execute a menu item > Go to a page in this
+    document`.
+    I tried using the link actions `View > Page Navigation > First Page` or `Run Javascript > this.pageNum =
+    page`.
+    These actions work in Adobe Acrobat, but not when you open the PDF on your tablet.
   </p>
   <p>
-    If you're curious, see <a href="https://github.com/elainewlin/pdf-table-of-contents" target="_blank">Github</a> for more information on running Javascript in a PDF. I wrote code to automatically create links that run Javascript `this.pageNum = page`. The script creates links with the right spacing, but the link action does not work across devices since devices cannot execute Javascript. To set the right link actions, I ended up paying somebody $10 to manually set link actions via <a href="https://www.upwork.com/" target="_blank">Upwork</a>.
+    If you're curious, see <a href="https://github.com/elainewlin/pdf-table-of-contents" target="_blank">Github</a>
+    for more information on running Javascript in a PDF. I wrote code to automatically create links that run
+    Javascript `this.pageNum = page`. The script creates links with the right spacing, but the link action
+    does not
+    work across devices since devices cannot execute Javascript. To set the right link actions, I ended up
+    paying
+    somebody $10 to manually set link actions via <a href="https://www.upwork.com/" target="_blank">Upwork</a>.
   </p>
   <p>
-    The action `Go to a page in this document` maintains a reference to the page. For example, suppose you set a link to go to page 10 with song title "As Long As You Love Me", and you add a page before page 10. The link will still go to the page with song title "As Long As You Love Me", not the new page 10 of the PDF document.
+    The action `Go to a page in this document` maintains a reference to the page. For example, suppose you set
+    a link
+    to go to page 10 with song title "As Long As You Love Me", and you add a page before page 10. The link
+    will still
+    go to the page with song title "As Long As You Love Me", not the new page 10 of the PDF document.
   </p>
   <p>
     This has a few implications:
   </p>
   <ul>
     <li>
-      If you replace a song page of the PDF, you need to update the link to the song in the table of contents and create a link from the song title back to the beginning.
+      If you replace a song page of the PDF, you need to update the link to the song in the table of contents
+      and
+      create a link from the song title back to the beginning.
     </li>
     <li>
-      Do not replace the first page of the table of contents. If you replace the page, that will break all links from songs back to the first page. Instead, edit the table of contents within Adobe Acrobat. This looks better if you use a standard font for the first page, such as Arial.
+      Do not replace the first page of the table of contents. If you replace the page, that will break all
+      links from
+      songs back to the first page. Instead, edit the table of contents within Adobe Acrobat. This looks
+      better if you
+      use a standard font for the first page, such as Arial.
     </li>
     <li>
-      Be careful when replacing the table of contents. First, add in the new version. Then, select all links from the old page of the table of contents and paste them to the new page. Fix all the links in the new table of contents pages before deleting the old table of contents.
+      Be careful when replacing the table of contents. First, add in the new version. Then, select all links
+      from the
+      old page of the table of contents and paste them to the new page. Fix all the links in the new table of
+      contents
+      pages before deleting the old table of contents.
     </li>
   </ul>
   <p>
@@ -419,29 +424,25 @@
     Add/Edit Web or Document Link in the top bar. Click and drag to set where
     the link is.
   </p>
-  <img
-    src="/static/images/adobe_acrobat_create_link.png"
-    class="center-block"
-  />
+  <img src="/static/images/adobe_acrobat_create_link.png" class="center-block" />
   <p>
     This is the first dialog you see. Click Next. Another dialog will pop up.
     Click Set Link.
   </p>
 
   <p>
-    Double-click on the link area to open up the Link Properties dialog. Select the action `Go to a page in this document`, and set the page. This is the only link action that works outside of Adobe Acrobat.
+    Double-click on the link area to open up the Link Properties dialog. Select the action `Go to a page in
+    this
+    document`, and set the page. This is the only link action that works outside of Adobe Acrobat.
   </p>
-  <img
-    src="/static/images/adobe_acrobat_create_link_set_link_properties.png"
-    class="center-block"
-  />
+  <img src="/static/images/adobe_acrobat_create_link_set_link_properties.png" class="center-block" />
 
   <p>
     This is what the final dialog will look like. Click OK to save. You can now
     click on the link to test that it works.
   </p>
 
-  <h2 id="conclusion">Conclusion</h2>
+  <div class="headingSecondary" id="conclusion">Conclusion</div>
   <p>
     Creating a digital songbook can be tricky, but helps your group play music
     together. It definitely took me a while to understand how to use Adobe

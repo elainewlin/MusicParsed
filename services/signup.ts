@@ -39,14 +39,14 @@ export const createUser = async (body: SignupBody) => {
   if (!username || !password) {
     throw new Error("Missing required field");
   }
-
+  
   const existingUser = await UserModel.findOne({ username });
   if (existingUser) {
     throw new Error(`User with username ${username} already exists`);
   }
 
-  const [passwordHash] = await generatePassword(password);
+  const passwordHash = await generatePassword(password);
   const user = await UserModel.create({ username, passwordHash });
-
+  
   return user;
 };

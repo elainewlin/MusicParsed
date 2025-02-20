@@ -6,15 +6,15 @@
 
 {% block content %}
 <div class="container">
-  <h1>Edit Tags</h1>
+  <h1 class="headingPrimary">Edit Tags</h1>
   <form action="/api/tag" method="post">
-    <label>Tag Name</label>
+    <label class="label">Tag Name:</label>
     <input type="text" name="tag" class="form-control" placeholder="easy" />
-    <br/>
-    <label>Song IDs</label>
+    <br />
+    <label class="label">Song IDs:</label>
     <textarea name="song_ids" class="tab tall-tab" placeholder="Enter song IDs"></textarea>
-    <br/>
-    <input type="submit" class="btn btn-primary" value="Submit"/>
+    <br />
+    <input type="submit" class="btn btn-primary" value="Submit" />
   </form>
 </div>
 {% endblock %}

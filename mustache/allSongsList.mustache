@@ -1,10 +1,8 @@
 {{#allSongs}}
   <div class="songTag">
-    <strong>{{artist}}</strong>
-    <ul>
-      {{#songs}}
-        <a href="{{url}}"><span><li data-id="{{id}}">{{title}}</li></span></a>
-      {{/songs}}
-    </ul>
+    <div class="songArtist">{{artist}}</div>
+    {{#songs}}
+      <div class="songTitle"><a href="{{url}}"><span data-id="{{id}}">{{title}}</span></a></div>
+    {{/songs}}
   </div>
 {{/allSongs}}
