@@ -33,6 +33,9 @@ Deploy:
     heroku git:remote -a musicparsed
     git push heroku master
 
+Validate git remotes:
+    git remote -v
+
 Run unit tests:
 
     npm run test
