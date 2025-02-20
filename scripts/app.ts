@@ -37,8 +37,6 @@ const mongoDbName = process.env.MONGO_DB_NAME || "musicparsed";
     () =>
       mongoose.connect(baseUri, {
         dbName: mongoDbName,
-        reconnectTries: Infinity,
-        useNewUrlParser: true,
       }),
     { forever: true, maxTimeout: 30000 }
   );
