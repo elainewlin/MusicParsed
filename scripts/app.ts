@@ -1,6 +1,6 @@
 import retry from "async-retry";
 import dotenv from "dotenv";
-import express from "express";
+import express, { Request, Response, NextFunction } from "express";
 import fs from "fs";
 import mongoose from "mongoose";
 import { get } from "lodash";
@@ -45,16 +45,18 @@ const mongoDbName = process.env.MONGO_DB_NAME || "musicparsed";
   return mongoose.connection;
 })();
 
-const requireLogin = (req: any, res: any, next: Function) => {
+const requireLogin = (req: Request, res: Response, next: NextFunction) => {
   if (!req.isAuthenticated || !req.isAuthenticated()) {
     return res.redirect(`/login?fromUrl=${req.originalUrl}`);
   }
   next();
 };
 
-const requireAdmin = (req: any, res: any, next: Function) => {
+const isAdmin = (user: any): boolean => !!user.admin;
+
+const requireAdmin = (req: Request, res: Response, next: NextFunction) => {
   requireLogin(req, res, () => {
-    if (!req.user.admin) {
+    if (!isAdmin(req.user)) {
       return res.redirect("/login");
     }
     next();
@@ -62,8 +64,8 @@ const requireAdmin = (req: any, res: any, next: Function) => {
 };
 
 const renderTemplate = (
-  req: any,
-  res: any,
+  req: Request,
+  res: Response,
   template: string,
   args: object = {}
 ) => {
@@ -233,14 +235,21 @@ app.delete("/api/song/:songId", requireLogin, async (req, res) => {
 
   const query = {
     songId,
-    userId,
   };
   const song = await SongModel.findOne(query);
-  if (!song) {
+  if (!song || !song.userId) {
     return res.json("No song found");
   }
+
+  const doesOwnSong = song.userId.toString() === userId.toString();
+  const canDelete = isAdmin(req.user) || doesOwnSong;
+
+  if (!canDelete) {
+    return res.json("Cannot delete song for another user");
+  }
   await SongModel.deleteOne(query);
-  res.send("Deleted!");
+
+  res.send("Deleted song");
 });
 
 app.post("/api/tag", requireAdmin, apiLimiter, async (req, res) => {

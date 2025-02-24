@@ -16,6 +16,21 @@ const songSchema = new mongoose.Schema({
   lastUpdatedAt: { type: Date, default: Date.now },
 });
 
-const SongModel = mongoose.model("Song", songSchema);
+interface SongInterface extends mongoose.Document {
+  songId: string;
+  fullName: string;
+  artist: string;
+  title: string;
+  allChords: [string];
+  lines: [any];
+  capo: string;
+  overrideAllChords: [string];
+  url: string;
+  tagIds: [typeof ObjectId];
+  userId: typeof ObjectId;
+  lastUpdatedAt: Date;
+}
+
+const SongModel = mongoose.model<SongInterface>("Song", songSchema);
 
 export default SongModel;
