@@ -39,9 +39,10 @@ Validate git remotes:
 
     git remote -v
 
-Run unit tests:
+Run tests:
 
-    npm run test
+    npm run test:unit
+    npm run test:e2e
 
 Template documentation
 

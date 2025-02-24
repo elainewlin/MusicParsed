@@ -6,7 +6,8 @@
     "heroku-postbuild": "webpack -r babel-register-ts -p",
     "watch": "webpack -r babel-register-ts --watch --progress --mode=development --debug --output-pathinfo",
     "app": "node -r babel-register-ts scripts/app.ts",
-    "test": "mocha --extension ts --recursive -r babel-register-ts test/",
+    "test:unit": "mocha --extension ts --recursive -r babel-register-ts test/lib test/services",
+    "test:e2e": "mocha --extension ts --recursive -r babel-register-ts test/e2e",
     "parser": "node -r babel-register-ts scripts/parser-cli.ts"
   },
   "repository": {
