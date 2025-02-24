@@ -21,7 +21,16 @@ describe("Home page", function() {
   });
 
   it("shows navigation links", async () => {
-    const expectedLinks = ["Tools", "Render chords", "Convert tabs", "Guides"];
+    const expectedLinks = [
+      "Account",
+      "Log in",
+      "Sign up",
+      "Tools",
+      "Render chords",
+      "Convert tabs",
+      "Add/edit songs",
+      "Guides",
+    ];
     const navLinks = await getAllHtmlForSelector(this.page, ".nav-link");
     assert.deepStrictEqual(navLinks, expectedLinks);
   });
