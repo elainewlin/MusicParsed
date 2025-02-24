@@ -5,6 +5,10 @@ Start local server:
     yarn
     yarn app
 
+Watch for frontend changes:
+
+    yarn watch
+
 Seed local Mongo DB:
 
     make seed
@@ -14,8 +18,6 @@ Start local Mongo DB:
     mongod
 
 Useful commands:
-
-    yarn watch
 
     pre-commit run -a
     pre-commit run eslint -a
