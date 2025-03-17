@@ -180,10 +180,10 @@ describe("getChordLyricLine", () => {
     assert.deepEqual(result, expected);
   });
 
-  it("should handle only chord line", () => {
-    const result = parser.getChordLyricLine("Em C G D", "");
+  it("should handle a chord line with no following lyrics", () => {
+    const emptyLyricsArr = [undefined, "", " "];
     const expected = {
-      className: "line",
+      className: "chordLyricLine",
       chordLyricPairs: [
         {
           chord: "Em",
@@ -203,7 +203,15 @@ describe("getChordLyricLine", () => {
         },
       ],
     };
-    assert.deepEqual(result, expected);
+
+    emptyLyricsArr.forEach(emptyLyric => {
+      const result = parser.getChordLyricLine("Em C G D", emptyLyric);
+      assert.deepEqual(
+        result,
+        expected,
+        `Failed test for empty lyric ${emptyLyric}`
+      );
+    });
   });
 
   it("should handle only lyric line", () => {
