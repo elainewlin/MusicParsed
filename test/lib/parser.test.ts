@@ -180,30 +180,36 @@ describe("getChordLyricLine", () => {
     assert.deepEqual(result, expected);
   });
 
-  it("should handle only chord line", () => {
-    const result = parser.getChordLyricLine("Em C G D", "");
-    const expected = {
-      className: "line",
-      chordLyricPairs: [
-        {
-          chord: "Em",
-          lyric: " ",
-        },
-        {
-          chord: "C",
-          lyric: " ",
-        },
-        {
-          chord: "G",
-          lyric: " ",
-        },
-        {
-          chord: "D",
-          lyric: "",
-        },
-      ],
-    };
-    assert.deepEqual(result, expected);
+  const emptyLyricsArr = [undefined, "", " "];
+  emptyLyricsArr.forEach(emptyLyric => {
+    it(`should handle a chord line with no following lyrics - ${JSON.stringify(
+      emptyLyric
+    )}`, () => {
+      const expected = {
+        className: "chordLyricLine",
+        chordLyricPairs: [
+          {
+            chord: "Em",
+            lyric: " ",
+          },
+          {
+            chord: "C",
+            lyric: " ",
+          },
+          {
+            chord: "G",
+            lyric: " ",
+          },
+          {
+            chord: "D",
+            lyric: "",
+          },
+        ],
+      };
+
+      const result = parser.getChordLyricLine("Em C G D", emptyLyric);
+      assert.deepEqual(result, expected);
+    });
   });
 
   it("should handle only lyric line", () => {

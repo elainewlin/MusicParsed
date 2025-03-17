@@ -7,27 +7,27 @@
 
 {% block content %}
 <div class="container">
-  <h1 class="headingPrimary">Edit Songs</h1>
+  <h1 class="headingPrimary">Add or edit songs</h1>
   {% include "partials/flash_message.html" %}
 
   <div class="formGroup">
-    <label class="label">Song Title:</label>
-    <input type="text" id="title" class="form-control formField" placeholder="I'm Yours">
+    <label class="label">Song title:</label>
+    <input type="text" id="title" class="form-control formField" placeholder="Twinkle, twinkle little star">
   </div>
   <div class="formGroup">
     <label class="label">Artist:</label>
-    <input type="artist" id="artist" class="form-control formField" placeholder="Jason Mraz">
+    <input type="artist" id="artist" class="form-control formField" placeholder="Unknown">
   </div>
 
-  <label class="label">Add song chords:</label>
-  <textarea id="songText" class="tab tall-tab formField" placeholder="C G Am F"></textarea>
+  <label class="label">Add chords / lyrics for the song:</label>
+  <textarea id="songText" class="tab tall-tab formField" placeholder="C                F      C&#10;Twinkle, twinkle little star"></textarea>
 
   <div>
-    <button id="add" class="btn btn-outline-primary">Add Song</button>
-    <button id="edit" class="btn btn-outline-dark">Edit Song</button>
+    <button id="add" class="btn btn-outline-primary">Add new song</button>
+    <button id="edit" class="btn btn-outline-dark">Edit song</button>
   </div>
   <br />
   <br />
-  <button id="delete" class="btn btn-outline-danger">Delete</button>
+  <button id="delete" class="btn btn-outline-danger">Delete song</button>
 </div>
 {% endblock %}

@@ -19,10 +19,10 @@ const getVal = function(id: string): string {
 // Client-side validation for deleting songs
 const getBaseErrorMessage = function(input: SongInput): string {
   if (!input.title) {
-    return "Missing song title";
+    return "Please add a song title.";
   }
   if (!input.artist) {
-    return "Missing song artist";
+    return "Please add a song artist.";
   }
   return "";
 };
@@ -32,7 +32,7 @@ const getEditErrorMessage = function(input: SongInput): string {
   const message = getBaseErrorMessage(input);
   if (message) return message;
   if (!input.songText) {
-    return "Missing song text";
+    return "Please add chords / lyrics for the song.";
   }
   return "";
 };

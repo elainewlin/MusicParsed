@@ -49,11 +49,11 @@ export const isLyricLine = function(line: string): boolean {
 
 export const getChordLyricLine = function(
   chordString: string,
-  lyrics: string
+  lyrics?: string
 ): ChordLyricLine {
   let className = "line";
 
-  if (chordString.length > 0 && lyrics.length > 0) {
+  if (chordString.length > 0) {
     className = "chordLyricLine";
   }
 
@@ -75,15 +75,15 @@ export const getChordLyricLine = function(
   }
   const maxOffset = offsetChordPairs[offsetChordPairs.length - 1].offset;
 
-  lyrics = lyrics.padEnd(maxOffset);
-  offsetChordPairs.push({ offset: lyrics.length, chord: null });
+  const lyricLine = (lyrics || "").padEnd(maxOffset);
+  offsetChordPairs.push({ offset: lyricLine.length, chord: null });
 
   const chordLyricPairs: ChordLyricPair[] = [];
 
   for (let i = 0; i < offsetChordPairs.length - 1; i++) {
     const { offset: lastOffset, chord } = offsetChordPairs[i];
     const nextOffset = offsetChordPairs[i + 1].offset;
-    const lyric = lyrics.slice(lastOffset, nextOffset);
+    const lyric = lyricLine.slice(lastOffset, nextOffset);
     if (chord === null || /[^ ]/.test(lyric.slice(0, chord.length + 1))) {
       chordLyricPairs.push({ chord, lyric, overLyric: true });
     } else {
