@@ -1,14 +1,18 @@
 {% extends "partials/base.html" %}
 
+{% block title %}
+<title>Edit song tags | MusicParsed</title>
+{% endblock %}
+
 {% block script %}
 <link rel="stylesheet" href="{{ manifest['convert.css'] }}" />
 {% endblock %}
 
 {% block content %}
 <div class="container">
-  <h1 class="headingPrimary">Edit Tags</h1>
+  <h1 class="headingPrimary">Edit song tags</h1>
   <form action="/api/tag" method="post">
-    <label class="label">Tag Name:</label>
+    <label class="label">Tag name:</label>
     <input type="text" name="tag" class="form-control" placeholder="easy" />
     <br />
     <label class="label">Song IDs:</label>

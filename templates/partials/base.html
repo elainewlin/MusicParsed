@@ -14,7 +14,12 @@
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="author" content="Elaine Lin Music" />
+
+  {% block title %}
   <title>MusicParsed</title>
+  {% endblock %}
+
   <link rel="icon" href="/static/images/favicon.png">
   <link rel="stylesheet" href="{{ manifest['global.css'] }}" />
   {% block script %}

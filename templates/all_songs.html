@@ -1,5 +1,9 @@
 {% extends "partials/base.html" %}
 
+{% block title %}
+<title>All songs | MusicParsed</title>
+{% endblock %}
+
 {% block script %}
 <link rel="stylesheet" href="{{ manifest['showAllSongs.css'] }}" />
 <script src="{{ manifest['showAllSongs.js'] }}"></script>
@@ -11,7 +15,7 @@
 
 {% block content %}
 <div class="container">
-  <h1 class="headingPrimary">Songs</h1>
+  <h1 class="headingPrimary">All songs</h1>
   <div class="tagsContainer">
     <span class="tagsLabel">Filter by tag:</span>
     <span id="allTags"></span>
