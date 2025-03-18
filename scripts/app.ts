@@ -47,7 +47,7 @@ const mongoDbName = process.env.MONGO_DB_NAME || "musicparsed";
 })();
 
 const requireLogin = (req: Request, res: Response, next: NextFunction) => {
-  if (!req.isAuthenticated || !req.isAuthenticated()) {
+  if (!req.isAuthenticated()) {
     const queryString = qs.stringify({
       fromUrl: req.originalUrl,
     });
@@ -98,8 +98,8 @@ const loginStrategy = (username: string, password: string, cb: Function) => {
 };
 passport.use(new Strategy(loginStrategy));
 
-passport.serializeUser((user: User, cb: Function) => {
-  cb(null, user._id);
+passport.serializeUser((user: Express.User, cb: Function) => {
+  cb(null, (user as User)._id);
 });
 
 passport.deserializeUser((id: string, cb: Function) => {
@@ -395,14 +395,22 @@ app.get("/login", (req, res) => {
   if (fromUrl) {
     const queryString = qs.stringify({ fromUrl });
     formAction += `?${queryString}`;
-    req.flash("warnings", "You must log in to add/edit songs");
+    req.flash("warnings", "Please log in to add/edit songs.");
   }
   renderTemplate(req, res, "login", { formAction });
 });
 
-app.get("/logout", (req, res) => {
-  req.logout();
-  res.redirect("/");
+app.get("/logout", (req, res, next) => {
+  if (!req.isAuthenticated()) {
+    req.flash("warnings", "Please log in first.");
+    return res.redirect("/login");
+  }
+  req.logout(err => {
+    if (err) {
+      return next(err);
+    }
+    res.redirect("/");
+  });
 });
 
 app.get("/password", requireLogin, (req, res) => {
