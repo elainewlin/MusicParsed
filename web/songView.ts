@@ -1,6 +1,7 @@
 import "core-js/fn/array/flat-map";
 
 import $ from "jquery";
+import qs from "qs";
 import "jquery-ui/ui/widgets/autocomplete";
 import "jquery-ui/themes/base/all.css";
 import {
@@ -32,6 +33,8 @@ interface SongView {
   getCapo(): number;
   setCapo(newCapo: string): void;
   getFullSongName(): string;
+  getTitle(): string;
+  getArtist(): string;
   setSong(data: SongData): void;
   getId(): string;
   setId(newId: string): void;
@@ -78,7 +81,10 @@ export const songView: SongView = new ((function SongView(this: SongView) {
   let lines: RenderedLine[] = [];
   let allChords: string[] = [];
   let overrideAllChords: string[] | undefined = [];
+
   let fullSongName = "";
+  let title = "";
+  let artist = "";
 
   this.getChords = function() {
     return allChords;
@@ -102,12 +108,23 @@ export const songView: SongView = new ((function SongView(this: SongView) {
     return fullSongName;
   };
 
-  this.setSong = function(data) {
+  this.getTitle = function() {
+    return title;
+  };
+
+  this.getArtist = function() {
+    return artist;
+  };
+
+  this.setSong = function(data: SongData) {
     allChords = data.allChords;
     overrideAllChords = data.overrideAllChords;
     lines = data.lines;
     setCapo(data.capo);
+
     fullSongName = data.fullName;
+    title = data.title;
+    artist = data.artist;
   };
 
   let songId: string;
@@ -199,9 +216,15 @@ const renderCapo = function(): void {
 
 export const rerender = function(): void {
   const data = songView.getData();
+
   const fullName = songView.getFullSongName();
   document.title = `${fullName} Chords | MusicParsed`;
   $("#title").text(fullName);
+
+  const title = songView.getTitle();
+  const artist = songView.getArtist();
+  const queryString = qs.stringify({ title, artist });
+  $("#title").attr("href", `/song/edit?${queryString}`);
 
   document.getElementById("song")!.innerHTML = songTemplate({
     lines: data.lines,

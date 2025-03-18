@@ -2,6 +2,7 @@ import retry from "async-retry";
 import dotenv from "dotenv";
 import express, { Request, Response, NextFunction } from "express";
 import fs from "fs";
+import qs from "qs";
 import mongoose from "mongoose";
 import { get } from "lodash";
 import nunjucks from "nunjucks";
@@ -46,8 +47,11 @@ const mongoDbName = process.env.MONGO_DB_NAME || "musicparsed";
 })();
 
 const requireLogin = (req: Request, res: Response, next: NextFunction) => {
-  if (!req.isAuthenticated || !req.isAuthenticated()) {
-    return res.redirect(`/login?fromUrl=${req.originalUrl}`);
+  if (!req.isAuthenticated()) {
+    const queryString = qs.stringify({
+      fromUrl: req.originalUrl,
+    });
+    return res.redirect(`/login?${queryString}`);
   }
   next();
 };
@@ -94,8 +98,8 @@ const loginStrategy = (username: string, password: string, cb: Function) => {
 };
 passport.use(new Strategy(loginStrategy));
 
-passport.serializeUser((user: User, cb: Function) => {
-  cb(null, user._id);
+passport.serializeUser((user: Express.User, cb: Function) => {
+  cb(null, (user as User)._id);
 });
 
 passport.deserializeUser((id: string, cb: Function) => {
@@ -370,7 +374,11 @@ app.get("/song/:artist/:title", (req, res) =>
 );
 
 app.get("/song/edit", requireLogin, (req, res) => {
-  renderTemplate(req, res, "edit_songs");
+  const { title, artist } = req.query;
+  renderTemplate(req, res, "edit_songs", {
+    title,
+    artist,
+  });
 });
 
 app.get("/tag/edit", requireAdmin, (req, res) => {
@@ -385,15 +393,24 @@ app.get("/login", (req, res) => {
   let formAction = "/api/login";
   const { fromUrl } = req.query;
   if (fromUrl) {
-    formAction += `?fromUrl=${fromUrl}`;
-    req.flash("warnings", "You must log in to add/edit songs");
+    const queryString = qs.stringify({ fromUrl });
+    formAction += `?${queryString}`;
+    req.flash("warnings", "Please log in to add/edit songs.");
   }
   renderTemplate(req, res, "login", { formAction });
 });
 
-app.get("/logout", (req, res) => {
-  req.logout();
-  res.redirect("/");
+app.get("/logout", (req, res, next) => {
+  if (!req.isAuthenticated()) {
+    req.flash("warnings", "Please log in first.");
+    return res.redirect("/login");
+  }
+  req.logout(err => {
+    if (err) {
+      return next(err);
+    }
+    res.redirect("/");
+  });
 });
 
 app.get("/password", requireLogin, (req, res) => {
