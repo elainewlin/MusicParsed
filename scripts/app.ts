@@ -370,7 +370,11 @@ app.get("/song/:artist/:title", (req, res) =>
 );
 
 app.get("/song/edit", requireLogin, (req, res) => {
-  renderTemplate(req, res, "edit_songs");
+  const { title, artist } = req.query;
+  renderTemplate(req, res, "edit_songs", {
+    title,
+    artist,
+  });
 });
 
 app.get("/tag/edit", requireAdmin, (req, res) => {
