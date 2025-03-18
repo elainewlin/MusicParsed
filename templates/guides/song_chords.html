@@ -1,63 +1,91 @@
-{% extends "partials/base.html" %}
-
-{% block title %}
+{% extends "partials/base.html" %} {% block title %}
 <title>Understanding ukulele song chords | Elaine Lin Music</title>
-{% endblock %}
-
-{% block content %}
+{% endblock %} {% block content %}
 <div class="container textContainer">
   <h1 class="headingPrimary">Understanding ukulele song chords</h1>
   <p>
-    <strong>Song chords</strong> are a template for how to play a song. They show the chords and lyrics of the song,
-    and the positioning of the chords indicates when to transition from one chord to the next. I explain weird chords,
-    transposing, and capos to help you understand ukulele song chords.
+    <strong>Song chords</strong> are a template for how to play a song. They
+    show the chords and lyrics of the song, and the positioning of the chords
+    indicates when to transition from one chord to the next. I explain weird
+    chords, transposing, and capos to help you understand ukulele song chords.
   </p>
 
   <h3 class="headingTertiary">Weird chords</h3>
   <p>
-    The two basic types of chords are major and minor. We use the following notation for naming chords. Major chords
-    are a capital letter indicating the note name (ex: C). Minor chords are the note name followed by a lower case m
-    (ex: Am). There are 12 notes. Due to the naming convention in Western music, some notes have ♭ (flat) or ♯ (sharp)
-    in their name. For example, "B♭" is "B flat major" and "F♯m" is "F sharp minor".
+    The two basic types of chords are major and minor. We use the following
+    notation for naming chords. Major chords are a capital letter indicating the
+    note name (ex: C). Minor chords are the note name followed by a lower case m
+    (ex: Am). There are 12 notes. Due to the naming convention in Western music,
+    some notes have ♭ (flat) or ♯ (sharp) in their name. For example, "B♭" is "B
+    flat major" and "F♯m" is "F sharp minor".
   </p>
   <p>
-    You can add notes to basic chords to make them more complex. This results in chord names such as Cadd9 or Cm7. The
-    song will still sound okay if you ignore the additional complexity. Make sure to pay attention to whether the
-    chord is major or minor. For example, you can play C instead of Cadd9 and Cm instead of Cm7.
+    You can add notes to basic chords to make them more complex. This results in
+    chord names such as Cadd9 or Cm7. The song will still sound okay if you
+    ignore the additional complexity. Make sure to pay attention to whether the
+    chord is major or minor. For example, you can play C instead of Cadd9 and Cm
+    instead of Cm7.
   </p>
-  <p>You might also see a / in the chord name such as G/B. Just ignore the note after the slash. It’s the bass note.
+  <p>
+    You might also see a / in the chord name such as G/B. Just ignore the note
+    after the slash. It’s the bass note.
   </p>
   <h3 class="headingTertiary">Transposing</h3>
   <p>
-    When you look up song chords, you’ll often see a transpose feature. It's super useful. To
-    <strong>transpose</strong> means to play in a different key. This makes a song higher or lower to sing and
-    changes
-    the chords. For example, let's look at the <a href="/song/coldplay/viva_la_vida" target="_blank"
-      rel="noopener noreferrer">song chords for Viva la Vida</a>. At transpose 0, the chords are F, G, C, Am, and <a
-      href="https://www.youtube.com/watch?v=LspJkFSXtb8" target="_blank">here is my cover</a>. <a
-      href="https://www.youtube.com/watch?v=dvgZkm1xWPE">The original</a> is actually transpose -4, and the chords
-    are
-    D♭, E♭, A♭, Fm.
+    When you look up song chords, you’ll often see a transpose feature. It's
+    super useful. To
+    <strong>transpose</strong> means to play in a different key. This makes a
+    song higher or lower to sing and changes the chords. For example, let's look
+    at the
+    <a
+      href="/song/coldplay/viva_la_vida"
+      target="_blank"
+      rel="noopener noreferrer"
+      >song chords for Viva la Vida</a
+    >. At transpose 0, the chords are F, G, C, Am, and
+    <a href="https://www.youtube.com/watch?v=LspJkFSXtb8" target="_blank"
+      >here is my cover</a
+    >. <a href="https://www.youtube.com/watch?v=dvgZkm1xWPE">The original</a> is
+    actually transpose -4, and the chords are D♭, E♭, A♭, Fm.
   </p>
   <p>Here are some common use cases for transposing:</p>
   <ul>
-    <li>If a song is out of your vocal range, transposing a song makes it easier to sing.</li>
-    <li>If the chords are too hard on the ukulele, transposing a song makes it easier to play.</li>
-    <li>If you want to play along to a recording, you might have to transpose to get the right key.</li>
+    <li>
+      If a song is out of your vocal range, transposing a song makes it easier
+      to sing.
+    </li>
+    <li>
+      If the chords are too hard on the ukulele, transposing a song makes it
+      easier to play.
+    </li>
+    <li>
+      If you want to play along to a recording, you might have to transpose to
+      get the right key.
+    </li>
   </ul>
   <h3 class="headingTertiary">Capo</h3>
-  <p>You might also see "CAPO 1". A <strong>capo</strong> is a device you clamp onto your ukulele to shorten all
-    of
-    the strings. Capos allow you to use easy finger positions to play tricky chords. The number indicates which
-    fret
-    you should put the capo on.</p>
-  <p>Suppose a song has the chords Am, C, F, G and says capo 1, such as <a href="/song/shawn_mendes/stitches"
-      target="_blank" rel="noopener noreferrer">Stitches by Shawn Mendes</a>. If you have a capo, put the capo on
-    the
-    first fret. Pretend that the capo is the top of the ukulele, and play the chords relative to there. Because
-    the
-    capo keeps all of the strings shortened, you are actually playing A♯m, C♯, F♯, G♯.</p>
-  <p>Putting the capo on the first fret is the same as transposing by +1. If you don’t have a capo and you want to
-    play in the same key, you can just play the chords A♯m, C♯, F♯, G♯.</p>
+  <p>
+    You might also see "CAPO 1". A <strong>capo</strong> is a device you clamp
+    onto your ukulele to shorten all of the strings. Capos allow you to use easy
+    finger positions to play tricky chords. The number indicates which fret you
+    should put the capo on.
+  </p>
+  <p>
+    Suppose a song has the chords Am, C, F, G and says capo 1, such as
+    <a
+      href="/song/shawn_mendes/stitches"
+      target="_blank"
+      rel="noopener noreferrer"
+      >Stitches by Shawn Mendes</a
+    >. If you have a capo, put the capo on the first fret. Pretend that the capo
+    is the top of the ukulele, and play the chords relative to there. Because
+    the capo keeps all of the strings shortened, you are actually playing A♯m,
+    C♯, F♯, G♯.
+  </p>
+  <p>
+    Putting the capo on the first fret is the same as transposing by +1. If you
+    don’t have a capo and you want to play in the same key, you can just play
+    the chords A♯m, C♯, F♯, G♯.
+  </p>
 </div>
 {% endblock %}

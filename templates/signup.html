@@ -1,20 +1,32 @@
-{% extends "partials/base.html" %}
-
-{% block title %}
+{% extends "partials/base.html" %} {% block title %}
 <title>Sign up | MusicParsed</title>
-{% endblock %}
-
-{% block content %}
+{% endblock %} {% block content %}
 <div class="container formContainer">
   <h1 class="headingPrimary">Sign up</h1>
   {% include "partials/flash_message.html" %}
   <p>Create an account to add your own songs.</p>
   <form action="/api/signup" method="post">
     <label class="hidden">Username:</label>
-    <input type="text" name="username" class="form-control formField" placeholder="Username" required />
+    <input
+      type="text"
+      name="username"
+      class="form-control formField"
+      placeholder="Username"
+      required
+    />
     <label class="hidden">Password:</label>
-    <input type="password" name="password" class="form-control formField" placeholder="Password" required />
-    <input type="submit" class="btn btn-primary formButton" value="Create Account" />
+    <input
+      type="password"
+      name="password"
+      class="form-control formField"
+      placeholder="Password"
+      required
+    />
+    <input
+      type="submit"
+      class="btn btn-primary formButton"
+      value="Create Account"
+    />
   </form>
 </div>
 {% endblock %}

@@ -8,7 +8,8 @@
     "app": "node -r babel-register-ts scripts/app.ts",
     "test:unit": "mocha --extension ts --recursive -r babel-register-ts test/lib test/services",
     "test:e2e": "mocha --extension ts --recursive -r babel-register-ts test/e2e",
-    "parser": "node -r babel-register-ts scripts/parser-cli.ts"
+    "parser": "node -r babel-register-ts scripts/parser-cli.ts",
+    "pretty:html": "prettier '**/*.html' --write --prose-wrap preserve"
   },
   "repository": {
     "type": "git",
