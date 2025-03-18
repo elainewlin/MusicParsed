@@ -1,5 +1,9 @@
 {% extends "partials/base.html" %}
 
+{% block title %}
+<title>Convert tabs between ukulele and guitar | MusicParsed</title>
+{% endblock %}
+
 {% block script %}
 <link rel="stylesheet" href="{{ manifest['convert.css'] }}" />
 {% endblock %}
@@ -11,7 +15,7 @@
     vice versa.</p>
   <div class="row">
     <div class="col-8">
-      <div class="headingSecondary">Enter your <span class="fromInstrument">guitar</span> tab</div>
+      <h2 class="headingSecondary">Enter your <span class="fromInstrument">guitar</span> tab</div>
       <textarea class="tab input"
         placeholder="E|-------2-----&#10;B|-----3---3---&#10;G|---2-------2-&#10;D|-0-----------&#10;A|-------------&#10;E|-------------"></textarea>
       <div>
@@ -20,7 +24,7 @@
       </div>
     </div>
     <div class="col-4">
-      <div class="headingSecondary">Instruments</div>
+      <h2 class="headingSecondary">Instruments</h2>
       <div class="btn-group" data-toggle="buttons">
         <label class="btn btn-primary active " id="toUkulele">
           <input type="radio" checked hidden> To ukulele
@@ -33,7 +37,7 @@
   </div>
   <div class="row">
     <div class="col-8">
-      <div class="headingSecondary">Converted <span class="toInstrument">ukulele</span> tab</div>
+      <h2 class="headingSecondary">Converted <span class="toInstrument">ukulele</span> tab</div>
       <textarea class="tab converted"></textarea>
     </div>
   </div>

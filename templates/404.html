@@ -1,8 +1,12 @@
 {% extends "partials/base.html" %}
 
+{% block title %}
+<title>Page not found | MusicParsed</title>
+{% endblock %}
+
 {% block content %}
 <div class="container">
   <h1 class="headingPrimary">Sorry, we couldn't find that page</h1>
-  <img src="/static/images/error_cat.png" />
+  <img src="/static/images/error_cat.png" alt="Drawing of a cat tipping over a flower vase."/>
 </div>
 {% endblock %}

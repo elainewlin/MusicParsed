@@ -2,20 +2,35 @@
 <html id="songPage" data-title="{{title}}" data-artist="{{artist}}" data-transpose="{{transpose}}">
 
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>MusicParsed</title>
-<link rel="icon" href="/static/images/favicon.png">
-<link rel="stylesheet" href="{{ manifest['global.css'] }}" />
-{% block script %}
-<script src="{{ manifest['global.js'] }}"></script>
-{% endblock %}
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXG0HV1QJH"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-XXG0HV1QJH');
+  </script>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="author" content="Elaine Lin Music" />
+
+  {% block title %}
+  <title>MusicParsed</title>
+  {% endblock %}
+
+  <link rel="icon" href="/static/images/favicon.png">
+  <link rel="stylesheet" href="{{ manifest['global.css'] }}" />
+  {% block script %}
+  <script src="{{ manifest['global.js'] }}"></script>
+  {% endblock %}
 </head>
 
 <body>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <a class="navbar-brand" href="/">
-      <img src="/static/images/logo.svg" />MusicParsed
+      <img src="/static/images/logo.svg" alt="Logo of a stylized ukulele."/>MusicParsed
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -27,9 +42,6 @@
     </div>
   </nav>
   {% block content %}{% endblock %}
-  <footer>
-    {% include "partials/ga.html" %}
-  </footer>
 </body>
 
 </html>

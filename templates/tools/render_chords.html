@@ -1,5 +1,9 @@
 {% extends "partials/base.html" %}
 
+{% block title %}
+<title>Render chords for ukulele, baritone ukulele, guitar, or guitalele | MusicParsed</title>
+{% endblock %}
+
 {% block script %}
 <link rel="stylesheet" href="{{ manifest['index.css'] }}" />
 <script src="{{ manifest['renderChords.js'] }}"></script>
@@ -9,9 +13,9 @@
 <div class="container">
   <h1 class="headingPrimary">Render chords</h1>
   <p>
-    Generate chord diagrams for an instrument. This is helpful if you're making a chord chart. To name a chord given
-    its fretboard position, use the <a href="https://ukebuddy.com/chord-namer" target="_blank"
-      rel="noopener noreferrer">ukulele chord namer</a>.
+    Get chord diagrams for ukulele, baritone ukulele, guitar, or guitalele. This is helpful if you're making a chord chart. 
+    For the ukulele, you can use the <a href="https://ukebuddy.com/chord-namer" target="_blank"
+    rel="noopener noreferrer">ukulele chord namer</a> to name a chord given its fretboard fingering.
   </p>
   </p>
   <form class="form-inline">

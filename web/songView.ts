@@ -200,6 +200,7 @@ const renderCapo = function(): void {
 export const rerender = function(): void {
   const data = songView.getData();
   const fullName = songView.getFullSongName();
+  document.title = `${fullName} Chords | MusicParsed`;
   $("#title").text(fullName);
 
   document.getElementById("song")!.innerHTML = songTemplate({
