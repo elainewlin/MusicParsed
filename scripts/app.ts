@@ -2,6 +2,7 @@ import retry from "async-retry";
 import dotenv from "dotenv";
 import express, { Request, Response, NextFunction } from "express";
 import fs from "fs";
+import qs from "qs";
 import mongoose from "mongoose";
 import { get } from "lodash";
 import nunjucks from "nunjucks";
@@ -47,7 +48,10 @@ const mongoDbName = process.env.MONGO_DB_NAME || "musicparsed";
 
 const requireLogin = (req: Request, res: Response, next: NextFunction) => {
   if (!req.isAuthenticated || !req.isAuthenticated()) {
-    return res.redirect(`/login?fromUrl=${req.originalUrl}`);
+    const queryString = qs.stringify({
+      fromUrl: req.originalUrl,
+    });
+    return res.redirect(`/login?${queryString}`);
   }
   next();
 };
@@ -389,7 +393,8 @@ app.get("/login", (req, res) => {
   let formAction = "/api/login";
   const { fromUrl } = req.query;
   if (fromUrl) {
-    formAction += `?fromUrl=${fromUrl}`;
+    const queryString = qs.stringify({ fromUrl });
+    formAction += `?${queryString}`;
     req.flash("warnings", "You must log in to add/edit songs");
   }
   renderTemplate(req, res, "login", { formAction });
