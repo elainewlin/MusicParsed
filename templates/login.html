@@ -1,20 +1,31 @@
-{% extends "partials/base.html" %}
-
-{% block title %}
+{% extends "partials/base.html" %} {% block title %}
 <title>Log in | MusicParsed</title>
-{% endblock %}
-
-{% block content %}
+{% endblock %} {% block content %}
 <div class="container formContainer">
   <h1 class="headingPrimary">Log in</h1>
   {% include "partials/flash_message.html" %}
-  <p>Don't have an account? <a href="/signup">Sign up.</a> If you forgot your password, please contact <a
-      href="mailto:musicparsed@gmail.com">musicparsed@gmail.com</a>.</p>
+  <p>
+    Don't have an account? <a href="/signup">Sign up.</a> If you forgot your
+    password, please contact
+    <a href="mailto:musicparsed@gmail.com">musicparsed@gmail.com</a>.
+  </p>
   <form action="{{ formAction }}" method="post">
     <label class="hidden">Username:</label>
-    <input type="text" name="username" class="form-control formField" placeholder="Username" required />
+    <input
+      type="text"
+      name="username"
+      class="form-control formField"
+      placeholder="Username"
+      required
+    />
     <label class="hidden">Password:</label>
-    <input type="password" name="password" class="form-control formField" placeholder="Password" required />
+    <input
+      type="password"
+      name="password"
+      class="form-control formField"
+      placeholder="Password"
+      required
+    />
     <input type="submit" class="btn btn-primary formButton" value="Submit" />
   </form>
 </div>

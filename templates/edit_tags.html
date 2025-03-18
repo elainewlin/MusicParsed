@@ -1,14 +1,8 @@
-{% extends "partials/base.html" %}
-
-{% block title %}
+{% extends "partials/base.html" %} {% block title %}
 <title>Edit song tags | MusicParsed</title>
-{% endblock %}
-
-{% block script %}
+{% endblock %} {% block script %}
 <link rel="stylesheet" href="{{ manifest['convert.css'] }}" />
-{% endblock %}
-
-{% block content %}
+{% endblock %} {% block content %}
 <div class="container">
   <h1 class="headingPrimary">Edit song tags</h1>
   <form action="/api/tag" method="post">
@@ -16,7 +10,11 @@
     <input type="text" name="tag" class="form-control" placeholder="easy" />
     <br />
     <label class="label">Song IDs:</label>
-    <textarea name="song_ids" class="tab tall-tab" placeholder="Enter song IDs"></textarea>
+    <textarea
+      name="song_ids"
+      class="tab tall-tab"
+      placeholder="Enter song IDs"
+    ></textarea>
     <br />
     <input type="submit" class="btn btn-primary" value="Submit" />
   </form>

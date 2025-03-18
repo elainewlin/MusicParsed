@@ -1,30 +1,38 @@
-{% extends "partials/base.html" %}
-
-{% block title %}
+{% extends "partials/base.html" %} {% block title %}
 <title>Add or edit songs | MusicParsed</title>
-{% endblock %}
-
-{% block script %}
+{% endblock %} {% block script %}
 <link rel="stylesheet" href="{{ manifest['convert.css'] }}" />
 <script src="{{ manifest['editSongs.js'] }}"></script>
-{% endblock %}
-
-{% block content %}
+{% endblock %} {% block content %}
 <div class="container">
   <h1 class="headingPrimary">Add or edit songs</h1>
   {% include "partials/flash_message.html" %}
 
   <div class="formGroup">
     <label class="label">Song title:</label>
-    <input type="text" id="title" class="form-control formField" placeholder="Twinkle, twinkle little star">
+    <input
+      type="text"
+      id="title"
+      class="form-control formField"
+      placeholder="Twinkle, twinkle little star"
+    />
   </div>
   <div class="formGroup">
     <label class="label">Artist:</label>
-    <input type="artist" id="artist" class="form-control formField" placeholder="Unknown">
+    <input
+      type="artist"
+      id="artist"
+      class="form-control formField"
+      placeholder="Unknown"
+    />
   </div>
 
   <label class="label">Add chords / lyrics for the song:</label>
-  <textarea id="songText" class="tab tall-tab formField" placeholder="C                F      C&#10;Twinkle, twinkle little star"></textarea>
+  <textarea
+    id="songText"
+    class="tab tall-tab formField"
+    placeholder="C                F      C&#10;Twinkle, twinkle little star"
+  ></textarea>
 
   <div>
     <button id="add" class="btn btn-outline-primary">Add new song</button>

@@ -1,19 +1,10 @@
-{% extends "partials/base.html" %}
-
-{% block title %}
+{% extends "partials/base.html" %} {% block title %}
 <title>All songs | MusicParsed</title>
-{% endblock %}
-
-{% block script %}
+{% endblock %} {% block script %}
 <link rel="stylesheet" href="{{ manifest['showAllSongs.css'] }}" />
 <script src="{{ manifest['showAllSongs.js'] }}"></script>
-{% endblock %}
-
-{% block nav_widgets %}
-{% include "partials/nav_search.html" %}
-{% endblock %}
-
-{% block content %}
+{% endblock %} {% block nav_widgets %} {% include "partials/nav_search.html" %}
+{% endblock %} {% block content %}
 <div class="container">
   <h1 class="headingPrimary">All songs</h1>
   <div class="tagsContainer">
