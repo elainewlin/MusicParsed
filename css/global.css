@@ -122,19 +122,19 @@ pre {
 /* Text */
 
 .headingPrimary {
-  font-size: 32px;
+  font-size: 28px;
   font-weight: 600;
-  margin-bottom: 4px;
 }
 
 .headingSecondary {
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 600;
+}
+
+.songViewTitle {
   margin-bottom: 4px;
 }
 
 .headingTertiary {
-  font-size: 20px;
-  font-weight: 600;
-  margin-bottom: 4px;
+  font-size: 16px;
 }
