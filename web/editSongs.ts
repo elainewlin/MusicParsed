@@ -70,8 +70,14 @@ const getSongInput = function(): SongInput {
   };
 };
 
-const onSuccess = function(message: string) {
-  showSuccessAlert(message);
+const getSongLink = function(url?: string): string {
+  if (!url) return "";
+  return `<a href="${url}" class="alert-link" target="_blank">See it here.</a>`;
+};
+
+const onSuccess = function(data: { message: string; url?: string }) {
+  const songLink = getSongLink(data.url);
+  showSuccessAlert(`${data.message} ${songLink}`);
 };
 
 const onError = function(jqXHR: JQuery.jqXHR<string>) {

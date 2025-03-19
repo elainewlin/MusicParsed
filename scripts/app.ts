@@ -201,7 +201,10 @@ app.post("/api/song", requireLogin, createSongLimiter, async (req, res) => {
     userId,
   };
   await SongModel.create(newSong);
-  res.status(200).json(`Added song ${req.body.title}.`);
+  res.status(200).json({
+    message: `Added song: ${req.body.title}.`,
+    url: newSong.url,
+  });
 });
 
 app.put("/api/song/:songId", requireLogin, apiLimiter, async (req, res) => {
@@ -226,7 +229,10 @@ app.put("/api/song/:songId", requireLogin, apiLimiter, async (req, res) => {
     lastUpdatedAt: new Date(),
   };
   await SongModel.updateOne(query, { $set: updatedSong });
-  res.status(200).json(`Updated song ${req.body.title}.`);
+  res.status(200).json({
+    message: `Updated song: ${req.body.title}.`,
+    url: updatedSong.url,
+  });
 });
 
 app.delete("/api/song/:songId", requireLogin, async (req, res) => {
@@ -253,7 +259,9 @@ app.delete("/api/song/:songId", requireLogin, async (req, res) => {
   }
   await SongModel.deleteOne(query);
 
-  res.status(200).send("Deleted song.");
+  res.status(200).send({
+    message: "Deleted song.",
+  });
 });
 
 app.post("/api/tag", requireAdmin, apiLimiter, async (req, res) => {

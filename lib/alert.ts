@@ -13,7 +13,7 @@ const showAlert = function(msg: string, alertType: AlertType): void {
   }
   $(".alert").addClass(`alert-${alertType}`);
   $(".alert").show();
-  $(".alert-text").text(msg);
+  $(".alert-text").html(msg);
 };
 
 export const showErrorAlert = function(msg: string) {
@@ -30,5 +30,5 @@ export const showWarningAlert = function(msg: string) {
 
 export const hideAlert = function(): void {
   $(".alert").hide();
-  $(".alert-text").text();
+  $(".alert-text").html();
 };
