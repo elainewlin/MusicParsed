@@ -36,12 +36,14 @@
     placeholder="C                F      C&#10;Twinkle, twinkle little star"
   ></textarea>
 
-  <div>
-    <button id="add" class="btn btn-outline-primary">Add new song</button>
-    <button id="edit" class="btn btn-outline-dark">Edit song</button>
+  <div class="button-container">
+    <div class="edit-button-container">
+      <button id="add" class="btn btn-primary">Add new song</button>
+      <button id="edit" class="btn btn-secondary">Edit song</button>
+    </div>
+    <div>
+      <button id="delete" class="btn btn-danger">Delete song</button>
+    </div>
   </div>
-  <br />
-  <br />
-  <button id="delete" class="btn btn-outline-danger">Delete song</button>
 </div>
 {% endblock %}

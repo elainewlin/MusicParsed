@@ -187,13 +187,13 @@ app.get("/api/song/:songId", async (req, res) => {
 app.post("/api/song", requireLogin, createSongLimiter, async (req, res) => {
   const userId = get(req, "user._id");
   if (!userId) {
-    return res.json("No user ID found");
+    return res.status(401).json("No user ID found.");
   }
 
   const { songId } = req.body;
   const song = await SongModel.findOne({ songId });
   if (song) {
-    return res.json("Cannot add song that already exists");
+    return res.status(400).json("Cannot add a song that already exists.");
   }
 
   const newSong = {
@@ -201,13 +201,16 @@ app.post("/api/song", requireLogin, createSongLimiter, async (req, res) => {
     userId,
   };
   await SongModel.create(newSong);
-  res.send(`Added song ${req.body.title}`);
+  res.status(200).json({
+    message: `Added song: ${req.body.title}.`,
+    url: newSong.url,
+  });
 });
 
 app.put("/api/song/:songId", requireLogin, apiLimiter, async (req, res) => {
   const userId = get(req, "user._id");
   if (!userId) {
-    return res.json("No user ID found");
+    return res.status(401).json("No user ID found.");
   }
 
   const { songId } = req.params;
@@ -218,7 +221,7 @@ app.put("/api/song/:songId", requireLogin, apiLimiter, async (req, res) => {
   };
   const song = await SongModel.findOne(query);
   if (!song) {
-    return res.json("No song found");
+    return res.status(400).json("No song found.");
   }
   const updatedSong = {
     ...req.body,
@@ -226,13 +229,16 @@ app.put("/api/song/:songId", requireLogin, apiLimiter, async (req, res) => {
     lastUpdatedAt: new Date(),
   };
   await SongModel.updateOne(query, { $set: updatedSong });
-  res.send(`Updated song ${req.body.title}`);
+  res.status(200).json({
+    message: `Updated song: ${req.body.title}.`,
+    url: updatedSong.url,
+  });
 });
 
 app.delete("/api/song/:songId", requireLogin, async (req, res) => {
   const userId = get(req, "user._id");
   if (!userId) {
-    return res.json("No user ID found");
+    return res.status(401).json("No user ID found.");
   }
 
   const { songId } = req.params;
@@ -242,18 +248,20 @@ app.delete("/api/song/:songId", requireLogin, async (req, res) => {
   };
   const song = await SongModel.findOne(query);
   if (!song || !song.userId) {
-    return res.json("No song found");
+    return res.status(400).json("No song found.");
   }
 
   const doesOwnSong = song.userId.toString() === userId.toString();
   const canDelete = isAdmin(req.user) || doesOwnSong;
 
   if (!canDelete) {
-    return res.json("Cannot delete song for another user");
+    return res.json(401).json("Cannot delete a song for another user.");
   }
   await SongModel.deleteOne(query);
 
-  res.send("Deleted song");
+  res.status(200).send({
+    message: "Deleted song.",
+  });
 });
 
 app.post("/api/tag", requireAdmin, apiLimiter, async (req, res) => {
