@@ -28,7 +28,7 @@ import { changeUserPassword } from "../services/password";
 
 dotenv.config();
 const host = process.env.PORT ? undefined : "127.0.0.1";
-const port = +(process.env.PORT || 5000);
+const port = +(process.env.PORT || 3000);
 const baseUri = process.env.MONGO_URI || "mongodb://localhost:27017";
 const mongoDbName = process.env.MONGO_DB_NAME || "musicparsed";
 
