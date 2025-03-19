@@ -6,7 +6,7 @@ import $ from "jquery";
 import "bootstrap";
 import { getSongId, parseLines } from "../lib/parser";
 import { SongInput } from "../lib/song";
-import { AlertType, showAlert, hideAlert } from "../lib/alert";
+import { showSuccessAlert, showErrorAlert, hideAlert } from "../lib/alert";
 
 // Wrapper function for jQuery .val().
 const getVal = function(id: string): string {
@@ -52,7 +52,7 @@ const isValidInput = function(
 ): boolean {
   const errorMessage = errMsgGetter(input);
   if (errorMessage) {
-    showAlert(errorMessage, AlertType.DANGER);
+    showErrorAlert(errorMessage);
     return false;
   }
   return true;
@@ -71,11 +71,11 @@ const getSongInput = function(): SongInput {
 };
 
 const onSuccess = function(message: string) {
-  showAlert(message, AlertType.SUCCESS);
+  showSuccessAlert(message);
 };
 
 const onError = function(jqXHR: JQuery.jqXHR<string>) {
-  showAlert(jqXHR.responseJSON, AlertType.DANGER);
+  showErrorAlert(jqXHR.responseJSON);
 };
 
 $(() => {

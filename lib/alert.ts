@@ -1,13 +1,13 @@
 import $ from "jquery";
 
-export enum AlertType {
+enum AlertType {
   DANGER = "danger",
   SUCCESS = "success",
   WARNING = "warning",
 }
 
 // Helper function to show an alert.
-export const showAlert = function(msg: string, alertType: AlertType): void {
+const showAlert = function(msg: string, alertType: AlertType): void {
   for (const alertType of Object.values(AlertType)) {
     $(".alert").removeClass(`alert-${alertType}`);
   }
@@ -16,7 +16,19 @@ export const showAlert = function(msg: string, alertType: AlertType): void {
   $(".alert-text").text(msg);
 };
 
+export const showErrorAlert = function(msg: string) {
+  showAlert(msg, AlertType.DANGER);
+};
+
+export const showSuccessAlert = function(msg: string) {
+  showAlert(msg, AlertType.SUCCESS);
+};
+
+export const showWarningAlert = function(msg: string) {
+  showAlert(msg, AlertType.WARNING);
+};
+
 export const hideAlert = function(): void {
-  $(".alert").fadeOut();
+  $(".alert").hide();
   $(".alert-text").text();
 };
