@@ -6,17 +6,21 @@ import $ from "jquery";
 import "bootstrap";
 import { getSongId, parseLines } from "../lib/parser";
 import { SongInput } from "../lib/song";
+import { AlertType, showAlert, hideAlert } from "../lib/alert";
 
-/**
- * Wrapper function for jQuery .val()
- */
+// Wrapper function for jQuery .val().
 const getVal = function(id: string): string {
   let val = $(`#${id}`).val();
   val = val ? val : "";
   return val.toString();
 };
 
-// Client-side validation for deleting songs
+/**
+ * Client-side validation if the form is missing a title / artist.
+ * Used when deleting songs.
+ * @param input
+ * @returns error message
+ */
 const getBaseErrorMessage = function(input: SongInput): string {
   if (!input.title) {
     return "Please add a song title.";
@@ -27,7 +31,12 @@ const getBaseErrorMessage = function(input: SongInput): string {
   return "";
 };
 
-// Client-side validation for adding/editing songs
+/**
+ * Client-side validation if the form is missing chords / lyrics.
+ * Used when adding / editing songs.
+ * @param input
+ * @returns error message
+ */
 const getEditErrorMessage = function(input: SongInput): string {
   const message = getBaseErrorMessage(input);
   if (message) return message;
@@ -43,7 +52,7 @@ const isValidInput = function(
 ): boolean {
   const errorMessage = errMsgGetter(input);
   if (errorMessage) {
-    alert(errorMessage);
+    showAlert(errorMessage, AlertType.DANGER);
     return false;
   }
   return true;
@@ -61,7 +70,19 @@ const getSongInput = function(): SongInput {
   };
 };
 
+const onSuccess = function(message: string) {
+  showAlert(message, AlertType.SUCCESS);
+};
+
+const onError = function(jqXHR: JQuery.jqXHR<string>) {
+  showAlert(jqXHR.responseJSON, AlertType.DANGER);
+};
+
 $(() => {
+  $("input, textarea").on("input", () => {
+    hideAlert();
+  });
+
   $("#add").on("click", () => {
     const input = getSongInput();
     if (!isValidInput(input)) return;
@@ -72,9 +93,8 @@ $(() => {
       type: "POST",
       data: JSON.stringify(songData),
       contentType: "application/json",
-      success: function(input) {
-        alert(input);
-      },
+      success: onSuccess,
+      error: onError,
     });
   });
 
@@ -88,9 +108,8 @@ $(() => {
       type: "PUT",
       data: JSON.stringify(songData),
       contentType: "application/json",
-      success: function(input) {
-        alert(input);
-      },
+      success: onSuccess,
+      error: onError,
     });
   });
 
@@ -106,9 +125,8 @@ $(() => {
     $.ajax({
       url: `/api/song/${songId}`,
       type: "DELETE",
-      success: function(input) {
-        alert(input);
-      },
+      success: onSuccess,
+      error: onError,
     });
   });
 });

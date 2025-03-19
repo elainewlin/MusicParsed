@@ -1,13 +1,17 @@
-{% if errors and errors.length %}
-<div class="alert alert-danger" role="alert">
-  {{ errors[0] }}
+{% for type, messages in {'danger': errors, 'success': messages, 'warning':
+warnings} %} {% if messages and messages.length %}
+<div class="alert alert-dismissable alert-{{ type }}" role="alert">
+  <span class="alert-text">
+    {{ messages[0] }}
+  </span>
+  <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+    <span aria-hidden="true">&times;</span>
+  </button>
 </div>
-{% endif %} {% if messages and messages.length %}
-<div class="alert alert-success" role="alert">
-  {{ messages[0] }}
+{% endif %} {% endfor %}
+<div class="alert alert-dismissable hidden" role="alert">
+  <span class="alert-text"></span>
+  <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+    <span aria-hidden="true">&times;</span>
+  </button>
 </div>
-{% endif %} {% if warnings and warnings.length %}
-<div class="alert alert-warning" role="alert">
-  {{ warnings[0] }}
-</div>
-{% endif %}
