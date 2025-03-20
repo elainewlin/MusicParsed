@@ -1,0 +1,623 @@
+{
+  "allChords": [
+    "G",
+    "Em",
+    "Am7",
+    "D7",
+    "C",
+    "F#m7b5",
+    "B7",
+    "G7",
+    "F9",
+    "C#dim7",
+    "F#7",
+    "Bm7",
+    "E7",
+    "Em7",
+    "C13",
+    "C7",
+    "Cm6"
+  ],
+  "artist": "Audrey Hepburn",
+  "fullName": "Moon River - Audrey Hepburn",
+  "id": "moon_river - audrey_hepburn",
+  "lines": [
+    {
+      "label": "[Intro]"
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "Em",
+          "lyric": " "
+        },
+        {
+          "chord": "Am7",
+          "lyric": " "
+        },
+        {
+          "chord": "D7",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "label": "[Verse 1]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": "Moon ri",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ver,",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " wider than a m",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "ile",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I'm cros",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "sing you in st",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "yle some",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m7b5",
+          "lyric": "day    ",
+          "overLyric": true
+        },
+        {
+          "chord": "B7",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh, d",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ream m",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "aker, you h",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "eart br",
+          "overLyric": true
+        },
+        {
+          "chord": "F9",
+          "lyric": "eaker",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Whe",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "rever you're ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#dim7",
+          "lyric": "go ing,",
+          "overLyric": true
+        },
+        {
+          "chord": "F#7",
+          "lyric": "   I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm7",
+          "lyric": "goin",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "g your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "way ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "label": "[Verse 2]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "T",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "wo dr",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ifters,",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " off to see the w",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "orld,",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "There's s",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "uch a lot of w",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "orld to ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m7b5",
+          "lyric": "see    ",
+          "overLyric": true
+        },
+        {
+          "chord": "B7",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We're ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "aft",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7/D",
+          "lyric": "er   the ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em/C#",
+          "lyric": "same  ",
+          "overLyric": true
+        },
+        {
+          "chord": "C13",
+          "lyric": "rainb",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "ow's e",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "nd,",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Wa",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "iting ‘round the b",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "end",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "My hu",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ckleberry fr",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "iend, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "moon ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "river ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "  and me",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "[Instrumental]"
+    },
+    {
+      "className": "line",
+      "chordLyricPairs": [
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "Em",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "C",
+          "lyric": " "
+        },
+        {
+          "chord": "G",
+          "lyric": " "
+        },
+        {
+          "chord": "F#m7b5",
+          "lyric": " "
+        },
+        {
+          "chord": "B7",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "label": "[Bridge]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Oh, d",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "ream m",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "aker, you h",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "eart br",
+          "overLyric": true
+        },
+        {
+          "chord": "F9",
+          "lyric": "eaker",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Whe",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "rever you're ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#dim7",
+          "lyric": "go ing,",
+          "overLyric": true
+        },
+        {
+          "chord": "F#7",
+          "lyric": "   I'm ",
+          "overLyric": true
+        },
+        {
+          "chord": "Bm7",
+          "lyric": "goin",
+          "overLyric": true
+        },
+        {
+          "chord": "E7",
+          "lyric": "g your ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "way ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "label": "[Verse 3]"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "T",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "wo dri",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "fters,",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": " off to see the w",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "orld,",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "There's s",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "uch a lot of w",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "orld to ",
+          "overLyric": true
+        },
+        {
+          "chord": "F#m7b5",
+          "lyric": "see    ",
+          "overLyric": true
+        },
+        {
+          "chord": "B7",
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "We're ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "aft",
+          "overLyric": true
+        },
+        {
+          "chord": "Em7/D",
+          "lyric": "er  the ",
+          "overLyric": true
+        },
+        {
+          "chord": "C#dim7",
+          "lyric": "same   ",
+          "overLyric": true
+        },
+        {
+          "chord": "C13",
+          "lyric": "rainbo",
+          "overLyric": true
+        },
+        {
+          "chord": "C7",
+          "lyric": "w's e",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "nd,",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Wa",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "iting ‘round the b",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "end",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "My hu",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "ckleberry fr",
+          "overLyric": true
+        },
+        {
+          "chord": "G",
+          "lyric": "iend, ",
+          "overLyric": true
+        },
+        {
+          "chord": "Em",
+          "lyric": "moon r",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "iver ",
+          "overLyric": true
+        },
+        {
+          "chord": "D7",
+          "lyric": "  and ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "me",
+          "overLyric": true
+        },
+        {
+          "chord": "Cm6",
+          "lyric": ".",
+          "overLyric": true
+        }
+      ]
+    }
+  ],
+  "title": "Moon River"
+}
