@@ -1,5 +1,9 @@
 # MusicParsed
 
+## Development
+
+### Local server / frontend
+
 Start local server:
 
     yarn
@@ -9,13 +13,26 @@ Watch for frontend changes:
 
     yarn watch
 
-Seed local Mongo DB:
+### Database
+
+MusicParsed uses MongoDB.
+
+Seed local DB from `static/data/` files:
 
     make seed
 
-Start local Mongo DB:
+Backup prod DB + seed local DB from prod:
+
+    make prod-backup
+    make prod-restore
+
+Start local DB:
 
     mongod
+
+### Pre-commit hooks
+
+MusicParsed uses pre-commit hooks, Typescript, eslint, and prettier.
 
 Useful commands:
 
@@ -27,39 +44,33 @@ Useful commands:
 
     tsc
     eslint . --ext ts,js --fix
-    node -r babel-register-ts scripts/parser-cli.ts
 
-Deploy:
+### Tests
+
+    npm run test:unit
+    npm run test:e2e
+
+### Deploy
 
     heroku login
     heroku git:remote -a musicparsed
     git push heroku master
 
-Validate git remotes:
+To troubleshoot, validate git remotes:
 
     git remote -v
 
-Run tests:
+Codebase documentation:
 
-    npm run test:unit
-    npm run test:e2e
+- MusicParsed uses Mustache templates.
 
-Template documentation
-
-- Use Mustache for rendering HTML templates from JSON files
-
-- Structure of JSON file
-
-  - title: string with title of the song
-  - artist: string with the artist of the song
-  - allChords: array of strings of all chords in the song ex: ["Am", "F", "C", "G"]
-  - lines: array of JSON objects for each chord-lyric pair in the song
-    - count: id of the pair, used for jQuery selectors
-    - chord: string with the chords + white spaces
-    - lyrics: string with the lyrics
-    - label: string with label of the section i.e. "Chorus", "Verse 1"
-
-- parser-cli (`yarn parser`) makes it easy to generate the JSON files
+- See `lib/song.ts` for the structure of songs. The main song data is:
+  - title: string with title of the song.
+  - artist: string with the artist of the song.
+  - allChords: array of strings of all chords in the song ex: ["Am", "F", "C", "G"].
+  - lines: array of objects for each chord-lyric pair in the song. Each line is either:
+    - { label: string } - label of the section i.e. "Chorus", "Verse 1"
+    - ChordLyricLine - object representing the chords and corresponding lyrics
 
 Magic rendering logic:
 

@@ -13,6 +13,7 @@ const songSchema = new mongoose.Schema({
   url: { type: String, required: true },
   tagIds: [ObjectId],
   userId: { type: ObjectId, required: true, index: true },
+  // Tracks when a song was created or last updated.
   lastUpdatedAt: { type: Date, default: Date.now },
 });
 
