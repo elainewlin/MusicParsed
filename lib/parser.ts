@@ -53,7 +53,8 @@ export const getChordLyricLine = function(
 ): ChordLyricLine {
   let className = "line";
 
-  if (chordString.length > 0) {
+  const hasLyrics = lyrics && lyrics.trim().length > 0;
+  if (chordString.length > 0 && hasLyrics) {
     className = "chordLyricLine";
   }
 
