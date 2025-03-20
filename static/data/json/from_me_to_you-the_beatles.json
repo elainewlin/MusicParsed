@@ -1,0 +1,581 @@
+{
+  "allChords": [
+    "C",
+    "Am",
+    "G7",
+    "F7",
+    "Gm7",
+    "F",
+    "Am7",
+    "D",
+    "Csus4"
+  ],
+  "artist": "The Beatles",
+  "fullName": "From Me to You - The Beatles",
+  "songId": "from_me_to_you-the_beatles",
+  "lines": [
+    {
+      "label": "Verse 1:"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Da da da da da ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "dum dum da",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "Da da da da da ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "dum dum da",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "If there's anything that you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "want,",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "If there's ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "anything I can ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "do,",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Just ",
+          "overLyric": true
+        },
+        {
+          "chord": "F7",
+          "lyric": "call on me and I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "send it along with ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "love from ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "me to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "I got everything that you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "want,",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Like a ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "heart that's oh, so ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "true,",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Just ",
+          "overLyric": true
+        },
+        {
+          "chord": "F7",
+          "lyric": "call on me and I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "send it along with ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "love from ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "me to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "label": "Bridge:"
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I got ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm7",
+          "lyric": "arms that long to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hold you",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "keep you by my side.",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I got ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "lips that long to ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "kiss you",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "keep you satis",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "fied",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "If there's anything that you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "want,",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "If there's ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "anything I can ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "do,",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Just ",
+          "overLyric": true
+        },
+        {
+          "chord": "F7",
+          "lyric": "call on me and I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "send it along with ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "love from ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "me to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "G7",
+          "lyric": "From me",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "To you",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Just ",
+          "overLyric": true
+        },
+        {
+          "chord": "F7",
+          "lyric": "call on me and I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "send it along",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "With ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "love from ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "me to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "you.",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I got ",
+          "overLyric": true
+        },
+        {
+          "chord": "Gm7",
+          "lyric": "arms that long to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "hold you",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "and ",
+          "overLyric": true
+        },
+        {
+          "chord": "F",
+          "lyric": "keep you by my side.",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "I got ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am7",
+          "lyric": "lips that long to ",
+          "overLyric": true
+        },
+        {
+          "chord": "D",
+          "lyric": "kiss you",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "And ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "keep you satis",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "fied",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "C",
+          "lyric": "If there's anything that you ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "want,",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "If there's ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "anything I can ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "do,",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": null,
+          "lyric": "Just ",
+          "overLyric": true
+        },
+        {
+          "chord": "F7",
+          "lyric": "call on me and I'll ",
+          "overLyric": true
+        },
+        {
+          "chord": "Am",
+          "lyric": "send it along with ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "love from ",
+          "overLyric": true
+        },
+        {
+          "chord": "G7",
+          "lyric": "me to ",
+          "overLyric": true
+        },
+        {
+          "chord": "C",
+          "lyric": "you",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Csus4",
+          "lyric": "To you",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Csus4",
+          "lyric": "To you",
+          "overLyric": true
+        }
+      ]
+    },
+    {
+      "className": "chordLyricLine",
+      "chordLyricPairs": [
+        {
+          "chord": "Csus4",
+          "lyric": "To you",
+          "overLyric": true
+        }
+      ]
+    }
+  ],
+  "title": "From Me to You",
+  "url": "/song/the_beatles/from_me_to_you"
+}
