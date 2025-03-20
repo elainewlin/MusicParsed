@@ -186,7 +186,7 @@ describe("getChordLyricLine", () => {
       emptyLyric
     )}`, () => {
       const expected = {
-        className: "chordLyricLine",
+        className: "line",
         chordLyricPairs: [
           {
             chord: "Em",
