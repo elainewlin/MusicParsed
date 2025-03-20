@@ -5,7 +5,7 @@ seed:
 	@mongoimport --db=musicparsed --collection=songs --drop --jsonArray < static/data/ALL_SONGS_DATA.json
 
 prod-backup:
-	@mongodump --uri="$(MONGO_URI_PROD)" -o backup_$(shell date "+%Y-%m-%d")
+	@mongodump --uri="$(MONGO_URI_PROD)" -o backup_"+%Y-%m-%d"
 
 prod-restore:
-	@mongorestore backup_$(shell date "+%Y-%m-%d") --drop
+	@mongorestore backup_"+%Y-%m-%d" --drop
